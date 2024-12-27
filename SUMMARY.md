@@ -123,10 +123,7 @@
   * [2️⃣ XTO -> Gold](xto-token/xto-swap-service/xto-greater-than-gold.md)
   * [☠️ Abundance and Famine](xto-token/xto-swap-service/abundance-and-famine.md)
 * [🎁 XTO Holding Service](xto-token/xto-holding-service/README.md)
-  * [📁 Purchase Tickets](xto-token/xto-holding-service/purchase-tickets.md)
-  * [📁 Hold Tickets](xto-token/xto-holding-service/hold-tickets.md)
-  * [📁 Swap Tickets](xto-token/xto-holding-service/swap-tickets.md)
-  * [📁 Rewards List](xto-token/xto-holding-service/rewards-list.md)
+  * [🍓 X Points Earning Rate](xto-token/xto-holding-service/x-points-earning-rate.md)
 * [🏦 Gold Safe Service](xto-token/gold-safe-service.md)
 
 ## 📦 Item Info

@@ -15,8 +15,6 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% hint style="info" %}
 ❓ **1 X Point** is accumulated per week for every **1,000 XTO held.**
-
-❓티켓 환전 시 골드 수수료가 소비됩니다. 1000 XTO 당 100만 골드의 수수료가 소비됩니다.
 {% endhint %}
 
 ### ✅How to Access the Holding Menu
