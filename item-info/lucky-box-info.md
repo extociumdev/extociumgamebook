@@ -8,7 +8,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 * 🍄[Red Lucky Box](lucky-box-info.md#red-lucky-box)
 * 🍄[Blue Lucky Box](lucky-box-info.md#blue-lucky-box)
-* [🍄Red Lucky Box - Exclusive for 100,000 Holders](lucky-box-info.md#red-lucky-box-exclusive-for-100-000-holders)
+
+
 
 ## 🍄Red Lucky Box
 
@@ -76,26 +77,5 @@ description: 🛑 This information may be updated later than the game server dat
 | Adventurer's MP potion  | 5         | 10        | 10         |
 | God's Breath            | 1         | 1         | 0.01       |
 
-## 🍄Red Lucky Box - Exclusive for 100,000 Holders
+##
 
-<figure><img src="../.gitbook/assets/Item_900041.png" alt=""><figcaption></figcaption></figure>
-
-💡**This item is exclusive for 100,000 XTO holders. One of the items inside the box will be randomly awarded based on probability.**
-
-> 이 아이템은 10만 XTO 홀더 전용 아이템 입니다. 상자 안에 든 상품 중 1종이 확률에 의해 루팅됩니다.
->
-> このアイテムは10万XTOホルダー専用のアイテムです。ボックスの中の商品の1種類が確率によってルーティングされます。
-
-|                               |          |           |            |
-| ----------------------------- | -------- | --------- | ---------- |
-| **Item**                      | **min**  |  **max**  |  **prob**  |
-| Mystic stone                  | 1        | 1         | 1          |
-| Hell's Crystal                | 1        | 1         | 9          |
-| God's Breath                  | 1        | 1         | 10         |
-| Equipment Trading Pass        | 1        | 1         | 10         |
-| Item Trading Pass             | 1        | 1         | 10         |
-| PK Shield                     | 1        | 1         | 10         |
-| Town Return Scroll            | 1        | 1         | 10         |
-| Lv.50 Samgata 3 hour \[Solo]  | 1        | 1         | 15         |
-| Lv.50 Samgata 3 hour \[Party] | 1        | 1         | 15         |
-| Extocium                      | 5        | 10        | 10         |
