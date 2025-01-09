@@ -37,12 +37,12 @@ XTO 티켓을 구매하여 더 많은 X 포인트를 얻고, XTO 홀딩 캡 없�
 
 ## 🍓 **X Points Earning Rate**
 
-|                      |                |              |
-| -------------------- | -------------- | ------------ |
-| **Category**         | **Unit (per)** | **X Points** |
-| XTO Holding (1 week) | 1,000          | 5            |
-| Gem Usage            | 110            | 1            |
-| BNB Usage            | 0.00141        | 1            |
-| XTO Usage            | 120            | 1            |
-| Gold Usage           | 500,000        | 1            |
+|                                                                        |                |              |
+| ---------------------------------------------------------------------- | -------------- | ------------ |
+| **Category**                                                           | **Unit (per)** | **X Points** |
+| <p>XTO Holding (1 week) - <br>[In-Game XTO Ticket Purchase Method]</p> | 1,000          | 5            |
+| Gem Usage                                                              | 110            | 1            |
+| BNB Usage                                                              | 0.00141        | 1            |
+| XTO Usage                                                              | 120            | 1            |
+| Gold Usage                                                             | 500,000        | 1            |
 
