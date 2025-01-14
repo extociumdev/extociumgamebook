@@ -58,7 +58,7 @@ Arena matches are held every day at the following times (based on KST):&#x20;
 
 {% tabs %}
 {% tab title="ENG" %}
-* In the arena, each match has a time limit of 3 minutes. You cannot use food or potions during arena battles.&#x20;
+* In the arena, each match is limited to three minutes. You may not consume any food, but you are permitted to use up to five potions.&#x20;
 * If an opponent is matched, one of the 4 arena maps will be randomly selected for the match to take place.
 * When using skills in the arena, the amount of MP consumed is reduced by 40%.&#x20;
 * In a 2-player arena match, the game ends if one player is defeated.&#x20;
@@ -68,7 +68,7 @@ Arena matches are held every day at the following times (based on KST):&#x20;
 {% endtab %}
 
 {% tab title="한국어" %}
-* 아레나의 경기 제한 시간은 3분 입니다. 아레나에서는 음식 및 포션을 사용할 수 없습니다.&#x20;
+* 아레나에서 각 경기는 3분의 제한 시간이 있으며, 음식은 사용할 수 없지만 포션은 최대 5개까지 사용할 수 있습니다.
 * 상대가 매칭 되었을 경우, 4종의 아레나 맵 중 1종이 랜덤하게 선택되어 경기가 진행됩니다.
 * 아레나에서는 스킬 사용 시 소모되는 MP의 양이 40% 감소합니다.&#x20;
 * 아레나는 2인 중 1인이 사망하면 경기가 종료됩니다.&#x20;
@@ -78,7 +78,7 @@ Arena matches are held every day at the following times (based on KST):&#x20;
 {% endtab %}
 
 {% tab title="日本語" %}
-* アリーナの試合制限時間は3分です。 アリーナでは食べ物やポーションはご利用いただけません。
+* アリーナでは各試合の制限時間は3分で、食べ物の使用はできませんが、ポーションは5個まで使用可能です。
 * 対戦相手がマッチングされた場合、4種類のアリーナマップの1つがランダムに選択され、試合が行われます。
 * アリーナでは、スキル使用時に消費されるMPの量が 40% 減少します。&#x20;
 * アリーナは2人に1人が死亡すると試合が終了します。
