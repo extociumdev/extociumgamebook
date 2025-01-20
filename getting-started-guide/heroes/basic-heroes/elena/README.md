@@ -6,8 +6,8 @@
 
 ![](../../../../.gitbook/assets/Icon_Property_Force.png) 💡[**Compatibility : Force**](../../stats/elemental-bonus-damage.md)
 
-{% content-ref url="skill-fool-elena/" %}
-[skill-fool-elena](skill-fool-elena/)
+{% content-ref url="skill-pool-elena/" %}
+[skill-pool-elena](skill-pool-elena/)
 {% endcontent-ref %}
 
 {% tabs %}

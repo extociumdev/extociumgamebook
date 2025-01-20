@@ -4,8 +4,8 @@
 
 ![](../../../../.gitbook/assets/Icon_Property_Stone.png)💡[**Compatibility : S**](../../stats/elemental-bonus-damage.md)[**tone**](../../stats/elemental-bonus-damage.md)
 
-{% content-ref url="skill-fool-aristo.md" %}
-[skill-fool-aristo.md](skill-fool-aristo.md)
+{% content-ref url="skill-pool-aristo.md" %}
+[skill-pool-aristo.md](skill-pool-aristo.md)
 {% endcontent-ref %}
 
 {% tabs %}

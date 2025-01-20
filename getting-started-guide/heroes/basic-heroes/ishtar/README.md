@@ -4,8 +4,8 @@
 
 ![](../../../../.gitbook/assets/Icon_Property_Light.png)💡[**Compatibility : L**](../../stats/elemental-bonus-damage.md)[**ight**](../../stats/elemental-bonus-damage.md)
 
-{% content-ref url="skill-fool-ishtar.md" %}
-[skill-fool-ishtar.md](skill-fool-ishtar.md)
+{% content-ref url="skill-pool-ishtar.md" %}
+[skill-pool-ishtar.md](skill-pool-ishtar.md)
 {% endcontent-ref %}
 
 {% tabs %}

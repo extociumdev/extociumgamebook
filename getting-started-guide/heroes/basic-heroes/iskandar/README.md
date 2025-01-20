@@ -4,8 +4,8 @@
 
 ![](../../../../.gitbook/assets/Icon_Property_Fire.png)💡[**Compatibility : F**](../../stats/elemental-bonus-damage.md)[**ire**](../../stats/elemental-bonus-damage.md)
 
-{% content-ref url="skill-fool-iskandar.md" %}
-[skill-fool-iskandar.md](skill-fool-iskandar.md)
+{% content-ref url="skill-pool-iskandar.md" %}
+[skill-pool-iskandar.md](skill-pool-iskandar.md)
 {% endcontent-ref %}
 
 {% tabs %}

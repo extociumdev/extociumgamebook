@@ -4,8 +4,8 @@
 
 ![](../../../../.gitbook/assets/Icon_Property_Water.png)💡[**Compatibility : W**](../../stats/elemental-bonus-damage.md)[**ater**](../../stats/elemental-bonus-damage.md)
 
-{% content-ref url="skill-fool-tiamat.md" %}
-[skill-fool-tiamat.md](skill-fool-tiamat.md)
+{% content-ref url="skill-pool-tiamat.md" %}
+[skill-pool-tiamat.md](skill-pool-tiamat.md)
 {% endcontent-ref %}
 
 {% tabs %}

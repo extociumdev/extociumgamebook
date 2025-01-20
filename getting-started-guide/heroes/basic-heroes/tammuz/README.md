@@ -4,8 +4,8 @@
 
 ![](../../../../.gitbook/assets/Icon_Property_Leaf.png)💡[**Compatibility :** ](../../stats/elemental-bonus-damage.md)[**Leaf**](../../stats/elemental-bonus-damage.md)
 
-{% content-ref url="skill-fool-tammuz.md" %}
-[skill-fool-tammuz.md](skill-fool-tammuz.md)
+{% content-ref url="skill-pool-tammuz.md" %}
+[skill-pool-tammuz.md](skill-pool-tammuz.md)
 {% endcontent-ref %}
 
 {% tabs %}

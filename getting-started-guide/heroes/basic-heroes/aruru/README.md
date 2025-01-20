@@ -4,8 +4,8 @@
 
 ![](../../../../.gitbook/assets/Icon_Property_Dark.png)💡[**Compatibility :** ](../../stats/elemental-bonus-damage.md)[**Dark**](../../stats/elemental-bonus-damage.md)
 
-{% content-ref url="skill-fool-aruru.md" %}
-[skill-fool-aruru.md](skill-fool-aruru.md)
+{% content-ref url="skill-pool-aruru.md" %}
+[skill-pool-aruru.md](skill-pool-aruru.md)
 {% endcontent-ref %}
 
 {% tabs %}
