@@ -60,7 +60,7 @@
   * [⚔️ Weapon](getting-started-guide/equipment/weapon/README.md)
     * [✨ Weapon Stats](getting-started-guide/equipment/weapon/weapon-stats.md)
     * [🔥 Weapon Skill Info](getting-started-guide/equipment/weapon/weapon-skill-info/README.md)
-      * [🔥 Skill fool - Weapon](getting-started-guide/equipment/weapon/weapon-skill-info/skill-fool-weapon.md)
+      * [🔥 Skill pool - Weapon](getting-started-guide/equipment/weapon/weapon-skill-info/skill-pool-weapon.md)
       * [10/24 update note - weapon](getting-started-guide/equipment/weapon/weapon-skill-info/10-24-update-note-weapon.md)
       * [10/24 update note - Party](getting-started-guide/equipment/weapon/weapon-skill-info/10-24-update-note-party.md)
     * [🐋 Register a Weapon to the Market](getting-started-guide/equipment/weapon/register-a-weapon-to-the-market.md)
