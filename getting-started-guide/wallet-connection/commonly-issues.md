@@ -9,7 +9,10 @@
 [❓ App crash when connecting the wallet ](commonly-issues.md#app-crash-when-connecting-the-wallet)\
 [❓ Response delay ](commonly-issues.md#response-delay)\
 [❓ Transaction approval failure ](commonly-issues.md#transaction-approval-failure)\
-[❓ Force setting Gas Fee ](commonly-issues.md#force-setting-gas-fee)
+[❓ Force setting Gas Fee ](commonly-issues.md#force-setting-gas-fee)\
+❓ [NFT purchase not reflected in the game](commonly-issues.md#nft-purchase-not-reflected-in-the-game)
+
+
 
 #### ❓Connecting the wallet on iOS
 
@@ -73,6 +76,16 @@
 >
 > 👉 In most cases of Gas fee errors, the checked part will be set to 1 GWEI. \
 > 👉 Change this value to 3 GWEI or higher, then press the Save button.
+
+#### ❓ NFT purchase not reflected in the game
+
+> Even if you have completed the NFT transaction and become the owner on the blockchain, there may be instances where the game database is not updated. \
+> If your purchased NFT does not appear in the game, please send your NFT ID and approximate transaction time to **extocium@extocium.com**. \
+> We will verify the details and update the ownership in the game database.
+
+
+
+
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -83,7 +96,10 @@
 [❓지갑 연결 시 크래시 현상](commonly-issues.md#undefined-3)\
 [❓응답 지연 현상](commonly-issues.md#undefined-4)\
 [❓거래 승인이 되지 않는 현상](commonly-issues.md#undefined-5)\
-[❓Gas Fee 강제 설정하기](commonly-issues.md#gas-fee)
+[❓Gas Fee 강제 설정하기](commonly-issues.md#gas-fee)\
+❓[NFT 구매 후 게임에 반영되지 않는 경우](commonly-issues.md#nft)
+
+
 
 #### ❓IOS에서 지갑 연결하기
 
@@ -149,6 +165,13 @@
 >
 > 👉대부분의 Gas fee오류의 경우, 위 이미지에 체크된 부분이 1 GWEI로 설정되어 있을 것입니다.\
 > 👉이 값을 3 GWEI 혹은 그 이상으로 변경해주신 후, Save 버튼을 누르시면 됩니다.
+
+#### ❓ NFT 구매 후 게임에 반영되지 않는 경우
+
+> NFT 거래를 완료하여 블록체인상 소유자가 되었어도, 간혹 게임 DB에 반영되지 않는 경우가 있을 수 있습니다. \
+> 이럴 때는 구매한 NFT 번호와 대략적인 거래 시간을 **extocium@extocium.com**으로 보내주세요. 확인 후 게임 DB에 소유권을 업데이트해 드리겠습니다.
+
+
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -159,7 +182,8 @@
 [❓ ウォレット接続時のクラッシュ現象 ](commonly-issues.md#worettonokurasshu)\
 [❓ 応答遅延現象 ](commonly-issues.md#ying-da-chi-yan-xian-xiang)\
 [❓ トランザクションが承認されない現象 ](commonly-issues.md#toranzakushongasarenai)\
-[❓ Gas Feeを強制設定する ](commonly-issues.md#gas-feewosuru)
+[❓ Gas Feeを強制設定する ](commonly-issues.md#gas-feewosuru)\
+❓[ NFT購入後にゲームに反映されない場合](commonly-issues.md#nftnigmunisarenai)
 
 #### ❓iOSでウォレットを接続する
 
@@ -225,6 +249,14 @@
 >
 > 👉 ほとんどのGas feeエラーの場合、チェックされた部分が1 GWEIに設定されているでしょう。 \
 > 👉 この値を3 GWEIまたはそれ以上に変更し、保存ボタンを押してください。
+
+#### ❓ NFT購入後にゲームに反映されない場合
+
+> NFTの取引が完了し、ブロックチェーン上で所有者になっていても、ゲームDBに反映されない場合があります。\
+> もし購入したNFTがゲームに反映されない場合は、購入したNFT番号とおおよその取引時間を **extocium@extocium.com** までお知らせください。\
+> 確認後、ゲームDBの所有権を更新いたします。
+
+
 {% endtab %}
 {% endtabs %}
 
