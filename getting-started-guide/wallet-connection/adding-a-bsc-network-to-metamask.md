@@ -9,7 +9,7 @@
 1️⃣**First, please install the official MetaMask app from each store.** \
 👇For more detailed instructions, please refer to the link below.
 
-{% embed url="https://support.metamask.io/hc/ko/articles/360015489531-MetaMask-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0" %}
+{% embed url="https://metamask.io/" %}
 Check out more details on the official MetaMask website!
 {% endembed %}
 
@@ -64,7 +64,7 @@ The area underlined at the top of the wallet should be set to BNB Smart Chain or
 1️⃣**우선, 각 스토어의 공식 메타마스크 앱을 설치해주세요.** \
 👇자세한 설명은 아래 공식 링크를 참조해주세요.
 
-{% embed url="https://support.metamask.io/hc/ko/articles/360015489531-MetaMask-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0" %}
+{% embed url="https://metamask.io/" %}
 메타마스크 공식 홈페이지에서 더 자세한 내용을 확인하세요!
 {% endembed %}
 
@@ -119,7 +119,7 @@ The area underlined at the top of the wallet should be set to BNB Smart Chain or
 1️⃣**まず、各ストアの公式MetaMaskアプリをインストールしてください。**\
 👇詳細な説明は以下の公式リンクを参照してください。
 
-{% embed url="https://support.metamask.io/hc/ko/articles/360015489531-MetaMask-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0" %}
+{% embed url="https://metamask.io/" %}
 MetaMaskの公式ホームページで詳細をご確認ください！
 {% endembed %}
 

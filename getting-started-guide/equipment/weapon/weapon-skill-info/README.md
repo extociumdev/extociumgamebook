@@ -40,4 +40,6 @@ By combining these categories thoughtfully, you can create diverse and powerful 
 {% endtab %}
 {% endtabs %}
 
-\-
+{% hint style="success" %}
+[Skill Pool - Weapon](skill-pool-weapon.md)
+{% endhint %}

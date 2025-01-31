@@ -4,7 +4,7 @@
 {% tab title="ENG" %}
 🦊**MetaMask is a decentralized wallet capable of holding all the smart contracts in the world.**&#x20;
 
-{% embed url="https://support.metamask.io/hc/ko/articles/360015489531-MetaMask-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0" %}
+{% embed url="https://metamask.io/" %}
 Check out more details on the official MetaMask website!
 {% endembed %}
 
@@ -22,8 +22,8 @@ Now, let's learn how to connect a MetaMask wallet in EXTOCIUM!
 {% tab title="한국어" %}
 🦊**메타마스크는 전 세계의 모든 스마트 계약을 담을 수 있는 탈중앙화 지갑입니다.**&#x20;
 
-{% embed url="https://support.metamask.io/hc/ko/articles/360015489531-MetaMask-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0" %}
-메타마스크 공식 홈페이지에서 더 자세한 내용을 확인하세요!
+{% embed url="https://metamask.io/" %}
+메타마스크 공식 홈페이지에서 더 자세한 내용을 확인하세요!!
 {% endembed %}
 
 게임 내에서 제작 및 거래되는 NFT 아이템은 지갑이 연결된 상태에서만 소유할 수 있습니다.&#x20;
@@ -40,7 +40,7 @@ Now, let's learn how to connect a MetaMask wallet in EXTOCIUM!
 {% tab title="日本語" %}
 🦊**MetaMaskは、世界中のすべてのスマートコントラクトを保持できる分散型ウォレットです。**
 
-{% embed url="https://support.metamask.io/hc/ko/articles/360015489531-MetaMask-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0" %}
+{% embed url="https://metamask.io/" %}
 MetaMaskの公式ホームページで詳細をご確認ください！
 {% endembed %}
 
@@ -55,3 +55,4 @@ MetaMaskの公式ホームページで詳細をご確認ください！
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
