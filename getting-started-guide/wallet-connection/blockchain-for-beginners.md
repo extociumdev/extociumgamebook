@@ -31,8 +31,7 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 
 #### ‼️Why Choose BSC
 
-> -\
->
+> We decided on Binance Smart Chain (BSC) because we believe **BNB is one of the most stable tokens** available. If the managing company were to go bankrupt, updates could be halted indefinitely. Therefore, we concluded that **starting on a trustworthy platform** right from the beginning was the wisest choice. BSC offers both stability and scalability, providing a reliable foundation for long-term operation.
 
 #### ‼️How Are NFTs Created?
 
@@ -89,8 +88,7 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 
 #### ‼️BSC를 선택한 이유
 
-> -\
->
+> 우리는 다양한 토큰 중에서 **BNB가 가장 안정적**이라고 생각하여 바이낸스 스마트 체인(BSC)을 선택했습니다. 만약 운영하는 회사가 파산한다면 더 이상 업데이트가 이루어지지 않을 위험이 있기 때문에, **처음부터 믿을 수 있는 플랫폼**에서 시작하는 것이 가장 현명하다고 판단했습니다. BSC는 안정성과 확장성을 모두 갖추고 있어, 장기적으로도 안정적인 운영 기반을 마련할 수 있습니다.
 
 #### ‼️NFT는 어떻게 만들어지나요?
 
@@ -148,8 +146,7 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 
 #### ‼️BSCを選んだ理由
 
-> -\
->
+> 私たちは数あるトークンの中で**BNBが最も安定している**と考え、Binance Smart Chain（BSC）を選択しました。もし運営会社が破綻すれば、アップデートが停止するリスクがあります。したがって、**最初から信頼できるプラットフォーム**を利用することが賢明だと判断しました。BSCは安定性と拡張性を兼ね備えており、長期的な運営基盤として信頼できる選択肢です.
 
 #### ‼️NFTはどうやって作られるの？
 
