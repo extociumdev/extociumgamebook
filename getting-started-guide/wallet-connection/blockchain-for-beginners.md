@@ -52,7 +52,8 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 
 #### ‼️How Do the Game Database and NFTs Interact?
 
-> \-
+> When an NFT is created, its unique token ID and attribute data are recorded on both the blockchain and the game database. In-game actions like using or transferring an NFT are handled through a smart contract and APIs, which notify the game DB of any changes in ownership or attributes. In this setup, the blockchain provides “proof of ownership and transactions,” while the game DB manages fast data processing. \
+> These two systems stay synchronized so that whenever a player uses an NFT in-game or moves it to an external wallet, everything remains up-to-date.
 
 #### ‼️Using a Block Explorer
 
@@ -108,7 +109,8 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 
 #### ‼️게임 DB와 NFT는 어떻게 연동되나요?
 
-> \-
+> NFT가 생성되면, 고유 토큰 ID와 속성 정보가 블록체인과 게임 DB에 각각 기록됩니다. 게임 내에서 NFT를 사용하거나 전송할 때는 스마트 컨트랙트와 API를 통해 소유권 변경이나 속성 변화를 감지하고, 게임 DB가 이를 실시간으로 업데이트합니다. 이처럼 NFT는 블록체인에 ‘소유권과 거래의 증거’를 남기고, 게임 DB는 빠른 데이터 처리를 위해 정보를 관리합니다. \
+> 두 시스템은 상호 연결되어 있어, 플레이어가 NFT를 활용하거나 외부 지갑으로 옮길 때, 항상 최신 상태가 유지되도록 동기화합니다.
 
 #### ‼️ Block 탐색기 사용해보기
 
@@ -167,7 +169,7 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 
 #### ‼️ゲームDBとNFTはどう連動するの？
 
-> \-
+> NFTが生成されると、その固有のトークンIDや属性情報がブロックチェーンとゲームDBの両方に記録されます。ゲーム内でNFTを使用・転送する際は、スマートコントラクトとAPIを介して所有権や属性の変化が検知され、ゲームDBにリアルタイムで反映されます。 このようにNFTはブロックチェーン上で「所有権と取引履歴の証拠」を残し、ゲームDBは迅速なデータ処理を担当します。2つのシステムは相互に連携し、プレイヤーがNFTをゲーム内で使ったり外部ウォレットへ移動するときに常に最新状態が保たれるように同期します。
 
 #### ‼️ Blockエクスプローラーを使ってみよう
 
