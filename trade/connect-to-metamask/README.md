@@ -19,31 +19,39 @@
 
 
 
-
-
-> #### _**Connecting to MetaMask Wallet**_&#x20;
-
-## **What is MetaMask?**&#x20;
+## **❓What is MetaMask?**&#x20;
 
 {% tabs %}
 {% tab title="ENG" %}
-MetaMask is a scalable decentralized wallet that can hold all smart contracts in the world. \
-Check out the rules and learn how to connect the MetaMask wallet to EXTOCIUM.
+MetaMask is a **decentralized wallet** that allows users to store and manage smart contracts and digital assets on the blockchain. It is widely used across the world for interacting with decentralized applications (DApps).
 
+{% hint style="info" %}
 <mark style="color:blue;">EXTOCIUM requires a MetaMask wallet connection to upload your game assets to the blockchain.</mark>
+{% endhint %}
+
+💡[ **Need help?**](../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#eng) Check out our guide on how to connect your MetaMask wallet to EXTOCIUM!
 {% endtab %}
 
 {% tab title="한국어" %}
-메타마스크는 전 세계의 모든 스마트 계약을 담을 수 있는 탈중앙화 지갑입니다. \
-엑스토시움에서 메타마스크 지갑을 연결하는 방법을 확인하세요.
+메타마스크(MetaMask)는 **스마트 계약 및 디지털 자산을 안전하게 보관하고 관리할 수 있는 탈중앙화 지갑**입니다.\
+전 세계적으로 널리 사용되며, 블록체인 기반의 다양한 탈중앙화 애플리케이션(DApp)과 상호작용할 수 있도록 도와줍니다.
 
-<mark style="color:blue;">엑스토시움은 게임 자산을 블록체인에 업로드하기 위해 메타마스크 지갑 연결이 반드시 필요합니다.</mark>
+{% hint style="info" %}
+<mark style="color:blue;">**엑스토시움은 게임 자산을 블록체인에 업로드하기 위해 메타마스크 지갑 연결이 반드시 필요합니다.**</mark>
+{% endhint %}
+
+💡 [**도움이 필요하신가요?**](../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#undefined-1) 메타마스크를 엑스토시움에 연결하는 방법을 확인해 보세요!
 {% endtab %}
 
 {% tab title="日本語" %}
-メタマスクは世界中のすべてのスマートコントラクトを保持できるスケーラブルな分散型ウォレットです。EXTOCIUMでメタマスクウォレットを接続する方法を確認してください。
+MetaMask（メタマスク）は、**スマートコントラクトやデジタル資産を安全に保管・管理できる分散型ウォレット**です。\
+世界中で広く利用されており、ブロックチェーンを基盤とした**分散型アプリケーション（DApp）と連携**することができます。
 
+{% hint style="info" %}
 <mark style="color:blue;">EXTOCIUMは、ゲーム資産をブロックチェーンにアップロードするためにメタマスクウォレット接続が必ず必要です。</mark>
+{% endhint %}
+
+💡 [**お困りですか？**](../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#ri-ben-yu) EXTOCIUMにMetaMaskを接続する方法を確認してみましょう！
 {% endtab %}
 {% endtabs %}
 
@@ -51,7 +59,7 @@ Check out the rules and learn how to connect the MetaMask wallet to EXTOCIUM.
 
 > [_MetaMask Guide_](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask)
 
-### Getting Started with MetaMask
+## Getting Started with MetaMask
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -66,8 +74,10 @@ Therefore, please never lose your wallet under any circumstances.\
 {% endtab %}
 
 {% tab title="한국어" %}
+{% hint style="success" %}
 ✅당신의 게임 계정과 당신의 메타마스크 지갑 주소는 반드시 1:1로 매칭됩니다.\
 ✅한 번 연결된 게임 계정과 지갑 주소는 변경할 수 없으며, 다른 계정이나 지갑과 중복 연결할 수 없습니다.
+{% endhint %}
 
 이는 해킹을 방지하고, 당신의 지갑 주소와 당신의 게임 데이터를 일치 시키기 위한 조건입니다.
 
@@ -179,12 +189,11 @@ Please follow the instructions below.
 * 다음 화면에서 **커스텀 토큰** 메뉴를 선택하고, 아래 정보를 입력해주세요.
 * 次の画面で『**カスタムトークン**』メニューを選択し、以下の情報を入力してください。
 
-&#x20;                                                   👉 Token  Address :\
-&#x20;                                                       0xAA390Bd1657514730D98BAaBcE4b393a53ACD579\
-\
-&#x20;                                                   👉 Token  Symbol : XTO\
-&#x20;                                                   <mark style="color:red;">👉 Token  Decimal : 18</mark>\
-
+{% hint style="info" %}
+👉 Token  Address : 0xAA390Bd1657514730D98BAaBcE4b393a53ACD579\
+👉 Token  Symbol : XTO\
+<mark style="color:red;">👉 Token  Decimal : 18</mark>
+{% endhint %}
 
 * After that, simply touch the '**IMPORT**' button.
 * 그런 후 "**IMPORT**" 버튼을 터치하면 됩니다.

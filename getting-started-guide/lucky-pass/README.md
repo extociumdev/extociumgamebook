@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🍀 Lucky Pass
 
-<figure><img src="../../.gitbook/assets/image (675).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (675).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -19,9 +19,9 @@ In the mini-games, you can even obtain rare materials from high-level hunting gr
 ❓While playing the mini-games, you might obtain a 'Golden Key.' This key can be used to open a '[Full Gold Box](gold-box.md#eng).'
 
 {% hint style="info" %}
-❓The Lucky Pass can be played up to 100 times per account per day.&#x20;
+❓The Lucky Pass can be played up to **100 times per account per day**.&#x20;
 
-❓ At 00:00 KST every day, the Golden Key, Lucky Chips, and Lucky Pass are all reset.
+❓ At 00:00 KST every day, the Golden Key, Lucky Chips, and Lucky Pass are **all reset.**
 {% endhint %}
 
 ### **✅Entering the Lucky Pass**
@@ -85,9 +85,9 @@ Conversely, Trap Cards can reduce the amount of gold collected in the Gold Box o
 ❓미니게임을 진행하다 보면, '황금 열쇠'를 획득할 수도 있습니다. 이 열쇠로 '[가득 찬 골드박스](gold-box.md#undefined-1)'를 열 수도 있습니다.&#x20;
 
 {% hint style="info" %}
-❓럭키 패스는 계정 당 하루 100회만 플레이 가능합니다.
+❓럭키 패스는 **계정 당 하루 100회**만 플레이 가능합니다.
 
-❓ KST 기준, 매일 00:00에 황금 열쇠와 럭키 칩, 럭키 패스가 모두 초기화 됩니다.
+❓ KST 기준, 매일 00:00에 황금 열쇠와 럭키 칩, 럭키 패스가 **모두 초기화** 됩니다.
 {% endhint %}
 
 ### **✅럭키 패스 진입하기**
@@ -152,9 +152,9 @@ Conversely, Trap Cards can reduce the amount of gold collected in the Gold Box o
 ❓ミニゲームを進めていると、「黄金の鍵」を手に入れることもあります。この鍵で「[満杯のゴールドボックス](gold-box.md#ri-ben-yu)」を開けることができます。
 
 {% hint style="info" %}
-❓ラッキーパスはアカウントごとに1日100回までプレイ可能です。&#x20;
+❓ラッキーパスはアカウントごとに**1日100回**までプレイ可能です。&#x20;
 
-❓ KST基準、毎日00:00に黄金の鍵とラッキーチップ、ラッキーパスがすべてリセットされます。
+❓ KST基準、毎日00:00に黄金の鍵とラッキーチップ、ラッキーパスがすべて**リセット**されます。
 {% endhint %}
 
 ### **✅**&#x30E9;ッキーパスに入る
