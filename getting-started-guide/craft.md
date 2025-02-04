@@ -20,11 +20,11 @@ Shall we learn how to craft items now?
 
 👉Please touch the 'Craft' button in the left menu bar of the dashboard widget.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
 
-👉There are two categories on the crafting screen. \
-❓In the Equipment tab, you can craft '[Weapons](equipment/weapon/#eng)' and '[Orbs](equipment/orb/#eng)'. \
-❓In the Items tab, you can craft 'Materials', 'Potions', and 'Scrolls'.
+👉 **There are three categories in the crafting screen.**\
+❓ In the **Equipment tab**, you can craft [**Weapons**](equipment/weapon/#eng)**,** [**Orbs**](equipment/orb/#eng)**, and** [**Accessories**](equipment/accessories/#eng).\
+❓ In the **Item tab**, you can craft **Materials, Potions, and Scrolls**.
 
 <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
@@ -60,11 +60,11 @@ Shall we learn how to craft items now?
 
 👉대시보드 위젯의 좌측 메뉴바에서 '제작' 버튼을 터치해주세요.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
 
-👉제작 화면에는 2개의 카테고리가 존재합니다. \
-❓장비 탭에서는 현재 '무기'와 '오브' 제작이 가능합니다.\
-❓아이템 탭에서는 '재료', '포션', '주문서' 제작이 가능합니다.
+👉 제작 화면에는 3개의 카테고리가 존재합니다.\
+❓ 장비 탭에서는 '[**무기**](equipment/weapon/#undefined-1)', '[**오브**](equipment/orb/#undefined-1)', '[**악세서리**](equipment/accessories/#undefined-1)' 제작이 가능합니다.\
+❓ 아이템 탭에서는 '**재료**', '**포션**', '**주문서**' 제작이 가능합니다.
 
 <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
@@ -100,11 +100,11 @@ Shall we learn how to craft items now?
 
 👉ダッシュボードウィジェットの左側のメニューバーから「製作」ボタンをタッチしてください。
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
 
-👉製作画面には2つのカテゴリーがあります。 \
-❓装備タブでは、「[武器](equipment/weapon/#ri-ben-yu)」と「[オーブ](equipment/orb/#ri-ben-yu)」の製作が可能です。 \
-❓アイテムタブでは、「素材」、「ポーション」、「呪文書」の製作が可能です。
+👉 **クラフト画面には3つのカテゴリーが存在します。**\
+❓ **装備タブ**では、[**武器**](equipment/weapon/#ri-ben-yu)**・**[**オーブ**](equipment/orb/#ri-ben-yu)**・**[**アクセサリー**](equipment/accessories/#ri-ben-yu) をクラフトできます。\
+❓ **アイテムタブ**では、**素材・ポーション・スクロール** をクラフトできます。
 
 <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
