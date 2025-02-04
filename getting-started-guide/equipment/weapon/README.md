@@ -26,12 +26,14 @@ Combine it with your hero’s skills to create the ultimate skill deck!
 
 👉 **Please touch the 'Dashboard' button on the top left of the main HUD.**
 
-<figure><img src="../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/2-2 (3).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/3-3 (2).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**👉 In the top left of the dashboard, there is a condensed info panel for the weapon.** \
-❓ When an account is first created, a 'Wooden Sword' is automatically equipped. \
-❓ Touching the weapon image allows you to immediately check the information of the equipped weapon. \
-👉 Touching the displayed bag button lets you check the list of weapons you own!
+👉 **In the center of the dashboard, there is a summary panel for your equipped weapon.**\
+❓ When you first create an account, a **Wooden Sword** is automatically equipped.\
+❓ **Tapping on the weapon image** allows you to check the details of your equipped weapon instantly.\
+👉 **Tapping the Equipment Bag button at the bottom** will display your list of owned weapons!
+
+
 
 <figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
@@ -80,12 +82,14 @@ Locked weapons have the following advantages:
 
 **👉메인 HUD의 좌측 상단에 '대시보드' 버튼을 터치해주세요.**
 
-<figure><img src="../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/2-2 (4).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/3-3 (3).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**👉대시보드 좌측 상단에 무기에 대한 축약 정보 패널이 있습니다.**\
-❓최초로 계정이 생성되면, '목검'이 자동으로 장착되어 있습니다.\
-❓무기 이미지를 터치하면 장착중인 무기 정보를 바로 확인할 수 있습니다.\
-👉화면에 표시된 가방 버튼을 터치하면 당신이 보유 중인 무기 리스트를 확인할 수 있습니다!
+👉 **대시보드 중앙에 장착 중인 무기에 대한 축약 정보 패널이 있습니다.**\
+❓ 최초로 계정이 생성되면, **'목검'이 자동으로 장착** 되어 있습니다.\
+❓ **무기 이미지를 터치하면** 장착 중인 무기의 정보를 바로 확인할 수 있습니다.\
+👉 **하단의 장비 가방 버튼을 터치하면** 보유 중인 무기 리스트를 확인할 수 있습니다!
+
+
 
 <figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
@@ -135,12 +139,14 @@ Locked weapons have the following advantages:
 
 **👉メインHUDの左上にある「ダッシュボード」ボタンをタッチしてください。**
 
-<figure><img src="../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/2-2 (5).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/3-3 (4).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**👉 ダッシュボードの左上には武器の簡易情報パネルがあります。** \
-❓ アカウントが初めて作成されると、「木剣」が自動的に装備されています。 \
-❓ 武器の画像をタッチすると、装備中の武器情報をすぐに確認できます。 \
-👉 表示されたバッグボタンをタッチすると、所有する武器リストを確認できます！
+👉 **ダッシュボードの中央には、装備中の武器に関する概要パネルがあります。**\
+❓ アカウントを作成すると、最初に **木の剣** が自動で装備されます。\
+❓ **武器の画像をタップすると**、装備中の武器の情報をすぐに確認できます。\
+👉 **画面下部の装備バッグボタンをタップすると**、所持している武器のリストが表示されます！
+
+
 
 <figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
