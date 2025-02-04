@@ -6,7 +6,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
+{% hint style="info" %}
 💡**When energy reaches '**<mark style="color:purple;">**0**</mark>**', the following rules apply:**
+{% endhint %}
 
 * Items and gold will not drop.
 * Only <mark style="color:red;">**30%**</mark> of EXP can be acquired.
@@ -16,7 +18,9 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 
 {% tab title="한국어" %}
+{% hint style="info" %}
 💡**에너지가 '**<mark style="color:purple;">**0**</mark>**'이 되면 아래와 같은 룰이 적용됩니다.**
+{% endhint %}
 
 * 아이템과 골드가 드랍되지 않습니다.
 * EXP를 <mark style="color:red;">**30%**</mark>만 획득할 수 있습니다.
@@ -26,7 +30,9 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 
 {% tab title="日本語" %}
+{% hint style="info" %}
 💡**エネルギーが「**<mark style="color:purple;">**0**</mark>**」になると、以下のルールが適用されます。**
+{% endhint %}
 
 * アイテムとゴールドはドロップしません。
 * EXPは<mark style="color:red;">**30%**</mark>のみ獲得できます。
