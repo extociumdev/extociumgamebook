@@ -50,4 +50,4 @@ XTO 티켓을 구매하여 더 많은 X 포인트를 얻고, XTO 홀딩 캡 없�
 Points are awarded based on purchases made in the in-game SHOP.\
 Please refer to this when using your points!
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

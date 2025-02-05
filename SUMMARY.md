@@ -18,6 +18,11 @@
   * [1️⃣ What is MetaMask?](getting-started-guide/wallet-connection/what-is-metamask.md)
   * [2️⃣ Adding a BSC network to MetaMask](getting-started-guide/wallet-connection/adding-a-bsc-network-to-metamask.md)
   * [3️⃣ Connecting games and MetaMask](getting-started-guide/wallet-connection/connecting-games-and-metamask.md)
+  * [🔁 Swap XTO](getting-started-guide/wallet-connection/swap-xto/README.md)
+    * [🦊 Swap on MetaMask](getting-started-guide/wallet-connection/swap-xto/swap-on-metamask.md)
+    * [🥞 Swap on PancakeSwap](getting-started-guide/wallet-connection/swap-xto/swap-on-pancakeswap.md)
+    * [🏆 Import XTO Tokens](getting-started-guide/wallet-connection/swap-xto/import-xto-tokens.md)
+    * [💰 BNB Top-Up Method Using G-Cash](getting-started-guide/wallet-connection/swap-xto/bnb-top-up-method-using-g-cash.md)
   * [⛔ Precautions](getting-started-guide/wallet-connection/precautions.md)
   * [🔖 Commonly Issues](getting-started-guide/wallet-connection/commonly-issues.md)
   * [🪙 Blockchain for Beginners](getting-started-guide/wallet-connection/blockchain-for-beginners.md)
@@ -96,10 +101,6 @@
 
 ## 📈 Trade
 
-* [✅ Connect to MetaMask](trade/connect-to-metamask/README.md)
-  * [🎲 XTO ↔ BNB Swap](trade/connect-to-metamask/xto-bnb-swap.md)
-  * [🎲 XTO ↔ GOLD Swap](trade/connect-to-metamask/xto-gold-swap.md)
-  * [🎲 XTO Holder Drop](trade/connect-to-metamask/xto-holder-drop.md)
 * [⚖️ Market](trade/market/README.md)
   * [📁 Trading NFTs](trade/market/trading-nfts/README.md)
     * [📥 Buy](trade/market/trading-nfts/buy.md)

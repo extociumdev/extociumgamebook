@@ -1,10 +1,8 @@
 # 🧇 Register NFT to Wallet
 
-\-
-
 {% tabs %}
 {% tab title="ENG" %}
-#### 🌟 **How to Register an NFT to Your Wallet** 🌟
+### 🌟 **How to Register an NFT to Your Wallet** 🌟
 
 Does registering an NFT to your wallet seem complicated? Don't worry! \
 We will guide you step by step.\
@@ -67,7 +65,7 @@ If your NFT doesn’t appear immediately, try refreshing MetaMask after a short 
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 🌟 **NFT를 지갑에 등록하는 방법** 🌟
+### 🌟 **NFT를 지갑에 등록하는 방법** 🌟
 
 NFT를 지갑에 등록하는 과정이 어렵게 느껴지나요? 걱정 마세요! 차근차근 안내해 드릴게요. \
 아래 단계를 따라 하면, 당신의 소중한 NFT를 **메타마스크(MetaMask)** 에 안전하게 등록할 수 있습니다!
@@ -132,7 +130,7 @@ NFT를 지갑에 등록하는 과정이 어렵게 느껴지나요? 걱정 마세
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 🌟 **NFTをウォレットに登録する方法** 🌟
+### 🌟 **NFTをウォレットに登録する方法** 🌟
 
 NFTをウォレットに登録するのが難しそうですか？\
 心配しないでください！**私たちが一歩ずつ丁寧に説明します。** \

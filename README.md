@@ -46,8 +46,8 @@ This guidebook provides detailed information and guides throughout the game.\
 💠Check out our guide to the most important MetaMask wallet connections to get you started.\
 💠ゲームを始めるために最も重要なメタマスクウォレット接続ガイドをご確認ください。
 
-{% content-ref url="trade/connect-to-metamask/" %}
-[connect-to-metamask](trade/connect-to-metamask/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 💠엑스토시움의 영웅, 장비 및 전투시스템에 사용되는 스탯들에 대하여 알아보세요.\
