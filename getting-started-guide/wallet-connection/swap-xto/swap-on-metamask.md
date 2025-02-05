@@ -4,10 +4,6 @@ description: How to swap on MetaMask?
 
 # 🦊 Swap on MetaMask
 
-🛑 This information may be updated later than the game server data.\
-🛑 이 내용은 게임 서버 데이터보다 늦게 업데이트 될 수 있습니다.\
-🛑 この情報はゲームサーバーデータよりも遅れて更新される場合があります。
-
 {% tabs %}
 {% tab title="ENG" %}
 ### 🔄 **Swap XTO on MetaMask**
