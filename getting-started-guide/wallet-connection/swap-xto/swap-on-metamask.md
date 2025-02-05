@@ -169,7 +169,7 @@ MetaMaskアプリを使用すると、**XTO ↔ BNB のスワップを簡単に*
 #### ✅ **1. MetaMaskでBSCネットワークを選択**
 
 📌 **MetaMaskウォレットを開き、Binance Smart Chain（BSC）ネットワークを選択します。**\
-📌 **XTOトークンがすでに登録されていると、より便利に使用できます！** (📍[XTOトークンの登録方法](import-xto-tokens.md#untitled))
+📌 **XTOトークンがすでに登録されていると、より便利に使用できます！** (📍[XTOトークンの登録方法](import-xto-tokens.md#ri-ben-yu))
 
 その後、**画面に表示される「Swap」ボタンをタップ** してください。
 
