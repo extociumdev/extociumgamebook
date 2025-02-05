@@ -20,7 +20,7 @@ Follow the steps below to complete your swap quickly and securely. 🦊✨
 #### ✅ **1. Select the BSC Network on MetaMask**
 
 📌 **Open your MetaMask wallet and select the Binance Smart Chain (BSC) network.**\
-📌 If **XTO is already registered**, swapping will be more convenient! (📍[How to Register XTO Token](import-xto-tokens.md))
+📌 If **XTO is already registered**, swapping will be more convenient! (📍[How to Register XTO Token](import-xto-tokens.md#eng))
 
 Then, **tap the "Swap" button** on the screen.
 
@@ -42,7 +42,7 @@ Then, **tap the "Swap" button** on the screen.
 #### ✅ **3. Select XTO Token**
 
 📌 When the **"Convert to" pop-up** appears, enter **XTO** in the search bar.\
-📌 If **XTO does not appear**, you may need to register it as a custom token.
+📌 If **XTO does not appear**, you may need to register it as a [**custom token**](import-xto-tokens.md#id-2.-enter-custom-token-information).
 
 Once **XTO appears on the screen, tap to select it.**
 
@@ -169,7 +169,7 @@ MetaMaskアプリを使用すると、**XTO ↔ BNB のスワップを簡単に*
 #### ✅ **1. MetaMaskでBSCネットワークを選択**
 
 📌 **MetaMaskウォレットを開き、Binance Smart Chain（BSC）ネットワークを選択します。**\
-📌 **XTOトークンがすでに登録されていると、より便利に使用できます！** (📍[XTOトークンの登録方法](import-xto-tokens.md))
+📌 **XTOトークンがすでに登録されていると、より便利に使用できます！** (📍[XTOトークンの登録方法](import-xto-tokens.md#untitled))
 
 その後、**画面に表示される「Swap」ボタンをタップ** してください。
 
@@ -191,7 +191,7 @@ MetaMaskアプリを使用すると、**XTO ↔ BNB のスワップを簡単に*
 #### ✅ **3. XTOトークンを選択**
 
 📌 **「Convert to」ポップアップ** が表示されたら、**XTO** を検索してください。\
-📌 **カスタムトークンが登録されている場合、XTOがメニューに表示されます。**
+📌 [**カスタムトークン**](import-xto-tokens.md#id-2-kasutamutkunnowo)**が登録されている場合、XTOがメニューに表示されます。**
 
 XTOが表示されたら **タップして選択** してください。
 
