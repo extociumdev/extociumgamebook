@@ -8,18 +8,30 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-Accessories consist of **Necklaces, Bracelets, and Earrings**, enhancing your hero’s power.\
-Equip the right accessories to create an even stronger hero!
+### ✨ **Accessories – Maximize Your Hero’s Power!** ✨
+
+Necklaces, bracelets, and earrings are essential accessories that enhance your hero’s abilities.\
+Each accessory boosts specific stats, giving you a strategic edge in battle.
+
+🎯 **Equip the right accessories and forge the ultimate warrior!** ⚔️🔥
 {% endtab %}
 
 {% tab title="한국어" %}
-목걸이, 팔찌, 귀걸이로 구성된 **악세서리**는 영웅의 능력을 더욱 강화해 줍니다.\
-적절한 악세서리를 착용하여 더욱 강력한 영웅을 만들어 보세요!
+### ✨ **악세서리 – 영웅의 힘을 극대화하라!** ✨
+
+목걸이, 팔찌, 귀걸이로 구성된 악세서리는 영웅의 능력을 더욱 강력하게 강화합니다.\
+각 악세서리는 특정 능력치를 보강하며, 전투에서 더욱 유리한 위치를 차지할 수 있도록 도와줍니다.
+
+🎯 **적절한 악세서리를 조합하여 최고의 전투력을 갖춘 영웅을 완성하세요!** ⚔️🔥
 {% endtab %}
 
 {% tab title="日本語" %}
-アクセサリーは **ネックレス・ブレスレット・イヤリング** で構成され、英雄の能力を強化します。\
-適切なアクセサリーを装備して、より強力な英雄を育てましょう！
+### ✨ **アクセサリー – 英雄の力を最大限に引き出せ！** ✨
+
+ネックレス、ブレスレット、イヤリング は、英雄の能力をさらに強化する重要な装備 です。\
+各アクセサリーは 特定のステータスを向上 させ、戦闘で優位に立つためのサポートをしてくれます。
+
+🎯 **最適なアクセサリーを組み合わせ、最強の戦士を育て上げましょう！** ⚔️🔥
 {% endtab %}
 {% endtabs %}
 

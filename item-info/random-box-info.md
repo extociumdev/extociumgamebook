@@ -155,7 +155,7 @@ description: 🛑 This information may be updated later than the game server dat
 | Extocium Fragment       | 1         | 3         | 15         |
 | Extocium                | 1         | 3         | 10         |
 | Broken Power            | 10        | 20        | 14.2       |
-| Mystic stone            | 1         | 1         | 0.5        |
+| Mystic stone            | 1         | 1         | 0.3        |
 | Crystal of destruction  | 1         | 5         | 18         |
 | Crystal of courage      | 1         | 5         | 18         |
 | Lucky core              | 1         | 5         | 10         |
