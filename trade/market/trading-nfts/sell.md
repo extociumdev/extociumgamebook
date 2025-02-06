@@ -1,7 +1,7 @@
 # 📤 Sell
 
 {% hint style="success" %}
-### Want to sell your weapon? Follow these simple steps to list it on the market!
+### Want to sell your NFTs? Follow these simple steps to list it on the market!
 {% endhint %}
 
 {% embed url="https://youtu.be/0UkOtfnA4Tg" %}
@@ -30,26 +30,26 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 
 
-### **👉Step 3:** Select the Weapon You Wish to Sell
+### **👉Step 3:** Select the NFT You Wish to Sell
 
-* Click on the weapon you want to put up for sale.
+* Click on the **NFT (Hero or Equipment)** you want to put up for sale.
 
 <figure><img src="../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption><p>Weapon List</p></figcaption></figure>
 
 
 
-### **👉Step 4:** Connect Your Wallet if Selling an NFT Weapon
+### **👉Step 4:** Wallet Connection Required to Sell NFTs!
 
-* If the weapon is an **NFT**, you **must connect your MetaMask wallet**.
-* Without a connected wallet, you won’t be able to proceed with the sale.
+* To sell an **NFT (Hero or Equipment),** you must **connect your wallet.**
+* Without a connected wallet, selling NFTs is not possible.
 
 <figure><img src="../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-### **👉Step 5:** Open the Weapon Details Page
+### **👉Step 5:** Set Up Your Sale
 
-* Go to the weapon’s **detailed information page** and click **"Sale."**
+* Go to the **detailed information page** of the selected **NFT (Hero or Equipment)** and click the **"Sale"** button.
 
 <figure><img src="../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -71,9 +71,9 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 
 
-### **👉Step 8:** Final Confirmation for NFT Weapons
+### **👉Step 8:** Additional Steps for NFT Registration
 
-* If you’re selling an **NFT weapon**, a **confirmation prompt will appear in MetaMask.**
+* When selling an NFT, a **Confirm button** will appear in your **MetaMask wallet**.
 * Click **"Confirm"** to complete the transaction.
 
 <figure><img src="../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption></figcaption></figure>
@@ -82,14 +82,15 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 ### **👉Step 9:** Verify Your Listing
 
-* Navigate to **Market > My Stuff** to ensure that your weapon has been successfully listed.
+* Go to **Market > My Stuff** and check if your **NFT (Hero or Equipment)** has been successfully listed.
 
 <figure><img src="../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-> 💡 **TIP:** \
-> Check the market price before setting your price to increase the chances of a quick sale!
+> 💡 **TIP:**&#x20;
 >
-> Your weapon is now up for sale!  \
+> When setting your NFT’s price, **refer to market prices to determine a competitive rate for a quicker sale!**\
+> Now, your **NFT is ready for sale!**
+>
 > Best of luck in your trade!&#x20;
 
 🛑 [**Did you encounter any problems during the transaction? Please check this tab!**](common-issues.md)
@@ -116,18 +117,18 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 
 
-### **👉3단계:** 판매할 무기 선택
+### **👉3단계:** 판매할 NFT 선택하기
 
-* 가방에서 판매하려는 무기를 클릭하여 선택하세요.
+* 판매하고 싶은 **NFT(영웅 또는 장비)** 를 클릭하세요.
 
 <figure><img src="../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-### **👉4단계:** NFT 무기라면 지갑 연결 필수!
+### **👉4단계:** NFT 판매를 위해 지갑 연결 필수!
 
-* 선택한 무기가 **NFT 무기**라면, **지갑을 연결**해야 합니다.
-* 지갑이 연결되지 않으면 NFT 무기를 판매할 수 없습니다.
+* NFT(영웅 또는 장비)를 판매하려면 **지갑을 반드시 연결해야 합니다.**
+* 지갑이 연결되지 않으면 NFT를 판매할 수 없습니다.
 
 <figure><img src="../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -135,7 +136,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 ### **👉5단계:** 판매 설정
 
-* 선택한 무기의 **상세 정보 페이지**로 이동한 후, **"판매"** 버튼을 클릭합니다.
+* 선택한 **NFT(영웅 또는 장비)** 의 상세 정보 페이지로 이동한 후, **"판매" 버튼을 클릭합니다.**
 
 <figure><img src="../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -155,9 +156,9 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 
 
-### **👉8단계:** NFT 무기 등록 추가 절차
+### **👉8단계:** NFT 등록 추가 절차
 
-* NFT 무기의 경우, **메타마스크 지갑에서 확인 버튼**이 나타납니다.
+* NFT를 판매할 경우, **메타마스크 지갑에서 확인(Confirm) 버튼이 나타납니다.**
 * **확인(Confirm)** 버튼을 눌러야 등록이 완료됩니다.
 
 <figure><img src="../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption></figcaption></figure>
@@ -166,14 +167,14 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 ### **👉9단계:** 등록 확인
 
-* **거래소 > 나의 물품** 메뉴로 이동하여 무기가 정상적으로 등록되었는지 확인하세요!
+* **거래소 > 나의 물품 메뉴**로 이동하여 **NFT(영웅 또는 장비)** 가 정상적으로 등록되었는지 확인하세요!
 
 <figure><img src="../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-> 💡 **TIP:** \
-> 판매 가격을 설정할 때, 시장 가격을 참고하여 적절한 가격을 책정하면 더 빠르게 거래될 수 있습니다!
+> 💡 **TIP:**&#x20;
 >
-> 이제 당신의 무기를 판매할 준비가 완료되었습니다!&#x20;
+> NFT의 판매 가격을 설정할 때, **시장 가격을 참고하여 적절한 가격을 책정하면 더 빠르게 거래될 수 있습니다!**\
+> 이제 당신의 **NFT 판매 준비가 완료되었습니다!**
 >
 > 행운을 빕니다!&#x20;
 
@@ -201,18 +202,18 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 
 
-### **👉ステップ 3:** 販売する武器を選択
+### **👉ステップ 3:** 販売するNFTを選択
 
-* 販売したい武器をクリックして選択してください。
+* 販売したい **NFT（英雄または装備）** をクリックしてください。
 
 <figure><img src="../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-### **👉ステップ 4:** NFT 武器ならウォレット接続が必須
+### **👉 ステップ** 4: NFTを販売するにはウォレット接続が必須！
 
-* 選択した武器が **NFT 武器** の場合、**ウォレット (MetaMask) の接続** が必要です。
-* ウォレットが接続されていないと、NFT 武器を販売できません。
+* **NFT（英雄または装備）** を販売するには、**ウォレットを接続する必要があります。**
+* ウォレットが接続されていないと、NFTを販売できません。。
 
 <figure><img src="../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -220,7 +221,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 ### **👉ステップ 5:** 販売設定
 
-* 選択した武器の **詳細情報ページ** に移動し、**「販売 」** をクリックします。
+* 選択した **NFT（英雄または装備）** の詳細ページに移動し、**「販売」ボタン** をクリックしてください。
 
 <figure><img src="../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -242,27 +243,27 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 
 
-### **👉ステップ 8:** NFT 武器の追加確認
+### **👉ステップ 8:** NFT登録の追加手続き
 
-* **NFT 武器** の場合、**MetaMask で確認画面** が表示されます。
+* NFTを販売する場合、**MetaMaskウォレットに「確認 (Confirm)」ボタン** が表示されます。
 * **「確認 」** ボタンを押すと、販売が確定します。
 
 <figure><img src="../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption><p><strong>MetaMask</strong></p></figcaption></figure>
 
 
 
-### **👉ステップ 9:** 登録の確認
+### **👉ステップ 9:** 登録確認
 
-* **マーケット >** **私の品物** に移動し、正常に登録されたか確認しましょう！
+* **マーケットプレイス > マイリスト** に移動し、**NFT（英雄または装備）** が正常に登録されたか確認してください。
 
 <figure><img src="../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption><p><strong>私の品物</strong></p></figcaption></figure>
 
-> 💡 **TIP:** \
-> 市場価格を確認して適切な価格を設定すると、より早く売れる可能性が高くなります！
+> 💡 **TIP:**&#x20;
 >
-> これで武器の販売準備は完了です！
+> NFTの販売価格を設定する際は、**市場価格を参考にすると、より早く取引が成立する可能性があります！**\
+> これで、**NFTの販売準備が完了しました！**
 >
-> &#x20;良い取引を！
+> &#x20;健闘を祈ります！
 
 🛑 [取引中に問題が発生しましたか？このタブをチェックしてください！](common-issues.md)
 {% endtab %}

@@ -1,14 +1,14 @@
 # 📥 Buy
 
-## ✅Purchasing NFTs
+{% hint style="success" %}
+### **Want to buy NFTs?** Follow these simple steps to purchase them on the market!
+{% endhint %}
 
 
 
 {% embed url="https://youtu.be/CKAznpiW_Is" %}
 Purchase Items with BNB
 {% endembed %}
-
-\-
 
 {% tabs %}
 {% tab title="ENG" %}
