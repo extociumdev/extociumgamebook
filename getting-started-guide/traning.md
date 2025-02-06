@@ -37,7 +37,7 @@ Pay TP for the learning item you want to acquire the skills!
 
 #### 2️⃣Resetting TP
 
-Want to reset your TP history because you learned the skill route incorrectly? Then try purchasing the '  Book of Oblivion' sold in the '[Shop](../shop/shop/xto-shop.md#eng)'!
+Want to reset your TP history because you learned the skill route incorrectly? Then try purchasing the **'Book of Oblivion'** sold in the '[Shop](../shop/shop/xto-shop.md#eng)'!
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@ Want to reset your TP history because you learned the skill route incorrectly? T
 
 <figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-👉If you possess the 'Book of Oblivion' item on this screen, TP reset is possible.
+👉If you possess the **'Book of Oblivion'** item on this screen, TP reset is possible.
 
 {% hint style="info" %}
 ❓The 'Returned TP' information is the total amount of TP accumulated in my account.
@@ -85,7 +85,7 @@ EXTOCIUM을 즐기기 위해 필요한 제작 레시피, 채집 레시피가 필
 #### 2️⃣TP 초기화 하기
 
 기술 루트를 잘못 익혀 TP내역을 초기화 하고 싶으신가요? \
-그렇다면 '[상점](../shop/shop/xto-shop.md#undefined-1)'에서 판매하는 '망각의 서'를 구매해보세요!&#x20;
+그렇다면 '[상점](../shop/shop/xto-shop.md#undefined-1)'에서 판매하는 **'망각의 서'**&#xB97C; 구매해보세요!&#x20;
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
@@ -93,7 +93,7 @@ EXTOCIUM을 즐기기 위해 필요한 제작 레시피, 채집 레시피가 필
 
 <figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-👉이 화면에서 '망각의 서' 아이템을 지니고 있다면 TP 초기화가 가능합니다.&#x20;
+👉이 화면에서 **'망각의 서'** 아이템을 지니고 있다면 TP 초기화가 가능합니다.&#x20;
 
 {% hint style="info" %}
 ❓'반환되는 TP' 정보는 나의 계정에 누적된 총 TP의 양 입니다.
@@ -132,7 +132,7 @@ EXTOCIUMを楽しむための製作レシピや採取レシピが必要ですか
 
 #### 2️⃣TPのリセット
 
-技術ルートを間違って覚えてしまい、TP履歴をリセットしたいですか？ それなら「[ショップ](../shop/shop/xto-shop.md#ri-ben-yu)」で販売されている「忘却の書」を購入してみてください！
+技術ルートを間違って覚えてしまい、TP履歴をリセットしたいですか？ それなら「[ショップ](../shop/shop/xto-shop.md#ri-ben-yu)」で販売されてい&#x308B;**「忘却の書」**&#x3092;購入してみてください！
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
@@ -140,7 +140,7 @@ EXTOCIUMを楽しむための製作レシピや採取レシピが必要ですか
 
 <figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-👉この画面で「忘却の書」アイテムを持っていれば、TPリセットが可能です。
+👉この画面&#x3067;**「忘却の書」**&#x30A2;イテムを持っていれば、TPリセットが可能です。
 
 {% hint style="info" %}
 ❓「戻るTP」情報は、私のアカウントに蓄積されたTPの総量です。

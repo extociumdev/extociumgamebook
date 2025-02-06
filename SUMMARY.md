@@ -68,7 +68,6 @@
       * [🔥 Skill pool - Weapon](getting-started-guide/equipment/weapon/weapon-skill-info/skill-pool-weapon.md)
       * [10/24 update note - weapon](getting-started-guide/equipment/weapon/weapon-skill-info/10-24-update-note-weapon.md)
       * [10/24 update note - Party](getting-started-guide/equipment/weapon/weapon-skill-info/10-24-update-note-party.md)
-    * [🐋 Register a Weapon to the Market](getting-started-guide/equipment/weapon/register-a-weapon-to-the-market.md)
     * [🏹 Guide to Equip Levels](getting-started-guide/equipment/weapon/guide-to-equip-levels.md)
   * [🔮 Orb](getting-started-guide/equipment/orb/README.md)
     * [✨ Orb Stats](getting-started-guide/equipment/orb/orb-stats.md)

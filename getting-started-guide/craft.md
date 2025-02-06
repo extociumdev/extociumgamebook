@@ -38,11 +38,13 @@ Shall we learn how to craft items now?
 
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-👉There are two cases where crafting is not possible. The first is, as shown above, where you need to learn the crafting method through '[Traning](traning.md#eng)'. Earn TP through hunting to refine your crafting skills.
+👉There are two cases where crafting is not possible. \
+The first is, as shown above, where you need to learn the crafting method through '[Traning](traning.md#eng)'. Earn TP through hunting to refine your crafting skills.
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
-👉The second case, as shown above, is when a 'Recipe Item' is needed. Recipe items are dropped throughout the continent of Asterica. They can be dropped by monsters, or you can obtain them from '[NPC Hermaion](../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)'.
+👉The second case, as shown above, is when a 'Recipe Item' is needed. \
+Recipe items are dropped throughout the continent of Asterica. They can be dropped by monsters, or you can obtain them from '[NPC Hermaion](../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)'.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -78,11 +80,13 @@ Shall we learn how to craft items now?
 
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-👉제작이 불가능한 경우는 두 가지가 있습니다. 첫 번째로는 위 화면 처럼, '[기술 연마](traning.md#undefined-1)'를 통해 제작법을 익혀야 하는 경우입니다. 사냥을 통해 TP를 획득하여 제작 기술을 연마해보세요.
+👉제작이 불가능한 경우는 두 가지가 있습니다. \
+첫 번째로는 위 화면 처럼, '[기술 연마](traning.md#undefined-1)'를 통해 제작법을 익혀야 하는 경우입니다. 사냥을 통해 TP를 획득하여 제작 기술을 연마해보세요.
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
-👉두 번째 경우는 위 화면 처럼, '레시피 아이템'이 필요한 경우입니다. 레시피 아이템은 아스테리카 대륙 곳곳에서 드랍됩니다. 몬스터에게 드랍되는 경우도 있고, '[NPC 헤르마이온](../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)'에게서 획득할 수 있는 경우도 있습니다.
+👉두 번째 경우는 위 화면 처럼, '레시피 아이템'이 필요한 경우입니다. \
+레시피 아이템은 아스테리카 대륙 곳곳에서 드랍됩니다. 몬스터에게 드랍되는 경우도 있고, '[NPC 헤르마이온](../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)'에게서 획득할 수 있는 경우도 있습니다.
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -122,6 +126,8 @@ Shall we learn how to craft items now?
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
-👉二つ目の場合は、上の画面のように、「レシピアイテム」が必要な場合です。レシピアイテムはアステリカ大陸の至る所でドロップされます。モンスターからドロップされることもありますし、「[NPCヘルマイオン](../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)」から入手することもできます。
+👉二つ目の場合は、上の画面のように、「レシピアイテム」が必要な場合です。\
+レシピアイテムはアステリカ大陸の至る所でドロップされます。\
+モンスターからドロップされることもありますし、「[NPCヘルマイオン](../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)」から入手することもできます。
 {% endtab %}
 {% endtabs %}
