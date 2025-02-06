@@ -64,7 +64,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 <figure><img src="../../../.gitbook/assets/팔찌3.png" alt=""><figcaption></figcaption></figure>
 
 📌 **Tap any bracelet in the inventory to access the details page.**\
-📌 Here, you can **check its stats, sell, and manage other features.**
+📌 Here, you can **check its stats,** [**sell**](../../../trade/market/trading-items/)**, and manage other features.**
 
 💡 **Strategically utilize your bracelet’s base stats and random options to maximize your hero’s power!**
 {% endtab %}
@@ -128,7 +128,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 <figure><img src="../../../.gitbook/assets/팔찌3.png" alt=""><figcaption></figcaption></figure>
 
 📌 **팔찌 목록에서 원하는 장비를 터치하면 상세 정보 페이지로 이동**합니다.\
-📌 이 페이지에서는 **팔찌의 스탯 확인, 판매 등 모든 작업을 수행**할 수 있습니다.
+📌 이 페이지에서는 **팔찌의 스탯 확인,** [**판매**](../../../trade/market/trading-items/) **등 모든 작업을 수행**할 수 있습니다.
 
 💡 **팔찌의 기본 스탯과 랜덤 옵션을 전략적으로 활용하여, 영웅을 더욱 강력하게 성장시키세요!**&#x20;
 {% endtab %}
@@ -192,7 +192,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 <figure><img src="../../../.gitbook/assets/팔찌3.png" alt=""><figcaption></figcaption></figure>
 
 📌 **インベントリ内のブレスレットをタップすると、詳細ページに移動** できます。\
-📌 ここでは **ステータスの確認、販売、その他の管理が可能** です。
+📌 ここでは **ステータスの確認、**[**販売**](../../../trade/market/trading-items/)**、その他の管理が可能** です。
 
 💡 **ブレスレットの基本ステータスとランダムオプションを活用し、英雄をさらに強化しましょう！**
 {% endtab %}
