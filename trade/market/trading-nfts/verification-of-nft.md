@@ -1,6 +1,8 @@
-# 🚨 Verification of NFT
+---
+description: 🛑 This information may be updated later than the game server data.
+---
 
-\-
+# 🚨 Verification of NFT
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -27,20 +29,28 @@ Follow these steps to verify the authenticity and status of an NFT before purcha
 
 <figure><img src="../../../.gitbook/assets/image (788).png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
 \
 3️⃣ Click on **"NFT Transfers."**
 
 <figure><img src="../../../.gitbook/assets/image (789).png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 \
 4️⃣ Find the **most recent transaction labeled "\<NFT: XTONFT #(ID number)>,"** and click on it.
 
 <figure><img src="../../../.gitbook/assets/image (790).png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
 \
 5️⃣ In the URL bar, **replace the last part after "/" with the ID number of the NFT you wish to purchase.**
 
 <figure><img src="../../../.gitbook/assets/image (798).png" alt="" width="346"><figcaption></figcaption></figure>
+
+
 
 6️⃣ Ensure that the **Creator is listed as "EXTOCIUM: Deployer."**
 
@@ -50,8 +60,6 @@ Follow these steps to verify the authenticity and status of an NFT before purcha
 Always confirm the NFT’s details before completing a transaction! \
 Protect your assets and enjoy a safer adventure!
 {% endhint %}
-
-
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -68,6 +76,8 @@ NFT는 **완전히 삭제되지 않는 특성**이 있으며, 이를 악용해 *
 
 NFT의 상세 정보를 확인하는 방법을 단계별로 안내드립니다.&#x20;
 
+
+
 \
 ❔ **NFT 정보 확인 방법**
 
@@ -77,18 +87,26 @@ NFT의 상세 정보를 확인하는 방법을 단계별로 안내드립니다.&
 
 <figure><img src="../../../.gitbook/assets/image (788).png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
 3️⃣ **"NFT Transfers"** 탭을 클릭합니다.
 
 <figure><img src="../../../.gitbook/assets/image (789).png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 \
 4️⃣ **최근 거래 내역 중 "\<NFT: XTONFT #(ID 번호)>" 항목을 클릭**합니다.
 
 <figure><img src="../../../.gitbook/assets/image (791).png" alt="" width="375"><figcaption><p><br></p></figcaption></figure>
 
+
+
 5️⃣ 주소창으로 이동한 후, **주소 끝의 / 다음에 구매하려는 NFT의 ID 번호를 입력**합니다.
 
 <figure><img src="../../../.gitbook/assets/image (797).png" alt="" width="346"><figcaption></figcaption></figure>
+
+
 
 6️⃣ **Creator가 "EXTOCIUM: Deployer"로 되어 있는지 확인**합니다.
 
@@ -98,8 +116,6 @@ NFT의 상세 정보를 확인하는 방법을 단계별로 안내드립니다.&
 위 과정을 거쳐 **NFT의 정확한 정보를 확인한 후 거래**하세요!\
 안전한 거래로 소중한 자산을 보호하고, 더 나은 모험을 즐기세요!
 {% endhint %}
-
-
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -116,6 +132,8 @@ NFTは**完全に削除されることがないため**、これを悪用して 
 
 購入前にNFTの詳細を確認する方法を、以下の手順で説明します。
 
+
+
 \
 \
 ❔ **NFT情報の確認方法**
@@ -126,14 +144,20 @@ NFTは**完全に削除されることがないため**、これを悪用して 
 
 <figure><img src="../../../.gitbook/assets/image (788).png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
 \
 3️⃣ **「NFT Transfers」** をクリックします。
 
 <figure><img src="../../../.gitbook/assets/image (789).png" alt="" width="375"><figcaption><p><br></p></figcaption></figure>
 
+
+
 4️⃣ **最新の取引履歴の中から、「\<NFT: XTONFT #(ID番号)>」と表示されている項目をクリック** します。
 
 <figure><img src="../../../.gitbook/assets/image (792).png" alt="" width="375"><figcaption><p><br></p></figcaption></figure>
+
+
 
 5️⃣ アドレスバーの最後にある「/」の後ろを、**購入予定のNFTのID番号に変更** します。
 
@@ -149,10 +173,14 @@ NFTは**完全に削除されることがないため**、これを悪用して 
 **NFTの詳細を必ず確認してから取引を行いましょう！**\
 安全な取引で大切な資産を守り、冒険をより楽しんでください！
 {% endhint %}
-
-
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 

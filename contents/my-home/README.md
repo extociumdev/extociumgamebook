@@ -10,7 +10,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 You can unlock the attic once the **maximum level of a hero in your account** reaches **21**.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 At this location, press the **My Home** button to unlock the attic.
 
@@ -22,7 +22,7 @@ You can unlock the attic once the **maximum level of a hero in your account** re
 Upon entering the attic, you'll find a **furnace** that cannot be used yet.\
 In the future, content such as a **personal storage** and **crafting table** will be added to this space.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 The furnace can also be repaired with **gold and wood** for use.
 
@@ -38,7 +38,7 @@ In the future, content such as a **personal storage** and **crafting table** wil
 
 계정 내 영웅의 최대 레벨이 21을 달성하면 다락방을 잠금 해제 할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉이 위치에서 마이홈 버튼을 누르면 다락방을 잠금 해제 할 수 있습니다.
 
@@ -50,7 +50,7 @@ In the future, content such as a **personal storage** and **crafting table** wil
 다락방에 진입하면 아직 사용하지 못하는 화로가 존재합니다.\
 추후 이 공간에 개인창고, 제작대 등의 컨텐츠가 추가될 예정입니다.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉화로 역시 골드와 목재로 수리하여 사용할 수 있습니다.
 
@@ -66,7 +66,7 @@ In the future, content such as a **personal storage** and **crafting table** wil
 
 アカウント内の**英雄の最大レベルが21**に達すると、**屋根裏部屋**を解放できます。
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 この場所で**マイホーム**ボタンを押すと、屋根裏部屋を解放できます。
 
@@ -78,7 +78,7 @@ In the future, content such as a **personal storage** and **crafting table** wil
 屋根裏部屋に入ると、まだ使用できない**炉**が存在します。\
 今後、このスペースに**個人倉庫**、**作業台**などのコンテンツが追加される予定です。
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 **炉**も**ゴールドと木材**で修理して使用することができます。
 

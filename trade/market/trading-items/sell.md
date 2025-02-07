@@ -1,3 +1,7 @@
+---
+description: 🛑 This information may be updated later than the game server data.
+---
+
 # 📤 Sell
 
 {% embed url="https://youtu.be/bGwgg8Hz_fA" %}

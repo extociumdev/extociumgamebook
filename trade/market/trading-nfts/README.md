@@ -1,6 +1,8 @@
-# 📁 Trading NFTs
+---
+description: 🛑 This information may be updated later than the game server data.
+---
 
-\-
+# 📁 Trading NFTs
 
 {% tabs %}
 {% tab title="ENG" %}

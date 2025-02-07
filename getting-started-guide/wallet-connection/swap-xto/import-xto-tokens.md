@@ -10,7 +10,7 @@
 
 📌 In **MetaMask**, find and tap the **"Import Tokens"** button.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ✅ **2. Enter Custom Token Information**
 
@@ -22,7 +22,7 @@
 🔹 **Token Decimal:** `18`
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ✅ **3. Tap the "IMPORT" Button**
 
@@ -40,7 +40,7 @@ Now you can **view your XTO balance in MetaMask and start trading freely!** 🚀
 
 📌 **MetaMask에서 "Import Tokens" 버튼**을 찾아 터치하세요.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ✅ **2. 커스텀 토큰(Custom Token) 정보 입력**
 
@@ -52,7 +52,7 @@ Now you can **view your XTO balance in MetaMask and start trading freely!** 🚀
 🔹 **Token Decimal:** `18`
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ✅ **3. "IMPORT" 버튼 터치**
 
@@ -71,7 +71,7 @@ Now you can **view your XTO balance in MetaMask and start trading freely!** 🚀
 
 📌 **MetaMask** のメニューで **「Import Tokens」** ボタンを見つけてタップします。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ✅ **2. カスタムトークンの情報を入力**
 
@@ -83,7 +83,7 @@ Now you can **view your XTO balance in MetaMask and start trading freely!** 🚀
 🔹 **Token Decimal:** `18`
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ✅ **3. 「IMPORT」ボタンをタップ**
 

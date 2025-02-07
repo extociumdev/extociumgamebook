@@ -1,6 +1,8 @@
-# 🔖 Common Issues
+---
+description: 🛑 This information may be updated later than the game server data.
+---
 
-\-
+# 🔖 Common Issues
 
 {% tabs %}
 {% tab title="ENG" %}

@@ -98,7 +98,7 @@ When an elemental gem is installed in the **attribute stone slot**, the hero's a
 
 👉영웅을 계승하려면, [로튼힐](../../../field-info/rotten-hill/)에서 [마법상점](../../../field-info/rotten-hill/magic-shop/)으로 이동 후, 마법상점에서 [아슈르바니팔 도서관](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)으로 이동해야 합니다. 아슈르바니팔 도서관에 있는[ NPC 세헤이아](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#seheiah-seheia)로 부터 영웅을 계승할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉세헤이아에게 말을 건 후, 체크 표시 된 슬롯을 터치하여 계승을 실행할 영웅을 선택해주세요.
 

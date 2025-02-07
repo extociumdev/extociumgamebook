@@ -1,3 +1,7 @@
+---
+description: 🛑 This information may be updated later than the game server data.
+---
+
 # 🧇 Register NFT to Wallet
 
 {% tabs %}
