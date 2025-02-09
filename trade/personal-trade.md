@@ -12,7 +12,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 If you want to trade your items not in an open space like a market, but secretly with a specific person, try using this system.&#x20;
 
-🛑 **Personal trading is only possible in peaceful areas!**
+🛑 **Personal trading is only possible in peace zone!**
 
 1️⃣[Send request](personal-trade.md#id-1-send-request)\
 2️⃣[Respond to requests](personal-trade.md#id-2-respond-to-requests)\
@@ -58,7 +58,7 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 당신의 아이템을 마켓과 같은 열린 공간이 아닌, 특정 개인과 비밀스럽게 거래하고 싶다면 이 시스템을 이용해 보세요.&#x20;
 
-🛑 **개인 거래는 평화 지역에서만 가능합니다!**
+🛑 **개인 거래는 안전 지역에서만 가능합니다!**
 
 [1️⃣요청 보내기](personal-trade.md#id-1)\
 [2️⃣요청에 응답하기](personal-trade.md#id-2)\
@@ -104,7 +104,7 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 あなたのアイテムを市場のような公開スペースではなく、特定の個人と秘密に取引したい場合は、このシステムを利用してみてください。&#x20;
 
-🛑 **個人取引は平和なエリアでのみ可能です！**
+🛑 **個人取引は安全地域でのみ可能です！**
 
 1️⃣リクエストを送る\
 2️⃣リクエストに応答する\
