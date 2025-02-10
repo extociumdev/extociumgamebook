@@ -18,7 +18,8 @@ description: 🛑 This information may be updated later than the game server dat
 3. **Press the ‘Deposit’ button to store your gold.**
    * **Storage Fee: 5% of the deposited amount.**
 
-✅ **How to Withdraw Gold**\
+✅ **How to Withdraw Gold**
+
 📌 **Press the ‘Withdraw’ button to retrieve your stored gold anytime.**
 {% endtab %}
 
@@ -33,7 +34,8 @@ description: 🛑 This information may be updated later than the game server dat
 3. ‘보관’ 버튼을 눌러 원하는 만큼 골드를 보관하세요.
    * **보관 수수료: 보관 금액의 5%**
 
-**✅ 골드 인출 방법**\
+**✅ 골드 인출 방법**
+
 **📌** ‘인출’ 버튼을 누르면 보관된 골드를 자유롭게 인출할 수 있습니다.
 {% endtab %}
 
@@ -48,7 +50,8 @@ description: 🛑 This information may be updated later than the game server dat
 3. **「保管」ボタンを押してゴールドを預けます。**
    * **保管手数料：預けた金額の5％**
 
-✅ **ゴールドを引き出す方法**\
+✅ **ゴールドを引き出す方法**
+
 📌 **「引き出し」ボタンを押すと、保管されたゴールドを自由に引き出せます。**
 {% endtab %}
 {% endtabs %}
