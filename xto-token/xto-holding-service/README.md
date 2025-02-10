@@ -14,7 +14,7 @@ description: 🛑 This information may be updated later than the game server dat
 🍯 **Reward Collection:** In-game mailbox
 
 {% hint style="info" %}
-❓ **1 X Point** is accumulated per week for every **1,000 XTO held.**
+❓ **5 X Point** is accumulated per week for every **1,000 XTO held.**
 {% endhint %}
 
 ### ✅How to Access the Holding Menu
@@ -69,7 +69,7 @@ description: 🛑 This information may be updated later than the game server dat
 **🍯보상 획득 :** 인게임 우편함
 
 {% hint style="info" %}
-❓1천 XTO 홀딩 당 1주일에 1 X포인트가 적립됩니다.
+❓1천 XTO 홀딩 당 1주일에 5 X포인트가 적립됩니다.
 {% endhint %}
 
 ### ✅홀딩 메뉴 살펴보기
@@ -126,7 +126,7 @@ description: 🛑 This information may be updated later than the game server dat
 🍯 **報酬の受け取り:** ゲーム内メールボックス
 
 {% hint style="info" %}
-❓ 1,000 XTOをホールドするごとに、1週間で1 Xポイントが累積されます。
+❓ 1,000 XTOをホールドするごとに、1週間で5 Xポイントが累積されます。
 {% endhint %}
 
 ### ✅ホールドメニューの確認方法

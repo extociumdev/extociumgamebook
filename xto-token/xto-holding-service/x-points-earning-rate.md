@@ -4,13 +4,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🍓 X Points Earning Rate
 
-
-
-
-
 {% tabs %}
 {% tab title="ENG" %}
-**The XTO holding system has been revamped!**&#x20;
+### **The XTO holding system has been revamped!**&#x20;
 
 By holding XTO, you can now earn X Points and exchange them for various items. Purchase XTO tickets to earn more X Points, and accumulate them freely without a holding cap.
 
@@ -35,7 +31,7 @@ XTO 티켓을 구매하여 더 많은 X 포인트를 얻고, XTO 홀딩 캡 없�
 {% endtab %}
 {% endtabs %}
 
-## 🍓 **X Points Earning Rate**
+### 🍓 **X Points Earning Rate**
 
 |                                                                        |                |              |
 | ---------------------------------------------------------------------- | -------------- | ------------ |
@@ -46,8 +42,10 @@ XTO 티켓을 구매하여 더 많은 X 포인트를 얻고, XTO 홀딩 캡 없�
 | XTO Usage                                                              | 120            | 1            |
 | Gold Usage                                                             | 500,000        | 1            |
 
-💎 **Guide to GEM/ XTO/ Gold/ BNB Usage**\
+{% hint style="info" %}
+**💡Guide to GEM/ XTO/ Gold/ BNB Usage**\
 Points are awarded based on purchases made in the in-game SHOP.\
 Please refer to this when using your points!
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
