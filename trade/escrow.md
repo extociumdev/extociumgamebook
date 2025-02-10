@@ -14,7 +14,13 @@ If you want to trade your equipment secretly with a specific person, rather than
 
 **😊**<mark style="color:blue;">**A: Payment Requester**</mark>**&#x20;      😎**<mark style="color:orange;">**B: Payment Payer**</mark>
 
-#### 😊Send request
+😊[Send request](escrow.md#send-request)\
+😎[Respond to requests](escrow.md#respond-to-requests)\
+✅[How to get ‘Equipment Trading Pass’](escrow.md#how-to-get-equipment-trading-pass)
+
+
+
+### 😊Send request
 
 <figure><img src="../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
 
@@ -25,13 +31,13 @@ If you want to trade your equipment secretly with a specific person, rather than
 5. 🛑The payment request mail is valid for 1 day. After 1 day (24 hours), the mail will be automatically deleted. It is recommended to consult with the trading party in advance.\
    💠
 
-#### 😎Respond to requests
+### 😎Respond to requests
 
 * If A sends an escrow, an escrow mail will arrive for B. Check the payment request sent to you in the 'Mailbox' > 'Escrow' category.&#x20;
 * If you respond to the payment request, the trade will be successful!&#x20;
 * If you do not want to respond to this request, leave the mail as it is. The mail will be automatically deleted after 24 hours.
 
-#### ✅How to get ‘Equipment Trading Pass’
+### ✅How to get ‘Equipment Trading Pass’
 
 <figure><img src="../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +51,13 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 
 **😊**<mark style="color:blue;">**A: 대금 요청자**</mark>**&#x20;      😎**<mark style="color:orange;">**B: 대금 지불자**</mark>
 
-#### 😊요청 보내기
+😊[요청 보내기](escrow.md#undefined-2)\
+😎[요청에 응답하기](escrow.md#undefined-3)\
+✅['장비 거래권' 획득 방법](escrow.md#undefined-4)
+
+
+
+### 😊요청 보내기
 
 <figure><img src="../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,17 +67,18 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 4. 보내기 버튼을 누르면, 대금 요청이 완료되고, '장비 거래권'이 1장 소모됩니다.
 5. 🛑대금 요청 우편은 1일간 유효합니다. 1일(24시간)이 지나면 우편이 자동 소멸됩니다. 사전에 거래 당사자와 협의 하는 것을 추천합니다.
 
-#### 😎요청에 응답하기
+### 😎요청에 응답하기
 
 * A가 에스크로를 보내면 B에게 에스크로 우편이 도착합니다. '우편함' > '에스크로' 카테고리에서 나에게 도착한 대금 요청을 확인하세요.
 * 대금 요청에 응하면 거래가 성사됩니다!
 * 이 요청에 응하고 싶지 않다면 우편을 그대로 두세요. 24시간이 지나면 우편이 자동 소거 됩니다.
 
-#### ✅'장비 거래권' 획득 방법
+### ✅'장비 거래권' 획득 방법
 
 <figure><img src="../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
-장비 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. 또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box) 에서 나온 '장비 거래권 조각'을 모아 장비 거래권을 제작할 수도 있습니다.&#x20;
+장비 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. \
+또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box) 에서 나온 '장비 거래권 조각'을 모아 장비 거래권을 제작할 수도 있습니다.&#x20;
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -75,7 +88,13 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 
 **😊**<mark style="color:blue;">**A: 請求者**</mark>**&#x20;      😎**<mark style="color:orange;">**B: 支払者**</mark>
 
-#### 😊リクエストを送る
+😊[リクエストを送る](escrow.md#rikuesutoworu)\
+😎[リクエストに応答する](escrow.md#rikuesutonisuru)\
+✅[「装備取引許可」の入手方法](escrow.md#no)
+
+
+
+### 😊リクエストを送る
 
 <figure><img src="../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
 
@@ -85,16 +104,17 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 4. 送信ボタンを押すと代金要求が完了し、「装備取引権」が1枚消費されます。&#x20;
 5. 🛑代金要求の郵便は1日間有効です。1日(24時間)経過すると郵便は自動的に消滅します。事前に取引当事者と協議することをおすすめします。
 
-#### 😎リクエストに応答する
+### 😎リクエストに応答する
 
 * Aがエスクローを送ると、Bにエスクローメールが届きます。「メールボックス」>「エスクロー」カテゴリーで受け取った支払いリクエストを確認してください。&#x20;
 * 支払いリクエストに応じると、取引が成立します！&#x20;
 * このリクエストに応じたくない場合は、メールをそのままにしておいてください。24時間後にメールは自動的に削除されます。
 
-#### ✅「装備取引許可」の入手方法
+### ✅「装備取引許可」の入手方法
 
 <figure><img src="../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
-装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
+装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。\
+さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
 {% endtab %}
 {% endtabs %}
