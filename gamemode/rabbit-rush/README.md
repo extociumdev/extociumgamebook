@@ -17,7 +17,9 @@ coverY: 31
 
 {% embed url="https://www.youtube.com/watch?v=W1MNd9WfmjY" %}
 
-⚡Energy Requirement: ❌
+{% hint style="success" %}
+**⚡ Energy Consumption: ❌ (Not Required)**
+{% endhint %}
 
 💡Welcome to PvP Rabbit Rush, a betting-style game! Try to predict the winner under completely fair conditions!
 
