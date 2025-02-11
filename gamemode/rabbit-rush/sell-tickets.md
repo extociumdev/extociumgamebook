@@ -10,25 +10,31 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 <figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
-If you have won a game and earned a Blue Ticket, go to the NPC 'Apple Man' in the waiting room. You can sell your Blue Ticket to the Apple Man for Gold.\
-\
-💌**Blue Tickets can be obtained from the mailbox after the game ends.**
+If you win a game and obtain a **Blue Ticket**, head to the waiting room and talk to **NPC ‘Apple Man’!**\
+You can exchange **Blue Tickets for Gold** through Apple Man.
+
+💌 **Blue Tickets are sent to your mailbox after the game ends.**\
+Retrieve the ticket from your mailbox and exchange it with Apple Man!
 {% endtab %}
 
 {% tab title="한국어" %}
 <figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
-게임에서 승리해 블루티켓을 얻었다면, 대기실에 있는 NPC ‘사과맨’ 에게 가세요. 사과맨에게서 블루 티켓을 골드로 판매할 수 있습니다.\
+게임에서 승리하여 **블루 티켓을 획득했다면**, 대기실에 있는 **NPC ‘사과맨’**&#xC5D0;게 가세요!\
+사과맨을 통해 **블루 티켓을 골드로 교환**할 수 있습니다.\
 \
-💌**블루티켓은 게임 종료 후 우편함에서 획득 가능합니다.**
+💌 **블루 티켓은 게임 종료 후 우편함으로 지급됩니다.**\
+우편함에서 티켓을 수령한 후, **사과맨을 찾아가 교환하세요!**
 {% endtab %}
 
 {% tab title="日本語" %}
 <figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
-ゲームで勝ってブルーチケットを手に入れた場合、待機室のNPC「アップルマン」に行ってください。アップルマンにブルーチケットをゴールドで販売することができます。\
-\
-💌**ブルーチケットはゲーム終了後、郵便箱から入手できます。**
+ゲームで勝利して **ブルーチケットを獲得したら**、待機室にいる **NPC「アップルマン」** に話しかけましょう！\
+アップルマンを通じて **ブルーチケットをゴールドに交換** できます。
+
+💌 **ブルーチケットはゲーム終了後、メールボックスに送られます。**\
+メールボックスからチケットを受け取り、アップルマンの元で交換しましょう！
 {% endtab %}
 {% endtabs %}
 
