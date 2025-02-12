@@ -10,7 +10,7 @@ coverY: 96.82576321667908
 
 * 🏅[Enter](enterance.md)
 * 🏅[Create Room](room-rules.md)
-* 🏅[Set Game Options](broken-reference)
+* 🏅[Set Game Options](game-options.md)
 
 <figure><img src="../../.gitbook/assets/FreeArena_Badge (1).png" alt=""><figcaption></figcaption></figure>
 

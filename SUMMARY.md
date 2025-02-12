@@ -147,6 +147,7 @@
 * [🎮 Free Arena](gamemode/free-arena/README.md)
   * [📁 Enterance](gamemode/free-arena/enterance.md)
   * [📁 Room rules](gamemode/free-arena/room-rules.md)
+  * [📁 Game Options](gamemode/free-arena/game-options.md)
 
 ## 💘 Clientelas Club
 
