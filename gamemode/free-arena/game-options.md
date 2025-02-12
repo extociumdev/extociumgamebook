@@ -37,7 +37,7 @@ There are **four map size options** available:
 
 #### 🎮 **3. Game Mode Settings**
 
-The host can select between **Equalized Mode** and **unEqualized Mode**.
+The host can select between **Equalized Mode** and **Unequalized Mode**.
 
 **⚖️ Equalized Mode**
 
@@ -88,7 +88,7 @@ The host can select between **Equalized Mode** and **unEqualized Mode**.
 
 #### 🎮 **3. 게임 모드 설정**
 
-게임의 진행 방식은 **‘평준화 모드(Equalized)’와 ‘비평준화 모드(unEqualized)’** 중 선택할 수 있습니다.
+게임의 진행 방식은 **‘평준화 모드(Equalized)’와 ‘비평준화 모드(Unequalized)’** 중 선택할 수 있습니다.
 
 **⚖️ Equalized 모드 (평준화 모드)**
 
@@ -139,7 +139,7 @@ The host can select between **Equalized Mode** and **unEqualized Mode**.
 
 #### 🎮 **3. ゲームモード設定**
 
-ホストは **「平準化モード（Equalized）」** と **「非平準化モード（unEqualized）」** を選択できます。
+ホストは **「平準化モード（Equalized）」** と **「非平準化モード（Unequalized）」** を選択できます。
 
 **⚖️ Equalized モード（平準化モード）**
 
