@@ -6,112 +6,161 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Gather your supporters and farm more gold!**
+#### 💡 Patron System – Recruit Supporters and Farm More Gold!
 
-The Patron and Client system is a support and sponsorship relationship system. Using referral codes, users can establish support and sponsorship relationships and farm more gold.
+The **Patron** and **Client** system allows users to establish **support relationships** through referral codes and earn additional gold bonuses!
+
+***
+
+#### 🔹 Patron & Client Rewards
 
 {% hint style="info" %}
-❤️‍🔥**Patron :** Earn and keep 0.05% of the gold your clients earn from hunting.&#x20;
+❤️‍🔥 **Patron (Supporter)**
 
-💞**Clients :** Earn a bonus of 0.5% of the gold your client earns from hunting if they are a Patron.
+* Earns **0.05% of the gold** that their supported Client acquires from hunting.
+
+💞 **Client (Supported Player)**
+
+* Gains an **extra 0.5% gold bonus** from hunting while having a Patron.
 {% endhint %}
 
-* A Patron is a sponsor, and a Client is a supporter.&#x20;
-* You can be a Patron or a Client at any time, and you can be both.&#x20;
-* A single Patron can have 20 Clients.&#x20;
-* Also, if you establish a patronage relationship, you will not be able to field PK.&#x20;
-* You can get your referral code and manage your patronage and vault from NPC Haziel in the Clientelas Lobby.
+* **A Patron supports Clients, while a Client receives benefits from a Patron.**
+* **Players can become a Patron or a Client at any time and can hold both roles simultaneously.**
+* **A single Patron can support up to 20 Clients.**
+* **Players in a support relationship cannot attack each other in field PK.**
+* **Referral codes, support relationships, and gold storage can be managed through NPC ‘Haziel’ in the Clientelas Lobby.**
 
-To use the Patron system, you first need to move to the Clientelas lobby.
+***
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+### 🏦 How to Use the Patron System
 
-👉Touch the Clientelas button at the top of the main HUD to enter the club lobby.
+1️⃣ **Go to the Clientelas Lobby.**\
+📌 Tap the **"Clientelas"** button on the **main HUD** to enter the club lobby.
+
+<figure><img src="../.gitbook/assets/image (879).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ **Find NPC ‘Haziel’.**\
+📌 In the club lobby, **talk to NPC ‘Haziel’** to access the Patron system.
 
 <figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
-👉Talk to 'NPC Haziel' in the club lobby.
+3️⃣ **Register Referral Codes & Manage Support**\
+📌 Use **"Enter Code"** to establish a support relationship.\
+📌 Use **"Copy Code"** to share your referral code with others.\
+📌 Tap **"Safe"** to collect gold earned through the support system.\
+📌 Tap **"Relation"** to view your current support relationships.
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (881).png" alt=""><figcaption></figcaption></figure>
 
-👉On this screen, you can copy your code and enter the other party's code.
+***
 
-Through the 'Saft' button, you can collect gold accumulated through sponsorship relationships, and the 'Relation' button allows you to review the current relationship status.
-
-Now, start exchanging codes through the community and chat, and form support relationships!
+🎉 **Now, connect with the community, share your code, and build your support network!**
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**당신의 지지자들을 모집하고, 더 많은 골드를 파밍하세요!**
+#### 💡 **페이트론 시스템 – 지지자를 모집하고, 더 많은 골드를 파밍하세요!**
 
-페이트론과 클라이언트는 지지, 후원 관계 시스템입니다. \
-레퍼럴 코드를 이용하여 사용자  간에 지지, 후원 관계를 만들고 더 많은 골드를 파밍할 수 있습니다.
+**페이트론(Patron)과 클라이언트(Client)는 지지 및 후원 관계 시스템입니다.**\
+레퍼럴 코드를 활용하여 **사용자 간 후원 관계를 맺고, 추가 골드 보너스를 획득할 수 있습니다!**
+
+***
+
+#### 🔹 **페이트론 & 클라이언트 보상 혜택**
 
 {% hint style="info" %}
-❤️‍🔥**페이트론 :** 클라이언트가 사냥을 통해 벌어 들이는 골드의 0.05%를 적립하여 가져갑니다.
+❤️‍🔥 **페이트론(Patron)**
 
-💞**클라이언트 :** 페이트론을 지지하고 있을 경우, 사냥을 통해 벌어 들이는 골드의 0.5% 보너스를 획득할 수 있습니다.
+* 후원 중인 **클라이언트가 사냥을 통해 획득한 골드의 0.05%를 자동 적립**합니다.
+
+💞 **클라이언트(Client)**
+
+* **페이트론을 설정한 상태에서 사냥하면, 획득 골드의 0.5% 보너스를 추가로 획득**합니다.
 {% endhint %}
 
-* 페이트론은 후원자이고, 클라이언트는 지지자 입니다.
-* 당신은 언제든 페이트론 혹은 클라이언트가 될 수 있으며, 두 가지의 상태를 모두 가질 수 있습니다.
-* 한 명의 페이트론은 20명의 클라이언트를 가질 수 있습니다.
-* 또한 후원관계를 맺게 될 경우, 필드 PK가 불가능 하게 됩니다.
-* 당신은 클리엔텔라스 로비의 NPC ‘하지엘’ 에게서 당신의 레퍼럴 코드를 얻고, 후원 관계 및 금고를 관리할 수 있습니다.
+* 페이트론(Patron)은 **후원자**이고, 클라이언트(Client)는 **지지자** 입니다.
+* **언제든 페이트론 또는 클라이언트가 될 수 있으며, 두 역할을 동시에 수행할 수도 있습니다.**
+* **한 명의 페이트론은 최대 20명의 클라이언트를 가질 수 있습니다.**
+* **후원 관계를 맺은 경우, 해당 플레이어끼리는 필드 PK가 불가능합니다.**
+* **클리엔텔라스 로비의 NPC ‘하지엘’에게서 레퍼럴 코드를 얻고, 후원 관계 및 금고를 관리할 수 있습니다.**
 
-페이트론 시스템을 이용하기 위해서는, 우선 클리엔텔라스 로비로 이동해야 합니다.
+***
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+### 🏦 **페이트론 시스템 이용 방법**
 
-👉메인 HUD 상단의 Clientelas 버튼을 터치하여 클럽 로비로 입장할 수 있습니다.&#x20;
+1️⃣ **클리엔텔라스 로비로 이동하세요.**\
+📌 **메인 HUD 상단의 "Clientelas" 버튼을 터치하여 클럽 로비에 입장할 수 있습니다.**
+
+<figure><img src="../.gitbook/assets/image (879).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ **NPC ‘하지엘’을 찾아가세요.**\
+📌 **클럽 로비에서 'NPC 하지엘'에게 말을 걸어보세요.**
 
 <figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
-👉클럽 로비의 'NPC 하지엘' 에게 말을 걸어보세요.
+3️⃣ **레퍼럴 코드 등록 및 후원 관리**\
+📌 **"코드 입력"을 통해 후원 관계를 설정할 수 있습니다.**\
+📌 **"코드 복사"를 이용해 나의 레퍼럴 코드를 공유할 수 있습니다.**\
+📌 **"금고" 버튼을 통해 후원 관계로 적립된 골드를 수집할 수 있습니다.**\
+📌 **"관계" 버튼을 통해 현재 맺어진 후원 관계를 확인할 수 있습니다.**
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (881).png" alt=""><figcaption></figcaption></figure>
 
-👉이 화면에서 당신의 코드를 복사하고, 상대방의 코드를 입력할 수 있습니다.
+***
 
-'금고'버튼을 통해 후원 관계를 통해 모은 골드를 수집할 수 있고, '관계' 버튼을 통해 현재 관계 상태를 살펴볼 수 있습니다.
-
-자! 이제 커뮤니티와 채팅을 통해 코드를 교환하고, 지지 관계를 형성해보세요!
+🎉 **이제 커뮤니티와 채팅을 통해 코드를 공유하고, 지지 관계를 형성해 보세요!**
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**あなたの支持者を集めて、より多くのゴールドをファーミングしましょう！**
+#### 💡 ペイトロンシステム – 支援者を集めて、より多くのゴールドを獲得しよう！
 
-ペイトロンとクライアントは支持と後援の関係システムです。 リファラルコードを利用して、ユーザー間で支持と後援の関係を作り、より多くのゴールドをファーミングすることができます。
+**ペイトロン(Patron)とクライアント(Client)は、支援・後援関係を構築できるシステムです。**\
+**リファラルコード**を活用し、プレイヤー同士で支援関係を築くことで、追加のゴールドボーナスを獲得できます！
+
+***
+
+#### 🔹 ペイトロン & クライアントの報酬
 
 {% hint style="info" %}
-❤️‍🔥**ペイトロン:**  クライアントが狩りで稼ぐゴールドの0.05%を貯めていきます。
+❤️‍🔥 **ペイトロン (支援者)**
 
-💞**クライアント:** ペイトロンをサポートしている場合、狩りで稼ぐゴールドの0.5%ボーナスを獲得できます。
+* 支援するクライアントが狩りで獲得する\*\*ゴールドの0.05%\*\*を自動的に取得。
+
+💞 **クライアント (支援を受けるプレイヤー)**
+
+* **ペイトロンがいる状態で狩りをすると、獲得ゴールドの0.5%ボーナス**を追加で獲得。
 {% endhint %}
 
-* パトロンはスポンサーであり、クライアントはサポーターです。
-* いつでもパトロンまたはクライアントになることができ、両方のステータスを持つことができます。
-* 1人のパトロンは最大20人のクライアントを持つことができます。
-* また、支援関係を確立すると、フィールドPKは不可能になります。
-* 貴方はクリエンテラスロビーのNPC「ハジエル」から貴方のレファラルコードを得て、後援関係及び金庫を管理することができます。
+* **ペイトロンは支援者、クライアントは支援を受けるプレイヤーです。**
+* **プレイヤーはいつでもペイトロンまたはクライアントになれ、両方の役割を同時に持つことも可能です。**
+* **1人のペイトロンは最大20人のクライアントを支援できます。**
+* **支援関係を結んだプレイヤー同士は、フィールドPKができません。**
+* **リファラルコードの取得、支援関係の管理、ゴールドの回収は、クライエンテラスロビーのNPC「ハジエル」から行えます。**
 
-ペイトロンシステムを利用するには、まずクリエンテラスロビーに移動する必要があります。
+***
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+### 🏦 ペイトロンシステムの利用方法
 
-👉メインHUDの上部にあるClientelasボタンをタッチして、クラブロビーに入ります。
+1️⃣ **クライエンテラスロビーへ移動**\
+📌 メインHUDの **「Clientelas」** ボタンをタップし、クラブロビーへ入場。
+
+<figure><img src="../.gitbook/assets/image (879).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ **NPC「ハジエル」に話しかける**\
+📌 クラブロビー内で **NPC「ハジエル」に話しかけ、ペイトロンシステムを開く。**
 
 <figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
-👉クラブロビーの「NPCハジエル」に話しかけてみてください。
+3️⃣ **リファラルコードの登録 & 支援管理**\
+📌 **「コード入力」** で支援関係を設定。\
+📌 **「コードコピー」** で自分のリファラルコードを共有。\
+📌 **「金庫」** で支援システムを通じて得たゴールドを回収。\
+📌 **「関係」** で現在の支援関係を確認。
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (881).png" alt=""><figcaption></figcaption></figure>
 
-👉この画面で、あなたのコードをコピーし、相手のコードを入力することができます。
+***
 
-「ヴォールト」ボタンを通じて後援関係で蓄積されたゴールドを集めることができ、「関係」ボタンを通じて現在の関係状態を確認することができます。
-
-さあ、コミュニティやチャットを通じてコードを交換し、支持関係を形成してみましょう！
+🎉 **さあ、コミュニティでコードを交換し、支援ネットワークを構築しましょう！**
 {% endtab %}
 {% endtabs %}
 
