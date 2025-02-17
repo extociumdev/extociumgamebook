@@ -8,64 +8,120 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-**💡Medals are the Club's experience point system.**&#x20;
+🏅Medals serve as the **experience system for clubs**, playing a crucial role in their growth.\
+The number of medals earned allows a club to **upgrade and become stronger**.\
+In the future, **medals will also be used to upgrade Guilds and Forces**.
 
-In the future, you will be able to upgrade to Guilds and the Force based on the number of medals you acquire.
+***
 
-Medals can be earned by members of your club by PKing opponents. \
-In these PK relationships, in addition to medals, **you will receive 10% of the EXP** that your opponent lost when they died.
+#### **🔹 How to Obtain Medals**
 
-However, the conditions for receiving these rewards are as follows.
+Medals can be obtained when **your club members defeat opposing club members in PK battles**.\
+Additionally, you will receive **10% of the EXP lost by the defeated player** as a bonus.
 
-♦️ **Your opponent re-spawns in the Town.**\
-♦️ **The level difference between you and the other player is within the +-6 range.**
+However, medals and EXP are not awarded in every PK scenario.\
+To receive rewards, the following conditions must be met:
 
-Town re-spawns happen automatically 1 minute after death if you don't use resurrection feather, even if you disconnect.
+{% hint style="info" %}
+✔ **The defeated opponent must choose ‘Town Resurrection’**\
+✔ **Your level difference with the opponent must be within ±6**
+{% endhint %}
 
-When an opponent has a town re-spawn, the PKer will be able to pick up medals that fall from the spot where the opponent died (EXP is automatically picked up).
+***
 
-In addition, the number of medals awarded is based on the PK level of the opponent and the level of the club member. (See chart below.)
+#### **🔹 What is ‘Town Resurrection’?**
+
+* If a defeated player **does not use a Resurrection Feather or logs out**,\
+  they will **automatically resurrect in town after 1 minute**.
+* When the opponent resurrects in town, **the PKer will be able to collect the medal dropped at the location where the opponent died**.
+* **EXP is obtained automatically.**
+
+***
+
+#### **🔹 How is the Medal Amount Determined?**
+
+The number of medals obtained **varies based on the PK level and character level of the defeated opponent**.\
+In other words, **defeating stronger opponents grants more medals!**
+
+📌 **Refer to the table below for more details on medal rewards.**
 {% endtab %}
 
 {% tab title="한국어" %}
-**💡메달은 클럽의 경험치 시스템입니다.**&#x20;
+🏅메달은 **클럽의 경험치 시스템**으로, 클럽이 성장하는 데 중요한 역할을 합니다.\
+획득한 메달의 개수에 따라 **클럽을 더욱 강력하게 업그레이드할 수 있으며**,\
+추후, **획득된 메달의 개수로 길드 및 포스로 업그레이드할 수 있게 됩니다.**
 
-추후, 획득 된 메달의 개수로 길드 및 포스로 업그레이드 할 수 있게 됩니다.
+***
 
-메달은 내가 속한 클럽원들이 상대 클럽원을 pk하여 획득할 수 있습니다 . \
-이러한 PK관계에서는 메달 뿐만 아니라, **상대방이 사망하여 잃어버린 EXP분량의 10%를 내가 획득할 수 있게 됩니다**.
+#### **🔹 메달 획득 방법**
 
-단, 이러한 PK관계에서 보상을 받는 조건은 아래와 같습니다.
+메달은 **내 클럽원들이 상대 클럽원을 PK하여 획득**할 수 있습니다.\
+이 과정에서 **메달뿐만 아니라, 상대방이 사망하며 잃어버린 EXP의 10%를 추가로 획득**할 수 있습니다.
 
-♦️ **상대방이 마을 부활을 했을 때** \
-♦️ **나와 상대방의 레벨 차이가 +-6 범위 안에 있을 때**
+하지만! 모든 PK 상황에서 메달과 EXP를 얻을 수 있는 것은 아닙니다.\
+보상을 받기 위해서는 **다음 두 가지 조건**이 충족되어야 합니다.
 
-마을 부활은 접속을 끊더라도, 부활을 깃털을 사용하지 않는다면 사망 후 1분 뒤 자동 적용되게 됩니다.
+{% hint style="info" %}
+✔ **상대방이 ‘마을 부활’을 선택했을 때**\
+✔ **나와 상대방의 레벨 차이가 ±6 이내일 때**
+{% endhint %}
 
-상대방이 마을 부활을 하면, PKer는 상대방이 죽은 지점에서 떨어지는 메달을 획득할 수 있게 됩니다. \
-( EXP는 자동 획득 )
+***
 
-또한, 메달 개수는 상대방 클럽원의 PK레벨 및 클럽원의 레벨에 따라 차등 획득 됩니다. (아래 도표 참조)
+#### **🔹 ‘마을 부활’이란?**
+
+* 상대방이 사망 후, **부활의 깃털을 사용하지 않거나 접속을 종료**하면,\
+  1분 뒤 자동으로 **마을에서 부활**하게 됩니다.
+* 상대방이 마을에서 부활하면, **PK한 클럽원은 상대방이 죽은 위치에서 메달을 획득**할 수 있습니다.
+* EXP 보상은 **자동으로 획득**됩니다.
+
+***
+
+#### **🔹 메달 획득량은 어떻게 결정될까?**
+
+메달의 개수는 **상대방 클럽원의 PK 레벨과 캐릭터 레벨에 따라 달라집니다**.\
+즉, 더 강한 상대를 쓰러뜨릴수록, 더 많은 메달을 얻을 수 있습니다!
+
+**📌 보다 자세한 획득량은 아래 도표를 참고하세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-**💡メダルはクラブの経験値システムです。**&#x20;
+🏅メダルは**クラブの経験値システム**として機能し、クラブの成長において重要な役割を果たします。\
+獲得したメダルの数に応じて、**クラブをさらに強化・アップグレードすることが可能**になります。\
+また、**将来的にはメダルを使用してギルドやフォースをアップグレードできるようになります。**
 
-今後、獲得されたメダルの数でギルドおよびフォースにアップグレードできるようになります。 \
-\
-メダルは、私の所属クラブ員が相手クラブ員をpkして獲得できます。 \
-このようなPK関係ではメダルだけでなく、**相手が死亡して失われたEXP分量の10%を私が獲得できるようになります。** \
-\
-ただし、このようなPK関係で補償を受ける条件は以下の通りです。 \
-\
-♦️ **相手が村の復活をした時** \
-♦️ **私と相手のレベル差が+-6の範囲内にあるとき**\
-\
-村の復活は接続を切っても、復活は羽毛を使わないと死亡後1分後に自動適用されることになります。 \
-相手が村の復活をすると、PKerは相手が死んだ地点で落ちるメダルを獲得できるようになります。 \
-(EXPは自動獲得) \
-\
-また、メダル数は相手クラブ員のPKレベルおよびクラブ員のレベルによって差をつけて獲得されます。 （下記の図表を参照）
+***
+
+#### **🔹 メダルの獲得方法**
+
+メダルは、**クラブメンバーが敵対クラブメンバーをPKすることで獲得**できます。\
+さらに、倒した相手が失った**EXPの10%**&#x3092;ボーナスとして獲得できます。
+
+ただし、すべてのPK状況でメダルやEXPが得られるわけではありません。\
+報酬を受け取るためには、以下の条件を満たす必要があります。
+
+{% hint style="info" %}
+✔ **倒された相手が「街で復活」を選択した場合**\
+✔ **自分と相手のレベル差が±6以内である場合**
+{% endhint %}
+
+***
+
+#### **🔹 「街で復活」とは？**
+
+* 相手が死亡後、**復活の羽を使用せず、またはログアウトした場合**、\
+  **1分後に自動的に街で復活**します。
+* 相手が街で復活すると、**PKを行ったプレイヤーは相手が倒れた場所に落ちたメダルを回収可能**になります。
+* **EXPは自動的に獲得されます。**
+
+***
+
+#### **🔹 メダルの獲得数はどう決まる？**
+
+メダルの獲得数は、**倒した相手のPKレベルおよびキャラクターレベルによって異なります**。\
+つまり、**より強い相手を倒せば、より多くのメダルを獲得できるのです！**
+
+📌 **詳しい獲得数は下記の表を参照してください。**
 {% endtab %}
 {% endtabs %}
 
