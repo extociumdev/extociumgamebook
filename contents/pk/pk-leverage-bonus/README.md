@@ -8,7 +8,12 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 💡**PK Leverage Bonus is activated in the PK Leverage Zone.**&#x20;
 
-⚡Experience gained from the PK Leverage Bonus does not reduce energy. Only the base experience reduces energy.
+{% hint style="info" %}
+⚡Experience gained from the PK Leverage Bonus does not reduce energy. \
+Only the base experience reduces energy.
+{% endhint %}
+
+
 
 1️⃣**Basic Rules**
 
@@ -71,7 +76,12 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="한국어" %}
 💡**PK 레버리지 보너스는 PK 레버리지 존에서 발동됩니다.**
 
-**⚡**&#x50;K 레버리지 보너스로 얻은 경험치는 에너지가 차감 되지 않습니다. 에너지는 기본 경험치 만큼만 차감 됩니다.
+{% hint style="info" %}
+**⚡**&#x50;K 레버리지 보너스로 얻은 경험치는 에너지가 차감 되지 않습니다. \
+에너지는 기본 경험치 만큼만 차감 됩니다.
+{% endhint %}
+
+
 
 1️⃣**기본 룰**
 
@@ -135,7 +145,12 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="日本語" %}
 💡**PKレバレッジボーナスは、PKレバレッジゾーンで発動されます。**&#x20;
 
-⚡PKレバレッジボーナスで得られる経験値はエネルギーを消費しません。基本経験値のみがエネルギーを消費します。
+{% hint style="info" %}
+⚡PKレバレッジボーナスで得られる経験値はエネルギーを消費しません。\
+基本経験値のみがエネルギーを消費します。
+{% endhint %}
+
+
 
 1️⃣**基本ルール**
 

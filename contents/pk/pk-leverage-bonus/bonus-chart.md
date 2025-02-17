@@ -9,6 +9,7 @@ description: 🛑 This information may be updated later than the game server dat
 💡**PK Leverage Type 1 is the&#x20;**<mark style="color:green;">**easiest**</mark> <mark style="color:green;">**difficulty**</mark>**&#x20;level of leverage grade.** Apart from starting at PK6, the probability of losing items is lower compared to non-PK zones, and you can also enjoy the benefits of leverage.
 
 > 💡PK 레버리지 타입 1은 가장 쉬운 난이도의 레버리지 등급입니다. PK6 부터 시작한다는 점을 제외하면, non-PK존 보다 아이템을 잃을 확률이 적으며, 레버리지 효과도 누릴 수 있습니다.\
+> \
 > 💡PKレバレッジタイプ1は、最も簡単な難易度のレバレッジグレードです。PK6から始まることを除けば、非PKゾーンに比べてアイテムを失う確率が低く、レバレッジ効果も享受できます。
 
 1️⃣**Increase in items/gold/EXP** | 아이템/골드/EXP 증가량 | アイテム/ゴールド/EXPの増加量
@@ -30,6 +31,7 @@ description: 🛑 This information may be updated later than the game server dat
 💡**PK Leverage Type 2 is a&#x20;**<mark style="color:blue;">**medium difficulty**</mark>**&#x20;level of leverage grade.** Apart from starting at PK6, the probability of losing items is lower compared to non-PK zones, and you can also enjoy the benefits of leverage.
 
 > 💡PK 레버리지 타입 2은 중간 난이도의 레버리지 등급입니다.  PK6 부터 시작한다는 점을 제외하면, non-PK존 보다 아이템을 잃을 확률이 적으며, 레버리지 효과도 누릴 수 있습니다.\
+> \
 > 💡PKレバレッジタイプ2は中間難易度のレバレッジグレードです。PK6から始まることを除けば、非PKゾーンに比べてアイテムを失う確率が低く、レバレッジ効果も享受できます。
 
 1️⃣**Increase in items/gold/EXP** | 아이템/골드/EXP 증가량 | アイテム/ゴールド/EXPの増加量
@@ -51,6 +53,7 @@ description: 🛑 This information may be updated later than the game server dat
 💡**PK Leverage Type 3 is a&#x20;**<mark style="color:orange;">**hard difficulty**</mark>**&#x20;level of leverage grade.**
 
 > 💡PK 레버리지 타입 3은 어려운 난이도의 레버리지 등급입니다.\
+> \
 > 💡PKレバレッジタイプ3は高難易度のレバレッジグレードです。
 
 1️⃣**Increase in items/gold/EXP** | 아이템/골드/EXP 증가량 | アイテム/ゴールド/EXPの増加量

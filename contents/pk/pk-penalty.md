@@ -8,7 +8,7 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 💡**To prevent indiscriminate PK massacres, a PK penalty is imposed in Non-PK zones.**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 ❓ **If the highest level of any hero in your account is 25 or below, the PK feature is not available.**\
 You cannot attack others, and others cannot attack you.
 {% endhint %}
@@ -23,7 +23,7 @@ You cannot attack others, and others cannot attack you.
 {% tab title="한국어" %}
 **💡무분별한 PK 학살을 방지하기 위해, Non-PK 존에서는 PK 패널티가 부여됩니다.**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **❓계정 내 영웅 최고 레벨이 25 이하일 경우, PK 기능이 지원되지 않습니다.** \
 나도 상대방을 공격할 수 없고, 상대방도 나를 공격할 수 없습니다.
 {% endhint %}
@@ -38,7 +38,7 @@ You cannot attack others, and others cannot attack you.
 {% tab title="日本語" %}
 💡**無差別なPK虐殺を防ぐため、Non-PKゾーンではPKペナルティが課されます。**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 ❓ **アカウント内の英雄の最高レベルが25以下の場合、PK機能は利用できません。**\
 自分も相手を攻撃できず、相手も自分を攻撃することができません。
 {% endhint %}

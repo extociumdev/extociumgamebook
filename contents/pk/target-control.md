@@ -6,10 +6,13 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Need quick target switching for PK?**
+#### **🎯Target Control – Essential for Efficient Combat!**&#x20;
 
-Various targeting methods have been applied for large-scale battles. \
-Try utilizing the features below!
+Do you need **quick target switching for PK battles**?\
+Or perhaps **precise targeting for large-scale battles**?
+
+To enhance strategic combat, various **targeting systems** have been implemented.\
+Utilize the features below to experience **faster and more accurate target control**!
 
 1️⃣ [PK on/off button ](target-control.md#id-1-pk-on-off-button)\
 2️⃣ [Auto Target Setting ](target-control.md#id-2-auto-target-setting)\
@@ -105,9 +108,13 @@ A first tap will show the party member list, and a second tap will display a lis
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**PK를 위해 빠른 타겟 변경이 필요하신가요?**
+#### **🎯 타겟 컨트롤 – 효율적인 전투를 위한 필수 기능!**
 
-대규모 전투를 위해 다양한 타겟팅 방식이 적용되었습니다. 아래 기능들을 활용해보세요!
+PK 상황에서 **신속한 타겟 변경**이 필요하신가요?\
+혹은 **대규모 전투에서 더 정교한 타겟팅이 필요**하신가요?
+
+보다 전략적인 전투를 위해, 다양한 **타겟팅 시스템**이 적용되었습니다.\
+아래 기능들을 활용하여 **더 빠르고 정확한 타겟 컨트롤**을 경험해보세요!
 
 1️⃣[PK on/off 버튼](target-control.md#id-1-pk-on-off)\
 2️⃣[오토 타겟 세팅](target-control.md#id-2)\
@@ -202,14 +209,18 @@ A first tap will show the party member list, and a second tap will display a lis
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**PKのために素早いターゲット切り替えが必要ですか？**
+#### **🎯ターゲットコントロール – 効率的な戦闘のための必須機能！**
 
-大規模戦闘のためにさまざまなターゲティング方式が適用されています。以下の機能を活用してみてください！
+PK戦で**素早くターゲットを切り替えたい**ですか？\
+または、**大規模な戦闘でより正確なターゲティングが必要**ですか？
 
-1️⃣ **PKオン/オフボタン**\
-2️⃣ **オートターゲット設定**\
-3️⃣ **固定/次のターゲット設定**\
-4️⃣ **近接PKターゲットリスト**
+戦略的な戦闘を強化するために、さまざまな**ターゲティングシステム**が導入されています。\
+以下の機能を活用し、**より迅速かつ正確なターゲットコントロール**を体験しましょう！
+
+1️⃣ [**PKオン/オフボタン**](target-control.md#id-1pkonofubotan)\
+2️⃣ [**オートターゲット設定**](target-control.md#id-2totgetto)\
+3️⃣ [**固定/次のターゲット設定**](target-control.md#id-3notgetto)\
+4️⃣ [**近接PKターゲットリスト**](target-control.md#id-4pktgettorisuto)
 
 ### 1️⃣PKオン/オフボタン
 
