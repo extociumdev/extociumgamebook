@@ -10,31 +10,38 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Please be cautious in the hunting grounds!**
+#### **🎃Field Wave – Stay Alert in Hunting Grounds!**&#x20;
 
-A '**Field Wave**' appears on each field. \
-Field waves will contain existing monsters and enhanced types of existing monsters. \
-Monsters roam the field in groups and are not shown on the minimap.
+Unpredictable **"Field Waves"** occur in each field.\
+During a Field Wave, **both regular monsters and enhanced versions of existing monsters** will appear.
 
-'Burning' type monsters will drop [**Lucky Boxes**](../item-info/lucky-box-info.md).
+These monsters **move in groups, roaming across the field**, making the area more dangerous.\
+⚠️ **Their locations are not displayed on the minimap, so stay cautious!**
+
+🔥 **Defeating "Burning" type monsters will drop** [**Lucky Boxes**](../item-info/lucky-box-info.md)**.**
 {% endtab %}
 
 {% tab title="한국어" %}
-**💡사냥터에서 주의를 기울여주세요!**
+#### **🎃 필드 웨이브 – 사냥터에서 주의하세요!**
 
-각 필드에 ‘**필드 웨이브**’가 나타납니다. \
-필드 웨이브에는 기존 몬스터 및 기존 몬스터의 강화 타입이 추가되어 등장합니다. \
-몬스터들은 단체로 무리 지어 필드 곳곳을 누빕니다. 미니맵에는 위치가 표시되지 않습니다.
+각 필드에는 예측할 수 없는 '**필드 웨이브**'가 발생합니다.\
+필드 웨이브에서는 **기존 몬스터뿐만 아니라, 더욱 강력해진 강화 타입 몬스터**도 등장합니다.
 
-‘불타는’ 타입 몬스터는 [**럭키박스**](../item-info/lucky-box-info.md)를 드랍합니다.
+몬스터들은 무리를 지어 **필드 곳곳을 이동하며 사냥터를 위협**합니다.\
+⚠️**미니맵에는 위치가 표시되지 않으므로 주의가 필요합니다!**
+
+🔥 **‘불타는’ 타입 몬스터를 처치하면** [**럭키박스**](../item-info/lucky-box-info.md)**를 드랍합니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**狩り場で注意してください！**
+#### &#x20;**🎃フィールドウェーブ – 狩場では警戒を怠らずに！**
 
-各フィールドに「**フィールド ウェーブ**」が表示されます。 \
-フィールドウェーブには、既存のモンスターおよび既存のモンスターの強化タイプが追加されて登場します。 モンスターは群れでフィールドを歩き回りますが、ミニマップには位置が表示されません。
+各フィールドでは、予測不能な「**フィールドウェーブ**」が発生します。\
+フィールドウェーブ中は、**通常のモンスターに加え、強化版のモンスターも出現**します。
 
-「燃える」タイプのモンスターは[_**ラッキーボックス**_](../item-info/lucky-box-info.md)をドロップします。
+これらのモンスターは**群れを成してフィールド内を移動し、狩場を脅かします。**\
+⚠️ **ミニマップには位置が表示されないため、十分に注意しましょう！**
+
+🔥 **「燃える」タイプのモンスターを倒すと、**[**ラッキーボックス**](../item-info/lucky-box-info.md)**をドロップします。**
 {% endtab %}
 {% endtabs %}
