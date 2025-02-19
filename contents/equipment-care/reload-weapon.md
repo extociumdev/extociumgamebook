@@ -46,7 +46,7 @@ The required materials for each reload method are as follows.
 {% tab title="한국어" %}
 💡**무기, 오브의 스킬과 스탯을 다시 루팅해보고 싶으신가요?**
 
-무기와 오브도리로드 할 수 있다는 사실 알고 계신가요?\
+무기와 오브도 리로드 할 수 있다는 사실 알고 계신가요?\
 EXTOCIUM의 다양한 스킬 덱 조합을 만들어보려면, 리로드에 관해 꼭 알고 계셔야 한답니다!
 
 #### ❓장비 리로드 NPC 찾아가기

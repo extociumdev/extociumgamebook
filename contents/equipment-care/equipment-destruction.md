@@ -6,23 +6,61 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
+#### 🔥 **Equipment Destruction Byproducts Chart**
 
+💡 **What byproducts can be obtained from destroying equipment?**\
+This page provides a **byproduct chart for equipment destroyed through** [**Eligos** ](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)**at the Magic Shop in Rotten hill**.
+
+{% hint style="info" %}
+**This system is different from equipment destruction due to** [**enchantment failure**](../../getting-started-guide/equipment/enchantment/enchantment-failed.md#eng)**.**
+{% endhint %}
+
+Check the chart below for detailed information!
+
+❓ Unlike the guide below, when you destroy **bound equipment**, fewer byproducts are obtained.
+
+💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
+💔[Rune Destruction](equipment-destruction.md#rune-destruction)
 {% endtab %}
 
 {% tab title="한국어" %}
+#### 🔥 **장비 파괴 부산물 차트**
 
+💡 **장비를 파괴하면 어떤 부산물을 얻을 수 있을까요?**\
+이 페이지에서는 **로튼힐 > 마법상점 >** [**엘리고스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)를 통해 장비를 파괴했을 때 획득할 수 있는 **부산물 차트**를 제공합니다.
+
+{% hint style="info" %}
+**이 시스템은** [**인챈트로 인한 장비 파괴**](../../getting-started-guide/equipment/enchantment/enchantment-failed.md#undefined-1)**와는 구분됩니다.**
+{% endhint %}
+
+자세한 내용은 아래 차트를 확인하세요!
+
+❓ 아래 가이드와는 달리, **귀속 장비**를 파괴할 경우 부산물이 적게 나옵니다.
+
+💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
+💔[Rune Destruction](equipment-destruction.md#rune-destruction)
 {% endtab %}
 
 {% tab title="日本語" %}
+#### 🔥 **装備破壊 副産物チャート**
 
+💡 **装備を破壊すると、どのような副産物が得られるのでしょうか？**\
+このページでは、**ロッテンヒル > マジックショップ > エリゴス** を通じて装備を破壊した際に獲得できる **副産物チャート** をご案内いたします。
+
+{% hint style="info" %}
+このシステムは、[エンチャントによる装備破壊](../../getting-started-guide/equipment/enchantment/enchantment-failed.md#ri-ben-yu)とは異なります。
+{% endhint %}
+
+詳しくは、以下のチャートをご確認ください！
+
+❓ 以下のガイドとは異なり、バウンド装備を破壊する場合、副産物が少なくなります。
+
+💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
+💔[Rune Destruction](equipment-destruction.md#rune-destruction)
 {% endtab %}
 {% endtabs %}
 
 ## 💔Equipment Destruction
-
-❓ Unlike the guide below, when you destroy **bound equipment**, fewer byproducts are obtained.\
-❓ 아래 가이드와는 달리, **귀속 장비**를 파괴할 경우 부산물이 적게 나옵니다.\
-❓ 以下のガイドとは異なり、バウンド装備を破壊する場合、副産物が少なくなります。
 
 <details>
 
@@ -274,9 +312,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 </details>
 
-## 💔Rune Distruction
-
-
+## 💔Rune Destruction
 
 |                              |              |                        |                    |                 |
 | ---------------------------- | ------------ | ---------------------- | ------------------ | --------------- |
