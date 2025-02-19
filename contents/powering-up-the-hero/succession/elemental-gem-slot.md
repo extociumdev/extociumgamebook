@@ -6,113 +6,161 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Do you want to change the attribute of a hero after succession?**
+### 💎 Elemental Gem System Guide
 
-A hero that has undergone succession has the **privilege to change its attribute**.
+💡 **Do you want to change the attribute of your succeeded hero?**\
+Succeeded heroes have the **privilege of freely changing their attribute**.
+
+***
+
+#### ✅ How to Equip Elemental Gems
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-👉  If you check the **succession hero's information**, you will find an **elemental gem slot**.
+👉 Open the **hero information screen** and locate the **Elemental Gem Slot**.\
+👉 **Elemental Gems can be obtained through crafting**.
 
-**❓Elemental gems** can be [**crafted**](../../../getting-started-guide/craft.md#eng).
+***
+
+#### ✅ How to Craft Elemental Gems
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-👉 Learn how to craft **elemental gems** in [**Training**](../../../getting-started-guide/traning.md#eng) **> Monsterology**.
+👉 Learn the **Elemental Gem crafting method** in **Skill Training > Monsterology**.\
+👉 The **attribute fragments required for crafting can be obtained from raids**.
 
-**❓**&#x54;he essential **attribute fragments** for crafting elemental gems can be obtained through [**raids**](../../field-raid.md#eng).\
+***
 
+#### ✅ How to Change Elemental Gems
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-👉 Tap the **elemental gem slot** to bring up a pop-up like the one shown above.\
-If you possess an **elemental gem**, the **equipable items** will be listed.
+👉 **Tap the Elemental Gem Slot** to open a pop-up displaying available gems.\
+👉 If you have **Elemental Gems in your inventory**, a list of equippable items will appear.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-👉 Select the **item you want to change** and tap the **'Equip'** button.
+👉 **Select the gem you want to equip and press the ‘Equip’ button**.
 
 {% hint style="info" %}
-❓ Once an **elemental gem** is equipped, it will be **destroyed** when replaced, so make your decision carefully!
+❓**Caution! Once an Elemental Gem is equipped, replacing it will destroy the previously equipped gem**, so choose carefully!
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-👉 The **succession hero's attribute** has now been changed!\
-Use attribute changes to create various strategies.
+
+
+***
+
+#### 🎉 **Attribute Change Complete!**
+
+Your **succeeded hero's attribute has been changed**.\
+**Use Elemental Gems to create diverse strategies!** ⚔🔥
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**계승한 영웅의 속성을 변경하고 싶으신가요?**
+### 💎 **엘리멘탈 젬 시스템 안내**
 
-계승된 영웅은 **속성을 변경할 수 있는 특권**을 가집니다.
+💡 **계승한 영웅의 속성을 변경하고 싶으신가요?**\
+계승된 영웅은 **속성을 자유롭게 변경할 수 있는 특권**을 가집니다.
+
+***
+
+#### ✅ **엘리멘탈 젬 장착 방법**
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-👉 **계승 영웅의 정보**를 확인하면 **속성석 슬롯**이 있습니다.
+👉 **계승 영웅 정보**에서 **속성석 슬롯**을 확인하세요.\
+👉 **속성석(엘리멘탈 젬)은 제작을 통해 획득**할 수 있습니다.
 
-**❓엘리멘탈 젬**은 **제작**을 통해 만들 수 있습니다.
+***
+
+#### ✅ **엘리멘탈 젬 제작 방법**
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-👉 **기술연마 > 마물학**에서 **엘리멘탈 젬**의 제작 방법을 익혀보세요.
+👉 **기술 연마 > 마물학**에서 **엘리멘탈 젬 제작법을 습득**하세요.\
+👉 제작에 필요한 **속성 조각은 레이드에서 획득**할 수 있습니다.
 
-**❓**&#xC5D8;리멘탈 젬 제작에 필요한 **속성 조각**은 **레이드**를 통해 획득할 수 있습니다.\
+***
 
+#### ✅ 엘리멘탈 젬 변경하기
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-👉 **속성석 슬롯**을 터치하면 위 이미지와 같은 팝업이 나옵니다.\
-보유 중인 **엘리멘탈 젬**이 있을 경우, **장착 가능한 아이템**이 리스트에 표시됩니다.
+👉 **엘리멘탈 젬 슬롯을 터치하면**, 장착 가능한 젬이 표시된 팝업이 나타납니다.\
+👉 **보유 중인 엘리멘탈 젬이 있을 경우**, 리스트에서 선택할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-👉 **변경할 아이템**을 선택한 후, **'장착'** 버튼을 눌러주세요.
+👉 **변경할 젬을 선택한 후, ‘장착’ 버튼을 눌러주세요.**
 
 {% hint style="info" %}
-❓ **속성석**은 한 번 장착하면, 다음 번 변경 시 기존 장착 아이템이 **파괴**되므로 신중하게 결정하세요!
+❓**엘리멘탈 젬은 한 번 장착하면 교체 시 기존 젬이 파괴**되므로 신중하게 결정하세요!
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-👉 이제 **계승 영웅의 속성**이 변경되었습니다!\
-속성 변경을 통해 다양한 전략을 구성해 보세요.
+
+
+***
+
+#### 🎉 **속성 변경 완료!**
+
+이제 **계승 영웅의 속성이 변경**되었습니다.\
+**엘리멘탈 젬을 활용하여 다양한 전략을 구상하세요!** ⚔🔥
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**継承後に英雄の属性を変更したいですか？**
+### 💎 エレメンタルジェムシステム ガイド
 
-継承された英雄には**属性を変更する特権**があります。
+💡 **继承した英雄の属性を変更したいですか？**\
+继承した英雄は **自由に属性を変更できる特権** を持っています。
+
+***
+
+#### ✅ エレメンタルジェムの装着方法
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-👉 **継承英雄の情報**を確認すると、**エレメンタルジェムスロット**があります。
+👉 **英雄情報画面** を開き、**エレメンタルジェムスロット** を確認してください。\
+👉 **エレメンタルジェムは製作によって獲得可能** です。
 
-**❓エレメンタルジェム**は[**製作**](../../../getting-started-guide/craft.md#ri-ben-yu)を通じて作ることができます。
+***
+
+#### ✅ エレメンタルジェムの製作方法
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-👉 [**スキルトレーニング**](../../../getting-started-guide/traning.md#ri-ben-yu) **> 魔物学**で**エレメンタルジェム**の製作方法を学んでください。.
+👉 **スキル修練 > 魔物学** にて **エレメンタルジェムの製作方法を習得** してください。\
+👉 **製作に必要な属性の欠片はレイドで獲得** できます。
 
-**❓エレメンタルジェム**の製作に必要な[**属性の欠片**](../../field-raid.md#ri-ben-yu)は**レイド**を通じて獲得できます。\
+***
 
+#### ✅ エレメンタルジェムの変更方法
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-👉 **エレメンタルジェムスロット**をタップすると、上記のようなポップアップが表示されます。\
-**エレメンタルジェム**を所持している場合、**装備可能なアイテム**がリストに表示されます。
+👉 **エレメンタルジェムスロットをタップ** すると、装着可能なジェムが表示されるポップアップが開きます。\
+👉 **所持しているエレメンタルジェムがある場合**、リストに装着可能なアイテムが表示されます。
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-👉 **変更したいアイテム**を選択し、**'Equip'ボタンを押してください。**
+👉 **装着するジェムを選択し、「装着」ボタンを押してください**。
 
 {% hint style="info" %}
-❓ **エレメンタルジェムは一度装着すると、次回変更時に既存の装着アイテムが破壊**されるため、慎重に決定してください！
+❓**一度装着したエレメンタルジェムは、交換時に以前のジェムが破壊されますので、慎重に選択してください！**
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-👉 これで**継承英雄の属性**が変更されました！\
-属性の変更を通じて、さまざまな戦略を構築してみてください。
+
+
+***
+
+#### 🎉 **属性変更完了！**
+
+您的 **继承した英雄の属性が変更されました**。\
+**エレメンタルジェムを活用して、多様な戦略を構築しましょう！** ⚔🔥
 {% endtab %}
 {% endtabs %}
