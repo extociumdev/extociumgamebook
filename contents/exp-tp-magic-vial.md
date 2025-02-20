@@ -6,98 +6,167 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 **You can trade EXP and TP using an EXP/TP Bottle!**
+💡 **With EXP / TP Magic Vials, you can store and trade EXP and TP!**
 
 {% hint style="info" %}
-❓**EXP/TP** from trial heroes **cannot be extracted**.
+**❓ EXP / TP cannot be extracted from Trial Heroes.**
 {% endhint %}
+
+***
+
+#### ✅ **How to Use Magic Vials**
+
+👉 Visit[ **NPC Amonas**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#amonas-amonasu) **at the** [**Magic Shop**](../field-info/rotten-hill/magic-shop/) **in** [**Rotten hill**](../field-info/rotten-hill/#eng).
 
 <figure><img src="../.gitbook/assets/image (810).png" alt=""><figcaption></figcaption></figure>
 
-👉 Head to [**Rottenhill** ](../field-info/rotten-hill/#eng)**>** [**Magic Shop**](../field-info/rotten-hill/magic-shop/) **> NPC Amonas**.
+
+
+👉 To store **EXP or TP**, you will need an **EXP Bottle and TP Bottle**, respectively.
+
+{% hint style="info" %}
+These items **can only be obtained through** [**XTO Holding**](../xto-token/xto-holding-service/).
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
 
-👉 To store **EXP** and **TP** in flasks, you will need an **EXP Bottle** and a **TP Bottle**, respectively.
+
+
+***
+
+#### ✅ **Storing EXP / TP**
+
+👉 **Speak with Amonas** and select the amount of **EXP or TP** you want to store.
 
 {% hint style="info" %}
-These items can only be obtained through [**XTO Holding**](../xto-token/xto-holding-service/).
+❓**Storing large amounts may result in some loss.**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (813).png" alt=""><figcaption></figcaption></figure>
 
-👉 When you talk to **Amonas**, you can set the amount of **EXP** and **TP** to be stored.\
-❓If you store a large amount, some **EXP** and **TP** may be lost.
+👉 Once stored, an **item containing the EXP / TP will be created in your inventory**.
 
 <figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
 
-👉Once the storage is complete, an item containing **EXP/TP** will be generated in your inventory.\
-Using this item will recharge **EXP**, and you can also register it on the market for trading.
 
-Grow your hero in a variety of ways!
+
+***
+
+#### ✅ **Using EXP / TP Magic Vials**
+
+✔ **Using the item instantly restores the stored EXP / TP.**\
+✔ **It can also be listed on the market for trading with other players.**
+
+Utilize **EXP / TP Magic Vials to enhance your hero in multiple ways!** 🚀
 {% endtab %}
 
 {% tab title="한국어" %}
-💡 **EXP / TP 호리병으로 EXP와 TP를 거래할 수 있어요!**
+💡 **EXP / TP 호리병을 사용하면 EXP와 TP를 저장하거나 거래할 수 있습니다!**
 
 {% hint style="info" %}
-❓트라이얼 영웅의 EXP/TP는 추출이 불가능합니다.
+❓ **트라이얼 영웅의 EXP / TP는 추출할 수 없습니다.**
 {% endhint %}
+
+***
+
+#### ✅ **호리병 사용 방법**
+
+👉 [**로튼힐**](../field-info/rotten-hill/#undefined-1) **>** [**마법상점**](../field-info/rotten-hill/magic-shop/)에서 [**NPC 아모나스**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#amonas-amonasu)를 찾아가세요.
 
 <figure><img src="../.gitbook/assets/image (810).png" alt=""><figcaption></figcaption></figure>
 
-👉[로튼힐](../field-info/rotten-hill/#undefined-1) > [마법상점](../field-info/rotten-hill/magic-shop/) > NPC 아모나스를 찾아가보세요.
+
+
+👉 **EXP 또는 TP를 저장하려면** 각각 **EXP 보틀과 TP 보틀**이 필요합니다.
+
+{% hint style="info" %}
+해당 아이템은 [**XTO 홀딩**](../xto-token/xto-holding-service/)을 통해서만 획득이 가능합니다.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
 
-👉EXP와 TP를 호리병에 담으려면, EXP 보틀과 TP 보틀이 각각 필요합니다.&#x20;
+
+
+***
+
+#### ✅ **EXP / TP 저장하기**
+
+👉 **아모나스와 대화한 후**, 원하는 **EXP 또는 TP의 양을 설정**하세요.
 
 {% hint style="info" %}
-해당 아이템은 [XTO 홀딩](../xto-token/xto-holding-service/)을 통해서만 획득이 가능합니다.
+❓**많은 양을 담게 될 경우, EXP와 TP에 일부 소실이 발생할 수 있습니다.**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (813).png" alt=""><figcaption></figcaption></figure>
 
-👉아모나스와 대화하면 내가 담을 EXP, TP의 양을 설정할 수 있습니다. \
-❓많은 양을 담게 될 경우, EXP와 TP에 일부 소실이 발생할 수 있습니다.
+👉 저장을 완료하면 **EXP / TP가 담긴 아이템이 인벤토리에 생성**됩니다.
 
 <figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
 
-👉담기를 완료하면 인벤토리에 EXP/TP가 담긴 아이템이 생성됩니다. \
-이 아이템을 사용하면 EXP가 충전됩니다. 마켓에 등록하여 거래 할 수도 있습니다.
 
-다양한 방식으로 영웅을 성장 시켜보세요!
+
+***
+
+#### ✅ **EXP / TP 호리병 활용하기**
+
+✔ **아이템을 사용하면 EXP / TP가 즉시 충전**됩니다.\
+✔ **마켓에 등록하여 다른 플레이어와 거래할 수도 있습니다.**
+
+EXP / TP 호리병을 활용해 **다양한 방식으로 영웅을 성장시켜 보세요!** 🚀
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **EXPとTPはEXP/TPフラスコを使用して取引することができます！**
+💡 **EXP / TP マジックバイアルを使用すると、EXPやTPを保存・取引することが可能です！**
 
 {% hint style="info" %}
-❓トライアル英雄の**EXP/TP**は**抽出できません**。
+❓ **トライアル英雄のEXP / TPは抽出できません。**
 {% endhint %}
+
+***
+
+#### ✅ **マジックバイアルの使用方法**
+
+👉 [**ロッテンヒル**](../field-info/rotten-hill/#ri-ben-yu) **>** [**マジックショップ**](../field-info/rotten-hill/magic-shop/)**の**[**NPCアモナス**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#amonas-amonasu) を訪れてください。
 
 <figure><img src="../.gitbook/assets/image (810).png" alt=""><figcaption></figcaption></figure>
 
-👉 [**ロッテンヒル**](../field-info/rotten-hill/#ri-ben-yu) **>** [**魔法ショップ**](../field-info/rotten-hill/magic-shop/) **> NPCアモナス**に行ってみてください。
+
+
+👉 **EXPやTPを保存するには、それぞれEXPボトルとTPボトルが必要** です。
+
+{% hint style="info" %}
+**これらのアイテムは**[**XTOホールディング**](../xto-token/xto-holding-service/)**を通じてのみ入手可能** です。
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
 
-👉**EXP**と**TP**をフラスコに入れるには、**EXPボトル**と**TPボトル**がそれぞれ必要です。
+
+
+***
+
+#### ✅ **EXP / TPの保存方法**
+
+👉 **アモナスに話しかけ、保存したいEXPまたはTPの量を設定** してください。
 
 {% hint style="info" %}
-これらのアイテムは[**XTOホールディング**](../xto-token/xto-holding-service/#ri-ben-yu)を通じてのみ入手可能です。
+❓**大量に保存すると、一部が失われる可能性がございます。**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (813).png" alt=""><figcaption></figcaption></figure>
 
-👉**アモナス**と会話すると、**EXP**と**TP**の入れる量を設定できます。\
-❓大量に入れる場合、一部の**EXP**と**TP**が消失する可能性があります。
+👉 保存が完了すると、**EXP / TPが入ったアイテムがインベントリに生成** されます。
 
 <figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
 
-👉入れ終わると、**EXP/TP**が入ったアイテムがインベントリに生成されます。\
-このアイテムを使用すると**EXP**が充填され、マーケットに登録して取引することも可能です。
 
-さまざまな方法で英雄を成長させましょう！
+
+***
+
+#### ✅ **EXP / TP マジックバイアルの活用方法**
+
+✔ **アイテムを使用すると、即座にEXP / TPが回復** します。\
+✔ **マーケットに登録し、他のプレイヤーと取引することも可能です。**
+
+**EXP / TP マジックバイアルを活用し、英雄をさらに成長させましょう！** 🚀
 {% endtab %}
 {% endtabs %}
