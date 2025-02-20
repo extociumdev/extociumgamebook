@@ -148,6 +148,7 @@
   * [📁 Enterance](gamemode/free-arena/enterance.md)
   * [📁 Room rules](gamemode/free-arena/room-rules.md)
   * [📁 Game Options](gamemode/free-arena/game-options.md)
+* [❄️ Frost War](gamemode/frost-war.md)
 
 ## 💘 Clientelas Club
 
