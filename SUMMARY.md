@@ -188,6 +188,7 @@
 * [🫙 EXP/TP Magic Vial](contents/exp-tp-magic-vial.md)
 * [🏠 My Home](contents/my-home/README.md)
   * [Furnace](contents/my-home/furnace.md)
+  * [🔐 Personal Safe](contents/my-home/personal-safe.md)
 * [🥇 Achievement](contents/achievement.md)
 * [📚 Weekly swap Quests](contents/weekly-swap-quests.md)
 

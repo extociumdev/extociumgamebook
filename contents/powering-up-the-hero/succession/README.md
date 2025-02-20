@@ -31,7 +31,7 @@ Through this system, you can **unlock the hero’s third skill slot**, granting 
 [succession-heroes](../../../getting-started-guide/heroes/succession-heroes/)
 {% endcontent-ref %}
 
-⚔️ **How to Perform Hero Succession**
+#### ⚔️ **How to Perform Hero Succession**
 
 <figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
@@ -217,7 +217,7 @@ For example, if the hero **Tamuz** has succeeded into **Nanna or Indra**:
 [succession-heroes](../../../getting-started-guide/heroes/succession-heroes/)
 {% endcontent-ref %}
 
-⚔️ **英雄継承の方法**
+#### ⚔️ **英雄継承の方法**
 
 <figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
