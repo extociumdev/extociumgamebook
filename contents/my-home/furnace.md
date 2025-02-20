@@ -1,58 +1,86 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
 icon: campfire
+description: 🛑 This information may be updated later than the game server data.
 ---
 
 # Furnace
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Let's use the furnace to create new materials!**
+💡 **Create new materials using the furnace!**\
+Do you have unused or unwanted items?\
+Then why not utilise the **furnace**? You can find it in **'**[**My Home**](./#eng)**'**.
 
-Do you have items that are rarely used or need to be discarded? \
-Try using the furnace! You can find the furnace in [My Home](./#eng).\
+### 🛠 **Repairing the Furnace**
 
+👉 If you are using the furnace for the first time, you must **repair it**.\
+👉 **Use gold and woods to restore the furnace.**
+
+{% hint style="info" %}
+❓ _Materials required for repair:_
+
+* **5,000 Gold**
+* **Wood** ×200
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (814).png" alt=""><figcaption></figcaption></figure>
 
-👉 If you are using the furnace for the first time, you will need to **repair it** first.\
-Use **gold and wood** to repair the furnace.
+
+
+### 🔥 Furnace Functions
+
+The furnace allows you to **burn items to obtain 'embers'**, which can then be used to **summon new items**.
+
+* The amount of **embers gained varies depending on the item** burned.
+* ❓ _Untradeable items can also be burned, so be cautious not to incinerate valuable possessions!_
 
 <figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
 
-👉 The furnace is a feature that **burns items to obtain "embers"**, which can then be used to summon other items. The amount of embers you can get varies depending on the item.
 
-{% hint style="info" %}
-❓ You can even burn **non-tradeable items**, so be careful not to burn any important items!
-{% endhint %}
+
+### 🎮 How to Use
+
+1️⃣ **Burning Items**
+
+* Drag & drop items from your **inventory to the furnace slot**.
+* The **estimated ember yield** will be displayed below the slot.
+* Click **\[Burn]** to generate embers.
 
 <figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
 
-👉 **Drag & drop** items from the inventory on the right to the **furnace slot**!
 
-The expected **ember yield** will be displayed below the slot, so keep it in mind.\
-Press the **"Burn"** button to summon embers.
+
+
+
+2️⃣ **Claiming Embers**
+
+* The embers you obtain can be **claimed from the 'Mailbox'**.
 
 <figure><img src="../../.gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>
 
-👉 The **embers** you summon can be received from the **mailbox**.
+
+
+3️⃣ **Summoning Items**
+
+* Once you have received the embers, return to the **furnace** and use them, along with gold, to summon new items.
+* Click **\[Summon]** to proceed!
+* ❓ _Each summon requires 30 embers._
 
 <figure><img src="../../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
 
-👉 Have you received the embers from the mailbox?\
-If so, return to the furnace to use **embers and gold** to summon items. Press the **"Summon"** button!
 
-{% hint style="info" %}
-❓ **30 embers** are required per summon.
-{% endhint %}
+
+4️⃣ **Checking Summoned Items**
+
+* The result of the summon will be displayed immediately.
 
 <figure><img src="../../.gitbook/assets/image (819).png" alt=""><figcaption></figcaption></figure>
 
-👉 The result of the summoned item will be displayed.
+* Summoned items can also be found in the '**Mailbox**'.
 
 <figure><img src="../../.gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
 
-👉 You can also check the summoned items in the **mailbox**.
+🔥 **Make good use of the embers and transform unwanted items into valuable resources!**
 
 ### ✅ **Table of Items Summonable with Embers**
 
@@ -72,52 +100,81 @@ If so, return to the furnace to use **embers and gold** to summon items. Press t
 {% endtab %}
 
 {% tab title="한국어" %}
-💡화로를 이용해 새로운 재료를 만들어 봅시다!
+💡 **화로를 이용해 새로운 재료를 만들어 봅시다!**
 
-잘 사용하지 않거나, 버려야 하는 아이템들이 있나요? \
-그렇다면 화로를 이용해보세요! 화로는 '[마이홈](./#undefined-1)'에서 찾을 수 있습니다.\
+사용하지 않는 아이템이나 버려야 할 아이템이 있나요?\
+그렇다면 **화로**를 활용해 보세요! 화로는 **'**[**마이홈**](./#undefined-1)**'**&#xC5D0;서 찾을 수 있습니다.
 
+### 🛠 **화로 수리하기**
+
+👉 화로를 처음 사용한다면 **우선 수리가 필요합니다.**\
+👉 **골드와 목재를 사용해 화로를 수리**해 주세요.
+
+{% hint style="info" %}
+❓ _화로 수리에 필요한 재료:_
+
+* **5,000 골드**
+* **목재** ×200
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (814).png" alt=""><figcaption></figcaption></figure>
 
-👉화로를 처음 사용한다면 우선 수리를 해야합니다. 골드와 목재를 이용해 화로를 수리해주세요.
+
+
+### 🔥 **화로의 기능**
+
+화로는 **아이템을 태워 '불씨'를 얻고**, 그 불씨를 사용해 **새로운 아이템을 소환하는 시스템**입니다.
+
+* 아이템마다 태울 때 획득할 수 있는 **불씨의 양이 다릅니다.**
+* ❓ _거래 불가 아이템도 태울 수 있으니, 중요한 아이템이 소각되지 않도록 주의하세요!_
 
 <figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
 
-👉화로는 아이템을 태워 '불씨'를 얻고, '불씨'로 다른 아이템을 소환하는 컨텐츠입니다.\
-아이템마다 소환할 수 있는 불씨의 양이 조금씩 다릅니다.
 
-{% hint style="info" %}
-❓거래불가 아이템도 태울 수 있으니 중요한 아이템을 태우지 않도록 조심하세요!
-{% endhint %}
+
+### 🎮 **사용 방법**
+
+1️⃣ **아이템 태우기**
+
+* 우측 인벤토리에서 **화로 칸으로 아이템을 드래그&드롭**하세요.
+* **불씨 예상 획득량이 슬롯 하단에 표시**되니 참고하세요.
+* **\[태우기] 버튼을 누르면 불씨가 소환**됩니다.
 
 <figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
 
-👉우측 인벤토리에서 아이템을 화로 칸에 드래그&드랍 해주세요!
 
-슬롯 하단에 불씨에 대한 예상 획득량이 표시되니 참고해주세요. '태우기' 버튼을 누르면 불씨가 소환됩니다.
+
+
+
+2️⃣ **불씨 수령하기**
+
+* 생성된 **불씨는 '우편함'에서 수령**할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>
 
-👉소환된 불씨는 '우편함' 에서 수령할 수 있습니다.
+
+
+3️⃣ **아이템 소환하기**
+
+* 우편함에서 불씨를 받았다면, 다시 화로로 돌아와 **불씨와 골드를 사용해 아이템을 소환**할 수 있습니다.
+* **\[소환] 버튼을 눌러보세요!**
+* ❓ _소환 1회당 불씨 30개가 필요합니다._
 
 <figure><img src="../../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
 
-👉우편함에서 불씨를 수령했나요? \
-그렇다면, 이제 화로로 돌아와 불씨와 골드를 넣고 아이템을 소환할 수 있습니다. \
-'소환' 버튼을 눌러보세요!
 
-{% hint style="info" %}
-❓소환 1회 당 불씨 30개가 필요합니다.
-{% endhint %}
+
+4️⃣ **소환된 아이템 확인**
+
+* 소환된 아이템의 결과가 즉시 표시됩니다.
 
 <figure><img src="../../.gitbook/assets/image (819).png" alt=""><figcaption></figcaption></figure>
 
-👉소환된 아이템의 결과가 표시됩니다.
+* **소환된 아이템 역시 '우편함'에서 확인할 수 있습니다.**
 
 <figure><img src="../../.gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
 
-👉소환된 아이템 역시 '우편함' 에서 확인할 수 있습니다.
+🔥 불씨를 잘 활용해 불필요한 아이템을 가치 있게 바꿔 보세요!
 
 ### ✅불씨로 소환 가능한 아이템 도표
 
@@ -137,54 +194,80 @@ If so, return to the furnace to use **embers and gold** to summon items. Press t
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**炉を使って新しい素材を作ってみましょう！**
+💡 **炉を活用して新しい素材を作りましょう！**\
+使わないアイテムや不要なアイテムはありませんか？\
+それなら、ぜひ **炉を活用** してみてください！炉は **「**[**マイホーム**](./#ri-ben-yu)**」** で見つけることができます。
 
-あまり使わない、または捨てなければならないアイテムがありますか？ \
-**炉**を使ってみてください！\
-[炉は**マイホーム**で見つけることができます。](./#ri-ben-yu)
+### 🛠 炉の修理
+
+👉 初めて炉を使用する場合は、**まず修理が必要** です。\
+👉 **ゴールドと木材を使用して炉を修理してください。**
+
+{% hint style="info" %}
+❓ _修理に必要な素材:_
+
+* **5,000 ゴールド**
+* **木材** ×200
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (814).png" alt=""><figcaption></figcaption></figure>
 
-👉 **炉**を初めて使用する場合は、まず**修理**が必要です。\
-**ゴールドと木材**を使って炉を修理してください。
+
+
+### 🔥 **炉の機能**
+
+炉では **アイテムを燃やして「火種」(embers) を獲得** し、その火種を使用して **新たなアイテムを召喚** できます。
+
+* **獲得できる火種の量はアイテムごとに異なります。**
+* ❓ _取引不可のアイテムも燃やせるため、大切なアイテムを誤って燃やさないようご注意ください！_
 
 <figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
 
-👉 炉はアイテムを\*\*燃やして「火種」\*\*を得て、その火種で他のアイテムを召喚する機能です。\
-アイテムごとに得られる火種の量は少しずつ異なります。
 
-{% hint style="info" %}
-❓ **取引不可アイテム**も燃やすことができるので、重要なアイテムを燃やさないように注意してください！
-{% endhint %}
+
+### 🎮 使用方法
+
+1️⃣ **アイテムを燃やす**
+
+* **インベントリから炉のスロットにアイテムをドラッグ＆ドロップ** してください。
+* **獲得可能な火種の予測量** がスロットの下に表示されます。
+* **\[燃やす] ボタンを押すと、火種が生成** されます。
 
 <figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
 
-👉 右側のインベントリからアイテムを**ドラッグ＆ドロップ**して**炉のスロット**に入れてください！
 
-スロットの下に**火種の予想獲得量**が表示されますので、参考にしてください。\
-\*\*「燃やす」\*\*ボタンを押すと火種が召喚されます。
+
+
+
+2️⃣ **火種の受け取り**
+
+* 獲得した火種は **「郵便箱」から受け取る** ことができます。
 
 <figure><img src="../../.gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>
 
-👉 召喚された**火種**は**郵便箱**で受け取ることができます。
+
+
+3️⃣ **アイテムの召喚**
+
+* 郵便箱で火種を受け取ったら、**炉に戻り、火種とゴールドを使用してアイテムを召喚** できます。
+* **\[召喚] ボタンを押してください！**
+* ❓ _1回の召喚には火種30個が必要です。_
 
 <figure><img src="../../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
 
-👉 **郵便箱**から火種を受け取りましたか？\
-それなら、炉に戻って**火種とゴールド**を入れてアイテムを召喚することができます。 \
-\*\*「召喚」\*\*ボタンを押してみましょう！
 
-{% hint style="info" %}
-❓**召喚1回につき30個の火種**が必要です。
-{% endhint %}
+
+4️⃣ **召喚されたアイテムの確認**
+
+* 召喚結果が即座に表示されます。
 
 <figure><img src="../../.gitbook/assets/image (819).png" alt=""><figcaption></figcaption></figure>
 
-👉 召喚されたアイテムの結果が表示されます。
+* 召喚されたアイテムは「**郵便箱**」から確認できます。
 
 <figure><img src="../../.gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
 
-👉 召喚されたアイテムも**郵便箱**で確認できます。
+🔥 **火種を活用して、不用品を貴重なアイテムに変えましょう！**
 
 ### ✅ **火種で召喚可能なアイテム表**
 
