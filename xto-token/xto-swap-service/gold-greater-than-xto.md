@@ -14,7 +14,7 @@ description: 🛑 This information may be updated later than the game server dat
 >
 > ❓The '[Abundance and Famine](abundance-and-famine.md#eng)' system may operate depending on the total amount of gold -> XTO token swaps within the server.
 
-✅ **Conditions for swapping:**
+#### ✅ **Conditions for swapping:**
 
 1️⃣ You must complete the weekly swap quest.&#x20;
 
@@ -136,7 +136,7 @@ description: 🛑 This information may be updated later than the game server dat
 >
 > ❓サーバー内でのゴールド -> XTOトークンへの交換総量に応じて、「豊作と飢饉」システムが作動する可能性があります。
 
-✅ **交換可能条件：**
+#### ✅ **交換可能条件：**
 
 1️⃣週間交換クエストを完了する必要があります。&#x20;
 
