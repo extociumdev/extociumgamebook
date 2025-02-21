@@ -8,50 +8,101 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-**💡Achieve and Receive Rewards!**
+💡 **Complete achievements and claim valuable rewards!**
 
-As you enjoy hunting and PvP in EXTOCIUM, you can complete achievements. Starting the game and progressing through these achievements will reward you with various items that aid in gameplay!
+As you **hunt and engage in PvP battles** in EXTOCIUM, you will naturally progress through various achievements.\
+By steadily completing achievements from the beginning of your journey, you can **earn a variety of useful items** to aid your gameplay!
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+### 🎯 Accessing the Achievements Menu
 
-👉 To access the achievements menu, tap the guide button at the top of the main HUD.
+👉 Tap the **Guide button at the top of the main HUD** to access the achievements menu.
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
 
-👉 Tap the 'Achievements' tab shown in the image above to open the achievements menu.
+👉 Select the **'Achievements' tab** to view the list of available achievements.
 
-When you meet the achievement conditions, tap the 'Receive' button in the menu above to claim your reward. You can check your received gifts in the 'Mailbox'.
+<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
+
+### 🎁 Claiming Achievement Rewards
+
+👉 Once you meet the achievement requirements, the **'Claim' button** will become available.
+
+<figure><img src="../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+
+👉 Tap the **'Receive' button** to receive your rewards.
+
+<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+
+👉 **Rewards can be collected from the 'Mailbox'.**
+
+<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+
+🏆 **Complete achievements and enjoy a variety of rewards!**
 {% endtab %}
 
 {% tab title="한국어" %}
-**💡업적을 달성하고, 선물도 받아가세요!**
+💡 **업적을 달성하고 푸짐한 보상을 받아가세요!**
 
-EXTOCIUM에서 사냥과 PvP를 즐기다 보면, 업적을 해결할 수 있습니다. 게임 시작과 함께 업적을 해결해 나가면, 게임 플레이에 도움이 되는 다양한 아이템이 보상으로 제공됩니다!
+EXTOCIUM에서 **사냥과 PvP를 즐기는 것만으로도** 다양한 업적을 달성할 수 있습니다.\
+게임을 시작하면서 차근차근 업적을 해결해 나가면, **게임 플레이에 도움이 되는 다양한 아이템**을 보상으로 획득할 수 있습니다!
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+### 🎯 **업적 메뉴 접근 방법**
 
-👉업적 메뉴에 접근하려면 메인 HUD 상단의 가이드 버튼을 터치해주세요.
+👉 **메인 HUD 상단의 가이드 버튼**을 터치하면 업적 메뉴에 접근할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
 
-👉위 이미지에 표시된 '업적' 탭을 터치하면 업적 메뉴가 열립니다.
+👉 **'업적' 탭을 터치**하면 업적 목록이 표시됩니다.
 
-업적 조건이 달성 되면, 위 메뉴에서 '받기' 버튼을 터치하여 선물을 받을 수 있습니다. 받은 선물은 '우편함'에서 확인할 수 있습니다.
+<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
+
+### 🎁 **업적 보상 받기**
+
+👉 업적 조건을 충족하면 **'받기' 버튼**이 활성화됩니다.
+
+<figure><img src="../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+
+👉 **'받기' 버튼을 터치하여 보상을 수령**하세요.
+
+<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+
+👉 **획득한 보상은 '우편함'에서 확인**할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+
+🏆 **업적을 달성하고 다양한 보상을 받아보세요!**
 {% endtab %}
 
 {% tab title="日本語" %}
-**💡業績を達成して、プレゼントも受け取ろう！**
+💡 **業績を達成し、貴重な報酬を獲得しましょう！**
 
-EXTOCIUMで狩りやPvPを楽しんでいると、業績を達成することができます。ゲームを開始し、業績を達成していくと、ゲームプレイに役立つさまざまなアイテムが報酬として提供されます！
+EXTOCIUMで**狩猟やPvPを楽しむだけで**、さまざまな業績を達成できます。\
+ゲームを始めたばかりの頃から業績を達成していくことで、**プレイに役立つさまざまなアイテム**を報酬として獲得できます！
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+### 🎯 業績メニューのアクセス方法
 
-👉業績メニューにアクセスするには、メインHUD上部のガイドボタンをタッチしてください。
+👉 **メインHUD上部のガイドボタン** をタップすると、業績メニューにアクセスできます。
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
 
-👉上記の画像に表示されている「業績」タブをタッチすると、業績メニューが開きます。
+👉 **「業績」タブ** をタップすると、業績一覧が表示されます。
 
-業績条件を達成すると、上記のメニューで「受け取る」ボタンをタッチしてプレゼントを受け取ることができます。受け取ったプレゼントは「郵便箱」で確認できます。
+<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
+
+### 🎁 業績報酬の受け取り
+
+👉 業績条件を達成すると、**「受け取る」ボタン** が有効になります。
+
+<figure><img src="../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+
+👉 **「受け取る」ボタンをタップして報酬を獲得** してください。
+
+<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+
+👉 **獲得した報酬は「郵便箱」で確認できます。**
+
+<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+
+🏆 **業績を達成して、さまざまな報酬を手に入れましょう！**
 {% endtab %}
 {% endtabs %}
