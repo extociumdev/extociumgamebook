@@ -20,7 +20,7 @@ layout:
 
 # 📙 EXTOCIUM GAME BOOK
 
-<figure><img src=".gitbook/assets/NPC_Yeyilel.png" alt="" width="348"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/NPC_Yeyilel (1).png" alt="" width="348"><figcaption></figcaption></figure>
 
 엑스토시움 게임 북에 오신 것을 환영합니다.\
 이 가이드북은 게임 전반의 가이드 및 상세 정보를 제공합니다.\
