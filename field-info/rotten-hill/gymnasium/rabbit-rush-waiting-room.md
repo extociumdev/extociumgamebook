@@ -1,3 +1,7 @@
+---
+description: 🛑 This information may be updated later than the game server data.
+---
+
 # 🐰 Rabbit Rush Waiting Room
 
 <figure><img src="../../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>

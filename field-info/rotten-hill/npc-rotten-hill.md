@@ -13,9 +13,9 @@
 
 ## ✅PARASIEL - 파라시엘 - パラシエル
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487.png" alt="" width="300"><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/Item.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Item.png" alt=""><figcaption></figcaption></figure></div>
 
 💡**Trader Parasiel buys products from the adventurers.**\
 💡상인 파라시엘은 여행자들로부터 물건들을 구입합니다.\
@@ -23,9 +23,9 @@
 
 ## ✅YEYILEL - 예이렐 - イェイレル
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_03.png" alt="" width="232"><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/Bank.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Bank.png" alt=""><figcaption></figcaption></figure></div>
 
 💡**You can use the** [**Gold safe service**](../../xto-token/gold-safe-service.md)**,** [**XTO Swap service**](../../xto-token/xto-swap-service/)**, and** [**XTO holding service**](../../xto-token/xto-holding-service/) **at Banker Yeyilel.**\
 💡뱅커 예이렐에게 가면 [골드 보관 서비스](../../xto-token/gold-safe-service.md)와 [XTO Swap 서비스](../../xto-token/xto-swap-service/), [XTO 홀딩 서비스](../../xto-token/xto-holding-service/)를 이용할 수 있습니다.\
@@ -33,9 +33,9 @@
 
 ## ✅MEBAHEL - 메바헬 - メバヘル
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_11.png" alt="" width="300"><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/Storage.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Storage.png" alt=""><figcaption></figcaption></figure></div>
 
 The Porter Mebahel stores items for adventurers. There are 100 storage slots in total.
 
@@ -45,9 +45,9 @@ The Porter Mebahel stores items for adventurers. There are 100 storage slots in 
 
 ## ✅GILGAMESH - 길가메시 - ギルガメッシュ
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_08 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_08 (2).png" alt="" width="300"><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/Letter.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Letter.png" alt=""><figcaption></figcaption></figure></div>
 
 **Gilgamesh collects the abandoned letters. Take the abandoned letters dropped by the monsters to Gilgamesh. He'll buy them for a good price.**
 
@@ -57,9 +57,9 @@ The Porter Mebahel stores items for adventurers. There are 100 storage slots in 
 
 ## ✅Hermaion - 헤르마이온 - ヘルメイオン
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_09.png" alt="" width="195"><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/ArenaCoin.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/ArenaCoin.png" alt=""><figcaption></figcaption></figure></div>
 
 [**Hermion offers a roulette service.**](../../gamemode/1vs1-arena/arena-roulette.md) **You can spin the roulette wheel for a certain amount of Gold and Arena Coins. Try your luck!**
 
@@ -69,9 +69,9 @@ The Porter Mebahel stores items for adventurers. There are 100 storage slots in 
 
 ## ✅Niberius - 니베리우스 - ニベリウス
 
-<figure><img src="../../.gitbook/assets/NPC_Niberius.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NPC_Niberius.png" alt="" width="282"><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/PK.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/PK.png" alt=""><figcaption></figcaption></figure></div>
 
 **Niberius offers contracts for players who want to quickly reduce their** [**PK score**](../../contents/pk/)**. Contracts require Gold and a Pen of Oblivion. The amount of Gold required depends on the Hero's level. The Pen of Oblivion can be obtained from** [**Hermion's Roulette**](../../gamemode/1vs1-arena/arena-roulette.md)**.**
 
