@@ -8,15 +8,21 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 **All fields where hunting is possible in EXTOCIUM are defined as 'Combat Zones'.**&#x20;
+💡 **All fields in EXTOCIUM are classified as ‘Combat Zones’.**\
+Here, you can hunt monsters for farming or **attack other players to monopolize resources.**\
+✅ **Defeating another player may grant you a chance to acquire their Gold & Items.**
 
-In combat zones, you can kill monsters for farming or kill other players to monopolize resources. Killing another player may probabilistically allow you to obtain their gold and items.&#x20;
+💡 **High-level fields are designated as ‘PK Zones’.**\
+This is a **crucial** [**mission**](../../xto-token/xto-summary/our-mission.md) **to drive EXTOCIUM’s economy**, designed to:
 
-💡 **The higher-tier fields in EXTOCIUM are set as 'PK Zones'.**&#x20;
+* **Encourage faction-based rivalries**
+* **Prevent inflation caused by excessive farming**
+* **Drive Gold & XTO investments for better gear**
 
-This is an inevitable [mission](../../xto-token/xto-summary/our-mission.md) to drive the EXTOCIUM economy. PK allows factions to check each other and controls inflation that could arise from indiscriminate farming. It also provides motivation to invest gold and XTO in equipment for victory in user competition.&#x20;
+💡 **PK carries both risks and rewards!**\
+✅ **‘**[**PK Leverage Bonus**](pk-leverage-bonus/)**’ is applied in PK fields**, making strategic gameplay even more crucial.
 
-💡 **Since PK inherently involves risk, a** [**PK Leverage Bonus** ](pk-leverage-bonus/)**is applied in PK fields.**
+🔥 **Are you ready to risk it all? Prove your strength in the Combat Zone!**
 
 #### 1️⃣PK on/off Button
 
@@ -67,15 +73,21 @@ Please refer to the chart below for the ratio.
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**EXTOCIUM에서 사냥할 수 있는 모든 필드는 '전투 지역'으로 정의됩니다.**&#x20;
+💡 **EXTOCIUM의 모든 필드는 ‘전투 지역’으로 정의됩니다.**\
+이곳에서는 몬스터를 사냥하여 파밍할 수도, **리소스를 독점하기 위해 다른 유저를 공격할 수도 있습니다.**\
+✅ **PvP 승리 시** 상대의 **골드 및 아이템을 확률적으로 획득**할 수 있습니다.
 
-전투 지역에서는 파밍을 위해 몬스터를 죽일 수도 있고, 리소스 독점을 위해 다른 사용자를 죽일 수도 있습니다. 다른 사람을 죽일 경우, 확률적으로 그가 가진 골드와 아이템을 획득할 수 있게 됩니다.
+💡 **상위 필드는 ‘PK 지역’으로 설정**되어 있습니다.\
+이는 **EXTOCIUM 경제를 구동하기 위한 필연적** [**미션**](../../xto-token/xto-summary/our-mission.md)으로,
 
-💡**EXTOCIUM의 상위 필드들은 'PK지역'으로 설정되어 있습니다.**
+* **세력 간 견제**를 유도하고
+* **무분별한 파밍으로 인한 인플레이션을 방지**하며
+* **경쟁을 통한 장비 강화 & XTO 투자 활성화**의 원동력이 됩니다.
 
-이는 EXTOCIUM 경제를 구동하기 위한 필연적 [미션](../../xto-token/xto-summary/our-mission.md)입니다. PK를 통해 세력이 서로를 견제하고, 무분별한 파밍으로 발생될 인플레이션을 제어합니다. 또한 유저 간 경쟁구도에서의 승리를 위해 장비에 골드 및  XTO를  투자하는 원동력을 제공합니다.
+💡 **PK는 리스크와 보상이 공존하는 시스템!**\
+✅ **PK 필드에는 ‘**[**PK 레버리지 보너스**](pk-leverage-bonus/)**’가 적용**되어, 전략적인 플레이가 더욱 중요해집니다.
 
-💡**PK는 기본적으로 위험을 동반하기 때문에, PK 필드에는** [**PK 레버리지 보너스**](pk-leverage-bonus/)**가 적용됩니다.**
+🔥 **리스크를 감수할 준비가 되었다면, 전투 지역에서 생존을 증명하세요!**
 
 #### 1️⃣PK on/off 버튼
 
@@ -127,15 +139,21 @@ HUD 우측 하단의 PK on/off 버튼을 이용해 Auto상태에서 내가 타�
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**EXTOCIUMで狩りが可能なすべてのフィールドは「戦闘エリア」として定義されています。**&#x20;
+💡 **EXTOCIUMのすべてのフィールドは「戦闘エリア」に分類されます。**\
+ここでは、モンスターを狩ってファーミングするか、**資源を独占するために他のプレイヤーを攻撃することが可能です。**\
+✅ **PvPで勝利すると、相手のゴールドやアイテムを確率で獲得できます。**
 
-戦闘エリアでは、モンスターを倒してファーミングを行うことも、他のユーザーを倒してリソースを独占することもできます。他のプレイヤーを倒すと、確率的にそのプレイヤーが持っていたゴールドとアイテムを獲得できる場合があります。&#x20;
+💡 **上位フィールドは「PKエリア」に設定**されています。\
+これは**EXTOCIUM経済を動かすための必然的な**[**ミッション**](../../xto-token/xto-summary/our-mission.md)であり、
 
-💡**EXTOCIUMの上位フィールドは「PKゾーン」として設定されています。**&#x20;
+* **勢力間の競争を促し**
+* **過剰なファーミングによるインフレを抑制し**
+* **装備強化やXTO投資のモチベーションを提供します**
 
-これはEXTOCIUM経済を動か[すための必然的なミッションです](../../xto-token/xto-summary/our-mission.md)。PKを通じて勢力が互いを牽制し、無差別なファーミングによって発生するインフレーションを制御します。また、ユーザー間の競争での勝利のために装備にゴールドやXTOを投資する動機付けとなります。&#x20;
+💡 **PKはリスクとリターンが共存するシステム！**\
+✅ **PKエリアでは「**[**PKレバレッジボーナス**](pk-leverage-bonus/)**」が適用**され、戦略的な戦いがより重要になります。
 
-💡**PKは基本的にリスクを伴うため、PKフィールドでは**[**PKレバレッジボーナス**](pk-leverage-bonus/)**が適用されます。**
+🔥 **リスクを背負う覚悟があるなら、戦闘エリアで生き残りを証明せよ！**
 
 #### 1️⃣PK on/offボタン
 
