@@ -66,6 +66,7 @@
     * [✨ Weapon Stats](getting-started-guide/equipment/weapon/weapon-stats.md)
     * [🔥 Weapon Skill Info](getting-started-guide/equipment/weapon/weapon-skill-info/README.md)
       * [🔥 Skill pool - Weapon](getting-started-guide/equipment/weapon/weapon-skill-info/skill-pool-weapon.md)
+      * [📊 Skill Probability Table](getting-started-guide/equipment/weapon/weapon-skill-info/skill-probability-table.md)
       * [10/24 update note - weapon](getting-started-guide/equipment/weapon/weapon-skill-info/10-24-update-note-weapon.md)
       * [10/24 update note - Party](getting-started-guide/equipment/weapon/weapon-skill-info/10-24-update-note-party.md)
     * [🏹 Guide to Equip Levels](getting-started-guide/equipment/weapon/guide-to-equip-levels.md)

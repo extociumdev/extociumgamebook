@@ -1,3 +1,7 @@
+---
+description: 🛑 This information may be updated later than the game server data.
+---
+
 # 🏹 Guide to Equip Levels
 
 {% tabs %}
