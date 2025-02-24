@@ -10,38 +10,41 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-#### **🎃Field Wave – Stay Alert in Hunting Grounds!**&#x20;
+#### **🎃 Field Wave – Watch Out in Hunting Grounds!**
 
-Unpredictable **"Field Waves"** occur in each field.\
-During a Field Wave, **both regular monsters and enhanced versions of existing monsters** will appear.
+💀 **Unpredictable ‘Field Waves’ occur in each hunting field!**\
+When a Field Wave begins, **enhanced monsters** spawn alongside regular monsters,\
+forming **moving packs that threaten the hunting grounds**.
 
-These monsters **move in groups, roaming across the field**, making the area more dangerous.\
-⚠️ **Their locations are not displayed on the minimap, so stay cautious!**
+⚠️ **Their locations won’t appear on the minimap, so stay alert!**\
+🔥 **Defeat ‘Burning’ type monsters to earn a** [**Lucky Box**](../item-info/lucky-box-info.md)**!**
 
-🔥 **Defeating "Burning" type monsters will drop** [**Lucky Boxes**](../item-info/lucky-box-info.md)**.**
+Face stronger enemies and claim exclusive rewards!
 {% endtab %}
 
 {% tab title="한국어" %}
-#### **🎃 필드 웨이브 – 사냥터에서 주의하세요!**
+#### 🎃 **필드 웨이브 – 사냥터에서 주의하세요!**
 
-각 필드에는 예측할 수 없는 '**필드 웨이브**'가 발생합니다.\
-필드 웨이브에서는 **기존 몬스터뿐만 아니라, 더욱 강력해진 강화 타입 몬스터**도 등장합니다.
+💀 **각 필드에는 예측 불가능한 ‘필드 웨이브’가 발생합니다!**\
+필드 웨이브가 시작되면 **강화 타입 몬스터**가 기존 몬스터와 함께 등장하며,\
+몬스터 무리가 **맵 곳곳을 돌아다니며 사냥터를 위협**합니다.
 
-몬스터들은 무리를 지어 **필드 곳곳을 이동하며 사냥터를 위협**합니다.\
-⚠️**미니맵에는 위치가 표시되지 않으므로 주의가 필요합니다!**
+⚠️ **미니맵에 위치가 표시되지 않으므로 주의하세요!**\
+🔥 **‘불타는’ 타입 몬스터 처치 시,** [**럭키박스**](../item-info/lucky-box-info.md) **드랍!**
 
-🔥 **‘불타는’ 타입 몬스터를 처치하면** [**럭키박스**](../item-info/lucky-box-info.md)**를 드랍합니다.**
+더 강력한 적을 상대하고 특별한 보상을 노려보세요!
 {% endtab %}
 
 {% tab title="日本語" %}
-#### &#x20;**🎃**フィールドウェーブ – 狩場では警戒を怠らないようご注意ください！
+#### &#x20;**🎃フィールドウェーブ – 狩場での注意点！**
 
-各フィールドでは、予測不能な「**フィールドウェーブ**」が発生いたします。\
-フィールドウェーブ中は、**通常のモンスターに加え、強化されたモンスターも出現**いたします。
+💀 **各フィールドでは予測不能な「フィールドウェーブ」が発生！**\
+フィールドウェーブ中は、**通常のモンスターに加えて、強化タイプのモンスター**も登場し、\
+モンスターの群れが**フィールド内を移動しながら狩場を脅かします。**
 
-これらのモンスターは**群れを成してフィールド内を移動し、狩場を脅かします。**\
-⚠️ **ミニマップには位置が表示されませんので、十分にご注意ください。**
+⚠️ **ミニマップには位置が表示されないので注意！**\
+🔥 **「燃える」タイプのモンスターを倒すと、**[**ラッキーボックス**](../item-info/lucky-box-info.md)**をドロップ！**
 
-🔥 **「燃える」タイプのモンスターを討伐すると、**[**ラッキーボックス**](../item-info/lucky-box-info.md)**をドロップいたします。**
+強敵を倒し、特別な報酬を手に入れよう！
 {% endtab %}
 {% endtabs %}
