@@ -60,27 +60,47 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡When gaining/losing trophies in the arena based on wins/losses, a slight trophy adjustment value is applied to account for the difficulty difference between high-level and low-level users.
+#### 🏆 Trophy Adjustment System
 
-For example, if I were to lose to a user <9 levels higher> than me and have to lose 5 trophies, the adjustment value would cause me to only lose 1 trophies instead.
+In the **Arena**, the number of **trophies gained or lost** after a match is slightly adjusted based on the level difference between players.\
+This ensures fairness between **high-level and low-level players**.
 
-You can see the detailed information in the table below.
+📌 **Example**
+
+* If you **lose** to an opponent **9 levels higher**, you would normally lose **5 trophies**.
+  * But with the adjustment, you only lose **1 trophy** instead!
+
+🔎 **Check the table below for detailed trophy adjustments!**
 {% endtab %}
 
 {% tab title="한국어" %}
-💡아레나에서 승리/패배에 따른 트로피 습득 시, 고레벨 유저와  저레벨 유저 사이의  난이도 차이 고려하여 소폭의 트로피 보정 값이 적용됩니다.
+#### 🏆 **트로피 보정 시스템 안내**
 
-예를 들어, 내가 <나>보다 <9레벨 높은 유저>에게 <패배>하여 트로피 5개를 잃어야 하는 상황 이라면, 보정값에 의하여 1개만 잃게 됩니다.
+아레나에서 **승리/패배 시 트로피 변동**은 상대 레벨에 따라 조정됩니다.\
+**고레벨 유저 vs 저레벨 유저 간 난이도 차이**를 고려하여,\
+트로피 손실 또는 획득량이 **소폭 보정**됩니다.
 
-자세한 내용은 아래 표에서 확인할 수 있습니다.
+📌 **예시**
+
+* 내가 **9레벨 높은 상대**에게 **패배**하면 원래 **트로피 -5**지만,\
+  **보정값 적용 후 -1**만 잃게 됩니다.
+
+🔎 **자세한 보정 기준은 아래 표에서 확인하세요!**
 {% endtab %}
 
 {% tab title="日本語" %}
-💡アリーナでの勝敗に応じてトロフィーを獲得/喪失する際、上級者と下級者の難易度の差を考慮して、若干のトロフィー補正値が適用されます。
+#### 🏆 トロフィー補正システム
 
-例えば、<自分より9レベル高い>ユーザーに<敗北>してトロフィー5個を失う状況であれば、補正値によって1個しか失わなくなります。
+**アリーナ**では、**勝敗時のトロフィー増減**が、\
+対戦相手との**レベル差**を考慮して**わずかに調整**されます。\
+これにより、**高レベル vs 低レベル**の戦いでも公平性が保たれます。
 
-詳細は以下の表で確認できます。
+📌 **例**
+
+* 自分より**9レベル高い相手**に**敗北**すると、通常なら**トロフィー -5**。
+  * しかし補正により、**-1 だけ**の減少になります！
+
+🔎 **詳しい補正値は下の表をチェック！**
 {% endtab %}
 {% endtabs %}
 

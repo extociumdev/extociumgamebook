@@ -10,6 +10,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 💡 **Frost War is coming soon!**\
 Prepare for battle and stay tuned! ⚔🔥
+
+❄️ **Stay Frosty. The battle is coming soon!**❄️
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -17,6 +19,8 @@ Prepare for battle and stay tuned! ⚔🔥
 
 💡 **Frost War가 곧 오픈될 예정입니다!**\
 새로운 전장을 준비하세요. 조금만 더 기다려 주세요! ⚔🔥
+
+❄️ **Stay Frosty. The battle is coming soon!**❄️
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -24,6 +28,8 @@ Prepare for battle and stay tuned! ⚔🔥
 
 💡 **Frost Warがまもなくオープンいたします！**\
 新たな戦場に備え、お待ちください！ ⚔🔥
+
+❄️ **Stay Frosty. The battle is coming soon!**❄️
 {% endtab %}
 {% endtabs %}
 

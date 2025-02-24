@@ -15,21 +15,44 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Arena Coins', earned through Arena Rewards, can be exchanged with the** [**NPC Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md) **in** [**Rotten Hill**](../../field-info/rotten-hill/)**.**&#x20;
+#### 🏆**Arena Rewards & ‘Arena Coin’ Usage**
 
-Hermaion offers random rewards in return for Arena Coins and a small amount of Gold. Some crafting materials are exclusively available through Hermaion. The item pool of Hermaion may be expanded in each update.
+Wondering what to do with the **‘Arena Coins’** you earn from rewards?\
+Use them at [**NPC Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)!
+
+✅ **Hermaion’s Shop Features**
+
+* Exchange **Arena Coins + a small amount of gold** for **random rewards** 🎁
+* Some **crafting materials are exclusively available from Hermaion** ⚒️
+* **Item pool expands with updates**, so keep an eye out for new rewards! 🚀
+
+
 {% endtab %}
 
 {% tab title="한국어" %}
-**💡아레나 보상을 통해 획득할 수 있는 ‘아레나 코인’은** [**NPC인 헤르마이온**](../../field-info/rotten-hill/npc-rotten-hill.md)**에게 사용할 수 있습니다.**&#x20;
+#### 🏆 **아레나 보상 & ‘아레나 코인’ 사용처**
 
-헤르마이온은 아레나 코인과 소정의 골드를 지불하면 랜덤한 보상을 제공하며, 일부 제작 재료는 헤르마이온을 통해서만 수급이 가능합니다. 헤르마이온의 아이템 풀은 업데이트 마다 추가될 수 있습니다.
+아레나 보상으로 획득한 **‘아레나 코인’**, 어디에 쓰냐고요?\
+바로 [**NPC 헤르마이온**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)에게 사용하세요!
+
+✅ **헤르마이온의 역할**
+
+* **아레나 코인 + 소정의 골드**를 지불하면 **랜덤 보상 지급** 🎁
+* 일부 **제작 재료는 오직 헤르마이온을 통해서만 획득 가능** ⚒️
+* **아이템 풀은 업데이트마다 확장**되므로, 새로운 보상이 추가될 수도! 🚀
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**アリーナ補償を通じて獲得できる「アリーナコイン」は、**[**NPCであるヘルマイオンに使用できます。**](../../field-info/rotten-hill/npc-rotten-hill.md)&#x20;
+#### 🏆**アリーナ報酬＆「アリーナコイン」の使い道**
 
-ヘルマイオンはアリーナコインと所定のゴールドを支払えばランダムな補償を提供し、一部の製作材料はヘルマイオンを通じてのみ需給が可能です。 ヘルマイオンのアイテムプールは、更新ごとに追加される場合があります。
+アリーナ報酬で手に入る **「アリーナコイン」**、どう使うか気になりますよね？\
+それは [**NPC「ヘルマイオン」**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion) で利用できます！
+
+✅ **ヘルマイオンのショップ機能**
+
+* **アリーナコイン＋少量のゴールド**で**ランダム報酬を獲得** 🎁
+* 一部の**製作素材はヘルマイオン限定**で入手可能 ⚒️
+* **アップデートごとにアイテムプールが拡張**されるので、新しい報酬が追加されるかも！？ 🚀
 {% endtab %}
 {% endtabs %}
 

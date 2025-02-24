@@ -10,12 +10,15 @@ coverY: 118
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**The 1vs1 Arena is one of the most crucial PvP contents in EXTOCIUM.**
+### 🏆 **1vs1 Arena: The Ultimate PvP Showdown!**
 
-Here, battles are determined solely by **skill and strategy**, with **no random elements or additional buffs**.\
-The arena operates on a **weekly cycle**, and **special rewards are given based on the weekly rankings**.
+The **1vs1 Arena** is one of the most important **PvP** contents in **EXTOCIUM**!\
+Here, there are **no random factors, no extra buffs**—just pure **skill and strategy**.\
+Compete in weekly rankings and earn **exclusive rewards**!
 
-Enter the ultimate battleground where only the strongest heroes prevail!
+🔥 **How It Works**
+
+* **Weekly Ranking System**: A fresh competition every week!
 
 {% hint style="info" %}
 ⚡ **Energy Consumption: ❌ (Not Required)**
@@ -32,15 +35,21 @@ Enter the ultimate battleground where only the strongest heroes prevail!
 2️⃣ Click **"Enter Waiting Room"** at the **top left**.
 
 <figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+
+👑 **Are you ready to prove your strength?**\
+💥 Enter the arena now and become a legend!
 {% endtab %}
 
 {% tab title="한국어" %}
-💡 **1vs1 아레나는 EXTOCIUM에서 가장 중요한 PvP 콘텐츠 중 하나입니다.**
+### 🏆 **1vs1 아레나: EXTOCIUM 최강자를 가리는 전장!**
 
-이곳에서는 **랜덤 요소나 추가 버프 없이** 오직 **실력과 전략**으로만 승부가 결정됩니다.\
-**아레나는 1주 단위로 운영되며, 주간 랭킹에 따라 특별한 보상이 지급됩니다.**&#x20;
+EXTOCIUM의 핵심 **PvP 콘텐츠**인 1vs1 아레나!\
+이곳에서는 **운❌, 버프❌** 오직 **실력과 전략**으로만 승부가 결정됩니다.\
+진정한 강자를 증명하고, **주간 랭킹 보상**도 놓치지 마세요!
 
-진정한 강자를 가리는 순수한 경쟁의 장에서, **가장 강한 영웅에 도전해보세요!**
+🔥 **운영 방식**
+
+* **주 단위 랭킹제**: 매주 새로운 경쟁이 시작!
 
 {% hint style="info" %}
 ⚡ **에너지 소모: ❌ (소모 없음)**
@@ -57,15 +66,21 @@ Enter the ultimate battleground where only the strongest heroes prevail!
 2️⃣ 좌측 상단의 ‘**아레나 대기실 입장**’ 클릭
 
 <figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+
+👑 **최강자에 도전할 준비됐나요?**\
+💥 지금 바로 아레나에서 전설이 되어보세요!
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **1vs1アリーナは、EXTOCIUMで最も重要なPvPコンテンツの一つです。**
+### 🏆 **1vs1アリーナ：最強を決める戦場！**
 
-この戦場では、**ランダム要素や追加バフなし**で、**純粋な実力と戦略のみ**が勝敗を決します。\
-アリーナは**1週間のサイクルで運営され、週間ランキングに応じて特別な報酬が授与されます。**
+**EXTOCIUM**で最も重要な **PvPコンテンツ**、それが **1vs1アリーナ**！\
+ここでは **運❌、バフ❌**、**実力と戦略**のみが勝敗を決めます。\
+毎週のランキングで競い、**特別な報酬**をゲットしましょう！
 
-真の強者を決める戦いに挑み、最強の英雄を目指しましょう！
+🔥 **アリーナの仕組み**
+
+* **週間ランキング制**：毎週新たな戦いが始まる！
 
 {% hint style="info" %}
 ⚡ **エネルギー消費: ❌ (消費なし)**
@@ -82,6 +97,9 @@ Enter the ultimate battleground where only the strongest heroes prevail!
 2️⃣ 左上の「**アリーナ待機室に入場**」をクリック
 
 <figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+
+👑 **あなたの実力を証明する準備はできましたか？**\
+💥 さあ、アリーナで伝説になりましょう！
 {% endtab %}
 {% endtabs %}
 
