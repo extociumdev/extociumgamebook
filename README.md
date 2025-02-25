@@ -110,8 +110,8 @@ This guidebook provides detailed information and guides throughout the game.\
 💠You can lend your Hero NFTs to other users. Find about how to do it here.\
 💠あなたの所有するヒーローNFTを他のユーザーにレンタルできます。 ここで方法を確認してみてください。
 
-{% content-ref url="trade/rental-defi-system.md" %}
-[rental-defi-system.md](trade/rental-defi-system.md)
+{% content-ref url="shop/shop/rental.md" %}
+[rental.md](shop/shop/rental.md)
 {% endcontent-ref %}
 
 💠게임 내 NPC들의 정보를 확인해보세요.\

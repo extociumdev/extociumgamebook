@@ -111,7 +111,6 @@
   * [📁 Trading Items](trade/market/trading-items/README.md)
     * [📥 Buy](trade/market/trading-items/buy.md)
     * [📤 Sell](trade/market/trading-items/sell.md)
-* [📘 RENTAL(DeFi) SYSTEM](trade/rental-defi-system.md)
 * [💰 Personal Trade](trade/personal-trade.md)
 * [📩 Escrow](trade/escrow.md)
 
@@ -224,7 +223,7 @@
 ## 💰 Shop
 
 * [🎁 Shop](shop/shop/README.md)
+  * [💎 Gem Shop](shop/shop/gem-shop.md)
   * [🦊 BNB / Gem Shop](shop/shop/bnb-gem-shop.md)
   * [🔯 XTO Shop](shop/shop/xto-shop.md)
-  * [💎 Gem Shop](shop/shop/gem-shop.md)
-  * [📜 Rental](shop/shop/rental.md)
+  * [📜 RENTAL](shop/shop/rental.md)
