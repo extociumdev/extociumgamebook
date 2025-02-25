@@ -28,15 +28,16 @@ You may unlock the attic by selecting the **\[My Home]** button at this location
 
 ### 🔥 Inside the Attic
 
-Upon entering the attic, you will find **a non-functional**[ **furnace**](furnace.md#eng) **and a broken** [**personal safe**](personal-safe.md).
+Inside the attic, you'll find a **broken** [**furnace**](furnace.md) **and a damaged** [**personal safe**](personal-safe.md).\
+However, **you can repair them to restore functionality!**
 
-* The **furnace** can be **repaired with gold and lumber**, allowing it to function properly.
-* The **personal safe** can be **repaired using gold and arena coins**, enabling its use.
+✅ **Repair Furnace** → Requires **Gold + Wood**\
+✅ **Repair Personal Safe** → Requires **Gold + Arena Coins**
 
-Furthermore, the attic is not merely a place of rest—it will gradually expand over time.\
-In the future, additional content, such as a **workbench**, will be introduced to this space.
+💡 **The attic is more than just a resting space!**
 
-🔨 **Utilise your attic wisely and prepare for a more efficient adventure!**
+Future updates will add **crafting stations and more features**,\
+so make the most of your attic to **prepare for an even greater adventure!** 🛠️
 
 {% content-ref url="furnace.md" %}
 [furnace.md](furnace.md)
@@ -68,17 +69,18 @@ In the future, additional content, such as a **workbench**, will be introduced t
 
 
 
-### 🔥 다락방 내부
+### 🔥 **다락방 내부 안내**
 
-다락방에 들어가면 **사용할 수 없는** [**화로**](furnace.md#undefined-1)**와 부서진** [**개인금고**](personal-safe.md)가 놓여 있습니다.
+다락방에 들어가면, **사용할 수 없는** [**화로**](furnace.md)**와 부서진** [**개인금고**](personal-safe.md)가 놓여 있습니다.\
+하지만 **수리하면 정상적으로 가동 가능!**
 
-* **화로**는 **골드와 목재를 사용해 수리하면 정상적으로 가동**할 수 있습니다.
-* 개인금고는 **골드와 아레나 코인을 사용해 수리하면 사용할 수 있습니다.**
+✅ **화로 수리** → **골드 + 목재** 사용\
+✅ **개인금고 수리** → **골드 + 아레나 코인** 사용
 
-또한, 다락방은 단순한 휴식 공간이 아니라 점차 확장될 예정입니다. \
-추후 이 공간에 제작대 등의 컨텐츠가 추가될 예정입니다.
+💡 **다락방은 단순한 휴식 공간이 아닙니다!**
 
-🔨 **다락방을 잘 활용해 더 효율적인 모험을 준비해 보세요!**
+추후 **제작대 등 다양한 콘텐츠가 추가될 예정**이니,\
+다락방을 잘 활용해 **더 효율적인 모험을 준비해 보세요!** 🛠️
 
 {% content-ref url="furnace.md" %}
 [furnace.md](furnace.md)
@@ -112,15 +114,16 @@ In the future, additional content, such as a **workbench**, will be introduced t
 
 ### 🔥 屋根裏部屋の内部
 
-屋根裏部屋に入ると、**使用できない**[**炉**](furnace.md#ri-ben-yu)**と壊れた**[**個人金庫**](personal-safe.md)が設置されています。
+屋根裏部屋には、**使えない**[**炉**](furnace.md)**と壊れた**[**個人金庫**](personal-safe.md)があります。\
+しかし、**修理すれば正常に使用可能！**
 
-* **炉**は **ゴールドと木材で修理することで、正常に稼働**させることができます。
-* **個人金庫**は **ゴールドとアリーナコインで修理すると、使用可能**になります。
+✅ **炉の修理** → **ゴールド + 木材** が必要\
+✅ **個人金庫の修理** → **ゴールド + アリーナコイン** が必要
 
-さらに、屋根裏部屋は単なる休憩スペースではなく、今後徐々に拡張されていく予定です。\
-将来的には、この空間に **作業台** などのコンテンツが追加される予定です。
+💡 **屋根裏部屋はただの休憩スペースではありません！**
 
-🔨 **屋根裏部屋を活用し、より効率的な冒険に備えましょう！**
+今後のアップデートで **作業台などの新コンテンツが追加予定**なので、\
+屋根裏部屋を活用し、**より効率的な冒険の準備を整えましょう！** 🛠️
 
 {% content-ref url="furnace.md" %}
 [furnace.md](furnace.md)
