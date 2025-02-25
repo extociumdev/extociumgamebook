@@ -52,7 +52,7 @@ All club-related features can be accessed from the Clientelas Lobby.
 
 클럽과 관련된 모든 기능은 클리엔텔라스 로비에서 이용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 **메인 HUD 상단의 "Clientelas" 버튼을 터치하여 클럽 로비로 입장하세요.**
 

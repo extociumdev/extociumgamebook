@@ -21,7 +21,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 Select the **'Weekly Quest' tab** to open the quest menu.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 👉 Once the quest menu is open, the list of Weekly Quests will be displayed.
 
@@ -50,7 +50,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 **'주간 퀘스트' 탭을 터치**하면 퀘스트 메뉴가 열립니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 👉 퀘스트 메뉴가 열리면 **주간 퀘스트 목록이 표시됩니다.**
 
@@ -79,7 +79,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 **「週間クエスト」タブ** をタップすると、クエストメニューが開きます。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 👉 クエストメニューを開くと、**週間クエストの一覧が表示** されます。
 
