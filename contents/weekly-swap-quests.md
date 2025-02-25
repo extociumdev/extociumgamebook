@@ -32,7 +32,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 * If you successfully **complete all Weekly Quest requirements**, you will be able to[ **swap gold for XTO**](../xto-token/xto-swap-service/gold-greater-than-xto.md#eng) **through**[ **NPC Yeyilel**](../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru) for that week.
 * (❗ For details on the XTO swap limit, please refer to the [link](../xto-token/xto-swap-service/gold-greater-than-xto.md#conditions-for-swapping) provided.)
 
-🔄 **Complete the Weekly Quest and secure your XTO swap opportunity!**
+🔄 **Complete Weekly Quests and Earn a Chance to Swap XTO!**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -61,7 +61,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 * 주간 퀘스트 조건을 **모두 달성하면**, 해당 주간 동안 **'**[**NPC 예이렐**](../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)**'을 통해** [**골드를 XTO로 스왑**](../xto-token/xto-swap-service/gold-greater-than-xto.md#undefined-1)할 수 있습니다.
 * (❗ XTO 스왑 가능량에 대한 자세한 내용은[ 링크](../xto-token/xto-swap-service/gold-greater-than-xto.md#undefined-2)를 참고하세요.)
 
-🔄 **주간 퀘스트를 수행하고 XTO 스왑 기회를 확보하세요!**
+🔄 **주간 퀘스트를 완료하고 XTO 스왑 기회를 얻으세요!**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -90,6 +90,6 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 週間クエストの条件を**すべて達成すると**、その週の間 [**NPCイェイレル**](../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)**を通じて**[**ゴールドをXTO**](../xto-token/xto-swap-service/gold-greater-than-xto.md#ri-ben-yu)**へスワップ** できるようになります。\
 (❗ XTOスワップ可能量の詳細については、[**リンク**](../xto-token/xto-swap-service/gold-greater-than-xto.md#jiao-huan-ke-neng-tiao-jian)をご参照ください。)
 
-🔄 **週間クエストを達成し、XTOスワップのチャンスを獲得しましょう！**
+🔄 **週間クエストをクリアして、XTOスワップのチャンスを獲得しよう！**
 {% endtab %}
 {% endtabs %}
