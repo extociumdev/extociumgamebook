@@ -10,7 +10,11 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-📒This is a land where an unknown ritual was once performed in ancient times to bring forth rain. It is said that those sacrificed in the ritual became ghouls due to their lingering resentment. The anguished screams and malicious intentions of those responsible were so intense that in this land, one can supposedly witness manifestations of 'evil' invisible to the naked eye.
+📒The Savage Forest sprawls deep within the Asterica continent, a grim woodland where gnarled ancient trees stretch their twisted branches to blot out the sky, and a thick, unrelenting fog clings to the earth. Long ago, this land was the site of an enigmatic ritual meant to summon rain—an act shrouded in mystery and steeped in darkness. That ritual was no mere ceremony; it demanded cruel sacrifices, claiming lives in exchange for its power. Those who perished in its grip died in agony, their screams and grievances soaking into the soil, festering into a bitter resentment. That resentment breathed unnatural life into the dead, transforming them into ghouls, and now the forest echoes with their ceaseless wails, a cursed domain born of sorrow.
+
+The malice here is so potent that it’s said the very shape of ‘evil’—invisible to the naked eye elsewhere—can be glimpsed within these woods. Ghouls, with rotting flesh and jagged claws, lunge at the living in a frenzy of hunger. Mutated ghouls, warped further by the curse, emerge as grotesque abominations that inspire dread. Blind shamans, remnants of that ancient rite, murmur incantations in the shadows, as if still pleading with the heavens. The madness—wild-eyed lunatics—roam the forest, their maniacal laughter cutting through the silence. And illusions of evil materialize as intangible specters, sowing chaos in the minds of those they ensnare, dragging them into a mire of fear.
+
+The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind that slithers through the trees is cold and damp, carrying whispers that sound like the sobs of the sacrificed. To step into this place is to risk more than losing your way—it’s to confront the primal terror rising from within. Legend holds that the curse laid upon this forest, a price paid for rain, is doomed to endure forever. The Savage Forest is a resting place for ancient tragedy, where even the living can taste the scent of death in the air.
 
 👉 [PK Leverage Type 2 (Medium Difficulty) ](../../contents/pk/pk-leverage-bonus/bonus-chart.md#pk-leverage-2)
 
@@ -30,7 +34,11 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 
 {% tab title="한국어" %}
-📒고대에 비를 내리게 하기 위한 알 수 없는 주술이 행해졌던 땅이다. 이 땅에서 주술에 희생되었던 이들이 그 원념으로 인해 구울이 되었다고 전해진다. 그 비명과 원념을 쥐어짜낸 이들의 악심이 어찌나 강했던지, 이 땅에서 만큼은 육안으로는 볼 수 없는 '악'의 형체를 볼 수 있다고도 전해진다.
+📒야만의 숲은 아스테리카 대륙의 깊숙한 곳에 자리 잡은 음산한 수림으로, 고목들이 뒤틀린 가지를 뻗어 하늘을 가리고, 땅 위로는 짙은 안개가 끊임없이 떠도는 곳이다. 고대에 이 땅에서는 비를 내리게 하기 위한 알 수 없는 주술이 행해졌다고 전해진다. 그 주술은 단순한 의식이 아니라, 생명을 대가로 한 잔혹한 희생을 요구했다. 주술에 쓰인 이들은 끔찍한 고통 속에서 숨을 거두었고, 그들의 비명과 억울함은 대지에 깊이 스며들어 원념으로 변했다. 그 원념은 죽은 자들을 구울로 되살려냈고, 이제 이 숲은 그들의 울부짖음이 메아리치는 저주의 영역이 되었다.
+
+이곳에서만은 악의 기운이 너무나 강렬해서, 육안으로도 보이지 않는 ‘악’의 형체가 떠도는 것을 느낄 수 있다고 한다. 구울은 썩은 살점과 날카로운 손톱으로 살아있는 자를 덮치며, 변이된 구울은 저주의 힘으로 더욱 흉측하게 뒤틀린 모습으로 공포를 자아낸다. 눈 먼 주술가는 과거의 의식을 되풀이하듯 어둠 속에서 주문을 읊고, 미치광이는 광기 어린 웃음소리를 내며 숲을 배회한다. 그리고 악의 환영은 실체 없는 그림자로 나타나, 사람의 정신을 혼란에 빠뜨리고 공포 속으로 몰아넣는다.
+
+야만의 숲은 주술의 잔재와 원한이 얽힌 땅이다. 나무 사이로 스며드는 바람은 차갑고 축축하며, 희생자들의 흐느낌이 섞인 듯한 소리를 실어 나른다. 이곳에 발을 들이는 자는 단순히 길을 잃는 것을 넘어, 마음속 깊은 곳에서 솟아오르는 두려움과 마주하게 된다. 전설에 따르면, 이 숲의 저주는 비를 내리게 한 대가로 영원히 풀리지 않을 운명이라고 한다. 야만의 숲은 살아있는 자에게조차 죽음의 냄새를 풍기는, 잊혀진 고대의 비극이 잠든 곳이다.
 
 👉[PK 레버리지 타입 2 ( 중간 난이도 )](../../contents/pk/pk-leverage-bonus/bonus-chart.md#pk-leverage-2)
 
@@ -50,7 +58,11 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 
 {% tab title="日本語" %}
-📒この地は古代に雨を降らせるための理解できない呪術が行われた場所である。この地で呪術に生贄になった者たちが、その恨みからグールとなったと伝えられている。その慟哭と犠牲者を虐げた者たちの悪意がいかに強烈であったかは、この地においては肉眼では見えない「悪」の姿さえも目にすることができると言われている。
+📒野蛮の森は、アステリカ大陸の奥深くに広がる不気味な森で、歪んだ古木が枝を広げて空を覆い、地面には濃い霧が絶えず漂っています。遠い昔、この土地では雨を降らせるための知られざる呪術が行われたとされています。その呪術はただの儀式じゃなく、命を捧げる残酷な犠牲を求めるものでした。呪術に使われた者たちは激しい痛みの中で息を引き取り、その叫び声と無念は大地に染み込んで怨念となりました。その怨念は死者をグールとして蘇らせ、今この森は彼らの嘆きが響き渡る呪われた領域なんです。
+
+この場所では、悪の気があまりにも強いため、普段は目に見えない「悪」の姿さえも感じ取れると言われています。グールは腐った肉と鋭い爪で生きる者を襲い、変異したグールは呪いの力でさらに恐ろしく歪んだ姿で恐怖を振りまいています。盲目の呪術家は、昔の儀式を繰り返すように闇の中で呪文をつぶやき、狂人は狂った笑い声を響かせながら森を彷徨っています。そして悪の幻影は実体のない影となって現れ、見る者の心を乱し、恐怖の淵へと引きずり込むんです。
+
+野蛮の森は、呪術の残滓と恨みが絡み合った土地です。木々の間を抜ける風は冷たく湿っていて、犠牲者たちのすすり泣きのような音を運んできます。この場所に足を踏み入れる者は、道を見失うだけでなく、心の奥底から湧き上がる恐れと向き合うことになるんです。伝説では、この森にかかった呪いは雨を降らせた代償として永遠に解けない運命なんだとか。野蛮の森は、生きている者にも死の匂いを感じさせる、忘れられた古代の悲劇が眠る場所なんです。
 
 👉 [PKレバレッジタイプ2（中間の難易度） ](../../contents/pk/pk-leverage-bonus/bonus-chart.md#pk-leverage-2)
 
