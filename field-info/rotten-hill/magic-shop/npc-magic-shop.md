@@ -54,7 +54,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## ✅Barbatos - 바르바토스 - バルバトス
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_05.png" alt="" width="308"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +100,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_04.png" alt="" width="308"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
