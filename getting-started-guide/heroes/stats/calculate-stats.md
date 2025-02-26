@@ -8,7 +8,7 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 💡 **Shall we explore how to calculate the final combat stats using combat stats and special stats?**
 
-Let's take **Attack Points (AP)** as an example!
+* Let's take **Attack Points (AP)** as an example!
 
 ## ✅3-Step Guide for Calculating AP
 
@@ -55,7 +55,7 @@ Let's take **Attack Points (AP)** as an example!
 {% tab title="한국어" %}
 💡 **전투 스탯과 스페셜 스탯을 이용해 최종 전투스탯을 계산하는 방법을 알아볼까요?**&#x20;
 
-어택포인트 (AP)를 예시로 들어볼게요!
+* 어택포인트 (AP)를 예시로 들어볼게요!
 
 ## ✅AP 계산을 위한 3단계 가이드
 
@@ -97,14 +97,12 @@ Let's take **Attack Points (AP)** as an example!
 
 \[ (AP최초값 + 장착된 장비에 붙은 모든 AP의 총합 + 스킬 공격력 ) \* **다단히트 공격력 분배** ] \* { 1 + ( STR총합 \* AP-STR계수 ) + ( DEX총합 \* AP-DEX계수 ) + ( INT총합 \* AP-INT계수 ) } + ( CON총합 \* AP-CON계수 ) } + ( WIS총합 \* AP-WIS계수 ) } + ( CHA총합 \* AP-CHA계수 ) }
 {% endhint %}
-
-
 {% endtab %}
 
 {% tab title="日本語" %}
 💡 **戦闘ステータスとスペシャルステータスを使用して最終的な戦闘ステータスを計算する方法を見てみましょうか？**
 
-アタックポイント (AP)を例にしてみます！
+* アタックポイント (AP)を例にしてみます！
 
 ## ✅AP計算のための3ステップガイド
 
@@ -148,6 +146,12 @@ Let's take **Attack Points (AP)** as an example!
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 

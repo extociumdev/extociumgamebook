@@ -6,54 +6,84 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-**💡EXTOCIUM's basic heroes consist of a total of 7 characters.**
+#### 💡 EXTOCIUM’s 7 Heroes
 
 <figure><img src="../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
-* All heroes have a **base stat** consisting of [**special stats**](../stats/special-stats/#eng) ranging from **15 to 21**.
-* Each hero has **7 independent skill pools**, from which **2 skills** can be used.
-* The **2 skills** selected from the skill pool are determined **probabilistically**.
-* For the **initial trial hero**, **2 skills** can be assigned arbitrarily.
-* Heroes can gain **EXP** through hunting and [**level**](../level.md#eng) **up**.
-* Each hero has a unique [**element**](../stats/elemental-bonus-damage.md#eng), and **elemental relationships** are established based on these elements.
-* Heroes can only be created as **NFTs** (**excluding trial heroes**).
-* When a new hero is added, it is applied through the [**succession system**](../../../contents/powering-up-the-hero/succession/) rather than as a **basic hero**.
+EXTOCIUM features **a total of 7 base heroes**.\
+Each hero comes with **unique stats, skills, and attributes**, allowing you to build **your own combat strategy**.
 
-**🔹For more detailed information on each hero, please refer to the link below.**
+***
+
+🏆 **Hero Basics**
+
+🔹 [**Special Stats**](../stats/special-stats/#eng) – All heroes start with **base stats consisting of 15 to 21 Special Stat points**.\
+🔹 **Skill System** – Each hero has **a pool of 7 unique skills**, from which **2 are randomly selected** for use.
+
+* When creating a Trial Hero, you can **manually choose 2 skills**.
+
+🔹 **Level System** – **Hunt to earn EXP and**[ **level**](../level.md#eng) **up your hero**.\
+🔹 **Attribute Affinity** – Each hero has **a unique**[ **attribute**](../stats/elemental-bonus-damage.md#eng), which determines **strengths and weaknesses against others**.\
+🔹 **NFT System** – Heroes can only be obtained as **NFTs** (**except Trial Heroes**).\
+🔹 **New Hero Additions** – When new heroes are introduced, they are **applied through the** [**Succession System**](../../../contents/powering-up-the-hero/succession/#eng) rather than as base heroes.
+
+***
+
+#### 🔹 **Check out detailed hero information through the links below!**
 {% endtab %}
 
 {% tab title="한국어" %}
-**💡EXTOCIUM의 기본 영웅은 총 7명으로 구성됩니다.**&#x20;
+#### 💡 **EXTOCIUM의 7명의 영웅들**
 
 <figure><img src="../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
-* 모든 영웅은 **15\~21** 사이의 '[**스페셜 스탯**](../stats/special-stats/#undefined-1)**'**&#xC73C;로 구성된 **베이스 스탯**을 가집니다.
-* 각 영웅은 총 **7개의 독립적인 스킬 풀**을 가지고 있으며, 이 중 **2개의 스킬**을 사용할 수 있습니다.
-* 스킬 풀에서 선택되는 **2개의 스킬**은 **확률적으로** 결정됩니다.
-* **최초 트라이얼 영웅** 생성 시에는 **2개의 스킬**을 임의로 지정할 수 있습니다.
-* 영웅으로 사냥을 하면 **EXP**를 얻어 '[**레벨**](../level.md#undefined-1)**'**&#xC744; 올릴 수 있습니다.
-* 각 영웅은 고유한 '[**속성**](../stats/elemental-bonus-damage.md#undefined-1)**'**&#xC744; 가지고 있으며, 속성에 따라 **상성 관계**가 발생합니다.
-* 영웅은 **NFT**로만 생성됩니다. (**트라이얼 영웅 제외**)
-* 새로운 영웅이 추가되는 경우, 이는 **기본 영웅**이 아닌 '[**계**~~**승**~~**&#x20;시스템**](../../../contents/powering-up-the-hero/succession/#undefined-1)**'**&#xC744; 통해 적용됩니다.
+EXTOCIUM의 **기본 영웅은 총 7명**으로 구성됩니다.\
+각 영웅은 **고유한 스탯, 스킬, 속성을 지니며**, 이를 조합해 **자신만의 전투 스타일**을 구축할 수 있습니다.
 
-**🔹각 영웅의 자세한 정보는 아래 링크를 통해 확인할 수 있습니다.**
+***
+
+#### 🏆 **영웅의 기본 특징**
+
+🔹 [**스페셜 스탯**](../stats/special-stats/#undefined-1) – 모든 영웅은 **15\~21 사이의 스페셜 스탯**으로 구성된 **베이스 스탯**을 가집니다.\
+🔹 **스킬 시스템** – 각 영웅은 **7개의 독립적인 스킬 풀**을 가지고 있으며, **2개의 스킬을 랜덤하게 선택**해 사용합니다.
+
+* 트라이얼 영웅 생성 시에는 **2개의 스킬을 직접 선택 가능**합니다.
+
+🔹 **레벨 시스템** – **사냥을 통해 EXP를 획득**하여 [레벨](../level.md#undefined-1)을 올릴 수 있습니다.\
+🔹 **속성 상성** – 각 영웅은 **고유한** [**속성**](../stats/elemental-bonus-damage.md#undefined-1)을 가지며, 속성 간 **강·약 상성 관계**가 존재합니다.\
+🔹 **NFT 시스템** – 영웅은 **NFT로만 생성 가능**합니다. (트라이얼 영웅 제외)\
+🔹 **새로운 영웅 추가 방식** – 새로운 영웅이 추가될 경우, **‘**[**계승 시스템**](../../../contents/powering-up-the-hero/succession/#undefined-1)**’을 통해 적용**됩니다.
+
+***
+
+#### 🔹 **각 영웅의 자세한 정보는 아래 링크에서 확인하세요!**
 {% endtab %}
 
 {% tab title="日本語" %}
-**💡EXTOCIUMの基本英雄は合計7人で構成されています。**
+#### 💡 **EXTOCIUMの7人の英雄**
 
 <figure><img src="../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
-* 全ての英雄は、**15から21**の範囲の[**スペシャルステータス**](../stats/special-stats/#ri-ben-yu)で構成された**ベースステータス**を持っています。
-* 各英雄は7つの独立したスキルプールを持ち、その中から2つのスキルを使用できます。&#x20;
-* スキルプールから選ばれる2つのスキルは確率的に決定されます。&#x20;
-* 初回のトライアル英雄作成時には、2つのスキルを任意で指定できます。&#x20;
-* 英雄は狩りを通じてEXPを獲得し、[レベル](../level.md#ri-ben-yu)アップできます。&#x20;
-* 各英雄は固有の属性を持ち、[**属性**](../stats/elemental-bonus-damage.md#ri-ben-yu)に基づいて相性関係が発生します。&#x20;
-* 英雄はNFTとしてのみ生成可能です（トライアル英雄を除く）。&#x20;
-* 新しい英雄が追加される場合、それは基本英雄ではなく、[**継承システム**](../../../contents/powering-up-the-hero/succession/#ri-ben-yu)を通じて適用されます。
+EXTOCIUMには**7人の基本英雄**が存在します。\
+各英雄は**独自のステータス、スキル、属性を持ち、戦略的なバトルを構築**できます。
 
-**🔹各英雄の詳細情報は下記のリンクをご確認ください。**
+***
+
+#### 🏆 英雄の基本情報
+
+🔹 [**スペシャルステータス**](../stats/special-stats/#ri-ben-yu) – すべての英雄は、**15～21のスペシャルステータスポイント**で構成された**ベースステータス**を持っています。\
+🔹 **スキルシステム** – 各英雄は**7つの固有スキルプール**を持ち、そのうち**2つのスキルがランダムに選択**されます。
+
+* トライアル英雄を作成する際には、**2つのスキルを自由に選択可能**です。
+
+🔹 **レベルシステム** – **狩りを行いEXPを獲得し、英雄を**[**レベル**](../level.md#ri-ben-yu)**アップ**させることができます。\
+🔹 **属性相性** – 各英雄は**固有の**[**属性**](../stats/elemental-bonus-damage.md#ri-ben-yu)**を持ち、属性による相性関係**が存在します。\
+🔹 **NFTシステム** – 英雄は**NFTとしてのみ生成可能**です（トライアル英雄を除く）。\
+🔹 **新英雄の追加方法** – 新たな英雄が追加される場合、**「**[**継承システム**](../../../contents/powering-up-the-hero/succession/#ri-ben-yu)**」を通じて適用**されます。
+
+***
+
+#### 🔹 各英雄の詳細情報は、以下のリンクから確認できます！
 {% endtab %}
 {% endtabs %}
 
