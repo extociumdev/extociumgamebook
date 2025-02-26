@@ -15,9 +15,11 @@ This page provides a **byproduct chart for equipment destroyed through** [**Elig
 **This system is different from equipment destruction due to** [**enchantment failure**](../../getting-started-guide/equipment/enchantment/enchantment-failed.md#eng)**.**
 {% endhint %}
 
-Check the chart below for detailed information!
+{% hint style="danger" %}
+Unlike the guide below, **when you destroy bound equipment, fewer byproducts are obtained.**
+{% endhint %}
 
-❓ Unlike the guide below, when you destroy **bound equipment**, fewer byproducts are obtained.
+Check the chart below for detailed information!
 
 💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
 💔[Rune Destruction](equipment-destruction.md#rune-destruction)
@@ -33,9 +35,11 @@ Check the chart below for detailed information!
 **이 시스템은** [**인챈트로 인한 장비 파괴**](../../getting-started-guide/equipment/enchantment/enchantment-failed.md#undefined-1)**와는 구분됩니다.**
 {% endhint %}
 
-자세한 내용은 아래 차트를 확인하세요!
+{% hint style="danger" %}
+&#x20;아래 가이드와는 달리, **귀속 장비를 파괴할 경우 부산물이 적게 나옵니다.**
+{% endhint %}
 
-❓ 아래 가이드와는 달리, **귀속 장비**를 파괴할 경우 부산물이 적게 나옵니다.
+자세한 내용은 아래 차트를 확인하세요!
 
 💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
 💔[Rune Destruction](equipment-destruction.md#rune-destruction)
@@ -51,9 +55,11 @@ Check the chart below for detailed information!
 このシステムは、[エンチャントによる装備破壊](../../getting-started-guide/equipment/enchantment/enchantment-failed.md#ri-ben-yu)とは異なります。
 {% endhint %}
 
-詳しくは、以下のチャートをご確認ください！
+{% hint style="danger" %}
+以下のガイドとは異なり、**バウンド装備を破壊する場合、副産物が少なくなります。**
+{% endhint %}
 
-❓ 以下のガイドとは異なり、バウンド装備を破壊する場合、副産物が少なくなります。
+詳しくは、以下のチャートをご確認ください！
 
 💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
 💔[Rune Destruction](equipment-destruction.md#rune-destruction)
