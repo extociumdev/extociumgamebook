@@ -134,7 +134,7 @@ Enjoy a seamless and secure blockchain experience in EXTOCIUM!
 
 1️⃣ 네트워크 선택 화면에서 **"네트워크 추가" 버튼**을 터치하세요.
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="188"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="375"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
 
 
 
@@ -146,7 +146,7 @@ Enjoy a seamless and secure blockchain experience in EXTOCIUM!
 
 3️⃣ 완료! ✅ 이제 메타마스크 지갑이 BSC 네트워크를 사용할 준비가 되었습니다.
 
-<figure><img src="../../.gitbook/assets/image (617).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (617).png" alt="" width="302"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 📌 **확인 방법:**\
