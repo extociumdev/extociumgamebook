@@ -9,6 +9,8 @@ description: 🛑 This information may be updated later than the game server dat
 ### 🍒 Earrings
 
 Earrings **come with CP and SCP as base stats.**\
+💡 **Check the fixed stat option ranges** [**here**](earring.md#earring-fixed-stat-option-range)
+
 Equip the right earrings to unleash even greater combat power!
 
 ***
@@ -69,6 +71,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 ### 🍒 **귀걸이**
 
 귀걸이에는 **CP와 SCP가 기본적으로 부여됩니다.**\
+💡 [**여기**](earring.md#earring-fixed-stat-option-range)**에서 고정 스탯 옵션 범위를 확인하세요**
+
 적절한 귀걸이를 장착하여 더욱 강력한 전투력을 발휘하세요!
 
 ***
@@ -129,6 +133,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 ### 🍒 イヤリング
 
 イヤリングには **CPとSCPが基本ステータスとして付与されます。**\
+💡 [**ここで**](earring.md#earring-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう**
+
 最適なイヤリングを装備し、さらに強力な戦闘力を発揮しましょう！
 
 ***
@@ -185,3 +191,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 💡 **イヤリングの基本ステータスとランダムオプションを活用し、英雄をさらに強化しましょう！**
 {% endtab %}
 {% endtabs %}
+
+#### **💡Earring Fixed Stat Option Range**
+
+<table><thead><tr><th width="149"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Earring</strong></td><td><strong>Min CP</strong></td><td><strong>Max CP</strong></td><td><strong>Min SCP</strong></td><td><strong>Max SCP</strong></td></tr><tr><td>Crystal Earrings</td><td>0.5</td><td>0.8</td><td>0.5</td><td>0.8</td></tr><tr><td>Mage's Earrings</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Spirit's Earrings</td><td>2.5</td><td>4</td><td>2.5</td><td>4</td></tr><tr><td>Inferno's Earrings</td><td>4.5</td><td>6</td><td>4.5</td><td>6</td></tr><tr><td>Emperor's Earrings</td><td>6.5</td><td>9</td><td>6.5</td><td>9</td></tr><tr><td>Star Earrings</td><td>9.5</td><td>12.5</td><td>9.5</td><td>12.5</td></tr></tbody></table>

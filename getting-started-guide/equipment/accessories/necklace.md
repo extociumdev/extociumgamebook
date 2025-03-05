@@ -9,6 +9,8 @@ description: 🛑 This information may be updated later than the game server dat
 ### 📿 **Necklace**
 
 Necklaces **come with MP and CR as base stats.**\
+💡 **Check the fixed stat option ranges**[ **here**](necklace.md#necklace-fixed-stat-option-range)
+
 Equip the right necklace to unleash even greater combat power!
 
 ***
@@ -69,7 +71,9 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 {% tab title="한국어" %}
 ### 📿 **목걸이**
 
-목걸이에는 **MP와 CR이 기본적으로 부여됩니다.**\
+목걸이에는 **MP와 CR이 기본적으로 부여됩니다.** \
+💡 [**여기**](necklace.md#necklace-fixed-stat-option-range)**에서 고정 스탯 옵션 범위를 확인하세요**
+
 적절한 목걸이를 장착하여 더욱 강력한 전투력을 발휘하세요!
 
 ***
@@ -131,6 +135,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 ### 📿 **ネックレス**
 
 ネックレスには **MPとCRが基本ステータスとして付与されます。**\
+💡 [**ここで**](necklace.md#necklace-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう**
+
 最適なネックレスを装備し、さらに強力な戦闘力を発揮しましょう！
 
 ***
@@ -188,3 +194,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 💡 **ネックレスの基本ステータスとランダムオプションを活用し、英雄をさらに強化しましょう！**
 {% endtab %}
 {% endtabs %}
+
+#### 💡Necklace Fixed Stat Option Range
+
+<table data-header-hidden data-full-width="true"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Necklace</strong></td><td><strong>Min MP</strong></td><td><strong>Max MP</strong></td><td><strong>Min CR</strong></td><td><strong>Max CR</strong></td></tr><tr><td>Crystal Necklace</td><td>550</td><td>600</td><td>0.5</td><td>0.8</td></tr><tr><td>Adventurer's Necklace</td><td>1,100</td><td>1,280</td><td>0.9</td><td>1.2</td></tr><tr><td>Mage's Necklace</td><td>2,300</td><td>2,740</td><td>1.4</td><td>2</td></tr><tr><td>Elf's Necklace</td><td>4,800</td><td>5,860</td><td>2.2</td><td>2.8</td></tr><tr><td>Spirit's Necklace</td><td>10,500</td><td>12,540</td><td>3</td><td>3.8</td></tr><tr><td>Salamander's Necklace</td><td>21,500</td><td>26,840</td><td>4</td><td>4.8</td></tr><tr><td>Inferno's Necklace</td><td>48,000</td><td>57,440</td><td>5</td><td>5.8</td></tr><tr><td>Mermaid's Necklace</td><td>100,000</td><td>122,920</td><td>6</td><td>6.8</td></tr><tr><td>Emperor's Necklace</td><td>220,000</td><td>263,040</td><td>7</td><td>8</td></tr><tr><td>Necklace of Tears</td><td>480,000</td><td>562,900</td><td>8.2</td><td>10.8</td></tr><tr><td>Star Necklace</td><td>1,000,000</td><td>1,204,600</td><td>11</td><td>12.8</td></tr></tbody></table>

@@ -31,6 +31,10 @@ The fixed value varies for each weapon in terms of the primary stat.
 | WIZ                      | 0 or 100               |
 | CHA                      | 0 or 100               |
 
+💡 **Equipment Fixed Option Range Guide**
+
+👉[ **Click here** ](weapon-stats.md#fixed-option-range)to check the **minimum and maximum fixed stat values for each piece of equipment!**
+
 #### <mark style="color:blue;">2️⃣Primary Stat Option (Probabilistic)</mark>
 
 When a weapon is created, a primary stat option can be randomly applied. \
@@ -118,6 +122,10 @@ With each enchantment level reaching increments of '5', an additional random opt
 | CON          | 0 or 100  |
 | WIZ          | 0 or 100  |
 | CHA          | 0 or 100  |
+
+💡 **장비 고정 옵션 범위 안내**
+
+👉 [**여기를 클릭**](weapon-stats.md#fixed-option-range)하여 **장비별 적용 가능한 고정 스탯의 최소\~최대값**을 확인하세요!
 
 #### <mark style="color:blue;">2️⃣1차 스탯 옵션 (확률적)</mark>
 
@@ -207,6 +215,10 @@ With each enchantment level reaching increments of '5', an additional random opt
 | WIZ          | 0 or 100 |
 | CHA          | 0 or 100 |
 
+💡 **装備固定オプション範囲ガイド**
+
+👉 [**こちらをクリック** して](weapon-stats.md#fixed-option-range)、**各装備に適用される固定ステータスの最小～最大値**を確認しましょう！
+
 #### <mark style="color:blue;">2️⃣1次ステータスオプション（確率的）</mark>
 
 武器を生成する際、ランダムに1次ステータスオプションが適用される可能性があります。 各確率値は武器ごとに異なり、同様に各武器に設定された最小値～最大値の範囲内でランダムに適用されます。 \
@@ -266,4 +278,8 @@ With each enchantment level reaching increments of '5', an additional random opt
 | 光の剣                                           | "                                                                 | 2\~5   |
 {% endtab %}
 {% endtabs %}
+
+#### 💡Fixed Option Range&#x20;
+
+<table data-header-hidden><thead><tr><th></th><th width="114"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Min AP</strong></td><td><strong>Max AP</strong></td><td><strong>Min SAP</strong></td><td><strong>Max SAP</strong></td></tr><tr><td>Wooden Sword</td><td>30</td><td>32</td><td>30</td><td>32</td></tr><tr><td>Bronze Sword</td><td>120</td><td>140</td><td>120</td><td>140</td></tr><tr><td>Steel Sword</td><td>260</td><td>336</td><td>260</td><td>336</td></tr><tr><td>Flamberg</td><td>620</td><td>768</td><td>620</td><td>768</td></tr><tr><td>Paladin's Sword</td><td>1,300</td><td>1,584</td><td>1,300</td><td>1,584</td></tr><tr><td>Orc eye</td><td>2,800</td><td>2,978</td><td>2,800</td><td>2,978</td></tr><tr><td>Damascus</td><td>5,400</td><td>5,545</td><td>5,400</td><td>5,545</td></tr><tr><td>Savage Sword</td><td>10,200</td><td>11,160</td><td>10,200</td><td>11,160</td></tr><tr><td>Oracle Sword</td><td>20,500</td><td>22,364</td><td>20,500</td><td>22,364</td></tr><tr><td>Devil's Sword</td><td>40,000</td><td>44,982</td><td>40,000</td><td>44,982</td></tr><tr><td>Awakening Darkness</td><td>78,000</td><td>89,856</td><td>78,000</td><td>89,856</td></tr><tr><td>Sword of Light</td><td>152,000</td><td>167,200</td><td>152,000</td><td>167,200</td></tr></tbody></table>
 

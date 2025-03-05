@@ -19,16 +19,20 @@ description: 🛑 This information may be updated later than the game server dat
 An option that is 100% applied to all orbs. \
 The fixed option is randomly applied within a predefined minimum to maximum range for each weapon. The fixed value varies for each weapon in terms of the primary stat.
 
-| Option                    | Spawn Probability (%) |
-| ------------------------- | --------------------- |
-| Agility (AGI)             | 100                   |
-| Damage Reduction (Shield) | 100                   |
-| STR                       | 0 or 100              |
-| DEX                       | 0 or 100              |
-| INT                       | 0 or 100              |
-| CON                       | 0 or 100              |
-| WIZ                       | 0 or 100              |
-| CHA                       | 0 or 100              |
+| Option        | Spawn Probability (%) |
+| ------------- | --------------------- |
+| Agility (AGI) | 100                   |
+| HP            | 100                   |
+| STR           | 0 or 100              |
+| DEX           | 0 or 100              |
+| INT           | 0 or 100              |
+| CON           | 0 or 100              |
+| WIZ           | 0 or 100              |
+| CHA           | 0 or 100              |
+
+💡 **Equipment Fixed Option Range Guide**
+
+👉[ **Click here**](orb-stats.md#fixed-option-range) to check the **minimum and maximum fixed stat values for each piece of equipment!**
 
 #### <mark style="color:blue;">2️⃣Primary stat option (probabilistic)</mark>
 
@@ -110,16 +114,20 @@ As the orb level increases, the minimum to maximum values of the options also in
 고정 옵션은 각 무기에 정해진 최소 \~ 최대 값 안에서 랜덤하게 적용됩니다.\
 1차 스탯의 경우, 무기마다 적용되는 고정 값이 다릅니다.
 
-| 옵션              | 생성 확률 (%) |
-| --------------- | --------- |
-| 민첩 (AGI)        | 100       |
-| 데미지 감소 (Shield) | 100       |
-| STR             | 0 or 100  |
-| DEX             | 0 or 100  |
-| INT             | 0 or 100  |
-| CON             | 0 or 100  |
-| WIZ             | 0 or 100  |
-| CHA             | 0 or 100  |
+| 옵션       | 생성 확률 (%) |
+| -------- | --------- |
+| 민첩 (AGI) | 100       |
+| HP       | 100       |
+| STR      | 0 or 100  |
+| DEX      | 0 or 100  |
+| INT      | 0 or 100  |
+| CON      | 0 or 100  |
+| WIZ      | 0 or 100  |
+| CHA      | 0 or 100  |
+
+💡 **장비 고정 옵션 범위 안내**
+
+👉 [**여기를 클릭**](orb-stats.md#fixed-option-range)하여 **장비별 적용 가능한 고정 스탯의 최소\~최대값**을 확인하세요!
 
 #### <mark style="color:blue;">2️⃣1차 스탯 옵션 (확률적)</mark>
 
@@ -203,16 +211,20 @@ As the orb level increases, the minimum to maximum values of the options also in
 固定オプションは、各武器に設定された最小値～最大値の範囲内でランダムに適用されます。\
 &#x20;1次ステータスの場合、武器ごとに適用される固定値が異なります。
 
-| オプション        | 生成確率 (%) |
-| ------------ | -------- |
-| アジャイル (AGI)  | 100      |
-| ダメージ減少（シールド） | 100      |
-| STR          | 0 or 100 |
-| DEX          | 0 or 100 |
-| INT          | 0 or 100 |
-| CON          | 0 or 100 |
-| WIZ          | 0 or 100 |
-| CHA          | 0 or 100 |
+| オプション       | 生成確率 (%) |
+| ----------- | -------- |
+| アジャイル (AGI) | 100      |
+| HP          | 100      |
+| STR         | 0 or 100 |
+| DEX         | 0 or 100 |
+| INT         | 0 or 100 |
+| CON         | 0 or 100 |
+| WIZ         | 0 or 100 |
+| CHA         | 0 or 100 |
+
+💡 **装備固定オプション範囲ガイド**
+
+👉 [**こちらをクリック** して](orb-stats.md#fixed-option-range)、**各装備に適用される固定ステータスの最小～最大値**を確認しましょう！
 
 #### <mark style="color:blue;">2️⃣1次ステータスオプション（確率的）</mark>
 
@@ -276,4 +288,21 @@ As the orb level increases, the minimum to maximum values of the options also in
 | 水の怒り                                         | "                                                                 | 2\~5   |
 {% endtab %}
 {% endtabs %}
+
+#### **💡 Fixed Option Range**
+
+| **Orb**          | **Min HP** | **Max HP** | **Min Agility** | **Max Agilit**y |
+| ---------------- | ---------- | ---------- | --------------- | --------------- |
+| Orb of Wind      | 500        | 510        | 1               | 1.5             |
+| Dark Orb         | 1,000      | 1,680      | 1.6             | 2.3             |
+| Abyssal Orb      | 3,000      | 4,838      | 2.4             | 3.5             |
+| Orb of Clarity   | 8,000      | 11,059     | 3.7             | 4.8             |
+| Wind of Fire     | 17,000     | 20,908     | 4.9             | 6               |
+| Wings of Light   | 30,736     | 36,455     | 6.2             | 8               |
+| Explosion Energy | 53,590     | 67,204     | 8.2             | 10              |
+| Devil's Hand     | 98,790     | 133,920    | 10.2            | 12              |
+| Devil's Wings    | 196,862    | 265,685    | 12.2            | 13.5            |
+| Orb of Judgment  | 420,000    | 528,988    | 15              | 18              |
+| Rainbow          | 880,000    | 1,035,141  | 21              | 24              |
+| Water Wrath      | 1,666,577  | 1,966,272  | 25              | 27              |
 

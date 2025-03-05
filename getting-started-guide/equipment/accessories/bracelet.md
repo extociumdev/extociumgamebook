@@ -9,6 +9,8 @@ description: 🛑 This information may be updated later than the game server dat
 ### 📿 **Bracelet**
 
 Bracelets **come with CB and SCB as base stats.**\
+💡 **Check the fixed stat option ranges**[ **here**](bracelet.md#bracelet-fixed-stat-option-range)
+
 Equip the right bracelet to unleash even greater combat power!
 
 ***
@@ -73,6 +75,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 #### 📿 **팔찌**
 
 팔찌에는 **CB와 SCB가 기본적으로 부여됩니다.**\
+💡 [**여기**](bracelet.md#bracelet-fixed-stat-option-range)**에서 고정 스탯 옵션 범위를 확인하세요**
+
 적절한 팔찌를 장착하여 더욱 강력한 전투력을 발휘하세요!
 
 ***
@@ -137,6 +141,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 ### 📿 **ブレスレット**
 
 ブレスレットには **CBとSCBが基本ステータスとして付与されます。**\
+💡 [**ここで**](bracelet.md#bracelet-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう**
+
 最適なブレスレットを装備し、さらに強力な戦闘力を発揮しましょう！
 
 ***
@@ -197,3 +203,19 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 💡 **ブレスレットの基本ステータスとランダムオプションを活用し、英雄をさらに強化しましょう！**
 {% endtab %}
 {% endtabs %}
+
+#### 💡Bracelet Fixed Stat Option Range
+
+| **Bracelet**          | **Min CB** | **Max CB** | **Min SCB** | **Max SCB** |
+| --------------------- | ---------- | ---------- | ----------- | ----------- |
+| Crystal Bracelet      | 24         | 26         | 24          | 26          |
+| Adventurer's Bracelet | 100        | 112        | 100         | 112         |
+| Mage's Bracelet       | 190        | 224        | 190         | 224         |
+| Elf's Bracelet        | 400        | 512        | 400         | 512         |
+| Spirit's Bracelet     | 900        | 1,152      | 900         | 1,152       |
+| Salamander's Bracelet | 1,960      | 2,336      | 1,960       | 2,336       |
+| Inferno's Bracelet    | 3,960      | 4,880      | 3,960       | 4,880       |
+| Mermaid's Bracelet    | 8,300      | 9,920      | 8,300       | 9,920       |
+| Emperor's Bracelet    | 17,000     | 20,080     | 17,000      | 20,080      |
+| Bracelet of Tears     | 34,000     | 40,800     | 34,000      | 40,800      |
+| Star Bracelet         | 69,000     | 83,200     | 69,000      | 83,200      |
