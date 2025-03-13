@@ -50,6 +50,9 @@ When applying the primary stat probability, it is treated as an independent prob
 | WIZ    | 5\~8                  |
 | CHA    | 5\~8                  |
 
+💡 **Primary Stat Option Range Guide** \
+👉[ **Click here**](orb-stats.md#primary-stat-option-range) to check the minimum and maximum values for primary stat options!
+
 #### <mark style="color:blue;">3️⃣Secondary stat option (probabilistic)</mark>
 
 When an orb is created, a secondary stat option can be randomly applied. \
@@ -69,6 +72,9 @@ When applying the secondary stat probability, it is treated as an independent pr
 | Skill Critical Chance (SCP) | 8\~10                 |
 | Cooltime Reduction (CR)     | 3\~5                  |
 | Agility (AGI)               | 0.2\~0.5              |
+
+💡 **Secondary Stat Option Range Guide** \
+👉[ **Click here** ](orb-stats.md#secondary-stat-option-range)to check the minimum and maximum values for secondary stat options!
 
 #### <mark style="color:blue;">4️⃣Compatibility option (probabilistic)</mark>
 
@@ -145,6 +151,9 @@ As the orb level increases, the minimum to maximum values of the options also in
 | WIZ  | 5\~8      |
 | CHA  | 5\~8      |
 
+💡 **1차 스탯 옵션 범위 안내** \
+👉 [**여기를 클릭**](orb-stats.md#primary-stat-option-range)하여 1차 스탯 옵션의 최소\~최대값을 확인하세요!
+
 #### <mark style="color:blue;">3️⃣2차 스탯 옵션 (확률적)</mark>
 
 오브를 생성할 때 랜덤하게 2차 스탯 옵션이 적용될 수 있습니다. \
@@ -164,6 +173,9 @@ As the orb level increases, the minimum to maximum values of the options also in
 | 스킬 치명타 확률 (SCP)  | 8\~10     |
 | 쿨타임 감소 (CR)      | 3\~5      |
 | 민첩 (AGI)         | 0.2\~0.5  |
+
+💡 **2차 스탯 옵션 범위 안내** \
+👉 [**여기를 클릭**](orb-stats.md#secondary-stat-option-range)하여 2차 스탯 옵션의 최소\~최대값을 확인하세요!
 
 #### <mark style="color:blue;">4️⃣상성 옵션 (확률적)</mark>
 
@@ -242,6 +254,9 @@ As the orb level increases, the minimum to maximum values of the options also in
 | WIZ   | 5\~8     |
 | CHA   | 5\~8     |
 
+💡 **1次ステータスオプションの範囲案内** \
+👉 [**こちらをクリックして**](orb-stats.md#primary-stat-option-range)、1次ステータスオプションの最小～最大値を確認してください！
+
 #### <mark style="color:blue;">3️⃣2次ステータスオプション（確率的）</mark>
 
 オーブを生成する際、ランダムに2次ステータスオプションが適用される可能性があります。 各確率値はオーブごとに異なり、同様に各オーブに設定された最小値～最大値の範囲内でランダムに適用されます。 \
@@ -260,6 +275,9 @@ As the orb level increases, the minimum to maximum values of the options also in
 | スキルクリティカル確率 (SCP)   | 8\~10    |
 | クールタイム減少 (CR)       | 3\~5     |
 | アジャイル (AGI)         | 0.2\~0.5 |
+
+💡 **2次ステータスオプションの範囲案内** \
+👉 [**こちらをクリックして**](orb-stats.md#secondary-stat-option-range)、2次ステータスオプションの最小～最大値を確認してください！
 
 #### <mark style="color:blue;">4️⃣相性オプション（確率的）</mark>
 
@@ -306,3 +324,14 @@ As the orb level increases, the minimum to maximum values of the options also in
 | Rainbow          | 880,000    | 1,035,141  | 21              | 24              |
 | Water Wrath      | 1,666,577  | 1,966,272  | 25              | 27              |
 
+
+
+#### 💡**Primary Stat Option Range**
+
+<table><thead><tr><th>Orb</th><th>STR MIN</th><th>STR MAX</th><th>DEX MIN</th><th>DEX MAX</th><th>INT MIN</th><th>INT MAX</th><th>CON MIN</th><th>CON MAX</th><th>WIZ MIN</th><th width="144.79998779296875">WIZ MAX</th><th>CHA MIN</th><th>CHA MAX</th></tr></thead><tbody><tr><td>Orb of Wind</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Dark Orb</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Abyssal Orb</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Orb of Clarity</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Wind of Fire</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Wings of Light</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Explosion Energy</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Devil's Hand</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Devil's Wings</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr><tr><td>Orb of Judgment</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr><tr><td>Rainbow</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr><tr><td>Water Wrat</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr></tbody></table>
+
+
+
+#### 💡Secondary **Stat Option Range**
+
+<table><thead><tr><th>Orb</th><th>AP MIN</th><th>AP MAX</th><th>HP MIN</th><th>HP MAX</th><th>MP MIN</th><th>MP MAX</th><th>CB MIN</th><th>CB MAX</th><th>CP MIN</th><th width="144.79998779296875">CP MAX</th><th>SAP MIN</th><th>SAP MAX</th><th>SCB MIN</th><th>SCB MAX</th><th>SCP MIN</th><th>SCP MAX</th></tr></thead><tbody><tr><td>Orb of Wind</td><td>3</td><td>9</td><td>30</td><td>300</td><td>15</td><td>150</td><td>3</td><td>9</td><td>1</td><td>1</td><td>3</td><td>9</td><td>3</td><td>9</td><td>1</td><td>1</td></tr><tr><td>Dark Orb</td><td>6</td><td>21</td><td>150</td><td>1,500</td><td>75</td><td>750</td><td>6</td><td>21</td><td>1</td><td>2</td><td>6</td><td>21</td><td>6</td><td>21</td><td>1</td><td>2</td></tr><tr><td>Abyssal Orb</td><td>15</td><td>36</td><td>600</td><td>2,400</td><td>300</td><td>1,200</td><td>15</td><td>36</td><td>1</td><td>3</td><td>15</td><td>36</td><td>15</td><td>36</td><td>1</td><td>3</td></tr><tr><td>Orb of Clarity</td><td>21</td><td>66</td><td>1,800</td><td>4,500</td><td>900</td><td>2,250</td><td>21</td><td>66</td><td>1</td><td>4</td><td>21</td><td>66</td><td>21</td><td>66</td><td>1</td><td>4</td></tr><tr><td>Wind of Fire</td><td>36</td><td>105</td><td>3,000</td><td>7,200</td><td>1,500</td><td>3,600</td><td>36</td><td>105</td><td>1</td><td>5</td><td>36</td><td>105</td><td>36</td><td>105</td><td>1</td><td>5</td></tr><tr><td>Wings of Light</td><td>54</td><td>150</td><td>4,200</td><td>9,000</td><td>2,100</td><td>4,500</td><td>54</td><td>150</td><td>1</td><td>6</td><td>54</td><td>150</td><td>54</td><td>150</td><td>1</td><td>6</td></tr><tr><td>Explosion Energy</td><td>72</td><td>210</td><td>5,400</td><td>12,000</td><td>2,700</td><td>6,000</td><td>72</td><td>210</td><td>1</td><td>7</td><td>72</td><td>210</td><td>72</td><td>210</td><td>1</td><td>7</td></tr><tr><td>Devil's Hand</td><td>105</td><td>270</td><td>7,200</td><td>18,000</td><td>3,600</td><td>9,000</td><td>105</td><td>270</td><td>1</td><td>8</td><td>105</td><td>270</td><td>105</td><td>270</td><td>1</td><td>8</td></tr><tr><td>Devil's Wings</td><td>400</td><td>3,000</td><td>12,000</td><td>24,000</td><td>6,000</td><td>12,000</td><td>400</td><td>3,000</td><td>1</td><td>9</td><td>400</td><td>3,000</td><td>400</td><td>3,000</td><td>1</td><td>9</td></tr><tr><td>Orb of Judgment</td><td>3,500</td><td>10,000</td><td>30,000</td><td>100,000</td><td>20,000</td><td>70,000</td><td>3,500</td><td>10,000</td><td>1</td><td>10</td><td>3,500</td><td>10,000</td><td>3,500</td><td>10,000</td><td>1</td><td>10</td></tr><tr><td>Rainbow</td><td>15,000</td><td>20,000</td><td>120,000</td><td>160,000</td><td>90,000</td><td>130,000</td><td>15,000</td><td>20,000</td><td>1</td><td>11</td><td>15,000</td><td>20,000</td><td>15,000</td><td>20,000</td><td>1</td><td>11</td></tr><tr><td>Water Wrat</td><td>25,000</td><td>30,000</td><td><mark style="color:blue;"><strong>300,000</strong></mark></td><td><mark style="color:blue;"><strong>400,000</strong></mark></td><td>150,000</td><td>190,000</td><td>25,000</td><td>30,000</td><td>4</td><td>14</td><td>25,000</td><td>30,000</td><td>25,000</td><td>30,000</td><td>4</td><td>14</td></tr></tbody></table>
