@@ -27,8 +27,6 @@ The fixed value varies for each weapon in terms of the primary stat.
 | STR                      | 0 or 100               |
 | DEX                      | 0 or 100               |
 | INT                      | 0 or 100               |
-| CON                      | 0 or 100               |
-| WIZ                      | 0 or 100               |
 | CHA                      | 0 or 100               |
 
 💡 **Equipment Fixed Option Range Guide**
@@ -51,6 +49,9 @@ When applying the primary stat probability, it is treated as an independent prob
 | WIZ    | 5\~8                  |
 | CHA    | 5\~8                  |
 
+💡 **Primary Stat Option Range Guide** \
+👉 [**Click here**](weapon-stats.md#primary-stat-option-range) to check the minimum and maximum values for primary stat options!
+
 #### <mark style="color:blue;">3️⃣Secondary Stat Option (Probabilistic)</mark>
 
 When a weapon is created, a secondary stat option can be randomly applied. \
@@ -69,6 +70,9 @@ When applying the secondary stat probability, it is treated as an independent pr
 | Skill Critical Bonus (SCB)  | 8\~10                 |
 | Skill Critical Chance (SCP) | 8\~10                 |
 | Cooltime Reduction (CR)     | 3\~5                  |
+
+💡 **Secondary Stat Option Range Guide** \
+👉 [**Click here**](weapon-stats.md#secondary-stat-option-range) to check the minimum and maximum values for secondary stat options!
 
 #### <mark style="color:blue;">4️⃣Compatibility Option (Probabilistic)</mark>
 
@@ -119,8 +123,6 @@ With each enchantment level reaching increments of '5', an additional random opt
 | STR          | 0 or 100  |
 | DEX          | 0 or 100  |
 | INT          | 0 or 100  |
-| CON          | 0 or 100  |
-| WIZ          | 0 or 100  |
 | CHA          | 0 or 100  |
 
 💡 **장비 고정 옵션 범위 안내**
@@ -143,6 +145,9 @@ With each enchantment level reaching increments of '5', an additional random opt
 | WIZ  | 5\~8      |
 | CHA  | 5\~8      |
 
+💡 **1차 스탯 옵션 범위 안내** \
+👉 [**여기를 클릭**](weapon-stats.md#primary-stat-option-range)하여 1차 스탯 옵션의 최소\~최대값을 확인하세요!
+
 #### <mark style="color:blue;">3️⃣2차 스탯 옵션 (확률적)</mark>
 
 무기를 생성할 때 랜덤하게 2차 스탯 옵션이 적용될 수 있습니다. \
@@ -161,6 +166,9 @@ With each enchantment level reaching increments of '5', an additional random opt
 | 스킬 치명타 보너스 (SCB) | 8\~10     |
 | 스킬 치명타 확률 (SCP)  | 8\~10     |
 | 쿨타임 감소 (CR)      | 3\~5      |
+
+💡 **2차 스탯 옵션 범위 안내** \
+👉 [**여기를 클릭**](weapon-stats.md#secondary-stat-option-range)하여 2차 스탯 옵션의 최소\~최대값을 확인하세요!
 
 #### <mark style="color:blue;">4️⃣상성 옵션 (확률적)</mark>
 
@@ -211,8 +219,6 @@ With each enchantment level reaching increments of '5', an additional random opt
 | STR          | 0 or 100 |
 | DEX          | 0 or 100 |
 | INT          | 0 or 100 |
-| CON          | 0 or 100 |
-| WIZ          | 0 or 100 |
 | CHA          | 0 or 100 |
 
 💡 **装備固定オプション範囲ガイド**
@@ -234,6 +240,9 @@ With each enchantment level reaching increments of '5', an additional random opt
 | WIZ   | 5\~8     |
 | CHA   | 5\~8     |
 
+💡 **1次ステータスオプションの範囲案内** \
+👉 [**こちらをクリック**](weapon-stats.md#primary-stat-option-range)**して**、1次ステータスオプションの最小～最大値を確認してください！
+
 #### <mark style="color:blue;">3️⃣2次ステータスオプション（確率的）</mark>
 
 武器を生成する際、ランダムに2次ステータスオプションが適用される可能性があります。 各確率値は武器ごとに異なり、同様に各武器に設定された最小値～最大値の範囲内でランダムに適用されます。 \
@@ -251,6 +260,9 @@ With each enchantment level reaching increments of '5', an additional random opt
 | スキルクリティカルボーナス (SCB) | 8\~10    |
 | スキルクリティカル確率 (SCP)   | 8\~10    |
 | クールタイム減少 (CR)       | 3\~5     |
+
+💡 **2次ステータスオプションの範囲案内** \
+👉 [**こちらをクリックして**](weapon-stats.md#secondary-stat-option-range)、2次ステータスオプションの最小～最大値を確認してください！
 
 #### <mark style="color:blue;">4️⃣相性オプション（確率的）</mark>
 
@@ -281,5 +293,23 @@ With each enchantment level reaching increments of '5', an additional random opt
 
 #### 💡Fixed Option Range&#x20;
 
-<table data-header-hidden><thead><tr><th></th><th width="114"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Min AP</strong></td><td><strong>Max AP</strong></td><td><strong>Min SAP</strong></td><td><strong>Max SAP</strong></td></tr><tr><td>Wooden Sword</td><td>30</td><td>32</td><td>30</td><td>32</td></tr><tr><td>Bronze Sword</td><td>120</td><td>140</td><td>120</td><td>140</td></tr><tr><td>Steel Sword</td><td>260</td><td>336</td><td>260</td><td>336</td></tr><tr><td>Flamberg</td><td>620</td><td>768</td><td>620</td><td>768</td></tr><tr><td>Paladin's Sword</td><td>1,300</td><td>1,584</td><td>1,300</td><td>1,584</td></tr><tr><td>Orc eye</td><td>2,800</td><td>2,978</td><td>2,800</td><td>2,978</td></tr><tr><td>Damascus</td><td>5,400</td><td>5,545</td><td>5,400</td><td>5,545</td></tr><tr><td>Savage Sword</td><td>10,200</td><td>11,160</td><td>10,200</td><td>11,160</td></tr><tr><td>Oracle Sword</td><td>20,500</td><td>22,364</td><td>20,500</td><td>22,364</td></tr><tr><td>Devil's Sword</td><td>40,000</td><td>44,982</td><td>40,000</td><td>44,982</td></tr><tr><td>Awakening Darkness</td><td>78,000</td><td>89,856</td><td>78,000</td><td>89,856</td></tr><tr><td>Sword of Light</td><td>152,000</td><td>167,200</td><td>152,000</td><td>167,200</td></tr></tbody></table>
+📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
+
+<table data-header-hidden><thead><tr><th></th><th width="114"></th><th></th><th></th><th></th><th width="79.3572998046875"></th><th width="80.26431274414062"></th><th width="84.49053955078125"></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Min AP</strong></td><td><strong>Max AP</strong></td><td><strong>Min SAP</strong></td><td><strong>Max SAP</strong></td><td><strong>STR</strong></td><td><strong>DEX</strong></td><td><strong>INT</strong></td><td><strong>CHA</strong></td></tr><tr><td>Wooden Sword</td><td>30</td><td>32</td><td>30</td><td>32</td><td></td><td></td><td></td><td></td></tr><tr><td>Bronze Sword</td><td>120</td><td>140</td><td>120</td><td>140</td><td></td><td></td><td></td><td></td></tr><tr><td>Steel Sword</td><td>260</td><td>336</td><td>260</td><td>336</td><td></td><td></td><td></td><td></td></tr><tr><td>Flamberg</td><td>620</td><td>768</td><td>620</td><td>768</td><td></td><td></td><td></td><td></td></tr><tr><td>Paladin's Sword</td><td>1,300</td><td>1,584</td><td>1,300</td><td>1,584</td><td></td><td></td><td></td><td></td></tr><tr><td>Orc eye</td><td>2,800</td><td>2,978</td><td>2,800</td><td>2,978</td><td></td><td></td><td></td><td></td></tr><tr><td>Damascus</td><td>5,400</td><td>5,545</td><td>5,400</td><td>5,545</td><td></td><td></td><td></td><td></td></tr><tr><td>Savage Sword</td><td>10,200</td><td>11,160</td><td>10,200</td><td>11,160</td><td></td><td></td><td></td><td></td></tr><tr><td>Oracle Sword</td><td>20,500</td><td>22,364</td><td>20,500</td><td>22,364</td><td></td><td></td><td></td><td></td></tr><tr><td>Devil's Sword</td><td>40,000</td><td>44,982</td><td>40,000</td><td>44,982</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td>Awakening Darkness</td><td>78,000</td><td>89,856</td><td>78,000</td><td>89,856</td><td>2</td><td>1</td><td>2</td><td></td></tr><tr><td>Sword of Light</td><td>152,000</td><td>167,200</td><td>152,000</td><td>167,200</td><td>4</td><td>1</td><td>4</td><td>1</td></tr></tbody></table>
+
+
+
+#### 💡 **Primary Stat Option Range**
+
+📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
+
+<table data-header-hidden><thead><tr><th></th><th width="114"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Min</strong> <strong>STR</strong></td><td><strong>Max STR</strong></td><td><strong>Min</strong> <strong>DEX</strong></td><td><strong>Max DEX</strong></td><td><strong>Min</strong> <strong>INT</strong></td><td><strong>Max INT</strong></td><td><strong>Min</strong> <strong>CON</strong></td><td><strong>Max CON</strong></td><td><strong>Min</strong> <strong>WIZ</strong></td><td><strong>Max WIZ</strong></td><td><strong>Min</strong> <strong>CHA</strong></td><td><strong>Max CHA</strong></td></tr><tr><td>Wooden Sword</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Bronze Sword</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Steel Sword</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Flamberg</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Paladin's Sword</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Orc eye</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Damascus</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Savage Sword</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Oracle Sword</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr><tr><td>Devil's Sword</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr><tr><td>Awakening Darkness</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr><tr><td>Sword of Light</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr></tbody></table>
+
+
+
+#### 💡 **Secondary Stat Option Range**
+
+📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
+
+<table data-header-hidden><thead><tr><th></th><th width="114"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Min AP</strong></td><td><strong>Max AP</strong></td><td><strong>Min HP</strong></td><td><strong>Max HP</strong></td><td><strong>Min MP</strong></td><td><strong>Max MP</strong></td><td><strong>Min CB</strong></td><td><strong>Max CB</strong></td><td><strong>Min CP</strong></td><td><strong>Max CP</strong></td><td><strong>Min SAP</strong></td><td><strong>Max SAP</strong></td><td><strong>Min SCB</strong></td><td><strong>Max SCB</strong></td><td><strong>Min SCP</strong></td><td><strong>Max SCP</strong></td><td><strong>Min CR</strong></td><td><strong>Max CR</strong></td></tr><tr><td>Wooden Sword</td><td>3</td><td>9</td><td>30</td><td>300</td><td>15</td><td>150</td><td>3</td><td>9</td><td>1</td><td>1</td><td>3</td><td>9</td><td>3</td><td>9</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Bronze Sword</td><td>6</td><td>21</td><td>150</td><td>1,500</td><td>75</td><td>750</td><td>6</td><td>21</td><td>1</td><td>1</td><td>6</td><td>21</td><td>6</td><td>21</td><td>1</td><td>1</td><td>1</td><td>1.5</td></tr><tr><td>Steel Sword</td><td>15</td><td>36</td><td>600</td><td>2,400</td><td>300</td><td>1200</td><td>15</td><td>36</td><td>1</td><td>2</td><td>15</td><td>36</td><td>15</td><td>36</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Flamberg</td><td>21</td><td>66</td><td>1800</td><td>4,500</td><td>900</td><td>2250</td><td>21</td><td>66</td><td>1</td><td>2</td><td>21</td><td>66</td><td>21</td><td>66</td><td>1</td><td>2</td><td>1</td><td>2.5</td></tr><tr><td>Paladin's Sword</td><td>36</td><td>105</td><td>3000</td><td>7,200</td><td>1500</td><td>3600</td><td>36</td><td>105</td><td>1</td><td>3</td><td>36</td><td>105</td><td>36</td><td>105</td><td>1</td><td>3</td><td>1</td><td>3</td></tr><tr><td>Orc eye</td><td>54</td><td>150</td><td>4,200</td><td>9,000</td><td>2100</td><td>4500</td><td>54</td><td>150</td><td>1</td><td>3</td><td>54</td><td>150</td><td>54</td><td>150</td><td>1</td><td>3</td><td>1</td><td>3.5</td></tr><tr><td>Damascus</td><td>72</td><td>210</td><td>5,400</td><td>12,000</td><td>2700</td><td>6000</td><td>72</td><td>210</td><td>1</td><td>4</td><td>72</td><td>210</td><td>72</td><td>210</td><td>1</td><td>4</td><td>1</td><td>4</td></tr><tr><td>Savage Sword</td><td>105</td><td>270</td><td>7,200</td><td>18,000</td><td>3600</td><td>9000</td><td>105</td><td>270</td><td>1</td><td>4</td><td>105</td><td>270</td><td>105</td><td>270</td><td>1</td><td>4</td><td>1</td><td>4.5</td></tr><tr><td>Oracle Sword</td><td>400</td><td>3,000</td><td>12,000</td><td>24,000</td><td>6000</td><td>12000</td><td>400</td><td>3000</td><td>1</td><td>5</td><td>400</td><td>3000</td><td>400</td><td>3000</td><td>1</td><td>5</td><td>1</td><td>5</td></tr><tr><td>Devil's Sword</td><td>3,500</td><td>10,000</td><td>30,000</td><td>100,000</td><td>20000</td><td>70000</td><td>3500</td><td>10000</td><td>1</td><td>10</td><td>3500</td><td>10000</td><td>3500</td><td>10000</td><td>1</td><td>10</td><td>1</td><td>5.5</td></tr><tr><td>Awakening Darkness</td><td>15,000</td><td>20,000</td><td>120,000</td><td>160,000</td><td>90000</td><td>130000</td><td>15000</td><td>20000</td><td>1</td><td>11</td><td>15000</td><td>20000</td><td>15000</td><td>20000</td><td>1</td><td>11</td><td>1</td><td>6</td></tr><tr><td>Sword of Light</td><td>25,000</td><td>30,000</td><td>300,000</td><td>400,000</td><td>150000</td><td>190000</td><td>25000</td><td>30000</td><td>4</td><td>14</td><td>25000</td><td>30000</td><td>25000</td><td>30000</td><td>4</td><td>14</td><td>4</td><td>6.5</td></tr></tbody></table>
 
