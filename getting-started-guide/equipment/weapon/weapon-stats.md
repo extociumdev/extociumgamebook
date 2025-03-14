@@ -14,6 +14,10 @@ description: 🛑 This information may be updated later than the game server dat
 4. [Compatibility option (probabilistic) ](weapon-stats.md#id-4-compatibility-option-probabilistic)
 5. [Enchantment options depending on the weapon enchantment](weapon-stats.md#id-5-enchantment-options-depending-on-the-weapon-enchantment)
 
+{% hint style="info" %}
+⚠️ The minimum and maximum values of options may be adjusted based on a percentage due to balance updates.
+{% endhint %}
+
 #### <mark style="color:blue;">1️⃣Fixed Option</mark>
 
 An option that is 100% applied to all weapons. \
@@ -109,6 +113,10 @@ With each enchantment level reaching increments of '5', an additional random opt
 3. [2차 스탯 옵션 (확률적)](weapon-stats.md#id-3-2)
 4. [상성 옵션 (확률적)](weapon-stats.md#id-4)
 5. [무기 인챈트에 따른 인챈트 옵션](weapon-stats.md#id-5)
+
+{% hint style="info" %}
+⚠️ 옵션의 최소\~최대값은 밸런스 수정에 따라 일부 값이 '비율 기준'으로 조정될 수 있습니다.
+{% endhint %}
 
 #### <mark style="color:blue;">1️⃣고정 옵션</mark>
 
@@ -207,6 +215,10 @@ With each enchantment level reaching increments of '5', an additional random opt
 3. [2次ステータスオプション（確率的） ](weapon-stats.md#id-32suttasuopushon)
 4. [相性オプション（確率的） ](weapon-stats.md#id-4opushon)
 5. [武器エンチャントによるエンチャントオプション](weapon-stats.md#id-5enchantoniyoruenchantoopushon)
+
+{% hint style="info" %}
+⚠️ オプションの最小～最大値は、バランス調整により一部の値が「割合基準」で調整される場合があります。
+{% endhint %}
 
 #### <mark style="color:blue;">1️⃣固定オプション</mark>
 
