@@ -10,8 +10,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 Necklaces **come with MP and CR as base stats.**
 
-💡 Check the **fixed stat option ranges**[ **here**](necklace.md#necklace-fixed-stat-option-range)**.**\
-💡 Check the **range of probabilistically looted options** [**here**](necklace.md#range-of-probabilistically-looted-options)!
+💡 [**Fixed Stat Option Range** ](necklace.md#necklace-fixed-stat-option-range)\
+**💡** [**Probabilistic Stat Option Range**](necklace.md#probabilistic-stat-option-range)
 
 {% hint style="info" %}
 ⚠️ The minimum and maximum values of options may be adjusted based on a percentage due to balance updates.
@@ -148,8 +148,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 ネックレスには **MPとCRが基本ステータスとして付与されます。**
 
-💡 [**ここで**](necklace.md#necklace-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう。**\
-💡 [**こちらで**](necklace.md#range-of-probabilistically-looted-options)確率的に**ドロップするオプション**の範囲を確認してください！
+💡 [**固定ステータスオプションの範囲**](necklace.md#necklace-fixed-stat-option-range) \
+**💡** [**確率ステータスオプションの範囲**](necklace.md#probabilistic-stat-option-range)
 
 {% hint style="info" %}
 ⚠️ オプションの最小～最大値は、バランス調整により一部の値が「割合基準」で調整される場合があります。
@@ -219,7 +219,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 
 
-#### 💡**Range of probabilistically looted options**
+#### 💡Probabilistic Stat Option Range
 
 📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
 

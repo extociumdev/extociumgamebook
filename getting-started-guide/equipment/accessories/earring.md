@@ -8,8 +8,14 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 ### 🍒 Earrings
 
-Earrings **come with CP and SCP as base stats.**\
-💡 **Check the fixed stat option ranges** [**here**](earring.md#earring-fixed-stat-option-range)
+Earrings **come with CP and SCP as base stats.**
+
+💡 [**Fixed Stat Option Range** ](earring.md#earring-fixed-stat-option-range)\
+**💡** [**Probabilistic Stat Option Range**](earring.md#probabilistic-stat-option-range)
+
+{% hint style="info" %}
+⚠️ The minimum and maximum values of options may be adjusted based on a percentage due to balance updates.
+{% endhint %}
 
 Equip the right earrings to unleash even greater combat power!
 
@@ -70,8 +76,14 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 {% tab title="한국어" %}
 ### 🍒 **귀걸이**
 
-귀걸이에는 **CP와 SCP가 기본적으로 부여됩니다.**\
-💡 [**여기**](earring.md#earring-fixed-stat-option-range)**에서 고정 스탯 옵션 범위를 확인하세요**
+귀걸이에는 **CP와 SCP가 기본적으로 부여됩니다.**
+
+**💡** [**고정 스탯 옵션 범위** ](earring.md#earring-fixed-stat-option-range)\
+**💡** [**확률 스탯 옵션 범위**](earring.md#probabilistic-stat-option-range)
+
+{% hint style="info" %}
+⚠️ 옵션의 최소\~최대값은 밸런스 수정에 따라 일부 값이 '비율 기준'으로 조정될 수 있습니다.
+{% endhint %}
 
 적절한 귀걸이를 장착하여 더욱 강력한 전투력을 발휘하세요!
 
@@ -132,8 +144,14 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 {% tab title="日本語" %}
 ### 🍒 イヤリング
 
-イヤリングには **CPとSCPが基本ステータスとして付与されます。**\
-💡 [**ここで**](earring.md#earring-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう**
+イヤリングには **CPとSCPが基本ステータスとして付与されます。**
+
+💡 [**固定ステータスオプションの範囲**](earring.md#earring-fixed-stat-option-range) \
+**💡** [**確率ステータスオプションの範囲**](earring.md#probabilistic-stat-option-range)
+
+{% hint style="info" %}
+⚠️ オプションの最小～最大値は、バランス調整により一部の値が「割合基準」で調整される場合があります。
+{% endhint %}
 
 最適なイヤリングを装備し、さらに強力な戦闘力を発揮しましょう！
 
@@ -195,3 +213,11 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 #### **💡Earring Fixed Stat Option Range**
 
 <table><thead><tr><th width="149"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Earring</strong></td><td><strong>Min CP</strong></td><td><strong>Max CP</strong></td><td><strong>Min SCP</strong></td><td><strong>Max SCP</strong></td></tr><tr><td>Crystal Earrings</td><td>0.5</td><td>0.8</td><td>0.5</td><td>0.8</td></tr><tr><td>Mage's Earrings</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Spirit's Earrings</td><td>2.5</td><td>4</td><td>2.5</td><td>4</td></tr><tr><td>Inferno's Earrings</td><td>4.5</td><td>6</td><td>4.5</td><td>6</td></tr><tr><td>Emperor's Earrings</td><td>6.5</td><td>9</td><td>6.5</td><td>9</td></tr><tr><td>Star Earrings</td><td>9.5</td><td>12.5</td><td>9.5</td><td>12.5</td></tr></tbody></table>
+
+
+
+#### 💡 Probabilistic Stat Option Range
+
+📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
+
+<table><thead><tr><th width="149"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Earring</strong></td><td><strong>STR prob</strong></td><td><strong>Min STR</strong></td><td><strong>Max STR</strong></td><td><strong>DEX prob</strong></td><td><strong>Min DEX</strong></td><td><strong>Max DEX</strong></td><td><strong>INT prob</strong></td><td><strong>Min INT</strong></td><td><strong>Max INT</strong></td><td><strong>CON prob</strong></td><td><strong>Min CON</strong></td><td><strong>Max CON</strong></td><td><strong>WIZ prob</strong></td><td><strong>Min WIZ</strong></td><td><strong>Max WIZ</strong></td><td><strong>CHA prob</strong></td><td><strong>Min CHA</strong></td><td><strong>Max CHA</strong></td><td><strong>AP prob</strong></td><td><strong>Min AP</strong></td><td><strong>Max AP</strong></td><td><strong>HP prob</strong></td><td><strong>Min HP</strong></td><td><strong>Max HP</strong></td><td><strong>MP prob</strong></td><td><strong>Min MP</strong></td><td><strong>Max MP</strong></td><td><strong>CB prob</strong></td><td><strong>Min CB</strong></td><td><strong>Max CB</strong></td><td><strong>CP prob</strong></td><td><strong>Min CP</strong></td><td><strong>Max CP</strong></td><td><strong>SAP prob</strong></td><td><strong>Min SAP</strong></td><td><strong>Max SAP</strong></td><td><strong>SCB prob</strong></td><td><strong>Min SCB</strong></td><td><strong>Max SCB</strong></td><td><strong>SCP prob</strong></td><td><strong>Min SCP</strong></td><td><strong>Max SCP</strong></td></tr><tr><td>Crystal Earrings</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>8</td><td>3</td><td>9</td><td>8</td><td>23</td><td>68</td><td>8</td><td>23</td><td>68</td><td>8</td><td>3</td><td>9</td><td>5</td><td>0.1</td><td>0.3</td><td>8</td><td>3</td><td>9</td><td>8</td><td>9</td><td>9</td><td>5</td><td>0.1</td><td>0.3</td></tr><tr><td>Mage's Earrings</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>8</td><td>14</td><td>41</td><td>8</td><td>103</td><td>308</td><td>8</td><td>103</td><td>308</td><td>8</td><td>14</td><td>41</td><td>5</td><td>0.1</td><td>0.5</td><td>8</td><td>14</td><td>41</td><td>8</td><td>14</td><td>41</td><td>5</td><td>0.1</td><td>0.5</td></tr><tr><td>Spirit's Earrings</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>8</td><td>63</td><td>188</td><td>8</td><td>470</td><td>1,411</td><td>8</td><td>470</td><td>1,411</td><td>8</td><td>63</td><td>188</td><td>5</td><td>0.1</td><td>0.7</td><td>8</td><td>63</td><td>188</td><td>8</td><td>63</td><td>188</td><td>5</td><td>0.1</td><td>0.7</td></tr><tr><td>Inferno's Earrings</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>1.5</td><td>1</td><td>1</td><td>8</td><td>287</td><td>862</td><td>8</td><td>2,154</td><td>6,462</td><td>8</td><td>2,154</td><td>6,462</td><td>8</td><td>287</td><td>862</td><td>5</td><td>0.1</td><td>0.9</td><td>8</td><td>287</td><td>862</td><td>8</td><td>287</td><td>862</td><td>5</td><td>0.1</td><td>0.9</td></tr><tr><td>Emperor's Earrings</td><td>1.5</td><td>1</td><td>2</td><td>1.5</td><td>1</td><td>2</td><td>1.5</td><td>1</td><td>2</td><td>1.5</td><td>1</td><td>2</td><td>1.5</td><td>1</td><td>2</td><td>1.5</td><td>1</td><td>2</td><td>8</td><td>1,315</td><td>3,946</td><td>8</td><td>9,864</td><td>29,592</td><td>8</td><td>9,864</td><td>29,592</td><td>8</td><td>1,315</td><td>3,946</td><td>5</td><td>0.1</td><td>1.1</td><td>8</td><td>1,315</td><td>3,946</td><td>8</td><td>1,315</td><td>3,946</td><td>5</td><td>0.1</td><td>1.1</td></tr><tr><td>Star Earrings</td><td>2</td><td>1</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td><td>1</td><td>2</td><td>8</td><td>6,023</td><td>18,069</td><td>8</td><td>45,173</td><td>135,518</td><td>8</td><td>45,173</td><td>135,518</td><td>8</td><td>6,023</td><td>18,069</td><td>5</td><td>0.4</td><td>1.3</td><td>8</td><td>6,023</td><td>18,069</td><td>8</td><td>6,023</td><td>18,069</td><td>5</td><td>0.4</td><td>1.3</td></tr></tbody></table>

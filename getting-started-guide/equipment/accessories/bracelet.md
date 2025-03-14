@@ -10,8 +10,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 Bracelets **come with CB and SCB as base stats.**
 
-💡 **Check the fixed stat option ranges**[ **here**](bracelet.md#bracelet-fixed-stat-option-range)**.**\
-💡 Check the **range of probabilistically looted options** [**here**](bracelet.md#range-of-probabilistically-looted-options)!
+💡 [**Fixed Stat Option Range** ](bracelet.md#bracelet-fixed-stat-option-range)\
+**💡** [**Probabilistic Stat Option Range**](bracelet.md#probabilistic-stat-option-range)
 
 {% hint style="info" %}
 ⚠️ The minimum and maximum values of options may be adjusted based on a percentage due to balance updates.
@@ -82,8 +82,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 팔찌에는 **CB와 SCB가 기본적으로 부여됩니다.**
 
-💡 [**여기**](bracelet.md#bracelet-fixed-stat-option-range)**에서 고정 스탯 옵션 범위를 확인하세요.**\
-💡 [**여기**](bracelet.md#range-of-probabilistically-looted-options)에서 **확률적으로 루팅되는 옵션 범위**를 확인하세요!
+💡 [**고정 스탯 옵션 범위**](bracelet.md#bracelet-fixed-stat-option-range) \
+💡 [**확률 스탯 옵션 범위**](bracelet.md#probabilistic-stat-option-range)
 
 {% hint style="info" %}
 ⚠️ 옵션의 최소\~최대값은 밸런스 수정에 따라 일부 값이 '비율 기준'으로 조정될 수 있습니다.
@@ -154,8 +154,8 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 ブレスレットには **CBとSCBが基本ステータスとして付与されます。**
 
-💡 [**ここで**](bracelet.md#bracelet-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう。**\
-💡 [**こちらで**](bracelet.md#range-of-probabilistically-looted-options)確率的に**ドロップするオプション**の範囲を確認してください！
+**💡** [**固定ステータスオプションの範囲** ](bracelet.md#bracelet-fixed-stat-option-range)\
+**💡** [**確率ステータスオプションの範囲**](bracelet.md#probabilistic-stat-option-range)
 
 {% hint style="info" %}
 ⚠️ オプションの最小～最大値は、バランス調整により一部の値が「割合基準」で調整される場合があります。
@@ -242,7 +242,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 
 
-#### 💡Range of probabilistically looted options
+#### 💡Probabilistic Stat Option Range
 
 📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
 
