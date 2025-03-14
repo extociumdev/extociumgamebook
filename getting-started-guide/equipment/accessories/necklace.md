@@ -8,9 +8,9 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 ### 📿 **Necklace**
 
-Necklaces **come with MP and CR as base stats.**\
-💡 Check the **fixed stat option ranges**[ **here**](necklace.md#necklace-fixed-stat-option-range)**.**
+Necklaces **come with MP and CR as base stats.**
 
+💡 Check the **fixed stat option ranges**[ **here**](necklace.md#necklace-fixed-stat-option-range)**.**\
 💡 Check the **range of probabilistically looted options** [**here**](necklace.md#range-of-probabilistically-looted-options)!
 
 {% hint style="info" %}
@@ -77,9 +77,9 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 {% tab title="한국어" %}
 ### 📿 **목걸이**
 
-목걸이에는 **MP와 CR이 기본적으로 부여됩니다.** \
-💡 [**여기**](necklace.md#necklace-fixed-stat-option-range)에서 **고정 스탯 옵션 범위**를 확인하세요.
+목걸이에는 **MP와 CR이 기본적으로 부여됩니다.**&#x20;
 
+💡 [**여기**](necklace.md#necklace-fixed-stat-option-range)에서 **고정 스탯 옵션 범위**를 확인하세요.\
 💡 [**여기**](necklace.md#range-of-probabilistically-looted-options)에서 **확률적으로 루팅되는 옵션 범위**를 확인하세요!
 
 {% hint style="info" %}
@@ -146,9 +146,9 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 {% tab title="日本語" %}
 ### 📿 **ネックレス**
 
-ネックレスには **MPとCRが基本ステータスとして付与されます。**\
-💡 [**ここで**](necklace.md#necklace-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう。**
+ネックレスには **MPとCRが基本ステータスとして付与されます。**
 
+💡 [**ここで**](necklace.md#necklace-fixed-stat-option-range)**固定ステータスオプションの範囲を確認しましょう。**\
 💡 [**こちらで**](necklace.md#range-of-probabilistically-looted-options)確率的に**ドロップするオプション**の範囲を確認してください！
 
 {% hint style="info" %}
