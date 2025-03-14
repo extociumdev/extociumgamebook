@@ -44,15 +44,11 @@ The set effect is determined by the 'total sum' of the base stats of the Hero NF
 | 68               | CON +1                                    |
 | 72               | WIS +1                                    |
 | 76               | CHA +1                                    |
-| 80               | AGI <mark style="color:blue;">\*5%</mark> |
+| 80               | DEX +3                                    |
 | 81               | WIS +3                                    |
-| 82               | DEX +3                                    |
+| 82               | AGI <mark style="color:blue;">\*5%</mark> |
 | 83               | CHA +3                                    |
 | 84               | CON +8                                    |
-
-❓Before Patch (\~11.09)
-
-<table><thead><tr><th width="182">Total Base Stats</th><th>Effect</th></tr></thead><tbody><tr><td>18</td><td>🔺STR <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>21</td><td>🔺Critical Bonus (CB) <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>30</td><td>🔺DEX <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>40</td><td>🔺Attack Point (AP) <mark style="color:blue;"><strong>*5%</strong></mark></td></tr><tr><td>45</td><td>🔺Skill Critical Bonus (SCB) <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>50</td><td>🔺WIS <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>60</td><td>🔺Gold Mining Cap <mark style="color:blue;"><strong>+10%</strong></mark></td></tr><tr><td>63</td><td>🔺AGI <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>65</td><td>🔺INT <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>68</td><td>🔺Gold Mining Cap <mark style="color:blue;"><strong>+10%</strong></mark></td></tr><tr><td>72</td><td>🔺Critical Chance (CP) <mark style="color:blue;"><strong>*4%</strong></mark></td></tr><tr><td>76</td><td>🔺CON <mark style="color:blue;"><strong>+2</strong></mark></td></tr><tr><td>80</td><td>🔺Skill Attack Point (SAP) <mark style="color:blue;"><strong>*10%</strong></mark></td></tr><tr><td>81</td><td>🔺Skill Critical Bonus (SCB) <mark style="color:blue;"><strong>*5%</strong></mark></td></tr><tr><td>82</td><td>🔺Gold Mining Cap <mark style="color:blue;"><strong>+20%</strong></mark></td></tr><tr><td>84</td><td>🔺Skill Critical Chance (SCP) <mark style="color:blue;"><strong>*20%</strong></mark></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="한국어" %}
