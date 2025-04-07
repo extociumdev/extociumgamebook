@@ -175,12 +175,12 @@ As the orb level increases, the minimum to maximum values of the options also in
 | HP               | 8\~10     |
 | MP               | 8\~10     |
 | 치명타 보너스 (CB)     | 8\~10     |
-| 치명타 확률 (CP)      | 3\~5      |
+| 치명타 확률 (CP)      | 3         |
 | 스킬 공격력 (SAP)     | 8\~10     |
 | 스킬 치명타 보너스 (SCB) | 8\~10     |
-| 스킬 치명타 확률 (SCP)  | 8\~10     |
-| 쿨타임 감소 (CR)      | 3\~5      |
-| 민첩 (AGI)         | 0.2\~0.5  |
+| 스킬 치명타 확률 (SCP)  | 3         |
+| 쿨타임 감소 (CR)      | 4         |
+| 민첩 (AGI)         | 0.5\~1    |
 
 💡 **2차 스탯 옵션 범위 안내** \
 👉 [**여기를 클릭**](orb-stats.md#secondary-stat-option-range)하여 2차 스탯 옵션의 최소\~최대값을 확인하세요!
@@ -281,12 +281,12 @@ As the orb level increases, the minimum to maximum values of the options also in
 | HP                  | 8\~10    |
 | MP                  | 8\~10    |
 | クリティカルボーナス (CB)     | 8\~10    |
-| クリティカル確率 (CP)       | 3\~5     |
+| クリティカル確率 (CP)       | 35       |
 | スキル攻撃力 (SAP)        | 8\~10    |
 | スキルクリティカルボーナス (SCB) | 8\~10    |
-| スキルクリティカル確率 (SCP)   | 8\~10    |
-| クールタイム減少 (CR)       | 3\~5     |
-| アジャイル (AGI)         | 0.2\~0.5 |
+| スキルクリティカル確率 (SCP)   | 3        |
+| クールタイム減少 (CR)       | 4        |
+| アジャイル (AGI)         | 0.5\~1   |
 
 💡 **2次ステータスオプションの範囲案内** \
 👉 [**こちらをクリックして**](orb-stats.md#secondary-stat-option-range)、2次ステータスオプションの最小～最大値を確認してください！

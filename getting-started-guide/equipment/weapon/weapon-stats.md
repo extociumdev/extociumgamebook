@@ -169,11 +169,11 @@ With each enchantment level reaching increments of '5', an additional random opt
 | HP               | 8\~10     |
 | MP               | 8\~10     |
 | 치명타 보너스 (CB)     | 8\~10     |
-| 치명타 확률 (CP)      | 3\~5      |
+| 치명타 확률 (CP)      | 3         |
 | 스킬 공격력 (SAP)     | 8\~10     |
 | 스킬 치명타 보너스 (SCB) | 8\~10     |
-| 스킬 치명타 확률 (SCP)  | 8\~10     |
-| 쿨타임 감소 (CR)      | 3\~5      |
+| 스킬 치명타 확률 (SCP)  | 3         |
+| 쿨타임 감소 (CR)      | 3         |
 
 💡 **2차 스탯 옵션 범위 안내** \
 👉 [**여기를 클릭**](weapon-stats.md#secondary-stat-option-range)하여 2차 스탯 옵션의 최소\~최대값을 확인하세요!
@@ -267,11 +267,11 @@ With each enchantment level reaching increments of '5', an additional random opt
 | HP                  | 8\~10    |
 | MP                  | 8\~10    |
 | クリティカルボーナス (CB)     | 8\~10    |
-| クリティカル確率 (CP)       | 3\~5     |
+| クリティカル確率 (CP)       | 3        |
 | スキル攻撃力 (SAP)        | 8\~10    |
 | スキルクリティカルボーナス (SCB) | 8\~10    |
-| スキルクリティカル確率 (SCP)   | 8\~10    |
-| クールタイム減少 (CR)       | 3\~5     |
+| スキルクリティカル確率 (SCP)   | 3        |
+| クールタイム減少 (CR)       | 3        |
 
 💡 **2次ステータスオプションの範囲案内** \
 👉 [**こちらをクリックして**](weapon-stats.md#secondary-stat-option-range)、2次ステータスオプションの最小～最大値を確認してください！
