@@ -303,20 +303,20 @@ As the orb level increases, the minimum to maximum values of the options also in
 
 #### **💡 Fixed Option Range**
 
-| **Orb**          | **Min HP** | **Max HP** | **Min Agility** | **Max Agilit**y |
-| ---------------- | ---------- | ---------- | --------------- | --------------- |
-| Orb of Wind      | 500        | 510        | 1               | 1.5             |
-| Dark Orb         | 1,000      | 1,680      | 1.6             | 2.3             |
-| Abyssal Orb      | 3,000      | 4,838      | 2.4             | 3.5             |
-| Orb of Clarity   | 8,000      | 11,059     | 3.7             | 4.8             |
-| Wind of Fire     | 17,000     | 20,908     | 4.9             | 6               |
-| Wings of Light   | 30,736     | 36,455     | 6.2             | 8               |
-| Explosion Energy | 53,590     | 67,204     | 8.2             | 10              |
-| Devil's Hand     | 98,790     | 133,920    | 10.2            | 12              |
-| Devil's Wings    | 196,862    | 265,685    | 12.2            | 13.5            |
-| Orb of Judgment  | 420,000    | 528,988    | 15              | 18              |
-| Rainbow          | 880,000    | 1,035,141  | 21              | 24              |
-| Water Wrath      | 1,666,577  | 1,966,272  | 25              | 27              |
+| **Orb**          | **Min HP** | **Max HP** | **Min Agility** | **Max Agilit**y | **CON** | **WIZ** |
+| ---------------- | ---------- | ---------- | --------------- | --------------- | ------- | ------- |
+| Orb of Wind      | 500        | 510        | 1               | 1.5             |         |         |
+| Dark Orb         | 1,000      | 1,680      | 1.6             | 2.3             |         |         |
+| Abyssal Orb      | 3,000      | 4,838      | 2.4             | 3.5             |         |         |
+| Orb of Clarity   | 8,000      | 11,059     | 3.7             | 4.8             |         |         |
+| Wind of Fire     | 17,000     | 20,908     | 4.9             | 6               |         |         |
+| Wings of Light   | 30,736     | 36,455     | 6.2             | 8               |         |         |
+| Explosion Energy | 53,590     | 67,204     | 8.2             | 10              |         |         |
+| Devil's Hand     | 98,790     | 133,920    | 10.2            | 12              |         |         |
+| Devil's Wings    | 196,862    | 265,685    | 12.2            | 13.5            |         |         |
+| Orb of Judgment  | 420,000    | 528,988    | 15              | 18              |         |         |
+| Rainbow          | 880,000    | 1,035,141  | 21              | 24              | 2       | 1       |
+| Water Wrath      | 1,666,577  | 1,966,272  | 25              | 27              | 4       | 3       |
 
 
 
