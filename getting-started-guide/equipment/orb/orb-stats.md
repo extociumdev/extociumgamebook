@@ -281,7 +281,7 @@ As the orb level increases, the minimum to maximum values of the options also in
 | HP                  | 8\~10    |
 | MP                  | 8\~10    |
 | クリティカルボーナス (CB)     | 8\~10    |
-| クリティカル確率 (CP)       | 35       |
+| クリティカル確率 (CP)       | 3        |
 | スキル攻撃力 (SAP)        | 8\~10    |
 | スキルクリティカルボーナス (SCB) | 8\~10    |
 | スキルクリティカル確率 (SCP)   | 3        |
