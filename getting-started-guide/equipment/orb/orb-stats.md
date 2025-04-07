@@ -27,12 +27,6 @@ The fixed option is randomly applied within a predefined minimum to maximum rang
 | ------------- | --------------------- |
 | Agility (AGI) | 100                   |
 | HP            | 100                   |
-| STR           | 0 or 100              |
-| DEX           | 0 or 100              |
-| INT           | 0 or 100              |
-| CON           | 0 or 100              |
-| WIZ           | 0 or 100              |
-| CHA           | 0 or 100              |
 
 💡 **Equipment Fixed Option Range Guide**
 
@@ -132,12 +126,6 @@ As the orb level increases, the minimum to maximum values of the options also in
 | -------- | --------- |
 | 민첩 (AGI) | 100       |
 | HP       | 100       |
-| STR      | 0 or 100  |
-| DEX      | 0 or 100  |
-| INT      | 0 or 100  |
-| CON      | 0 or 100  |
-| WIZ      | 0 or 100  |
-| CHA      | 0 or 100  |
 
 💡 **장비 고정 옵션 범위 안내**
 
@@ -239,12 +227,6 @@ As the orb level increases, the minimum to maximum values of the options also in
 | ----------- | -------- |
 | アジャイル (AGI) | 100      |
 | HP          | 100      |
-| STR         | 0 or 100 |
-| DEX         | 0 or 100 |
-| INT         | 0 or 100 |
-| CON         | 0 or 100 |
-| WIZ         | 0 or 100 |
-| CHA         | 0 or 100 |
 
 💡 **装備固定オプション範囲ガイド**
 
