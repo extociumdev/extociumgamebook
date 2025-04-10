@@ -43,7 +43,7 @@ So choose your path strategically!
 
 ***
 
-### ✦ Yeyirel’s Tips
+### ✦ Yeyilel’s Tips
 
 📌 Try collecting drop items early on—even before you need them.\
 You’ll complete your diary entries faster that way!
@@ -55,7 +55,7 @@ Use them **based on your build and growth plan** for best results.
 
 The Explorer's Diary isn’t just for collecting—it’s a way to grow stronger, step by step.\
 Explore carefully, grow wisely, and above all… enjoy the journey.\
-**Yeyirel will be cheering you on from Rotten hill.** 🌿
+**Yeyilel will be cheering you on from Rotten hill.** 🌿
 {% endtab %}
 
 {% tab title="한국어" %}
