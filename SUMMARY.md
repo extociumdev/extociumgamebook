@@ -189,6 +189,7 @@
 * [🏠 My Home](contents/my-home/README.md)
   * [Furnace](contents/my-home/furnace.md)
   * [🔐 Personal Safe](contents/my-home/personal-safe.md)
+* [📓 Explorer's Diary](contents/explorers-diary.md)
 * [🥇 Achievement](contents/achievement.md)
 * [📚 Weekly swap Quests](contents/weekly-swap-quests.md)
 
