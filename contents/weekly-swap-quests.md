@@ -4,7 +4,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 📚 Weekly swap Quests
 
-<figure><img src="../.gitbook/assets/WeeklyQuest_Badge.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WeeklyQuest_Badge.png" alt="" width="115"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ChatGPT Image 2025년 4월 10일 오후 01_08_14.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
