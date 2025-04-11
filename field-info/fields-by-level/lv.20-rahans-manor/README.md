@@ -22,7 +22,7 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 
 🍀**Gathered items :** Oranges, Wheat, Eggs, Herbs, Vegetables
 
-> 😈**Field Raid :** Lv.23 Lizard Man
+> 😈**Field Raid :** Lv.23 Lizard Man (Dark)
 >
 > 🕓**Spawn Time (UTC)** : 16:10 / 21:30 / 02:50 / 08:10 / 13:40
 >

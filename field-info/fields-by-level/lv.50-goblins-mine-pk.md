@@ -22,7 +22,7 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 
 🍀**Gathered items :** gold, silver
 
-> 😈**Field Raid :** Lv.50 Ancient Goblin
+> 😈**Field Raid :** Lv.50 Ancient Goblin (Fire) / Lv.50 Ancient Goblin Minions (Water)
 >
 > 🕓**Spawn Time (UTC)** : 00:00 / 05:00 / 12:00
 >

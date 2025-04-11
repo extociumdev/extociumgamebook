@@ -20,7 +20,7 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 
 🍀**Gathered items :** apples, blueberries, strawberries, vegetables
 
-> 😈**Field Raid :** Lv.13 Mushroom Monster
+> 😈**Field Raid :** Lv.13 Mushroom Monster (Leaf)
 >
 > 🕓**Spawn Time (UTC)** : 16:00 / 21:20 / 02:40 / 08:00 / 13:30
 >

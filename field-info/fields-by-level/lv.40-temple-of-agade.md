@@ -20,7 +20,7 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 
 🍀**Gathered items :** Fragments of relics, stone slabs, iron, cinnabar, cedar wood
 
-> 😈**Field Raid :** Lv.40 Humbaba
+> 😈**Field Raid :** Lv.40 Humbaba (Stone)
 >
 > 🕓**Spawn Time (UTC)** : 16:30 / 21:50 / 03:10 / 08:30 / 14:00
 >

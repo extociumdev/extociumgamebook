@@ -22,7 +22,7 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 
 🍀**Gathered items :** corn, obsidian
 
-> 😈**Field Raid :** Lv.55 Black Lizard
+> 😈**Field Raid :** Lv.55 Black Lizard (Force)
 >
 > 🕓**Spawn Time (UTC)** : 15:10 / 05:10 / 12:10
 >

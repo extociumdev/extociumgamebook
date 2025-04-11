@@ -20,7 +20,7 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 
 🍀**Gathered items :** Amethyst, copper, mushroom, cinnabar
 
-> 😈**Field Raid :** Lv.32 Cursed Wizard
+> 😈**Field Raid :** Lv.32 Cursed Wizard (Dark)
 >
 > 🕓**Spawn Time (UTC)** : 16:20 / 21:40 / 03:00 / 08:20 / 13:50
 >
