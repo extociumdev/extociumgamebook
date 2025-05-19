@@ -11,9 +11,9 @@ description: 🛑 This information may be updated later than the game server dat
 You can either create your own club or join one created by someone else.
 
 {% hint style="info" %}
-🎯 **Club Creation Requirements:** Hero level 20 or higher within the account, accumulated [TP](../../getting-started-guide/traning.md#id-2-resetting-tp) of 5000 or more&#x20;
+🎯 **Club Creation Requirements:** Hero level 20 or higher within the account, accumulated [TP](../../getting-started-guide/how-to-traning.md#id-2-resetting-tp) of 5000 or more&#x20;
 
-🎯 **Club Joining Requirements:** Hero level 15 or higher within the account, accumulated [TP ](../../getting-started-guide/traning.md#id-2-resetting-tp)of 1000 or more
+🎯 **Club Joining Requirements:** Hero level 15 or higher within the account, accumulated [TP ](../../getting-started-guide/how-to-traning.md#id-2-resetting-tp)of 1000 or more
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
@@ -63,9 +63,9 @@ Use this space to build relationships with fellow club members!
 클럽은 직접 클럽을 창설하거나, 다른 사람이 만든 클럽에 가입하는 방법이 있습니다.
 
 {% hint style="info" %}
-🎯**클럽 생성 조건 :** 계정 내 영웅 레벨 20이상, 누적 [TP](../../getting-started-guide/traning.md#id-2-tp) 5000 이상
+🎯**클럽 생성 조건 :** 계정 내 영웅 레벨 20이상, 누적 [TP](../../getting-started-guide/how-to-traning.md#id-2-tp) 5000 이상
 
-🎯**클럽 가입 조건 :** 계정 내 영웅 레벨 15이상, 누적 [TP ](../../getting-started-guide/traning.md#id-2-tp)1000 이상
+🎯**클럽 가입 조건 :** 계정 내 영웅 레벨 15이상, 누적 [TP ](../../getting-started-guide/how-to-traning.md#id-2-tp)1000 이상
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
@@ -115,9 +115,9 @@ Use this space to build relationships with fellow club members!
 自分でクラブを作成するか、他の人が作成したクラブに参加することができます。
 
 {% hint style="info" %}
-🎯クラブ作成条件：アカウント内のヒーローレベル20以上、累積[TP5000](../../getting-started-guide/traning.md#id-2tpnorisetto)以上&#x20;
+🎯クラブ作成条件：アカウント内のヒーローレベル20以上、累積[TP5000](../../getting-started-guide/how-to-traning.md#id-2tpnorisetto)以上&#x20;
 
-🎯クラブ加入条件：アカウント内のヒーローレベル15以上、累積[TP1000](../../getting-started-guide/traning.md#id-2tpnorisetto)以上
+🎯クラブ加入条件：アカウント内のヒーローレベル15以上、累積[TP1000](../../getting-started-guide/how-to-traning.md#id-2tpnorisetto)以上
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>

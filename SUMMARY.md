@@ -7,6 +7,30 @@
 
 * [📘 Legend of EXTOCIUM](story/legend-of-extocium.md)
 
+## 📕 Getting started guide
+
+* [🏹 How to Battle](getting-started-guide/how-to-battle.md)
+* [⚒️ How to Craft](getting-started-guide/how-to-craft.md)
+* [🏋️ How to Traning](getting-started-guide/how-to-traning.md)
+* [🍎 How to Collect](getting-started-guide/how-to-collect.md)
+* [😎 How to Grow Your Hero](getting-started-guide/how-to-grow-your-hero.md)
+* [🦸 Rookie Lock](getting-started-guide/rookie-lock/README.md)
+  * [🐤 Trial Hero](getting-started-guide/rookie-lock/trial-hero.md)
+  * [🎁 Rookie Shopper's Surprises](getting-started-guide/rookie-lock/rookie-shoppers-surprises.md)
+  * [👻 Transferring Trial Hero Data](getting-started-guide/rookie-lock/transferring-trial-hero-data.md)
+* [🦊 Wallet connection](getting-started-guide/wallet-connection/README.md)
+  * [1️⃣ What is MetaMask?](getting-started-guide/wallet-connection/what-is-metamask.md)
+  * [2️⃣ Adding a BSC network to MetaMask](getting-started-guide/wallet-connection/adding-a-bsc-network-to-metamask.md)
+  * [3️⃣ Connecting games and MetaMask](getting-started-guide/wallet-connection/connecting-games-and-metamask.md)
+  * [🔁 Swap XTO](getting-started-guide/wallet-connection/swap-xto/README.md)
+    * [🦊 Swap on MetaMask](getting-started-guide/wallet-connection/swap-xto/swap-on-metamask.md)
+    * [🥞 Swap on PancakeSwap](getting-started-guide/wallet-connection/swap-xto/swap-on-pancakeswap.md)
+    * [🏆 Import XTO Tokens](getting-started-guide/wallet-connection/swap-xto/import-xto-tokens.md)
+    * [💰 BNB Top-Up Method Using G-Cash](getting-started-guide/wallet-connection/swap-xto/bnb-top-up-method-using-g-cash.md)
+  * [⛔ Precautions](getting-started-guide/wallet-connection/precautions.md)
+  * [🔖 Commonly Issues](getting-started-guide/wallet-connection/commonly-issues.md)
+  * [🪙 Blockchain for Beginners](getting-started-guide/wallet-connection/blockchain-for-beginners.md)
+
 ## 😎 Growth
 
 * [🤠 Heroes](growth/heroes/README.md)
@@ -83,32 +107,6 @@
   * [🔁 Reload Weapon](growth/equipment-care/reload-weapon.md)
   * [💔 Equipment destruction](growth/equipment-care/equipment-destruction.md)
 * [🫙 EXP/TP Magic Vial](growth/exp-tp-magic-vial.md)
-
-## 📕 Getting started guide
-
-* [🏹 How to Battle](getting-started-guide/how-to-battle.md)
-* [🦸 Rookie Lock](getting-started-guide/rookie-lock/README.md)
-  * [🐤 Trial Hero](getting-started-guide/rookie-lock/trial-hero.md)
-  * [🎁 Rookie Shopper's Surprises](getting-started-guide/rookie-lock/rookie-shoppers-surprises.md)
-  * [👻 Transferring Trial Hero Data](getting-started-guide/rookie-lock/transferring-trial-hero-data.md)
-* [🦊 Wallet connection](getting-started-guide/wallet-connection/README.md)
-  * [1️⃣ What is MetaMask?](getting-started-guide/wallet-connection/what-is-metamask.md)
-  * [2️⃣ Adding a BSC network to MetaMask](getting-started-guide/wallet-connection/adding-a-bsc-network-to-metamask.md)
-  * [3️⃣ Connecting games and MetaMask](getting-started-guide/wallet-connection/connecting-games-and-metamask.md)
-  * [🔁 Swap XTO](getting-started-guide/wallet-connection/swap-xto/README.md)
-    * [🦊 Swap on MetaMask](getting-started-guide/wallet-connection/swap-xto/swap-on-metamask.md)
-    * [🥞 Swap on PancakeSwap](getting-started-guide/wallet-connection/swap-xto/swap-on-pancakeswap.md)
-    * [🏆 Import XTO Tokens](getting-started-guide/wallet-connection/swap-xto/import-xto-tokens.md)
-    * [💰 BNB Top-Up Method Using G-Cash](getting-started-guide/wallet-connection/swap-xto/bnb-top-up-method-using-g-cash.md)
-  * [⛔ Precautions](getting-started-guide/wallet-connection/precautions.md)
-  * [🔖 Commonly Issues](getting-started-guide/wallet-connection/commonly-issues.md)
-  * [🪙 Blockchain for Beginners](getting-started-guide/wallet-connection/blockchain-for-beginners.md)
-* [⚒️ Craft](getting-started-guide/craft.md)
-* [🏋️ Traning](getting-started-guide/traning.md)
-
-***
-
-* [🍎 Collecting](collecting.md)
 
 ## 🗃️ SYSTEM
 

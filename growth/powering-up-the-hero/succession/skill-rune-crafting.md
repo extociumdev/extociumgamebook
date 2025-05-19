@@ -10,7 +10,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 Then it’s time to **craft Skill Runes and enhance your strategic combat style!**
 
-Before crafting a Skill Rune, you must first **learn the material crafting method** in [**Training**](../../../getting-started-guide/traning.md#eng) **> Mineralogy**.\
+Before crafting a Skill Rune, you must first **learn the material crafting method** in [**Training**](../../../getting-started-guide/how-to-traning.md#eng) **> Mineralogy**.\
 You will need **four different materials** to craft a Skill Rune. Please refer to the image below for details.
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
@@ -80,7 +80,7 @@ For example:
 
 그렇다면 **스킬 룬을 제작하여 더욱 전략적인 전투 스타일을 완성**해보세요!
 
-스킬 룬 제작을 위해서는 먼저 [**기술 연마**](../../../getting-started-guide/traning.md#undefined-1) **> 광물학**에서 **재료 제작 방법을 습득**해야 합니다.\
+스킬 룬 제작을 위해서는 먼저 [**기술 연마**](../../../getting-started-guide/how-to-traning.md#undefined-1) **> 광물학**에서 **재료 제작 방법을 습득**해야 합니다.\
 스킬 룬을 제작하려면 **4가지 재료**가 필요하며, 자세한 재료 목록은 아래 이미지를 참고하세요.
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
@@ -150,7 +150,7 @@ For example:
 
 それでは、**スキルルーンを製作して、より戦略的な戦闘スタイルを構築なさってください！**
 
-スキルルーンを製作するには、まず [**スキル修練**](../../../getting-started-guide/traning.md#ri-ben-yu) **> 鉱物学** にて **材料の製作方法を習得する必要がございます**。\
+スキルルーンを製作するには、まず [**スキル修練**](../../../getting-started-guide/how-to-traning.md#ri-ben-yu) **> 鉱物学** にて **材料の製作方法を習得する必要がございます**。\
 スキルルーンの製作には **4種類の材料** が必要となります。詳細は下記の画像をご参照ください。
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

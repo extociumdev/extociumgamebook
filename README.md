@@ -78,8 +78,8 @@ This guidebook provides detailed information and guides throughout the game.\
 💠Gathering and crafting are required to build better equipment. Explore our guides to get started.\
 💠より良い装備を製作するには採集と製作は必須です。 関連するガイドを確認してください。
 
-{% content-ref url="getting-started-guide/craft.md" %}
-[craft.md](getting-started-guide/craft.md)
+{% content-ref url="getting-started-guide/how-to-craft.md" %}
+[how-to-craft.md](getting-started-guide/how-to-craft.md)
 {% endcontent-ref %}
 
 💠당신의 아이템과 NFT를 마켓에 등록하고 판매해보세요. 거래는 이 게임을 즐기기 위한 매우 중요한 수단 입니다.\

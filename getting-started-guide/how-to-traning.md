@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🏋️ Traning
+# 🏋️ How to Traning
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -12,8 +12,8 @@ Do you need crafting and gathering recipes to enjoy EXTOCIUM? Then, try 'Trainin
 
 ❓To refine your skills, you need '**TP (Training Point)**'. TP can be probabilistically acquired by hunting monsters in the field. Pick up the blue coins that drop on the ground!
 
-1️⃣[Accessing Training](traning.md#id-1-accessing-training)\
-2️⃣[Resetting TP](traning.md#id-2-resetting-tp)
+1️⃣[Accessing Training](how-to-traning.md#id-1-accessing-training)\
+2️⃣[Resetting TP](how-to-traning.md#id-2-resetting-tp)
 
 #### 1️⃣Accessing Training
 
@@ -59,8 +59,8 @@ EXTOCIUM을 즐기기 위해 필요한 제작 레시피, 채집 레시피가 필
 
 ❓기술을 연마하기 위해선 ‘**TP (Traning Point)**’가 필요합니다. TP는 필드에 있는 몬스터를 사냥하면 확률적으로 획득이 가능합니다. 바닥에 떨어지는 파란색 동전을 얻으세요!
 
-[1️⃣기술 연마 접근하기](traning.md#id-1)\
-[2️⃣TP 초기화 하기](traning.md#id-2-tp)
+[1️⃣기술 연마 접근하기](how-to-traning.md#id-1)\
+[2️⃣TP 초기화 하기](how-to-traning.md#id-2-tp)
 
 #### 1️⃣기술 연마 접근하기
 
@@ -107,8 +107,8 @@ EXTOCIUMを楽しむための製作レシピや採取レシピが必要ですか
 
 ❓技術を磨くために&#x306F;**「TP (Training Point)」**&#x304C;必要です。 TPはフィールドにいるモンスターを狩ることで確率的に獲得できます。地面に落ちる青いコインを拾いましょう！
 
-[1️⃣トレーニングへのアクセス](traning.md#id-1torninguhenoakusesu)\
-[2️⃣TPのリセット](traning.md#id-2tpnorisetto)
+[1️⃣トレーニングへのアクセス](how-to-traning.md#id-1torninguhenoakusesu)\
+[2️⃣TPのリセット](how-to-traning.md#id-2tpnorisetto)
 
 #### 1️⃣トレーニングへのアクセス
 

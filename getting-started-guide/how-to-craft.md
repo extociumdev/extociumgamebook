@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# ⚒️ Craft
+# ⚒️ How to Craft
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -39,7 +39,7 @@ Shall we learn how to craft items now?
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 👉There are two cases where crafting is not possible. \
-The first is, as shown above, where you need to learn the crafting method through '[Traning](traning.md#eng)'. Earn TP through hunting to refine your crafting skills.
+The first is, as shown above, where you need to learn the crafting method through '[Traning](how-to-traning.md#eng)'. Earn TP through hunting to refine your crafting skills.
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,7 +81,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 👉제작이 불가능한 경우는 두 가지가 있습니다. \
-첫 번째로는 위 화면 처럼, '[기술 연마](traning.md#undefined-1)'를 통해 제작법을 익혀야 하는 경우입니다. 사냥을 통해 TP를 획득하여 제작 기술을 연마해보세요.
+첫 번째로는 위 화면 처럼, '[기술 연마](how-to-traning.md#undefined-1)'를 통해 제작법을 익혀야 하는 경우입니다. 사냥을 통해 TP를 획득하여 제작 기술을 연마해보세요.
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
@@ -122,7 +122,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-👉製作が不可能な場合は二つあります。最初の場合は、上の画面のように、「[技術研磨](traning.md#ri-ben-yu)」を通じて製作法を学ぶ必要があります。狩りを通じてTPを獲得し、製作技術を磨きましょう。
+👉製作が不可能な場合は二つあります。最初の場合は、上の画面のように、「[技術研磨](how-to-traning.md#ri-ben-yu)」を通じて製作法を学ぶ必要があります。狩りを通じてTPを獲得し、製作技術を磨きましょう。
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
