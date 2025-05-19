@@ -15,7 +15,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### ❓Why synthesize?
 
-> Hero NFTs in EXTOCIUM have "[base stats](../../getting-started-guide/heroes/basic-heroes/#eng)." These "base stats" determine [mining](../../getting-started-guide/mining-settings/#eng) efficiency, combat efficiency, [succession](succession/#eng) conditions, and more. When a hero is first summoned, their base stat is at the lowest grade of 15.&#x20;
+> Hero NFTs in EXTOCIUM have "[base stats](../heroes/basic-heroes/#eng)." These "base stats" determine [mining](../mining-settings/#eng) efficiency, combat efficiency, [succession](succession/#eng) conditions, and more. When a hero is first summoned, their base stat is at the lowest grade of 15.&#x20;
 >
 > You can use Hero NFTs with the same base stats as materials to increase the stat grade by 1 step at a time. Check out how to do it on this page!
 
@@ -82,8 +82,8 @@ Check the steps and materials required for hero synthesis in the table below. \
 
 #### ❓왜 합성을 하나요?
 
-> EXTOCIUM의 영웅 NFT에는 '[베이스 스탯](../../getting-started-guide/heroes/basic-heroes/#undefined-1)'이 있습니다. \
-> 이 '베이스 스탯'을 통해 '[채굴](../../getting-started-guide/mining-settings/#undefined-1)' 효율, '전투' 효율, '[계승](succession/#undefined-1)' 조건 등을 달성할 수 있습니다. \
+> EXTOCIUM의 영웅 NFT에는 '[베이스 스탯](../heroes/basic-heroes/#undefined-1)'이 있습니다. \
+> 이 '베이스 스탯'을 통해 '[채굴](../mining-settings/#undefined-1)' 효율, '전투' 효율, '[계승](succession/#undefined-1)' 조건 등을 달성할 수 있습니다. \
 > 최초에 영웅을 '소환'할 경우, 베이스 스탯은 가장 낮은 등급인 15 입니다.&#x20;
 >
 > 같은 베이스 스탯의 영웅 NFT를 재료로 사용하여 1단계씩 스탯 등급을 높일 수 있습니다. \
@@ -153,7 +153,7 @@ Check the steps and materials required for hero synthesis in the table below. \
 
 #### ❓なぜ合成をするのか？
 
-> EXTOCIUMのヒーローNFTには「[ベースステータス](../../getting-started-guide/heroes/basic-heroes/#ri-ben-yu)」があります。 この「ベースステータス」により、「[採掘](../../getting-started-guide/mining-settings/#ri-ben-yu)」効率、「戦闘」効率、「[継承](succession/#ri-ben-yu)」条件などを達成できます。 最初にヒーローを「召喚」する場合、ベースステータスは最も低いグレードの15です。&#x20;
+> EXTOCIUMのヒーローNFTには「[ベースステータス](../heroes/basic-heroes/#ri-ben-yu)」があります。 この「ベースステータス」により、「[採掘](../mining-settings/#ri-ben-yu)」効率、「戦闘」効率、「[継承](succession/#ri-ben-yu)」条件などを達成できます。 最初にヒーローを「召喚」する場合、ベースステータスは最も低いグレードの15です。&#x20;
 >
 > 同じベースステータスのヒーローNFTを材料として使用し、1段階ずつステータスのグレードを上げることができます。 このページでその方法を確認してください！
 

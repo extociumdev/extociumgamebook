@@ -15,7 +15,7 @@ description: 🛑 This information may be updated later than the game server dat
 ✅ **Each Succession Hero has a unique skill pool, with 1 skill randomly selectede inheritance system.**&#x20;
 
 {% hint style="info" %}
-[❓ For more details on the inheritance system, please check this link.](../../../contents/powering-up-the-hero/succession/#eng)
+[❓ For more details on the inheritance system, please check this link.](../../powering-up-the-hero/succession/#eng)
 {% endhint %}
 
 🔹 **Find detailed information on each Succession Hero below!**
@@ -31,7 +31,7 @@ description: 🛑 This information may be updated later than the game server dat
 ✅ **각 계승 영웅은 독립적인 스킬 풀을 가지고 있으며, 이 중 1개의 스킬이 확률적으로 선택됨**
 
 {% hint style="info" %}
-[❓계승 시스템은 이 링크를 통해 더 자세하게 확인해보세요.](../../../contents/powering-up-the-hero/succession/#undefined-1)
+[❓계승 시스템은 이 링크를 통해 더 자세하게 확인해보세요.](../../powering-up-the-hero/succession/#undefined-1)
 {% endhint %}
 
 🔹 **각 계승 영웅의 상세 정보는 아래 링크에서 확인하세요!**
@@ -47,7 +47,7 @@ description: 🛑 This information may be updated later than the game server dat
 ✅ **各継承英雄は独自のスキルプールを持ち、そのうち1つのスキルがランダムで選択される**
 
 {% hint style="info" %}
-[❓継承システムの詳細については、このリンクをご覧ください。](../../../contents/powering-up-the-hero/succession/#ri-ben-yu)
+[❓継承システムの詳細については、このリンクをご覧ください。](../../powering-up-the-hero/succession/#ri-ben-yu)
 {% endhint %}
 
 🔹 **各継承英雄の詳細情報は、以下のリンクから確認できます！**

@@ -82,15 +82,15 @@
 
 <div align="center"><figure><img src="../../.gitbook/assets/PK.png" alt=""><figcaption></figcaption></figure></div>
 
-💡 **Niberius offers contracts to players who want to quickly lower their** [**PK score**](../../contents/pk/)**.**\
+💡 **Niberius offers contracts to players who want to quickly lower their** [**PK score**](../../system/pk/)**.**\
 Contracts require **Gold and a Pen of Oblivion**, with the **Gold amount varying based on the Hero's level**.\
 The **Pen of Oblivion** can be obtained from [**Hermion’s Roulette**](../../gamemode/1vs1-arena/arena-roulette.md).
 
-> 💡 **니베리우스는**[ **PK 점수**](../../contents/pk/)**를 빠르게 감소시키고 싶은 플레이어들과 계약을 맺습니다.**\
+> 💡 **니베리우스는**[ **PK 점수**](../../system/pk/)**를 빠르게 감소시키고 싶은 플레이어들과 계약을 맺습니다.**\
 > 계약에는 **골드와 망각의 펜**이 필요하며, **필요한 골드의 양은 영웅의 레벨에 따라 다릅니다.**\
 > **망각의 펜**은 [**헤르마이온의 룰렛**](../../gamemode/1vs1-arena/arena-roulette.md)**에서 획득할 수 있습니다.**
 >
-> 💡 **ニベリウスは、**[**PKポイント**](../../contents/pk/)**を素早く減らしたいプレイヤーと契約を結びます。**\
+> 💡 **ニベリウスは、**[**PKポイント**](../../system/pk/)**を素早く減らしたいプレイヤーと契約を結びます。**\
 > 契約には**ゴールドと忘却のペン**が必要で、**必要なゴールドの量は英雄のレベルによって異なります。**\
 > **忘却のペン**は[**ヘルマイオンのルーレット**](../../gamemode/1vs1-arena/arena-roulette.md)**で入手できます。**
 

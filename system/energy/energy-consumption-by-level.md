@@ -11,7 +11,7 @@ EXP required to consume 1 energy depends on the level of hero.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-EXP obtained from [PK leverage bonuses](../../contents/pk/pk-leverage-bonus/) is not included in energy consumption.
+EXP obtained from [PK leverage bonuses](../pk/pk-leverage-bonus/) is not included in energy consumption.
 {% endhint %}
 {% endtab %}
 
@@ -21,7 +21,7 @@ EXP obtained from [PK leverage bonuses](../../contents/pk/pk-leverage-bonus/) is
 {% endhint %}
 
 {% hint style="warning" %}
-[PK 레버리지 보너스](../../contents/pk/pk-leverage-bonus/)로 획득하는 EXP는 에너지 소비에 포함되지 않습니다.
+[PK 레버리지 보너스](../pk/pk-leverage-bonus/)로 획득하는 EXP는 에너지 소비에 포함되지 않습니다.
 {% endhint %}
 {% endtab %}
 
@@ -31,7 +31,7 @@ EXP obtained from [PK leverage bonuses](../../contents/pk/pk-leverage-bonus/) is
 {% endhint %}
 
 {% hint style="warning" %}
-[PKレバレッジボーナス](../../contents/pk/pk-leverage-bonus/)で獲得したEXPはエネルギー消費に含まれません
+[PKレバレッジボーナス](../pk/pk-leverage-bonus/)で獲得したEXPはエネルギー消費に含まれません
 {% endhint %}
 {% endtab %}
 {% endtabs %}

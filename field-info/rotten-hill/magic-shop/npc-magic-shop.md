@@ -12,8 +12,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../contents/equipment-care/equipment-destruction.md" %}
-[equipment-destruction.md](../../../contents/equipment-care/equipment-destruction.md)
+{% content-ref url="../../../growth/equipment-care/equipment-destruction.md" %}
+[equipment-destruction.md](../../../growth/equipment-care/equipment-destruction.md)
 {% endcontent-ref %}
 
 {% tabs %}
@@ -58,8 +58,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../contents/equipment-care/reload-weapon.md" %}
-[reload-weapon.md](../../../contents/equipment-care/reload-weapon.md)
+{% content-ref url="../../../growth/equipment-care/reload-weapon.md" %}
+[reload-weapon.md](../../../growth/equipment-care/reload-weapon.md)
 {% endcontent-ref %}
 
 {% tabs %}
@@ -104,8 +104,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../contents/exp-tp-magic-vial.md" %}
-[exp-tp-magic-vial.md](../../../contents/exp-tp-magic-vial.md)
+{% content-ref url="../../../growth/exp-tp-magic-vial.md" %}
+[exp-tp-magic-vial.md](../../../growth/exp-tp-magic-vial.md)
 {% endcontent-ref %}
 
 {% tabs %}

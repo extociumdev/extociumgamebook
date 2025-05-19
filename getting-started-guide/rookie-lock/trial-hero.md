@@ -14,7 +14,7 @@ When you first access EXTOCIUM, you will start in the 'GYM'.
 
 👉Follow the guide of Yael slowly, and choose a Trial Hero.
 
-Select one of the '[Seven Basic Heroes](../heroes/#eng)' of EXTOCIUM and choose two types of skills from the seven skill pools available to each hero.
+Select one of the '[Seven Basic Heroes](../../growth/heroes/#eng)' of EXTOCIUM and choose two types of skills from the seven skill pools available to each hero.
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ EXTOCIUM에 처음 접속하면 '연무장'에서 시작하게 됩니다.
 
 👉예이렐의 가이드에 따라 천천히 이동하며, 트라이얼 영웅을 선택해 보세요.
 
-EXTOCIUM의 '[일곱 기본 영웅](../heroes/#undefined-1)' 중 1명을 선택하고, 각 영웅에게 존재하는 7개의 스킬 풀에서 2종을 선택하면 됩니다.
+EXTOCIUM의 '[일곱 기본 영웅](../../growth/heroes/#undefined-1)' 중 1명을 선택하고, 각 영웅에게 존재하는 7개의 스킬 풀에서 2종을 선택하면 됩니다.
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,7 +81,7 @@ EXTOCIUMに初めてアクセスすると、「トレーニンググラウンド
 
 👉イェイレルのガイドに従いながらゆっくり移動し、トライアルヒーローを選んでください。
 
-EXTOCIUMの「[七つの基本ヒーロー](../heroes/#ri-ben-yu)」の中から1人を選び、各ヒーローに存在する7つのスキルプールから2つを選択します。
+EXTOCIUMの「[七つの基本ヒーロー](../../growth/heroes/#ri-ben-yu)」の中から1人を選び、各ヒーローに存在する7つのスキルプールから2つを選択します。
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 

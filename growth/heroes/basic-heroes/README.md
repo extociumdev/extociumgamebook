@@ -25,7 +25,7 @@ Each hero comes with **unique stats, skills, and attributes**, allowing you to b
 🔹 **Level System** – **Hunt to earn EXP and**[ **level**](../level.md#eng) **up your hero**.\
 🔹 **Attribute Affinity** – Each hero has **a unique**[ **attribute**](../stats/elemental-bonus-damage.md#eng), which determines **strengths and weaknesses against others**.\
 🔹 **NFT System** – Heroes can only be obtained as **NFTs** (**except Trial Heroes**).\
-🔹 **New Hero Additions** – When new heroes are introduced, they are **applied through the** [**Succession System**](../../../contents/powering-up-the-hero/succession/#eng) rather than as base heroes.
+🔹 **New Hero Additions** – When new heroes are introduced, they are **applied through the** [**Succession System**](../../powering-up-the-hero/succession/#eng) rather than as base heroes.
 
 ***
 
@@ -52,7 +52,7 @@ EXTOCIUM의 **기본 영웅은 총 7명**으로 구성됩니다.\
 🔹 **레벨 시스템** – **사냥을 통해 EXP를 획득**하여 [레벨](../level.md#undefined-1)을 올릴 수 있습니다.\
 🔹 **속성 상성** – 각 영웅은 **고유한** [**속성**](../stats/elemental-bonus-damage.md#undefined-1)을 가지며, 속성 간 **강·약 상성 관계**가 존재합니다.\
 🔹 **NFT 시스템** – 영웅은 **NFT로만 생성 가능**합니다. (트라이얼 영웅 제외)\
-🔹 **새로운 영웅 추가 방식** – 새로운 영웅이 추가될 경우, **‘**[**계승 시스템**](../../../contents/powering-up-the-hero/succession/#undefined-1)**’을 통해 적용**됩니다.
+🔹 **새로운 영웅 추가 방식** – 새로운 영웅이 추가될 경우, **‘**[**계승 시스템**](../../powering-up-the-hero/succession/#undefined-1)**’을 통해 적용**됩니다.
 
 ***
 
@@ -79,7 +79,7 @@ EXTOCIUMには**7人の基本英雄**が存在します。\
 🔹 **レベルシステム** – **狩りを行いEXPを獲得し、英雄を**[**レベル**](../level.md#ri-ben-yu)**アップ**させることができます。\
 🔹 **属性相性** – 各英雄は**固有の**[**属性**](../stats/elemental-bonus-damage.md#ri-ben-yu)**を持ち、属性による相性関係**が存在します。\
 🔹 **NFTシステム** – 英雄は**NFTとしてのみ生成可能**です（トライアル英雄を除く）。\
-🔹 **新英雄の追加方法** – 新たな英雄が追加される場合、**「**[**継承システム**](../../../contents/powering-up-the-hero/succession/#ri-ben-yu)**」を通じて適用**されます。
+🔹 **新英雄の追加方法** – 新たな英雄が追加される場合、**「**[**継承システム**](../../powering-up-the-hero/succession/#ri-ben-yu)**」を通じて適用**されます。
 
 ***
 

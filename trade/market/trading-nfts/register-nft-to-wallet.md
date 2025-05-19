@@ -206,14 +206,14 @@ NFTがすぐに表示されない場合は、しばらく待ってMetaMaskを更
 
 Return&#x20;
 
-{% content-ref url="../../../getting-started-guide/heroes/" %}
-[heroes](../../../getting-started-guide/heroes/)
+{% content-ref url="../../../growth/heroes/" %}
+[heroes](../../../growth/heroes/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started-guide/equipment/weapon/" %}
-[weapon](../../../getting-started-guide/equipment/weapon/)
+{% content-ref url="../../../growth/equipment/weapon/" %}
+[weapon](../../../growth/equipment/weapon/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started-guide/equipment/orb/" %}
-[orb](../../../getting-started-guide/equipment/orb/)
+{% content-ref url="../../../growth/equipment/orb/" %}
+[orb](../../../growth/equipment/orb/)
 {% endcontent-ref %}

@@ -14,12 +14,12 @@ description: 🛑 This information may be updated later than the game server dat
 <figure><img src="../../.gitbook/assets/image (612).png" alt=""><figcaption></figcaption></figure>
 
 👉 **When the world map widget opens, you can move to each map.** \
-Initially, you must manually move your character and travel through portals to unlock each map. Once a map is unlocked, you can warp there at any time by paying gold. [PK zones](../../contents/pk/#eng) require specific conditions for entry.
+Initially, you must manually move your character and travel through portals to unlock each map. Once a map is unlocked, you can warp there at any time by paying gold. [PK zones](../../system/pk/#eng) require specific conditions for entry.
 
 > 👉월드맵 위젯이 열리면 각 맵으로 이동할 수 있습니다. \
-> 각 맵은 최초에 캐릭터를 직접 움직여 포탈을 타고 이동하여 잠금을 해제해야 합니다. 잠금해제 된 맵은 골드를 지불하고 언제든지 워프할 수 있습니다. [PK 지역](../../contents/pk/#undefined-1)은 입장을 위한 조건을 갖추어야 합니다.\
+> 각 맵은 최초에 캐릭터를 직접 움직여 포탈을 타고 이동하여 잠금을 해제해야 합니다. 잠금해제 된 맵은 골드를 지불하고 언제든지 워프할 수 있습니다. [PK 지역](../../system/pk/#undefined-1)은 입장을 위한 조건을 갖추어야 합니다.\
 > 👉 ワールドマップウィジェットが開かれたら、各マップへ移動することができます。\
-> 最初にキャラクターを直接動かしてポータルを通じて移動し、各マップのロックを解除する必要があります。マップのロックが解除されると、ゴールドを支払っていつでもワープすることができます。[PKエリア](../../contents/pk/#ri-ben-yu)は入場するための条件を満たす必要があります。
+> 最初にキャラクターを直接動かしてポータルを通じて移動し、各マップのロックを解除する必要があります。マップのロックが解除されると、ゴールドを支払っていつでもワープすることができます。[PKエリア](../../system/pk/#ri-ben-yu)は入場するための条件を満たす必要があります。
 
 {% content-ref url="lv.10-green-field.md" %}
 [lv.10-green-field.md](lv.10-green-field.md)

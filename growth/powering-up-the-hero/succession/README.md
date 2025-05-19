@@ -27,8 +27,8 @@ Through this system, you can **unlock the hero’s third skill slot**, granting 
 
 👇 **For more details on Succession heroes and skills, click the link below!**
 
-{% content-ref url="../../../getting-started-guide/heroes/succession-heroes/" %}
-[succession-heroes](../../../getting-started-guide/heroes/succession-heroes/)
+{% content-ref url="../../heroes/succession-heroes/" %}
+[succession-heroes](../../heroes/succession-heroes/)
 {% endcontent-ref %}
 
 #### ⚔️ **How to Perform Hero Succession**
@@ -119,8 +119,8 @@ For example, if the hero **Tamuz** has succeeded into **Nanna or Indra**:
 
 👇 **계승 영웅과 스킬에 대한 더 자세한 정보를 원한다면, 아래 링크를 확인하세요!**
 
-{% content-ref url="../../../getting-started-guide/heroes/succession-heroes/" %}
-[succession-heroes](../../../getting-started-guide/heroes/succession-heroes/)
+{% content-ref url="../../heroes/succession-heroes/" %}
+[succession-heroes](../../heroes/succession-heroes/)
 {% endcontent-ref %}
 
 #### ⚔️ **영웅 계승 방법 안내**
@@ -213,8 +213,8 @@ For example, if the hero **Tamuz** has succeeded into **Nanna or Indra**:
 
 👇 **継承英雄とスキルの詳細情報は、下記のリンクからご確認ください！**
 
-{% content-ref url="../../../getting-started-guide/heroes/succession-heroes/" %}
-[succession-heroes](../../../getting-started-guide/heroes/succession-heroes/)
+{% content-ref url="../../heroes/succession-heroes/" %}
+[succession-heroes](../../heroes/succession-heroes/)
 {% endcontent-ref %}
 
 #### ⚔️ **英雄継承の方法**

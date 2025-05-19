@@ -58,7 +58,7 @@ Skills rely on **three** cooldown factors:
 * **Magazine bar** = Number of shots left. If it’s full, fire away!
 
 {% hint style="info" %}
-❓[Invest in CHA among primary stats to reduce reload time.](heroes/stats/special-stats/#eng)
+❓[Invest in CHA among primary stats to reduce reload time.](../growth/heroes/stats/special-stats/#eng)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
@@ -79,7 +79,7 @@ Skills rely on **three** cooldown factors:
 * Customize: Choose **which skills to use, movement range, and targets.**
 
 {% hint style="info" %}
-❓**Heads up!** After **Lv. 25**, auto-hunting can make you a[ PK](../contents/pk/#eng) target. Stay alert!
+❓**Heads up!** After **Lv. 25**, auto-hunting can make you a[ PK](../system/pk/#eng) target. Stay alert!
 {% endhint %}
 
 #### 5️⃣Quick Slot
@@ -152,7 +152,7 @@ _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 * **탄창 바** = 남은 탄환 수. 꽉 차 있다면 연속 발사 가능!
 
 {% hint style="info" %}
-❓[1차 스탯 중 CHA 등에 투자하여 리로드 타임을 감소시킬 수 있습니다. ](heroes/stats/special-stats/#undefined-1)
+❓[1차 스탯 중 CHA 등에 투자하여 리로드 타임을 감소시킬 수 있습니다. ](../growth/heroes/stats/special-stats/#undefined-1)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
@@ -175,7 +175,7 @@ _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 * **맞춤 설정:** 사용할 스킬, 이동 범위, 목표를 직접 선택 가능.
 
 {% hint style="info" %}
-❓**주의!** **Lv. 25 이후 자동 사냥 중** [**PK**](../contents/pk/#undefined-1)**의 대상이 될 수 있습니다.** 신중하게 활용하세요!
+❓**주의!** **Lv. 25 이후 자동 사냥 중** [**PK**](../system/pk/#undefined-1)**의 대상이 될 수 있습니다.** 신중하게 활용하세요!
 {% endhint %}
 
 #### 5️⃣퀵슬롯
@@ -248,7 +248,7 @@ _EXTOCIUMはモバイル機器に最適化されています。_
 * **マガジンバー** = 残り弾数。フルなら連続使用OK！
 
 {% hint style="info" %}
-❓[主要ステータスのCHAに投資してリロード時間を短縮できます。](heroes/stats/special-stats/#ri-ben-yu)
+❓[主要ステータスのCHAに投資してリロード時間を短縮できます。](../growth/heroes/stats/special-stats/#ri-ben-yu)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
@@ -269,7 +269,7 @@ _EXTOCIUMはモバイル機器に最適化されています。_
 * **カスタマイズ:** 使用スキル、移動範囲、ターゲットを選択可能。
 
 {% hint style="info" %}
-❓**注意！** Lv.25以降は[PK](../contents/pk/#ri-ben-yu)のターゲットになる可能性あり。慎重に！
+❓**注意！** Lv.25以降は[PK](../system/pk/#ri-ben-yu)のターゲットになる可能性あり。慎重に！
 {% endhint %}
 
 #### 5️⃣クイックスロット

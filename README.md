@@ -54,16 +54,16 @@ This guidebook provides detailed information and guides throughout the game.\
 💠Discover the Stats used for heroes, equipment, and combat systems in Extocium.\
 💠エクストシウムの英雄、装備及び戦闘システムに使用されるスタットについて調べてください。
 
-{% content-ref url="getting-started-guide/heroes/" %}
-[heroes](getting-started-guide/heroes/)
+{% content-ref url="growth/heroes/" %}
+[heroes](growth/heroes/)
 {% endcontent-ref %}
 
 💠엑스토시움을 즐기려면 에너지 시스템에 대한 이해가 필수입니다. 에너지가 충전된 상태에서만 자원의 파밍이 가능합니다.\
 💠Exploring Extocium requires understanding the energy system. Farming resources is only possible when the energy is charged.\
 💠エクストシウムを楽しむにはエネルギーシステムの理解が必須です。 エネルギーが充電された状態でのみ、リソースのファーミングが可能です。
 
-{% content-ref url="getting-started-guide/energy/" %}
-[energy](getting-started-guide/energy/)
+{% content-ref url="system/energy/" %}
+[energy](system/energy/)
 {% endcontent-ref %}
 
 💠전투를 준비하기 전, 이 가이드를 먼저 확인해보세요.\

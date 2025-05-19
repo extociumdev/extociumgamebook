@@ -23,7 +23,7 @@ Shall we learn how to craft items now?
 <figure><img src="../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
 
 👉 **There are three categories in the crafting screen.**\
-❓ In the **Equipment tab**, you can craft [**Weapons**](equipment/weapon/#eng)**,** [**Orbs**](equipment/orb/#eng)**, and** [**Accessories**](equipment/accessories/#eng).\
+❓ In the **Equipment tab**, you can craft [**Weapons**](../growth/equipment/weapon/#eng)**,** [**Orbs**](../growth/equipment/orb/#eng)**, and** [**Accessories**](../growth/equipment/accessories/#eng).\
 ❓ In the **Item tab**, you can craft **Materials, Potions, and Scrolls**.
 
 <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
@@ -65,7 +65,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 <figure><img src="../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
 
 👉 제작 화면에는 3개의 카테고리가 존재합니다.\
-❓ 장비 탭에서는 '[**무기**](equipment/weapon/#undefined-1)', '[**오브**](equipment/orb/#undefined-1)', '[**악세서리**](equipment/accessories/#undefined-1)' 제작이 가능합니다.\
+❓ 장비 탭에서는 '[**무기**](../growth/equipment/weapon/#undefined-1)', '[**오브**](../growth/equipment/orb/#undefined-1)', '[**악세서리**](../growth/equipment/accessories/#undefined-1)' 제작이 가능합니다.\
 ❓ 아이템 탭에서는 '**재료**', '**포션**', '**주문서**' 제작이 가능합니다.
 
 <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
@@ -107,7 +107,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 <figure><img src="../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
 
 👉 **クラフト画面には3つのカテゴリーが存在します。**\
-❓ **装備タブ**では、[**武器**](equipment/weapon/#ri-ben-yu)**・**[**オーブ**](equipment/orb/#ri-ben-yu)**・**[**アクセサリー**](equipment/accessories/#ri-ben-yu) をクラフトできます。\
+❓ **装備タブ**では、[**武器**](../growth/equipment/weapon/#ri-ben-yu)**・**[**オーブ**](../growth/equipment/orb/#ri-ben-yu)**・**[**アクセサリー**](../growth/equipment/accessories/#ri-ben-yu) をクラフトできます。\
 ❓ **アイテムタブ**では、**素材・ポーション・スクロール** をクラフトできます。
 
 <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>

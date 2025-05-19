@@ -16,7 +16,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 After performing [**Succession**](./#eng), the **third skill of the succeeded hero** will unlock **four Skill Rune Slots**.\
 These slots can be used to equip **Skill Runes, which must be crafted**.\
-Most materials required for crafting Skill Runes can be **obtained from** [**dungeons**](../../naraka-dungeon.md#eng).
+Most materials required for crafting Skill Runes can be **obtained from** [**dungeons**](../../../gamemode/naraka-dungeon.md#eng).
 
 The special effects of Skill Runes **activate when using the third skill**,\
 applying their effect to the **target hit by the skill for a certain duration**.
@@ -63,7 +63,7 @@ The system will automatically display **compatible runes**, and tapping the **\<
 <figure><img src="../../../.gitbook/assets/image (582).png" alt="" width="375"><figcaption></figcaption></figure>
 
 영웅을 [**계승**](./#undefined-1)**한 후**, 계승된 영웅의 **3차 스킬에 4개의 스킬 룬 슬롯**이 생성됩니다.\
-이 슬롯에는 **직접 제작한 스킬 룬을 장착**할 수 있으며, 대부분의 스킬 룬 제작 재료는 [**던전**](../../naraka-dungeon.md#undefined-1)**에서 획득**할 수 있습니다.
+이 슬롯에는 **직접 제작한 스킬 룬을 장착**할 수 있으며, 대부분의 스킬 룬 제작 재료는 [**던전**](../../../gamemode/naraka-dungeon.md#undefined-1)**에서 획득**할 수 있습니다.
 
 스킬 룬의 특수 효과는 **3차 스킬을 사용함으로써 발동**되며,\
 **스킬에 피격된 대상에게 일정 시간 동안 적용**됩니다.
@@ -113,7 +113,7 @@ The system will automatically display **compatible runes**, and tapping the **\<
 
 **继承後、**[**继承**](./#ri-ben-yu)**された英雄の第3スキルには4つのスキルルーンスロットが解放**されます。\
 これらのスロットには**作成したスキルルーンを装着**することができ、\
-スキルルーンの材料のほとんどは[**ダンジョン**](../../naraka-dungeon.md#ri-ben-yu)**で入手可能**です。
+スキルルーンの材料のほとんどは[**ダンジョン**](../../../gamemode/naraka-dungeon.md#ri-ben-yu)**で入手可能**です。
 
 スキルルーンの特殊効果は、**第3スキルを使用することで発動**し、\
 **スキルが命中した対象に一定時間適用されます**。

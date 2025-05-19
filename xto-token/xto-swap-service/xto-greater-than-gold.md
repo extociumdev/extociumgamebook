@@ -173,7 +173,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ***
 
-🛑[**ウォレット接続に問題がありますか？このタブを参照してください！**](../../getting-started-guide/heroes/stats/elemental-bonus-damage.md#ri-ben-yu)
+🛑[**ウォレット接続に問題がありますか？このタブを参照してください！**](../../growth/heroes/stats/elemental-bonus-damage.md#ri-ben-yu)
 {% endtab %}
 {% endtabs %}
 

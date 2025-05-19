@@ -58,7 +58,7 @@ EXTOCIUM의 다양한 스킬 덱 조합을 만들어보려면, 리로드에 관�
 
 <figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-👉'[계승 영웅](../../../getting-started-guide/heroes/succession-heroes/#eng)'을 리로드하려면,  '[로튼힐](../../../field-info/rotten-hill/)'에서 '[마법상점](../../../field-info/rotten-hill/magic-shop/)'으로 이동 후, 마법상점에서 '[아슈르바니팔 도서관](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)'으로 이동해야 합니다. 아슈르바니팔 도서관에 있는 '[NPC 레라엘](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru)'로 부터 영웅을 리로드 할 수 있습니다.
+👉'[계승 영웅](../../heroes/succession-heroes/#eng)'을 리로드하려면,  '[로튼힐](../../../field-info/rotten-hill/)'에서 '[마법상점](../../../field-info/rotten-hill/magic-shop/)'으로 이동 후, 마법상점에서 '[아슈르바니팔 도서관](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)'으로 이동해야 합니다. 아슈르바니팔 도서관에 있는 '[NPC 레라엘](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru)'로 부터 영웅을 리로드 할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
@@ -102,7 +102,7 @@ EXTOCIUMでさまざまなスキルデッキの組み合わせを作成するに
 
 <figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-👉 '[継承ヒーロー](../../../getting-started-guide/heroes/succession-heroes/#ri-ben-yu)'をリロードするには、'[ロッテンヒル](../../../field-info/rotten-hill/#ri-ben-yu)'から'[魔法店](../../../field-info/rotten-hill/magic-shop/)'に移動し、その後'[アシュールバニパル図書館](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/#ri-ben-yu)'に移動します。アシュールバニパル図書館にいる'[NPCレラエル](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru)'からヒーローをリロードできます。
+👉 '[継承ヒーロー](../../heroes/succession-heroes/#ri-ben-yu)'をリロードするには、'[ロッテンヒル](../../../field-info/rotten-hill/#ri-ben-yu)'から'[魔法店](../../../field-info/rotten-hill/magic-shop/)'に移動し、その後'[アシュールバニパル図書館](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/#ri-ben-yu)'に移動します。アシュールバニパル図書館にいる'[NPCレラエル](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru)'からヒーローをリロードできます。
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 

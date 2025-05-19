@@ -186,7 +186,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 👉 取引が正常に完了すると、ゴールドがXTOにスワップされてあなたのウォレットに保存されます。
 
-🛑[ウォレット接続に問題がありますか？このタブを参照してください！](../../getting-started-guide/heroes/stats/elemental-bonus-damage.md#ri-ben-yu)
+🛑[ウォレット接続に問題がありますか？このタブを参照してください！](../../growth/heroes/stats/elemental-bonus-damage.md#ri-ben-yu)
 {% endtab %}
 {% endtabs %}
 

@@ -26,7 +26,7 @@ If you have a Golden Key, touch this button to receive your gold!
 
 ### ✅Gold Box Rules
 
-* The Gold Box can accumulate up to 2% of the daily gold mining amount set in the '[Mining Settings](../mining-settings/#eng)' within the account.&#x20;
+* The Gold Box can accumulate up to 2% of the daily gold mining amount set in the '[Mining Settings](../../growth/mining-settings/#eng)' within the account.&#x20;
 * When the Gold Box is full, no further gold bonuses can be accumulated.&#x20;
 * After opening the Gold Box with the Golden Key, you can start accumulating gold in the box again.&#x20;
 * Gold bonuses are not accumulated from gold obtained as raid rewards.
@@ -53,7 +53,7 @@ NPC를 사냥하여 골드를 획득하는 경우, 일정 비율로 골드박스
 
 ### ✅**골드 박스 규칙**
 
-* 골드 박스는 계정 내 '[채굴 세팅](../mining-settings/#undefined-1)'에서 설정한 일일 골드 채굴량의 2%까지 적립이 가능합니다.
+* 골드 박스는 계정 내 '[채굴 세팅](../../growth/mining-settings/#undefined-1)'에서 설정한 일일 골드 채굴량의 2%까지 적립이 가능합니다.
 * 골드 박스가 가득 찬 상태에서는 골드 보너스가 더 이상 적립되지 않습니다.
 * 황금 열쇠로 골드 박스를 열고 나면, 다시 골드 박스를 적립할 수 있습니다.
 * 레이드 보상으로 획득된 골드에서는 골드 보너스가 적립되지 않습니다.
@@ -80,7 +80,7 @@ NPCを狩ってゴールドを獲得すると、一定の割合でゴールド�
 
 ### ✅ゴールドボックスのルール
 
-* ゴールドボックスにはアカウント内の「[採掘設定](../mining-settings/#ri-ben-yu)」で設定した1日あたりのゴールド採掘量の2%まで積み立てることができます。&#x20;
+* ゴールドボックスにはアカウント内の「[採掘設定](../../growth/mining-settings/#ri-ben-yu)」で設定した1日あたりのゴールド採掘量の2%まで積み立てることができます。&#x20;
 * ゴールドボックスが満杯の状態では、ゴールドボーナスはこれ以上積み立てられません。
 * &#x20;黄金の鍵でゴールドボックスを開けた後、再びゴールドボックスにゴールドを積み立てることができます。&#x20;
 * レイド報酬として獲得したゴールドからは、ゴールドボーナスが積み立てられません。

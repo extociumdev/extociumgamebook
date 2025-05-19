@@ -8,7 +8,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 **In the field, you may lose gold due to**[ **PK**](../contents/pk/)**.**\
+💡 **In the field, you may lose gold due to**[ **PK**](../system/pk/)**.**\
 **Use the bank to keep your valuable gold safe!**
 
 ✅ **How to Store Gold**
@@ -24,7 +24,7 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 
 {% tab title="한국어" %}
-💡 **필드에서는** [**PK**](../contents/pk/)**로 인해 골드를 잃을 수 있습니다.**\
+💡 **필드에서는** [**PK**](../system/pk/)**로 인해 골드를 잃을 수 있습니다.**\
 **소중한 골드를 안전하게 지키려면 은행을 이용하세요!**
 
 ✅ **골드 보관 방법**
@@ -40,7 +40,7 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **フィールドでは**[**PK**](../contents/pk/)**によってゴールドを失う可能性があります。**\
+💡 **フィールドでは**[**PK**](../system/pk/)**によってゴールドを失う可能性があります。**\
 **大切なゴールドを守るために、銀行を活用しましょう！**
 
 ✅ **ゴールドを保管する方法**

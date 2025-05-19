@@ -16,7 +16,7 @@ You cannot attack others, and others cannot attack you.
 * When PK-ing in the non-PK zone,, a debuff that reduces maximum HP is applied based on the PK level.
 * If you PK a player in the non-PK zone whose level is at least 5 levels lower than yours and has a PK level of 0, your energy will decrease by 5.
 * If you PK a player in the non-PK zone whose level is at least 10 levels lower than yours and has a PK level of 0, your energy will decrease by 10.
-* [When my energy reaches 0, a debuff is applied that significantly reduces my damage during PK.](../../getting-started-guide/energy/0-energy-penalty.md#eng)
+* [When my energy reaches 0, a debuff is applied that significantly reduces my damage during PK.](../energy/0-energy-penalty.md#eng)
 * If you PK a user who is 10 levels or more below you, their dodge rate increases by 65%.
 {% endtab %}
 
@@ -31,7 +31,7 @@ You cannot attack others, and others cannot attack you.
 * 일반존에서 PK시, PK레벨에 따라 최대 HP가 감소되는 디버프가 부여됩니다.
 * 일반존에서 자신보다 레벨이 5이상 낮고, PK 레벨이 0인 유저를 PK시, 에너지가 5 감소됩니다.
 * 일반존에서 자신보다 레벨이 10이상 낮고, PK 레벨이 0인 유저를 PK시, 에너지가 10 감소됩니다.
-* [에너지가 0이 되면, PK시 나의 데미지가 대폭 감소되는 디버프가 부여됩니다.](../../getting-started-guide/energy/0-energy-penalty.md#undefined-1)
+* [에너지가 0이 되면, PK시 나의 데미지가 대폭 감소되는 디버프가 부여됩니다.](../energy/0-energy-penalty.md#undefined-1)
 * 자신보다 10레벨 이하인 유저를 PK할 경우, 상대방의 회피율이 65% 증가합니다.
 {% endtab %}
 
@@ -46,7 +46,7 @@ You cannot attack others, and others cannot attack you.
 * 一般ゾーンでPKすると、PKレベルに応じて最大HPが減少するデバフが適用されます。
 * &#x20;一般ゾーンで自分よりレベルが5以上低く、PKレベルが0のユーザーをPKすると、エネルギーが5減少します。
 * &#x20;一般ゾーンで自分よりレベルが10以上低く、PKレベルが0のユーザーをPKすると、エネルギーが10減少します。&#x20;
-* [エネルギーが0になると、PK時に私のダメージが大幅に減少するデバフが適用されます。](../../getting-started-guide/energy/0-energy-penalty.md#ri-ben-yu)
+* [エネルギーが0になると、PK時に私のダメージが大幅に減少するデバフが適用されます。](../energy/0-energy-penalty.md#ri-ben-yu)
 * 自分より10レベル以上低いユーザーをPKする場合、相手の回避率が65%増加します。
 {% endtab %}
 {% endtabs %}

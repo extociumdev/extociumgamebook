@@ -15,7 +15,7 @@ Combine **Combat Stats** and **Special Stats** to **develop your own unique batt
 
 <figure><img src="../../.gitbook/assets/image (808).png" alt=""><figcaption></figcaption></figure>
 
-**1️⃣** [**Trial Hero**](../rookie-lock/trial-hero.md#eng)
+**1️⃣** [**Trial Hero**](../../getting-started-guide/rookie-lock/trial-hero.md#eng)
 
 * A **starter hero** is given when you create an account.
 * It is **bound to your account** and allows you to **choose 2 skills manually**.
@@ -39,7 +39,7 @@ and become a legendary warrior who dominates the battlefield!
 
 <figure><img src="../../.gitbook/assets/image (808).png" alt=""><figcaption></figcaption></figure>
 
-1️⃣ [**트라이얼 영웅**](../rookie-lock/trial-hero.md#undefined-1) **(Trial Hero)**
+1️⃣ [**트라이얼 영웅**](../../getting-started-guide/rookie-lock/trial-hero.md#undefined-1) **(Trial Hero)**
 
 * 최초 계정 생성 시 **기본 제공되는 영웅**입니다.
 * **계정에 귀속**되며, **2종의 스킬을 직접 선택**할 수 있습니다.
@@ -64,7 +64,7 @@ EXTOCIUMの英雄たちは、**多様なステータスと装備を活用して�
 
 <figure><img src="../../.gitbook/assets/image (808).png" alt=""><figcaption></figcaption></figure>
 
-1️⃣ [**トライアル英雄**](../rookie-lock/trial-hero.md#ri-ben-yu)**（Trial Hero）**
+1️⃣ [**トライアル英雄**](../../getting-started-guide/rookie-lock/trial-hero.md#ri-ben-yu)**（Trial Hero）**
 
 * **アカウント作成時に最初に付与される英雄** です。
 * **アカウントに紐づいており**、**2つのスキルを自由に選択可能** です。
