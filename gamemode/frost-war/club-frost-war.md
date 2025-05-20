@@ -31,6 +31,10 @@ Are you ready to rise with your squad?
 
 > 🧙‍♀️ _Note: These settings may change in the future._
 
+{% hint style="danger" %}
+**AI-controlled players do not count toward kill scores.**
+{% endhint %}
+
 ***
 
 #### 🎁 **Reward System**
@@ -76,7 +80,11 @@ Let’s freeze the battlefield together!&#x20;
 * 팀 인원이 부족한 경우엔 **AI가 자동으로 빈자리를 채워줍니다.**
 * 전장에는 **최대 40마리의 미니언**이 소환돼요. 혼돈의 전장을 잘 지휘해보세요!
 
-> 🧙‍♀️ _이 조건은 추후 변경될 수 있습니다다._
+> 🧙‍♀️ _이 조건은 추후 변경될 수 있습니다._
+
+{% hint style="danger" %}
+**AI PC는 킬 수에 포함되지 않습니다.**
+{% endhint %}
 
 ***
 
@@ -121,6 +129,10 @@ Let’s freeze the battlefield together!&#x20;
 * **最大40体のミニオン**が戦場に登場します。しっかり指揮をとって勝利を掴みましょう！
 
 > 🧙‍♀️ ※この設定は今後変更される場合があります。
+
+{% hint style="danger" %}
+**AI操作のキャラクターはキル数に含まれません。**
+{% endhint %}
 
 ***
 
