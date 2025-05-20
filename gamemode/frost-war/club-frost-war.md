@@ -13,7 +13,8 @@ Every day, the continent of Asterica lights up with epic club vs. club showdowns
 #### 📅 Schedule
 
 🕒 UTC: **12:00**\
-🕒 ETC (UTC-5): **07:00**
+🕒 ETC (UTC-5): **07:00**\
+🕒 KST (UTC+9): **21:00**
 
 > 🧊 _Hop into the waiting room when the time comes—just like a regular Frost War match!_
 
