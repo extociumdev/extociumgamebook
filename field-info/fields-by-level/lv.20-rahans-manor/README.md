@@ -24,7 +24,7 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 
 > 😈**Field Raid :** Lv.23 Lizard Man (Dark)
 >
-> 🕓**Spawn Time (UTC)** : 16:10 / 21:30 / 02:50 / 08:10 / 13:40
+> 🕓**Spawn Time (UTC)** : 16:10 / 18:20 / 21:30 / 02:50 / 08:10 / 10:00 / 11:00
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Crystal of wrath, Freshly caught octopus, Extocium Fragment etc…
 
@@ -46,7 +46,7 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 
 > 😈**필드 레이드 :** Lv.23 리자드맨
 >
-> 🕓**출현시간 (KST)** : 01:10 / 06:30 / 11:50 / 17:10 / 22:40&#x20;
+> 🕓**출현시간 (KST)** : 01:10 / 03:20 / 06:30 / 11:50 / 17:10 / 19:00 / 20:00
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 분노의 결정, 갓 잡은 문어, 엑스토시움 조각 etc…
 
@@ -68,7 +68,7 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 
 > 😈**フィールドレイド :** Lv.23 リザードマン
 >
-> 🕓**出現時間 (KST)** : 01:10 / 06:30 / 11:50 / 17:10 / 22:40
+> 🕓**出現時間 (KST)** : 01:10 / 03:20 / 06:30 / 11:50 / 17:10 / 19:00 / 20:00
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、怒りの結晶、獲れたてのタコ、エクストシウム彫刻 ect···
 

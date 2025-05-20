@@ -14,16 +14,13 @@ Rabbit Rush are held every day at the following times (based on KST):&#x20;
 
 \
 🕑**UTC :**\
-🎯1st Set: 03:30\
-🎯2nd Set: 13:30\
+🎯10:30\
 \
 🕑**ETC(UTC-5) :**\
-🎯1st Set: 22:30\
-🎯2st Set: 08:30\
+🎯05:30\
 \
 🕑**KST(UTC+9) :**\
-🎯1st Set: 12:30 \
-🎯2nd Set: 22:30
+🎯19:30
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,9 +34,10 @@ Rabbit Rush are held every day at the following times (based on KST):&#x20;
 {% endtab %}
 
 {% tab title="한국어" %}
-**💡래빗 러시  경기는 매일 아래 시간에 각각 개최됩니다. (KST 기준)** \
-🎯1set : 12:30\
-🎯2set : 22:30&#x20;
+**💡래빗 러시  경기는 매일 아래 시간에 개최됩니다. (KST 기준)** \
+\
+🕑**KST(UTC+9) :**\
+🎯19:30
 
 <figure><img src="../../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,8 +52,9 @@ Rabbit Rush are held every day at the following times (based on KST):&#x20;
 
 {% tab title="日本語" %}
 **💡アリーナマッチは、以下の時間帯に毎日開催されます（KST基準）：**\
-🎯1セット：12:30\
-🎯2セット：22:30&#x20;
+\
+🕑**KST(UTC+9) :**\
+🎯19:30
 
 <figure><img src="../../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
 

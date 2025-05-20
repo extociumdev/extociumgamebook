@@ -19,11 +19,14 @@ Get a taste of large-scale PvP with **Frost War** — fast, fierce, and super fu
 
 Tap the **\[Mode]** button in-game and head to the **Frost War Lobby**.
 
-<figure><img src="../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ⏰ Schedule
 
-Starts **daily at 11:00 AM UTC**\
+Starts **daily at** \
+🎯**13:30 UTC**\
+🎯**08:30 ETC (UTC-5)**\
+🎯**22:30 KST**\
 Don’t be late—auto match begins right on time!
 
 ***
@@ -32,7 +35,7 @@ Don’t be late—auto match begins right on time!
 
 You can grab a _Frost Potion Package_ from **NPC ‘Rena’** in the lobby.
 
-<figure><img src="../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
 
 #### **⚠️ Heads Up!**
 
@@ -227,11 +230,12 @@ Simple rules, strategic play, and seriously satisfying wins.
 
 게임 내 **\[모드] 버튼**을 눌러 **Frost War 대기실**로 입장해 주세요.
 
-<figure><img src="../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ⏰ 진행 시간
 
-**매일 오후 8시 정각 (KST)**\
+**매일** \
+🎯**22:30 KST**\
 정시에 자동 시작되니, 늦지 않게 대기실에 들어와 주세요!
 
 ***
@@ -240,7 +244,7 @@ Simple rules, strategic play, and seriously satisfying wins.
 
 대기실 내 NPC ‘레나’에게서 _프로스트 포션 패키&#xC9C0;_&#xB97C; 구매할 수 있어요.
 
-<figure><img src="../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
 
 #### ⚠️ 중요 포인트!
 
@@ -417,11 +421,12 @@ Simple rules, strategic play, and seriously satisfying wins.
 
 ゲーム内の\*\*\[モード]ボタン\*\*をタップし、**Frost Warロビー**へご入場ください。
 
-<figure><img src="../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ⏰ 開催時間
 
-**毎晩午後8時（KST）に自動開始**されます。\
+**毎晩**\
+🎯**22:30 KSに自動開始**されます。\
 お時間に余裕を持ってロビーへお越しください。
 
 ***
@@ -430,7 +435,7 @@ Simple rules, strategic play, and seriously satisfying wins.
 
 ロビーにいる\*\*NPC「レナ」\*\*か&#x3089;_&#x30D5;ロストポーションパッケー&#x30B8;_&#x3092;ご購入いただけます。
 
-<figure><img src="../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
 
 #### **⚠️ ご注意**
 

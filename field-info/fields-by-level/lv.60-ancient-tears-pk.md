@@ -24,7 +24,7 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 
 > 😈**Field Raid :** Lv.60 Leviathan (WATER)
 >
-> 🕓**Spawn Time (UTC)** : 15:20 / 05:20 / 12:20
+> 🕓**Spawn Time (UTC)** : 15:20 / 05:20 / 10:50
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Hell Crystal, Leviathan Meat, Extocium etc…
 
@@ -48,7 +48,7 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 
 > 😈**필드 레이드 :** Lv.60 레비아탄 (물속성)
 >
-> 🕓**출현시간 (KST)** : 00:20 / 14:20 / 21:20
+> 🕓**출현시간 (KST)** : 00:20 / 14:20 / 19:50
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 지옥의 결정, 레비아탄 고기, 엑스토시움 etc…
 
@@ -72,7 +72,7 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 
 > 😈**フィールドレイド :** Lv.60 レヴィアタン（水）
 >
-> 🕓**出現時間 (KST)** : 00:20 / 14:20 / 21:20
+> 🕓**出現時間 (KST)** : 00:20 / 14:20 / 19:50
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、地獄の結晶、レヴィアタン肉、エクストシウムetc···
 

@@ -24,7 +24,7 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 
 > 😈**Field Raid :** Lv.55 Black Lizard (Force)
 >
-> 🕓**Spawn Time (UTC)** : 15:10 / 05:10 / 12:10
+> 🕓**Spawn Time (UTC)** : 14:30 / 05:10 / 10:40
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Primordial Crystal, Spicy pepper, Extocium etc…
 
@@ -48,7 +48,7 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 
 > 😈**필드 레이드 :** Lv.55 검은 도마뱀
 >
-> 🕓**출현시간 (KST)** : 00:10 / 14:10 / 21:10
+> 🕓**출현시간 (KST)** : 23:30 / 14:10 / 19:40
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 태초의 결정, 매운 고추, 엑스토시움 etc…
 
@@ -72,7 +72,7 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 
 > 😈**フィールドレイド :** Lv.55 黒いトカゲ
 >
-> 🕓**出現時間 (KST)** : 00:10 / 14:10 / 21:10
+> 🕓**出現時間 (KST)** : 23:30 / 14:10 / 19:40
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、太初の結晶、辛唐辛子、エクストシウムetc…···
 

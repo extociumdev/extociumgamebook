@@ -24,7 +24,7 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 
 > 😈**Field Raid :** Lv.50 Ancient Goblin (Fire) / Lv.50 Ancient Goblin Minions (Water)
 >
-> 🕓**Spawn Time (UTC)** : 00:00 / 05:00 / 12:00
+> 🕓**Spawn Time (UTC)** : 14:20 / 19:00 / 00:00 / 05:00 / 10:40
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Wealth crystal, Lobster, Extocium etc…
 
@@ -48,7 +48,7 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 
 > 😈**필드 레이드 :** Lv.50 고대 고블린
 >
-> 🕓**출현시간 (KST)** : 09:00 / 14:00 / 21:00
+> 🕓**출현시간 (KST)** : 23:20 / 04:00 / 09:00 / 14:00 / 19:40
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 부귀의 결정, 랍스터, 엑스토시움 etc…
 
@@ -72,7 +72,7 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 
 > 😈**フィールドレイド :** Lv.50 古代ゴブリン
 >
-> 🕓**出現時間 (KST)** :09:00 / 14:00 / 21:00
+> 🕓**出現時間 (KST)** : 23:20 / 04:00 / 09:00 / 14:00 / 19:40
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、富貴の結晶、ロブスター、エクストシウムetc···
 

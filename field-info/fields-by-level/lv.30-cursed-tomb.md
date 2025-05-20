@@ -22,7 +22,7 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 
 > 😈**Field Raid :** Lv.32 Cursed Wizard (Dark)
 >
-> 🕓**Spawn Time (UTC)** : 16:20 / 21:40 / 03:00 / 08:20 / 13:50
+> 🕓**Spawn Time (UTC)** : 16:20 / 18:30 / 21:40 / 03:00 / 08:20 / 10:10 / 11:10
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Curse crystal, Cursed medicine, Extocium etc…
 
@@ -44,7 +44,7 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 
 > 😈**필드 레이드 :** Lv.32 저주 받은 위자드
 >
-> 🕓**출현시간 (KST)** : 01:20 / 06:40 / 12:00 / 17:20 / 22:50
+> 🕓**출현시간 (KST)** : 01:20 / 03:30 / 06:40 / 12:00 / 17:20 / 19:10 / 20:10
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 저주의 결정, 저주받은 약재, 엑스토시움 etc…
 
@@ -66,7 +66,7 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 
 > 😈**フィールドレイド :** Lv.32 呪われたウィザード
 >
-> 🕓**出現時間 (KST)** : 01:20 / 06:40 / 12:00 / 17:20 / 22:50
+> 🕓**出現時間 (KST)** : 01:20 / 03:30 / 06:40 / 12:00 / 17:20 / 19:10 / 20:10
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、呪いの結晶、呪われた薬材、エクストシウムetc···
 

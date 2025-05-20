@@ -22,7 +22,7 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 
 > 😈**Field Raid :** Lv.40 Humbaba (Stone)
 >
-> 🕓**Spawn Time (UTC)** : 16:30 / 21:50 / 03:10 / 08:30 / 14:00
+> 🕓**Spawn Time (UTC)** : 16:30 / 18:40 / 21:50 / 03:10 / 08:30 / 10:10 / 11:15
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Rock crystal, Humbaba’s rice balls, Extocium etc…
 
@@ -44,7 +44,7 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 
 > 😈**필드 레이드 :** Lv.40 훔바바
 >
-> 🕓**출현시간 (KST)** : 01:30 / 06:50 / 12:10 / 17:30 / 23:00
+> 🕓**출현시간 (KST)** : 01:30 / 03:40 / 06:50 / 12:10 / 17:30 / 19:10 / 20:15
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 바위의 결정, 훔바바의 주먹밥, 엑스토시움 etc…
 
@@ -66,7 +66,7 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 
 > 😈**フィールドレイド :** Lv.40 フンババ
 >
-> 🕓**出現時間 (KST)** : 01:30 / 06:50 / 12:10 / 17:30 / 23:00
+> 🕓**出現時間 (KST)** : 01:30 / 03:40 / 06:50 / 12:10 / 17:30 / 19:10 / 20:15
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、岩の結晶、フンババのおにぎり、エクストシウムetc···
 

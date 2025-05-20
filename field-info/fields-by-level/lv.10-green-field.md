@@ -22,7 +22,7 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 
 > 😈**Field Raid :** Lv.13 Mushroom Monster (Leaf)
 >
-> 🕓**Spawn Time (UTC)** : 16:00 / 21:20 / 02:40 / 08:00 / 13:30
+> 🕓**Spawn Time (UTC)** : 16:00 / 18:10 / 21:20 / 02:40 / 08:00 / 09:50 / 10:50
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Poison crystal, Monster mushroom, Extocium Fragment etc…
 
@@ -47,7 +47,7 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 
 > 😈**필드 레이드 :** Lv.13 버섯 괴물
 >
-> 🕓**출현시간 (KST)** : 01:00 / 06:20 / 11:40 / 17:00 / 22:30&#x20;
+> 🕓**출현시간 (KST)** : 01:00 / 03:10 / 06:20 / 11:40 / 17:00 / 18:50 / 19:50
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 독의 결정, 괴물 버섯, 엑스토시움 조각 etc…
 
@@ -69,7 +69,7 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 
 > 😈**フィールドレイド :** Lv.13 キノコ怪物
 >
-> 🕓**出現時間 (KST)** : 01:00 / 06:20 / 11:40 / 17:00 / 22:30
+> 🕓**出現時間 (KST)** : 01:00 / 03:10 / 06:20 / 11:40 / 17:00 / 18:50 / 19:50
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、毒の結晶、怪物キノコ、エクストシウム彫刻 ect···
 
