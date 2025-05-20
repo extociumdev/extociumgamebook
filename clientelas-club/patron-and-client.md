@@ -27,7 +27,6 @@ The **Patron** and **Client** system allows users to establish **support relatio
 * **A Patron supports Clients, while a Client receives benefits from a Patron.**
 * **Players can become a Patron or a Client at any time and can hold both roles simultaneously.**
 * **A single Patron can support up to 20 Clients.**
-* **Players in a support relationship cannot attack each other in field PK.**
 * **Referral codes, support relationships, and gold storage can be managed through NPC ‘Haziel’ in the Clientelas Lobby.**
 
 ***
@@ -80,7 +79,6 @@ The **Patron** and **Client** system allows users to establish **support relatio
 * 페이트론(Patron)은 **후원자**이고, 클라이언트(Client)는 **지지자** 입니다.
 * **언제든 페이트론 또는 클라이언트가 될 수 있으며, 두 역할을 동시에 수행할 수도 있습니다.**
 * **한 명의 페이트론은 최대 20명의 클라이언트를 가질 수 있습니다.**
-* **후원 관계를 맺은 경우, 해당 플레이어끼리는 필드 PK가 불가능합니다.**
 * **클리엔텔라스 로비의 NPC ‘하지엘’에게서 레퍼럴 코드를 얻고, 후원 관계 및 금고를 관리할 수 있습니다.**
 
 ***
@@ -133,7 +131,6 @@ The **Patron** and **Client** system allows users to establish **support relatio
 * **ペイトロンは支援者、クライアントは支援を受けるプレイヤーです。**
 * **プレイヤーはいつでもペイトロンまたはクライアントになれ、両方の役割を同時に持つことも可能です。**
 * **1人のペイトロンは最大20人のクライアントを支援できます。**
-* **支援関係を結んだプレイヤー同士は、フィールドPKができません。**
 * **リファラルコードの取得、支援関係の管理、ゴールドの回収は、クライエンテラスロビーのNPC「ハジエル」から行えます。**
 
 ***

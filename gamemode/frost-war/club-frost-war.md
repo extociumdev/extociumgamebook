@@ -8,7 +8,8 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 ### **🏰 Club Frost War – Let the Club Battles Begin!**
 
-Every day, the continent of Asterica lights up with epic club vs. club showdowns!
+Every day, the continent of Asterica heats up with fierce club-vs-club battles! \
+Are you ready to rise with your squad?
 
 #### 📅 Schedule
 
@@ -20,12 +21,22 @@ Every day, the continent of Asterica lights up with epic club vs. club showdowns
 
 ***
 
-#### 🚪 Entry Requirements
+#### 🚪 **Entry Conditions**
 
-* Only **wizards who belong to a club** can join.
-* **Team matching happens per club.**
-* Up to **30 members per team** can participate!
-* Not enough people? Don’t worry—**AI teammates** will fill the gaps!
+* Only **wizards who are part of a club** can join.
+* Teams are matched **by club**.
+* Up to **10 members per team** can participate!
+* If you’re short on members, **AI teammates** will fill in.
+* Up to **40 minions** will spawn on the battlefield—prepare for total chaos!
+
+> 🧙‍♀️ _Note: These settings may change in the future._
+
+***
+
+#### 🎁 **Reward System**
+
+Wizards who join the battle will receive rewards based on the results.\
+\[[Reward Table Shortcut](./#reward-system)]
 
 ***
 
@@ -57,12 +68,22 @@ Let’s freeze the battlefield together!&#x20;
 
 ***
 
-#### 🚪 입장 조건
+#### 🚪 입장 조건&#x20;
 
-* 클럽에 가입된 위자드만 참가 가능해요.
-* 팀은 클럽 단위로 자동 매칭되며,
-* 한 팀 최대 30명까지 참가할 수 있어요!
-* 인원이 부족한 경우? 걱정 마세요. AI 동료들이 빈 자리를 채워줍니다.
+* **클럽에 가입된 위자드만 참가 가능**해요.
+* **클럽 단위로 자동 매칭**이 이루어집니다.
+* **팀당 최대 10명**까지 참가할 수 있어요!
+* 팀 인원이 부족한 경우엔 **AI가 자동으로 빈자리를 채워줍니다.**
+* 전장에는 **최대 40마리의 미니언**이 소환돼요. 혼돈의 전장을 잘 지휘해보세요!
+
+> 🧙‍♀️ _이 조건은 추후 변경될 수 있습니다다._
+
+***
+
+#### 🎁 Reward System
+
+전투에 참가한 위자드님들께는 전투 결과에 따라 보상이 주어집니다.\
+\[[보상 테이블 바로가기](./#undefined-14)]
 
 ***
 
@@ -83,20 +104,30 @@ Let’s freeze the battlefield together!&#x20;
 
 毎晩、アステリカ大陸のあちこちでクラブ同士の熱いバトルが繰り広げられます！
 
-#### 📅 開催時間
+#### 📅 Schedule
 
-🕒 日本時間（KST / UTC+9）：**21:00**
+🕒 KST (UTC+9): **21:00**
 
 > 🧊 _時間になったら「待機ルーム」から入場してください。通常のフロストウォーと同じ手順で参加できますよ！_
 
 ***
 
-#### 🚪 参加条件
+#### 🚪 **参加条件**
 
-* **クラブに所属しているウィザードのみ参加可能**です。
+* **クラブに所属しているウィザードのみ**参加できます。
 * **クラブ単位で自動マッチング**が行われます。
-* **1チーム最大30名まで**参加できます！
-* 人数が足りない場合でも大丈夫。**AIの仲間たちが補充してくれます**よ。
+* **1チーム最大10名**まで参加可能です！
+* 人数が足りない場合は、**AIが自動で補充**してくれます。
+* **最大40体のミニオン**が戦場に登場します。しっかり指揮をとって勝利を掴みましょう！
+
+> 🧙‍♀️ ※この設定は今後変更される場合があります。
+
+***
+
+#### 🎁 **Reward System**
+
+戦闘に参加したウィザードには、結果に応じて報酬が与えられます。\
+［[リワードテーブルショートカット](./#shisutemu)］
 
 ***
 
