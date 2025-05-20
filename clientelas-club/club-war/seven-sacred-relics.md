@@ -32,10 +32,8 @@ Only **seven Relics** exist per server. Those who possess them gain **formidable
 * ✅ Relics can **only be acquired while your club is in War status**
 * ✅ At first, **Relics are dropped by monsters in PK Leverage Zones**
 * ✅ Only **one Relic can drop per player** from monsters
-* ⛔ **Relics cannot be obtained while under a PK Shield**\
-    → System message: _"You cannot acquire a Relic while using a PK Shield."_
-* ⛔ **You cannot activate a PK Shield while holding a Relic**\
-    → System message: _"PK Shield cannot be used while possessing a Relic."_
+* ⛔ **Relics cannot be obtained while under a PK Shield**
+* ⛔ **You cannot activate a PK Shield while holding a Relic**
 
 ***
 
@@ -95,10 +93,8 @@ Defend your honor and claim victory in this relentless war! 🏆
 * ✅ 성배는 **클럽이 ‘전쟁’ 상태일 때만** 획득할 수 있습니다.
 * ✅ **PK 레버리지 존**의 몬스터가 최초로 성배를 드랍합니다.
 * ✅ 몬스터를 처치할 경우, **1인당 1개만 드랍**됩니다.
-* ⛔ **PK 보호막 사용 중일 때는 성배를 획득할 수 없습니다.**\
-    → _“PK 보호막 상태에서는 성배가 드랍되지 않습니다.”_ 라는 시스템 메시지가 출력됩니다.
-* ⛔ **성배를 소유한 상태에서는 PK 보호막을 사용할 수 없습니다.**\
-    → _“성배 소유 중에는 PK 보호막을 사용할 수 없습니다.”_ 라는 시스템 메시지가 출력됩니다.
+* ⛔ **PK 보호막 사용 중일 때는 성배를 획득할 수 없습니다.**
+* ⛔ **성배를 소유한 상태에서는 PK 보호막을 사용할 수 없습니다.**
 
 ***
 
@@ -158,10 +154,8 @@ Defend your honor and claim victory in this relentless war! 🏆
 * ✅ 聖杯は **クラブが「戦争状態」のときのみ** 獲得可能です。
 * ✅ 初回は **PKレバレッジゾーンのモンスター**からドロップします。
 * ✅ モンスターからのドロップは **1人につき1個まで**となっています。
-* ⛔ **PK保護シールドを使用中は聖杯を取得できません。**\
-    → システムメッセージ：「PK保護シールド中は聖杯を取得できません。」
-* ⛔ **聖杯を所持している間はPK保護シールドを使用できません。**\
-    → システムメッセージ：「聖杯所持中はPK保護シールドを使用できません。」
+* ⛔ **PK保護シールドを使用中は聖杯を取得できません。**
+* ⛔ **聖杯を所持している間はPK保護シールドを使用できません。**
 
 ***
 
