@@ -1,7 +1,6 @@
 # Table of contents
 
 * [📙 EXTOCIUM GAME BOOK](README.md)
-  * [📑WHITE PAPER](https://extocium.gitbook.io/extocium/)
 
 ## 🌞 Story
 
@@ -123,6 +122,7 @@
 * [🔴 Level Cap System](system/level-cap-system/README.md)
   * [Skill Level Cap System](system/level-cap-system/skill-level-cap-system.md)
 * [🧑‍🤝‍🧑 Party](system/party.md)
+* [🥩 Abundance and Famine](system/abundance-and-famine.md)
 
 ## 📈 Trade
 
@@ -143,7 +143,7 @@
 
 * [📋 XTO Summary](xto-token/xto-summary/README.md)
   * [📃 Our Mission](xto-token/xto-summary/our-mission.md)
-  * [📝 Protocol Mission](xto-token/xto-summary/protocol-mission.md)
+  * [📝 Exclusive Benefits for Holders](xto-token/xto-summary/exclusive-benefits-for-holders.md)
 * [🤝 XTO Swap Service](xto-token/xto-swap-service/README.md)
   * [1️⃣ Gold -> XTO](xto-token/xto-swap-service/gold-greater-than-xto.md)
   * [2️⃣ XTO -> Gold](xto-token/xto-swap-service/xto-greater-than-gold.md)
@@ -237,3 +237,10 @@
   * [🦊 BNB / Gem Shop](shop/shop/bnb-gem-shop.md)
   * [🔯 XTO Shop](shop/shop/xto-shop.md)
   * [📜 RENTAL](shop/shop/rental.md)
+
+## 🇰🇷 Company\&Team
+
+* [▪️ XTOLAB](company-and-team/xtolab.md)
+* [▪️ Market](company-and-team/market.md)
+* [▪️ Media Links](company-and-team/media-links.md)
+* [▪️ ROADMAP](company-and-team/roadmap.md)
