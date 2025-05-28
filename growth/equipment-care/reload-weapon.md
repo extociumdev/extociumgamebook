@@ -53,7 +53,7 @@ EXTOCIUM의 다양한 스킬 덱 조합을 만들어보려면, 리로드에 관�
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-👉장비를 리로드하려면,  '[로튼힐](../../field-info/rotten-hill/)'에서 '[마법상점](../../field-info/rotten-hill/magic-shop/)'으로 이동 후, '[NPC 바로바토스](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'를 찾아가세요!
+👉장비를 리로드하려면,  '[로튼힐](../../field-info/rotten-hill/)'에서 '[마법상점](../../field-info/rotten-hill/magic-shop/)'으로 이동 후, '[NPC 바르바토스](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'를 찾아가세요!
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
