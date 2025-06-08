@@ -1,5 +1,7 @@
 # 📘 Legend of EXTOCIUM
 
+{% embed url="https://youtu.be/fo569qbc7g8?feature=shared" %}
+
 {% tabs %}
 {% tab title="ENG" %}
 <figure><img src="../.gitbook/assets/Story_001.png" alt=""><figcaption></figcaption></figure>
