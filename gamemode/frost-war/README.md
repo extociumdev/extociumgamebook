@@ -122,6 +122,34 @@ Explore and strategize freely — it’s an open battlefield.
 
 ### 🎁 Reward System
 
+The Frost War rewards consist of the following two categories:
+
+1. **HOT5 Rewards**
+2. **Victory/Defeat Rewards**
+
+If you do not make it into the HOT5, you will only receive the Victory or Defeat rewards.
+
+***
+
+🔥 **HOT5 is determined based on your Battle Score.**
+
+📊 **Battle Score is calculated using the formula below:**
+
+{% hint style="info" %}
+(Gate 1 Contribution × 1.2) +\
+(Gate 2 Contribution × 1.2) +\
+(Capture stone Contribution × 1.5) +\
+(PK Contribution × 1.2)\
+\= Battle Score
+{% endhint %}
+
+🔍 **Each type of contribution is calculated as follows:**
+
+* **Capture Stone Contribution**\
+  → (Damage you dealt to the Capture Stone) ÷ (Total HP of the Capture Stone)
+* **PK Contribution**\
+  → (Your number of successful PKs) ÷ (Total number of PKs by all players in this battle)
+
 #### 🏅 Rank-Based Rewards (Arena Tier)
 
 **■ Arena Emperor**
@@ -227,7 +255,7 @@ New to PvP?\
 **Frost War is the perfect battleground to test the waters.**\
 Simple rules, strategic play, and seriously satisfying wins.
 
-💥 **See you every day at 🕒 UTC: 12:00 in Frost War!**
+💥 **See you every day at 🕒UTC 13:30  in Frost War!**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -327,13 +355,33 @@ Simple rules, strategic play, and seriously satisfying wins.
 
 ### 🎁 보상 시스템
 
-**프로스트워 보상은 HOT5보상 + 승리/패배 보상으로 이루어집니다.**\
-HOT5에 들지 않았다면 승리/패배 보상만 수령하게 됩니다.
+프로스트워의 보상은 다음 두 가지로 구성됩니다.
 
-**HOT5는 전투 스코어로 결정됩니다.**\
-스코어 계산방식 : (게이트1 기여&#xB3C4;_&#x31;.2) + (게이트2 기여&#xB3C4;_&#x31;.2) + (점령석 기여&#xB3C4;_&#x31;.5) + (PK 기여&#xB3C4;_&#x31;.2) = 전투 스코어\
-\*기여도 : 점령석을 예로들면 ( 내가 점령석에 입힌 데미지 / 점령석 HP ) 로 계산됩니다.\
-PK의 경우, ( 나의 PK 성공 횟수 / 이번 전투에서 카운팅된 전체 유저의 PK 횟수 ) 로 계산됩니다.
+1. **HOT5 보상**
+2. **승리/패배 보상**
+
+HOT5에 포함되지 않은 경우, **승리 또는 패배 보상만** 수령할 수 있습니다.
+
+***
+
+🔥 **HOT5는 전투 스코어를 기준으로 선정됩니다.**
+
+📊 **전투 스코어 계산식은 아래와 같습니다.**
+
+{% hint style="info" %}
+(게이트1 기여도 × 1.2) +\
+(게이트2 기여도 × 1.2) +\
+(점령석 기여도 × 1.5) +\
+(PK 기여도 × 1.2)\
+\= 전투 스코어
+{% endhint %}
+
+🔍 **각 기여도는 다음과 같은 방식으로 산정됩니다.**
+
+* **점령석 기여도**\
+  → (내가 점령석에 입힌 데미지) ÷ (점령석의 전체 HP)
+* **PK 기여도**\
+  → (내가 PK에 성공한 횟수) ÷ (이번 전투 전체 유저의 PK 총합)
 
 #### 🏅 등급별 보상 (아레나 랭크 기준)
 
@@ -402,7 +450,7 @@ PK의 경우, ( 나의 PK 성공 횟수 / 이번 전투에서 카운팅된 전�
 **Frost War는 부담 없이 실전 감각을 익힐 수 있는 최고의 전장**입니다.\
 간단한 룰, 짜임새 있는 전투, 그리고 짜릿한 승리의 쾌감까지!
 
-✨ **매일 저녁 9시, Frost War에서 뵙겠습니다 😊**
+✨ **매일 저녁 10시 30분, Frost War에서 뵙겠습니다 😊**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -424,7 +472,7 @@ PK의 경우, ( 나의 PK 성공 횟수 / 이번 전투에서 카운팅된 전�
 #### ⏰ 開催時間
 
 **毎晩**\
-🎯**22:30 KSに自動開始**されます。\
+🎯**22:30 KSTに自動開始**されます。\
 お時間に余裕を持ってロビーへお越しください。
 
 ***
@@ -520,6 +568,34 @@ PK의 경우, ( 나의 PK 성공 횟수 / 이번 전투에서 카운팅된 전�
 
 ### 🎁 報酬システム
 
+フロストウォーの報酬は、以下の2種類で構成されています。
+
+1. **HOT5報酬**
+2. **勝利／敗北報酬**
+
+HOT5に入らなかった場合は、勝利または敗北に応じた報酬のみを受け取ることができます。
+
+***
+
+🔥 **HOT5はバトルスコアによって決定されます。**
+
+📊 **バトルスコアの計算式は以下の通りです：**
+
+{% hint style="info" %}
+（ゲート1の貢献度 × 1.2）＋\
+（ゲート2の貢献度 × 1.2）＋\
+（占領石の貢献度 × 1.5）＋\
+（PKの貢献度 × 1.2）\
+＝ バトルスコア
+{% endhint %}
+
+🔍 **それぞれの貢献度は次のように算出されます：**
+
+* **占領石の貢献度**\
+  →（自分が占領石に与えたダメージ）÷（占領石の総HP）
+* **PKの貢献度**\
+  →（自身のPK成功回数）÷（今回の戦闘で全プレイヤーが記録したPK総数）
+
 #### 🏅 ランク別報酬（アリーナ階級）
 
 **■ アリーナエンペラー**
@@ -611,7 +687,7 @@ PvPが初めての方でもご安心ください。\
 **Frost Warは、実践感覚を気軽に身につけられる絶好の戦場です。**\
 シンプルなルール、緻密な戦闘、そして達成感のある勝利体験をぜひお楽しみください。
 
-✨ **毎晩9時、Frost Warでお会いしましょう！**
+✨ **毎日22時30分、Frost Warでお会いしましょう！**
 {% endtab %}
 {% endtabs %}
 
