@@ -94,6 +94,34 @@ Skills rely on **three** cooldown factors:
 
 * Example: If you set HP potions to **20%**, they’ll auto-use when your HP drops below 20%. Lifesaver!
 
+***
+
+#### 💀 Resurrection System – Death isn’t the end!
+
+Got knocked out in battle? Don’t worry.\
+You can **resurrect instantly** using a **Resurrection Feather**!
+
+* 🪶 Up to 10 uses per day
+* Out of feathers? No problem — you can **revive with Gold!**\
+  (Limited to 10 times per day as well)
+* The more you revive, the more Gold it costs. Use wisely!
+
+📊 Check the table below for Gold cost by revive count:
+
+| Revive Count | Gold Required |
+| :----------: | :-----------: |
+|       1      |    100,000G   |
+|       2      |    200,000G   |
+|       3      |    400,000G   |
+|       4      |    800,000G   |
+|       5      |   1,600,000G  |
+|       6      |   3,200,000G  |
+|       7      |   6,400,000G  |
+|       8      |  12,800,000G  |
+|       9      |  25,600,000G  |
+|      10      |  51,200,000G  |
+|      11      |  102,400,000G |
+
 #### 🎯 Final Tip: Stay Fast, Stay Smart, Stay Alive!
 
 Master these basics, and you’ll be crushing the battlefield in no time. See you in EXTOCIUM! 🚀
@@ -190,6 +218,33 @@ _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 
 * 예시: HP 포션을 **20%**&#xB85C; 설정하면 HP가 20% 이하일 때 자동으로 사용됩니다. 생존 필수!
 
+***
+
+#### 💀 부활 시스템 – 죽음은 끝이 아니다!
+
+전투 중 사망했다면 걱정 마세요.\
+‘부활의 깃털’을 사용하면 **즉시 부활이 가능합니다!**
+
+* 🪶 **하루 최대 10회 사용 가능**
+* 그 이후에는? **골드를 사용해 부활** 가능! (단, 이 또한 **1일 10회 제한**)
+* 부활할수록 소비 골드가 늘어나니, **전략적으로 사용하세요!**
+
+📊 골드 소비량은 부활 횟수에 따라 다르며, 아래 테이블을 참고하세요.
+
+| 부활 횟수 |     필요 골드    |
+| :---: | :----------: |
+|   1   |   100,000G   |
+|   2   |   200,000G   |
+|   3   |   400,000G   |
+|   4   |   800,000G   |
+|   5   |  1,600,000G  |
+|   6   |  3,200,000G  |
+|   7   |  6,400,000G  |
+|   8   |  12,800,000G |
+|   9   |  25,600,000G |
+|   10  |  51,200,000G |
+|   11  | 102,400,000G |
+
 #### 🎯 마지막 팁: 빠르게, 스마트하게, 살아남아라!
 
 이 기본기를 익히면 전장을 장악하는 것은 시간문제! EXTOCIUM에서 만나요! 🚀
@@ -283,6 +338,35 @@ _EXTOCIUMはモバイル機器に最適化されています。_
 <figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 * 例: HPポーションを\*\*20%\*\*に設定すると、HPが20%以下で自動使用。生存率アップ！
+
+***
+
+#### 💀 復活システム – 死んでも終わりじゃない！
+
+戦闘中に倒れてしまいましたか？大丈夫です。\
+\*\*「復活の羽」\*\*を使えば、すぐにその場で復活できます！
+
+* 🪶 1日に最大10回まで使用可能
+* 羽がなくなった後は？ **ゴールドを使って復活**することも可能です！\
+  （こちらも1日最大10回まで）
+* 復活回数が増えるたびに、必要なゴールドも増えていきます。\
+  計画的に使いましょう！
+
+📊 復活回数ごとの必要ゴールドは以下の通りです：
+
+| 復活回数 |    必要ゴールド    |
+| :--: | :----------: |
+|   1  |   100,000G   |
+|   2  |   200,000G   |
+|   3  |   400,000G   |
+|   4  |   800,000G   |
+|   5  |  1,600,000G  |
+|   6  |  3,200,000G  |
+|   7  |  6,400,000G  |
+|   8  |  12,800,000G |
+|   9  |  25,600,000G |
+|  10  |  51,200,000G |
+|  11  | 102,400,000G |
 
 #### 🎯 最後のヒント: 速く、賢く、生き残れ！
 
