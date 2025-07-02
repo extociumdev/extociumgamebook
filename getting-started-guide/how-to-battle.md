@@ -103,7 +103,7 @@ You can **resurrect instantly** using a **Resurrection Feather**!
 
 * 🪶 Up to 10 uses per day
 * Out of feathers? No problem — you can **revive with Gold!**\
-  (Limited to 10 times per day as well)
+  (Limited to 11 times per day)
 * The more you revive, the more Gold it costs. Use wisely!
 
 📊 Check the table below for Gold cost by revive count:
@@ -226,7 +226,7 @@ _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 ‘부활의 깃털’을 사용하면 **즉시 부활이 가능합니다!**
 
 * 🪶 **하루 최대 10회 사용 가능**
-* 그 이후에는? **골드를 사용해 부활** 가능! (단, 이 또한 **1일 10회 제한**)
+* 그 이후에는? **골드를 사용해 부활** 가능! (단, **1일 11회 제한**)
 * 부활할수록 소비 골드가 늘어나니, **전략적으로 사용하세요!**
 
 📊 골드 소비량은 부활 횟수에 따라 다르며, 아래 테이블을 참고하세요.
@@ -348,7 +348,7 @@ _EXTOCIUMはモバイル機器に最適化されています。_
 
 * 🪶 1日に最大10回まで使用可能
 * 羽がなくなった後は？ **ゴールドを使って復活**することも可能です！\
-  （こちらも1日最大10回まで）
+  （こちらも1日最大11回まで）
 * 復活回数が増えるたびに、必要なゴールドも増えていきます。\
   計画的に使いましょう！
 
