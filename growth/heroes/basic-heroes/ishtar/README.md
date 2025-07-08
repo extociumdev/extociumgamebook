@@ -2,7 +2,7 @@
 
 <figure><img src="../../../../.gitbook/assets/Hero_Isutar002.png" alt=""><figcaption></figcaption></figure>
 
-![](../../../../.gitbook/assets/Icon_Property_Light.png)💡[**Compatibility : L**](../../stats/elemental-bonus-damage.md)[**ight**](../../stats/elemental-bonus-damage.md)
+![](../../../../.gitbook/assets/KakaoTalk_20250708_141747757.png)💡[**Compatibility : L**](../../stats/elemental-bonus-damage.md)[**ight**](../../stats/elemental-bonus-damage.md)
 
 {% content-ref url="skill-pool-ishtar.md" %}
 [skill-pool-ishtar.md](skill-pool-ishtar.md)
