@@ -8,9 +8,10 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-Arena matches are held every day at the following times (based on KST):&#x20;
+## ✅ Arena Event Time
 
-\
+Arena matches are held every day at the following times:&#x20;
+
 🕑**UTC :**\
 🎯1st Set: 01:00 / 01:03 / 01:06 / 01:09\
 🎯2nd Set: 13:00 / 13:03 / 13:06 / 13:09\
@@ -22,6 +23,24 @@ Arena matches are held every day at the following times (based on KST):&#x20;
 🕑**KST(UTC+9) :**\
 🎯1st Set: 10:00 / 10:03 / 10:06 / 10:09\
 🎯2nd Set: 22:00 / 22:03 / 22:06 / 22:09
+
+## ✅ Arena Participation Requirements
+
+<table data-header-hidden><thead><tr><th width="168"></th><th align="center"></th></tr></thead><tbody><tr><td><strong>TP</strong></td><td align="center"><strong>Number of entries per day per account</strong></td></tr><tr><td>1000🔺</td><td align="center">4</td></tr></tbody></table>
+
+## ✅ **Basic Rules**
+
+* Each match has a time limit of 2 minutes.
+* You can use **1 food buff** in the Arena.
+* In the Arena, regardless of potion grade, you can use:\
+   • 5 HP Potions\
+   • 5 Summon HP Potions\
+   • 20 MP Potions
+* When a match is made, **1 out of 4 Arena maps** will be randomly selected.
+* From the start of the match, **Damage Score** is accumulated each time you deal damage to your opponent.
+* In the Arena, **MP cost for skills is reduced by 20%.**
+* The match ends when **one of the two players dies.**
+* If neither player is defeated within 2 minutes, **the player with the higher Damage Score wins.**
 
 ## ✅ **Matching Rules**
 
@@ -70,11 +89,31 @@ Arena matches are held every day at the following times (based on KST):&#x20;
 {% endtab %}
 
 {% tab title="日本語" %}
+## ✅ Arena Event Time
+
 アリーナマッチは、以下の時間帯に毎日開催されます（KST基準）：
 
 \
 🎯1セット：10:00 / 10:03 / 10:06 / 10:09\
 🎯2セット：22:00 / 22:03 / 22:06 / 22:09
+
+## ✅ Arena Participation Requirements
+
+<table data-header-hidden><thead><tr><th width="168"></th><th align="center"></th></tr></thead><tbody><tr><td><strong>TP</strong></td><td align="center"><strong>Number of entries per day per account</strong></td></tr><tr><td>1000🔺</td><td align="center">4</td></tr></tbody></table>
+
+## ✅ **基本ルール**
+
+* 各マッチの制限時間は**2分**です。
+* アリーナでは、**1つのフードバフ**を使用できます。
+* ポーションの等級に関係なく、アリーナ内で使用できるポーションは以下の通りです：\
+   • HPポーション ×5\
+   • 召喚獣用HPポーション ×5\
+   • MPポーション ×20
+* 対戦相手がマッチングされると、**4種類のアリーナマップの中から1つ**がランダムで選ばれ、試合が開始されます。
+* アリーナが開始されると、**相手にダメージを与えるたびにダメージスコアが加算**されます。
+* アリーナ内では、**スキル使用時のMP消費量が20％減少**します。
+* 試合は、**どちらか1人が戦闘不能になった時点で終了**します。
+* 2分以内に決着がつかない場合は、**ダメージスコアが高い方が勝者**となります。
 
 ## ✅ **Matching Rules**
 
