@@ -6,26 +6,40 @@ description: This is EXTOCIUM’s game guidebook.
 
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/Git_Hero (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Git_Hero.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src=".gitbook/assets/Git_Craft (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Git_Battle.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
-Game Mode
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/Git_Traning.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
-Quest
+{% column %}
+<figure><img src=".gitbook/assets/Git_Craft.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
-Wallet & Trade
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/Git_wallet.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
-Step Hard
+{% column %}
+<figure><img src=".gitbook/assets/Git_monster.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
-Gold & XTO Swap
+{% columns %}
+{% column %}
 
-Club
+{% endcolumn %}
 
-Field Info
+{% column %}
 
-Shop
+{% endcolumn %}
+{% endcolumns %}
