@@ -9,12 +9,10 @@ coverY: 5.313280794991265
 
 {% embed url="https://youtu.be/9jrZScZoe6A" %}
 
-![](../../../.gitbook/assets/Icon_Property_Fire.png)💡[**Compatibility : F**](../stats/elemental-bonus-damage.md)[**ire**](../stats/elemental-bonus-damage.md)
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Iskandar.png">Git_Hero_Iskandar.png</a></td><td><a href="../">..</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Iskandar_fire.png">Git_Hero_Iskandar_fire.png</a></td><td><a href="../stats/elemental-bonus-damage.md#elemental-bonus-damage-table">#elemental-bonus-damage-table</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="ENG" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Iskandar01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒Iskandar: The Flame of the Throne
 
 Iskandar, seventh in line to the throne of the Kingdom of Asterica, is no ordinary royal. He is the only member of the royal family to resonate with the mystical Extocium, and his magical prowess is unmatched within the palace walls. Rumors even circulate that Aruru, the kingdom’s mightiest warrior, struggled in a duel against him. With his regal appearance and a fierce, burning ambition within, Iskandar is seen by all as the true heir to the throne. The first in line, in contrast, is young and timid, paling in comparison.
@@ -24,8 +22,6 @@ Will he navigate the treacherous currents of court intrigue and claim his rightf
 {% endtab %}
 
 {% tab title="한국어" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Iskandar01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒이스칸달: 왕좌를 향한 불꽃
 
 아스테리카 왕국의 왕족 중 서열 7위에 위치한 이스칸달은 단순한 왕위 계승 후보가 아니다. 그는 왕족 중 유일하게 신비로운 엑스토시움과 반응하는 능력을 지녔으며, 그 마법 능력은 왕궁의 누구도 따라올 수 없을 만큼 뛰어나다. 심지어 왕궁에서 가장 강한 전사로 알려진 아루루조차 그와의 대련에서 고전했다는 소문이 떠돌 정도다. 이스칸달의 외모는 왕좌에 어울리는 위엄을 풍기며, 그의 내면에는 불꽃처럼 뜨거운 투지가 타오르고 있다. 모든 이들이 그를 왕좌의 진정한 주인으로 여길 만큼, 그는 완벽에 가까운 왕족이다.
@@ -35,8 +31,6 @@ Will he navigate the treacherous currents of court intrigue and claim his rightf
 {% endtab %}
 
 {% tab title="日本語" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Iskandar01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒イスカンダル：王座を目指す炎
 
 アステリカ王国の王族で、継承順位7位のイスカンダルは、単なる王位継承者ではありません。彼は王族の中で唯一、神秘的なエクストシウムと共鳴する能力を持ち、その魔法の力は王宮の誰にも匹敵しません。宮廷最強の戦士とされるアルルでさえ、彼との戦いで苦戦したという噂が流れています。イスカンダルの容姿は王座にふさわしい風格を漂わせ、内に秘めた情熱は炎のように燃え盛っています。彼こそが真の王座の主だと誰もが認めるほどです。

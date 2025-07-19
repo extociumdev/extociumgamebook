@@ -9,12 +9,10 @@ coverY: 0
 
 {% embed url="https://youtu.be/F_B69q6YxcI" %}
 
-![](../../../.gitbook/assets/Icon_Property_Water.png)💡[**Compatibility : W**](../stats/elemental-bonus-damage.md)[**ater**](../stats/elemental-bonus-damage.md)
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Tiamat.png">Git_Hero_Tiamat.png</a></td><td><a href="../">..</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Tiamat_water.png">Git_Hero_Tiamat_water.png</a></td><td><a href="../stats/elemental-bonus-damage.md#elemental-bonus-damage-table">#elemental-bonus-damage-table</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="ENG" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Tiamat02.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒Tiamat: The Knight Hunting the Shadow of the Curse
 
 Tiamat stands as a pillar of strength among the Wizard Knights, a master of magic and a mind as sharp as any blade. She has earned the unwavering trust of their leader, Aruru, and her name commands respect throughout the ranks. Yet beneath her composed exterior burns a restless determination, fueled by the enigma of the amethysts unearthed from the Tomb of the Damned.
@@ -27,8 +25,6 @@ The path to the Cursed Tomb is fraught with peril—ancient curses and unseen th
 {% endtab %}
 
 {% tab title="한국어" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Tiamat02.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒티아마트: 저주의 그림자를 쫓는 기사
 
 티아마트는 위자드 기사단의 뛰어난 실력자로, 강력한 마법과 예리한 통찰력을 겸비한 인물이다. 단장 아루루로부터 가장 큰 신임을 받는 그녀는 기사단 내에서도 독보적인 존재감을 자랑한다. 동료들은 그녀의 침착한 판단과 따뜻한 마음에 깊은 신뢰를 보내지만, 최근 그녀의 눈빛엔 깊은 근심이 서려 있다. 바로 저주 받은 무덤에서 발견된 자수정에 얽힌 기묘한 사건 때문이다.
@@ -41,8 +37,6 @@ The path to the Cursed Tomb is fraught with peril—ancient curses and unseen th
 {% endtab %}
 
 {% tab title="日本語" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Tiamat02.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒ティアマト: 呪いの影を追う騎士
 
 ティアマトはウィザード騎士団に所属する優れた実力者であり、魔法の力と鋭い洞察力を併せ持つ存在です。団長アルルから最も深い信頼を寄せられ、仲間たちからもその冷静な判断と温かい心に敬意を払われています。しかし最近、彼女の瞳には拭えぬ憂いが宿っています。その原因は、呪われた墓から発見されたアメジストにまつわる不可解な事件です。

@@ -54,10 +54,10 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="indra/" %}
-[indra](indra/)
+{% content-ref url="indra.md" %}
+[indra.md](indra.md)
 {% endcontent-ref %}
 
-{% content-ref url="nanna/" %}
-[nanna](nanna/)
+{% content-ref url="nanna.md" %}
+[nanna.md](nanna.md)
 {% endcontent-ref %}

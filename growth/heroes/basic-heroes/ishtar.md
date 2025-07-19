@@ -9,12 +9,10 @@ coverY: 143.45868338672102
 
 {% embed url="https://youtu.be/Q3q6QJzN68o" %}
 
-![](../../../.gitbook/assets/KakaoTalk_20250708_141747757.png)💡[**Compatibility : L**](../stats/elemental-bonus-damage.md)[**ight**](../stats/elemental-bonus-damage.md)
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Ishtar.png">Git_Hero_Ishtar.png</a></td><td><a href="../">..</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Ishtar_light.png">Git_Hero_Ishtar_light.png</a></td><td><a href="../stats/elemental-bonus-damage.md#elemental-bonus-damage-table">#elemental-bonus-damage-table</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="ENG" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Ishtar01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒Ishtar: The Radiant Star of Rotten Hill
 
 Ishtar, with her lavender hair cascading like a twilight waterfall and pale blue eyes reminiscent of glacial caverns beneath eternal snow, was born and raised in the dilapidated orphanage of Rotten Hill. Amid the village’s crumbling ruins and bleak desolation, her beauty stood out like a beacon of light, enchanting all who laid eyes on her. Even Elena, her dearest companion, couldn’t help but be awestruck by her ethereal charm.
@@ -25,8 +23,6 @@ Then came the day Parasiel arrived bearing Extocium, unveiling the hidden truth:
 {% endtab %}
 
 {% tab title="한국어" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Ishtar01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒이슈타르: 로튼힐의 빛나는 별
 
 연보라빛으로 찰랑이는 머릿결과 만년설 아래 얼음굴을 가져다놓은 듯한 희푸른 눈동자를 가진 이슈타르는 로튼힐 고아원에서 태어나 자란 소녀다. 황량하고 무너져가는 로튼힐의 풍경 속에서 그녀의 아름다움은 마치 밤하늘의 별처럼 유난히 도드라졌다. 절친한 친구 엘레나조차 이슈타르의 고혹적인 자태에 감탄을 금치 못할 정도였다.
@@ -37,8 +33,6 @@ Then came the day Parasiel arrived bearing Extocium, unveiling the hidden truth:
 {% endtab %}
 
 {% tab title="日本語" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Ishtar01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒イシュタル：ロッテンヒルの輝く星
 
 薄紫色の髪が柔らかく揺れ、万年雪の下に眠る氷窟のような淡い青の瞳を持つイシュタルは、ロッテンヒルの小さな孤児院で生まれ育ちました。朽ち果てたロッテンヒルの寂しい風景の中でも、彼女の美しさはまるで夜空に瞬く星のように際立っていました。最も親しい友であるエレナでさえ、イシュタルの可憐な姿に心を奪われるほどでした。

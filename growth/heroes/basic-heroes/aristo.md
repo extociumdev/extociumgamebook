@@ -9,12 +9,10 @@ coverY: 185.96494248689575
 
 {% embed url="https://youtu.be/cRzLBf312vA" %}
 
-![](../../../.gitbook/assets/Icon_Property_Stone.png)💡[**Compatibility : S**](../stats/elemental-bonus-damage.md)[**tone**](../stats/elemental-bonus-damage.md)
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Aristo.png">Git_Hero_Aristo.png</a></td><td><a href="../">..</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Aristo_stone.png">Git_Hero_Aristo_stone.png</a></td><td><a href="../stats/elemental-bonus-damage.md#elemental-bonus-damage-table">#elemental-bonus-damage-table</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="ENG" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Aristo02.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒Aristo - Guardian of Wisdom and a Soul in Turmoil
 
 Aristo is a distinguished scholar of the Kingdom of Asterica, tasked by the goddess Aruru with overseeing the research of Extocium and its enigmatic ruins. Once the mentor to a young Iskandar, he harbors an unyielding passion for mastering new technologies and passing that knowledge to others. His life has been a beacon of intellectual pursuit, yet a shadow has recently fallen over his heart—a secret burden imposed by King Sargon.
@@ -25,8 +23,6 @@ What troubles him most is the truth he glimpses in Sargon’s eyes. This is no m
 {% endtab %}
 
 {% tab title="한국어" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Aristo02.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒아리스토 - 지식의 수호자와 갈등의 중심
 
 아리스토는 아스테리카 왕국의 저명한 학자로, 여신 아루루의 명을 받아 엑스토시움과 그 신비로운 유적 연구를 총괄하는 막중한 임무를 맡고 있다. 그는 어린 시절 이스칸달의 스승으로서 그를 지도한 인연이 있으며, 새로운 기술을 탐구하고 후학들에게 전수하는 일에 누구보다 열정을 쏟는다. 그의 삶은 지식과 진보를 위한 헌신으로 빛나지만, 최근 그의 마음을 무겁게 짓누르는 고민이 생겼다.
@@ -37,8 +33,6 @@ What troubles him most is the truth he glimpses in Sargon’s eyes. This is no m
 {% endtab %}
 
 {% tab title="日本語" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Aristo02.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒アリスト - 知恵の守護者と内なる葛藤
 
 アリストはアステリカ王国の名高い学者であり、女神アルルの命を受けて、エクストシウムとその神秘的な遺跡の研究を総括している。かつて幼いイスカンダルの師として彼を導いた縁があり、新しい技術を学び、後進に教えることに情熱を傾ける人物だ。彼の人生は知恵と進歩への献身で輝いているが、最近、心を重くする悩みが彼を襲った。
