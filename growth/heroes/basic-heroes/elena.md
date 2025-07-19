@@ -26,12 +26,10 @@ layout:
 
 {% embed url="https://youtu.be/SCtMEv7soqQ" %}
 
-![](../../../.gitbook/assets/KakaoTalk_20250708_141747757_01.png)💡[**Compatibility : Force**](../stats/elemental-bonus-damage.md)
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Elena.png">Git_Hero_Elena.png</a></td><td><a href="../">..</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Elena_force.png">Git_Hero_Elena_force.png</a></td><td><a href="../stats/elemental-bonus-damage.md#elemental-bonus-damage-table">#elemental-bonus-damage-table</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="ENG" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Elena01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒Elena: The Red-Haired Novice&#x20;
 
 Elena, a spirited red-haired girl, grew up in a humble orphanage in Rotten Hill, a remote village at the western edge of the continent. Though lively and bold, she lived in the shadow of her best friend Ishtar, a stunning and powerful mage who seemed to have it all—beauty, strength, and mastery over magic. Elena longed to be like her, but her own abilities fell short.
@@ -42,8 +40,6 @@ Burdened with a staggering debt at such a young age, Elena was given a secret mi
 {% endtab %}
 
 {% tab title="한국어" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Elena01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 #### 📒엘레나: 붉은 머리의 서툰 마법사&#x20;
 
 대륙의 서쪽 끝, 로튼힐의 작은 고아원에서 자란 붉은 머리 소녀 엘레나는 활기찬 성격으로 늘 눈에 띄었다. 그러나 그녀의 마음속에는 친구 이슈타르에 대한 동경과 열등감이 뒤섞여 있었다. 이슈타르는 아름답고 강하며 마법을 자유롭게 다루는 완벽한 존재였지만, 엘레나는 그저 서툰 마법사일 뿐이었다.
@@ -54,8 +50,6 @@ Burdened with a staggering debt at such a young age, Elena was given a secret mi
 {% endtab %}
 
 {% tab title="日本語" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/NT_Elena01.png" alt="" width="136"><figcaption></figcaption></figure></div>
-
 📒エレナ：赤毛の未熟な魔法使い
 
 大陸の西の果て、ロッテンヒルの小さな孤児院で育った赤毛の少女、エレナ。元気で明るい性格の彼女は目立つ存在でしたが、心の中では親友イシュタルへの憧れと劣等感が入り混じっていました。イシュタルは美しく、強く、魔法を自由に操る完璧な存在。エレナはそんな彼女のようになりたいと願っていました。
