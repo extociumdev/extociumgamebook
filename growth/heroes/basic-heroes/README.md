@@ -87,30 +87,30 @@ EXTOCIUMには**7人の基本英雄**が存在します。\
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="elena/" %}
-[elena](elena/)
+{% content-ref url="elena.md" %}
+[elena.md](elena.md)
 {% endcontent-ref %}
 
-{% content-ref url="ishtar/" %}
-[ishtar](ishtar/)
+{% content-ref url="ishtar.md" %}
+[ishtar.md](ishtar.md)
 {% endcontent-ref %}
 
-{% content-ref url="iskandar/" %}
-[iskandar](iskandar/)
+{% content-ref url="iskandar.md" %}
+[iskandar.md](iskandar.md)
 {% endcontent-ref %}
 
-{% content-ref url="tammuz/" %}
-[tammuz](tammuz/)
+{% content-ref url="tammuz.md" %}
+[tammuz.md](tammuz.md)
 {% endcontent-ref %}
 
-{% content-ref url="tiamat/" %}
-[tiamat](tiamat/)
+{% content-ref url="tiamat.md" %}
+[tiamat.md](tiamat.md)
 {% endcontent-ref %}
 
-{% content-ref url="aristo/" %}
-[aristo](aristo/)
+{% content-ref url="aristo.md" %}
+[aristo.md](aristo.md)
 {% endcontent-ref %}
 
-{% content-ref url="aruru/" %}
-[aruru](aruru/)
+{% content-ref url="aruru.md" %}
+[aruru.md](aruru.md)
 {% endcontent-ref %}

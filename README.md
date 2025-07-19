@@ -1,17 +1,5 @@
 ---
 description: This is EXTOCIUM’s game guidebook.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 📙 EXTOCIUM GAME BOOK
