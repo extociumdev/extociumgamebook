@@ -4,8 +4,6 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🌟 Basic Heroes
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Elena.png">Git_Hero_Elena.png</a></td><td><a href="elena.md">elena.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Ishtar.png">Git_Hero_Ishtar.png</a></td><td><a href="ishtar.md">ishtar.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Iskandar.png">Git_Hero_Iskandar.png</a></td><td><a href="iskandar.md">iskandar.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Tammuz.png">Git_Hero_Tammuz.png</a></td><td><a href="tammuz.md">tammuz.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Tiamat.png">Git_Hero_Tiamat.png</a></td><td><a href="tiamat.md">tiamat.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Aristo.png">Git_Hero_Aristo.png</a></td><td><a href="aristo.md">aristo.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Aruru.png">Git_Hero_Aruru.png</a></td><td><a href="aruru.md">aruru.md</a></td></tr></tbody></table>
-
 {% tabs %}
 {% tab title="ENG" %}
 #### 💡 EXTOCIUM’s 7 Heroes
@@ -88,3 +86,5 @@ EXTOCIUMには**7人の基本英雄**が存在します。\
 #### 🔹 各英雄の詳細情報は、以下のリンクから確認できます！
 {% endtab %}
 {% endtabs %}
+
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Elena.png">Git_Hero_Elena.png</a></td><td><a href="elena.md">elena.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Ishtar.png">Git_Hero_Ishtar.png</a></td><td><a href="ishtar.md">ishtar.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Iskandar.png">Git_Hero_Iskandar.png</a></td><td><a href="iskandar.md">iskandar.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Tammuz.png">Git_Hero_Tammuz.png</a></td><td><a href="tammuz.md">tammuz.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Tiamat.png">Git_Hero_Tiamat.png</a></td><td><a href="tiamat.md">tiamat.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Aristo.png">Git_Hero_Aristo.png</a></td><td><a href="aristo.md">aristo.md</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Aruru.png">Git_Hero_Aruru.png</a></td><td><a href="aruru.md">aruru.md</a></td></tr></tbody></table>
