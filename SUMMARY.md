@@ -10,7 +10,7 @@
 
 * [🏹 How to Battle](getting-started-guide/how-to-battle.md)
 * [⚒️ How to Craft](getting-started-guide/how-to-craft.md)
-* [🏋️ How to Traning](getting-started-guide/how-to-traning.md)
+* [🏋️ How to Training](getting-started-guide/how-to-training.md)
 * [🍎 How to Collect](getting-started-guide/how-to-collect.md)
 * [😎 How to Grow Your Hero](getting-started-guide/how-to-grow-your-hero.md)
 * [🦸 Rookie Lock](getting-started-guide/rookie-lock/README.md)

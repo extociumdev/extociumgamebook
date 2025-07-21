@@ -13,9 +13,9 @@ description: 🛑 This information may be updated later than the game server dat
 In the **Club system**, you can **either create your own club or join an existing one** to connect with allies.
 
 {% hint style="info" %}
-🎯 **Club Creation Requirements:** Hero level 20 or higher within the account, accumulated [TP](../../getting-started-guide/how-to-traning.md#id-2-resetting-tp) of 5000 or more&#x20;
+🎯 **Club Creation Requirements:** Hero level 20 or higher within the account, accumulated [TP](../../getting-started-guide/how-to-training.md#id-2-resetting-tp) of 5000 or more&#x20;
 
-🎯 **Club Joining Requirements:** Hero level 15 or higher within the account, accumulated [TP ](../../getting-started-guide/how-to-traning.md#id-2-resetting-tp)of 1000 or more
+🎯 **Club Joining Requirements:** Hero level 15 or higher within the account, accumulated [TP ](../../getting-started-guide/how-to-training.md#id-2-resetting-tp)of 1000 or more
 {% endhint %}
 
 All club-related features can be accessed from the Clientelas Lobby.
@@ -45,9 +45,9 @@ All club-related features can be accessed from the Clientelas Lobby.
 클럽은 **새롭게 창설하거나, 기존 클럽에 가입하여** 함께할 동료를 모을 수 있는 공간입니다.
 
 {% hint style="info" %}
-🎯**클럽 생성 조건 :** 계정 내 영웅 레벨 20이상, 누적 [TP](../../getting-started-guide/how-to-traning.md#id-2-tp) 5000 이상
+🎯**클럽 생성 조건 :** 계정 내 영웅 레벨 20이상, 누적 [TP](../../getting-started-guide/how-to-training.md#id-2-tp) 5000 이상
 
-🎯**클럽 가입 조건 :** 계정 내 영웅 레벨 15이상, 누적 [TP ](../../getting-started-guide/how-to-traning.md#id-2-tp)1000 이상
+🎯**클럽 가입 조건 :** 계정 내 영웅 레벨 15이상, 누적 [TP ](../../getting-started-guide/how-to-training.md#id-2-tp)1000 이상
 {% endhint %}
 
 클럽과 관련된 모든 기능은 클리엔텔라스 로비에서 이용할 수 있습니다.
@@ -77,9 +77,9 @@ All club-related features can be accessed from the Clientelas Lobby.
 **クラブでは、新しくクラブを作成するか、既存のクラブに参加して仲間と繋がることができます。**
 
 {% hint style="info" %}
-🎯クラブ作成条件：アカウント内のヒーローレベル20以上、累積[TP5000](../../getting-started-guide/how-to-traning.md#id-2tpnorisetto)以上&#x20;
+🎯クラブ作成条件：アカウント内のヒーローレベル20以上、累積[TP5000](../../getting-started-guide/how-to-training.md#id-2tpnorisetto)以上&#x20;
 
-🎯クラブ加入条件：アカウント内のヒーローレベル15以上、累積[TP1000](../../getting-started-guide/how-to-traning.md#id-2tpnorisetto)以上
+🎯クラブ加入条件：アカウント内のヒーローレベル15以上、累積[TP1000](../../getting-started-guide/how-to-training.md#id-2tpnorisetto)以上
 {% endhint %}
 
 クラブに関するすべての機能は、クライエンテラスロビーで利用できます。

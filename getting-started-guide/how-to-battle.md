@@ -72,7 +72,7 @@ Skills rely on **three** cooldown factors:
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * Tap the **Auto** button to start auto-hunting.
-* Tap the **gear icon** to fine-tune auto settings (requires [**TP**](how-to-traning.md#eng)).
+* Tap the **gear icon** to fine-tune auto settings (requires [**TP**](how-to-training.md#eng)).
 
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
@@ -194,7 +194,7 @@ _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * **자동** 버튼을 터치하면 자동 사냥이 시작됩니다.
-* **기어 아이콘**을 눌러 자동 설정을 조정하세요 ([**TP**](how-to-traning.md#undefined-1) **필요**).
+* **기어 아이콘**을 눌러 자동 설정을 조정하세요 ([**TP**](how-to-training.md#undefined-1) **필요**).
 
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
@@ -317,7 +317,7 @@ _EXTOCIUMはモバイル機器に最適化されています。_
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * **オート**ボタンを押すと自動狩り開始！
-* **ギアアイコン**で詳細設定可能（[**TP**](how-to-traning.md#ri-ben-yu)**が必要**）。
+* **ギアアイコン**で詳細設定可能（[**TP**](how-to-training.md#ri-ben-yu)**が必要**）。
 
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
