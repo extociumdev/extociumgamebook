@@ -18,13 +18,13 @@ You may unlock the attic by selecting the **\[My Home]** button at this location
 {% hint style="info" %}
 ❓ _Required items for unlocking:_
 
-* **3,000 Gold**
-* **Hammer** ×2
-* **Wood** ×100
-* **Amethyst** ×200
+* 1000 Gold
+* Apples × 40
+* Strawberries × 40
+* Wood × 30
 {% endhint %}
 
-
+<figure><img src="../../.gitbook/assets/mh1.png" alt=""><figcaption></figcaption></figure>
 
 ### 🔥 Inside the Attic
 
@@ -61,13 +61,13 @@ so make the most of your attic to **prepare for an even greater adventure!** �
 {% hint style="info" %}
 ❓ _잠금 해제에 필요한 아이템:_
 
-* **3,000 골드**
-* **망치** ×2
-* **목재** ×100
-* **자수정** ×200
+* 1000 골드
+* 사과 × 40
+* 딸기 × 40
+* 목재 × 30
 {% endhint %}
 
-
+<figure><img src="../../.gitbook/assets/mh1.png" alt=""><figcaption></figcaption></figure>
 
 ### 🔥 **다락방 내부 안내**
 
@@ -104,13 +104,13 @@ so make the most of your attic to **prepare for an even greater adventure!** �
 {% hint style="info" %}
 ❓ _解放に必要なアイテム:_
 
-* **3,000 ゴールド**
-* **ハンマー** ×2
-* **木材** ×100
-* **アメジスト** ×200
+* ゴールド × 1000
+* りんご × 40
+* いちご × 40
+* 木材 × 30
 {% endhint %}
 
-
+<figure><img src="../../.gitbook/assets/mh1.png" alt=""><figcaption></figcaption></figure>
 
 ### 🔥 屋根裏部屋の内部
 

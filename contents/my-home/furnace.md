@@ -1,6 +1,6 @@
 ---
-icon: campfire
 description: 🛑 This information may be updated later than the game server data.
+icon: campfire
 ---
 
 # Furnace
@@ -19,13 +19,11 @@ Then why not utilise the **furnace**? You can find it in **'**[**My Home**](./#e
 {% hint style="info" %}
 ❓ _Materials required for repair:_
 
-* **5,000 Gold**
-* **Wood** ×200
+* **3,000 Gold**
+* **Wood** × 150
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (814).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/mh2.png" alt="" width="429"><figcaption></figcaption></figure>
 
 ### 🔥 Furnace Functions
 
@@ -113,13 +111,11 @@ The furnace allows you to **burn items to obtain 'embers'**, which can then be u
 {% hint style="info" %}
 ❓ _화로 수리에 필요한 재료:_
 
-* **5,000 골드**
-* **목재** ×200
+* **3,000 골드**
+* **목재** × 150
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (814).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/mh2.png" alt="" width="429"><figcaption></figcaption></figure>
 
 ### 🔥 **화로의 기능**
 
@@ -206,13 +202,11 @@ The furnace allows you to **burn items to obtain 'embers'**, which can then be u
 {% hint style="info" %}
 ❓ _修理に必要な素材:_
 
-* **5,000 ゴールド**
-* **木材** ×200
+* **3,000 ゴールド**
+* **木材** × 150
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (814).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/mh2.png" alt="" width="429"><figcaption></figcaption></figure>
 
 ### 🔥 **炉の機能**
 

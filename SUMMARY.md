@@ -190,8 +190,8 @@
 
 * [🏠 Rotten Hill](field-info/rotten-hill/README.md)
   * [😎 NPC - Rotten Hill](field-info/rotten-hill/npc-rotten-hill.md)
-  * [🏹 Gymnasium](field-info/rotten-hill/gymnasium/README.md)
-    * [🐰 Rabbit Rush Waiting Room](field-info/rotten-hill/gymnasium/rabbit-rush-waiting-room.md)
+  * [🏹 The Rooftop Hollow](field-info/rotten-hill/the-rooftop-hollow/README.md)
+    * [🐰 Rabbit Rush Waiting Room](field-info/rotten-hill/the-rooftop-hollow/rabbit-rush-waiting-room.md)
   * [🛡️ Arena Waiting Room](field-info/rotten-hill/arena-waiting-room.md)
   * [🕍 Magic Shop](field-info/rotten-hill/magic-shop/README.md)
     * [😎 NPC - Magic Shop](field-info/rotten-hill/magic-shop/npc-magic-shop.md)

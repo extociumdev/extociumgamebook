@@ -19,11 +19,11 @@ Then **repair your personal safe** and manage your items more efficiently!
 {% hint style="info" %}
 ❓ _Materials required for repair:_
 
-* **50,000 Gold**
-* **Arena Coin** ×20
+* **100,000 Gold**
+* **Arena Coin** × 40
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (887).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mh3.png" alt="" width="443"><figcaption></figcaption></figure>
 
 ### 📦 **How to Use the Personal Safe**
 
@@ -50,11 +50,11 @@ Then **repair your personal safe** and manage your items more efficiently!
 {% hint style="info" %}
 ❓ _개인금고 수리에 필요한 재료:_
 
-* **50,000 골드**
-* **아레나 코인** ×20
+* **100,000 골드**
+* **아레나 코인** × 40
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (887).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mh3.png" alt="" width="443"><figcaption></figcaption></figure>
 
 ### 📦 **개인금고 사용법**
 
@@ -81,11 +81,11 @@ Then **repair your personal safe** and manage your items more efficiently!
 {% hint style="info" %}
 ❓ _修理に必要な素材:_
 
-* **50,000 ゴールド**
-* **アリーナコイン** ×20
+* **100,000 ゴールド**
+* **アリーナコイン** × 40
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (887).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mh3.png" alt="" width="443"><figcaption></figcaption></figure>
 
 ### 📦 **個人金庫の使い方**
 
