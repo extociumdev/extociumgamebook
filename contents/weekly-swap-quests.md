@@ -19,15 +19,15 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 Tap the **Guide button at the top of the main HUD** to access the Weekly Quest menu.
 
-<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
 
 👉 Select the **'Weekly Quest' tab** to open the quest menu.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws1.png" alt=""><figcaption></figcaption></figure>
 
 👉 Once the quest menu is open, the list of Weekly Quests will be displayed.
 
-<figure><img src="../.gitbook/assets/KakaoTalk_20250221_092814256_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 🔓 Completing the Weekly Quest & Swapping XTO
 
@@ -48,15 +48,15 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 **메인 HUD 상단의 가이드 버튼을 터치**하여 주간 퀘스트 메뉴에 접근하세요.
 
-<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
 
 👉 **'주간 퀘스트' 탭을 터치**하면 퀘스트 메뉴가 열립니다.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws1.png" alt=""><figcaption></figcaption></figure>
 
 👉 퀘스트 메뉴가 열리면 **주간 퀘스트 목록이 표시됩니다.**
 
-<figure><img src="../.gitbook/assets/KakaoTalk_20250221_092814256_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 🔓 **주간 퀘스트 완료 & XTO 스왑**
 
@@ -77,15 +77,15 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 **メインHUD上部のガイドボタン** をタップして、週間クエストメニューにアクセスしてください。
 
-<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
 
 👉 **「週間クエスト」タブ** をタップすると、クエストメニューが開きます。
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws1.png" alt=""><figcaption></figcaption></figure>
 
 👉 クエストメニューを開くと、**週間クエストの一覧が表示** されます。
 
-<figure><img src="../.gitbook/assets/KakaoTalk_20250221_092814256_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 🔓 **週間クエストの完了 & XTOスワップ**
 

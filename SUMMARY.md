@@ -12,7 +12,6 @@
 * [⚒️ How to Craft](getting-started-guide/how-to-craft.md)
 * [🏋️ How to Training](getting-started-guide/how-to-training.md)
 * [🍎 How to Collect](getting-started-guide/how-to-collect.md)
-* [😎 How to Grow Your Hero](getting-started-guide/how-to-grow-your-hero.md)
 * [🦸 Rookie Lock](getting-started-guide/rookie-lock/README.md)
   * [🐤 Trial Hero](getting-started-guide/rookie-lock/trial-hero.md)
   * [🎁 Rookie Shopper's Surprises](getting-started-guide/rookie-lock/rookie-shoppers-surprises.md)

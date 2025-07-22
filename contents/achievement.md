@@ -17,25 +17,25 @@ By steadily completing achievements from the beginning of your journey, you can 
 
 👉 Tap the **Guide button at the top of the main HUD** to access the achievements menu.
 
-<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 👉 Select the **'Achievements' tab** to view the list of available achievements.
 
-<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
 ### 🎁 Claiming Achievement Rewards
 
-👉 Once you meet the achievement requirements, the **'Claim' button** will become available.
+👉 Once you meet the achievement requirements, the **'Receive' button** will become available.
 
-<figure><img src="../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
 
 👉 Tap the **'Receive' button** to receive your rewards.
 
-<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 👉 **Rewards can be collected from the 'Mailbox'.**
 
-<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac5.png" alt=""><figcaption></figcaption></figure>
 
 🏆 **Complete achievements and enjoy a variety of rewards!**
 {% endtab %}
@@ -50,25 +50,25 @@ EXTOCIUM에서 **사냥과 PvP를 즐기는 것만으로도** 다양한 업적�
 
 👉 **메인 HUD 상단의 가이드 버튼**을 터치하면 업적 메뉴에 접근할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 👉 **'업적' 탭을 터치**하면 업적 목록이 표시됩니다.
 
-<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
 ### 🎁 **업적 보상 받기**
 
 👉 업적 조건을 충족하면 **'받기' 버튼**이 활성화됩니다.
 
-<figure><img src="../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
 
 👉 **'받기' 버튼을 터치하여 보상을 수령**하세요.
 
-<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 👉 **획득한 보상은 '우편함'에서 확인**할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac5.png" alt=""><figcaption></figcaption></figure>
 
 🏆 **업적을 달성하고 다양한 보상을 받아보세요!**
 {% endtab %}
@@ -83,25 +83,25 @@ EXTOCIUMで**狩猟やPvPを楽しむだけで**、さまざまな業績を達�
 
 👉 **メインHUD上部のガイドボタン** をタップすると、業績メニューにアクセスできます。
 
-<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 👉 **「業績」タブ** をタップすると、業績一覧が表示されます。
 
-<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
 ### 🎁 業績報酬の受け取り
 
 👉 業績条件を達成すると、**「受け取る」ボタン** が有効になります。
 
-<figure><img src="../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
 
 👉 **「受け取る」ボタンをタップして報酬を獲得** してください。
 
-<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 👉 **獲得した報酬は「郵便箱」で確認できます。**
 
-<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac5.png" alt=""><figcaption></figcaption></figure>
 
 🏆 **業績を達成して、さまざまな報酬を手に入れましょう！**
 {% endtab %}
