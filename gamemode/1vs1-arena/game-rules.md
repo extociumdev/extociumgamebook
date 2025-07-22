@@ -44,7 +44,7 @@ Arena matches are held every day at the following times:&#x20;
 
 ## ✅ **Matching Rules**
 
-* [In the Arena waiting room](../../field-info/rotten-hill/arena-waiting-room.md), everyone waiting will be added to the matchmaking pool.&#x20;
+* [In the Arena waiting room](../../field-info/rotten-hill/the-rusty-tankard/arena-waiting-room.md), everyone waiting will be added to the matchmaking pool.&#x20;
 * Within the matchmaking pool, matches are made by league units. If there are no users in the same league as you, players from the league directly above or below may also be included.&#x20;
 * The matching level range is within +- 10 levels.&#x20;
 * <mark style="background-color:red;">The criteria for matching levels is</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**"based on the maximum level of heroes within the participant's own account."**</mark>
@@ -79,7 +79,7 @@ Arena matches are held every day at the following times:&#x20;
 
 ## ✅ **Matching Rules**
 
-* [아레나 대기실](../../field-info/rotten-hill/arena-waiting-room.md)에 대기 중인 인원은 모두 매칭 풀에 등록됩니다.&#x20;
+* [아레나 대기실](../../field-info/rotten-hill/the-rusty-tankard/arena-waiting-room.md)에 대기 중인 인원은 모두 매칭 풀에 등록됩니다.&#x20;
 * 매칭 풀 안에서 리그 단위로 매칭 되며, 나와 동일 리그인 유저가 없을 경우 아래위로 한 단계 리그까지 풀에 포함 시킵니다.&#x20;
 * 이 때 매칭 가능한 레벨 범위는 +- 10 입니다.&#x20;
 * <mark style="background-color:red;">매칭 레벨 기준은</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**"참가자 본인 계정 내 영웅의 최대 레벨을 기준으로 합니다."**</mark>
@@ -117,7 +117,7 @@ Arena matches are held every day at the following times:&#x20;
 
 ## ✅ **Matching Rules**
 
-* [アリーナの待合室](../../field-info/rotten-hill/arena-waiting-room.md)に待機している人数はすべてマッチングプールに登録されます。&#x20;
+* [アリーナの待合室](../../field-info/rotten-hill/the-rusty-tankard/arena-waiting-room.md)に待機している人数はすべてマッチングプールに登録されます。&#x20;
 * マッチングプールの中でリーグ単位でマッチングされ、自分と同一リーグのユーザーがいない場合は上下に1段階リーグまでプールに含めます。&#x20;
 * このときマッチング可能なレベル範囲は+-10です。
 * <mark style="background-color:red;">マッチングレベルの基準は\*\*</mark><mark style="background-color:red;">**「参加者本人のアカウント内で最も高い英雄のレベルを基準にします」**</mark><mark style="background-color:red;">\*\*です。</mark>

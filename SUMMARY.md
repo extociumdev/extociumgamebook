@@ -180,6 +180,7 @@
 * [🍀 Lucky Pass](contents/lucky-pass/README.md)
   * [🪙 Gold Box](contents/lucky-pass/gold-box.md)
 * [🏠 My Home](contents/my-home/README.md)
+  * [🏹 The Rooftop Hollow](contents/my-home/the-rooftop-hollow.md)
   * [Furnace](contents/my-home/furnace.md)
   * [🔐 Personal Safe](contents/my-home/personal-safe.md)
 * [📓 Explorer's Diary](contents/explorers-diary.md)
@@ -189,10 +190,10 @@
 ## 🐪 Field Info
 
 * [🏠 Rotten Hill](field-info/rotten-hill/README.md)
+  * [🍺 The Rusty Tankard](field-info/rotten-hill/the-rusty-tankard/README.md)
+    * [🐰 Rabbit Rush Waiting Room](field-info/rotten-hill/the-rusty-tankard/rabbit-rush-waiting-room.md)
+    * [🛡️ Arena Waiting Room](field-info/rotten-hill/the-rusty-tankard/arena-waiting-room.md)
   * [😎 NPC - Rotten Hill](field-info/rotten-hill/npc-rotten-hill.md)
-  * [🏹 The Rooftop Hollow](field-info/rotten-hill/the-rooftop-hollow/README.md)
-    * [🐰 Rabbit Rush Waiting Room](field-info/rotten-hill/the-rooftop-hollow/rabbit-rush-waiting-room.md)
-  * [🛡️ Arena Waiting Room](field-info/rotten-hill/arena-waiting-room.md)
   * [🕍 Magic Shop](field-info/rotten-hill/magic-shop/README.md)
     * [😎 NPC - Magic Shop](field-info/rotten-hill/magic-shop/npc-magic-shop.md)
     * [🕍 Ashurbanipal Library](field-info/rotten-hill/magic-shop/ashurbanipal-library/README.md)

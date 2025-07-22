@@ -4,6 +4,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🦸 Rookie Lock
 
+<figure><img src="../../.gitbook/assets/KakaoTalk_20250722_143254545.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 💡 ‘Rookie Lock’ System – Essential for New Adventurers!
