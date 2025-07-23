@@ -6,10 +6,10 @@ description: 🛑 This information may be updated later than the game server dat
 
 > ## Sitael - 시타엘 - シタエル
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../clientelas-club/club/" %}
-[club](../../../clientelas-club/club/)
+{% content-ref url="../../../../clientelas-club/club/" %}
+[club](../../../../clientelas-club/club/)
 {% endcontent-ref %}
 
 {% tabs %}
