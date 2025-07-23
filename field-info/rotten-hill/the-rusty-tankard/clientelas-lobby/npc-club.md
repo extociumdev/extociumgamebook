@@ -6,7 +6,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 > ## Sitael - 시타엘 - シタエル
 
-<figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt="" width="250"><figcaption></figcaption></figure>
 
 {% content-ref url="../../../../clientelas-club/club/" %}
 [club](../../../../clientelas-club/club/)
@@ -14,7 +14,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-🎭 **Sitael & The Club System**
+#### 🎭 **Sitael & The Club System**
 
 🔹 **Sitael is the Club Master**, located in **Clientela's**.\
 🔹 **Want to create or join a club? Visit Sitael!**

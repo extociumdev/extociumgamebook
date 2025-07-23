@@ -6,30 +6,31 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 There are two ways to enter the **Rabbit Rush Waiting Room**!
+💡**There are two ways to enter the Rabbit Rush waiting room!**
 
 ### 🐇 How to Enter the Waiting Room
 
-1️⃣ **Enter from the East of the Gymnasium**
+1️⃣ **Via the Rusty Tankard (Southwest Side)**
 
-* Move to the **eastern area of the Gymnasium** to access the Rabbit Rush Waiting Room.
+* Move to the **southwest area** inside _The Rusty Tankard_
+* Enter through the **Rabbit Rush portal**
 
-<figure><img src="../../../.gitbook/assets/image (900).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bb3 (1).png" alt=""><figcaption></figcaption></figure>
 
-2️⃣ **Enter via the Main HUD**
+2️⃣ **Via Main HUD**
 
-* **Click the icon on the left side of the minimap**
+* Click the **icon to the left of the mini-map**
 
 <figure><img src="../../../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
 
-* Press the **Rabbit Rush Waiting Room entry button** in the center.
+* Then click the **Rabbit Rush Waiting Room** button at the top
 
-<figure><img src="../../../.gitbook/assets/image (902).png" alt="" width="245"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/rr1.png" alt=""><figcaption></figcaption></figure>
 
 Once you follow these steps, you will enter the **Rabbit Rush Waiting Room**.
 
 \
-🔗 **For more details about Rabbit Rush, please refer to the link below!**
+🔗 **For more details about Rabbit Rush, check the link below!**
 
 {% content-ref url="../../../gamemode/rabbit-rush/" %}
 [rabbit-rush](../../../gamemode/rabbit-rush/)
@@ -41,21 +42,22 @@ Once you follow these steps, you will enter the **Rabbit Rush Waiting Room**.
 
 ### 🐇 **대기실 입장 방법**
 
-1️⃣ **연무장 동쪽에서 입장**
+1️⃣ **녹슨 술잔(The Rusty Tankard) 남서쪽에서 입장**
 
-* 연무장(Gymnasium) **동쪽 지역으로 이동**하여 Rabbit Rush 대기실로 진입
+* 녹슨 술잔 내부에서 **남서쪽 지역**으로 이동
+* **Rabbit Rush 대기실 포털**을 통해 진입
 
-<figure><img src="../../../.gitbook/assets/image (900).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bb3 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **메인 HUD에서 입장**
 
-* 미니맵 좌측 아이콘 클릭
+* 화면 **미니맵 좌측 아이콘 클릭**
 
 <figure><img src="../../../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
 
-* 중앙에 있는 **Rabbit Rush 대기실 입장 버튼** 클릭
+* 상단 메뉴에서 **Rabbit Rush 대기실 입장 버튼** 클릭
 
-<figure><img src="../../../.gitbook/assets/image (902).png" alt="" width="245"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/rr1.png" alt=""><figcaption></figcaption></figure>
 
 이렇게 하면 **Rabbit Rush 대기실로 입장**할 수 있습니다.
 
@@ -68,25 +70,26 @@ Once you follow these steps, you will enter the **Rabbit Rush Waiting Room**.
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **ラビットラッシュ待機室への入室方法は2つあります！**
+💡 Rabbit Rushの待機室へ入る方法は2つあります！
 
-### 🐇 待機室への入室方法
+### 🐇 入場方法
 
-1️⃣ **演武場の東側から入室**
+1️⃣ **The Rusty Tankard（酒場）の南西側から入場**
 
-* **演武場の東側エリアへ移動**し、ラビットラッシュ待機室へ進んでください。
+* _The Rusty Tankar&#x64;_&#x5185;の**南西エリア**へ移動
+* **Rabbit Rush待機室ポータル**から入場
 
-<figure><img src="../../../.gitbook/assets/image (900).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bb3 (1).png" alt=""><figcaption></figcaption></figure>
 
-2️⃣ **メインHUDから入室**
+2️⃣ メインHUDから入場
 
-* **ミニマップ左側のアイコンをクリック**
+* 画面右上の**ミニマップ左側のアイコン**をクリック
 
 <figure><img src="../../../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
 
-* **中央の「ラビットラッシュ待機室入室ボタン」**&#x3092;押してください。
+* 上部メニューの「Rabbit Rush 待機室」ボタンを選択**中央の「ラビットラッシュ待機室入室ボタン」**&#x3092;押してください。
 
-<figure><img src="../../../.gitbook/assets/image (902).png" alt="" width="245"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/rr1.png" alt=""><figcaption></figcaption></figure>
 
 これで**ラビットラッシュ待機室へ入室**できます。
 
@@ -101,8 +104,3 @@ Once you follow these steps, you will enter the **Rabbit Rush Waiting Room**.
 
 
 
-<figure><img src="../../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
