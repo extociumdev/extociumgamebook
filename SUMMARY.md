@@ -195,7 +195,7 @@
   * [🍷 Clientelas Lobby](field-info/rotten-hill/clientelas-lobby.md)
   * [🛡️ Arena Waiting Room](field-info/rotten-hill/arena-waiting-room.md)
   * [😎 NPC - Rotten Hill](field-info/rotten-hill/npc-rotten-hill.md)
-  * [😎 NPC - Club](field-info/rotten-hill/npc-club.md)
+  * [😎 NPC - Clientelas](field-info/rotten-hill/npc-clientelas.md)
   * [🕍 Magic Shop](field-info/rotten-hill/magic-shop/README.md)
     * [😎 NPC - Magic Shop](field-info/rotten-hill/magic-shop/npc-magic-shop.md)
     * [🕍 Ashurbanipal Library](field-info/rotten-hill/magic-shop/ashurbanipal-library/README.md)

@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🥇 Medal
 
-<figure><img src="../../.gitbook/assets/Icon_GuildTrophy.png" alt=""><figcaption><p>Medal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Icon_GuildTrophy (1).png" alt=""><figcaption><p>Medal</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

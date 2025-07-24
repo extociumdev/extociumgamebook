@@ -22,7 +22,7 @@ You can either create your own club or join one created by someone else.
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-👉Speak to '[NPC Sitael](../../field-info/rotten-hill/npc-club.md)' in the club lobby.
+👉Speak to '[NPC Sitael](../../field-info/rotten-hill/npc-clientelas.md)' in the club lobby.
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ In the club room, there is 'NPC Mahashia' who can be used for '[Club Management]
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-👉클럽 로비에 있는 '[NPC 시타엘](../../field-info/rotten-hill/npc-club.md)' 에게 말을 걸어보세요.
+👉클럽 로비에 있는 '[NPC 시타엘](../../field-info/rotten-hill/npc-clientelas.md)' 에게 말을 걸어보세요.
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
@@ -114,7 +114,7 @@ In the club room, there is 'NPC Mahashia' who can be used for '[Club Management]
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-👉クラブロビーにいる「[NPCシタエル](../../field-info/rotten-hill/npc-club.md)」に話しかけてみてください。
+👉クラブロビーにいる「[NPCシタエル](../../field-info/rotten-hill/npc-clientelas.md)」に話しかけてみてください。
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
