@@ -20,7 +20,7 @@ In the **Club system**, you can **either create your own club or join an existin
 
 All club-related features can be accessed from the Clientelas Lobby.
 
-<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl1.png" alt=""><figcaption></figcaption></figure>
 
 👉 **Tap the "Clientelas" button at the top of the main HUD to enter the Club Lobby.**
 
@@ -28,7 +28,7 @@ All club-related features can be accessed from the Clientelas Lobby.
 ❓ You cannot move to the Clientelas Lobby while in combat, PK zones, or dungeons.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl2.png" alt=""><figcaption></figcaption></figure>
 
 👉 **In the Club Lobby, you can:**
 
@@ -52,7 +52,7 @@ All club-related features can be accessed from the Clientelas Lobby.
 
 클럽과 관련된 모든 기능은 클리엔텔라스 로비에서 이용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl1.png" alt=""><figcaption></figcaption></figure>
 
 👉 **메인 HUD 상단의 "Clientelas" 버튼을 터치하여 클럽 로비로 입장하세요.**
 
@@ -60,7 +60,7 @@ All club-related features can be accessed from the Clientelas Lobby.
 ❓전투 중이거나 PK지역 및 던전에 있는 경우, 클리엔텔라스 로비로의 이동이 제한됩니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl2.png" alt=""><figcaption></figcaption></figure>
 
 👉 **클럽 로비에서는 다음과 같은 기능을 이용할 수 있습니다.**
 
@@ -84,7 +84,7 @@ All club-related features can be accessed from the Clientelas Lobby.
 
 クラブに関するすべての機能は、クライエンテラスロビーで利用できます。
 
-<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl1.png" alt=""><figcaption></figcaption></figure>
 
 👉 **メインHUD上部の「Clientelas」ボタンをタップして、クラブロビーに入場しましょう。**
 
@@ -92,7 +92,7 @@ All club-related features can be accessed from the Clientelas Lobby.
 ❓ 戦闘中、PKエリア、またはダンジョン内ではクライエンテラスロビーへ移動できません。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl2.png" alt=""><figcaption></figcaption></figure>
 
 👉 **クラブロビーでは以下の機能が利用できます。**
 

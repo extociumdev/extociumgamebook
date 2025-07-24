@@ -190,12 +190,12 @@
 ## 🐪 Field Info
 
 * [🏠 Rotten Hill](field-info/rotten-hill/README.md)
-  * [🍺 The Rusty Tankard](field-info/rotten-hill/the-rusty-tankard/README.md)
-    * [🐰 Rabbit Rush Waiting Room](field-info/rotten-hill/the-rusty-tankard/rabbit-rush-waiting-room.md)
-    * [🍷 Clientelas Lobby](field-info/rotten-hill/the-rusty-tankard/clientelas-lobby/README.md)
-      * [😎 NPC - Club](field-info/rotten-hill/the-rusty-tankard/clientelas-lobby/npc-club.md)
+  * [🍺 The Rusty Tankard](field-info/rotten-hill/the-rusty-tankard.md)
+  * [🐰 Rabbit Rush Waiting Room](field-info/rotten-hill/rabbit-rush-waiting-room.md)
+  * [🍷 Clientelas Lobby](field-info/rotten-hill/clientelas-lobby.md)
   * [🛡️ Arena Waiting Room](field-info/rotten-hill/arena-waiting-room.md)
   * [😎 NPC - Rotten Hill](field-info/rotten-hill/npc-rotten-hill.md)
+  * [😎 NPC - Club](field-info/rotten-hill/npc-club.md)
   * [🕍 Magic Shop](field-info/rotten-hill/magic-shop/README.md)
     * [😎 NPC - Magic Shop](field-info/rotten-hill/magic-shop/npc-magic-shop.md)
     * [🕍 Ashurbanipal Library](field-info/rotten-hill/magic-shop/ashurbanipal-library/README.md)
