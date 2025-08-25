@@ -222,6 +222,7 @@
   * [🦊 BNB / Gem Shop](shop/shop/bnb-gem-shop.md)
   * [🔯 XTO Shop](shop/shop/xto-shop.md)
   * [📜 RENTAL](shop/shop/rental.md)
+  * [😎 Skin info](shop/shop/skin-info.md)
 
 ## 🇰🇷 Company\&Team
 
