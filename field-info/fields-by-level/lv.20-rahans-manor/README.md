@@ -26,6 +26,8 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 >
 > 🕓**Spawn Time (UTC)** : 16:10 / 18:20 / 21:30 / 02:50 / 08:10 / 10:00 / 11:00
 >
+> **🕓Spawn Time (PHT) :** 00:10 / 02:20 / 05:30 / 10:50 / 16:10 / 18:00 / 19:00
+>
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Crystal of wrath, Freshly caught octopus, Extocium Fragment etc…
 
 🍀**Recipe  Drop Information:**

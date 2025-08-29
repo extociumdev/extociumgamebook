@@ -24,6 +24,8 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 >
 > 🕓**Spawn Time (UTC)** : 16:00 / 18:10 / 21:20 / 02:40 / 08:00 / 09:50 / 10:50
 >
+> **🕓Spawn Time (PHT)** : 00:00 / 02:10 / 05:20 / 10:40 / 16:00 / 17:50 / 18:50
+>
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Poison crystal, Monster mushroom, Extocium Fragment etc…
 
 🍀**Recipe  Drop Information:**

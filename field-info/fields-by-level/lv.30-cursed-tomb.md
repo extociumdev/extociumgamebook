@@ -24,6 +24,8 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 >
 > 🕓**Spawn Time (UTC)** : 16:20 / 18:30 / 21:40 / 03:00 / 08:20 / 10:10 / 11:10
 >
+> **🕓Spawn Time (PHT) :** 00:20 / 02:30 / 05:40 / 11:00 / 16:20 / 18:10 / 19:10
+>
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Curse crystal, Cursed medicine, Extocium etc…
 
 🍀**Recipe  Drop Information:**

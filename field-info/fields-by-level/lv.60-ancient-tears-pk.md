@@ -24,7 +24,9 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 
 > 😈**Field Raid :** Lv.60 Leviathan (WATER)
 >
-> 🕓**Spawn Time (UTC)** : 15:20 / 05:20 / 10:50
+> 🕓**Spawn Time (UTC) :** 15:20 / 05:20 / 10:50
+>
+> **🕓Spawn Time (PHT) :** 23:20 / 13:20 / 18:50
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Hell Crystal, Leviathan Meat, Extocium etc…
 

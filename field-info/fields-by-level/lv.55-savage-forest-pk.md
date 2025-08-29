@@ -24,7 +24,9 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 
 > 😈**Field Raid :** Lv.55 Black Lizard (Force)
 >
-> 🕓**Spawn Time (UTC)** : 14:30 / 05:10 / 10:40
+> 🕓**Spawn Time (UTC) :** 14:30 / 05:10 / 10:40
+>
+> **🕓Spawn Time (PHT) :** 22:30 / 13:10 / 18:40
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Primordial Crystal, Spicy pepper, Extocium etc…
 

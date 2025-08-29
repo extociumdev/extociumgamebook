@@ -22,7 +22,9 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 
 > 😈**Field Raid :** Lv.40 Humbaba (Stone)
 >
-> 🕓**Spawn Time (UTC)** : 16:30 / 18:40 / 21:50 / 03:10 / 08:30 / 10:10 / 11:15
+> 🕓**Spawn Time (UTC) :** 16:30 / 18:40 / 21:50 / 03:10 / 08:30 / 10:10 / 11:15
+>
+> **🕓Spawn Time (PHT) :** 00:30 / 02:40 / 05:50 / 11:10 / 16:30 / 18:10 / 19:15
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Rock crystal, Humbaba’s rice balls, Extocium etc…
 

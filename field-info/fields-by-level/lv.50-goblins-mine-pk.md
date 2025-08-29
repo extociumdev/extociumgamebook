@@ -24,7 +24,9 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 
 > 😈**Field Raid :** Lv.50 Ancient Goblin (Fire) / Lv.50 Ancient Goblin Minions (Water)
 >
-> 🕓**Spawn Time (UTC)** : 14:20 / 19:00 / 00:00 / 05:00 / 10:40
+> 🕓**Spawn Time (UTC) :** 14:20 / 19:00 / 00:00 / 05:00 / 10:40
+>
+> **🕓Spawn Time (PHT) :** 22:20 / 03:00 / 08:00 / 13:00 / 18:40
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Wealth crystal, Lobster, Extocium etc…
 
