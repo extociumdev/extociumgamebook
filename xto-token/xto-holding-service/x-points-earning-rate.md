@@ -40,10 +40,9 @@ XTO 티켓을 구매하여 더 많은 X 포인트를 얻고, XTO 홀딩 캡 없�
 | Gem Usage                                                              | 110            | 1            |
 | BNB Usage                                                              | 0.00141        | 1            |
 | XTO Usage                                                              | 120            | 1            |
-| Gold Usage                                                             | 500,000        | 1            |
 
 {% hint style="info" %}
-**💡Guide to GEM/ XTO/ Gold/ BNB Usage**\
+**💡Guide to GEM/ XTO/ BNB Usage**\
 Points are awarded based on purchases made in the in-game SHOP.\
 Please refer to this when using your points!
 {% endhint %}
