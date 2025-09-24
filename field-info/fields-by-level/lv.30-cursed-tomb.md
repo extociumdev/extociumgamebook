@@ -10,7 +10,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-📒The Cursed Tomb stands as a grim scar etched into the dark history of the Asterica Kingdom. It marks the spot where Sargon, in his ruthless conquest, brought the Kingdom of Umma to its knees and built Asterica upon its ashes. Here, Lugal, the fallen king of Umma, met his end, hanged by the neck in a brutal execution. But his death was only the beginning. Buried alongside him in this tomb were his entire family, his loyal retainers, and even his servants—all sacrificed alive in a macabre ritual of burial. The anguished screams of hundreds soaked into the earth, birthing a curse so potent that the spirits of the dead remain trapped, unable to cross into the afterlife, haunting and harming any who dare approach.
+📒The Cursed Tomb is a tragic remnant deeply embedded in the dark history of the Asterica Kingdom. Long ago, when Sargon mercilessly destroyed the Umma Kingdom and built the Asterica Kingdom upon its ashes, this place became the site where the defeated King Lugal of Umma was beheaded and executed. Lugal's death was not the end. His tomb became a mass grave, where his family, loyal retainers, and even servants were buried alive with him. The screams and wails of hundreds soaked the land, sowing the seeds of a terrible curse. The power of this curse is said to be so strong that the spirits are unable to pass on, trapped here, tormenting the living.
 
 Legend whispers that Lugal lingers here, bound by the unbearable betrayal of Sargon, his once-trusted vassal. His unresolved grudge seeps into the cold winds that sweep the tomb, carrying faint sobs that chill the blood of those who hear them in the night. The area is alive with eerie inhabitants: foxes let out sharp, warning cries; wolves growl from the shadows, their eyes glinting with menace; crows perch on gnarled branches, cawing ominous tales of the departed. Mutated elk, warped by the curse, roam with twisted antlers and blood-red eyes, casting hulking silhouettes. Scavengers skulk through the ruins, picking at the remnants of death.
 
@@ -34,11 +34,11 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 {% endtab %}
 
 {% tab title="한국어" %}
-📒저주받은 무덤은 아스테리카 왕국의 어두운 역사 속에 깊이 박힌 비극의 흔적이다. 오래전, 사르곤이 움마 왕국을 무참히 멸망시키고 그 잿더미 위에 아스테리카 왕국을 세울 때, 이곳은 패배한 움마의 왕 루갈이 목을 매어 생을 마감한 처형의 장소였다. 루갈의 죽음은 끝이 아니었다. 그의 무덤에는 왕의 가족, 충직한 신하들, 그리고 하인들까지 모두 산 채로 순장되어 함께 묻혔다. 수백 명의 비명과 울부짖음이 대지를 적시며 끔찍한 저주의 씨앗이 뿌려졌다. 그 저주의 힘은 너무 강렬해서, 망령들이 저승으로 떠나지 못하고 이곳에 갇혀 떠돌며 살아 있는 자들을 괴롭힌다고 전해진다.
+📒저주받은 무덤은 아스테리카 왕국의 어두운 역사 속에 깊이 박힌 비극의 흔적이다. 오래전, 사르곤이 움마 왕국을 무참히 멸망시키고 그 잿더미 위에 아스테리카 왕국을 세울 때, 이곳은 패배한 움마의 왕 루갈의 목을 베어 처형한 장소였다. 루갈의 죽음은 끝이 아니었다. 그의 무덤에는 왕의 가족, 충직한 신하들, 그리고 하인들까지 모두 산 채로 순장되어 함께 묻혔다. 수백 명의 비명과 울부짖음이 대지를 적시며 끔찍한 저주의 씨앗이 뿌려졌다. 그 저주의 힘은 너무 강렬해서, 망령들이 저승으로 떠나지 못하고 이곳에 갇혀 떠돌며 살아 있는 자들을 괴롭힌다고 전해진다.
 
 소문에 따르면, 루갈은 가장 아꼈던 신하 사르곤에게 배신당한 억울함을 풀지 못해 이승을 떠나지 못하고 있다. 그의 원한은 무덤 주변을 떠도는 차가운 바람 속에 스며들어, 밤이면 들려오는 흐느낌과 같은 소리로 사람들의 간담을 서늘하게 한다. 이곳에는 여우가 날카로운 울음소리로 경고를 보내고, 늑대가 어둠 속에서 으르렁거리며 침입자를 노려본다. 까마귀는 나뭇가지 위에서 불길한 소리를 내며 망자의 이야기를 속삭이고, 변이된 엘크는 저주의 힘에 뒤틀린 거대한 뿔과 붉은 눈으로 위협적인 그림자를 드리운다. 스캐빈저는 폐허 사이를 기어다니며 죽음의 잔재를 뒤지곤 한다.
 
-원래 이 지역은 자수정 광석이 풍부한 보물창고로 유명했으나, 처형 사건 이후 모든 것이 변했다. 저주받은 무덤에서 채굴된 자수정은 아름다운 보랏빛 속에 강력한 저주의 기운을 품고 있어, 이를 손에 쥔 자는 불행과 광기에 시달린다고 한다. 모험가들은 보물을 노리고 이곳을 찾지만, 루갈의 망령과 그를 따르는 원혼들의 분노를 마주하며 공포 속에 발걸음을 돌리곤 한다. 저주받은 무덤은 과거의 비극과 억울함이 얽힌 채, 여전히 살아 숨 쉬는 듯한 금단의 땅이다.
+원래 이 지역은 자수정 광석이 풍부한 보물 창고로 유명했으나, 처형 사건 이후 모든 것이 변했다. 저주받은 무덤에서 채굴된 자수정은 아름다운 보랏빛 속에 강력한 저주의 기운을 품고 있어, 이를 손에 쥔 자는 불행과 광기에 시달린다고 한다. 모험가들은 보물을 노리고 이곳을 찾지만, 루갈의 망령과 그를 따르는 원혼들의 분노를 마주하며 공포 속에 발걸음을 돌리곤 한다. 저주 받은 무덤은 과거의 비극과 억울함이 얽힌 채, 여전히 살아 숨 쉬는 듯한 금단의 땅이다.
 
 <table><thead><tr><th width="87">레벨</th><th>몬스터</th><th>드랍1</th><th>드랍2</th><th>드랍3</th><th>드랍4</th></tr></thead><tbody><tr><td>21</td><td>여우<br>(FIRE)</td><td>털뭉치</td><td>–</td><td>가죽</td><td>-</td></tr><tr><td>24</td><td>늑대<br>(FORCE)</td><td>마력구슬</td><td>가죽</td><td>-</td><td>보석조각</td></tr><tr><td>26</td><td>까마귀<br>(DARK)</td><td>축복의 가루</td><td>고무</td><td>젤리</td><td>단단한 뼈</td></tr><tr><td>28</td><td>변이된 엘크<br>(DARK)</td><td>-</td><td>나무껍질</td><td>고철조각</td><td>마력구슬</td></tr><tr><td>30</td><td>스캐빈저<br>(STONE)</td><td>고철조각</td><td>부싯돌</td><td>고무</td><td>도마뱀 꼬리</td></tr></tbody></table>
 
@@ -56,7 +56,7 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 {% endtab %}
 
 {% tab title="日本語" %}
-📒呪われた墓は、アステリカ王国に刻まれた暗い歴史の傷跡です。かつてサルゴンがウムマ王国を滅ぼし、その灰の上にアステリカ王国を築いた時、ここはウムマの王ルガルが首を吊られて命を落とした処刑場でした。でも、ルガルの死は終わりじゃなかった。彼の墓には家族や忠実な家臣、召使いたちまでもが生きたまま埋められ、共に葬られたんです。数百もの叫び声と嘆きが大地に染み込み、恐ろしい呪いの力を生み出しました。その呪いはあまりにも強く、亡魂たちはあの世へ旅立てず、この場所に縛られたまま彷徨い、生きる者を苦しめると言われています。
+📒呪われた墓は、アステリカ王国の暗い歴史に深く刻まれた悲劇の痕跡である. 遠い昔、サルゴンがウンマ王国を容赦なく滅ぼし、その廃墟の上にアステリカ王国を築いたとき、この場所は敗北したウンマ王のルガルが首を刎ねられ処刑された場所であった. ルガルの死は終わりではなかった. 彼の墓には、王の家族、忠実な家臣、そして使用人たちまでもが生きたまま殉葬され、一緒に埋葬された. 数百人の悲鳴と泣き声が大地を濡らし、恐ろしい呪いの種がまかれた. その呪いの力はあまりにも強く、亡霊たちはあの世へ旅立つことができず、この地に囚われ、生者を苦しめていると伝えられている.
 
 噂では、ルガルが最も信頼していた家臣サルゴンに裏切られた悔しさから、この世を去れずにいるのだとか。彼の恨みは墓の周りを吹く冷たい風に溶け込み、夜になると聞こえるすすり泣きのような音で訪れる者を震え上がらせます。この場所には不気味な住人たちがいます。キツネは鋭い声で警告を発し、オオカミは闇の中から唸り声を上げて侵入者を睨みます。カラスは枯れ枝の上で不吉な鳴き声を響かせ、亡者の物語をつぶやいているよう。呪いで変形したエルクは歪んだ角と赤い目を持ち、巨大な影を投げかけてきます。スカベンジャーは廃墟の間を這い回り、死の残骸をついばんでいます。
 
