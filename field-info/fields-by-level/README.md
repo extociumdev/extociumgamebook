@@ -37,14 +37,14 @@ Initially, you must manually move your character and travel through portals to u
 [lv.40-temple-of-agade.md](lv.40-temple-of-agade.md)
 {% endcontent-ref %}
 
-{% content-ref url="lv.50-goblins-mine-pk.md" %}
-[lv.50-goblins-mine-pk.md](lv.50-goblins-mine-pk.md)
+{% content-ref url="lv.45-goblins-mine-pk.md" %}
+[lv.45-goblins-mine-pk.md](lv.45-goblins-mine-pk.md)
 {% endcontent-ref %}
 
-{% content-ref url="lv.55-savage-forest-pk.md" %}
-[lv.55-savage-forest-pk.md](lv.55-savage-forest-pk.md)
+{% content-ref url="lv.50-savage-forest-pk.md" %}
+[lv.50-savage-forest-pk.md](lv.50-savage-forest-pk.md)
 {% endcontent-ref %}
 
-{% content-ref url="lv.60-ancient-tears-pk.md" %}
-[lv.60-ancient-tears-pk.md](lv.60-ancient-tears-pk.md)
+{% content-ref url="lv.55-ancient-tears-pk.md" %}
+[lv.55-ancient-tears-pk.md](lv.55-ancient-tears-pk.md)
 {% endcontent-ref %}

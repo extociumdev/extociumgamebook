@@ -211,9 +211,10 @@
       * [🏺 \~Lv.50 Samgata](field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/lv.50-samgata.md)
   * [🏔️ \~Lv.30 Cursed Tomb](field-info/fields-by-level/lv.30-cursed-tomb.md)
   * [🏔️ \~Lv.40 Temple of Agade](field-info/fields-by-level/lv.40-temple-of-agade.md)
-  * [🌋 \~Lv.50 Goblin's Mine (PK)](field-info/fields-by-level/lv.50-goblins-mine-pk.md)
-  * [🌋 \~Lv.55 Savage Forest (PK)](field-info/fields-by-level/lv.55-savage-forest-pk.md)
-  * [🌋 \~Lv.60 Ancient Tears (PK)](field-info/fields-by-level/lv.60-ancient-tears-pk.md)
+  * [🌋 \~Lv.45 Goblin's Mine (PK)](field-info/fields-by-level/lv.45-goblins-mine-pk.md)
+  * [🌋 \~Lv.50 Savage Forest (PK)](field-info/fields-by-level/lv.50-savage-forest-pk.md)
+  * [🌋 \~Lv.55 Ancient Tears (PK)](field-info/fields-by-level/lv.55-ancient-tears-pk.md)
+  * [🌋 \~Lv.59 Sargon Garrison (PK)](field-info/fields-by-level/lv.59-sargon-garrison-pk.md)
 
 ## 💰 Shop
 
