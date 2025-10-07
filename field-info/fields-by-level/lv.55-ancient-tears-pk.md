@@ -56,7 +56,7 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 
 **🍀레시피 드랍 정보:**
 
-<table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>버블</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>그린 샤리트</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>레드 샤리트</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>그린 지즈</td><td>빛의 검 제작서</td><td>-</td></tr><tr><td>레드 지즈</td><td>빛의 검 제작서</td><td>-</td></tr><tr><td>변이된 버블</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>불타는 레드 지즈</td><td>빛의 검 제작서</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>버블</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>그린 샤리트</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>레드 샤리트</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>그린 지즈</td><td>빛의 검 제작서</td><td>샤리트의 성운 발톱 레시피</td></tr><tr><td>레드 지즈</td><td>빛의 검 제작서</td><td>혼의 별조각 레시피</td></tr><tr><td>변이된 버블</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>불타는 레드 지즈</td><td>빛의 검 제작서</td><td>-</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -80,6 +80,6 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 
 🍀**レシピドロップ情報:**
 
-<table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>バブル</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>グリーンシャリット</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>レッド·シャリット</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>グリーン·ジーズ</td><td>光の剣の製造書</td><td>-</td></tr><tr><td>レッド·ジーズ</td><td>光の剣の製造書</td><td>-</td></tr><tr><td>変異バブル</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>燃えるレッドジズ</td><td>光の剣の製造書</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>バブル</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>グリーンシャリット</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>レッド·シャリット</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>グリーン·ジーズ</td><td>光の剣の製造書</td><td>シャリトの星雲の爪のレシピ</td></tr><tr><td>レッド·ジーズ</td><td>光の剣の製造書</td><td>魂の星の欠片のレシピ</td></tr><tr><td>変異バブル</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>燃えるレッドジズ</td><td>光の剣の製造書</td><td>-</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
