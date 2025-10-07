@@ -62,7 +62,59 @@ Use them at [**NPC Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#h
 
 {% tabs %}
 {% tab title="ENG" %}
-<table><thead><tr><th width="285">Item</th><th width="134" align="center">Amount</th><th align="center">Prob</th></tr></thead><tbody><tr><td>Ancient arena seal</td><td align="center">1</td><td align="center">6.000%</td></tr><tr><td>Crystal of destruction</td><td align="center">2</td><td align="center">1.000%</td></tr><tr><td>Crystal of courage</td><td align="center">2</td><td align="center">1.000%</td></tr><tr><td>Mystic stone</td><td align="center">1</td><td align="center">0.100%</td></tr><tr><td>Lucky core</td><td align="center">1</td><td align="center">4.500%</td></tr><tr><td>Extocium</td><td align="center">1</td><td align="center">2.000%</td></tr><tr><td>Arena Coin</td><td align="center">1</td><td align="center">5.000%</td></tr><tr><td>Arena seal</td><td align="center">1</td><td align="center">5.000%</td></tr><tr><td>Pen of Oblivion</td><td align="center">1</td><td align="center">8.000%</td></tr><tr><td>Corn</td><td align="center">2</td><td align="center">4.200%</td></tr><tr><td>Gold </td><td align="center">5</td><td align="center">2.000%</td></tr><tr><td>Silver</td><td align="center">5</td><td align="center">2.000%</td></tr><tr><td>Neutralizing agent</td><td align="center">5</td><td align="center">5.000%</td></tr><tr><td>Regression fabric</td><td align="center">1</td><td align="center">0.100%</td></tr><tr><td>Regression thread</td><td align="center">1</td><td align="center">0.100%</td></tr><tr><td>Extocium Fragment</td><td align="center">1</td><td align="center">2.000%</td></tr><tr><td>Healing Vortex Recipe</td><td align="center">1</td><td align="center">1.000%</td></tr><tr><td>Magic Vortex Recipe</td><td align="center">1</td><td align="center">1.000%</td></tr><tr><td>Cotton wool</td><td align="center">5</td><td align="center">5.000%</td></tr><tr><td>Fur</td><td align="center">5</td><td align="center">4.000%</td></tr><tr><td>Lemon juice</td><td align="center">1</td><td align="center">5.000%</td></tr><tr><td>Red fur</td><td align="center">1</td><td align="center">0.500%</td></tr><tr><td>Red dye</td><td align="center">2</td><td align="center">1.000%</td></tr><tr><td>Anti-magic stone</td><td align="center">1</td><td align="center">0.500%</td></tr><tr><td>Obsidian</td><td align="center">5</td><td align="center">3.000%</td></tr><tr><td>Crystal ornament</td><td align="center">1</td><td align="center">1.000%</td></tr><tr><td>Advanced HP potion</td><td align="center">3</td><td align="center">4.000%</td></tr><tr><td>Advanced MP potion</td><td align="center">3</td><td align="center">3.500%</td></tr><tr><td>Thread</td><td align="center">1</td><td align="center">3.000%</td></tr><tr><td>White cloth</td><td align="center">1</td><td align="center">3.000%</td></tr><tr><td>Dream catcher</td><td align="center">1</td><td align="center">3.000%</td></tr><tr><td>Witchcraft liquid Recipe</td><td align="center">1</td><td align="center">2.000%</td></tr><tr><td>Summoning Necklace Recipe</td><td align="center">1</td><td align="center">2.000%</td></tr><tr><td>Awakening Darkness Recipe</td><td align="center">1</td><td align="center">1.000%</td></tr><tr><td>Rainbow Recipe</td><td align="center">1</td><td align="center">1.000%</td></tr><tr><td>Broken Power</td><td align="center">10</td><td align="center">1.000%</td></tr><tr><td>Water Wrath Recipe</td><td align="center">1</td><td align="center">0.500%</td></tr><tr><td>Tears of the Ancients</td><td align="center">5</td><td align="center">3.000%</td></tr><tr><td>Constellation Stone Tablet</td><td align="center">5</td><td align="center">3.000%</td></tr></tbody></table>
+| **Item**                      | **amount** | **prob** |
+| ----------------------------- | ---------- | -------- |
+| Ancient arena seal            | 1          | 6.000%   |
+| Crystal of destruction        | 2          | 1.000%   |
+| Crystal of courage            | 2          | 1.000%   |
+| Mystic stone                  | 1          | 0.100%   |
+| Lucky core                    | 1          | 1.000%   |
+| Extocium                      | 1          | 2.000%   |
+| Arena Coin                    | 1          | 3.000%   |
+| Arena seal                    | 1          | 3.000%   |
+| Pen of Oblivion               | 1          | 8.000%   |
+| Corn                          | 2          | 1.200%   |
+| Gold                          | 5          | 2.000%   |
+| Silver                        | 5          | 2.000%   |
+| Core of protection            | 1          | 2.000%   |
+| Regression fabric             | 1          | 0.100%   |
+| Regression thread             | 1          | 0.100%   |
+| Extocium Fragment             | 1          | 3.000%   |
+| Healing Vortex Recipe         | 1          | 2.000%   |
+| Magic Vortex Recipe           | 1          | 2.000%   |
+| Cotton wool                   | 5          | 5.000%   |
+| Snow White                    | 5          | 5.000%   |
+| Lemon juice                   | 1          | 6.000%   |
+| Red fur                       | 1          | 0.500%   |
+| Red dye                       | 2          | 1.000%   |
+| Anti-magic stone              | 1          | 0.500%   |
+| Obsidian                      | 5          | 4.000%   |
+| Crystal ornament              | 1          | 1.000%   |
+| Advanced HP potion            | 5          | 2.000%   |
+| Advanced MP potion            | 5          | 2.500%   |
+| Thread                        | 1          | 2.000%   |
+| White cloth                   | 1          | 2.000%   |
+| Dream catcher                 | 1          | 1.000%   |
+| Witchcraft liquid Recipe      | 1          | 2.000%   |
+| Summoning Necklace Recipe     | 1          | 2.000%   |
+| Waking darkness Recipe        | 1          | 1.000%   |
+| Rainbow Recipe                | 1          | 1.000%   |
+| Broken Power                  | 20         | 1.000%   |
+| Water Wrath Recipe            | 1          | 1.000%   |
+| Tears of the Ancients         | 5          | 1.000%   |
+| Constellation Stone Tablet    | 5          | 1.000%   |
+| Emperor's Necklace Recipe     | 1          | 1.500%   |
+| Emperor's Bracelet Recipe     | 1          | 1.500%   |
+| Emperor's Earrings Recipe     | 1          | 1.500%   |
+| Lava Hammer Recipe            | 1          | 1.500%   |
+| Gold Chain Recipe             | 1          | 1.500%   |
+| Gold Ring Recipe              | 1          | 1.500%   |
+| Exquisite Silver Clasp Recipe | 1          | 1.500%   |
+| Crafted Silver Chain Recipe   | 1          | 1.500%   |
+| Exquisite Gold Clasp Recipe   | 1          | 1.500%   |
+| Crafted Gold Chain Recipe     | 1          | 1.500%   |
+| Fine Gem Ornament Recipe      | 1          | 1.500%   |
+| Magic Gem Ornament Recipe     | 1          | 1.500%   |
 {% endtab %}
 
 {% tab title="한국어" %}
