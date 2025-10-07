@@ -226,19 +226,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 #### 💡Bracelet Fixed Stat Option Range
 
-| **Bracelet**          | **Min CB** | **Max CB** | **Min SCB** | **Max SCB** |
-| --------------------- | ---------- | ---------- | ----------- | ----------- |
-| Crystal Bracelet      | 24         | 26         | 24          | 26          |
-| Adventurer's Bracelet | 100        | 112        | 100         | 112         |
-| Mage's Bracelet       | 190        | 224        | 190         | 224         |
-| Elf's Bracelet        | 400        | 512        | 400         | 512         |
-| Spirit's Bracelet     | 900        | 1,152      | 900         | 1,152       |
-| Salamander's Bracelet | 1,960      | 2,336      | 1,960       | 2,336       |
-| Inferno's Bracelet    | 3,960      | 4,880      | 3,960       | 4,880       |
-| Mermaid's Bracelet    | 8,300      | 9,920      | 8,300       | 9,920       |
-| Emperor's Bracelet    | 17,000     | 20,080     | 17,000      | 20,080      |
-| Bracelet of Tears     | 34,000     | 40,800     | 34,000      | 40,800      |
-| Star Bracelet         | 69,000     | 83,200     | 69,000      | 83,200      |
+<table data-header-hidden><thead><tr><th></th><th width="98.9090576171875"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Bracelet</strong></td><td><strong>Equip Lv.</strong></td><td><strong>Min CB</strong></td><td><strong>Max CB</strong></td><td><strong>Min SCB</strong></td><td><strong>Max SCB</strong></td></tr><tr><td>Crystal Bracelet</td><td>4</td><td>24</td><td>26</td><td>24</td><td>26</td></tr><tr><td>Adventurer's Bracelet</td><td>9</td><td>100</td><td>112</td><td>100</td><td>112</td></tr><tr><td>Mage's Bracelet</td><td>13</td><td>190</td><td>224</td><td>190 </td><td>224</td></tr><tr><td>Elf's Bracelet</td><td>18</td><td>400</td><td>512</td><td>400</td><td>512</td></tr><tr><td>Spirit's Bracelet</td><td>24</td><td>900</td><td>1,152</td><td>900</td><td>1,152</td></tr><tr><td>Salamander's Bracelet</td><td>28</td><td>1,960</td><td>2,336</td><td>1,960</td><td>2,336</td></tr><tr><td>Inferno's Bracelet</td><td>32</td><td>3,960</td><td>4,880</td><td>3,960</td><td>4,880</td></tr><tr><td>Mermaid's Bracelet</td><td>36</td><td>8,300</td><td>9,920</td><td>8,300</td><td>9,920</td></tr><tr><td>Emperor's Bracelet</td><td>40</td><td>17,000</td><td>20,080</td><td>17,000</td><td>20,080</td></tr><tr><td>Bracelet of Tears</td><td>44</td><td>34,000</td><td>40,800</td><td>34,000</td><td>40,800</td></tr><tr><td>Star Bracelet</td><td>48</td><td>69,000</td><td>83,200</td><td>69,000</td><td>83,200</td></tr><tr><td>Butterfly Bracelet</td><td>54</td><td>133,760</td><td>164,524</td><td>133,760</td><td>164,524</td></tr></tbody></table>
 
 
 
