@@ -11,6 +11,23 @@ description: 🛑 This information may be updated later than the game server dat
 {% tabs %}
 {% tab title="ENG" %}
 📒When the Golden Rule was broken, the horde of monsters surging from the north threatened Rahan’s granary lands, and the kingdom’s entire army was mobilized to stop them. Sargon, seeking atonement, took command of the garrison himself and gave his life to repel the monsters. Iskandar too raised a wall of iron to aid him, yet human strength alone was no match for the overwhelming might of the dragonkin. A brutal and perilous battle unlike any they had faced before awaited them.
+
+👉 [PK Leverage Type 3 (Hard Difficulty)](https://app.gitbook.com/o/V5Jg2dsXws3Kv6MsJo91/s/koBEJEqnxv6otqQj6uFt/system/pk/pk-leverage-bonus/bonus-chart#pk-leverage-3)​
+
+<table data-header-hidden><thead><tr><th width="68.9090576171875"></th><th></th><th width="123.45458984375"></th><th width="126.181884765625"></th><th width="119.818115234375"></th><th></th></tr></thead><tbody><tr><td>56</td><td><p>Guardian of the Basilisk</p><p>(STONE)</p></td><td>Petrified Scale</td><td>Monocular Gem</td><td>Snow White</td><td>-</td></tr><tr><td>57</td><td><p>Scout of the Cyclops</p><p>(LEAF)</p></td><td>Petrified Scale</td><td>Monocular Gem</td><td>Crimson Claw</td><td>Snow White</td></tr><tr><td>58</td><td><p>Crimson Soldier of Cornix</p><p>(FIRE)</p></td><td>Petrified Scale</td><td>Monocular Gem</td><td>Crimson Claw</td><td>Snow White</td></tr><tr><td>59</td><td><p>Degenerate Dragon of Skolix</p><p>(WATER)</p></td><td>Degenerate Drake Scale</td><td>Corrupted Horn</td><td>Crimson Claw</td><td>Snow White</td></tr><tr><td>60</td><td><p>Mutated Archer Captain</p><p>(DARK)</p></td><td>Degenerate Drake Scale</td><td>Corrupted Horn</td><td>Wraith Arrowhead</td><td>Snow White</td></tr></tbody></table>
+
+🍀**Gathered items :** Læraðr’s Golden Leaves, Læraðr’s Blessed Sap
+
+> 😈**Field Raid :** Lv.67 Insane Sargon (LIGHT)🕓**Spawn Time (UTC) :** 15:40 / 05:40 / 11:10**🕓Spawn Time (PHT) :** 23:40 / 13:40 / 19:10📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, **Cursed Heart, Mark of Evil, Mark of Humanity**, Extocium etc…
+
+🍀**Recipe Drop Information:**
+
+| Guardian of the Basilisk    | Orb of Yin and Yang Recipe          | -                    |
+| --------------------------- | ----------------------------------- | -------------------- |
+| Scout of the Cyclops        | Petrified Butterfly Scale Recipe    | -                    |
+| Crimson Soldier of Cornix   | Bloodstained Butterfly Heart Recipe | -                    |
+| Degenerate Dragon of Skolix | Wings of the Transcendent Recipe    | -                    |
+| Mutated Archer Captain      | Awakening Stone Recipe              | Ancient Power Recipe |
 {% endtab %}
 
 {% tab title="한국어" %}

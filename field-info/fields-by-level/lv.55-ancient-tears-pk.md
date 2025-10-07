@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🌋 \~Lv.60 Ancient Tears (PK)
+# 🌋 \~Lv.55 Ancient Tears (PK)
 
 <figure><img src="../../.gitbook/assets/map007_B.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 
 🍀**Recipe  Drop Information:**
 
-<table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>Bubble</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Green Sharit</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Red Sharit</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Green Ziz</td><td>Sword of light Recipe</td><td>-</td></tr><tr><td>Red Ziz</td><td>Sword of light Recipe</td><td>-</td></tr><tr><td>Mutated Bubble</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Burning Red Ziz</td><td>Sword of light Recipe</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>Bubble</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Green Sharit</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Red Sharit</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Green Ziz</td><td>Sword of light Recipe</td><td>Nebula Claw of Sharit Recipe</td></tr><tr><td>Red Ziz</td><td>Sword of light Recipe</td><td>Soul Star Fragment Recipe</td></tr><tr><td>Mutated Bubble</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Burning Red Ziz</td><td>Sword of light Recipe</td><td>-</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="한국어" %}
