@@ -18,7 +18,10 @@ description: 🛑 This information may be updated later than the game server dat
 
 🍀**Gathered items :** Læraðr’s Golden Leaves, Læraðr’s Blessed Sap
 
-> 😈**Field Raid :** Lv.67 Insane Sargon (LIGHT)🕓**Spawn Time (UTC) :** 15:40 / 05:40 / 11:10**🕓Spawn Time (PHT) :** 23:40 / 13:40 / 19:10📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, **Cursed Heart, Mark of Evil, Mark of Humanity**, Extocium etc…
+> 😈**Field Raid :** Lv.67 Insane Sargon (LIGHT)\
+> 🕓**Spawn Time (UTC) :** 15:40 / 05:40 / 11:10\
+> **🕓Spawn Time (PHT) :** 23:40 / 13:40 / 19:10\
+> 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, **Cursed Heart, Mark of Evil, Mark of Humanity**, Extocium etc…
 
 🍀**Recipe Drop Information:**
 
