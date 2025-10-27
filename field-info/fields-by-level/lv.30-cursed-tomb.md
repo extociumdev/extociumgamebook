@@ -27,6 +27,8 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 > **🕓Spawn Time (PHT) :** 00:20 / 02:30 / 05:40 / 11:00 / 16:20 / 18:10 / 19:10
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Curse crystal, Cursed medicine, Extocium etc…
+>
+> <a href="https://extocium.com/cursedwizard/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**Recipe  Drop Information:**
 

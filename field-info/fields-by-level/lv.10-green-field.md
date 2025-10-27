@@ -27,6 +27,8 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 > **🕓Spawn Time (PHT)** : 00:00 / 02:10 / 05:20 / 10:40 / 16:00 / 17:50 / 18:50
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Poison crystal, Monster mushroom, Extocium Fragment etc…
+>
+> <a href="https://extocium.com/mushroommonster/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**Recipe  Drop Information:**
 
@@ -52,6 +54,8 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 > 🕓**출현시간 (KST)** : 01:00 / 03:10 / 06:20 / 11:40 / 17:00 / 18:50 / 19:50
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 독의 결정, 괴물 버섯, 엑스토시움 조각 etc…
+
+
 
 **🍀레시피 드랍 정보 :**
 

@@ -29,6 +29,8 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 > **🕓Spawn Time (PHT) :** 23:20 / 13:20 / 18:50
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Hell Crystal, Leviathan Meat, Extocium etc…
+>
+> <a href="https://extocium.com/leviathan/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**Recipe  Drop Information:**
 

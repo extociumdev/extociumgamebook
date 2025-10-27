@@ -29,6 +29,8 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 > **🕓Spawn Time (PHT) :** 00:10 / 02:20 / 05:30 / 10:50 / 16:10 / 18:00 / 19:00
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Crystal of wrath, Freshly caught octopus, Extocium Fragment etc…
+>
+> <a href="https://extocium.com/lizardman/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**Recipe  Drop Information:**
 

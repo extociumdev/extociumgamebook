@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🌋 \~Lv.55 Savage Forest (PK)
+# 🌋 \~Lv.50 Savage Forest (PK)
 
 <figure><img src="../../.gitbook/assets/map006_B.png" alt=""><figcaption></figcaption></figure>
 
@@ -29,6 +29,10 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 > **🕓Spawn Time (PHT) :** 22:30 / 13:10 / 18:40
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Primordial Crystal, Spicy pepper, Extocium etc…
+>
+> <a href="https://extocium.com/blacklizard/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
+>
+>
 
 🍀**Recipe  Drop Information:**
 

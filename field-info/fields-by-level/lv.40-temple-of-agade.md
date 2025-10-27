@@ -27,6 +27,8 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 > **🕓Spawn Time (PHT) :** 00:30 / 02:40 / 05:50 / 11:10 / 16:30 / 18:10 / 19:15
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Rock crystal, Humbaba’s rice balls, Extocium etc…
+>
+> <a href="https://extocium.com/humbaba/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**Recipe  Drop Information:**
 

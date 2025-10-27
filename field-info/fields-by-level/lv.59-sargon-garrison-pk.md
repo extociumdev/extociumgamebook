@@ -22,6 +22,8 @@ description: 🛑 This information may be updated later than the game server dat
 > 🕓**Spawn Time (UTC) :** 15:40 / 05:40 / 11:10\
 > **🕓Spawn Time (PHT) :** 23:40 / 13:40 / 19:10\
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, **Cursed Heart, Mark of Evil, Mark of Humanity**, Extocium etc…
+>
+> <a href="https://extocium.com/insanesargon/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**Recipe Drop Information:**
 

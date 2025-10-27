@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🌋 \~Lv.50 Goblin's Mine (PK)
+# 🌋 \~Lv.45 Goblin's Mine (PK)
 
 <figure><img src="../../.gitbook/assets/map005_B.png" alt=""><figcaption></figcaption></figure>
 
@@ -29,6 +29,8 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 > **🕓Spawn Time (PHT) :** 22:20 / 03:00 / 08:00 / 13:00 / 18:40
 >
 > 📦**Drop Item :** Core of protection, Lucky Core, Evil crystal, Wealth crystal, Lobster, Extocium etc…
+>
+> <a href="https://extocium.com/ancientgoblin/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**Recipe  Drop Information:**
 
