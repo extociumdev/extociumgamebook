@@ -55,7 +55,7 @@ description: 🛑 This information may be updated later than the game server dat
 📌 **Due to blockchain processing times, there may be a short delay in the transaction.**\
 📌 **Once completed, GOLD will be added to your balance.**
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -112,7 +112,7 @@ description: 🛑 This information may be updated later than the game server dat
 📌 **블록체인 특성상 약간의 거래 지연이 발생할 수 있습니다.**\
 📌 **거래가 정상적으로 완료되면, GOLD가 추가됩니다.**
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -169,7 +169,7 @@ description: 🛑 This information may be updated later than the game server dat
 📌 **ブロックチェーン処理の関係で、取引には若干の遅延が発生する可能性があります。**\
 📌 **取引が完了すると、GOLDが追加されます。**
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 

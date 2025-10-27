@@ -4,13 +4,13 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 📓 Explorer's Diary
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
 ### 📘**Explorer's Diary**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 💡 Ever tried completing a monster or gathering encyclopedia?\
 The **Explorer's Diary** is a progression system where you record various lifeforms across the continent of Asterica—and earn **bonus stats** along the way!
@@ -61,7 +61,7 @@ Explore carefully, grow wisely, and above all… enjoy the journey.\
 {% tab title="한국어" %}
 ### 📔탐험가 다이어리란?
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 💡 몬스터와 채집물 도감을 완성해 보신 적 있으신가요?\
 ‘**탐험가 다이어리(Explorer's Diary)**’는 아스테리카 대륙 곳곳의 다양한 생명체를 기록하고, **추가 능력치(보너스 스탯)를 획득할 수 있는 성장형 콘텐츠**입니다.
@@ -111,7 +111,7 @@ Explore carefully, grow wisely, and above all… enjoy the journey.\
 {% tab title="日本語" %}
 ### 📗探検家の日記（Explorer's Diary）
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 💡 モンスターや採集物の図鑑、完成させたことはありますか？\
 「**探検家の日記**」は、アステリカ大陸に存在するさまざまな生命を記録し、追加ステータス（ボーナス）を獲得できる成長型コンテンツです。

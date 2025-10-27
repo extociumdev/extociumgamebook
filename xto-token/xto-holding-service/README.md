@@ -53,7 +53,7 @@ description: 🛑 This information may be updated later than the game server dat
 ⛔ Ticket holding adjustments can only be made **once per week** to prevent abuse, so please proceed with caution.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 Tap the 'Ticket Swap' button to instantly swap your XTO tickets back to XTO.
 
@@ -110,7 +110,7 @@ description: 🛑 This information may be updated later than the game server dat
 **⛔티켓 홀딩 정보는 어뷰징 방지를 위하여 매주 1회만 진행할 수 있으니 주의하세요.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉’티켓 스왑’ 버튼을 터치하면 보유중인 XTO 티켓을 XTO로 바로 스왑할 수 있습니다.
 
@@ -167,7 +167,7 @@ description: 🛑 This information may be updated later than the game server dat
 ⛔ チケットホールド情報は**不正防止のため、週1回のみ**変更可能ですのでご注意ください。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 「チケットスワップ」ボタンをタップすると、保有しているXTOチケットを即座にXTOにスワップできます。
 
