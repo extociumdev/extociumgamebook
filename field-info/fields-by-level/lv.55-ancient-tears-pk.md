@@ -55,6 +55,8 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 > 🕓**출현시간 (KST)** : 00:20 / 14:20 / 19:50
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 지옥의 결정, 레비아탄 고기, 엑스토시움 etc…
+>
+> <a href="https://extocium.com/leviathan/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 **🍀레시피 드랍 정보:**
 
@@ -79,6 +81,8 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 > 🕓**出現時間 (KST)** : 00:20 / 14:20 / 19:50
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、地獄の結晶、レヴィアタン肉、エクストシウムetc···
+>
+> <a href="https://extocium.com/leviathan/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**レシピドロップ情報:**
 

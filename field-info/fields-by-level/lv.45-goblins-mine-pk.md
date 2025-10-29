@@ -55,6 +55,8 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 > 🕓**출현시간 (KST)** : 23:20 / 04:00 / 09:00 / 14:00 / 19:40
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 부귀의 결정, 랍스터, 엑스토시움 etc…
+>
+> <a href="https://extocium.com/ancientgoblin/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 **🍀레시피 드랍 정보:**
 
@@ -79,6 +81,8 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 > 🕓**出現時間 (KST)** : 23:20 / 04:00 / 09:00 / 14:00 / 19:40
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、富貴の結晶、ロブスター、エクストシウムetc···
+>
+> <a href="https://extocium.com/ancientgoblin/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**レシピドロップ情報:**
 

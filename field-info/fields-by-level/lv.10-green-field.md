@@ -54,6 +54,8 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 > 🕓**출현시간 (KST)** : 01:00 / 03:10 / 06:20 / 11:40 / 17:00 / 18:50 / 19:50
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 독의 결정, 괴물 버섯, 엑스토시움 조각 etc…
+>
+> <a href="https://extocium.com/mushroommonster/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 
 
@@ -78,6 +80,8 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 > 🕓**出現時間 (KST)** : 01:00 / 03:10 / 06:20 / 11:40 / 17:00 / 18:50 / 19:50
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、毒の結晶、怪物キノコ、エクストシウム彫刻 ect···
+>
+> <a href="https://extocium.com/mushroommonster/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**レシピドロップ情報:**
 

@@ -49,6 +49,8 @@ description: 🛑 This information may be updated later than the game server dat
 > 🕓**출현시간 (KST)** : 00:40 / 14:40 / 20:10
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 저주받은 심장, 악의 징표, 인간의 징표, 엑스토시움 etc…
+>
+> <a href="https://extocium.com/insanesargon/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 **🍀레시피 드랍 정보:**
 
@@ -74,6 +76,8 @@ description: 🛑 This information may be updated later than the game server dat
 > 🕓**出現時間 (KST)** : 00:40 / 14:40 / 20:10
 >
 > 📦**ドロップアイテム:** 守護の核、幸運の核、悪意の結晶、呪われた心臓、悪意の証、 人間の証、エクストシウム など
+>
+> <a href="https://extocium.com/insanesargon/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**レシピドロップ情報:**
 

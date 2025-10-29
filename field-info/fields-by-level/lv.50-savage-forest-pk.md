@@ -57,6 +57,8 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 > 🕓**출현시간 (KST)** : 23:30 / 14:10 / 19:40
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 태초의 결정, 매운 고추, 엑스토시움 etc…
+>
+> <a href="https://extocium.com/blacklizard/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 **🍀레시피 드랍 정보:**
 
@@ -81,6 +83,8 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 > 🕓**出現時間 (KST)** : 23:30 / 14:10 / 19:40
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、太初の結晶、辛唐辛子、エクストシウムetc…···
+>
+> <a href="https://extocium.com/blacklizard/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**レシピドロップ情報:**
 

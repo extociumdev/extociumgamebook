@@ -51,6 +51,8 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 > 🕓**출현시간 (KST)** : 01:20 / 03:30 / 06:40 / 12:00 / 17:20 / 19:10 / 20:10
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 저주의 결정, 저주받은 약재, 엑스토시움 etc…
+>
+> <a href="https://extocium.com/cursedwizard/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 **🍀레시피 드랍 정보 :**
 
@@ -73,6 +75,8 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 > 🕓**出現時間 (KST)** : 01:20 / 03:30 / 06:40 / 12:00 / 17:20 / 19:10 / 20:10
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、呪いの結晶、呪われた薬材、エクストシウムetc···
+>
+> <a href="https://extocium.com/cursedwizard/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**レシピドロップ情報:**
 

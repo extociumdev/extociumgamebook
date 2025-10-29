@@ -51,6 +51,8 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 > 🕓**출현시간 (KST)** : 01:30 / 03:40 / 06:50 / 12:10 / 17:30 / 19:10 / 20:15
 >
 > 📦**드랍 아이템 :** 보호의 핵, 행운의 핵, 악의 결정, 바위의 결정, 훔바바의 주먹밥, 엑스토시움 etc…
+>
+> <a href="https://extocium.com/humbaba/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 **🍀레시피 드랍 정보:**
 
@@ -73,6 +75,8 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 > 🕓**出現時間 (KST)** : 01:30 / 03:40 / 06:50 / 12:10 / 17:30 / 19:10 / 20:15
 >
 > 📦**ドロップアイテム:** 保護の核、幸運の核、悪の結晶、岩の結晶、フンババのおにぎり、エクストシウムetc···
+>
+> <a href="https://extocium.com/humbaba/" class="button primary" data-icon="pen-circle">Drop Table Detail...</a>
 
 🍀**レシピドロップ情報:**
 
