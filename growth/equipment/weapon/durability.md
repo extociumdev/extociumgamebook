@@ -80,6 +80,24 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 ***
 
 👉 [**무기별 내구도 확인 바로가기**](weapon-stats.md#fixed-option-range)
+
+***
+
+#### 🛠 무기 수리하기
+
+* 대시보드 → 무기 정보 페이지로 들어가세요.
+* 무기 정보 페이지 우측 상단에 보유중인 연마석의 수량이 표시됩니다.
+* 무기 이미지 하단에 내구도 바를 터치하여 수동 수리가 가능합니다.
+* 필요한 연마석의 개수를 확인하여 수리를 진행하세요!
+
+***
+
+#### 🛠 자동 수리 기능
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure></div>
+
+* 장착 중인 장비는 자동 수리 기능을 ON/OFF 가능합니다.
+* 대시보드의 장착중인 무기 옆 AUTO 버튼을 이용하세요!
 {% endtab %}
 
 {% tab title="日本語" %}
