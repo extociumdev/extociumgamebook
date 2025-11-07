@@ -60,6 +60,7 @@
       * [🔥 Skill pool - Weapon](growth/equipment/weapon/weapon-skill-info/skill-pool-weapon.md)
       * [📊 Skill Probability Table](growth/equipment/weapon/weapon-skill-info/skill-probability-table.md)
     * [🏹 Guide to Equip Levels](growth/equipment/weapon/guide-to-equip-levels.md)
+    * [⚒️ Durability](growth/equipment/weapon/durability.md)
   * [🔮 Orb](growth/equipment/orb/README.md)
     * [✨ Orb Stats](growth/equipment/orb/orb-stats.md)
   * [💝 Accessories](growth/equipment/accessories/README.md)
@@ -97,12 +98,14 @@
   * [📁 Recharge Rules](system/energy/recharge-rules.md)
   * [📁 Energy consumption by level](system/energy/energy-consumption-by-level.md)
   * [📁 0 Energy penalty](system/energy/0-energy-penalty.md)
+* [💵 Vault of Time](system/vault-of-time.md)
 * [⚠️ PK](system/pk/README.md)
   * [🎯 Target Control](system/pk/target-control.md)
   * [📁 PK Leverage Bonus](system/pk/pk-leverage-bonus/README.md)
     * [❤️ Bonus Chart](system/pk/pk-leverage-bonus/bonus-chart.md)
   * [❗ PK Penalty](system/pk/pk-penalty.md)
   * [📕 PK Record](system/pk/pk-record.md)
+* [🪄 Zone Attunement](system/zone-attunement.md)
 * [🔴 Level Cap System](system/level-cap-system/README.md)
   * [Skill Level Cap System](system/level-cap-system/skill-level-cap-system.md)
 * [🧑‍🤝‍🧑 Party](system/party.md)
@@ -186,6 +189,7 @@
 * [📓 Explorer's Diary](contents/explorers-diary.md)
 * [🥇 Achievement](contents/achievement.md)
 * [📚 Weekly swap Quests](contents/weekly-swap-quests.md)
+* [🪩 Wizard Challenge](contents/wizard-challenge.md)
 
 ## 🐪 Field Info
 
