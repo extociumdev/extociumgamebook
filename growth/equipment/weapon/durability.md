@@ -42,6 +42,26 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 ***
 
 👉 [**Check Weapon Durability by Type**](weapon-stats.md#fixed-option-range)
+
+***
+
+### **🛠 Repairing Weapons**
+
+#### 🧭 Manual Repair
+
+* Go to **Dashboard → Weapon Information Page**.
+* The **number of Polishing Stones** you currently own is displayed in the **top-right corner** of the Weapon Information page.
+* Tap the **Durability Bar** under the weapon image to manually repair your weapon.
+* Check the **required number of Polishing Stones** and proceed with the repair!
+
+***
+
+#### ⚙ Auto-Repair Function
+
+<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
+
+* Equipped weapons can have **Auto-Repair** toggled **ON/OFF**.
+* Use the **AUTO button** next to your equipped weapon on the **Dashboard**!
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -97,7 +117,7 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure></div>
 
 * 장착 중인 장비는 자동 수리 기능을 ON/OFF 가능합니다.
-* 대시보드의 장착중인 무기 옆 AUTO 버튼을 이용하세요!
+* 대시보드의 장착 중인 무기 옆 AUTO 버튼을 이용하세요!
 {% endtab %}
 
 {% tab title="日本語" %}
