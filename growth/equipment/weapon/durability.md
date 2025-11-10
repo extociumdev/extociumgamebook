@@ -36,8 +36,8 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 
 #### 💎 How to Obtain Polishing Stones
 
-* ⚔ **During PK** → Small chance (**10%**) to drop a _Polishing Stone_
-* 🐉 **When Hunting Monsters** → Low chance (**0.1%**) to drop a _Polishing Stone_
+* ⚔ **During PK** → Small chance (**50%**) to drop a _Polishing Stone_
+* 🐉 **When Hunting Monsters** → Low chance (**0.5%**) to drop a _Polishing Stone_
 
 ***
 
@@ -94,8 +94,8 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 
 #### 💎 연마석 획득처
 
-* ⚔ **PK 시** 일정 확률(**10%**)로 연마석 드랍
-* 🐉 **몬스터 사냥 시** 낮은 확률(**0.1%**)로 연마석 드랍
+* ⚔ **PK 시** 일정 확률(**50%**)로 연마석 드랍
+* 🐉 **몬스터 사냥 시** 낮은 확률(**0.5%**)로 연마석 드랍
 
 ***
 
