@@ -82,15 +82,15 @@ They include all stats that directly affect combat, such as Attack Power, Critic
 
 🔸**Combat Stat Names by Language**
 
-| ENG (Short)        | KR                  | 🇩🇪 German         | 🇯🇵 Japanese | 🇨🇳 Chinese (简体) | 🇪🇸 Spanish    |
-| ------------------ | ------------------- | ------------------- | ------------- | ----------------- | --------------- |
-| **Phys. DMG**      | 물리 공격력              | **Phys. SCH**       | **物理DMG**     | **物理伤害**          | **Daño Fís.**   |
-| **Phys. Crit DMG** | 물리 치명타 데미지          | **Phys. Krit. SCH** | **物理クリDMG**   | **物理暴击伤害**        | **Crit Fís.**   |
-| **Phys. Crit %**   | 물리 치명타 확률           | **Phys. Krit %**    | **物理クリ率**     | **物理暴击率**         | **Crit % Fís.** |
-| **Mag. DMG**       | 마법 공격력              | **Mag. SCH**        | **魔法DMG**     | **魔法伤害**          | **Daño Mág.**   |
-| **Mag. Crit DMG**  | 마법 치명타 데미지          | **Mag. Krit. SCH**  | **魔法クリDMG**   | **魔法暴击伤害**        | **Crit Mág.**   |
-| **Mag. Crit %**    | 마법 치명타 확률           | **Mag. Krit %**     | **魔法クリ率**     | **魔法暴击率**         | **Crit % Mág.** |
-| **CDR**            | 쿨타임 감소 (CDR)        | **CDR**             | **CT短縮**      | **冷却缩减**          | **CDR**         |
-| **EVA**            | 회피율 (EVA)           | **EVA**             | **回避率**       | **闪避**            | **EVA**         |
-| **ACC**            | 명중률 (ACC)\*\*       | **ACC**             | **命中**        | **命中**            | **ACC**         |
-| **Move SPD**       | 이동속도 (Move SPD)\*\* | **Beweg.**          | **移動SPD**     | **移速**            | **Vel. Mov.**   |
+| ENG (Short)                              | KR                  | 🇩🇪 German         | 🇯🇵 Japanese | 🇨🇳 Chinese (简体) | 🇪🇸 Spanish    |
+| ---------------------------------------- | ------------------- | ------------------- | ------------- | ----------------- | --------------- |
+| **Phys. DMG**                            | 물리 공격력              | **Phys. SCH**       | **物理DMG**     | **物理伤害**          | **Daño Fís.**   |
+| **Phys. Crit DMG**                       | 물리 치명타 데미지          | **Phys. Krit. SCH** | **物理クリDMG**   | **物理暴击伤害**        | **Crit Fís.**   |
+| **Phys. Crit %**                         | 물리 치명타 확률           | **Phys. Krit %**    | **物理クリ率**     | **物理暴击率**         | **Crit % Fís.** |
+| **Mag. DMG**                             | 마법 공격력              | **Mag. SCH**        | **魔法DMG**     | **魔法伤害**          | **Daño Mág.**   |
+| **Mag. Crit DMG**                        | 마법 치명타 데미지          | **Mag. Krit. SCH**  | **魔法クリDMG**   | **魔法暴击伤害**        | **Crit Mág.**   |
+| **Mag. Crit %**                          | 마법 치명타 확률           | **Mag. Krit %**     | **魔法クリ率**     | **魔法暴击率**         | **Crit % Mág.** |
+| **CDR (**&#x52;educes skill reload time) | 재장전 시간 감소 (CDR)     | **CDR**             | **CT短縮**      | **冷却缩减**          | **CDR**         |
+| **EVA**                                  | 회피율 (EVA)           | **EVA**             | **回避率**       | **闪避**            | **EVA**         |
+| **ACC**                                  | 명중률 (ACC)\*\*       | **ACC**             | **命中**        | **命中**            | **ACC**         |
+| **Move SPD**                             | 이동속도 (Move SPD)\*\* | **Beweg.**          | **移動SPD**     | **移速**            | **Vel. Mov.**   |
