@@ -16,7 +16,7 @@ Shall we learn how to craft items now?
 
 👉First, touch the dashboard button on the main HUD.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉Please touch the 'Craft' button in the left menu bar of the dashboard widget.
 
@@ -58,7 +58,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 
 👉우선 메인 HUD의 대시보트 버튼을 터치합니다.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉대시보드 위젯의 좌측 메뉴바에서 '제작' 버튼을 터치해주세요.
 
@@ -100,7 +100,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 
 👉まず、メインHUDのダッシュボードボタンをタッチします。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉ダッシュボードウィジェットの左側のメニューバーから「製作」ボタンをタッチしてください。
 

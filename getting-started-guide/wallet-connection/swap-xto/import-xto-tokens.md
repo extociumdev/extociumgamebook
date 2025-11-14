@@ -22,7 +22,7 @@
 🔹 **Token Decimal:** `18`
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ✅ **3. Tap the "IMPORT" Button**
 
@@ -52,7 +52,7 @@ Now you can **view your XTO balance in MetaMask and start trading freely!** 🚀
 🔹 **Token Decimal:** `18`
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ✅ **3. "IMPORT" 버튼 터치**
 
@@ -83,7 +83,7 @@ Now you can **view your XTO balance in MetaMask and start trading freely!** 🚀
 🔹 **Token Decimal:** `18`
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ✅ **3. 「IMPORT」ボタンをタップ**
 

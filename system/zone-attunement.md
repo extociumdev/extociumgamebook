@@ -6,13 +6,13 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-## 🌐 Zone Attunement (English Translation)
+## 🌐 Zone Attunement&#x20;
 
 <figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 #### Level Scaling System Guide
 
-Zone Attunement is a system where **your character's stats are scaled down to match the field level when entering an area lower than your current level**. This replaces the previous, overly complicated level-gap rule set and adopts a proven **Guild Wars 2-style level scaling** to deliver a smoother exploration experience.
+Zone Attunement is a system where **your character's stats are scaled down to match the field level when entering an area lower than your current level**. This replaces the previous, overly complicated level-gap rule set and adopts a proven **level scaling** to deliver a smoother exploration experience.
 
 ***
 
@@ -59,13 +59,13 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 {% endtab %}
 
 {% tab title="한국어" %}
-## 🌐 영역 교감(Zone Attunement)
+## 🌐 영역 교감
 
 <figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 #### 레벨 스케일링(Level Scaling) 시스템 가이드
 
-영역 교감은 **캐릭터가 자신보다 낮은 레벨의 필드에 입장했을 때, 해당 필드 레벨에 맞춰 자동으로 스펙을 조정해주는 시스템**입니다. 복잡했던 기존 레벨 갭 규칙 대신, 플레이 경험이 검증된 **길드워2(Level Scaling) 방식**을 차용하여 보다 명확하고 편리한 필드 탐험이 가능해졌습니다.
+영역 교감은 **캐릭터가 자신보다 낮은 레벨의 필드에 입장했을 때, 해당 필드 레벨에 맞춰 자동으로 스펙을 조정해주는 시스템**입니다. 복잡했던 기존 레벨 갭 규칙 대신, 플레이 경험이 검증된 **Level Scaling 방식**을 차용하여 보다 명확하고 편리한 필드 탐험이 가능해졌습니다.
 
 ***
 
@@ -113,13 +113,13 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 {% endtab %}
 
 {% tab title="日本語" %}
-## 🌐 ゾーン・アチューンメント (Japanese Translation)
+## 🌐 ゾーン・アチューンメント
 
 <figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 #### レベルスケーリング・システムガイド
 
-ゾーン・アチューンメントは、**自分より低いレベルのフィールドに入った際、そのフィールドのレベルに合わせてキャラクター能力値を自動調整するシステム**です。複雑だった従来のレベル差システムを廃止し、実績のある **Guild Wars 2 のレベルスケーリング方式** を採用しています。
+ゾーン・アチューンメントは、**自分より低いレベルのフィールドに入った際、そのフィールドのレベルに合わせてキャラクター能力値を自動調整するシステム**です。複雑だった従来のレベル差システムを廃止し、実績のある **レベルスケーリング方式** を採用しています。
 
 ***
 
