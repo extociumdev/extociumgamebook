@@ -36,7 +36,7 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 
 #### 💎 How to Obtain Polishing Stones
 
-* ⚔ **During PK** → Small chance (**50%**) to drop a _Polishing Stone_
+* ⚔ **During PK** → Small chance (**30%**) to drop a _Polishing Stone_
 * 🐉 **When Hunting Monsters** → Low chance (**0.5%**) to drop a _Polishing Stone_
 
 ***
@@ -94,7 +94,7 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 
 #### 💎 연마석 획득처
 
-* ⚔ **PK 시** 일정 확률(**50%**)로 연마석 드랍
+* ⚔ **PK 시** 일정 확률(**30%**)로 연마석 드랍
 * 🐉 **몬스터 사냥 시** 낮은 확률(**0.5%**)로 연마석 드랍
 
 ***
@@ -152,11 +152,31 @@ The **Weapon Durability System** is designed to prevent excessive PK and PvE act
 
 #### 💎 研磨石の入手方法
 
-* ⚔ **PK時** → 一定確率（**10%**）で _研磨石_ ドロップ
-* 🐉 **モンスター討伐時** → 低確率（**0.1%**）で _研磨石_ ドロップ
+* ⚔ **PK時** → 一定確率（**30%**）で _研磨石_ ドロップ
+* 🐉 **モンスター討伐時** → 低確率（**0.5%**）で _研磨石_ ドロップ
 
 ***
 
 👉 [**武器別耐久度を確認する**](weapon-stats.md#fixed-option-range)
+
+***
+
+### **🛠** 武器を修理する
+
+#### 🧭 手動修理
+
+* **ダッシュボード → 武器情報ページ** にアクセスします。
+* 武器情報ページの **右上** に、所持している **研磨石の数** が表示されます。
+* 武器画像の下にある **耐久度バーをタップ** すると、手動で修理が可能です。
+* 必要な **研磨石の数** を確認し、修理を進めてください！
+
+***
+
+#### ⚙ 自動修理機能
+
+<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
+
+* 装備中の武器は、自動修理機能をON/OFF 切り替えることができます。
+* ダッシュボード の装備中武器の横にある AUTOボタン を利用してください！
 {% endtab %}
 {% endtabs %}
