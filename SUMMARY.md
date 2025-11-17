@@ -105,9 +105,8 @@
     * [❤️ Bonus Chart](system/pk/pk-leverage-bonus/bonus-chart.md)
   * [❗ PK Penalty](system/pk/pk-penalty.md)
   * [📕 PK Record](system/pk/pk-record.md)
-* [🪄 Zone Attunement](system/zone-attunement.md)
-* [🔴 Level Cap System](system/level-cap-system/README.md)
-  * [Skill Level Cap System](system/level-cap-system/skill-level-cap-system.md)
+* [🪄 Zone Attunement](system/zone-attunement/README.md)
+  * [Skill Level Cap System](system/zone-attunement/skill-level-cap-system.md)
 * [🧑‍🤝‍🧑 Party](system/party.md)
 * [🥩 Abundance and Famine](system/abundance-and-famine.md)
 

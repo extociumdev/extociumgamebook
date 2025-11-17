@@ -107,7 +107,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 > * The party distribution function is disabled when party members are too far apart.
 
 {% hint style="info" %}
-⛔ **If a high-level or low-level party member with a "**[**level cap**](level-cap-system/#eng)**" applied is included in the raid party, the overall contribution may be reduced, so please be cautious!**
+⛔ **If a high-level or low-level party member with a "**[**level cap**](broken-reference)**" applied is included in the raid party, the overall contribution may be reduced, so please be cautious!**
 
 ❓ For example, if a "Level 50 user with 0 energy" attempts to take down a "Level 20 Raid Boss," most of the damage contribution would be attributed to the Level 50 user. However, since their energy is 0, they will not be eligible for rewards. As a result, the remaining rewards pool is distributed among the valid users, which causes a loss in the total reward pool.
 {% endhint %}
@@ -229,7 +229,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 > * 파티원과의 거리가 멀어지면 파티 분배 기능이 사라집니다.
 
 {% hint style="info" %}
-**⛔레이드 파티에 '**[**레벨 캡**](level-cap-system/#undefined-1)**'이 적용된 고레벨 혹은 저레벨 팀원이 포함되어 있을 경우, 전체 기여도에 손실을 입을 수 있으니 주의하세요!**
+**⛔레이드 파티에 '**[**레벨 캡**](broken-reference)**'이 적용된 고레벨 혹은 저레벨 팀원이 포함되어 있을 경우, 전체 기여도에 손실을 입을 수 있으니 주의하세요!**
 
 ❓예를 들어, '20레벨 레이드 보스'를 '에너지가 0인 50레벨 유저'가 공략하게 되면, 대부분의 데미지 기여도를 50레벨 유저가 가져가게 될 테지만, 그의 에너지가 0 이므로 보상 책정이 되지 않습니다. 따라서 남은 총 기여도 풀에서 나머지 유효 유저들의 보상이 책정되게 되고, 이는 전체 보상풀의 손실을 불러옵니다.
 {% endhint %}

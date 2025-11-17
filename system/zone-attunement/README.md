@@ -8,7 +8,7 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 ## 🌐 Zone Attunement&#x20;
 
-<figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 #### Level Scaling System Guide
 
@@ -128,7 +128,7 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 {% tab title="한국어" %}
 ## 🌐 영역 교감
 
-<figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 #### 레벨 스케일링(Level Scaling) 시스템 가이드
 
@@ -251,7 +251,7 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 {% tab title="日本語" %}
 ## 🌐 ゾーン・アチューンメント
 
-<figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 #### レベルスケーリング・システムガイド
 
