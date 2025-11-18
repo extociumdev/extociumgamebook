@@ -22,8 +22,6 @@ Zone Attunement is a system where **your character's stats are scaled down to ma
 * Prevents high-level players from **excessively PK-ing** low-level players
 * Ensures balanced **material gathering** in low-level zones
 
-➡️ After this system is applied, the **old level-gap system is fully removed**.
-
 ***
 
 ### ⚙️ How It Works
@@ -141,8 +139,6 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 🔹 기존 레벨캡 기반 예외 처리들이 너무 복잡해 **유저 이해도가 낮았던 문제 해결**\
 🔹 PK 상황에서 고레벨 유저가 저레벨 유저를 **무분별하게 학살(PK)하는 것을 예방**\
 🔹 저레벨 지역의 재료를 수급할 때 **과도하게 쉬워지는 문제를 보완**
-
-➡️ 이 시스템이 적용된 이후, **기존 레벨 갭 시스템은 완전히 폐기**됩니다.
 
 ***
 
@@ -264,8 +260,6 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 * プレイヤーが理解しづらかった旧レベルキャップの例外処理を簡略化
 * 高レベルプレイヤーによる **PK の乱殺防止**
 * 低レベル地域での素材採集を適正化
-
-➡️ このシステム適用後、**旧レベル差システムは完全に廃止**されます。
 
 ***
 
