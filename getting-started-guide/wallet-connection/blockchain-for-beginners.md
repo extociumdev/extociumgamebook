@@ -11,8 +11,7 @@
 ❓[BEP20 Standard](blockchain-for-beginners.md#bep20-standard)\
 ❓[Verifying the Creator](blockchain-for-beginners.md#verifying-the-creator)\
 ❓[How Do the Game Database and NFTs Interact?](blockchain-for-beginners.md#how-do-the-game-database-and-nfts-interact)\
-❓[Using a Block Explorer](blockchain-for-beginners.md#using-a-block-explorer)\
-
+❓[Using a Block Explorer](blockchain-for-beginners.md#using-a-block-explorer)<br>
 
 ## Check the Essential Blockchain Knowledge for Gameplay!
 
@@ -69,8 +68,7 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 ❓[BEP20 규격](blockchain-for-beginners.md#bep20)\
 ❓[제작자 확인하기](blockchain-for-beginners.md#undefined-3)\
 ❓[게임 DB와 NFT는 어떻게 연동되나요?](blockchain-for-beginners.md#db-nft)\
-❓[Block 탐색기 사용해보기](blockchain-for-beginners.md#block)\
-
+❓[Block 탐색기 사용해보기](blockchain-for-beginners.md#block)<br>
 
 ## 게임을 이용하는데 필요한 블록체인 지식들을 확인해보세요!
 
@@ -128,8 +126,7 @@ To own or trade digital assets like NFTs in your game, understanding basic block
 ❓[BEP20規格](blockchain-for-beginners.md#bep20-gui-ge)\
 ❓[制作者の確認](blockchain-for-beginners.md#no)\
 ❓[ゲームDBとNFTはどう連動するの？](blockchain-for-beginners.md#gmudbtonfthadousuruno)\
-❓[Blockエクスプローラーを使ってみよう](blockchain-for-beginners.md#blockekusupurrwottemiyou)\
-
+❓[Blockエクスプローラーを使ってみよう](blockchain-for-beginners.md#blockekusupurrwottemiyou)<br>
 
 ## ゲーム利用に必要なブロックチェーン知識を確認しましょう！
 

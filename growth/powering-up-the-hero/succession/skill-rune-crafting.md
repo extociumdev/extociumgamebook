@@ -29,8 +29,7 @@ Check below for more details on the crafting process.
 
 Skill Runes and Skill Rune Slots each have **four shapes and seven colors**.\
 Skill Rune Slots are **randomly assigned during Hero Succession**,\
-and only **Skill Runes that match the slot’s shape and color can be equipped**.\
-
+and only **Skill Runes that match the slot’s shape and color can be equipped**.<br>
 
 **🔹 Skill Rune Combination Process**
 
@@ -99,8 +98,7 @@ For example:
 
 스킬 룬과 스킬 룬 슬롯은 **각각 4가지 모양과 7가지 색상**을 가집니다.\
 스킬 룬 슬롯은 **계승(Succession) 시 랜덤하게 설정**되며,\
-해당 슬롯의 **모양과 색상에 맞는 스킬 룬만 장착 가능**합니다.\
-
+해당 슬롯의 **모양과 색상에 맞는 스킬 룬만 장착 가능**합니다.<br>
 
 **🔹 스킬 룬 조합 방식**
 
@@ -171,8 +169,7 @@ For example:
 スキルルーンスロットは **英雄继承時にランダムに設定され**、\
 **スロットの形状および色に適合するスキルルーンのみ装着可能** でございます。
 
-**🔹 スキルルーンの組み合わせプロセス**\
-
+**🔹 スキルルーンの組み合わせプロセス**<br>
 
 1️⃣ **形状ごとの特別効果**
 

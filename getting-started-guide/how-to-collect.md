@@ -65,8 +65,7 @@ Use the auto-gather function for convenience!
 
 <figure><img src="../.gitbook/assets/화면 캡처 2025-07-21 155802.png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
-
+<br>
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -83,8 +82,7 @@ Use the auto-gather function for convenience!
 
 **① 대시보드로 이동**
 
-🎯 **게임 화면 좌측의 ‘투구 아이콘’을 클릭**해 대시보드로 들어가세요.\
-
+🎯 **게임 화면 좌측의 ‘투구 아이콘’을 클릭**해 대시보드로 들어가세요.<br>
 
 <figure><img src="../.gitbook/assets/화면 캡처 2025-07-21 120528 (2).png" alt="" width="418"><figcaption></figcaption></figure>
 

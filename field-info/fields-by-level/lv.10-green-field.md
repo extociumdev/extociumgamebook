@@ -34,8 +34,7 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 
 <table><thead><tr><th width="153">Monster</th><th width="172">Drop1</th><th width="141">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Chipmunk</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Lesser Panda</td><td>Salad Recipe</td><td>Nut Yogurt Recipe</td><td>Hammer Recipe</td></tr><tr><td>Racoon</td><td>Salad Recipe</td><td>Butter Recipe</td><td>Hammer Recipe</td></tr><tr><td>Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td>Glue Recipe</td></tr><tr><td>Giant Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td></td></tr><tr><td>Giant Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td></td></tr></tbody></table>
 
-\
-
+<br>
 {% endtab %}
 
 {% tab title="한국어" %}

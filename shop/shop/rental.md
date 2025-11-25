@@ -348,8 +348,7 @@ NFTヒーローを所有していないプレイヤーでも、**ヒーローを
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 \
-\
-
+<br>
 
 📌 **ステップ4:** **レンタル設定ウィンドウ** が表示されます。
 

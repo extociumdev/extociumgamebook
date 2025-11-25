@@ -38,8 +38,7 @@ When he was exiled and driven out of Extocium, he reportedly shouted these words
 **"I will return to restore Extocium for its former glory.** \
 **In the year of my return, this place will be stained with blood and vomit flames.** \
 **You are the immortal gods, but you will finally die,** \
-**and in your next life you will be reborn as mere trifles, yearning for Extocium."**\
-
+**and in your next life you will be reborn as mere trifles, yearning for Extocium."**<br>
 
 Meanwhile, the monsters driven away from the earth to the sea by the might of the gods, had sharpened their blades of revenge. \
 They gathered on the small islands and islets of the sea and quietly grew their forces.\

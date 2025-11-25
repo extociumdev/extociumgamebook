@@ -10,117 +10,65 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
-#### Level Scaling System Guide
-
-Zone Attunement is a system where **your character's stats are scaled down to match the field level when entering an area lower than your current level**. This replaces the previous, overly complicated level-gap rule set and adopts a proven **level scaling** to deliver a smoother exploration experience.
-
-***
-
-### 🧩 Purpose of the System
-
-* Simplifies previous level-cap exceptions that were difficult for players to understand
-* Prevents high-level players from **excessively PK-ing** low-level players
-* Ensures balanced **material gathering** in low-level zones
+Field Synchronization is a system that automatically adjusts your character’s stats to match the field level when entering an area lower than your current level.\
+Instead of the previous complicated level-gap rules, this system adopts a well-tested **Level Scaling** method, allowing players to explore fields more clearly and comfortably.
 
 ***
 
-### ⚙️ How It Works
+### 🎯 System Goals
 
-#### 1) Scaling is applied based on the hero you have equipped when entering a field
+#### 🔹 1. Protect Low-Level Players
 
-Your currently equipped hero and stats are read instantly, then scaled to the field level.
+Prevents high-level players from indiscriminately PK-ing in low-level areas.
 
-***
+#### 🔹 2. Assist High-Level Resource Farming
 
-#### 2) Scaling follows the **maximum recommended level** of the field
-
-Example: **Green Field – Recommended Level: Lv.10** → Your character is scaled to level 10 upon entering.
-
-***
-
-#### 3) Wearing top-tier gear always provides an advantage
-
-Zone Attunement converts stats **based on proportion**, meaning higher raw gear stats yield better scaled performance.
-
-⚠️ Poor gear = weaker scaling!\
-⚠️ Top-end gear provides the highest efficiency even in low-level zones.
+High-level players can still gather materials efficiently in low-level zones.\
+Since the character’s stats scale to the field level, difficulty imbalance is minimized.
 
 ***
 
-## 🛡️ Equipment Efficiency Guide&#x20;
+### ⚙️ Conditions for Field Synchronization
 
-#### "Proper gear for your level = Maximum combat efficiency"
+#### 🛡️ Sync Level Based on Highest Gear Grade
 
-A hero’s strength does **not** come from level alone.\
-To achieve maximum efficiency, the hero must be equipped with the **highest-grade gear available for that level**. This guide explains how hero level, gear level, and field level interact in the scaling system.
+Field Synchronization determines your **Sync Level** based on the **highest grade** among your equipped gear.
 
-***
+* If you enter a field while equipping gear **above the field’s grade standard**,\
+  → your Sync Level will match **that gear’s grade**.
 
-### 🎯 1. Why you must equip the best gear for your hero's level
+#### 📘 Field Gear Grade Standards
 
-Your true combat power comes from **Hero Level + Best Gear Available at that Level**.
-
-* A high-level hero wearing low-level gear?\
-  ➡️ **Will perform worse than the field’s intended balance** (scaling efficiency drops sharply)
-* Because the system uses **ratio-based stat scaling**, lower-tier gear results in lower overall efficiency.
-
-💡 **Summary:**\
-Level alone does not make you strong.\
-👉 **Your gear level must match your hero level to unlock maximum power.**
+Each field has a reference gear grade that its scaling is based on.\
+(_The actual table will be linked according to the localization file._)
 
 ***
 
-### 🌍 2. Field level vs. hero level — efficiency changes
+### 🧪 Example
 
-Each field has a recommended level, and efficiency shifts depending on the gap.
+#### 📍 Field: **Green Field (푸른 들판 / Green Field)**
 
-Example: **Field Level 30**
+* Standard Grade: **1**
+  * Steel Sword
+  * Abyss Orb
+  * Mage Accessory
 
-* Hero Level 40 → Generally advantageous
-* Hero Level 55 → Best efficiency _if wearing top-tier gear_ (e.g., **Awakening Darkness**)
-* But if a Level 55 hero wears outdated gear?\
-  ➡️ A well-equipped **Level 40 hero can outperform them** in a Level 30 field.
+#### ▶️ Scenario
 
-This creates **variable efficiency per field**, adding strategic depth to future Field Conquest modes.
+A player enters Green Field while equipping **Lightbringer Sword (Grade 10)**.
 
-***
+#### ✔️ Result
 
-### ⚔️ 3. Why the system is designed this way
-
-✔ Encourages players to focus on **gear progression**, not just leveling\
-✔ Creates **strategic diversity** between fields and heroes\
-✔ Makes **Field Conquest** more dynamic due to differing build efficiencies\
-✔ Ensures that **max-level + top-tier gear is always the ultimate highest efficiency**
+→ Sync Level **10** is automatically applied.
 
 ***
 
-### 🧪 4. Key Takeaways
+### 📈 How Field Synchronization Scales Stats
 
-* High hero level + low gear = **huge efficiency loss**
-* Maximum efficiency only occurs when **hero level + matching top-tier gear** are both satisfied
-* Efficiency changes based on hero level vs. field level gap
-* **Top-level gear at max level = always the best performance**
-* Different level/gear combos create different optimal fields
+Field Synchronization scales **final character stats based on proportional values**.\
+Therefore, higher gear grade, higher total SP distribution, and higher enchant levels all result in **greater efficiency after scaling**.
 
-***
-
-### 📌 Conclusion
-
-🌟 **Gear completes your hero’s level.**\
-🌟 **Optimal efficiency = Hero level + that level’s best gear**\
-🌟 **Understanding field efficiency gives you a major advantage in PvE & Field Conquest**
-
-Master the relationship between hero level, gear tier, and field scaling to achieve peak performance anywhere!
-
-***
-
-### 📘 Summary
-
-* Zone Attunement automatically adjusts your character to match field difficulty
-* Improves fairness in exploration, PK balance, and resource farming
-* Always equip your best gear to maximize scaling benefits
-
-Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
+⚠️ However, equipping gear with **mismatched grades** may cause inefficiencies.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -128,120 +76,65 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 
 <figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
-#### 레벨 스케일링(Level Scaling) 시스템 가이드
-
-영역 교감은 **캐릭터가 자신보다 낮은 레벨의 필드에 입장했을 때, 해당 필드 레벨에 맞춰 자동으로 스펙을 조정해주는 시스템**입니다. 복잡했던 기존 레벨 갭 규칙 대신, 플레이 경험이 검증된 **Level Scaling 방식**을 차용하여 보다 명확하고 편리한 필드 탐험이 가능해졌습니다.
-
-***
-
-### 🧩 시스템 도입 배경
-
-🔹 기존 레벨캡 기반 예외 처리들이 너무 복잡해 **유저 이해도가 낮았던 문제 해결**\
-🔹 PK 상황에서 고레벨 유저가 저레벨 유저를 **무분별하게 학살(PK)하는 것을 예방**\
-🔹 저레벨 지역의 재료를 수급할 때 **과도하게 쉬워지는 문제를 보완**
+**영역 교감**은 캐릭터가 **자신보다 낮은 레벨의 필드**에 진입할 때, 해당 필드에 맞춰 **스펙을 자동 조정**해주는 시스템입니다.\
+기존의 복잡했던 레벨 갭 규칙을 대신하여, 게임 경험이 충분히 검증된 **Level Scaling 방식**을 채택해 보다 명확하고 편하게 필드를 탐험할 수 있습니다.
 
 ***
 
-### ⚙️ 적용 방식
+### 🎯 시스템 목적
 
-#### 1) **필드 진입 시, 현재 장착 영웅 기준으로 스케일링 적용**
+#### 🔹 1. 저레벨 유저 보호
 
-입장하는 순간, 내가 사용 중인 영웅 정보를 읽어 해당 필드 레벨에 맞춰 능력치를 자동 조정합니다.
+고레벨 플레이어가 저레벨 지역에서 **무분별하게 PK**하는 상황을 예방합니다.
 
-***
+#### 🔹 2. 고레벨 유저의 자원 파밍 보조
 
-#### 2) **필드의 '추천 레벨 최대치'를 기준으로 조정**
-
-예: **푸른 들판(Green Field) 추천 레벨: Lv.10** → 입장 시 스케일링 레벨 10 기준으로 적용
-
-***
-
-#### 3) **항상 최상위 장비를 착용해야 이득!**
-
-영역 교감 시스템은 **기본 스탯과 장비 성능을 '비율 기반'으로 변환하여 스케일링**합니다.\
-즉, 원본 장비 스펙 자체가 높을수록 스케일링 후에도 더 높은 효율을 얻습니다.
-
-⚠️ **낮은 레벨 필드라도 장비를 대충 맞추면 손해!**\
-⚠️ 최종 장비일수록 스케일링의 효과가 극대화됩니다.
+고레벨 유저도 **저레벨 존에서 재료 아이템을 원활하게 파밍**할 수 있습니다.\
+필드 레벨에 맞춰 스펙이 조정되기 때문에 난이도 불균형이 발생하지 않습니다.
 
 ***
 
-## 🛡️ 장비 효율 & 필드 레벨 상호작용 가이드
+### ⚙️ 영역 교감 적용 조건
 
-#### "레벨에 맞는 장비 세팅이 곧 전투력" — 효율 극대화를 위한 핵심 시스템 이해하기
+#### 🛡️ 장비 기준 등급에 따른 싱크 레벨 적용
 
-영웅의 레벨이 높다고 해서 항상 필드에서 강한 것은 아닙니다. **해당 영웅 레벨에 맞는 '최대 장비'를 착용해야만 시스템이 제공하는 최대 효율을 발휘**할 수 있습니다. 이 문서는 _영웅 레벨, 장비 레벨, 필드 레벨 사이의 상호작&#xC6A9;_&#xC744; 쉽게 이해할 수 있도록 정리한 가이드입니다.
+영역 교감 시스템은 **착용 중인 장비** 중\
+➡️ **가장 높은 등급(Grade)** 을 기준으로 **필드 싱크 레벨**을 결정합니다.
 
-***
+* 기준 등급을 **초과하는 장비를 장착**하고 필드에 진입하면\
+  → 해당 장비의 등급에 맞춰 **싱크 레벨이 적용**됩니다.
 
-## 🎯 1. 영웅 레벨에 맞는 최대 장비 착용이 필수인 이유
+#### 📘 필드별 기준 장비 등급
 
-영웅의 실제 전투력은 **영웅 레벨 + 그 레벨에서 착용 가능한 최고 장비 조합**으로 결정됩니다.
-
-* 높은 레벨의 영웅이 낮은 레벨 장비를 착용하면?\
-  ➡️ **필드 기본 밸런스보다 뒤처짐** (스탯 변환 효율이 급감)
-* 시스템은 장비를 "비율 기반"으로 스케일링하므로, 원본 장비 성능이 낮을수록 스케일링 효율도 낮아짐
-
-💡 **정리:**\
-"영웅 레벨만 높아도 강하다"가 아니라\
-👉 **영웅 레벨에 맞는 ‘장비 레벨 완성도’가 강함을 결정**
+각 필드에는 **싱크 기준이 되는 장비 등급**이 존재합니다.\
+(※ 실제 표는 로컬라이징 파일에 따라 연동 예정)
 
 ***
 
-## 🌍 2. 필드 레벨과 영웅 레벨 차이에 따른 효율 변화
+### 🧪 예시
 
-필드에는 각기 "권장 레벨"이 존재하며, 시스템은 이 기준에 따라 스케일링 효율을 적용합니다.
+#### 📍 필드: **푸른 들판 (Green Field)**
 
-예시) **필드 레벨 30**
+* **기준 등급 : 1**
+  * 강철검
+  * 심연의 오브
+  * 마법사 악세서리
 
-* 영웅 레벨 40 → 상대적으로 유리함
-* 영웅 레벨 55 → 최상위 장비(예: _깨어나는 어둠_) 착용 시 최고 효율
-* 하지만 **55레벨 영웅이 낮은 레벨 장비를 착용하고 있다면?**\
-  ➡️ 오히려 **장비가 갖춰진 40레벨 영웅이 더 강해짐!**
+#### ▶️ 플레이 상황
 
-즉, 필드마다 **효율이 서로 다르게 변동**되며, 이는 필드 점령전·경쟁 콘텐츠에서 전략 다양성을 만들어냅니다.
+플레이어가 **빛의 검 (등급 10)** 을 장착한 상태로 **푸른 들판 진입**
 
-***
+#### ✔️ 결과
 
-## ⚔️ 3. 왜 이렇게 설계되었나요? (디자인 의도)
-
-#### ✔ 플레이어가 단순히 레벨만 올리는 것이 아니라 **장비 세팅 완성도**에 집중하도록 유도
-
-#### ✔ 필드마다 효율이 달라져 **영웅/장비 선택 전략의 다양성** 확보
-
-#### ✔ 추후 **필드 점령전(Field Conquest)** 업데이트 시, 레벨/장비 조합 전략이 더 다이나믹하게 작용
-
-#### ✔ 궁극적으로는 "최고레벨 + 최상위 장비"가 항상 **가장 높은 효율**을 보이도록 설계
+→ **싱크 레벨 10** 이 자동으로 적용됩니다.
 
 ***
 
-## 🧪 4. 핵심 요약
+### 📈 영역 교감의 스케일링 방식
 
-* 영웅의 레벨이 높아도 **장비가 낮으면 효율은 급락**
-* 영웅 레벨과 장비 레벨이 모두 충족될 때 최고의 스케일링 효율 제공
-* 필드 레벨 대비 영웅 레벨이 너무 높거나 낮을 경우 효율 차이가 발생
-* **최고레벨 최상위 장비 = 항상 최고 효율** (시스템 최종 목표)
-* 레벨과 장비 조합을 다르게 가져가면, 각각의 필드에서 **전혀 다른 효율 구조** 경험 가능
-
-***
-
-## 📌 결론
-
-🌟 **장비는 영웅 레벨의 완성도다.**\
-🌟 **최적의 효율 = 영웅 레벨 + 해당 레벨의 최상위 장비 조합**\
-🌟 **필드 효율을 이해하면 필드 점령전과 PvE 모두 훨씬 유리해짐**
-
-필드마다 달라지는 효율 구조를 잘 이해하여, 언제 어디서든 최강의 퍼포먼스를 낼 수 있는 장비 세팅을 완성해 보세요!
-
-***
-
-### 📘 정리
-
-* 영역 교감은 **필드 레벨에 맞춰 자동으로 캐릭터 능력을 조정**하는 보호 + 밸런스 시스템입니다.
-* PK 학살 방지, 저레벨 지역 재료 수급 안정화 등 **게임 생태계 개선 목적**으로 도입되었습니다.
-* 필드 입장 시 내 영웅 & 장비를 기준으로 즉시 계산되며, **최상위 장비 사용 시 최대 이득**을 볼 수 있습니다.
-
-원활한 탐험과 공정한 플레이 환경을 위해 도입된 핵심 시스템, **영역 교감**을 적극 활용해 보세요!
+영역 교감은 최종 스탯을 **비율 기반으로 스케일링**합니다.\
+따라서 **장착 중인 장비 등급, 총 SP 분배량, 인챈트 수치** 등이 높을 수록 더 높은 효율을 갖습니다.\
+⚠️단, **등급이 서로 맞지 않는 장비를 장착 중인 경우 손해**를 볼 수 있습니다.
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -249,119 +142,105 @@ Use Zone Attunement to enjoy a fair, dynamic, and fully scalable world!
 
 <figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
-#### レベルスケーリング・システムガイド
-
-ゾーン・アチューンメントは、**自分より低いレベルのフィールドに入った際、そのフィールドのレベルに合わせてキャラクター能力値を自動調整するシステム**です。複雑だった従来のレベル差システムを廃止し、実績のある **レベルスケーリング方式** を採用しています。
-
-***
-
-### 🧩 導入背景
-
-* プレイヤーが理解しづらかった旧レベルキャップの例外処理を簡略化
-* 高レベルプレイヤーによる **PK の乱殺防止**
-* 低レベル地域での素材採集を適正化
+**領域共感**は、自分よりも低いレベルのフィールドに入場した際、そのフィールドに合わせてキャラクターのステータスを自動調整するシステムです。\
+従来の複雑なレベル差ルールの代わりに、実績のある **レベルスケーリング方式** を採用し、より明確で快適なフィールド探索を実現します。
 
 ***
 
-### ⚙️ 適用方法
+### 🎯 システム目的
 
-#### 1) フィールド進入時、装備中の英雄を基準にスケーリング
+#### 🔹 1. 低レベルプレイヤーの保護
 
-進入した瞬間に現在の英雄データを読み込み、フィールドレベルに調整します。
+高レベルプレイヤーが低レベル地域で無差別にPKを行うことを防止します。
 
-***
+#### 🔹 2. 高レベルの資源収集をサポート
 
-#### 2) フィールドの「推奨最大レベル」に合わせて調整
-
-例：**青い野原（Prado Verde）推奨レベル：Lv.10** → 入場時にレベル10基準でスケーリング。
-
-***
-
-#### 3) 最上位装備を着用するほど有利
-
-ゾーン・アチューンメントでは、能力値を **割合ベースで変換**します。\
-つまり、元の装備ステータスが高いほど、スケーリング後も強くなります。
-
-⚠️ 弱い装備だとスケーリング後も弱い！\
-⚠️ 最終装備ほど効果が最大化！
+高レベルプレイヤーも低レベルゾーンで素材アイテムを効率よく収集できます。\
+フィールドレベルに合わせてステータスが調整されるため、難易度の不均衡が発生しません。
 
 ***
 
-## 🛡️ 装備効率ガイド
+### ⚙️ 領域共感の適用条件
 
-#### 「レベルに合った装備こそ最大効率」— スケーリングを理解して真の戦闘力を引き出す
+#### 🛡️ 装備の最高グレードに基づくシンクレベル適用
 
-英雄は、レベルが高いだけでは強くなりません。\
-そのレベルで着用できる**最上位装備**を身につけてこそ、最大の効率を発揮します。\
-ここでは、英雄レベル・装備レベル・フィールドレベルの関係性をわかりやすく解説します。
+領域共感システムは、現在装備しているアイテムの中で\
+**最も高いグレード** を基準に **シンクレベル** を決定します。
 
-***
+* フィールド基準を超える装備を着用して入場した場合\
+  → その装備のグレードに応じて **シンクレベルが適用** されます。
 
-### 🎯 1. 英雄レベルに合った最強装備が必要な理由
+#### 📘 フィールドごとの基準装備グレード
 
-英雄の実際の戦闘力は **英雄レベル + そのレベル帯の最強装備** の組み合わせで決まります。
-
-* 高レベル英雄が低レベル装備を着けていると？\
-  ➡️ **フィールド基準より弱くなる**（スケーリング効率が低下）
-* システムは **割合ベースのスケーリング**のため、元装備の性能が低いと効率も下がる。
-
-💡 **まとめ:**\
-「レベルが高い＝強い」ではない。\
-👉 **レベルに合った最上位装備を揃えてこそ本当の強さ。**
+各フィールドには、スケーリングの基準となる装備グレードが存在します。\
+（※ 実際の表はローカライズファイルに基づいて連動予定）
 
 ***
 
-### 🌍 2. フィールドレベルと英雄レベルの差で効率が変わる
+### 🧪 例
 
-各フィールドには推奨レベルがあり、その差によって効率が上下します。
+#### 📍 フィールド：**青い野原（Green Field）**
 
-例：**フィールドレベル 30**
+* 基準グレード：**1**
+  * 鋼の剣
+  * 深淵のオーブ
+  * 魔法使いアクセサリー
 
-* 英雄レベル40 → 有利になりやすい
-* 英雄レベル55 → 最上位装備（例：**覚醒する闇**）を装備していれば最高効率
-* しかし55レベル英雄が低レベル装備のままなら？\
-  ➡️ **装備が整った40レベル英雄の方が強い場合もある**
+#### ▶️ プレイ状況
 
-これにより、フィールドごとに**効率が変化**し、将来のフィールド占領戦で多彩な戦略が生まれます。
+プレイヤーが **光の剣（グレード10）** を装備したまま青い野原へ入場。
 
-***
+#### ✔️ 結果
 
-### ⚔️ 3. この設計の意図
-
-✔ 「レベルだけ上げて終わり」ではなく **装備強化の重要性**を高める\
-✔ フィールドごとに **最適英雄が変わる戦略性** を作る\
-✔ フィールド占領戦をよりダイナミックに\
-✔ **最高レベル + 最上位装備 = 常に最強** を明確にする
+→ **シンクレベル10** が自動的に適用されます。
 
 ***
 
-### 🧪 4. 重要ポイント
+### 📈 領域共感のスケーリング方式
 
-* 高レベル英雄 + 低レベル装備 = **効率大幅ダウン**
-* 最大効率は **英雄レベル + そのレベル帯の最強装備** が揃ったときに発揮
-* フィールドレベルとのギャップで効率が変化
-* **最高レベルの最強装備が常に最強効率**
-* レベル＆装備の組み合わせにより、各フィールドで適正が変わる
+領域共感は **最終ステータスを比率に基づいてスケーリング** します。\
+そのため、装備グレード、総SP配分量、エンチャント数値が高いほど、スケール後の効率も向上します。
 
-***
-
-### 📌 結論
-
-🌟 **装備は英雄レベルを完成させる要素**\
-🌟 **最適効率 = 英雄レベル + そのレベル帯の最強装備**\
-🌟 **効率構造を理解すれば、PvEもフィールド戦も大幅に有利に**
-
-英雄レベル・装備・フィールドスケーリングの関係を理解し、どこでも最大性能を発揮できる構成を整えましょう！
-
-***
-
-### 📘 まとめ
-
-* フィールドレベルに応じてキャラクター能力を自動調整
-* PK バランス、素材採集、ゲームエコシステム改善が目的
-* 最強装備を使うほどスケーリングの恩恵が最大
-
-ゾーン・アチューンメントを活用して、公平でスムーズな冒険を楽しみましょう！
+⚠️ ただし、装備同士のグレードが噛み合わない場合、損をする可能性があります。
 {% endtab %}
 {% endtabs %}
 
+#### 🎯Standard Grade Table by Field
+
+<table data-header-hidden><thead><tr><th></th><th width="114.3636474609375"></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Map</td><td><strong>Base Equipment Grade</strong></td><td>Weapon</td><td>Orb</td><td>Necklace</td><td>Bracelet</td><td>Earring</td></tr><tr><td>Green Field</td><td><strong>1</strong></td><td>Steel Sword</td><td>Abyssal Orb</td><td>Mage's Necklace</td><td>Mage's Bracelet</td><td>Mage's Earrings</td></tr><tr><td>Rahan's Manor</td><td><strong>3</strong></td><td>Paladin's Sword</td><td>Wind of Fire</td><td>Spirit's Necklace</td><td>Spirit's Bracelet</td><td>Spirit's Earrings</td></tr><tr><td>Cursed Tomb</td><td><strong>5</strong></td><td>Damascus</td><td>Devil's Hand</td><td>Inferno's Necklace</td><td>Inferno's Bracelet</td><td>Earrings of Inferno</td></tr><tr><td>Temple of Agade</td><td><strong>7</strong></td><td>Oracle Sword</td><td>Devil's Wings</td><td>Emperor's Necklace</td><td>Emperor's Bracelet</td><td>Emperor's Earrings</td></tr><tr><td>Goblin's Mine</td><td><strong>8</strong></td><td>Devil's Sword</td><td>Orb of Judgment</td><td>Necklace of Tears</td><td>Bracelet of Tears</td><td>-</td></tr><tr><td>Savage Forest</td><td><strong>9</strong></td><td>Awakening Darkness</td><td>Rainbow</td><td>Star Necklace</td><td>Star Bracelet</td><td>Star Earrings</td></tr><tr><td>Ancient Tears</td><td><strong>10</strong></td><td>Sword of Light</td><td>Water Wrath</td><td>Butterfly Necklace</td><td>Butterfly Bracelet</td><td>Butterfly Earrings</td></tr><tr><td>Sargon Garrison</td><td><strong>10</strong></td><td>Sword of Light</td><td>Water Wrath</td><td>Butterfly Necklace</td><td>Butterfly Bracelet</td><td>Butterfly Earrings</td></tr></tbody></table>
+
+### 🎯Scaling Data by Field
+
+| **Field**           | **Grade** | **Sample**         | **DMG(%)** | **Chance(%)** | **HP(%)** |
+| ------------------- | --------- | ------------------ | ---------- | ------------- | --------- |
+| **Green Field**     | 2         | Flamberg           | 55.8       | 90            | 30.4      |
+|                     | 3         | Paladin's Sword    | 32.7       | 85            | 19.6      |
+|                     | 4         | Orc eye            | 19.8       | 70            | 13.2      |
+|                     | 5         | Damascus           | 8.5        | 75            | 6.8       |
+|                     | 6         | Savage Sword       | 4.8        | 65            | 3.4       |
+|                     | 7         | Oracle Sword       | 2.6        | 59            | 1.7       |
+|                     | 8         | Devil's Sword      | 1.3        | 53            | 1.2       |
+|                     | 9         | Awakening Darkness | 0.7        | 47            | 0.5       |
+|                     | 10        | Sword of Light     | 0.4        | 41            | 0.2       |
+| **Rahan's Manor**   | 4         |                    | 61.3       | 90            | 68.5      |
+|                     | 5         |                    | 25.8       | 85            | 34.1      |
+|                     | 6         |                    | 14.2       | 70            | 16.9      |
+|                     | 7         |                    | 7.7        | 75            | 8.1       |
+|                     | 8         |                    | 3.7        | 65            | 5.6       |
+|                     | 9         |                    | 1.9        | 59            | 2.4       |
+|                     | 10        |                    | 0.7        | 53            | 0.8       |
+| **Cursed Tomb**     | 6         |                    | 59.1       | 90            | 53        |
+|                     | 7         |                    | 31.3       | 85            | 24.9      |
+|                     | 8         |                    | 14.8       | 70            | 17        |
+|                     | 9         |                    | 7.3        | 75            | 6.9       |
+|                     | 10        |                    | 2.8        | 65            | 2.1       |
+| **Temple of Agade** | 8         |                    | 54.4       | 90            | 85.8      |
+|                     | 9         |                    | 26.2       | 85            | 34.2      |
+|                     | 10        |                    | 9.6        | 70            | 10.2      |
+| **Goblin's Mine**   | 9         |                    | 69.8       | 90            | 57.8      |
+|                     | 10        |                    | 26.2       | 85            | 17.5      |
+| **Ancient Tears**   | -         |                    | -          | -             | -         |
+| **Sargon Garrison** | -         |                    | -          | -             | -         |
+| **Sanjiva**         | 8         |                    | 54.4       | 90            | 85.8      |
+| **Kalasutra**       | 9         |                    | 26.2       | 85            | 34.2      |
+| **Samghata**        | 10        |                    | 9.6        | 70            | 10.2      |
