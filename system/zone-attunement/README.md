@@ -243,5 +243,8 @@ Therefore, higher gear grade, higher total SP distribution, and higher enchant l
 | **Ancient Tears**   | -         |                    | -          | -             | -         |
 | **Sargon Garrison** | -         |                    | -          | -             | -         |
 | **Sanjiva**         | 8         |                    | 54.4       | 90            | 85.8      |
-| **Kalasutra**       | 9         |                    | 26.2       | 85            | 34.2      |
-| **Samghata**        | 10        |                    | 9.6        | 70            | 10.2      |
+|                     | 9         |                    | 26.2       | 85            | 34.2      |
+|                     | 10        |                    | 9.6        | 70            | 10.2      |
+| **Kalasutra**       | 9         |                    | 69.8       | 90            | 57.8      |
+|                     | 10        |                    | 26.2       | 85            | 17.5      |
+| **Samghata**        | 10        |                    | 60.8       | 95            | 48.8      |
