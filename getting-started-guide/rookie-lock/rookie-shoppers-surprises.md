@@ -47,26 +47,26 @@ Opening the Rookie Pack grants all rewards at once:
 
 **Rookie Potion Pack**
 
-* Advanced HP Potion 1200
-* Advanced MP Potion 1200
-* Summon HP Potion Lv.3 1200
+* Advanced HP Potion x 1200
+* Advanced MP Potion x 1200
+* Summon HP Potion Lv.3 x 1200
 
 **Rookie Food Pack**
 
-* Lobster Dish 20
-* Spicy Popcorn 20
+* Lobster Dish x 20
+* Spicy Popcorn x 20
 
 **Rookie Growth Pack**
 
-* Rune of fortune Lv.2 ×1
-* Rune of Protection Lv.2 ×1
+* Rune of fortune Lv.2 × 1
+* Rune of Protection Lv.2 × 1
 * Trial Reload ×5
 
 **Rookie Booster Pack**
 
-* Resurrection Feather 20
-* PK Shield 10
-* Energy 100 Booster 5
+* Resurrection Feather x 20
+* PK Shield x 10
+* Energy 100 Booster x 5
 
 ***
 
@@ -121,26 +121,26 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 **루키 포션팩**
 
-* 고급 HP 포션 1200
-* 고급 MP 포션 1200
-* 소환수 HP 포션 Lv.3 1200
+* 고급 HP 포션 x 1200
+* 고급 MP 포션 x 1200
+* 소환수 HP 포션 Lv.3 x 1200
 
 **루키 푸드팩**
 
-* 랍스터 디쉬 20
-* 매운 팝콘 20
+* 랍스터 디쉬 x 20
+* 매운 팝콘 x 20
 
 **루키 성장팩**
 
-* 행운의 룬 Lv.2 ×1
-* 보호의 룬 Lv.2 ×1
-* 트라이얼 리로드 ×5
+* 행운의 룬 Lv.2 × 1
+* 보호의 룬 Lv.2 × 1
+* 트라이얼 리로드 × 5
 
 **루키 부스터팩**
 
-* 부활의 깃털 20
-* PK 실드 10
-* 에너지 100 부스터 5
+* 부활의 깃털 x 20
+* PK 실드 x 10
+* 에너지 100 부스터 x 5
 
 ***
 
@@ -194,26 +194,26 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 **ルーキーポーションパック**
 
-* 高級HPポーション 1200
-* 高級MPポーション 1200
-* 召喚獣HPポーション Lv.3 1200
+* 高級HPポーション x 1200
+* 高級MPポーション x 1200
+* 召喚獣HPポーション Lv.3 x 1200
 
 **ルーキーフードパック**
 
-* ロブスターディッシュ 20
-* スパイシーポップコーン 20
+* ロブスターディッシュ x 20
+* スパイシーポップコーン x 20
 
 **ルーキー成長パック**
 
-* 幸運のルーン Lv.2 ×1
-* 保護のルーン Lv.2 ×1
-* トライアルリロード ×5
+* 幸運のルーン Lv.2 × 1
+* 保護のルーン Lv.2 × 1
+* トライアルリロード × 5
 
 **ルーキーブースターパック**
 
-* 復活の羽 20
-* PKシールド 10
-* エナジー100ブースター 5
+* 復活の羽 x 20
+* PKシールド x 10
+* エナジー100ブースター x 5
 
 ***
 
