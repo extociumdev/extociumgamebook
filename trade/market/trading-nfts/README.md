@@ -38,8 +38,8 @@ description: 🛑 This information may be updated later than the game server dat
 [buy.md](buy.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/NrTxnvCgrNLgY7qcCpBX" %}
+[Broken link](/broken/pages/NrTxnvCgrNLgY7qcCpBX)
 {% endcontent-ref %}
 
 ***

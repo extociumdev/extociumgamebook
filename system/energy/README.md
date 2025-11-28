@@ -55,7 +55,7 @@ This system plays a role in preventing inflation of in-game items, including XTO
 [👉Check the 0 energy penalty in detail ](0-energy-penalty.md)
 {% endhint %}
 
-💡**If you want to hunt more, you can purchase additional energy in the** [**shop**](broken-reference) **with BNB or gems.**&#x20;
+💡**If you want to hunt more, you can purchase additional energy in the** [**shop**](/broken/pages/wApkRb4scrYQrWzIEUj6) **with BNB or gems.**&#x20;
 
 <figure><img src="../../.gitbook/assets/image (823).png" alt=""><figcaption><p>A confirmation pop-up appears when using a potion.</p></figcaption></figure>
 
@@ -96,7 +96,7 @@ This system plays a role in preventing inflation of in-game items, including XTO
 **💡플레이 중인 영웅의 레벨에 따라 일정 경험치를 획득하면 에너지가 1씩 감소합니다.**
 
 * 자신의 레벨보다 11 만큼 낮은 몬스터를 사냥하면, 해당 몬스터의 레벨 기준에 따라 에너지가 소모됩니다.&#x20;
-* 예를 들어 나의 레벨이 21인데, 10레벨 몬스터를 사냥한다면, 원래 나의 에너지 감소 테이블은 21레벨을 따라야 하지만, '[레벨 캡 시스템](broken-reference)'에 의해 10 레벨의 에너지 감소 테이블을 따르게 됩니다
+* 예를 들어 나의 레벨이 21인데, 10레벨 몬스터를 사냥한다면, 원래 나의 에너지 감소 테이블은 21레벨을 따라야 하지만, '[레벨 캡 시스템](/broken/pages/xS9mxiY77pGcLnZEadui)'에 의해 10 레벨의 에너지 감소 테이블을 따르게 됩니다
 * 자신의 레벨보다 높은 몬스터를 사냥하면 경험치를 많이 얻기 때문에, 에너지가 매우 빠르게 소모되는 것 처럼 느낄 수 있습니다. 주의하세요!
 
 {% hint style="info" %}
@@ -109,7 +109,7 @@ This system plays a role in preventing inflation of in-game items, including XTO
 👉[0 에너지 패널티 자세히 확인하기](0-energy-penalty.md)
 {% endhint %}
 
-**💡더 많은 사냥을 하고 싶다면** [**상점**](broken-reference)**에서 BNB나 젬으로 여분의 에너지를 구입할 수 있습니다.**
+**💡더 많은 사냥을 하고 싶다면** [**상점**](/broken/pages/wApkRb4scrYQrWzIEUj6)**에서 BNB나 젬으로 여분의 에너지를 구입할 수 있습니다.**
 
 <figure><img src="../../.gitbook/assets/image (823).png" alt=""><figcaption><p>포션 사용 시 확인 팝업이 등장합니다.</p></figcaption></figure>
 
@@ -165,7 +165,7 @@ This system plays a role in preventing inflation of in-game items, including XTO
 [👉0エネルギーペナルティを詳しく確認する ](0-energy-penalty.md)
 {% endhint %}
 
-💡もっと狩りをしたい場合は、[店舗](broken-reference)でBNBやジェムで余分なエネルギーを購入することができます。&#x20;
+💡もっと狩りをしたい場合は、[店舗](/broken/pages/wApkRb4scrYQrWzIEUj6)でBNBやジェムで余分なエネルギーを購入することができます。&#x20;
 
 <figure><img src="../../.gitbook/assets/image (823).png" alt=""><figcaption><p>ポーション使用時に確認ポップアップが表示されます。</p></figcaption></figure>
 

@@ -30,8 +30,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 **❓**&#x45;xplore the various ways and rules to grow your hero.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/xS9mxiY77pGcLnZEadui" %}
+[Broken link](/broken/pages/xS9mxiY77pGcLnZEadui)
 {% endcontent-ref %}
 
 {% content-ref url="../../system/energy/" %}
@@ -68,8 +68,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 **❓**&#xC601;웅을 성장 시키는 다양한 방법과 규칙을 확인해 보세요.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/xS9mxiY77pGcLnZEadui" %}
+[Broken link](/broken/pages/xS9mxiY77pGcLnZEadui)
 {% endcontent-ref %}
 
 {% content-ref url="../../system/energy/" %}
@@ -106,8 +106,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 **❓**&#x82F1;雄を成長させるためのさまざまな方法とルールを確認しましょう。.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/xS9mxiY77pGcLnZEadui" %}
+[Broken link](/broken/pages/xS9mxiY77pGcLnZEadui)
 {% endcontent-ref %}
 
 {% content-ref url="../../system/energy/" %}

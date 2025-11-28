@@ -10,7 +10,7 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 ### 💡 ‘Rookie Lock’ System – Essential for New Adventurers!
 
-When you first enter EXTOCIUM, the 'Rookie Lock' is applied to all features related to **trading and swapping**. This system is designed to protect the[ XTO](broken-reference) ecosystem and prevent unfair resource accumulation through multiple accounts.
+When you first enter EXTOCIUM, the 'Rookie Lock' is applied to all features related to **trading and swapping**. This system is designed to protect the[ XTO](/broken/pages/AG4T2oH3KnzlguCn0fOx) ecosystem and prevent unfair resource accumulation through multiple accounts.
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ When you first enter EXTOCIUM, the 'Rookie Lock' is applied to all features rela
 {% tab title="한국어" %}
 ### 💡 ‘루키 락’ 시스템 – 신규 모험가 필수 체크!
 
-EXTOCIUM에 처음 입장하면, '거래'와 '스왑'에 관련된 모든 기능에 '루키 락'이 부여되어 있습니다. 이 시스템은 [XTO](broken-reference) 생태계를 보호하고, 다계정 생성으로 인한 불공정한 자원 축적을 방지하기 위해 도입되었습니다.
+EXTOCIUM에 처음 입장하면, '거래'와 '스왑'에 관련된 모든 기능에 '루키 락'이 부여되어 있습니다. 이 시스템은 [XTO](/broken/pages/AG4T2oH3KnzlguCn0fOx) 생태계를 보호하고, 다계정 생성으로 인한 불공정한 자원 축적을 방지하기 위해 도입되었습니다.
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
@@ -64,7 +64,7 @@ EXTOCIUM에 처음 입장하면, '거래'와 '스왑'에 관련된 모든 기능
 {% tab title="日本語" %}
 ### 💡『ルーキーロック』システム – 新規冒険者必見！
 
-EXTOCIUMに初めて入場すると、**取引とスワップに関するすべての機能**に『ルーキーロック』が適用されます。 このシステムは[XTO](broken-reference)エコシステムを保護し、多重アカウントによる不正なリソース蓄積を防ぐために導入されました。
+EXTOCIUMに初めて入場すると、**取引とスワップに関するすべての機能**に『ルーキーロック』が適用されます。 このシステムは[XTO](/broken/pages/AG4T2oH3KnzlguCn0fOx)エコシステムを保護し、多重アカウントによる不正なリソース蓄積を防ぐために導入されました。
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
