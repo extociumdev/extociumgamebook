@@ -58,13 +58,13 @@ Opening the Rookie Pack grants all rewards at once:
 
 **Rookie Growth Pack**
 
-* Rune of Luck Lv.2 ×1
+* Rune of fortune Lv.2 ×1
 * Rune of Protection Lv.2 ×1
 * Trial Reload ×5
 
 **Rookie Booster Pack**
 
-* Feather of Revival 20
+* Resurrection Feather 20
 * PK Shield 10
 * Energy 100 Booster 5
 
@@ -211,7 +211,7 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 **ルーキーブースターパック**
 
-* 復活の羽根 20
+* 復活の羽 20
 * PKシールド 10
 * エナジー100ブースター 5
 
