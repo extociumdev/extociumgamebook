@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 💰 Personal Trade
 
-<figure><img src="../.gitbook/assets/PrivateGuide.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PrivateGuide.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -21,7 +21,7 @@ If you want to trade your items not in an open space like a market, but secretly
 
 #### 1️⃣Send request
 
-<figure><img src="../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
 
 * Approach the trading partner with an '[Item Trading Pass](personal-trade.md#how-to-get-item-trading-pass)' in your inventory.&#x20;
 * Then, a blue trade icon will appear above the other user's head.&#x20;
@@ -29,14 +29,14 @@ If you want to trade your items not in an open space like a market, but secretly
 
 #### 2️⃣**Respond to requests**
 
-<figure><img src="../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
 
 * A trade request popup will appear on the other person's screen.&#x20;
 * Touch the 'Accept' button to start the trade.
 
 #### 3️⃣Let's trade!
 
-<figure><img src="../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
 
 * When the trading window appears, you can enter the gold or items to be used in the trade. The top area displays the other party's registered goods, while the bottom area shows your registered goods.
 * From the left inventory, you can drag & drop the items you wish to trade into the trading slot at the bottom right. Similarly, by touching the gold input form, you can enter the amount of gold to be exchanged.
@@ -48,9 +48,9 @@ If you want to trade your items not in an open space like a market, but secretly
 
 #### 4️⃣How to get ‘Item Trading Pass’
 
-<figure><img src="../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
 
-Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Item Trade Shard' from the [🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box) to craft an Item trading pass.
+Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Item Trade Shard' from the [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) to craft an Item trading pass.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -67,7 +67,7 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 #### 1️⃣요청 보내기
 
-<figure><img src="../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
 
 * '[아이템 거래권](personal-trade.md#how-to-get-item-trading-pass)'을 인벤토리에 보유한 상태로 거래 대상에게 직접 다가갑니다.
 * 그러면상대 유저의 머리 위에 파란색 거래 아이콘이 생성됩니다.
@@ -75,14 +75,14 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 #### 2️⃣요청에 응답하기
 
-<figure><img src="../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
 
 * 상대의 화면에 거래 요청 팝업이 뜹니다.&#x20;
 * '수락' 버튼을 터치하면 거래가 시작됩니다.
 
 #### 3️⃣거래하기
 
-<figure><img src="../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
 
 * 거래 창이 나타나면 거래에 사용될 골드나 아이템을 입력할 수 있게 됩니다. 상단 영역은 상대방의 재화 등록 정보, 하단 영역은 나의 재화 등록 정보가 표시됩니다.&#x20;
 * 좌측 인벤토리에서 내가 거래할 아이템을 우측 하단의 거래 슬롯으로 드래그&드랍 하여 등록할 수 있습니다. 마찬가지로 골드 입력 폼을 터치하여 주고 받을 골드를 입력할 수 있습니다.
@@ -94,9 +94,9 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 #### 4️⃣'아이템 거래권' 획득 방법
 
-<figure><img src="../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
 
-아이템 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. 또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box) 에서 나온 '아이템 거래권 조각'을 모아 아이템 거래권을 제작할 수도 있습니다.&#x20;
+아이템 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. 또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) 에서 나온 '아이템 거래권 조각'을 모아 아이템 거래권을 제작할 수도 있습니다.&#x20;
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -113,7 +113,7 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 #### 1️⃣リクエストを送る
 
-<figure><img src="../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
 
 * インベントリに「[アイテム取引券](personal-trade.md#how-to-get-item-trading-pass)」を持った状態で、取引相手に直接近づきます。&#x20;
 * すると、相手ユーザーの頭上に青い取引アイコンが生成されます。&#x20;
@@ -121,14 +121,14 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 #### 2️⃣リクエストに応答する
 
-<figure><img src="../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
 
 * 相手の画面に取引要求のポップアップが表示されます。
 * &#x20;「受け入れる」ボタンをタッチすると、取引が開始されます。
 
 #### 3️⃣取引する
 
-<figure><img src="../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
 
 * 取引ウィンドウが表示されると、取引に使用されるゴールドやアイテムを入力できます。上部エリアには相手方の登録した財産の情報が、下部エリアには自分の登録した財産の情報が表示されます。
 * 左側のインベントリから取引するアイテムを右下の取引スロットにドラッグ＆ドロップして登録できます。同様に、ゴールド入力フォームをタッチすることで、交換するゴールドを入力できます。
@@ -140,9 +140,9 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 #### 4️⃣「アイテム取引許可」の入手方法
 
-<figure><img src="../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
 
-装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
+装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
 {% endtab %}
 {% endtabs %}
 

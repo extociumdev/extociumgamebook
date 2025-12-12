@@ -26,7 +26,7 @@ When you first enter EXTOCIUM, the 'Rookie Lock' is applied to all features rela
 
 🔓 **How to unlock?**&#x20;
 
-1️⃣ **Purchase a Hero NFT from the** [**in-game market**](../../trade/market/#eng) \
+1️⃣ **Purchase a Hero NFT from the** [**in-game market**](../../economy/trade/market/#eng) \
 2️⃣ **Summon a hero directly in the game**&#x20;
 
 💡 You must always own a **Hero NFT** in your account to keep Rookie Lock unlocked!
@@ -53,7 +53,7 @@ EXTOCIUM에 처음 입장하면, '거래'와 '스왑'에 관련된 모든 기능
 
 🔓 **해제 방법은?**
 
-1️⃣[ **인게임 마켓**](../../trade/market/#undefined-1)**에서 영웅 NFT 구매** \
+1️⃣[ **인게임 마켓**](../../economy/trade/market/#undefined-1)**에서 영웅 NFT 구매** \
 2️⃣ **게임 내 ‘영웅 소환’ 직접 진행**&#x20;
 
 💡 단, 계정에 항상 **영웅 NFT**를 보유해야 루키 락 해제가 유지됩니다!
@@ -80,7 +80,7 @@ EXTOCIUMに初めて入場すると、**取引とスワップに関するすべ�
 
 🔓 **解除方法は？**&#x20;
 
-1️⃣ [**ゲーム内マーケット**](../../trade/market/#ri-ben-yu)**でヒーローNFTを購入** \
+1️⃣ [**ゲーム内マーケット**](../../economy/trade/market/#ri-ben-yu)**でヒーローNFTを購入** \
 2️⃣ **ゲーム内でヒーローを直接召喚**&#x20;
 
 💡 ルーキーロック解除を維持するには、**ヒーローNFT**を常にアカウントに保有する必要があります！

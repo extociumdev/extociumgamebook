@@ -6,7 +6,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**When an orb is created, it triggers one of the following four types of '**[**stat** ](../../heroes/stats/)**options':** Additionally, when an orb is [enchanted](../enchantment/orb-enchantment.md), stat options corresponding to the enchantment level are added.
+💡**When an orb is created, it triggers one of the following four types of '**[**stat** ](../../heroes/stats/)**options':** Additionally, when an orb is [enchanted](../../enchantment/orb-enchantment.md), stat options corresponding to the enchantment level are added.
 
 1. [Fixed option ](orb-stats.md#id-1-fixed-option)
 2. [Primary stat option (probabilistic) ](orb-stats.md#id-2-primary-stat-option-probabilistic)
@@ -104,7 +104,7 @@ As the orb level increases, the minimum to maximum values of the options also in
 
 {% tab title="한국어" %}
 💡**오브가 생성 될 때는 아래와 같은 네 가지 조건의 ‘**[**스탯**](../../heroes/stats/) **옵션’이 발동됩니다.**\
-또한 오브를 [인챈트](../enchantment/weapon-enchantment.md) 하는 경우, 인챈트 레벨에 따른 스탯 옵션이 추가됩니다.
+또한 오브를 [인챈트](../../enchantment/weapon-enchantment.md) 하는 경우, 인챈트 레벨에 따른 스탯 옵션이 추가됩니다.
 
 1. [고정 옵션](orb-stats.md#id-1)
 2. [1차 스탯 옵션 (확률적)](orb-stats.md#id-2-1)
@@ -205,7 +205,7 @@ As the orb level increases, the minimum to maximum values of the options also in
 {% tab title="日本語" %}
 💡**オーブが生成される際、以下の4種類の「**[**ステータスオプション**](../../heroes/stats/)**」が発動されます。**&#x20;
 
-また、[オーブをエンチャントする場合](../enchantment/orb-enchantment.md)、エンチャントレベルに応じたステータスオプションが追加されます。
+また、[オーブをエンチャントする場合](../../enchantment/orb-enchantment.md)、エンチャントレベルに応じたステータスオプションが追加されます。
 
 1. 固定オプション
 2. 1次ステータスオプション（確率的）

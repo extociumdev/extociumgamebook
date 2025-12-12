@@ -8,14 +8,6 @@
 
 ## 📕 Getting started guide
 
-* [🏹 How to Battle](getting-started-guide/how-to-battle.md)
-* [⚒️ How to Craft](getting-started-guide/how-to-craft.md)
-* [🏋️ How to Training](getting-started-guide/how-to-training.md)
-* [🍎 How to Collect](getting-started-guide/how-to-collect.md)
-* [🦸 Rookie Lock](getting-started-guide/rookie-lock/README.md)
-  * [🐤 Trial Hero](getting-started-guide/rookie-lock/trial-hero.md)
-  * [🎁 Rookie Shopper's Surprises](getting-started-guide/rookie-lock/rookie-shoppers-surprises.md)
-  * [👻 Transferring Trial Hero Data](getting-started-guide/rookie-lock/transferring-trial-hero-data.md)
 * [🦊 Wallet connection](getting-started-guide/wallet-connection/README.md)
   * [1️⃣ What is MetaMask?](getting-started-guide/wallet-connection/what-is-metamask.md)
   * [2️⃣ Adding a BSC network to MetaMask](getting-started-guide/wallet-connection/adding-a-bsc-network-to-metamask.md)
@@ -28,6 +20,17 @@
   * [⛔ Precautions](getting-started-guide/wallet-connection/precautions.md)
   * [🔖 Commonly Issues](getting-started-guide/wallet-connection/commonly-issues.md)
   * [🪙 Blockchain for Beginners](getting-started-guide/wallet-connection/blockchain-for-beginners.md)
+* [🧬 NFT Minting Guide](getting-started-guide/nft-minting-guide/README.md)
+  * [📂 Hero NFT](getting-started-guide/nft-minting-guide/hero-nft.md)
+  * [📂 Equipment NFT](getting-started-guide/nft-minting-guide/equipment-nft.md)
+* [🦸 Rookie Lock](getting-started-guide/rookie-lock/README.md)
+  * [🐤 Trial Hero](getting-started-guide/rookie-lock/trial-hero.md)
+  * [🎁 Rookie Shopper's Surprises](getting-started-guide/rookie-lock/rookie-shoppers-surprises.md)
+  * [👻 Transferring Trial Hero Data](getting-started-guide/rookie-lock/transferring-trial-hero-data.md)
+* [🏹 How to Battle](getting-started-guide/how-to-battle.md)
+* [⚒️ How to Craft](getting-started-guide/how-to-craft.md)
+* [🏋️ How to Training](getting-started-guide/how-to-training.md)
+* [🍎 How to Collect](getting-started-guide/how-to-collect.md)
 
 ## 😎 Growth
 
@@ -50,9 +53,6 @@
   * [🎖️ Succession Heroes](growth/heroes/succession-heroes/README.md)
     * [❤️‍🔥 Indra](growth/heroes/succession-heroes/indra.md)
     * [🌊 Nanna](growth/heroes/succession-heroes/nanna.md)
-* [🧬 NFT Minting Guide](growth/nft-minting-guide/README.md)
-  * [📂 Hero NFT](growth/nft-minting-guide/hero-nft.md)
-  * [📂 Equipment NFT](growth/nft-minting-guide/equipment-nft.md)
 * [⚔️ Equipment](growth/equipment/README.md)
   * [⚔️ Weapon](growth/equipment/weapon/README.md)
     * [✨ Weapon Stats](growth/equipment/weapon/weapon-stats.md)
@@ -67,12 +67,12 @@
     * [📿 Necklace](growth/equipment/accessories/necklace.md)
     * [🙌 Bracelet](growth/equipment/accessories/bracelet.md)
     * [🍒 Earring](growth/equipment/accessories/earring.md)
-  * [✡️ Enchantment](growth/equipment/enchantment/README.md)
-    * [1️⃣ Weapon Enchantment](growth/equipment/enchantment/weapon-enchantment.md)
-    * [2️⃣ Orb Enchantment](growth/equipment/enchantment/orb-enchantment.md)
-    * [⚡Enchant Stage Additional Effects](growth/equipment/enchantment/enchant-stage-additional-effects.md)
-    * [💔 Enchantment Failed](growth/equipment/enchantment/enchantment-failed.md)
-    * [💎 Support Items](growth/equipment/enchantment/support-items.md)
+* [✡️ Enchantment](growth/enchantment/README.md)
+  * [1️⃣ Weapon Enchantment](growth/enchantment/weapon-enchantment.md)
+  * [2️⃣ Orb Enchantment](growth/enchantment/orb-enchantment.md)
+  * [⚡Enchant Stage Additional Effects](growth/enchantment/enchant-stage-additional-effects.md)
+  * [💔 Enchantment Failed](growth/enchantment/enchantment-failed.md)
+  * [💎 Support Items](growth/enchantment/support-items.md)
 * [⛏️ Mining Settings](growth/mining-settings/README.md)
   * [🤠 Hero NFT Settings](growth/mining-settings/hero-nft-settings/README.md)
     * [📂 Gold Mining Quantity](growth/mining-settings/hero-nft-settings/gold-mining-quantity.md)
@@ -110,39 +110,6 @@
 * [🧑‍🤝‍🧑 Party](system/party.md)
 * [🥩 Abundance and Famine](system/abundance-and-famine.md)
 
-## 📈 Trade
-
-* [⚖️ Market](trade/market/README.md)
-  * [📁 Trading NFTs](trade/market/trading-nfts/README.md)
-    * [📥 Buy](trade/market/trading-nfts/buy.md)
-    * [📤 Sell](trade/market/trading-nfts/sell.md)
-    * [🔖 Common Issues](trade/market/trading-nfts/common-issues.md)
-    * [🚨 Verification of NFT](trade/market/trading-nfts/verification-of-nft.md)
-    * [🧇 Register NFT to Wallet](trade/market/trading-nfts/register-nft-to-wallet.md)
-  * [📁 Trading Items](trade/market/trading-items/README.md)
-    * [📥 Buy](trade/market/trading-items/buy.md)
-    * [📤 Sell](trade/market/trading-items/sell.md)
-* [💰 Personal Trade](trade/personal-trade.md)
-* [📩 Escrow](trade/escrow.md)
-
-## 🪙 XTO token
-
-* [📋 XTO Summary](xto-token/xto-summary/README.md)
-  * [📃 Our Mission](xto-token/xto-summary/our-mission.md)
-  * [📝 Exclusive Benefits for Holders](xto-token/xto-summary/exclusive-benefits-for-holders.md)
-* [🤝 XTO Swap Service](xto-token/xto-swap-service/README.md)
-  * [1️⃣ Gold -> XTO](xto-token/xto-swap-service/gold-greater-than-xto.md)
-  * [2️⃣ XTO -> Gold](xto-token/xto-swap-service/xto-greater-than-gold.md)
-  * [☠️ Abundance and Famine](xto-token/xto-swap-service/abundance-and-famine.md)
-* [🎁 XTO Holding Service](xto-token/xto-holding-service/README.md)
-  * [🍓 X Points Earning Rate](xto-token/xto-holding-service/x-points-earning-rate.md)
-* [🏦 Gold Safe Service](xto-token/gold-safe-service.md)
-
-## 📦 Item Info
-
-* [🗃️ Random Box Info](item-info/random-box-info.md)
-* [💝 Lucky Box Info](item-info/lucky-box-info.md)
-
 ## 🕹️ GameMode
 
 * [🏆 1vs1 Arena](gamemode/1vs1-arena/README.md)
@@ -150,32 +117,20 @@
   * [📁 League & Trophy](gamemode/1vs1-arena/league-and-trophy.md)
   * [📁 Ranking Rewards](gamemode/1vs1-arena/ranking-rewards.md)
   * [📁 Arena-Roulette](gamemode/1vs1-arena/arena-roulette.md)
-* [🎲 Rabbit Rush](gamemode/rabbit-rush/README.md)
-  * [📁 Entrance](gamemode/rabbit-rush/entrance.md)
-  * [📁 Buy tickets](gamemode/rabbit-rush/buy-tickets.md)
-  * [📁 Game rules](gamemode/rabbit-rush/game-rules.md)
-  * [📁 Sell tickets](gamemode/rabbit-rush/sell-tickets.md)
 * [🎮 Free Arena](gamemode/free-arena/README.md)
   * [📁 Enterance](gamemode/free-arena/enterance.md)
   * [📁 Room rules](gamemode/free-arena/room-rules.md)
   * [📁 Game Options](gamemode/free-arena/game-options.md)
 * [❄️ Frost War](gamemode/frost-war/README.md)
   * [🏰 Club Frost War](gamemode/frost-war/club-frost-war.md)
+* [🎲 Rabbit Rush](gamemode/rabbit-rush/README.md)
+  * [📁 Entrance](gamemode/rabbit-rush/entrance.md)
+  * [📁 Buy tickets](gamemode/rabbit-rush/buy-tickets.md)
+  * [📁 Game rules](gamemode/rabbit-rush/game-rules.md)
+  * [📁 Sell tickets](gamemode/rabbit-rush/sell-tickets.md)
 * [🏺 Naraka Dungeon](gamemode/naraka-dungeon.md)
 * [🎃 Field Wave](gamemode/field-wave.md)
-* [😈 Field Raid](gamemode/field-raid.md)
-
-## 💘 Clientelas Club
-
-* [🤝 Patron & Client](clientelas-club/patron-and-client.md)
-* [🍺 Club](clientelas-club/club/README.md)
-  * [🚪 Join](clientelas-club/club/join.md)
-  * [🗝️ Create Club](clientelas-club/club/create-club.md)
-  * [⚒️ Club Management](clientelas-club/club/club-management.md)
-  * [📦 Club Warehouse](clientelas-club/club/club-warehouse.md)
-* [🔥 Club War](clientelas-club/club-war/README.md)
-  * [🥇 Medal](clientelas-club/club-war/medal.md)
-  * [🏆 Seven Sacred Relics](clientelas-club/club-war/seven-sacred-relics.md)
+* [😈 Field Raid (Field Boss)](gamemode/field-raid-field-boss.md)
 
 ## 🌤️ Contents
 
@@ -219,14 +174,59 @@
   * [🌋 \~Lv.55 Ancient Tears (PK)](field-info/fields-by-level/lv.55-ancient-tears-pk.md)
   * [🌋 \~Lv.59 Sargon Garrison (PK)](field-info/fields-by-level/lv.59-sargon-garrison-pk.md)
 
-## 💰 Shop
+## 💘 Clientelas Club
 
-* [🎁 Shop](shop/shop/README.md)
-  * [💎 Gem Shop](shop/shop/gem-shop.md)
-  * [🦊 BNB / Gem Shop](shop/shop/bnb-gem-shop.md)
-  * [🔯 XTO Shop](shop/shop/xto-shop.md)
-  * [📜 RENTAL](shop/shop/rental.md)
-  * [😎 Skin info](shop/shop/skin-info.md)
+* [🤝 Patron & Client](clientelas-club/patron-and-client.md)
+* [🍺 Club](clientelas-club/club/README.md)
+  * [🚪 Join](clientelas-club/club/join.md)
+  * [🗝️ Create Club](clientelas-club/club/create-club.md)
+  * [⚒️ Club Management](clientelas-club/club/club-management.md)
+  * [📦 Club Warehouse](clientelas-club/club/club-warehouse.md)
+* [🔥 Club War](clientelas-club/club-war/README.md)
+  * [🥇 Medal](clientelas-club/club-war/medal.md)
+  * [🏆 Seven Sacred Relics](clientelas-club/club-war/seven-sacred-relics.md)
+
+## 💰 ECONOMY
+
+* [🎁 Shop](economy/shop/README.md)
+  * [💎 Gem Shop](economy/shop/gem-shop.md)
+  * [🦊 BNB / Gem Shop](economy/shop/bnb-gem-shop.md)
+  * [🔯 XTO Shop](economy/shop/xto-shop.md)
+  * [😎 Skin info](economy/shop/skin-info.md)
+  * [🪬 Asset Rental](economy/shop/asset-rental/README.md)
+    * [🧝 Hero Rental](economy/shop/asset-rental/hero-rental.md)
+    * [🗡️ Weapon Rental](economy/shop/asset-rental/weapon-rental.md)
+* [📈 Trade](economy/trade/README.md)
+  * [⚖️ Market](economy/trade/market/README.md)
+    * [📁 Trading NFTs](economy/trade/market/trading-nfts/README.md)
+      * [📥 Buy](economy/trade/market/trading-nfts/buy.md)
+      * [📤 Sell](economy/trade/market/trading-nfts/sell.md)
+      * [🔖 Common Issues](economy/trade/market/trading-nfts/common-issues.md)
+      * [🚨 Verification of NFT](economy/trade/market/trading-nfts/verification-of-nft.md)
+      * [🧇 Register NFT to Wallet](economy/trade/market/trading-nfts/register-nft-to-wallet.md)
+    * [📁 Trading Items](economy/trade/market/trading-items/README.md)
+      * [📥 Buy](economy/trade/market/trading-items/buy.md)
+      * [📤 Sell](economy/trade/market/trading-items/sell.md)
+  * [💰 Personal Trade](economy/trade/personal-trade.md)
+  * [📩 Escrow](economy/trade/escrow.md)
+
+## 🪙 XTO token
+
+* [📋 XTO Summary](xto-token/xto-summary/README.md)
+  * [📃 Our Mission](xto-token/xto-summary/our-mission.md)
+  * [📝 Exclusive Benefits for Holders](xto-token/xto-summary/exclusive-benefits-for-holders.md)
+* [🤝 XTO Swap Service](xto-token/xto-swap-service/README.md)
+  * [1️⃣ Gold -> XTO](xto-token/xto-swap-service/gold-greater-than-xto.md)
+  * [2️⃣ XTO -> Gold](xto-token/xto-swap-service/xto-greater-than-gold.md)
+  * [☠️ Abundance and Famine](xto-token/xto-swap-service/abundance-and-famine.md)
+* [🎁 XTO Holding Service](xto-token/xto-holding-service/README.md)
+  * [🍓 X Points Earning Rate](xto-token/xto-holding-service/x-points-earning-rate.md)
+* [🏦 Gold Safe Service](xto-token/gold-safe-service.md)
+
+## 📦 Item Info
+
+* [🗃️ Random Box Info](item-info/random-box-info.md)
+* [💝 Lucky Box Info](item-info/lucky-box-info.md)
 
 ## 🇰🇷 Company\&Team
 

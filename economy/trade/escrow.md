@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 📩 Escrow
 
-<figure><img src="../.gitbook/assets/EscrowGuide.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/EscrowGuide.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -22,7 +22,7 @@ If you want to trade your equipment secretly with a specific person, rather than
 
 ### 😊Send request
 
-<figure><img src="../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
 
 1. A holds an 'Equipment Trade Pass' and goes to 'Mailbox' > 'Escrow' tab, then touches the 'Send' button at the bottom right.&#x20;
 2. Select the equipment to send and accurately enter the game nickname of the recipient. (Currently, NFT equipment trading is not supported.)&#x20;
@@ -39,9 +39,9 @@ If you want to trade your equipment secretly with a specific person, rather than
 
 ### ✅How to get ‘Equipment Trading Pass’
 
-<figure><img src="../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
-Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Equipment Trade Shard' from the [🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box) to craft an equipment trading pass.
+Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Equipment Trade Shard' from the [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) to craft an equipment trading pass.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -59,7 +59,7 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 
 ### 😊요청 보내기
 
-<figure><img src="../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
 
 1. A는 '장비 거래권'을 소지하고 '우편함' > '에스크로' 탭으로 이동하여 우측 하단의 '보내기' 버튼을 터치합니다.&#x20;
 2. 보낼 장비를 선택하고, 보낼 사람의 게임 닉네임을 정확히 입력해주세요. ( 현재는 NFT 장비 거래는 지원하지 않습니다. )
@@ -75,10 +75,10 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 
 ### ✅'장비 거래권' 획득 방법
 
-<figure><img src="../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
 장비 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. \
-또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box) 에서 나온 '장비 거래권 조각'을 모아 장비 거래권을 제작할 수도 있습니다.&#x20;
+또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) 에서 나온 '장비 거래권 조각'을 모아 장비 거래권을 제작할 수도 있습니다.&#x20;
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -96,7 +96,7 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 
 ### 😊リクエストを送る
 
-<figure><img src="../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
 
 1. Aは「装備取引権」を所持し、「メールボックス」>「エスクロー」タブに移動して、右下の「送信」ボタンをタッチします。&#x20;
 2. 送信する装備を選択し、受信者のゲームのニックネームを正確に入力してください。(現在、NFT装備の取引はサポートされていません)&#x20;
@@ -112,9 +112,9 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 
 ### ✅「装備取引許可」の入手方法
 
-<figure><img src="../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
 装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。\
-さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
+さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
 {% endtab %}
 {% endtabs %}

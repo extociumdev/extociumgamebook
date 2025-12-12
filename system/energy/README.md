@@ -85,7 +85,7 @@ This system plays a role in preventing inflation of in-game items, including XTO
 | 에너지 종류                                         | 무료 에너지, 유료 에너지                                                                                                                                       |
 | 에너지 소모 순서                                      | 유료 에너지가 일일 에너지보다 우선 소모됨                                                                                                                              |
 | <mark style="color:blue;">무료 에너지 충전</mark>     | <p>매일 50 만큼 자동 충전, <br>누적되지 않고 매일 초기화<br>🕖Asia Server : KST 00:00<br>🕖USA Server : UTC 00:00</p>                                                   |
-| <mark style="color:purple;">유료 에너지 획득</mark>   | [상점](../../trade/market/#undefined-1)에서 구입하거나 광고를 통해 획득 가능                                                                                           |
+| <mark style="color:purple;">유료 에너지 획득</mark>   | [상점](../../economy/trade/market/#undefined-1)에서 구입하거나 광고를 통해 획득 가능                                                                                   |
 | <mark style="color:blue;">무료 에너지 사용 시</mark>   | ⛔<mark style="color:orange;">**아이템 및 골드 드랍 확률 20% 감소**</mark>                                                                                        |
 | <mark style="color:purple;">유료 에너지 사용 시</mark> | <p>🍀<mark style="color:green;"><strong>유료 에너지 전용 보너스 드랍 풀 발생</strong></mark> <br><mark style="color:green;"><strong>(사냥 및 채집 시)</strong></mark></p> |
 
@@ -141,7 +141,7 @@ This system plays a role in preventing inflation of in-game items, including XTO
 | エネルギーの種類                                      | 無料エネルギー、有料エネルギー                                                                            |
 | エネルギー消費順序                                     | 有料エネルギーが日々のエネルギーより優先して消費されます                                                               |
 | <mark style="color:blue;">無料エネルギーの充電</mark>   | <p>毎日50ずつ自動充電、蓄積されず毎日リセットされます<br>🕖Asia Server : KST 00:00<br>🕖USA Server : UTC 00:00</p> |
-| <mark style="color:purple;">有料エネルギーの獲得</mark> | [ショップ](../../shop/shop/#ri-ben-yu)で購入するか広告を通じて取得可能                                         |
+| <mark style="color:purple;">有料エネルギーの獲得</mark> | [ショップ](../../economy/shop/#ri-ben-yu)で購入するか広告を通じて取得可能                                      |
 | <mark style="color:blue;">無料エネルギー使用時</mark>   | ⛔<mark style="color:orange;">**アイテムおよびゴールドのドロップ率が20%減少**</mark>                            |
 | <mark style="color:purple;">有料エネルギー使用時</mark> | 🍀<mark style="color:green;">**有料エネルギー専用のボーナスドロップが発生（狩りおよび採集時）**</mark>                    |
 

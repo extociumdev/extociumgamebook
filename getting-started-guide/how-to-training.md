@@ -37,7 +37,7 @@ Pay TP for the learning item you want to acquire the skills!
 
 #### 2️⃣Resetting TP
 
-Want to reset your TP history because you learned the skill route incorrectly? Then try purchasing the **'Book of Oblivion'** sold in the '[Shop](../shop/shop/xto-shop.md#eng)'!
+Want to reset your TP history because you learned the skill route incorrectly? Then try purchasing the **'Book of Oblivion'** sold in the '[Shop](../economy/shop/xto-shop.md#eng)'!
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
@@ -85,7 +85,7 @@ EXTOCIUM을 즐기기 위해 필요한 제작 레시피, 채집 레시피가 필
 #### 2️⃣TP 초기화 하기
 
 기술 루트를 잘못 익혀 TP내역을 초기화 하고 싶으신가요? \
-그렇다면 '[상점](../shop/shop/xto-shop.md#undefined-1)'에서 판매하는 **'망각의 서'**&#xB97C; 구매해보세요!&#x20;
+그렇다면 '[상점](../economy/shop/xto-shop.md#undefined-1)'에서 판매하는 **'망각의 서'**&#xB97C; 구매해보세요!&#x20;
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,7 +132,7 @@ EXTOCIUMを楽しむための製作レシピや採取レシピが必要ですか
 
 #### 2️⃣TPのリセット
 
-技術ルートを間違って覚えてしまい、TP履歴をリセットしたいですか？ それなら「[ショップ](../shop/shop/xto-shop.md#ri-ben-yu)」で販売されてい&#x308B;**「忘却の書」**&#x3092;購入してみてください！
+技術ルートを間違って覚えてしまい、TP履歴をリセットしたいですか？ それなら「[ショップ](../economy/shop/xto-shop.md#ri-ben-yu)」で販売されてい&#x308B;**「忘却の書」**&#x3092;購入してみてください！
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 

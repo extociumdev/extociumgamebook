@@ -12,6 +12,6 @@
 [accessories](accessories/)
 {% endcontent-ref %}
 
-{% content-ref url="enchantment/" %}
-[enchantment](enchantment/)
+{% content-ref url="../enchantment/" %}
+[enchantment](../enchantment/)
 {% endcontent-ref %}

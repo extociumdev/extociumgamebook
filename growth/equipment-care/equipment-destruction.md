@@ -12,7 +12,7 @@ description: 🛑 This information may be updated later than the game server dat
 This page provides a **byproduct chart for equipment destroyed through** [**Eligos** ](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)**at the Magic Shop in Rotten hill**.
 
 {% hint style="info" %}
-**This system is different from equipment destruction due to** [**enchantment failure**](../equipment/enchantment/enchantment-failed.md#eng)**.**
+**This system is different from equipment destruction due to** [**enchantment failure**](../enchantment/enchantment-failed.md#eng)**.**
 {% endhint %}
 
 {% hint style="danger" %}
@@ -32,7 +32,7 @@ Check the chart below for detailed information!
 이 페이지에서는 **로튼힐 > 마법상점 >** [**엘리고스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)를 통해 장비를 파괴했을 때 획득할 수 있는 **부산물 차트**를 제공합니다.
 
 {% hint style="info" %}
-**이 시스템은** [**인챈트로 인한 장비 파괴**](../equipment/enchantment/enchantment-failed.md#undefined-1)**와는 구분됩니다.**
+**이 시스템은** [**인챈트로 인한 장비 파괴**](../enchantment/enchantment-failed.md#undefined-1)**와는 구분됩니다.**
 {% endhint %}
 
 {% hint style="danger" %}
@@ -52,7 +52,7 @@ Check the chart below for detailed information!
 このページでは、**ロッテンヒル > マジックショップ > エリゴス** を通じて装備を破壊した際に獲得できる **副産物チャート** をご案内いたします。
 
 {% hint style="info" %}
-このシステムは、[エンチャントによる装備破壊](../equipment/enchantment/enchantment-failed.md#ri-ben-yu)とは異なります。
+このシステムは、[エンチャントによる装備破壊](../enchantment/enchantment-failed.md#ri-ben-yu)とは異なります。
 {% endhint %}
 
 {% hint style="danger" %}

@@ -6,7 +6,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**When a weapon is created, it triggers one of the following four types of '**[**stat** ](../../heroes/stats/)**options':** Additionally, when a weapon is [enchanted](../enchantment/weapon-enchantment.md), stat options corresponding to the enchantment level are added.
+💡**When a weapon is created, it triggers one of the following four types of '**[**stat** ](../../heroes/stats/)**options':** Additionally, when a weapon is [enchanted](../../enchantment/weapon-enchantment.md), stat options corresponding to the enchantment level are added.
 
 1. [Fixed option ](weapon-stats.md#id-1-fixed-option)
 2. [Primary stat option (probabilistic) ](weapon-stats.md#id-2-primary-stat-option-probabilistic)
@@ -106,7 +106,7 @@ With each enchantment level reaching increments of '5', an additional random opt
 
 {% tab title="한국어" %}
 💡**무기가 생성 될 때는 아래와 같은 네 가지 조건의 ‘**[**스탯**](../../heroes/stats/) **옵션’이 발동됩니다.**\
-또한 무기를 [인챈트](../enchantment/weapon-enchantment.md) 하는 경우, 인챈트 레벨에 따른 스탯 옵션이 추가됩니다.
+또한 무기를 [인챈트](../../enchantment/weapon-enchantment.md) 하는 경우, 인챈트 레벨에 따른 스탯 옵션이 추가됩니다.
 
 1. [고정 옵션](weapon-stats.md#id-1)
 2. [1차 스탯 옵션 (확률적)](weapon-stats.md#id-2-1)
@@ -208,7 +208,7 @@ With each enchantment level reaching increments of '5', an additional random opt
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**武器が生成される際、以下の4種類の「**[**ステータスオプション**](../../heroes/stats/)**」が発動されます。** また、[武器をエンチャントする場合](../enchantment/weapon-enchantment.md)、エンチャントレベルに応じたステータスオプションが追加されます。
+💡**武器が生成される際、以下の4種類の「**[**ステータスオプション**](../../heroes/stats/)**」が発動されます。** また、[武器をエンチャントする場合](../../enchantment/weapon-enchantment.md)、エンチャントレベルに応じたステータスオプションが追加されます。
 
 1. [固定オプション](weapon-stats.md#id-1opushon)&#x20;
 2. [1次ステータスオプション（確率的） ](weapon-stats.md#id-21suttasuopushon)

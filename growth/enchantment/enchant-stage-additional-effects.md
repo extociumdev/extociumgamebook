@@ -8,7 +8,7 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 #### 💡Enchant Stage Additional Effects
 
-Every piece of equipment gains an additional '[Primary Stat](../../heroes/stats/special-stats/#eng)' every time it achieves an enchantment increment of +5. If it is a +10 enchantment, two opportunities for Primary Stat looting are given.&#x20;
+Every piece of equipment gains an additional '[Primary Stat](../heroes/stats/special-stats/#eng)' every time it achieves an enchantment increment of +5. If it is a +10 enchantment, two opportunities for Primary Stat looting are given.&#x20;
 
 At this time, the type of stat is randomly assigned from one of six types of Primary Stats. The range of stats looted, from minimum to maximum, is defined according to the table below.
 
@@ -18,7 +18,7 @@ At this time, the type of stat is randomly assigned from one of six types of Pri
 {% tab title="한국어" %}
 #### 💡인챈트 단계별 부가 효과
 
-모든 장비는 인챈트 +5 단위를 달성할 때 마다 부가적으로 '[1차 스탯](../../heroes/stats/special-stats/#undefined-1)'이 추가됩니다. 만약 +10 인챈트라면, 2번의 1차 스탯 루팅 기회가 주어지게 됩니다.&#x20;
+모든 장비는 인챈트 +5 단위를 달성할 때 마다 부가적으로 '[1차 스탯](../heroes/stats/special-stats/#undefined-1)'이 추가됩니다. 만약 +10 인챈트라면, 2번의 1차 스탯 루팅 기회가 주어지게 됩니다.&#x20;
 
 이 때, 스탯의 종류는 1차 스탯 6종 중 랜덤하게 1종이 부여됩니다. 루팅되는 스탯의 최소\~최댓값은 아래 도표에 따라 정의됩니다.
 
@@ -28,7 +28,7 @@ At this time, the type of stat is randomly assigned from one of six types of Pri
 {% tab title="日本語" %}
 #### 💡エンチャント段階ごとの追加効果
 
-すべての装備は、エンチャントが+5の単位を達成するごとに追加の「[1次スタッツ](../../heroes/stats/special-stats/#ri-ben-yu)」が付与されます。+10のエンチャントであれば、2回の1次スタッツのルーティングチャンスが与えられます。&#x20;
+すべての装備は、エンチャントが+5の単位を達成するごとに追加の「[1次スタッツ](../heroes/stats/special-stats/#ri-ben-yu)」が付与されます。+10のエンチャントであれば、2回の1次スタッツのルーティングチャンスが与えられます。&#x20;
 
 このとき、スタッツの種類は1次スタッツ6種の中からランダムに1種が付与されます。ルーティングされるスタッツの最小〜最大値は、以下の表に従って定義されます。
 

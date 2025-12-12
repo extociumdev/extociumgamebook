@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # ⚖️ Market
 
-<figure><img src="../../.gitbook/assets/MarketGuide.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MarketGuide.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

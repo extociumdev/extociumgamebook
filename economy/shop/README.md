@@ -59,6 +59,6 @@ SHOPでは、**Gem・BNB・XTOトークン**でさまざまなアイテムを購
 [xto-shop.md](xto-shop.md)
 {% endcontent-ref %}
 
-{% content-ref url="rental.md" %}
-[rental.md](rental.md)
+{% content-ref url="asset-rental/hero-rental.md" %}
+[hero-rental.md](asset-rental/hero-rental.md)
 {% endcontent-ref %}

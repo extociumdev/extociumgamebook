@@ -20,7 +20,7 @@ List your items on the **Market**, set a reasonable price, and start trading eff
 📌 **Open your inventory** and choose the item you want to sell.\
 📌 The **item details window** will be displayed.
 
-<figure><img src="../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,19 +30,19 @@ List your items on the **Market**, set a reasonable price, and start trading eff
 
 📌 Click the **"Sell"** button in the **item details window**.
 
-<figure><img src="../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 Enter the **sale price (gold)** and tap the **"Sell"** button again to list the item on the **Market**.
 
-<figure><img src="../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 Finally, a **confirmation window** will appear—tap **"Register"** to complete the sale!
 
-<figure><img src="../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ List your items on the **Market**, set a reasonable price, and start trading eff
 
 📌 You can view your registered items under **Market > My Stuff > Equipment/Items**.
 
-<figure><img src="../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,20 +63,20 @@ List your items on the **Market**, set a reasonable price, and start trading eff
 📌 The Market allows you to sell not only NFTs but also regular weapons, orbs, and accessories.\
 📌 Open your equipment inventory from the Dashboard and select the equipment you want to sell.
 
-<figure><img src="../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 Click the item to open the item details window.\
 📌 In the item details window, tap the "Sale" button to proceed to the price entry screen.
 
-<figure><img src="../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 Enter the sale price (gold) and tap "Sale" again to list the item on the Market.
 
-<figure><img src="../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -104,7 +104,7 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 📌 인벤토리를 열고 판매하고 싶은 아이템을 선택하세요.\
 📌 **아이템의 상세 정보 창**이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -114,19 +114,19 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 
 📌 상세 정보 창에서 "판매" 버튼을 클릭하세요.
 
-<figure><img src="../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 판매 가격(골드)을 입력한 후, 다시 한 번 "판매" 버튼을 클릭하면 아이템이 마켓에 등록됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 마지막으로, 확인 창이 나타나면 "등록" 버튼을 눌러 판매를 완료하세요!
 
-<figure><img src="../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -136,7 +136,7 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 
 📌 **거래소 > 나의 물품 > 장비/아이템** 메뉴에서 등록된 아이템을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -147,20 +147,20 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 📌 마켓에서는 NFT뿐만 아니라, 일반 무기, 오브, 악세서리도 판매할 수 있습니다.\
 📌 대시보드에서 장비 인벤토리를 열어 판매할 장비를 선택하세요.
 
-<figure><img src="../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 아이템을 클릭하면 상세 정보 창이 열립니다.\
 📌 상세 정보 창에서 "판매" 버튼을 눌러 판매 가격 입력 창으로 이동하세요.
 
-<figure><img src="../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 판매 가격(골드)을 설정한 후, 다시 한 번 "판매" 버튼을 클릭하면 아이템이 마켓에 등록됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -188,7 +188,7 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 📌 **インベントリを開き**、販売したいアイテムを選択してください。\
 📌 **アイテムの詳細情報ウィンドウ** が表示されます。
 
-<figure><img src="../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -198,19 +198,19 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 
 📌 **アイテム詳細ウィンドウ** で **「販売」ボタン** をクリックしてください。
 
-<figure><img src="../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 **販売価格 (ゴールド)** を入力し、再度 **「販売」ボタン** を押すと、アイテムが **マーケット** に登録されます。
 
-<figure><img src="../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 最後に、**確認ウィンドウ** が表示されるので、**「登録」ボタン** を押して販売を完了しましょう！
 
-<figure><img src="../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -220,7 +220,7 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 
 📌 **マーケット > マイリスト > 装備/アイテム** で登録したアイテムを確認できます。
 
-<figure><img src="../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -231,20 +231,20 @@ Now you’re ready to **trade efficiently on the Market!** 🎉
 📌 **マーケットでは、NFTだけでなく、通常の武器・オーブ・アクセサリーも販売可能です。**\
 📌 **ダッシュボードから装備インベントリを開き、販売する装備を選択してください。**
 
-<figure><img src="../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 **アイテムをクリックすると、アイテム詳細ウィンドウが開きます。**\
 📌 **アイテム詳細ウィンドウで「販売」ボタンをタップし、価格入力画面に進みます。**
 
-<figure><img src="../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
 
 
 
 📌 **販売価格（ゴールド）を入力し、再度「販売」ボタンを押すと、アイテムがマーケットに登録されます。**
 
-<figure><img src="../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -58,7 +58,7 @@ EXTOCIUM의 '[일곱 기본 영웅](../../growth/heroes/#undefined-1)' 중 1명�
 
 {% hint style="info" %}
 ❓트라이얼 영웅은'[루키 락](./#undefined-1)'이 설정되어 있어 아이템 거래, XTO 스왑과 같은 기능은 사용할 수 없습니다.\
-❓트라이얼 영웅을 통해 충분히 EXTOCIUM의 매력에 빠져드시게 된다면, '[마켓](../../trade/market/)'에서 영웅 NFT를 구입하여 루키 락을 해제해보세요!
+❓트라이얼 영웅을 통해 충분히 EXTOCIUM의 매력에 빠져드시게 된다면, '[마켓](../../economy/trade/market/)'에서 영웅 NFT를 구입하여 루키 락을 해제해보세요!
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
@@ -92,7 +92,7 @@ EXTOCIUMの「[七つの基本ヒーロー](../../growth/heroes/#ri-ben-yu)」�
 {% hint style="info" %}
 ❓トライアルヒーローは「[ルーキーロック](./#ri-ben-yu)」が設定されており、アイテム取引やXTOスワップなどの機能は使用できません。&#x20;
 
-❓トライアルヒーローを通じてEXTOCIUMの魅力に十分に浸ることができたら、「[マーケット](../../trade/market/#ri-ben-yu)」でヒーローNFTを購入し、ルーキーロックを解除してみてください！
+❓トライアルヒーローを通じてEXTOCIUMの魅力に十分に浸ることができたら、「[マーケット](../../economy/trade/market/#ri-ben-yu)」でヒーローNFTを購入し、ルーキーロックを解除してみてください！
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>

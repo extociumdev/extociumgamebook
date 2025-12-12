@@ -23,7 +23,7 @@ Trial Heroes allow you to experience gameplay **before purchasing an NFT hero or
 ❌ **Cannot be traded or registered for mining** 🥲
 
 {% hint style="info" %}
-[❓If you want to fully enjoy EXTOCIUM, consider purchasing a Hero NFT from the market!](../../trade/market/trading-nfts/#eng)
+[❓If you want to fully enjoy EXTOCIUM, consider purchasing a Hero NFT from the market!](../../economy/trade/market/trading-nfts/#eng)
 {% endhint %}
 
 
@@ -83,7 +83,7 @@ NFT 영웅은 **소환 순간, 영웅 타입 & 스킬이 랜덤 결정**됩니�
 ❌ 거래 불가, 채굴 세팅 등록 불가 🥲
 
 {% hint style="info" %}
-**❓**[**EXTOCIUM을 본격적으로 즐기고 싶으시다면, 마켓에서 영웅 NFT를 구매해보세요!**](../../trade/market/trading-nfts/#undefined-1)
+**❓**[**EXTOCIUM을 본격적으로 즐기고 싶으시다면, 마켓에서 영웅 NFT를 구매해보세요!**](../../economy/trade/market/trading-nfts/#undefined-1)
 {% endhint %}
 
 
@@ -141,7 +141,7 @@ EXTOCIUMの**全てのNFT英雄はユニークなアドレス**を持ち、\
 ❌ **取引不可＆マイニング設定不可** 🥲
 
 {% hint style="info" %}
-❓[EXTOCIUMを存分に楽しみたい場合は、マーケットでヒーローNFTを購入してみてください！](../../trade/market/trading-nfts/#ri-ben-yu)
+❓[EXTOCIUMを存分に楽しみたい場合は、マーケットでヒーローNFTを購入してみてください！](../../economy/trade/market/trading-nfts/#ri-ben-yu)
 {% endhint %}
 
 

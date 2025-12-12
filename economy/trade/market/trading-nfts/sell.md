@@ -15,14 +15,14 @@ How to register NFT items in the Market
 {% tabs %}
 {% tab title="ENG" %}
 {% hint style="info" %}
-_💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#connecting-the-game-with-metamask)_!_
+_💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#connecting-the-game-with-metamask)_!_
 {% endhint %}
 
 ### **👉Step 1:** Access the Dashboard
 
 * Click on the **Dashboard** button on the left side of the game screen.
 
-<figure><img src="../../../.gitbook/assets/1-1 (2).jpg" alt=""><figcaption><p><strong>Dashboard</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1-1 (2).jpg" alt=""><figcaption><p><strong>Dashboard</strong></p></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 * Navigate to the **Equipment Bag** from the dashboard.
 
-<figure><img src="../../../.gitbook/assets/2-2.jpg" alt="" width="375"><figcaption><p><strong>Equipment Bag</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2-2.jpg" alt="" width="375"><figcaption><p><strong>Equipment Bag</strong></p></figcaption></figure>
 
 
 
@@ -38,7 +38,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 * Click on the **NFT (Hero or Equipment)** you want to put up for sale.
 
-<figure><img src="../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption><p>Weapon List</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption><p>Weapon List</p></figcaption></figure>
 
 
 
@@ -47,7 +47,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 * To sell an **NFT (Hero or Equipment),** you must **connect your wallet.**
 * Without a connected wallet, selling NFTs is not possible.
 
-<figure><img src="../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 * Go to the **detailed information page** of the selected **NFT (Hero or Equipment)** and click the **"Sale"** button.
 
-<figure><img src="../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -63,7 +63,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 * Enter the price you wish to sell the weapon for and click **"Sale"** again.
 
-<figure><img src="../../../.gitbook/assets/6-6 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/6-6 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 * A confirmation window will appear. Click **"Register"** to finalize the listing.
 
-<figure><img src="../../../.gitbook/assets/7-7 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/7-7 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 * When selling an NFT, a **Confirm button** will appear in your **MetaMask wallet**.
 * Click **"Confirm"** to complete the transaction.
 
-<figure><img src="../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption></figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 * Go to **Market > My Stuff** and check if your **NFT (Hero or Equipment)** has been successfully listed.
 
-<figure><img src="../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 > 💡 **TIP:**&#x20;
 >
@@ -102,14 +102,14 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 {% tab title="한국어" %}
 {% hint style="info" %}
-_💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#undefined-2)_해주세요!_
+_💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../../../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#undefined-2)_해주세요!_
 {% endhint %}
 
 ### **👉1단계:** 게임 좌측의 대시보드로 진입
 
 * 게임 화면의 좌측에 위치한 **대시보드** 버튼을 눌러 주세요.
 
-<figure><img src="../../../.gitbook/assets/1-1 (2).jpg" alt=""><figcaption><p><strong>Dashboard</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1-1 (2).jpg" alt=""><figcaption><p><strong>Dashboard</strong></p></figcaption></figure>
 
 
 
@@ -117,7 +117,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 * 대시보드에서 **장비 가방** 메뉴로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/2-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -125,7 +125,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 * 판매하고 싶은 **NFT(영웅 또는 장비)** 를 클릭하세요.
 
-<figure><img src="../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -134,7 +134,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 * NFT(영웅 또는 장비)를 판매하려면 **지갑을 반드시 연결해야 합니다.**
 * 지갑이 연결되지 않으면 NFT를 판매할 수 없습니다.
 
-<figure><img src="../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -142,7 +142,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 * 선택한 **NFT(영웅 또는 장비)** 의 상세 정보 페이지로 이동한 후, **"판매" 버튼을 클릭합니다.**
 
-<figure><img src="../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -150,13 +150,13 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 * 원하는 판매 가격을 입력하고 다시 **"판매"** 버튼을 눌러 주세요.
 
-<figure><img src="../../../.gitbook/assets/6-6 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/6-6 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **👉7단계:** 판매 등록 확인
 
 * 판매 등록을 확정하는 **확인창**이 나타납니다. **"판매 등록"** 버튼을 눌러 주세요.
 
-<figure><img src="../../../.gitbook/assets/7-7 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/7-7 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -165,7 +165,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 * NFT를 판매할 경우, **메타마스크 지갑에서 확인(Confirm) 버튼이 나타납니다.**
 * **확인(Confirm)** 버튼을 눌러야 등록이 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption></figcaption></figure>
 
 
 
@@ -173,7 +173,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 * **거래소 > 나의 물품 메뉴**로 이동하여 **NFT(영웅 또는 장비)** 가 정상적으로 등록되었는지 확인하세요!
 
-<figure><img src="../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 > 💡 **TIP:**&#x20;
 >
@@ -187,14 +187,14 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 {% tab title="日本語" %}
 {% hint style="info" %}
-_💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#gmutometamaskwosuru)_してください！_
+_💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#gmutometamaskwosuru)_してください！_
 {% endhint %}
 
 ### **👉ステップ 1:** ダッシュボードを開く
 
 * ゲーム画面の左側にある **ダッシュボード** ボタンをクリックします。
 
-<figure><img src="../../../.gitbook/assets/1-1 (2).jpg" alt="" width="260"><figcaption><p><strong>Dashboard</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1-1 (2).jpg" alt="" width="260"><figcaption><p><strong>Dashboard</strong></p></figcaption></figure>
 
 
 
@@ -202,7 +202,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 * ダッシュボードから **装備バッグ** へ移動します。
 
-<figure><img src="../../../.gitbook/assets/2-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -210,7 +210,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 * 販売したい **NFT（英雄または装備）** をクリックしてください。
 
-<figure><img src="../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/3-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -219,7 +219,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 * **NFT（英雄または装備）** を販売するには、**ウォレットを接続する必要があります。**
 * ウォレットが接続されていないと、NFTを販売できません。。
 
-<figure><img src="../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/5-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -227,7 +227,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 * 選択した **NFT（英雄または装備）** の詳細ページに移動し、**「販売」ボタン** をクリックしてください。
 
-<figure><img src="../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -235,7 +235,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 * 希望の価格を入力し、もう一度 **「販売」** をクリックします。
 
-<figure><img src="../../../.gitbook/assets/6-6 (1).jpg" alt="" width="375"><figcaption><p><strong>販売</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/6-6 (1).jpg" alt="" width="375"><figcaption><p><strong>販売</strong></p></figcaption></figure>
 
 
 
@@ -243,7 +243,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 * 確認画面が表示されるので、**「登録」** ボタンを押してください。
 
-<figure><img src="../../../.gitbook/assets/7-7 (1).jpg" alt="" width="375"><figcaption><p><strong>登録</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/7-7 (1).jpg" alt="" width="375"><figcaption><p><strong>登録</strong></p></figcaption></figure>
 
 
 
@@ -252,7 +252,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 * NFTを販売する場合、**MetaMaskウォレットに「確認 (Confirm)」ボタン** が表示されます。
 * **「確認 」** ボタンを押すと、販売が確定します。
 
-<figure><img src="../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption><p><strong>MetaMask</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/8-8.jpg" alt="" width="167"><figcaption><p><strong>MetaMask</strong></p></figcaption></figure>
 
 
 
@@ -260,7 +260,7 @@ _💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../g
 
 * **マーケットプレイス > マイリスト** に移動し、**NFT（英雄または装備）** が正常に登録されたか確認してください。
 
-<figure><img src="../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption><p><strong>私の品物</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/10-10 (1).jpg" alt="" width="375"><figcaption><p><strong>私の品物</strong></p></figcaption></figure>
 
 > 💡 **TIP:**&#x20;
 >
