@@ -22,7 +22,7 @@ Check out more details on the official MetaMask website!
 Now, let’s learn how to connect MetaMask in EXTOCIUM! 🚀
 
 {% hint style="danger" %}
-[<mark style="color:red;">**⛔ Before connecting your wallet, please be aware of the precautions!**</mark>](precautions.md#eng)
+[<mark style="color:red;">**⛔ Before connecting your wallet, please be aware of the precautions!**</mark>](../precautions.md#eng)
 {% endhint %}
 {% endtab %}
 
@@ -47,7 +47,7 @@ Now, let’s learn how to connect MetaMask in EXTOCIUM! 🚀
 이제, **EXTOCIUM에서 메타마스크를 연결하는 방법을 알아봅시다!** 🚀
 
 {% hint style="danger" %}
-[**⛔**<mark style="color:red;">**지갑 연결 전, 주의 사항을 숙지하세요!**</mark>](precautions.md#undefined-1)
+[**⛔**<mark style="color:red;">**지갑 연결 전, 주의 사항을 숙지하세요!**</mark>](../precautions.md#undefined-1)
 {% endhint %}
 {% endtab %}
 
@@ -72,7 +72,7 @@ MetaMaskの公式ホームページで詳細をご確認ください！
 それでは、**EXTOCIUMでメタマスクを接続する方法を見ていきましょう！** 🚀
 
 {% hint style="danger" %}
-<mark style="color:red;">⛔</mark> [<mark style="color:red;">**ウォレットを接続する前に、注意事項をよく理解してください！**</mark>](precautions.md#ri-ben-yu)
+<mark style="color:red;">⛔</mark> [<mark style="color:red;">**ウォレットを接続する前に、注意事項をよく理解してください！**</mark>](../precautions.md#ri-ben-yu)
 {% endhint %}
 {% endtab %}
 {% endtabs %}

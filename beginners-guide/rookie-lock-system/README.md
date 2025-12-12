@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🦸 Rookie Lock
+# 🔒 Rookie Lock System
 
 <figure><img src="../../.gitbook/assets/KakaoTalk_20250722_143254545.png" alt=""><figcaption></figcaption></figure>
 

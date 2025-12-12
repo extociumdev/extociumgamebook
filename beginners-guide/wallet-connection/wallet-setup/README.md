@@ -1,6 +1,6 @@
-# 🦊 Wallet connection
+# 🔢 Wallet Setup
 
-<figure><img src="../../.gitbook/assets/LevelupWallet.png" alt=""><figcaption></figcaption></figure>
+
 
 {% content-ref url="what-is-metamask.md" %}
 [what-is-metamask.md](what-is-metamask.md)

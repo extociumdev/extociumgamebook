@@ -12,8 +12,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 **❓**&#x41;cquire **EXP** through **hunting** and **gathering** to grow your hero.
 
-{% content-ref url="../../getting-started-guide/how-to-battle.md" %}
-[how-to-battle.md](../../getting-started-guide/how-to-battle.md)
+{% content-ref url="../../beginners-guide/gameplay-guide/battle.md" %}
+[battle.md](../../beginners-guide/gameplay-guide/battle.md)
 {% endcontent-ref %}
 
 **❓**&#x41;s your **level** increases, you can equip stronger **gear**.
@@ -50,8 +50,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 **❓사냥** 및 **채집**을 통해 **EXP**를 획득하고 영웅을 성장시켜 보세요.
 
-{% content-ref url="../../getting-started-guide/how-to-battle.md" %}
-[how-to-battle.md](../../getting-started-guide/how-to-battle.md)
+{% content-ref url="../../beginners-guide/gameplay-guide/battle.md" %}
+[battle.md](../../beginners-guide/gameplay-guide/battle.md)
 {% endcontent-ref %}
 
 **❓레벨**이 오르면 더 강력한 **장비**를 장착할 수 있습니다.
@@ -88,8 +88,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 **❓狩り**や**採集**を通じて**EXP**を獲得し、英雄を成長させましょう。
 
-{% content-ref url="../../getting-started-guide/how-to-battle.md" %}
-[how-to-battle.md](../../getting-started-guide/how-to-battle.md)
+{% content-ref url="../../beginners-guide/gameplay-guide/battle.md" %}
+[battle.md](../../beginners-guide/gameplay-guide/battle.md)
 {% endcontent-ref %}
 
 **❓レベル**が上がると、より強力な**装備**を装着することができます。

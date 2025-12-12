@@ -17,11 +17,11 @@ Just follow the steps below to set it up easily. 🦊✨
 
 1️⃣ Tap the **fox icon (🦊) at the top center of the main HUD**.
 
-<figure><img src="../../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ A pop-up will appear, giving you two connection options.
 
-<figure><img src="../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [1️⃣](connecting-games-and-metamask.md#id-1-qr)[QR Login](connecting-games-and-metamask.md#method-1-qr-login-using-metamask-on-mobile)
@@ -35,13 +35,13 @@ Just follow the steps below to set it up easily. 🦊✨
 
 💡 **If you're playing the game on a PC emulator, you can log in using the QR code with your MetaMask mobile app.**
 
-> <img src="../../.gitbook/assets/image (158).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (158).png" alt="" data-size="original">
 >
 > 📌 **Already connected a wallet before?**
 >
 > * Simply check the **wallet address and network (Binance Smart Chain)** at the top and proceed.
 >
-> <img src="../../.gitbook/assets/image (150).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (150).png" alt="" data-size="original">
 >
 >
 >
@@ -49,13 +49,13 @@ Just follow the steps below to set it up easily. 🦊✨
 > 1️⃣ Make sure **Binance Smart Chain is set up** in MetaMask.\
 > 2️⃣ Select the **wallet address** you want to connect and tap the **camera icon** in the top right of the MetaMask app.
 >
-> ![](<../../.gitbook/assets/image (151).png>)
+> ![](<../../../.gitbook/assets/image (151).png>)
 >
 >
 >
 > 3️⃣ When the camera opens, **scan the QR code displayed in the game**.
 >
-> <img src="../../.gitbook/assets/image (159).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
 >
 >
 >
@@ -70,7 +70,7 @@ Just follow the steps below to set it up easily. 🦊✨
 
 If connecting within the device, you can load the wallet through the APP LOAD button.
 
-> ![](<../../.gitbook/assets/image (152).png>)
+> ![](<../../../.gitbook/assets/image (152).png>)
 >
 > 1️⃣ Tap **"APP LOAD"**, and the MetaMask app will launch automatically.
 >
@@ -79,14 +79,14 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 > * Make sure **MetaMask is already installed** on your device.
 > * **If you have multiple accounts**, open MetaMask first and select the wallet you want to use.
 >
-> <img src="../../.gitbook/assets/image (159).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
 >
 > &#x20;
 >
 > 3️⃣ A **connection approval request pop-up** will appear in MetaMask. \
 > Tap **"Connect"** to complete the process.
 >
-> ![](<../../.gitbook/assets/3-3-3 (2).jpg>)
+> ![](<../../../.gitbook/assets/3-3-3 (2).jpg>)
 
 ***
 
@@ -101,7 +101,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 * **If you need to make a transaction, reconnect your wallet in advance.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 📌 **Check Wallet Status & Transaction History**
 
@@ -109,7 +109,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 ***
 
-🛑[Having trouble connecting your wallet? Please refer to this tab!](commonly-issues.md)
+🛑[Having trouble connecting your wallet? Please refer to this tab!](../common-issues.md)
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -124,11 +124,11 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 1️⃣ **메인 HUD 중앙 상단**에 있는 **여우 버튼(🦊)** 을 터치하세요.
 
-<figure><img src="../../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 팝업 창이 뜨면, 두 가지 방법 중 하나를 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [1️⃣QR 로그인 하기](connecting-games-and-metamask.md#id-1-qr)
@@ -142,7 +142,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 💡 **PC 에뮬레이터에서 게임을 실행 중이라면, 모바일 메타마스크 앱을 이용하여 QR 로그인을 진행할 수 있습니다.**
 
-> <img src="../../.gitbook/assets/image (158).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (158).png" alt="" data-size="original">
 >
 > 📌 **기존에 연결된 지갑이 있다면?**
 >
@@ -150,7 +150,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 >
 >
 >
-> <img src="../../.gitbook/assets/image (150).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (150).png" alt="" data-size="original">
 >
 >
 >
@@ -158,11 +158,11 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 > 1️⃣ **Binance Smart Chain 네트워크가 설정되었는지 확인**하세요.\
 > 2️⃣ 연결할 **지갑 주소를 선택**한 후, **메타마스크 앱 화면 우측 상단의 카메라 버튼**을 터치하세요.
 >
-> ![](<../../.gitbook/assets/image (151).png>)
+> ![](<../../../.gitbook/assets/image (151).png>)
 >
 > 3️⃣ 카메라가 실행되면 **게임 화면의 QR 코드를 스캔**하세요.
 >
-> <img src="../../.gitbook/assets/image (159).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
 >
 > &#x20;
 >
@@ -177,7 +177,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 📌 **게임을 실행한 기기에서 직접 연결하려면, "APP LOAD" 버튼을 사용하면 됩니다.**
 
-> ![](<../../.gitbook/assets/image (152).png>)
+> ![](<../../../.gitbook/assets/image (152).png>)
 >
 > 1️⃣ **"APP LOAD" 버튼을 터치**하면, 메타마스크 앱이 자동으로 실행됩니다.
 >
@@ -186,13 +186,13 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 > * 기기 내에 **메타마스크 앱이 설치되어 있어야 합니다.**
 > * **여러 개의 지갑 계정을 사용 중이라면**, 사전에 메타마스크 앱을 열어 **사용할 지갑을 선택**해 주세요.
 >
-> <img src="../../.gitbook/assets/image (159).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
 >
 > &#x20;
 >
 > 3️⃣ 메타마스크 앱에 **"연결 승인 요청" 팝업**이 표시되면, **"연결" 버튼을 터치하여 완료**하세요.
 >
-> ![](<../../.gitbook/assets/3-3-3 (1).jpg>)
+> ![](<../../../.gitbook/assets/3-3-3 (1).jpg>)
 
 
 
@@ -209,7 +209,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 * **지갑 거래가 필요할 경우, 사전에 지갑을 다시 연결하는 것을 추천합니다.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 📌 **지갑 연결 상태 및 거래 내역 확인하기**
 
@@ -217,7 +217,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 ***
 
-🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](commonly-issues.md)
+🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../common-issues.md)
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -232,11 +232,11 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 1️⃣ **メインHUDの中央上部にある🦊アイコン**をタップします。
 
-<figure><img src="../../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ポップアップが表示され、2つの接続方法が選択できます。
 
-<figure><img src="../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [1️⃣QRログイン](connecting-games-and-metamask.md#id-1-qrroguinmobairunometamaskwo)
@@ -254,7 +254,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 💡 **PCエミュレーターでゲームをプレイしている場合は、モバイル版MetaMaskを使用してQRコードでログインできます。**
 
-> <img src="../../.gitbook/assets/image (158).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (158).png" alt="" data-size="original">
 >
 > 📌 **すでにウォレットを接続済みの場合?**
 >
@@ -262,7 +262,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 >
 >
 >
-> <img src="../../.gitbook/assets/image (150).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (150).png" alt="" data-size="original">
 >
 > 📌 **初めてウォレットを接続する場合?**\
 > 1️⃣ **MetaMaskでBinance Smart Chainが設定されていることを確認** します。\
@@ -270,13 +270,13 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 >
 >
 >
-> ![](<../../.gitbook/assets/image (151).png>)
+> ![](<../../../.gitbook/assets/image (151).png>)
 >
 > 3️⃣ カメラが起動したら、**ゲーム画面のQRコードをスキャン** します。
 >
 >
 >
-> <img src="../../.gitbook/assets/image (159).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
 >
 > &#x20;
 >
@@ -291,7 +291,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 📌 **ゲームをプレイしているデバイス内で直接接続する場合は、「APP LOAD」ボタンを使用します。**
 
-> ![](<../../.gitbook/assets/image (152).png>)
+> ![](<../../../.gitbook/assets/image (152).png>)
 >
 >
 >
@@ -301,13 +301,13 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 > * **MetaMaskアプリが事前にインストールされている必要があります。**
 > * **複数のウォレットアカウントを使用している場合** は、事前にMetaMaskアプリを開き、使用するウォレットを選択してください。
 >
-> <img src="../../.gitbook/assets/image (159).png" alt="" data-size="original">
+> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
 >
 > &#x20;
 >
 > 3️⃣ **「接続承認リクエスト」ポップアップ** が表示されたら、**「接続」ボタンをタップして完了** します。
 >
-> ![](../../.gitbook/assets/3-3-3.jpg)
+> ![](../../../.gitbook/assets/3-3-3.jpg)
 
 ***
 
@@ -322,7 +322,7 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 * **取引を行う前に、再接続することをおすすめします。**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 📌 **ウォレットの状態 & 取引履歴の確認**
 
@@ -330,6 +330,6 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 
 ***
 
-🛑[ウォレットの接続に問題がありますか？このタブを参照してください！](commonly-issues.md)
+🛑[ウォレットの接続に問題がありますか？このタブを参照してください！](../common-issues.md)
 {% endtab %}
 {% endtabs %}

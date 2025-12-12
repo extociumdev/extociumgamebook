@@ -11,7 +11,7 @@ description: 🛑 This information may be updated later than the game server dat
 <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓[If you need to perform tasks related to XTO, please connect your MetaMask wallet first!](../../getting-started-guide/wallet-connection/)
+❓[If you need to perform tasks related to XTO, please connect your MetaMask wallet first!](../../beginners-guide/wallet-connection/)
 {% endhint %}
 {% endtab %}
 
@@ -21,7 +21,7 @@ description: 🛑 This information may be updated later than the game server dat
 <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓[XTO와 관련된 작업을 수행해야 할 경우, 메타마스크 지갑 연결을 먼저 해주세요!](../../getting-started-guide/wallet-connection/)
+❓[XTO와 관련된 작업을 수행해야 할 경우, 메타마스크 지갑 연결을 먼저 해주세요!](../../beginners-guide/wallet-connection/)
 {% endhint %}
 {% endtab %}
 
@@ -31,7 +31,7 @@ description: 🛑 This information may be updated later than the game server dat
 <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓[XTOに関連する作業を行う必要がある場合は、最初にメタマスクウォレットを接続してください！](../../getting-started-guide/wallet-connection/)
+❓[XTOに関連する作業を行う必要がある場合は、最初にメタマスクウォレットを接続してください！](../../beginners-guide/wallet-connection/)
 {% endhint %}
 {% endtab %}
 {% endtabs %}

@@ -59,7 +59,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ***
 
-🛑 [**Having trouble with wallet connection? Please refer to this tab!**](../../getting-started-guide/wallet-connection/commonly-issues.md#eng)
+🛑 [**Having trouble with wallet connection? Please refer to this tab!**](../../beginners-guide/wallet-connection/common-issues.md#eng)
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -116,7 +116,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ***
 
-🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../../getting-started-guide/wallet-connection/commonly-issues.md)
+🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../../beginners-guide/wallet-connection/common-issues.md)
 {% endtab %}
 
 {% tab title="日本語" %}

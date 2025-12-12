@@ -36,7 +36,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### ✅ Swap
 
-👉To exchange gold for XTO, first [connect your MetaMask wallet](../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#eng) in-game!
+👉To exchange gold for XTO, first [connect your MetaMask wallet](../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#eng) in-game!
 
 👉Go to the town NPC '[Yeyilel](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)'.
 
@@ -62,7 +62,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 👉 Once the transaction is successfully completed, the gold will be swapped to XTO and stored in your wallet.
 
-🛑 [Having trouble with wallet connection? Please refer to this tab!](../../getting-started-guide/wallet-connection/commonly-issues.md#eng)
+🛑 [Having trouble with wallet connection? Please refer to this tab!](../../beginners-guide/wallet-connection/common-issues.md#eng)
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -98,7 +98,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### ✅ 스왑하기
 
-👉**골드를 XTO로 교환하려면, 우선 게임 내에서 '**[**메타마스크 지갑 연결**](../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#undefined-1)**'을 해주세요!**
+👉**골드를 XTO로 교환하려면, 우선 게임 내에서 '**[**메타마스크 지갑 연결**](../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#undefined-1)**'을 해주세요!**
 
 👉마을 NPC인 '[예이렐](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)'을 찾아가세요.
 
@@ -124,7 +124,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 👉거래가 정상적으로 완료되면 골드가 XTO로 스왑되어 당신의 지갑에 저장됩니다.&#x20;
 
-🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../../getting-started-guide/wallet-connection/commonly-issues.md)
+🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../../beginners-guide/wallet-connection/common-issues.md)
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -160,7 +160,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### ✅ スワップ
 
-👉ゴールドをXTOに交換するには、まずゲーム内で[MetaMask](../../getting-started-guide/wallet-connection/connecting-games-and-metamask.md#ri-ben-yu)ウォレットを接続してください！
+👉ゴールドをXTOに交換するには、まずゲーム内で[MetaMask](../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#ri-ben-yu)ウォレットを接続してください！
 
 👉町のNPC「[イェレル](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)」を探してください。
 

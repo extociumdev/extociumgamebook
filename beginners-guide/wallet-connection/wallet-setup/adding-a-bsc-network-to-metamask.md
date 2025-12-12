@@ -21,7 +21,7 @@ Follow the steps below to set it up easily!&#x20;
 Check out more details on the official MetaMask website!
 {% endembed %}
 
-❗[When installing the wallet, be sure to write down the recovery phrase on paper and store it in a place where it won't be lost!](precautions.md#eng-1)
+❗[When installing the wallet, be sure to write down the recovery phrase on paper and store it in a place where it won't be lost!](../precautions.md#eng-1)
 
 ***
 
@@ -32,7 +32,7 @@ Check out more details on the official MetaMask website!
 1️⃣ **Launch the MetaMask app**.\
 2️⃣ **Tap (click) the network selection area** at the top of the screen (marked with a red circle in the image).
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_02 (1).jpg" alt="" width="188"><figcaption><p>Touch the "Wallet"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726_02 (1).jpg" alt="" width="188"><figcaption><p>Touch the "Wallet"</p></figcaption></figure>
 
 {% hint style="info" %}
 The red circled area is where you set the 'Network' in MetaMask. \
@@ -46,19 +46,19 @@ The default setting of MetaMask is the 'Ethereum Network'. \
 
 1️⃣ In the network selection screen, **tap "Add Network"**.
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="188"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="188"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
 
 
 
 2️⃣ From the list, select **"Binance Smart Chain"** or **"BNB Smart Chain"**.
 
-<figure><img src="../../.gitbook/assets/image (618).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (618).png" alt="" width="306"><figcaption></figcaption></figure>
 
 
 
 3️⃣ Done! ✅ Your MetaMask wallet is now connected to the BSC network.
 
-<figure><img src="../../.gitbook/assets/image (617).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (617).png" alt="" width="201"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 📌 **How to check:**\
@@ -73,7 +73,7 @@ If the network name at the top of your wallet says **BNB Smart Chain or Binance 
 
 If the network does not appear automatically, you must **add it manually**.
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726.jpg" alt="" width="188"><figcaption><p>Custom Network</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726.jpg" alt="" width="188"><figcaption><p>Custom Network</p></figcaption></figure>
 
 
 
@@ -109,7 +109,7 @@ Enjoy a seamless and secure blockchain experience in EXTOCIUM!
 메타마스크 공식 홈페이지에서 더 자세한 내용을 확인하세요!
 {% endembed %}
 
-❗[지갑을 설치 할 때 입력한 복구 구문을 반드시 종이에 적어 잃어버리지 않을 장소에 보관하세요!](precautions.md#undefined-3)
+❗[지갑을 설치 할 때 입력한 복구 구문을 반드시 종이에 적어 잃어버리지 않을 장소에 보관하세요!](../precautions.md#undefined-3)
 
 ***
 
@@ -120,7 +120,7 @@ Enjoy a seamless and secure blockchain experience in EXTOCIUM!
 1️⃣ **메타마스크 앱을 실행**한 후,\
 2️⃣ 화면 상단의 **네트워크 선택 영역(빨간 동그라미 표시된 부분)을 터치(클릭)** 하세요.
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_02 (1).jpg" alt="" width="188"><figcaption><p>Touch the "Wallet"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726_02 (1).jpg" alt="" width="188"><figcaption><p>Touch the "Wallet"</p></figcaption></figure>
 
 {% hint style="info" %}
 빨간 동그라미 영역이 메타마스크에서 '네트워크'를 설정하는 영역입니다. \
@@ -134,19 +134,19 @@ Enjoy a seamless and secure blockchain experience in EXTOCIUM!
 
 1️⃣ 네트워크 선택 화면에서 **"네트워크 추가" 버튼**을 터치하세요.
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="375"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="375"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
 
 
 
 2️⃣ 목록에서 **"Binance Smart Chain"** 또는 **"BNB Smart Chain"** 을 선택하세요.
 
-<figure><img src="../../.gitbook/assets/image (618).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (618).png" alt="" width="306"><figcaption></figcaption></figure>
 
 
 
 3️⃣ 완료! ✅ 이제 메타마스크 지갑이 BSC 네트워크를 사용할 준비가 되었습니다.
 
-<figure><img src="../../.gitbook/assets/image (617).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (617).png" alt="" width="302"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 📌 **확인 방법:**\
@@ -159,7 +159,7 @@ Enjoy a seamless and secure blockchain experience in EXTOCIUM!
 
 네트워크가 자동으로 표시되지 않는다면, **수동으로 추가**해 주세요!
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726.jpg" alt="" width="188"><figcaption><p>Custom Network</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726.jpg" alt="" width="188"><figcaption><p>Custom Network</p></figcaption></figure>
 
 
 
@@ -195,7 +195,7 @@ EXTOCIUMは **Binance Smart Chain (BSC)** 上で動作します。\
 MetaMaskの公式ホームページで詳細をご確認ください！
 {% endembed %}
 
-❗[ウォレットをインストールする際に入力したリカバリーフレーズは、必ず紙に書き留めて、失くさない場所に保管してください！](precautions.md#ri-ben-yu-1)
+❗[ウォレットをインストールする際に入力したリカバリーフレーズは、必ず紙に書き留めて、失くさない場所に保管してください！](../precautions.md#ri-ben-yu-1)
 
 ***
 
@@ -206,7 +206,7 @@ MetaMaskの公式ホームページで詳細をご確認ください！
 1️⃣ **MetaMaskアプリを起動** します。\
 2️⃣ **画面上部のネットワーク選択エリア（赤い丸で示された部分）をタップ（クリック）** してください。
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_02 (1).jpg" alt="" width="188"><figcaption><p>Touch the "Wallet"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726_02 (1).jpg" alt="" width="188"><figcaption><p>Touch the "Wallet"</p></figcaption></figure>
 
 {% hint style="info" %}
 赤い円で囲まれたエリアはMetaMaskで「ネットワーク」を設定する場所です。MetaMaskの初期設定値は「イーサリアムネットワーク」です。\
@@ -219,19 +219,19 @@ MetaMaskの公式ホームページで詳細をご確認ください！
 
 1️⃣ **ネットワーク選択画面** で **「ネットワークを追加」** をタップします。
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="375"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726_01.jpg" alt="" width="375"><figcaption><p>Add Network - Binance Chain</p></figcaption></figure>
 
 
 
 2️⃣ リストから **「Binance Smart Chain」** または **「BNB Smart Chain」** を選択してください。
 
-<figure><img src="../../.gitbook/assets/image (618).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (618).png" alt="" width="306"><figcaption></figcaption></figure>
 
 
 
 3️⃣ 完了！ ✅ これでMetaMaskウォレットがBSCネットワークに接続されました。
 
-<figure><img src="../../.gitbook/assets/image (617).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (617).png" alt="" width="201"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 📌 **確認方法:**\
@@ -246,7 +246,7 @@ MetaMaskの公式ホームページで詳細をご確認ください！
 
 BSCネットワークが自動で表示されない場合は、**手動で追加** しましょう！
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20231016_130658726.jpg" alt="" width="188"><figcaption><p>Custom Network</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_130658726.jpg" alt="" width="188"><figcaption><p>Custom Network</p></figcaption></figure>
 
 1️⃣ **「ネットワークを追加」** をタップします。\
 2️⃣ 画面右上の **「カスタムネットワーク」** を選択してください。\

@@ -1,17 +1,17 @@
-# 🔖 Commonly Issues
+# 🔖 Common Issues
 
 {% tabs %}
 {% tab title="ENG" %}
 **💡Here are solutions to common wallet issues.**
 
-❓ [Connecting the wallet on iOS ](commonly-issues.md#connecting-the-wallet-on-ios)\
-❓ [Unable to connect the wallet ](commonly-issues.md#unable-to-connect-the-wallet)\
-❓ [App crash when connecting the wallet ](commonly-issues.md#app-crash-when-connecting-the-wallet)\
-❓ [Response delay](commonly-issues.md#response-delay) \
-❓ [Transaction approval failure ](commonly-issues.md#transaction-approval-failure)\
-❓ [Force setting Gas Fee ](commonly-issues.md#force-setting-gas-fee)\
-❓ [NFT purchase not reflected in the game](commonly-issues.md#nft-purchase-not-reflected-in-the-game)\
-❓ [How to Cancel Pending Transactions](commonly-issues.md#how-to-cancel-pending-transactions)
+❓ [Connecting the wallet on iOS ](common-issues.md#connecting-the-wallet-on-ios)\
+❓ [Unable to connect the wallet ](common-issues.md#unable-to-connect-the-wallet)\
+❓ [App crash when connecting the wallet ](common-issues.md#app-crash-when-connecting-the-wallet)\
+❓ [Response delay](common-issues.md#response-delay) \
+❓ [Transaction approval failure ](common-issues.md#transaction-approval-failure)\
+❓ [Force setting Gas Fee ](common-issues.md#force-setting-gas-fee)\
+❓ [NFT purchase not reflected in the game](common-issues.md#nft-purchase-not-reflected-in-the-game)\
+❓ [How to Cancel Pending Transactions](common-issues.md#how-to-cancel-pending-transactions)
 
 
 
@@ -94,14 +94,14 @@
 {% tab title="한국어" %}
 **💡자주 발생되는 지갑 이슈에 대한 해결 방법입니다.**
 
-❓[IOS에서 지갑 연결하기](commonly-issues.md#ios)\
-❓[지갑 연결 불가 현상](commonly-issues.md#undefined-2)\
-❓[지갑 연결 시 크래시 현상](commonly-issues.md#undefined-3)\
-❓[응답 지연 현상](commonly-issues.md#undefined-4)\
-❓[거래 승인이 되지 않는 현상](commonly-issues.md#undefined-5)\
-❓[Gas Fee 강제 설정하기](commonly-issues.md#gas-fee)\
-❓[NFT 구매 후 게임에 반영되지 않는 경우](commonly-issues.md#nft)\
-❓[보류 중인 거래 취소 방법](commonly-issues.md#undefined-6)
+❓[IOS에서 지갑 연결하기](common-issues.md#ios)\
+❓[지갑 연결 불가 현상](common-issues.md#undefined-2)\
+❓[지갑 연결 시 크래시 현상](common-issues.md#undefined-3)\
+❓[응답 지연 현상](common-issues.md#undefined-4)\
+❓[거래 승인이 되지 않는 현상](common-issues.md#undefined-5)\
+❓[Gas Fee 강제 설정하기](common-issues.md#gas-fee)\
+❓[NFT 구매 후 게임에 반영되지 않는 경우](common-issues.md#nft)\
+❓[보류 중인 거래 취소 방법](common-issues.md#undefined-6)
 
 
 
@@ -185,14 +185,14 @@
 {% tab title="日本語" %}
 **💡よく発生するウォレットの問題の解決方法です。**
 
-❓ [iOSでウォレットを接続する ](commonly-issues.md#iosdeworettowosuru)\
-❓ [ウォレットが接続できない現象](commonly-issues.md#worettogadekinai) \
-❓ [ウォレット接続時のクラッシュ現象](commonly-issues.md#worettonokurasshu) \
-❓ [応答遅延現象 ](commonly-issues.md#ying-da-chi-yan-xian-xiang)\
-❓ [トランザクションが承認されない現象 ](commonly-issues.md#toranzakushongasarenai)\
-❓ [Gas Feeを強制設定する](commonly-issues.md#gas-feewosuru) \
-❓ [NFT購入後にゲームに反映されない場合](commonly-issues.md#nftnigmunisarenai)\
-❓ [保留中のトランザクションをキャンセルする方法](commonly-issues.md#notoranzakushonwokyanserusuru)
+❓ [iOSでウォレットを接続する ](common-issues.md#iosdeworettowosuru)\
+❓ [ウォレットが接続できない現象](common-issues.md#worettogadekinai) \
+❓ [ウォレット接続時のクラッシュ現象](common-issues.md#worettonokurasshu) \
+❓ [応答遅延現象 ](common-issues.md#ying-da-chi-yan-xian-xiang)\
+❓ [トランザクションが承認されない現象 ](common-issues.md#toranzakushongasarenai)\
+❓ [Gas Feeを強制設定する](common-issues.md#gas-feewosuru) \
+❓ [NFT購入後にゲームに反映されない場合](common-issues.md#nftnigmunisarenai)\
+❓ [保留中のトランザクションをキャンセルする方法](common-issues.md#notoranzakushonwokyanserusuru)
 
 #### ❓iOSでウォレットを接続する
 

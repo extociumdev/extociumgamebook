@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🏹 How to Battle
+# 🏹 Battle
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -13,13 +13,13 @@ description: 🛑 This information may be updated later than the game server dat
 EXTOCIUM is built for smooth mobile play. \
 Here’s your quick-start guide to dominating the fight!
 
-1️⃣[Movement ](how-to-battle.md#id-1-movement)\
-2️⃣[Using Skills ](how-to-battle.md#id-2-using-skills)\
-3️⃣[Skill Cooldown ](how-to-battle.md#id-3-skill-cooldown)\
-4️⃣[Auto ](how-to-battle.md#id-4-auto)\
-5️⃣[Quick Slot](how-to-battle.md#id-5-quick-slot)
+1️⃣[Movement ](battle.md#id-1-movement)\
+2️⃣[Using Skills ](battle.md#id-2-using-skills)\
+3️⃣[Skill Cooldown ](battle.md#id-3-skill-cooldown)\
+4️⃣[Auto ](battle.md#id-4-auto)\
+5️⃣[Quick Slot](battle.md#id-5-quick-slot)
 
-<figure><img src="../.gitbook/assets/guide001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/guide001.png" alt=""><figcaption></figcaption></figure>
 
 _EXTOCIUM is optimized for mobile devices._
 
@@ -49,48 +49,48 @@ Skills rely on **three** cooldown factors:
 
 🔄 After using a skill, check the **orange panel** on the skill slot:
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 * **Black mask** = Reload timer. When it completes a full circle, you get one more shot.
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 * **Magazine bar** = Number of shots left. If it’s full, fire away!
 
 {% hint style="info" %}
-❓[Invest in CHA among primary stats to reduce reload time.](../growth/heroes/stats/special-stats/#eng)
+❓[Invest in CHA among primary stats to reduce reload time.](../../growth/heroes/stats/special-stats/#eng)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 * **World cooldown mask** = Rotates clockwise to show when the skill is ready again.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 #### 4️⃣Auto
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * Tap the **Auto** button to start auto-hunting.
-* Tap the **gear icon** to fine-tune auto settings (requires [**TP**](how-to-training.md#eng)).
+* Tap the **gear icon** to fine-tune auto settings (requires [**TP**](training.md#eng)).
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 * Customize: Choose **which skills to use, movement range, and targets.**
 
 {% hint style="info" %}
-❓**Heads up!** After **Lv. 25**, auto-hunting can make you a[ PK](../system/pk/#eng) target. Stay alert!
+❓**Heads up!** After **Lv. 25**, auto-hunting can make you a[ PK](../../system/pk/#eng) target. Stay alert!
 {% endhint %}
 
 #### 5️⃣Quick Slot
 
 * Drag & drop potions or food into the **Quick Slot** at the bottom of your HUD.
 
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 * Tap the **potion icon** to access auto-heal settings.
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 * Example: If you set HP potions to **20%**, they’ll auto-use when your HP drops below 20%. Lifesaver!
 
@@ -135,13 +135,13 @@ Master these basics, and you’ll be crushing the battlefield in no time. See yo
 EXTOCIUM은 모바일 플레이에 최적화되어 있습니다. \
 전투를 지배할 수 있도록 빠르게 익혀보세요!
 
-1️⃣[이동](how-to-battle.md#id-1)\
-2️⃣[스킬 사용](how-to-battle.md#id-2)\
-3️⃣[스킬 쿨타임](how-to-battle.md#id-3)\
-4️⃣[오토](how-to-battle.md#id-4)\
-5️⃣[퀵슬롯](how-to-battle.md#id-5)
+1️⃣[이동](battle.md#id-1)\
+2️⃣[스킬 사용](battle.md#id-2)\
+3️⃣[스킬 쿨타임](battle.md#id-3)\
+4️⃣[오토](battle.md#id-4)\
+5️⃣[퀵슬롯](battle.md#id-5)
 
-<figure><img src="../.gitbook/assets/guide001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/guide001.png" alt=""><figcaption></figcaption></figure>
 
 _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 
@@ -171,50 +171,50 @@ _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 
 🔄 스킬을 사용한 후 **스킬 슬롯의 주황색 패널**을 확인하세요:
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 * **검은 마스크** = 재장전 타이머. 한 바퀴를 돌면 탄환이 한 개 충전됩니다.
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 * **탄창 바** = 남은 탄환 수. 꽉 차 있다면 연속 발사 가능!
 
 {% hint style="info" %}
-❓[1차 스탯 중 CHA 등에 투자하여 리로드 타임을 감소시킬 수 있습니다. ](../growth/heroes/stats/special-stats/#undefined-1)
+❓[1차 스탯 중 CHA 등에 투자하여 리로드 타임을 감소시킬 수 있습니다. ](../../growth/heroes/stats/special-stats/#undefined-1)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 * **월드 쿨다운 마스크** = 시계 방향 회전하여 스킬 준비 상태를 표시.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 #### 4️⃣오토
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * **자동** 버튼을 터치하면 자동 사냥이 시작됩니다.
-* **기어 아이콘**을 눌러 자동 설정을 조정하세요 ([**TP**](how-to-training.md#undefined-1) **필요**).
+* **기어 아이콘**을 눌러 자동 설정을 조정하세요 ([**TP**](training.md#undefined-1) **필요**).
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * **맞춤 설정:** 사용할 스킬, 이동 범위, 목표를 직접 선택 가능.
 
 {% hint style="info" %}
-❓**주의!** **Lv. 25 이후 자동 사냥 중** [**PK**](../system/pk/#undefined-1)**의 대상이 될 수 있습니다.** 신중하게 활용하세요!
+❓**주의!** **Lv. 25 이후 자동 사냥 중** [**PK**](../../system/pk/#undefined-1)**의 대상이 될 수 있습니다.** 신중하게 활용하세요!
 {% endhint %}
 
 #### 5️⃣퀵슬롯
 
 * 포션이나 음식을 **퀵 슬롯**에 드래그 & 드롭하여 등록하세요.
 
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 * **포션 아이콘**을 눌러 자동 회복 설정을 변경하세요
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 * 예시: HP 포션을 **20%**&#xB85C; 설정하면 HP가 20% 이하일 때 자동으로 사용됩니다. 생존 필수!
 
@@ -258,13 +258,13 @@ _EXTOCIUM은 모바일 기기에 최적화 되어 있습니다._&#x20;
 EXTOCIUMはモバイルプレイに最適化されています。\
 戦闘を支配するためのクイックガイドをご紹介！
 
-1️⃣[移動](how-to-battle.md#id-1-yi-dong) \
-2️⃣[スキル使用 ](how-to-battle.md#id-2sukiru)\
-3️⃣[スキルクールダウン](how-to-battle.md#id-3sukirukrudaun) \
-4️⃣[オート ](how-to-battle.md#id-4to)\
-5️⃣[クイックスロット](how-to-battle.md#id-5kuikkusurotto)
+1️⃣[移動](battle.md#id-1-yi-dong) \
+2️⃣[スキル使用 ](battle.md#id-2sukiru)\
+3️⃣[スキルクールダウン](battle.md#id-3sukirukrudaun) \
+4️⃣[オート ](battle.md#id-4to)\
+5️⃣[クイックスロット](battle.md#id-5kuikkusurotto)
 
-<figure><img src="../.gitbook/assets/guide001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/guide001.png" alt=""><figcaption></figcaption></figure>
 
 _EXTOCIUMはモバイル機器に最適化されています。_
 
@@ -294,48 +294,48 @@ _EXTOCIUMはモバイル機器に最適化されています。_
 
 🔄 スキル使用後は**スキルスロットのオレンジパネル**をチェック！
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 * **黒いマスク** = リロードタイマー。1周すると弾丸が1つ補充。
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 * **マガジンバー** = 残り弾数。フルなら連続使用OK！
 
 {% hint style="info" %}
-❓[主要ステータスのCHAに投資してリロード時間を短縮できます。](../growth/heroes/stats/special-stats/#ri-ben-yu)
+❓[主要ステータスのCHAに投資してリロード時間を短縮できます。](../../growth/heroes/stats/special-stats/#ri-ben-yu)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 * **ワールドクールダウンマスク** = 時計回りに回転し、スキルの準備状態を示す。
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 #### 4️⃣オート
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * **オート**ボタンを押すと自動狩り開始！
-* **ギアアイコン**で詳細設定可能（[**TP**](how-to-training.md#ri-ben-yu)**が必要**）。
+* **ギアアイコン**で詳細設定可能（[**TP**](training.md#ri-ben-yu)**が必要**）。
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 * **カスタマイズ:** 使用スキル、移動範囲、ターゲットを選択可能。
 
 {% hint style="info" %}
-❓**注意！** Lv.25以降は[PK](../system/pk/#ri-ben-yu)のターゲットになる可能性あり。慎重に！
+❓**注意！** Lv.25以降は[PK](../../system/pk/#ri-ben-yu)のターゲットになる可能性あり。慎重に！
 {% endhint %}
 
 #### 5️⃣クイックスロット
 
 * ポーションや食料を**クイックスロット**にドラッグ＆ドロップ。
 
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 * **ポーションアイコン**で自動回復設定変更。
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 * 例: HPポーションを\*\*20%\*\*に設定すると、HPが20%以下で自動使用。生存率アップ！
 
