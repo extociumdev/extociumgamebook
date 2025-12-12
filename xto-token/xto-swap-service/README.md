@@ -4,6 +4,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🤝 XTO Swap Service
 
+<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_w4y73tw4y73tw4y7 (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 💡**Services related to XTO and gold can be performed by the town NPC '**[**Yey**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)[**ilel'**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)**.**

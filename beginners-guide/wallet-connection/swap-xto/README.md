@@ -1,5 +1,7 @@
 # 🔁 Swap XTO
 
+<figure><img src="../../../.gitbook/assets/Gemini_Generated_Image_nnnu2nnnnu2nnnnu.png" alt="" width="188"><figcaption></figcaption></figure>
+
 {% content-ref url="swap-on-metamask.md" %}
 [swap-on-metamask.md](swap-on-metamask.md)
 {% endcontent-ref %}
