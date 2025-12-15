@@ -2,26 +2,26 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🗃️ Random Box Info
+# 📦 Random Box
 
 ### <mark style="color:purple;">**📜Header List**</mark>
 
-* 🍯[General Material Random Box Lv.1](random-box-info.md#general-material-random-box-lv.1)
-* 🍯[General Material Random Box Lv.2](random-box-info.md#general-material-random-box-lv.2)
-* 🍯[General Material Random Box Lv.3](random-box-info.md#general-material-random-box-lv.3)
-* 🍯[General Material Random Box Lv.4](random-box-info.md#general-material-random-box-lv.4)
+* 🍯[General Material Random Box Lv.1](random-box.md#general-material-random-box-lv.1)
+* 🍯[General Material Random Box Lv.2](random-box.md#general-material-random-box-lv.2)
+* 🍯[General Material Random Box Lv.3](random-box.md#general-material-random-box-lv.3)
+* 🍯[General Material Random Box Lv.4](random-box.md#general-material-random-box-lv.4)
 
 ***
 
-* 🌷[Potion Material Random Box](random-box-info.md#potion-material-random-box)
-* 🌷[Special Material Random Box](random-box-info.md#special-material-random-box)
-* 🌷[Raid Material Random Box](random-box-info.md#raid-material-random-box)
-* 🌷[Dungeon Material Random Box](random-box-info.md#dungeon-material-random-box)
-* 🌷[Arena Material Random Box](random-box-info.md#arena-material-random-box)
+* 🌷[Potion Material Random Box](random-box.md#potion-material-random-box)
+* 🌷[Special Material Random Box](random-box.md#special-material-random-box)
+* 🌷[Raid Material Random Box](random-box.md#raid-material-random-box)
+* 🌷[Dungeon Material Random Box](random-box.md#dungeon-material-random-box)
+* 🌷[Arena Material Random Box](random-box.md#arena-material-random-box)
 
 ## 🍯General Material Random Box Lv.1
 
-<figure><img src="../.gitbook/assets/XTORewardBox_item_lv1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_item_lv1.png" alt=""><figcaption></figcaption></figure>
 
 💡You can create this material box in the Craft > Scroll tab.
 
@@ -44,7 +44,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🍯General Material Random Box Lv.2
 
-<figure><img src="../.gitbook/assets/XTORewardBox_item_lv2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_item_lv2.png" alt=""><figcaption></figcaption></figure>
 
 💡You can create this material box in the Craft > Scroll tab.
 
@@ -67,7 +67,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🍯General Material Random Box Lv.3
 
-<figure><img src="../.gitbook/assets/XTORewardBox_item_lv3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_item_lv3.png" alt=""><figcaption></figcaption></figure>
 
 💡You can create this material box in the Craft > Scroll tab.
 
@@ -90,7 +90,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🍯General Material Random Box Lv.4
 
-<figure><img src="../.gitbook/assets/XTORewardBox_item_lv4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_item_lv4.png" alt=""><figcaption></figcaption></figure>
 
 💡You can create this material box in the Craft > Scroll tab.
 
@@ -118,13 +118,13 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🌷Potion Material Random Box
 
-<figure><img src="../.gitbook/assets/XTORewardBox_Potion.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_Potion.png" alt=""><figcaption></figcaption></figure>
 
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../xto-token/xto-holding-service/#eng).
+💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng).
 
-💡[**XTO 홀딩 서비스**](../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
+💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
 
-💡[**XTOホールディングサービス**](../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
 
 |  **Item**              |  **min** |  **max** |  **prob** |
 | ---------------------- | -------- | -------- | --------- |
@@ -142,13 +142,13 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🌷Special Material Random Box
 
-<figure><img src="../.gitbook/assets/XTORewardBox_Special.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_Special.png" alt=""><figcaption></figcaption></figure>
 
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../xto-token/xto-holding-service/#eng).
+💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng).
 
-💡[**XTO 홀딩 서비스**](../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
+💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
 
-💡[**XTOホールディングサービス**](../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
 
 |  **Item**               |  **min**  |  **max**  |  **prob**  |
 | ----------------------- | --------- | --------- | ---------- |
@@ -168,16 +168,16 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🌷Raid Material Random Box
 
-<figure><img src="../.gitbook/assets/XTORewardBox_Raid.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_Raid.png" alt=""><figcaption></figcaption></figure>
 
 💡You can create this material box in the Craft > Scroll tab.\
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../xto-token/xto-holding-service/#eng)
+💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng)
 
 💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.\
-💡[**XTO 홀딩 서비스**](../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
+💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
 
 💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。\
-💡[**XTOホールディングサービス**](../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
 
 |  **Item**              |  **min**  |  **max**  |  **prob**  |
 | ---------------------- | --------- | --------- | ---------- |
@@ -199,16 +199,16 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🌷Dungeon Material Random Box
 
-<figure><img src="../.gitbook/assets/XTORewardBox_Dungeon.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_Dungeon.png" alt=""><figcaption></figcaption></figure>
 
 💡You can create this material box in the Craft > Scroll tab.\
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../xto-token/xto-holding-service/#eng)
+💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng)
 
 💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.\
-💡[**XTO 홀딩 서비스**](../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
+💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
 
 💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。\
-💡[**XTOホールディングサービス**](../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
 
 |  **Item**                      |  **min**  |  **max**  |  **prob**  |
 | ------------------------------ | --------- | --------- | ---------- |
@@ -226,13 +226,13 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🌷Arena Material Random Box
 
-<figure><img src="../.gitbook/assets/XTORewardBox_Arena.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XTORewardBox_Arena.png" alt=""><figcaption></figcaption></figure>
 
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../xto-token/xto-holding-service/#eng).
+💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng).
 
-💡[**XTO 홀딩 서비스**](../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
+💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
 
-💡[**XTOホールディングサービス**](../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
 
 |  **Item**                   |  **min**  |  **max**  |  **prob**  |
 | --------------------------- | --------- | --------- | ---------- |

@@ -2,18 +2,18 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 💝 Lucky Box Info
+# 💝 Lucky Box
 
 ### <mark style="color:purple;">**📜Header List**</mark>
 
-* 🍄[Red Lucky Box](lucky-box-info.md#red-lucky-box)
-* 🍄[Blue Lucky Box](lucky-box-info.md#blue-lucky-box)
+* 🍄[Red Lucky Box](lucky-box.md#red-lucky-box)
+* 🍄[Blue Lucky Box](lucky-box.md#blue-lucky-box)
 
 
 
 ## 🍄Red Lucky Box
 
-<figure><img src="../.gitbook/assets/Item_900041.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_900041.png" alt=""><figcaption></figcaption></figure>
 
 💡**This item can mainly be obtained by defeating 'Field Wave Monsters'. One of the items inside the box will be randomly awarded based on probability.**
 
@@ -46,7 +46,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 ## 🍄Blue Lucky Box
 
-<figure><img src="../.gitbook/assets/Item_815002.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Item_815002.png" alt=""><figcaption></figcaption></figure>
 
 💡**This item can mainly be obtained by defeating 'Field Wave Monsters'. One of the items inside the box will be randomly awarded based on probability.**
 

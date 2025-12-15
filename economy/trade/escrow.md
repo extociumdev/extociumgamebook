@@ -41,7 +41,7 @@ If you want to trade your equipment secretly with a specific person, rather than
 
 <figure><img src="../../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
-Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Equipment Trade Shard' from the [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) to craft an equipment trading pass.
+Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Equipment Trade Shard' from the [🌷Special Material Random Box](../loot-box-info/random-box.md#special-material-random-box) to craft an equipment trading pass.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -78,7 +78,7 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 <figure><img src="../../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
 장비 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. \
-또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) 에서 나온 '장비 거래권 조각'을 모아 장비 거래권을 제작할 수도 있습니다.&#x20;
+또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../loot-box-info/random-box.md#special-material-random-box) 에서 나온 '장비 거래권 조각'을 모아 장비 거래권을 제작할 수도 있습니다.&#x20;
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -115,6 +115,6 @@ Equipment trading pass can be purchased in the 'Shop > Item Shop > XTO' category
 <figure><img src="../../.gitbook/assets/Item_8015.png" alt=""><figcaption></figcaption></figure>
 
 装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。\
-さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
+さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../loot-box-info/random-box.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
 {% endtab %}
 {% endtabs %}

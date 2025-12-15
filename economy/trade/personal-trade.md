@@ -50,7 +50,7 @@ If you want to trade your items not in an open space like a market, but secretly
 
 <figure><img src="../../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
 
-Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Item Trade Shard' from the [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) to craft an Item trading pass.
+Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Additionally, from the items obtained through XTO holder drops, you can collect 'Item Trade Shard' from the [🌷Special Material Random Box](../loot-box-info/random-box.md#special-material-random-box) to craft an Item trading pass.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -96,7 +96,7 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 <figure><img src="../../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
 
-아이템 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. 또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box) 에서 나온 '아이템 거래권 조각'을 모아 아이템 거래권을 제작할 수도 있습니다.&#x20;
+아이템 거래권은 '상점 > 아이템 상점 > XTO' 카테고리에서 구입할 수 있습니다. 또한XTO 홀더 드랍을 통해 얻은 아이템 중, [🌷Special Material Random Box](../loot-box-info/random-box.md#special-material-random-box) 에서 나온 '아이템 거래권 조각'을 모아 아이템 거래권을 제작할 수도 있습니다.&#x20;
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -142,7 +142,7 @@ Item trading pass can be purchased in the 'Shop > Item Shop > XTO' category. Add
 
 <figure><img src="../../.gitbook/assets/Item_8016.png" alt=""><figcaption></figcaption></figure>
 
-装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../../item-info/random-box-info.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
+装備取引券は、「ショップ > アイテムショップ > XTO」カテゴリで購入できます。さらに、XTOホルダードロップを通じて得られたアイテムの中で、[🌷Special Material Random Box](../loot-box-info/random-box.md#special-material-random-box)から出た「装備取引券の欠片」を集めて、装備取引券を作成することもできます。
 {% endtab %}
 {% endtabs %}
 

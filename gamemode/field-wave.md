@@ -17,7 +17,7 @@ When a Field Wave begins, **enhanced monsters** spawn alongside regular monsters
 forming **moving packs that threaten the hunting grounds**.
 
 ⚠️ **Their locations won’t appear on the minimap, so stay alert!**\
-🔥 **Defeat ‘Burning’ type monsters to earn a** [**Lucky Box**](../item-info/lucky-box-info.md)**!**
+🔥 **Defeat ‘Burning’ type monsters to earn a** [**Lucky Box**](../economy/loot-box-info/lucky-box.md)**!**
 
 Face stronger enemies and claim exclusive rewards!
 {% endtab %}
@@ -30,7 +30,7 @@ Face stronger enemies and claim exclusive rewards!
 몬스터 무리가 **맵 곳곳을 돌아다니며 사냥터를 위협**합니다.
 
 ⚠️ **미니맵에 위치가 표시되지 않으므로 주의하세요!**\
-🔥 **‘불타는’ 타입 몬스터 처치 시,** [**럭키박스**](../item-info/lucky-box-info.md) **드랍!**
+🔥 **‘불타는’ 타입 몬스터 처치 시,** [**럭키박스**](../economy/loot-box-info/lucky-box.md) **드랍!**
 
 더 강력한 적을 상대하고 특별한 보상을 노려보세요!
 {% endtab %}
@@ -43,7 +43,7 @@ Face stronger enemies and claim exclusive rewards!
 モンスターの群れが**フィールド内を移動しながら狩場を脅かします。**
 
 ⚠️ **ミニマップには位置が表示されないので注意！**\
-🔥 **「燃える」タイプのモンスターを倒すと、**[**ラッキーボックス**](../item-info/lucky-box-info.md)**をドロップ！**
+🔥 **「燃える」タイプのモンスターを倒すと、**[**ラッキーボックス**](../economy/loot-box-info/lucky-box.md)**をドロップ！**
 
 強敵を倒し、特別な報酬を手に入れよう！
 {% endtab %}

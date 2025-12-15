@@ -15,7 +15,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption><p><strong>Rune of Fortune</strong></p></figcaption></figure>
 
-**The Rune of Luck is an item that increases the success rate of equipment enchantment.** It can be crafted through the '[Crafting](../../beginners-guide/gameplay-guide/crafting.md#eng)' system, and the main ingredients drop from '[Raid Bosses](../../gamemode/field-raid-field-boss.md#eng)' on each map. The Rune of Fortune Lv.4 can only be obtained through a '[Lucky Box](../../item-info/lucky-box-info.md#red-lucky-box)'.
+**The Rune of Luck is an item that increases the success rate of equipment enchantment.** It can be crafted through the '[Crafting](../../beginners-guide/gameplay-guide/crafting.md#eng)' system, and the main ingredients drop from '[Raid Bosses](../../gamemode/field-raid-field-boss.md#eng)' on each map. The Rune of Fortune Lv.4 can only be obtained through a '[Lucky Box](../../economy/loot-box-info/lucky-box.md#red-lucky-box)'.
 
 <figure><img src="../../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/image (653).png" alt=""><figcaption><p><strong>Rune of Protection</strong></p></figcaption></figure>
 
-**The Rune of Protection is an item that 'probabilistically' prevents the destruction of equipment when enchantment fails.** It can be crafted through the '[Crafting](../../beginners-guide/gameplay-guide/crafting.md#eng)' system, and the main ingredients drop from '[Raid Bosses](../../gamemode/field-raid-field-boss.md#eng)' on each map. The Rune of Protection Lv.4 can only be obtained through a '[Lucky Box](../../item-info/lucky-box-info.md#red-lucky-box)'.
+**The Rune of Protection is an item that 'probabilistically' prevents the destruction of equipment when enchantment fails.** It can be crafted through the '[Crafting](../../beginners-guide/gameplay-guide/crafting.md#eng)' system, and the main ingredients drop from '[Raid Bosses](../../gamemode/field-raid-field-boss.md#eng)' on each map. The Rune of Protection Lv.4 can only be obtained through a '[Lucky Box](../../economy/loot-box-info/lucky-box.md#red-lucky-box)'.
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption><p><strong>Rune of Fortune</strong></p></figcaption></figure>
 
-**행운의 룬은 장비의 인챈트 성공 확률을 높여주는 아이템 입니다.** '[제작](../../beginners-guide/gameplay-guide/crafting.md#undefined-1)' 시스템을 통해 제작할 수 있으며, 주요 재료는 각 맵의 '[레이드 보스](../../gamemode/field-raid-field-boss.md#undefined-1)'에게서 드랍 됩니다. 행운의 룬 Lv.4 아이템은 '[럭키 박스](../../item-info/lucky-box-info.md#red-lucky-box)'를 통해서만 획득할 수 있습니다.
+**행운의 룬은 장비의 인챈트 성공 확률을 높여주는 아이템 입니다.** '[제작](../../beginners-guide/gameplay-guide/crafting.md#undefined-1)' 시스템을 통해 제작할 수 있으며, 주요 재료는 각 맵의 '[레이드 보스](../../gamemode/field-raid-field-boss.md#undefined-1)'에게서 드랍 됩니다. 행운의 룬 Lv.4 아이템은 '[럭키 박스](../../economy/loot-box-info/lucky-box.md#red-lucky-box)'를 통해서만 획득할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,7 +69,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/image (653).png" alt=""><figcaption><p><strong>Rune of Protection</strong></p></figcaption></figure>
 
-**보호의 룬은 인챈트가 실패했을 때, 장비의 파괴를 '확률적'으로 막아주는 아이템입니다.** '[제작](../../beginners-guide/gameplay-guide/crafting.md#undefined-1)' 시스템을 통해 제작할 수 있으며, 주요 재료는 각 맵의 '[레이드 보스](../../gamemode/field-raid-field-boss.md#undefined-1)'에게서 드랍 됩니다. 보호의 룬 Lv.4 아이템은 '[럭키 박스](../../item-info/lucky-box-info.md#red-lucky-box)'를 통해서만 획득할 수 있습니다.
+**보호의 룬은 인챈트가 실패했을 때, 장비의 파괴를 '확률적'으로 막아주는 아이템입니다.** '[제작](../../beginners-guide/gameplay-guide/crafting.md#undefined-1)' 시스템을 통해 제작할 수 있으며, 주요 재료는 각 맵의 '[레이드 보스](../../gamemode/field-raid-field-boss.md#undefined-1)'에게서 드랍 됩니다. 보호의 룬 Lv.4 아이템은 '[럭키 박스](../../economy/loot-box-info/lucky-box.md#red-lucky-box)'를 통해서만 획득할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
@@ -93,7 +93,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption><p><strong>Rune of Fortune</strong></p></figcaption></figure>
 
-**幸運のルーンは、装備のエンチャント成功率を高めるアイテムです。**'[製作](../../beginners-guide/gameplay-guide/crafting.md#ri-ben-yu)'システムを通じて製作可能で、主要材料は各マップの'[レイドボス](../../gamemode/field-raid-field-boss.md#ri-ben-yu)'からドロップします。幸運のルーンLv.4は「[ラッキーボックス](../../item-info/lucky-box-info.md#red-lucky-box)」を通じてのみ入手可能です。
+**幸運のルーンは、装備のエンチャント成功率を高めるアイテムです。**'[製作](../../beginners-guide/gameplay-guide/crafting.md#ri-ben-yu)'システムを通じて製作可能で、主要材料は各マップの'[レイドボス](../../gamemode/field-raid-field-boss.md#ri-ben-yu)'からドロップします。幸運のルーンLv.4は「[ラッキーボックス](../../economy/loot-box-info/lucky-box.md#red-lucky-box)」を通じてのみ入手可能です。
 
 <figure><img src="../../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
 
@@ -108,7 +108,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/image (653).png" alt=""><figcaption><p><strong>Rune of Protection</strong></p></figcaption></figure>
 
-**保護のルーンは、エンチャント失敗時に装備の破壊を「確率的に」防ぐアイテムです。** '[製作](../../beginners-guide/gameplay-guide/crafting.md#ri-ben-yu)'システムを通じて製作可能で、主要材料は各マップの'[レイドボス](../../gamemode/field-raid-field-boss.md#ri-ben-yu)'からドロップします。保護のルーンLv.4は「[ラッキーボックス](../../item-info/lucky-box-info.md#red-lucky-box)」を通じてのみ入手可能です。
+**保護のルーンは、エンチャント失敗時に装備の破壊を「確率的に」防ぐアイテムです。** '[製作](../../beginners-guide/gameplay-guide/crafting.md#ri-ben-yu)'システムを通じて製作可能で、主要材料は各マップの'[レイドボス](../../gamemode/field-raid-field-boss.md#ri-ben-yu)'からドロップします。保護のルーンLv.4は「[ラッキーボックス](../../economy/loot-box-info/lucky-box.md#red-lucky-box)」を通じてのみ入手可能です。
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 

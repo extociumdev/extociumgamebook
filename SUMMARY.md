@@ -211,6 +211,9 @@
       * [📤 Sell](economy/trade/market/trading-items/sell.md)
   * [💰 Personal Trade](economy/trade/personal-trade.md)
   * [📩 Escrow](economy/trade/escrow.md)
+* [🎲 Loot Box Info](economy/loot-box-info/README.md)
+  * [📦 Random Box](economy/loot-box-info/random-box.md)
+  * [💝 Lucky Box](economy/loot-box-info/lucky-box.md)
 
 ## 🪙 XTO token
 
@@ -224,11 +227,6 @@
 * [🎁 XTO Holding Service](xto-token/xto-holding-service/README.md)
   * [🍓 X Points Earning Rate](xto-token/xto-holding-service/x-points-earning-rate.md)
 * [🏦 Gold Safe Service](xto-token/gold-safe-service.md)
-
-## 📦 Item Info
-
-* [🗃️ Random Box Info](item-info/random-box-info.md)
-* [💝 Lucky Box Info](item-info/lucky-box-info.md)
 
 ## 🇰🇷 Company\&Team
 
