@@ -10,7 +10,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 They include all stats that directly affect combat, such as Attack Power, Critical Chance, HP, and MP.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 | STAT                                | Description                                                                                    | Base Value   | Stat Acquisition Equipment                                 |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------- |
@@ -40,7 +40,7 @@ They include all stats that directly affect combat, such as Attack Power, Critic
 
 공격력, 치명타 확률, HP, MP 등 전투에 직접적인 영향을 미치는 모든 스탯을 포함합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th>스탯</th><th>설명</th><th width="127">영웅 기본값</th><th>스탯 획득 장비</th></tr></thead><tbody><tr><td>물리 데미지</td><td>일반/근접/콤보 공격 데미지</td><td>120</td><td>무기</td></tr><tr><td>HP (체력)</td><td>체력 포인트</td><td>600</td><td>오브</td></tr><tr><td>MP (마나)</td><td>마나 포인트</td><td>600</td><td>목걸이</td></tr><tr><td>물리 치명타 데미지</td><td>일반/근접/콤보 공격으로 치명타 발생 시 데미지 추가</td><td>120</td><td>팔찌</td></tr><tr><td>물리 치명타 확률</td><td>일반/근접/콤보 공격 시 치명타 확률(%)</td><td>0.01%</td><td>귀걸이</td></tr><tr><td>마법 데미지</td><td>스킬 사용 시 적에게 가하는 데미지. 스킬의 스킬 공격 포인트에 추가됩니다.</td><td>120</td><td>무기</td></tr><tr><td>마법 치명타 데미지</td><td>스킬 치명타 발생 시 데미지 추가</td><td>120</td><td>팔찌</td></tr><tr><td>마법 치명타 확률</td><td>스킬 사용 시 치명타 확률(%)</td><td>0.01%</td><td>귀걸이</td></tr><tr><td>회피율 (EVA)</td><td>공격을 회피할 확률(%)</td><td>제공되지 않음</td><td>오브</td></tr><tr><td>명중률 (ACC)</td><td>회피를 감소(-)시킬 확률(%)</td><td>제공되지 않음</td><td>모든 장비의 '랜덤 옵션'으로만 획득 가능</td></tr><tr><td>CDR<br>(재장전 시간 감소)</td><td>이 값이 증가하면 스킬의 쿨타임이 감소합니다.</td><td>0.01%</td><td>목걸이</td></tr></tbody></table>
 
@@ -54,7 +54,7 @@ They include all stats that directly affect combat, such as Attack Power, Critic
 
 攻撃力、クリティカル確率、HP、MPなど、戦闘に直接影響を与えるすべてのステータスを含みます。
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 | ステータス         | 説明                                     | 英雄 基本値  | ステータス獲得装備                   |
 | ------------- | -------------------------------------- | ------- | --------------------------- |
