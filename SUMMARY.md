@@ -10,7 +10,7 @@
 
 * [🦊 Wallet connection](beginners-guide/wallet-connection/README.md)
   * [🔢 Wallet Setup](beginners-guide/wallet-connection/wallet-setup/README.md)
-    * [1️⃣ What is MetaMask?](beginners-guide/wallet-connection/wallet-setup/what-is-metamask.md)
+    * [1️⃣ What is a Wallet?](beginners-guide/wallet-connection/wallet-setup/what-is-a-wallet.md)
     * [2️⃣ Adding a BSC network to MetaMask](beginners-guide/wallet-connection/wallet-setup/adding-a-bsc-network-to-metamask.md)
     * [3️⃣ Connecting games and MetaMask](beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md)
   * [🔁 Swap XTO](beginners-guide/wallet-connection/swap-xto/README.md)
