@@ -11,7 +11,7 @@
 * [🦊 Wallet connection](beginners-guide/wallet-connection/README.md)
   * [🔢 Wallet Setup](beginners-guide/wallet-connection/wallet-setup/README.md)
     * [1️⃣ What is a Wallet?](beginners-guide/wallet-connection/wallet-setup/what-is-a-wallet.md)
-    * [2️⃣ Adding a BSC network to MetaMask](beginners-guide/wallet-connection/wallet-setup/adding-a-bsc-network-to-metamask.md)
+    * [2️⃣ Add BNB Smart Chain to Your Wallet](beginners-guide/wallet-connection/wallet-setup/add-bnb-smart-chain-to-your-wallet.md)
     * [3️⃣ Connecting games and MetaMask](beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md)
   * [🔁 Swap XTO](beginners-guide/wallet-connection/swap-xto/README.md)
     * [🦊 Swap on MetaMask](beginners-guide/wallet-connection/swap-xto/swap-on-metamask.md)

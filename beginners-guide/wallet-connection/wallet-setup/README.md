@@ -23,8 +23,8 @@ from what a wallet is, to setting up the network, and connecting it to the game.
 [what-is-a-wallet.md](what-is-a-wallet.md)
 {% endcontent-ref %}
 
-{% content-ref url="adding-a-bsc-network-to-metamask.md" %}
-[adding-a-bsc-network-to-metamask.md](adding-a-bsc-network-to-metamask.md)
+{% content-ref url="add-bnb-smart-chain-to-your-wallet.md" %}
+[add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
 
 {% content-ref url="connecting-games-and-metamask.md" %}

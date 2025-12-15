@@ -309,6 +309,6 @@ MetaMaskまたはTrust Walletに追加する方法をご案内します。
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="adding-a-bsc-network-to-metamask.md" %}
-[adding-a-bsc-network-to-metamask.md](adding-a-bsc-network-to-metamask.md)
+{% content-ref url="add-bnb-smart-chain-to-your-wallet.md" %}
+[add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
