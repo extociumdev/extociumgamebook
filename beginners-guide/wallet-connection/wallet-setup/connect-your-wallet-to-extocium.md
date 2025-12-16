@@ -6,106 +6,137 @@
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 🔗 **Connecting the Game with MetaMask**
+#### 🔗 Connect Your Wallet to EXTOCIUM
 
-Want to connect MetaMask to the game? No worries! \
-Just follow the steps below to set it up easily. 🦊✨
+_(MetaMask & Trust Wallet)_
+
+In **EXTOCIUM**, you can connect your game account using **either MetaMask or Trust Wallet**.
+
+Follow the steps below to safely connect your wallet to the game.
 
 ***
 
-#### ✅ **1. Start Connecting MetaMask**
-
-1️⃣ Tap the **fox icon (🦊) at the top center of the main HUD**.
-
-<figure><img src="../../../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
-
-2️⃣ A pop-up will appear, giving you two connection options.
-
-<figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
-[1️⃣](connect-your-wallet-to-extocium.md#id-1-qr)[QR Login](connect-your-wallet-to-extocium.md#method-1-qr-login-using-metamask-on-mobile)
+### ⚠️ Before You Choose a Wallet
 
-[2️⃣App Load Login](connect-your-wallet-to-extocium.md#method-2-app-load-login-using-metamask-on-the-same-device)
+Please read carefully before proceeding.
+
+* The wallet you connect **for the first time cannot be changed later**.
+* You can choose **only one wallet**: MetaMask _or_ Trust Wallet.
+
+👉 Make sure you know which wallet you want to use before connecting.
 {% endhint %}
 
 ***
 
-#### 🔹 **Method 1: QR Login (Using MetaMask on Mobile)**
+#### ✅ Step 1. Start Connecting Your Wallet
 
-💡 **If you're playing the game on a PC emulator, you can log in using the QR code with your MetaMask mobile app.**
+1️⃣ Tap the **fox button (🦊)** at the top center of the main HUD.
 
-> <img src="../../../.gitbook/assets/image (158).png" alt="" data-size="original">
->
-> 📌 **Already connected a wallet before?**
->
-> * Simply check the **wallet address and network (Binance Smart Chain)** at the top and proceed.
->
-> <img src="../../../.gitbook/assets/image (150).png" alt="" data-size="original">
->
->
->
-> 📌 **Connecting for the first time?**\
-> 1️⃣ Make sure **Binance Smart Chain is set up** in MetaMask.\
-> 2️⃣ Select the **wallet address** you want to connect and tap the **camera icon** in the top right of the MetaMask app.
->
-> ![](<../../../.gitbook/assets/image (151).png>)
->
->
->
-> 3️⃣ When the camera opens, **scan the QR code displayed in the game**.
->
-> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
->
->
->
-> 4️⃣ Shortly after, a **connection approval request pop-up** will appear in MetaMask.\
-> 5️⃣ Tap **"Connect"** to complete the connection.
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-***
+2️⃣ When the popup appears, choose one of the following:
 
-#### 🔹 **Method 2: App Load Login (Using MetaMask on the Same Device)**
+* **QR Login**
+* **APP LOAD Login**
 
-📌 **If you're playing the game on the same device where MetaMask is installed, use the "APP LOAD" button.**
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-If connecting within the device, you can load the wallet through the APP LOAD button.
+3️⃣ After selecting a login method,\
+you’ll be asked to choose the wallet to connect.\
+Select the wallet you are using (**MetaMask** or **Trust Wallet**).
 
-> ![](<../../../.gitbook/assets/image (152).png>)
->
-> 1️⃣ Tap **"APP LOAD"**, and the MetaMask app will launch automatically.
->
-> 2️⃣ **Important Notes:**
->
-> * Make sure **MetaMask is already installed** on your device.
-> * **If you have multiple accounts**, open MetaMask first and select the wallet you want to use.
->
-> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
->
-> &#x20;
->
-> 3️⃣ A **connection approval request pop-up** will appear in MetaMask. \
-> Tap **"Connect"** to complete the process.
->
-> ![](<../../../.gitbook/assets/3-3-3 (2).jpg>)
-
-***
-
-#### ✅ **2. Confirm Connection Status**
-
-🎉 **Once connected, the fox icon (🦊) at the top center of the main HUD will become active!**
+<figure><img src="../../../.gitbook/assets/signal-2025-12-16-110734.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-📌 **Wallet Connection Maintenance**
+1️⃣ [QR Login](connect-your-wallet-to-extocium.md#qr-login)
 
-* **For security reasons, MetaMask does not keep the connection active indefinitely.**
-* **If you need to make a transaction, reconnect your wallet in advance.**
+2️⃣ [APP LOAD Login](connect-your-wallet-to-extocium.md#app-load-login)
+{% endhint %}
+
+***
+
+### 🔹 Login Method Explained&#x20;
+
+#### 📱 QR Login
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Use this method when your wallet is on a **different device**.
+
+Example:
+
+* Game: PC / Emulator
+* Wallet: Smartphone
+
+{% hint style="warning" %}
+Make sure **BNB Smart Chain** is set in your wallet.
+{% endhint %}
+
+1️⃣ Select **QR Login** to display a QR code on the game screen.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ Open your wallet app and scan the QR code to start the connection.
+
+<div align="center"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
+
+_👉 Works the same for both MetaMask and Trust Wallet._
+
+3️⃣ When a **“Connection Request”** popup appears in your wallet,\
+tap **“Connect”** to complete the process.
+
+<div align="center"><figure><img src="../../../.gitbook/assets/메타연결.png" alt="" width="188"><figcaption><p>MetaMask pop-up</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/트러스트연결.png" alt="" width="188"><figcaption><p>TrustWallet pop-up</p></figcaption></figure></div>
+
+
+
+***
+
+#### 📲 APP LOAD Login
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+1️⃣ Select **APP LOAD**, and the chosen wallet app will open automatically.
+
+2️⃣ Review the connection request in the wallet and approve it.
+
+{% hint style="info" %}
+👉 **The approval screen is the same as QR Login.**\
+**(Only the connection method is different.)**
+{% endhint %}
+
+👉 Works the same for both MetaMask and Trust Wallet.
+
+***
+
+#### ✅ Step **2.** Connection Complete & Check
+
+🎉 Once the connection is complete,\
+the **fox button (🦊)** at the top center of the main HUD will be activated.
+
+<figure><img src="../../../.gitbook/assets/메타-연결완료.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+### 🔐 About Keeping Your Wallet Connected
+
+For security reasons, wallet connections may not always stay active.
+
+If you plan to:
+
+* Trade NFTs
+* Approve transactions
+
+we recommend reconnecting your wallet in advance.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 📌 **Check Wallet Status & Transaction History**
 
-* Tap the **fox icon** to view your **current wallet connection status and transaction history**.
+Tap the activated **fox button (🦊)** to view:
+
+* Your currently connected wallet
+* Transaction history
 
 ***
 
@@ -153,9 +184,9 @@ EXTOCIUM에서는\
 <figure><img src="../../../.gitbook/assets/signal-2025-12-16-110734.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[1️⃣QR 로그인 하기](connect-your-wallet-to-extocium.md#id-1-qr)
+1️⃣[QR 로그인 하기](connect-your-wallet-to-extocium.md#qr)
 
-[2️⃣앱로드 로그인 하기](connect-your-wallet-to-extocium.md#id-2)
+2️⃣[앱로드 로그인 하기](connect-your-wallet-to-extocium.md#app-load)
 {% endhint %}
 
 ***
@@ -237,112 +268,130 @@ NFT 거래나 지갑 승인이 필요한 경우에는 **사전에 지갑을 다�
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 🔗 **ゲームとMetaMaskを接続する方法**
+#### 🔗 ウォレットをEXTOCIUMに接続する
 
-ゲームでMetaMaskを接続したいですか？心配いりません！\
-以下の手順に従えば、簡単にセットアップできます。 🦊✨
+_(MetaMask & Trust Wallet)_
+
+EXTOCIUMでは、\
+**MetaMask または Trust Wallet のいずれか一つ**を選択して\
+ゲームと接続することができます。
+
+以下の手順に沿って進めることで、\
+ウォレットを安全にゲームへ接続できます。
 
 ***
 
-#### ✅ **1. MetaMaskの接続を開始する**
-
-1️⃣ **メインHUDの中央上部にある🦊アイコン**をタップします。
-
-<figure><img src="../../../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
-
-2️⃣ ポップアップが表示され、2つの接続方法が選択できます。
-
-<figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
-[1️⃣QRログイン](connect-your-wallet-to-extocium.md#id-1-qrroguinmobairunometamaskwo)
+### ⚠️ ウォレット選択前の重要確認 接続前に、必ず以下をご確認ください。
 
-[2️⃣アプリロードログイン](connect-your-wallet-to-extocium.md#id-2-appurdoroguinjidebaisudemetamaskwo)
+* 初回に接続したウォレットは **後から変更できません**。
+* 選択できるウォレットは **1つのみ** です\
+  （MetaMask または Trust Wallet）。
+
+👉 使用するウォレットを事前に確認したうえで、接続を行ってください。
 {% endhint %}
 
-
-
 ***
 
+#### ✅ Step 1. ウォレット接続を開始する
 
+1️⃣ メインHUD中央上部にある **キツネボタン（🦊）** をタップしてください。
 
-#### 🔹 **方法1: QRログイン（モバイルのMetaMaskを使用）**
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-💡 **PCエミュレーターでゲームをプレイしている場合は、モバイル版MetaMaskを使用してQRコードでログインできます。**
+2️⃣ ポップアップが表示されたら、以下のいずれかを選択します。
 
-> <img src="../../../.gitbook/assets/image (158).png" alt="" data-size="original">
->
-> 📌 **すでにウォレットを接続済みの場合?**
->
-> * 上部に表示される **ウォレットアドレスとネットワーク（Binance Smart Chain）** を確認し、そのまま接続してください。
->
->
->
-> <img src="../../../.gitbook/assets/image (150).png" alt="" data-size="original">
->
-> 📌 **初めてウォレットを接続する場合?**\
-> 1️⃣ **MetaMaskでBinance Smart Chainが設定されていることを確認** します。\
-> 2️⃣ **接続したいウォレットアドレスを選択** し、MetaMaskアプリの右上にある **カメラアイコン** をタップします。
->
->
->
-> ![](<../../../.gitbook/assets/image (151).png>)
->
-> 3️⃣ カメラが起動したら、**ゲーム画面のQRコードをスキャン** します。
->
->
->
-> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
->
-> &#x20;
->
-> 4️⃣ しばらくすると、MetaMaskに **「接続承認リクエスト」ポップアップ** が表示されます。\
-> 5️⃣ **「接続」ボタンをタップして完了** します。
+* **QRログイン**
+* **APP LOADログイン**
 
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+3️⃣ 選択後、\
+接続するウォレットを選ぶ画面が表示されます。\
+使用中のウォレット（**MetaMask** または **Trust Wallet**）を選択してください。
 
-***
-
-#### 🔹 **方法2: アップロードログイン（同じデバイスでMetaMaskを使用）**
-
-📌 **ゲームをプレイしているデバイス内で直接接続する場合は、「APP LOAD」ボタンを使用します。**
-
-> ![](<../../../.gitbook/assets/image (152).png>)
->
->
->
-> 1️⃣ **「APP LOAD」ボタンをタップ** すると、MetaMaskアプリが自動的に起動します。\
-> 2️⃣ **注意事項:**
->
-> * **MetaMaskアプリが事前にインストールされている必要があります。**
-> * **複数のウォレットアカウントを使用している場合** は、事前にMetaMaskアプリを開き、使用するウォレットを選択してください。
->
-> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
->
-> &#x20;
->
-> 3️⃣ **「接続承認リクエスト」ポップアップ** が表示されたら、**「接続」ボタンをタップして完了** します。
->
-> ![](../../../.gitbook/assets/3-3-3.jpg)
-
-***
-
-#### ✅ **2. 接続完了 & 確認方法**
-
-🎉 **接続が完了すると、メインHUD中央上部の🦊アイコンがアクティブになります！**
+<figure><img src="../../../.gitbook/assets/signal-2025-12-16-110734.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-📌 **ウォレット接続の維持について**
+1️⃣[QRログイン](connect-your-wallet-to-extocium.md#qrroguin)
 
-* **セキュリティ上の理由により、MetaMaskの接続は長時間自動で維持されません。**
-* **取引を行う前に、再接続することをおすすめします。**
+2️⃣[APP LOADログイン](connect-your-wallet-to-extocium.md#app-loadroguin)
+{% endhint %}
+
+***
+
+### 🔹 接続方式の説明
+
+#### 📱 QRログイン
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+ウォレットが **別の端末** にある場合に使用します。
+
+例：
+
+* ゲーム：PC／エミュレーター
+* ウォレット：スマートフォン
+
+{% hint style="warning" %}
+ウォレットで **BNB Smart Chain** が設定されているか必ず確認してください。
+{% endhint %}
+
+1️⃣ QRログインを選択すると、ゲーム画面にQRコードが表示されます。
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ ウォレットアプリを起動し、QRコードをスキャンすると接続が進みます。
+
+<div align="center"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
+
+_👉 MetaMask・Trust Walletともに同じ動作です。_
+
+3️⃣ ウォレットアプリに **「接続承認リクエスト」** が表示されたら、**「接続」** をタップして完了です。
+
+<div align="center"><figure><img src="../../../.gitbook/assets/메타연결.png" alt="" width="188"><figcaption><p>MetaMask pop-up</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/트러스트연결.png" alt="" width="188"><figcaption><p>TrustWallet pop-up</p></figcaption></figure></div>
+
+
+
+***
+
+#### 📲 APP LOADログイン
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+1️⃣ APP LOADを選択すると、選択したウォレットアプリが自動で起動します。
+
+2️⃣ ウォレット側で接続承認リクエストを確認し、承認してください。
+
+{% hint style="info" %}
+👉 **承認画面はQRログインと同じです。**\
+**（接続方法のみが異なります。）**
+{% endhint %}
+
+👉 MetaMask・Trust Walletともに同じ動作です。
+
+***
+
+#### ✅ Step **2.** 接続完了・確認
+
+🎉 接続が完了すると、メインHUD中央上部の **キツネボタン（🦊）** が有効化されます。
+
+<figure><img src="../../../.gitbook/assets/메타-연결완료.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+### 🔐 ウォレット接続維持に関するご案内
+
+セキュリティ上の理由により、ウォレット接続は常に自動で維持されるとは限りません。
+
+NFT取引やウォレット承認が必要な場合は、事前に再接続することをおすすめします。
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
-📌 **ウォレットの状態 & 取引履歴の確認**
+📌 ウォレット接続状態・取引履歴の確認
 
-* **🦊アイコンをタップすると、現在のウォレット接続状況と取引履歴を確認** できます。
+* 有効化された **キツネボタン（🦊）** をタップすると、\
+  現在接続中のウォレット状態や取引履歴を確認できます。
 
 ***
 
