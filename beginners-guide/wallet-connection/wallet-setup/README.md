@@ -27,6 +27,6 @@ from what a wallet is, to setting up the network, and connecting it to the game.
 [add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
 
-{% content-ref url="connecting-games-and-metamask.md" %}
-[connecting-games-and-metamask.md](connecting-games-and-metamask.md)
+{% content-ref url="connect-your-wallet-to-extocium.md" %}
+[connect-your-wallet-to-extocium.md](connect-your-wallet-to-extocium.md)
 {% endcontent-ref %}

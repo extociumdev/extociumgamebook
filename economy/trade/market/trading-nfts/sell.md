@@ -15,7 +15,7 @@ How to register NFT items in the Market
 {% tabs %}
 {% tab title="ENG" %}
 {% hint style="info" %}
-_💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#connecting-the-game-with-metamask)_!_
+_💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#connecting-the-game-with-metamask)_!_
 {% endhint %}
 
 ### **👉Step 1:** Access the Dashboard
@@ -102,7 +102,7 @@ _💡Do you want to sell NFTs? First, please_ [_connect your MetaMask_](../../..
 
 {% tab title="한국어" %}
 {% hint style="info" %}
-_💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../../../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#undefined-2)_해주세요!_
+_💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../../../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#undefined-2)_해주세요!_
 {% endhint %}
 
 ### **👉1단계:** 게임 좌측의 대시보드로 진입
@@ -187,7 +187,7 @@ _💡NFT 판매를 원하시나요? 우선,_ [_메타마스크를 연결_](../..
 
 {% tab title="日本語" %}
 {% hint style="info" %}
-_💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#gmutometamaskwosuru)_してください！_
+_💡NFTを販売したいですか？まず、_[_MetaMaskを接続_](../../../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#gmutometamaskwosuru)_してください！_
 {% endhint %}
 
 ### **👉ステップ 1:** ダッシュボードを開く

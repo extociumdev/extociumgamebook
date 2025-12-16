@@ -1,4 +1,4 @@
-# 3️⃣ Connecting games and MetaMask
+# 3️⃣ Connect Your Wallet to EXTOCIUM
 
 {% embed url="https://www.youtube.com/watch?v=10N3xyMDQNk" %}
 **Watching the video will make it easier!**&#x20;
@@ -24,9 +24,9 @@ Just follow the steps below to set it up easily. 🦊✨
 <figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[1️⃣](connecting-games-and-metamask.md#id-1-qr)[QR Login](connecting-games-and-metamask.md#method-1-qr-login-using-metamask-on-mobile)
+[1️⃣](connect-your-wallet-to-extocium.md#id-1-qr)[QR Login](connect-your-wallet-to-extocium.md#method-1-qr-login-using-metamask-on-mobile)
 
-[2️⃣App Load Login](connecting-games-and-metamask.md#method-2-app-load-login-using-metamask-on-the-same-device)
+[2️⃣App Load Login](connect-your-wallet-to-extocium.md#method-2-app-load-login-using-metamask-on-the-same-device)
 {% endhint %}
 
 ***
@@ -113,100 +113,116 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 🔗 **게임과 메타마스크 연결하기**
+#### 🔗 내 지갑과 EXTOCIUM 연결하기
 
-게임에서 메타마스크를 연결하는 방법이 궁금하신가요? 걱정 마세요! \
-아래 단계를 따라 쉽게 연결할 수 있습니다. 🦊✨
+_(MetaMask & Trust Wallet)_
+
+EXTOCIUM에서는\
+**MetaMask 또는 Trust Wallet 중 하나의 지갑을 선택하여 게임과 연결할 수 있습니다.**
+
+아래 단계를 따라 진행하시면\
+지갑을 게임에 안전하게 연결할 수 있습니다.
 
 ***
 
-#### ✅ **1. 메타마스크 연결 시작하기**
-
-1️⃣ **메인 HUD 중앙 상단**에 있는 **여우 버튼(🦊)** 을 터치하세요.
-
-<figure><img src="../../../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
-
-2️⃣ 팝업 창이 뜨면, 두 가지 방법 중 하나를 선택할 수 있습니다.
-
-<figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
-[1️⃣QR 로그인 하기](connecting-games-and-metamask.md#id-1-qr)
+### ⚠️ 지갑 선택 전, 꼭 확인하세요
 
-[2️⃣앱로드 로그인 하기](connecting-games-and-metamask.md#id-2)
+* 게임에 **처음 연결한 지갑은 임의로 변경할 수 없습니다.**
+* MetaMask 또는 Trust Wallet 중 **하나만 선택**할 수 있습니다.
+
+👉 사용하실 지갑을 **미리 확인한 후** 연결을 진행하시기 바랍니다.
 {% endhint %}
 
 ***
 
-#### 🔹 **방법 1: QR 로그인 (모바일 메타마스크 사용)**
+#### ✅ Step 1. 지갑 연결 시작하기
 
-💡 **PC 에뮬레이터에서 게임을 실행 중이라면, 모바일 메타마스크 앱을 이용하여 QR 로그인을 진행할 수 있습니다.**
+1️⃣ **메인 HUD 중앙 상단**에 있는 **여우 버튼(🦊)** 을 터치하세요.
 
-> <img src="../../../.gitbook/assets/image (158).png" alt="" data-size="original">
->
-> 📌 **기존에 연결된 지갑이 있다면?**
->
-> * 상단에서 **지갑 주소와 네트워크(Binance Smart Chain)** 를 확인하고 접속하면 됩니다!
->
->
->
-> <img src="../../../.gitbook/assets/image (150).png" alt="" data-size="original">
->
->
->
-> 📌 **처음 지갑을 연결하는 경우?**\
-> 1️⃣ **Binance Smart Chain 네트워크가 설정되었는지 확인**하세요.\
-> 2️⃣ 연결할 **지갑 주소를 선택**한 후, **메타마스크 앱 화면 우측 상단의 카메라 버튼**을 터치하세요.
->
-> ![](<../../../.gitbook/assets/image (151).png>)
->
-> 3️⃣ 카메라가 실행되면 **게임 화면의 QR 코드를 스캔**하세요.
->
-> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
->
-> &#x20;
->
-> 4️⃣ 잠시 후, 메타마스크 앱에 **"연결 승인 요청" 팝업**이 나타납니다.\
-> 5️⃣ **"연결" 버튼을 터치하여 연결을 완료하세요.**
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 팝업 창이 나타나면, **QR 로그인** 또는 **APP LOAD 로그인** 중 하나를 선택합니다.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ 선택 후,\
+**연결할 지갑을 선택하는 화면**이 나타납니다.\
+이 화면에서 **사용 중인 지갑(MetaMask 또는 Trust Wallet)** 을 선택합니다.
+
+<figure><img src="../../../.gitbook/assets/signal-2025-12-16-110734.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+[1️⃣QR 로그인 하기](connect-your-wallet-to-extocium.md#id-1-qr)
+
+[2️⃣앱로드 로그인 하기](connect-your-wallet-to-extocium.md#id-2)
+{% endhint %}
 
 ***
 
+### 🔹 연결 방식 설명&#x20;
 
+#### 📱 QR 로그인
 
-#### 🔹 **방법 2: 앱 로드 로그인 (기기 내 메타마스크 사용)**
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-📌 **게임을 실행한 기기에서 직접 연결하려면, "APP LOAD" 버튼을 사용하면 됩니다.**
+**지갑이 다른 디바이스에 있을 때 사용하는 방식입니다.**
 
-> ![](<../../../.gitbook/assets/image (152).png>)
->
-> 1️⃣ **"APP LOAD" 버튼을 터치**하면, 메타마스크 앱이 자동으로 실행됩니다.
->
-> 2️⃣ **주의사항:**
->
-> * 기기 내에 **메타마스크 앱이 설치되어 있어야 합니다.**
-> * **여러 개의 지갑 계정을 사용 중이라면**, 사전에 메타마스크 앱을 열어 **사용할 지갑을 선택**해 주세요.
->
-> <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">
->
-> &#x20;
->
-> 3️⃣ 메타마스크 앱에 **"연결 승인 요청" 팝업**이 표시되면, **"연결" 버튼을 터치하여 완료**하세요.
->
-> ![](<../../../.gitbook/assets/3-3-3 (1).jpg>)
+* 예)
+  * 게임: PC / 에뮬레이터
+  * 지갑: 스마트폰
+
+{% hint style="warning" %}
+**BNB Smart Chain 네트워크가 설정되었는지 꼭 확인**하세요!&#x20;
+{% endhint %}
+
+1️⃣ QR 로그인을 선택하면 **게임 화면에 QR 코드가 표시됩니다.**
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 선택한 지갑 앱을 실행하여 QR 코드를 스캔하면 연결이 진행됩니다.
+
+<div align="center"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
+
+_👉 MetaMask와 Trust Wallet 모두 동일하게 동작합니다._
+
+3️⃣ 지갑 앱에 **"연결 승인 요청" 팝업**이 나타나면 **"연결" 버튼을 터치하여 연결을 완료하세요.**
+
+<div align="center"><figure><img src="../../../.gitbook/assets/메타연결.png" alt="" width="188"><figcaption><p>MetaMask pop-up</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/트러스트연결.png" alt="" width="188"><figcaption><p>TrustWallet pop-up</p></figcaption></figure></div>
 
 
 
 ***
 
-#### ✅ **2. 연결 완료 및 확인하기**
+#### 📲 APP LOAD 로그인
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+1️⃣ APP LOAD를 선택하면 **선택한 지갑 앱이 자동으로 실행됩니다.**
+
+2️⃣ 지갑 앱에서 **연결 승인 요청을 확인하고 승인**하면 연결이 완료됩니다.
+
+{% hint style="info" %}
+👉 **연결 승인 화면은 QR 로그인과 동일하게 표시됩니다.**\
+(연결 방식만 다를 뿐, 승인 절차는 같습니다.)
+{% endhint %}
+
+👉 MetaMask와 Trust Wallet 모두 동일하게 동작합니다.
+
+***
+
+#### ✅ Step **2. 연결 완료 및 확인하기**
 
 🎉 **연결이 완료되면, 메인 HUD 중앙 상단의 여우 버튼(🦊)이 활성화됩니다!**
 
-{% hint style="info" %}
-❓ **지갑 연결 유지 관련 안내**
+<figure><img src="../../../.gitbook/assets/메타-연결완료.png" alt=""><figcaption></figcaption></figure>
 
-* **보안 문제로 인해, 메타마스크 지갑은 장시간 자동 연결이 유지되지 않습니다.**
-* **지갑 거래가 필요할 경우, 사전에 지갑을 다시 연결하는 것을 추천합니다.**
+{% hint style="info" %}
+### 🔐 지갑 연결 유지 관련 안내
+
+보안상의 이유로 지갑 연결은 **항상 자동으로 유지되지 않을 수 있습니다.**
+
+NFT 거래나 지갑 승인이 필요한 경우에는 **사전에 지갑을 다시 연결하는 것을 권장합니다.**
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
@@ -239,9 +255,9 @@ If connecting within the device, you can load the wallet through the APP LOAD bu
 <figure><img src="../../../.gitbook/assets/2-2 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[1️⃣QRログイン](connecting-games-and-metamask.md#id-1-qrroguinmobairunometamaskwo)
+[1️⃣QRログイン](connect-your-wallet-to-extocium.md#id-1-qrroguinmobairunometamaskwo)
 
-[2️⃣アプリロードログイン](connecting-games-and-metamask.md#id-2-appurdoroguinjidebaisudemetamaskwo)
+[2️⃣アプリロードログイン](connect-your-wallet-to-extocium.md#id-2-appurdoroguinjidebaisudemetamaskwo)
 {% endhint %}
 
 

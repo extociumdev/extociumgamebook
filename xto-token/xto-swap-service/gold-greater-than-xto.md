@@ -36,7 +36,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### ✅ Swap
 
-👉To exchange gold for XTO, first [connect your MetaMask wallet](../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#eng) in-game!
+👉To exchange gold for XTO, first [connect your MetaMask wallet](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#eng) in-game!
 
 👉Go to the town NPC '[Yeyilel](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)'.
 
@@ -98,7 +98,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### ✅ 스왑하기
 
-👉**골드를 XTO로 교환하려면, 우선 게임 내에서 '**[**메타마스크 지갑 연결**](../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#undefined-1)**'을 해주세요!**
+👉**골드를 XTO로 교환하려면, 우선 게임 내에서 '**[**메타마스크 지갑 연결**](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#undefined-1)**'을 해주세요!**
 
 👉마을 NPC인 '[예이렐](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)'을 찾아가세요.
 
@@ -160,7 +160,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### ✅ スワップ
 
-👉ゴールドをXTOに交換するには、まずゲーム内で[MetaMask](../../beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md#ri-ben-yu)ウォレットを接続してください！
+👉ゴールドをXTOに交換するには、まずゲーム内で[MetaMask](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#ri-ben-yu)ウォレットを接続してください！
 
 👉町のNPC「[イェレル](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)」を探してください。
 

@@ -16,7 +16,7 @@ Shall we learn how to craft items now?
 
 👉First, touch the dashboard button on the main HUD.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉Please touch the 'Craft' button in the left menu bar of the dashboard widget.
 
@@ -30,7 +30,7 @@ Shall we learn how to craft items now?
 
 👉For items that can be crafted, the screen will show how many items can be crafted, as depicted above.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉Touch the target panel to see more detailed information. It will display the required gold and material items for crafting, as well as the quantity to be crafted. Touch the 'Craft' button at the bottom to craft the item.
 
@@ -58,7 +58,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 
 👉우선 메인 HUD의 대시보트 버튼을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉대시보드 위젯의 좌측 메뉴바에서 '제작' 버튼을 터치해주세요.
 
@@ -72,7 +72,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 
 👉제작이 가능한 아이템의 경우, 위 화면처럼 몇 개의 아이템 제작이 가능한지 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉대상 패널을 터치하여 더 자세한 정보를 확인할 수 있습니다. 제작에 필요한 골드 및 재료아이템, 제작 수량 등이 표시됩니다. 하단에 '제작' 버튼을 터치하면 아이템을 제작할 수 있습니다.
 
@@ -100,7 +100,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 
 👉まず、メインHUDのダッシュボードボタンをタッチします。
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉ダッシュボードウィジェットの左側のメニューバーから「製作」ボタンをタッチしてください。
 
@@ -114,7 +114,7 @@ Recipe items are dropped throughout the continent of Asterica. They can be dropp
 
 👉製作可能なアイテムの場合、上の画面のように何個のアイテムを製作できるか表示されます。
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉対象パネルをタッチして、詳細情報を確認できます。製作に必要なゴールドや素材アイテム、製作数量などが表示されます。下部の「製作」ボタンをタッチするとアイテムを製作できます。
 

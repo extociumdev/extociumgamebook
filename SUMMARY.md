@@ -12,7 +12,7 @@
   * [🔢 Wallet Setup](beginners-guide/wallet-connection/wallet-setup/README.md)
     * [1️⃣ What is a Wallet?](beginners-guide/wallet-connection/wallet-setup/what-is-a-wallet.md)
     * [2️⃣ Add BNB Smart Chain to Your Wallet](beginners-guide/wallet-connection/wallet-setup/add-bnb-smart-chain-to-your-wallet.md)
-    * [3️⃣ Connecting games and MetaMask](beginners-guide/wallet-connection/wallet-setup/connecting-games-and-metamask.md)
+    * [3️⃣ Connect Your Wallet to EXTOCIUM](beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md)
   * [🔁 Swap XTO](beginners-guide/wallet-connection/swap-xto/README.md)
     * [🦊 Swap on MetaMask](beginners-guide/wallet-connection/swap-xto/swap-on-metamask.md)
     * [🥞 Swap on PancakeSwap](beginners-guide/wallet-connection/swap-xto/swap-on-pancakeswap.md)
