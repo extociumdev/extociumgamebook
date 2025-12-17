@@ -1,5 +1,5 @@
 ---
-description: How to swap on MetaMask?
+description: This page was last updated on December 17, 2025.
 ---
 
 # 🦊 Swap on MetaMask

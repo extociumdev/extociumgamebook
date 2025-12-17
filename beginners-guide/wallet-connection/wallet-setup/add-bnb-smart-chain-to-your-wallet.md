@@ -1,3 +1,7 @@
+---
+description: This page was last updated on December 16, 2025.
+---
+
 # 2️⃣ Add BNB Smart Chain to Your Wallet
 
 {% embed url="https://www.youtube.com/watch?v=AmYXrxZizmg" %}

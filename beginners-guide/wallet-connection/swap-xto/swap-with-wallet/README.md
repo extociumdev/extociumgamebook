@@ -1,3 +1,7 @@
+---
+description: This page was last updated on December 17, 2025.
+---
+
 # 💱 Swap with Wallet
 
 {% tabs %}

@@ -1,3 +1,7 @@
+---
+description: This page was last updated on December 16, 2025.
+---
+
 # 1️⃣ What is a Wallet?
 
 {% tabs %}

@@ -1,3 +1,7 @@
+---
+description: This page was last updated on December 16, 2025.
+---
+
 # 3️⃣ Connect Your Wallet to EXTOCIUM
 
 {% embed url="https://www.youtube.com/watch?v=10N3xyMDQNk" %}

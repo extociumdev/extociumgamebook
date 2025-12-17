@@ -1,3 +1,7 @@
+---
+description: This page was last updated on December 16, 2025.
+---
+
 # 🔢 Wallet Setup
 
 <figure><img src="../../../.gitbook/assets/Gemini_Generated_Image_vjhld9vjhld9vjhl.png" alt="" width="375"><figcaption></figcaption></figure>
