@@ -16,11 +16,11 @@ Follow the steps below to complete your swap quickly and securely. 🦊✨
 #### ✅ **1. Select the BSC Network on MetaMask**
 
 📌 **Open your MetaMask wallet and select the Binance Smart Chain (BSC) network.**\
-📌 If **XTO is already registered**, swapping will be more convenient! (📍[How to Register XTO Token](import-xto-tokens.md#eng))
+📌 If **XTO is already registered**, swapping will be more convenient! (📍[How to Register XTO Token](../import-xto-tokens.md#eng))
 
 Then, **tap the "Swap" button** on the screen.
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_124438665.png" alt="" width="375"><figcaption><p>Main Screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_124438665.png" alt="" width="375"><figcaption><p>Main Screen</p></figcaption></figure>
 
 ***
 
@@ -31,18 +31,18 @@ Then, **tap the "Swap" button** on the screen.
 📌 🔄 **Tap the blue arrow button to switch the positions of the two tokens.**\
 📌 **Set the token you want to receive at the bottom** and then **tap "Select a token."**
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_06.jpg" alt="" width="226"><figcaption><p>Swap Screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_06.jpg" alt="" width="226"><figcaption><p>Swap Screen</p></figcaption></figure>
 
 ***
 
 #### ✅ **3. Select XTO Token**
 
 📌 When the **"Convert to" pop-up** appears, enter **XTO** in the search bar.\
-📌 If **XTO does not appear**, you may need to register it as a [**custom token**](import-xto-tokens.md#id-2.-enter-custom-token-information).
+📌 If **XTO does not appear**, you may need to register it as a [**custom token**](../import-xto-tokens.md#id-2.-enter-custom-token-information).
 
 Once **XTO appears on the screen, tap to select it.**
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_04.jpg" alt="" width="228"><figcaption><p>Search XTO</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_04.jpg" alt="" width="228"><figcaption><p>Search XTO</p></figcaption></figure>
 
 ***
 
@@ -52,7 +52,7 @@ Once **XTO appears on the screen, tap to select it.**
 📌 **Since XTO is categorized as a custom token, double-check before proceeding.**\
 📌 Enter the amount of **BNB you wish to swap**, then scroll down and **tap the "Get Quotes" button.**
 
-<figure><img src="../../../.gitbook/assets/슬라이드1 (2).JPG" alt="" width="360"><figcaption><p>Swap screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/슬라이드1 (2).JPG" alt="" width="360"><figcaption><p>Swap screen</p></figcaption></figure>
 
 ***
 
@@ -62,7 +62,7 @@ Once **XTO appears on the screen, tap to select it.**
 📌 Review the fees and XTO price, then **swipe "Swipe to swap" to complete the transaction.**\
 📌 **If your BNB balance is insufficient, the swipe function will not work.**
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_01.jpg" alt="" width="229"><figcaption><p>Swipe to Swap</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_01.jpg" alt="" width="229"><figcaption><p>Swipe to Swap</p></figcaption></figure>
 
 ***
 
@@ -73,11 +73,11 @@ Once **XTO appears on the screen, tap to select it.**
 
 Now your XTO swap is complete! 🚀
 
-<figure><img src="../../../.gitbook/assets/image (303).png" alt=""><figcaption><p>Transaction Complete</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (303).png" alt=""><figcaption><p>Transaction Complete</p></figcaption></figure>
 
 You can check your transaction details in MetaMask or [BscScan](https://bscscan.com/).
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053.jpg" alt="" width="229"><figcaption><p>Transaction Result</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053.jpg" alt="" width="229"><figcaption><p>Transaction Result</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -91,11 +91,11 @@ You can check your transaction details in MetaMask or [BscScan](https://bscscan.
 #### ✅ **1. 메타마스크에서 BSC 네트워크 선택**
 
 📌 **MetaMask 지갑에 접속한 후, 반드시 BSC 네트워크를 선택하세요.**\
-📌 XTO 토큰이 이미 등록되어 있다면 더욱 편리하게 사용할 수 있습니다! (📍[XTO 토큰 등록 방법](import-xto-tokens.md#undefined-1))
+📌 XTO 토큰이 이미 등록되어 있다면 더욱 편리하게 사용할 수 있습니다! (📍[XTO 토큰 등록 방법](../import-xto-tokens.md#undefined-1))
 
 그다음, **Swap(스왑) 버튼을 터치하세요.**
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_124438665.png" alt="" width="375"><figcaption><p>Main Screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_124438665.png" alt="" width="375"><figcaption><p>Main Screen</p></figcaption></figure>
 
 ***
 
@@ -105,18 +105,18 @@ You can check your transaction details in MetaMask or [BscScan](https://bscscan.
 📌 🔄 **파란 화살표 버튼을 누르면 두 토큰의 위치를 변경할 수 있습니다.**\
 📌 **받고 싶은 토큰을 아래에 설정**한 후, **"Select a token"을 터치**하세요.
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_06.jpg" alt="" width="226"><figcaption><p>Swap Screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_06.jpg" alt="" width="226"><figcaption><p>Swap Screen</p></figcaption></figure>
 
 ***
 
 #### ✅ **3. XTO 토큰 선택하기**
 
 📌 **"Convert to" 팝업이 뜨면, XTO를 검색하여 선택하세요.**\
-📌 만약 **XTO가 검색되지 않는다면,** [**커스텀 토큰**](import-xto-tokens.md#id-2.-custom-token)**을 등록해야 합니다.**
+📌 만약 **XTO가 검색되지 않는다면,** [**커스텀 토큰**](../import-xto-tokens.md#id-2.-custom-token)**을 등록해야 합니다.**
 
 화면에 **XTO 토큰이 표시되면 터치하여 선택**합니다.
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_04.jpg" alt="" width="228"><figcaption><p>Search XTO</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_04.jpg" alt="" width="228"><figcaption><p>Search XTO</p></figcaption></figure>
 
 ***
 
@@ -126,7 +126,7 @@ You can check your transaction details in MetaMask or [BscScan](https://bscscan.
 📌 XTO는 **커스텀 토큰으로 분류**되므로, **반드시 확인 후 진행**해야 합니다!\
 📌 원하는 BNB 금액을 입력한 후, 화면 하단의 **"Get Quotes" 버튼을 터치**하세요.
 
-<figure><img src="../../../.gitbook/assets/슬라이드1 (2).JPG" alt="" width="360"><figcaption><p>Swap screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/슬라이드1 (2).JPG" alt="" width="360"><figcaption><p>Swap screen</p></figcaption></figure>
 
 ***
 
@@ -136,7 +136,7 @@ You can check your transaction details in MetaMask or [BscScan](https://bscscan.
 📌 수수료 및 XTO 가격을 확인한 후, **"Swipe to swap"을 밀어서 거래를 완료하세요.**\
 📌 **BNB 잔액이 부족하면 스와이프 기능이 작동하지 않습니다!**
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_01.jpg" alt="" width="229"><figcaption><p>Swipe to Swap</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_01.jpg" alt="" width="229"><figcaption><p>Swipe to Swap</p></figcaption></figure>
 
 ***
 
@@ -147,11 +147,11 @@ You can check your transaction details in MetaMask or [BscScan](https://bscscan.
 
 이제 MetaMask에서 XTO 스왑이 완료되었습니다! 🚀
 
-<figure><img src="../../../.gitbook/assets/image (303).png" alt=""><figcaption><p>Transaction Complete</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (303).png" alt=""><figcaption><p>Transaction Complete</p></figcaption></figure>
 
 거래 내역은 MetaMask 또는 [BscScan](https://bscscan.com/)을 통해 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053.jpg" alt="" width="229"><figcaption><p>Transaction Result</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053.jpg" alt="" width="229"><figcaption><p>Transaction Result</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -165,11 +165,11 @@ MetaMaskアプリを使用すると、**XTO ↔ BNB のスワップを簡単に*
 #### ✅ **1. MetaMaskでBSCネットワークを選択**
 
 📌 **MetaMaskウォレットを開き、Binance Smart Chain（BSC）ネットワークを選択します。**\
-📌 **XTOトークンがすでに登録されていると、より便利に使用できます！** (📍[XTOトークンの登録方法](import-xto-tokens.md#ri-ben-yu))
+📌 **XTOトークンがすでに登録されていると、より便利に使用できます！** (📍[XTOトークンの登録方法](../import-xto-tokens.md#ri-ben-yu))
 
 その後、**画面に表示される「Swap」ボタンをタップ** してください。
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_124438665.png" alt="" width="375"><figcaption><p>Main Screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_124438665.png" alt="" width="375"><figcaption><p>Main Screen</p></figcaption></figure>
 
 ***
 
@@ -180,18 +180,18 @@ MetaMaskアプリを使用すると、**XTO ↔ BNB のスワップを簡単に*
 📌 🔄 **青い矢印ボタンをタップすると、2つのトークンの位置を入れ替えることができます。**\
 📌 **受け取りたいトークンを下に設定し、「Select a token」をタップしてください。**
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_06.jpg" alt="" width="226"><figcaption><p>Swap Screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_06.jpg" alt="" width="226"><figcaption><p>Swap Screen</p></figcaption></figure>
 
 ***
 
 #### ✅ **3. XTOトークンを選択**
 
 📌 **「Convert to」ポップアップ** が表示されたら、**XTO** を検索してください。\
-📌 [**カスタムトークン**](import-xto-tokens.md#id-2-kasutamutkunnowo)**が登録されている場合、XTOがメニューに表示されます。**
+📌 [**カスタムトークン**](../import-xto-tokens.md#id-2-kasutamutkunnowo)**が登録されている場合、XTOがメニューに表示されます。**
 
 XTOが表示されたら **タップして選択** してください。
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_04.jpg" alt="" width="228"><figcaption><p>Search XTO</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_04.jpg" alt="" width="228"><figcaption><p>Search XTO</p></figcaption></figure>
 
 ***
 
@@ -201,7 +201,7 @@ XTOが表示されたら **タップして選択** してください。
 📌 **XTOはカスタムトークンとして分類されるため、必ず確認してから進めてください。**\
 📌 **支払うBNBの金額を入力** し、画面下部の **「Get Quotes」ボタンをタップ** してください。
 
-<figure><img src="../../../.gitbook/assets/슬라이드1 (2).JPG" alt="" width="360"><figcaption><p>Swap screen</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/슬라이드1 (2).JPG" alt="" width="360"><figcaption><p>Swap screen</p></figcaption></figure>
 
 ***
 
@@ -211,7 +211,7 @@ XTOが表示されたら **タップして選択** してください。
 📌 **手数料とXTO価格を確認し、「Swipe to swap」をスワイプして取引を完了してください。**\
 📌 **BNB残高が不足している場合、スワイプ機能は動作しません。**
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053_01.jpg" alt="" width="229"><figcaption><p>Swipe to Swap</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053_01.jpg" alt="" width="229"><figcaption><p>Swipe to Swap</p></figcaption></figure>
 
 ***
 
@@ -222,11 +222,11 @@ XTOが表示されたら **タップして選択** してください。
 
 **これでXTOのスワップが完了しました！** 🚀&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (303).png" alt=""><figcaption><p>Transaction Complete</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (303).png" alt=""><figcaption><p>Transaction Complete</p></figcaption></figure>
 
 取引履歴は **MetaMaskまたは**[**BscScan**](https://bscscan.com/) で確認できます。
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20231016_111408053.jpg" alt="" width="229"><figcaption><p>Transaction Result</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20231016_111408053.jpg" alt="" width="229"><figcaption><p>Transaction Result</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
