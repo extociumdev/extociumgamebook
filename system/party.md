@@ -19,11 +19,11 @@ description: 🛑 This information may be updated later than the game server dat
 
 There are two ways to form a party.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉First method: Touch the party button at the bottom left of the main HUD.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉A party widget will appear. A list of recommended members is displayed on the left. Touch the green button in this slot to send a party request to someone.
 
@@ -33,7 +33,7 @@ There are two ways to form a party.
 ❓Don't want to receive party requests? Then **turn off** the 'Party Request' toggle button at the bottom of the party widget.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉The second method involves approaching a potential party member directly in the world and touching the party button above their head.
 
@@ -53,17 +53,17 @@ There are two ways to form a party.
 
 👉When the minimap opens, the locations of my party members will be displayed with blue circles.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2️⃣Leaving a Party
 
 If you want to leave the party, follow these steps:
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉While the party is formed, touch the party button at the bottom left of the main HUD.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉Party member information will be displayed in the party widget. Touch the 'Leave Party' button at the bottom left.
 
@@ -73,7 +73,7 @@ A confirmation popup to leave the party will appear, press the 'Confirm' button 
 
 If you want to manage party members, follow these steps. Managing party members is a unique privilege of the party leader.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉While the party is formed, touch the party button at the bottom left of the main HUD.
 
@@ -85,7 +85,7 @@ If you want to manage party members, follow these steps. Managing party members 
 
 Party buff skill information is displayed on the right side of the party widget.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉**There are two party buff skills. As long as the party is maintained, they apply solely to 'me'.**
 
@@ -143,11 +143,11 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 
 파티를 맺는 방법은 두 가지 입니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉첫 번째 방법 입니다. 메인 HUD 좌측 하단에 파티 버튼을 터치합니다.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉파티 위젯이 등장합니다. 좌측에 추천인 목록이 제시됩니다. 이 슬롯에서 녹색 버튼을 터치하면 상대방에게 파티가 요청됩니다.
 
@@ -157,7 +157,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 ❓상대방에게 파티 요청을 받고 싶지 않으신가요? 그렇다면 파티 위젯 하단에 '파티 요청' 토글버튼을 터치하여OFF로 만들어주세요.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉두 번째는 월드에서 직접 파티 요청 대상자에게 다가가는 방법입니다. 대상의 머리 위에 뜬 파티 버튼을 터치해주세요.
 
@@ -181,7 +181,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 
 파티를 탈퇴하고 싶다면, 다음 스텝을 따라해보세요.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉파티가 결성된 상태에서 메인 HUD 좌측 하단에 파티 버튼을 터치합니다.
 
@@ -195,7 +195,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 
 파티원을 관리 하고 싶다면 다음 스텝을 따라해보세요. 파티원 관리는 파티 리더의 고유 권한입니다.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉파티가 결성된 상태에서 메인 HUD 좌측 하단에 파티 버튼을 터치합니다.
 
@@ -271,11 +271,11 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 
 パーティーを結成する方法は2つあります。
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉最初の方法です。メインHUDの左下にあるパーティーボタンをタッチします。
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉パーティーウィジェットが表示されます。左側に推薦されたメンバーリストが表示されます。このスロットの緑色ボタンをタッチすると、相手にパーティー申請が行われます。
 
@@ -285,7 +285,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 ❓パーティー申請を受けたくないですか？ その場合は、パーティーウィジェットの下部にある「パーティー申請」トグルボタンを**OFF**にしてください。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉二つ目の方法は、ワールドで直接パーティー申請対象者に近づき、その頭上にあるパーティーボタンをタッチします。
 
@@ -309,7 +309,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 
 パーティーを脱退したい場合は、次のステップに従ってください。
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉パーティーが結成されている状態で、メインHUDの左下にあるパーティーボタンをタッチします。
 
@@ -323,7 +323,7 @@ There is a buff that amplifies my damage and a buff that reduces the damage I ta
 
 パーティーメンバーを管理したい場合は、次のステップに従ってください。パーティーメンバー管理はパーティーリーダーの独自権限です。
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉パーティーが結成されている状態で、メインHUDの左下にあるパーティーボタンをタッチします。
 

@@ -1,7 +1,3 @@
----
-description: This page was last updated on December 17, 2025.
----
-
 # 🔁 Swap XTO
 
 <figure><img src="../../../.gitbook/assets/Gemini_Generated_Image_nnnu2nnnnu2nnnnu.png" alt="" width="188"><figcaption></figcaption></figure>
@@ -174,3 +170,5 @@ please refer to the guide below.
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+
+<sup>This page was last updated on December 17, 2025.</sup>

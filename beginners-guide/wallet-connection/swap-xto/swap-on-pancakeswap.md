@@ -59,7 +59,7 @@ Follow the steps below to **swap XTO securely and efficiently**. 🚀✨
 📌 You can also **copy the XTO contract address directly from the game screen** for convenience!\
 📌 Paste the copied address into **PancakeSwap’s "Add Token" field** to quickly register XTO.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
 
 ***
 
@@ -139,7 +139,7 @@ XTO는 **PancakeSwap에서도 자유롭게 거래 가능**합니다!\
 📌 더욱 간편하게 **게임 내 XTO 컨트랙트 주소를 직접 복사**할 수도 있습니다!\
 📌 복사한 주소를 **PancakeSwap의 "토큰 추가" 창에 붙여넣으면 XTO를 쉽게 불러올 수 있습니다.**
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
 
 ***
 
@@ -219,7 +219,7 @@ PancakeSwapでも **XTOを自由に取引** できます！\
 📌 **ゲーム画面からXTOのコントラクトアドレスを直接コピー** することも可能です！\
 📌 コピーしたアドレスを **PancakeSwapの「トークン追加」フィールドに貼り付け** て、XTOを登録してください。
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
 
 ***
 

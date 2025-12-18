@@ -10,7 +10,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 #### Daily 24-hour Challenge Content Guide
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Wizard Challenge** generates a set of **Challenge Cards** that can be completed within a 24-hour period.\
 These cards include simple tasks such as PK, dying from PK, joining raids, playing various game modes, or consuming energy.
@@ -43,7 +43,7 @@ Most tasks are designed to be naturally completed during regular gameplay.
 
 ### 🚪 How to Access
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 📌 **Step 1 — Tap the scroll-shaped icon at the top of the HUD**\
 📌 **Step 2 — When the Achievements menu appears, select the “Challenge” tab at the top**\
@@ -69,7 +69,7 @@ Make the most of Wizard Challenge to earn daily rewards and enjoy steady progres
 
 #### 매일 새롭게 열리는 24시간 도전 콘텐츠 가이드
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*위자드 챌린지(Wizard Challenge)\*\*는 하루(24시간) 동안 도전 가능한 다양한 \*\*도전 카드(Challenge Cards)\*\*가 생성되는 일일 콘텐츠입니다.\
 PK, 레이드 참여, 다양한 게임 모드 플레이, 에너지 소비 등 **간단하지만 플레이 활동과 자연스럽게 연결된 과제들**로 구성되어 있습니다.
@@ -106,7 +106,7 @@ PK, 레이드 참여, 다양한 게임 모드 플레이, 에너지 소비 등 **
 
 아래 단계에 따라 위자드 챌린지 메뉴에 접근할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 📌 **1단계 — HUD 상단의 ‘스크롤 모양 아이콘’을 터치**\
 📌 **2단계 — 업적(Achievements) 메뉴가 열리면, 상단의 ‘챌린지(Challenge)’ 탭을 선택**\
@@ -132,7 +132,7 @@ PK, 레이드 참여, 다양한 게임 모드 플레이, 에너지 소비 등 **
 
 #### 24時間更新のデイリーチャレンジガイド
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **ウィザードチャレンジ**では、24時間以内に挑戦できる**チャレンジカード**が生成されます。\
 PK、PKでの死亡、レイド参加、各種ゲームモードへの参加、エネルギー消費など、プレイと自然につながる簡単なタスクで構成されています。
@@ -165,7 +165,7 @@ PK、PKでの死亡、レイド参加、各種ゲームモードへの参加、�
 
 ### 🚪 アクセス方法
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 📌 **手順1 — HUD上部の「巻物アイコン」をタップ**\
 📌 **手順2 — Achievements（実績）メニューが開いたら、上部の「Challenge」タブを選択**\

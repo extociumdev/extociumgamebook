@@ -1,7 +1,3 @@
----
-description: This page was last updated on December 17, 2025.
----
-
 # 💱 Swap with Wallet
 
 {% tabs %}
@@ -117,3 +113,5 @@ Please select the wallet you are currently using below.
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+
+<sup>This page was last updated on December 17, 2025.</sup>

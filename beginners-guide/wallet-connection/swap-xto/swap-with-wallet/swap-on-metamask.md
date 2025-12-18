@@ -1,22 +1,23 @@
----
-description: This page was last updated on December 17, 2025.
----
-
 # 🦊 Swap on MetaMask
 
 {% tabs %}
 {% tab title="ENG" %}
 ### 🔄 Swap XTO on MetaMask
 
-This guide explains how to swap **BNB to XTO** directly inside the **MetaMask wallet**.
+This guide explains\
+**how to swap BNB Smart Chain–based tokens**\
+**to XTO inside the MetaMask wallet.**
 
 {% hint style="danger" %}
-To proceed with a swap, you must have:
+#### Required Before Swapping
 
-* Enough **BNB balance**
-* Additional **network fee (gas fee)**
+To proceed with the swap,\
+**you need to have enough of the token you want to swap,**\
+and the token must be **based on the BNB Smart Chain network.**
 
-Always make sure to leave enough BNB for gas.
+Additionally,\
+**network fees (gas fees)** are used during the transaction,\
+so please make sure to **prepare enough balance including gas fees.**
 {% endhint %}
 
 ***
@@ -142,19 +143,25 @@ Return to the MetaMask main screen and confirm that:
 * The network must be set to **BNB Smart Chain**
 * If your BNB balance is too low, the swap will not proceed
 {% endhint %}
-
-
 {% endtab %}
 
 {% tab title="한국어" %}
 ### 🔄 Swap XTO on MetaMask
 
 이 가이드는\
-**MetaMask 지갑 안에서 BNB를 XTO로 스왑하는 방법**을 안내합니다.
+**MetaMask 지갑 안에서 BNB Smart Chain 기반 코인을**\
+**XTO로 스왑하는 방법**을 안내합니다.
 
 {% hint style="danger" %}
-스왑을 진행하려면 **BNB 잔액** + **네트워크 수수료(가스비)** 가 충분히 있어야 합니다. \
-항상 가스비까지 함께 고려해 주세요.
+#### 스왑 전 필수 확인 사항
+
+스왑을 진행하려면\
+**스왑에 사용할 코인이 충분히 있어야 하며,**\
+**해당 코인은 BNB Smart Chain 네트워크 기반이어야 합니다.**
+
+또한 거래 과정에서\
+**네트워크 수수료(가스비)** 가 함께 사용되므로,\
+가스비까지 고려하여 잔액을 준비해 주시기 바랍니다.
 {% endhint %}
 
 ***
@@ -282,15 +289,20 @@ MetaMask 메인 화면으로 돌아가면 **BNB가 차감**되고 **XTO가 추�
 ### 🔄 MetaMaskでXTOをスワップする
 
 このガイドでは、\
-**MetaMaskウォレット内でBNBをXTOにスワップする方法**をご案内します。
+**MetaMaskウォレット内で**\
+**BNB Smart Chainネットワークのトークンを**\
+**XTOにスワップする方法**を説明します。
 
 {% hint style="danger" %}
-スワップを行うには、以下が必要です。
+#### スワップ前の確認事項
 
-* **十分なBNB残高**
-* **ネットワーク手数料（ガス代）**
+スワップを進めるには、\
+**スワップに使用するトークンの残高が十分に必要であり、**\
+そのトークンは **BNB Smart Chainネットワーク基盤**である必要があります。
 
-必ずガス代分のBNBも含めてご確認ください。
+また、取引の際には\
+**ネットワーク手数料（ガス代）** が発生するため、\
+**ガス代を含めた十分な残高**をご準備ください。
 {% endhint %}
 
 ***
@@ -418,6 +430,8 @@ MetaMaskのメイン画面に戻り、\
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+<sup>This page was last updated on December 18, 2025.</sup>
 
 
 

@@ -21,7 +21,7 @@ Do you need crafting and gathering recipes to enjoy EXTOCIUM? Then, try 'Trainin
 
 👉First, touch the dashboard button on the top left of the main HUD.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉Touch the 'Training' button on the left menu bar of the dashboard screen.
 
@@ -68,7 +68,7 @@ EXTOCIUM을 즐기기 위해 필요한 제작 레시피, 채집 레시피가 필
 
 👉먼저, 메인 HUD의 좌측 상단에 대시보드 버튼을 터치하세요.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉대시보드 화면 좌측 메뉴바에서 '기술 연마' 버튼을 터치하세요.
 
@@ -116,7 +116,7 @@ EXTOCIUMを楽しむための製作レシピや採取レシピが必要ですか
 
 👉まず、メインHUDの左上にあるダッシュボードボタンをタッチしてください。
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉ダッシュボード画面の左メニューバーから「トレーニング」ボタンをタッチしてください。
 

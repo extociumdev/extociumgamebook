@@ -1,7 +1,3 @@
----
-description: This page was last updated on December 16, 2025.
----
-
 # 1️⃣ What is a Wallet?
 
 {% tabs %}
@@ -316,3 +312,5 @@ MetaMaskまたはTrust Walletに追加する方法をご案内します。
 {% content-ref url="add-bnb-smart-chain-to-your-wallet.md" %}
 [add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
+
+<sup>This page was last updated on December 17, 2025.</sup>
