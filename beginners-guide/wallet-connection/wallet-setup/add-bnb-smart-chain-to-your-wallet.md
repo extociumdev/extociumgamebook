@@ -70,7 +70,7 @@ the network must always be set to **BNB Smart Chain**.
 
 ✅ Once selected, the wallet network will automatically switch to **BNB Smart Chain**.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **🔎 How to Confirm the Network Setup**
@@ -87,7 +87,7 @@ If the following conditions are met, the setup is complete:
 
 If the network does not appear automatically, you can add it manually.
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
 
 1️⃣ Tap **“Add Network”**\
 2️⃣ Select **“Custom Network”** (top-right)\
@@ -112,7 +112,7 @@ However, it may not be visible immediately, so please check and enable it manual
 
 ### ✅ STEP 1. Check via “Manage Crypto”
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 1️⃣ Open the **Trust Wallet** app.\
 2️⃣ On the main screen, tap **\[Manage Crypto]**\
@@ -123,7 +123,7 @@ However, it may not be visible immediately, so please check and enable it manual
 
 ### ✅ STEP 2. Enable BNB Smart Chain (Important)
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 1️⃣ Find **BNB Smart Chain** in the list.\
 2️⃣ Check whether the toggle on the right is turned on.\
@@ -244,7 +244,7 @@ how to **connect your wallet to EXTOCIUM**.
 ✅ 선택이 완료되면\
 지갑의 네트워크가 자동으로 **BNB Smart Chain**으로 전환됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **🔎 네트워크 설정 확인 방법**
@@ -263,7 +263,7 @@ BNB Smart Chain 설정이 정상적으로 완료된 상태입니다.
 네트워크가 자동으로 표시되지 않는 경우,\
 아래 정보를 직접 입력하여 추가할 수 있습니다.
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
 
 1️⃣ **"네트워크 추가" 버튼을 터치**한 후,\
 2️⃣ 우측 상단의 **"커스텀 네트워크"** 메뉴를 선택하세요.\
@@ -292,7 +292,7 @@ BNB Smart Chain 설정이 정상적으로 완료된 상태입니다.
 
 ### ✅ STEP 1. '가상자산 관리'에서 확인하기
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 1️⃣ 트러스트 월렛 앱을 실행합니다.\
 2️⃣ 메인 화면에서 **\[Manage Crypto]** 버튼을 선택합니다.\
@@ -305,7 +305,7 @@ BNB Smart Chain 설정이 정상적으로 완료된 상태입니다.
 
 ### ✅ STEP 2. BNB Smart Chain 활성화하기 (중요)
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 1️⃣ 목록에서 **BNB Smart Chain** 을 찾습니다.\
 2️⃣ 오른쪽 스위치가 **켜져 있는지 확인**합니다.\
@@ -432,7 +432,7 @@ MetaMaskの初期設定は\
 ✅ 選択が完了すると、\
 ネットワークは自動的に **BNB Smart Chain** に切り替わります。
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **🔎 ネットワーク設定の確認方法**
@@ -450,7 +450,7 @@ MetaMaskの初期設定は\
 
 自動で表示されない場合は、以下の手順で追加できます。
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
 
 1️⃣ **「ネットワーク追加」** をタップ\
 2️⃣ 右上の **「カスタムネットワーク」** を選択\
@@ -475,7 +475,7 @@ Trust Walletには **BNB Smart Chainが標準搭載** されています。\
 
 ### ✅ STEP 1.「Manage Crypto」で確認する
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 1️⃣ **Trust Wallet** アプリを起動します。\
 2️⃣ メイン画面で **\[Manage Crypto]** を選択します。\
@@ -485,7 +485,7 @@ Trust Walletには **BNB Smart Chainが標準搭載** されています。\
 
 ### ✅ STEP 2. BNB Smart Chainを有効化する（重要）
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 1️⃣ 一覧から **BNB Smart Chain** を探します。\
 2️⃣ 右側のスイッチがオンになっているか確認します。\

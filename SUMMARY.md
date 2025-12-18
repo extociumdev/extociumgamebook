@@ -19,7 +19,7 @@
       * [🦊 Swap on MetaMask](beginners-guide/wallet-connection/swap-xto/swap-with-wallet/swap-on-metamask.md)
       * [🛡️ Swap on TrustWallet](beginners-guide/wallet-connection/swap-xto/swap-with-wallet/swap-on-trustwallet.md)
     * [🥞 Swap on PancakeSwap](beginners-guide/wallet-connection/swap-xto/swap-on-pancakeswap.md)
-    * [💰 BNB Top-Up Method Using G-Cash](beginners-guide/wallet-connection/swap-xto/bnb-top-up-method-using-g-cash.md)
+    * [🧭 Alternative: BNB Top-Up via GCash](beginners-guide/wallet-connection/swap-xto/alternative-bnb-top-up-via-gcash.md)
   * [⛔ Precautions](beginners-guide/wallet-connection/precautions.md)
   * [🔖 Common Issues](beginners-guide/wallet-connection/common-issues.md)
   * [🪙 Blockchain for Beginners](beginners-guide/wallet-connection/blockchain-for-beginners.md)

@@ -129,7 +129,7 @@ The system will automatically display **compatible runes**, and tapping the **\<
 
 ただし、**ダメージ増加・ダメージ軽減といったバフを持たない通常モンスターには、ルーン効果が適用されません**。 その場合、**対象の頭上に何も表示されないことがあります**。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

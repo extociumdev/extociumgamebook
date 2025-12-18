@@ -54,8 +54,8 @@ please refer to the guide below.
 
 👇 G-Cash User Guide
 
-{% content-ref url="bnb-top-up-method-using-g-cash.md" %}
-[bnb-top-up-method-using-g-cash.md](bnb-top-up-method-using-g-cash.md)
+{% content-ref url="alternative-bnb-top-up-via-gcash.md" %}
+[alternative-bnb-top-up-via-gcash.md](alternative-bnb-top-up-via-gcash.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -108,8 +108,8 @@ please refer to the guide below.
 
 👇 **G-Cash 사용자 가이드**
 
-{% content-ref url="bnb-top-up-method-using-g-cash.md" %}
-[bnb-top-up-method-using-g-cash.md](bnb-top-up-method-using-g-cash.md)
+{% content-ref url="alternative-bnb-top-up-via-gcash.md" %}
+[alternative-bnb-top-up-via-gcash.md](alternative-bnb-top-up-via-gcash.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -165,8 +165,8 @@ please refer to the guide below.
 
 👇 **G-Cashユーザーガイド**
 
-{% content-ref url="bnb-top-up-method-using-g-cash.md" %}
-[bnb-top-up-method-using-g-cash.md](bnb-top-up-method-using-g-cash.md)
+{% content-ref url="alternative-bnb-top-up-via-gcash.md" %}
+[alternative-bnb-top-up-via-gcash.md](alternative-bnb-top-up-via-gcash.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
