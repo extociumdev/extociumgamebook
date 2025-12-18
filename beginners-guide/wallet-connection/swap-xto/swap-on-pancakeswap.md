@@ -1,248 +1,441 @@
----
-description: How to swap on PancakeSwap?
----
-
 # 🥞 Swap on PancakeSwap
+
+<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption><p>PancakeSwap</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🥞 **Swap XTO on PancakeSwap**
+### 🥞 Swap XTO on PancakeSwap
 
-You can **trade XTO freely on PancakeSwap** as well!\
-Follow the steps below to **swap XTO securely and efficiently**. 🚀✨
+XTO can also be freely swapped with **BNB Smart Chain–based assets**\
+through **PancakeSwap**.
 
-<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption><p>PancakeSwap</p></figcaption></figure>
+By following the steps below,\
+even first-time users can complete the swap safely.
 
-***
+{% hint style="info" %}
+#### ⚠️ Required Checks Before Swapping
 
-#### ✅ **1. Access PancakeSwap & Connect Your Wallet**
+Before you begin, please make sure:
 
-📌 Go to the **official PancakeSwap homepage**.\
-📌 Click the **"Connect Wallet" button** in the top-right corner and connect with **MetaMask**.
-
-<figure><img src="../../../.gitbook/assets/화면 캡처 2023-10-16 133205.jpg" alt=""><figcaption><p>PancakeSwap Homepage</p></figcaption></figure>
-
-***
-
-#### ✅ **2. Navigate to the Swap Page**
-
-1️⃣ Click **"Trade" > "Swap"** in the **top-left menu**.\
-2️⃣ The swap interface will appear, with the default setting as **BNB → CAKE**.
-
-* **BNB**: The token you are selling
-* **CAKE**: The token you will receive
-
-📌 **Click on the token name to change it to a different token.**\
-📌 **To swap XTO, you must replace CAKE with XTO!**
-
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-10-16 133436.jpg" alt="" width="291"><figcaption><p>Manage Tokens 1</p></figcaption></figure>
+* The **XTO token is added to your wallet**\
+  (If not, please check 👉 **\[**[**Import XTO Tokens**](import-xto-tokens.md#import-xto-token)**]** first.)
+* You have **enough balance** of the token you want to swap
+* The token is on the **BNB Smart Chain network**
+* **Network fees (gas fees)** are required,\
+  so prepare enough balance including gas fees
+{% endhint %}
 
 ***
 
-#### ✅ **3. Add XTO Token**
+#### ✅ STEP 1. Access PancakeSwap & Connect Your Wallet
 
-📌 If XTO does not appear in the token list, add it manually by following these steps:
+1️⃣ Go to the **official PancakeSwap website**.
 
-1️⃣ Click on the **"CAKE" section** to open the token selection screen.\
-2️⃣ In the pop-up window, click **"Token Management"**.\
-3️⃣ Select **"Tokens"**, then enter the **XTO contract address** below.
+<figure><img src="../../../.gitbook/assets/pan12.png" alt=""><figcaption><p><a href="https://pancakeswap.finance/home">https://pancakeswap.finance/home</a></p></figcaption></figure>
 
-📌 **XTO Contract Address:**\
-`0xAA390Bd1657514730D98BAaBcE4b393a53ACD579`
+2️⃣ Click the **`Connect Wallet`** button at the top-right of the screen.
 
-<figure><img src="../../../.gitbook/assets/슬라이드1.JPG" alt=""><figcaption><p>Manage Tokens 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-***
+3️⃣ Select the wallet you are using.
 
-#### ✅ **4. Copy XTO Contract Address from the Game**
 
-📌 You can also **copy the XTO contract address directly from the game screen** for convenience!\
-📌 Paste the copied address into **PancakeSwap’s "Add Token" field** to quickly register XTO.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
+**🔐 Wallet Selection Guide**
 
-***
+* **MetaMask**\
+  **-** If the browser extension is installed, selecting MetaMask will connect immediately.
 
-#### ✅ **5. Swap XTO**
+<figure><img src="../../../.gitbook/assets/pan1.png" alt=""><figcaption></figcaption></figure>
 
-1️⃣ **Select XTO**, then enter the amount of BNB or XTO you wish to swap.\
-2️⃣ Review the details and **click "Swap" to proceed with the transaction.**\
-3️⃣ A **MetaMask confirmation pop-up** will appear—click **"Confirm"** to approve the swap.
+* **Trust Wallet**\
+  **-** A QR code will be displayed.\
+  \- Open the Trust Wallet app and connect by scanning the QR code.
 
-📌 **Important!**\
-✅ **Check the slippage settings before swapping.**\
-✅ Transaction speed may vary depending on network congestion.
+<figure><img src="../../../.gitbook/assets/pan2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt="" width="282"><figcaption></figcaption></figure>
+👉 When the connection confirmation popup appears, click **`Connect`** to complete the connection.
+
+<figure><img src="../../../.gitbook/assets/pan3.png" alt="" width="286"><figcaption></figcaption></figure>
 
 ***
 
-#### 🎉 **Transaction Completion & Verification**
+#### ✅ STEP 2. Check the Swap Screen
 
-✅ After the swap is successful, check your **MetaMask wallet balance**.\
-✅ You can also view the transaction details in the **PancakeSwap "Transaction History"**.
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Now, you can **trade XTO freely on PancakeSwap**! 🚀✨
+Once your wallet is connected,\
+you will be automatically taken to the **Swap** screen.
+
+* **From (Top)**\
+  → Token you will send\
+  → Select a **BNB Smart Chain–based token**\
+  (e.g. BNB, FLOKI)
+* **To (Bottom)**\
+  → Token you will receive\
+  → Default is set to **CAKE**
+
+<figure><img src="../../../.gitbook/assets/pan4.png" alt="" width="435"><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 3. Select XTO
+
+1️⃣ Tap **CAKE** in the To section.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="425"><figcaption></figcaption></figure>
+
+2️⃣ Enter **XTO** in the search bar at the top of the token selection screen.
+
+3️⃣ Select **XTO** from the search results.
+
+<figure><img src="../../../.gitbook/assets/pan5.png" alt="" width="388"><figcaption></figcaption></figure>
+
+👉 The swap pair is now set to **From token → XTO**.
+
+***
+
+#### ✅ STEP 4. Review Swap Conditions & Proceed
+
+1️⃣ Enter the amount to swap, then tap **`Swap`**.
+
+<figure><img src="../../../.gitbook/assets/pan6.png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ Review the following details:
+
+* Price
+* Price Impact
+* Slippage Tolerance
+* Minimum Received
+* Trading Fee
+
+3️⃣ If everything looks correct, tap **`Confirm Swap`** to proceed.
+
+<figure><img src="../../../.gitbook/assets/pan7.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 5. Wallet Approval & Transaction Completion
+
+1️⃣ A transaction approval popup will appear.
+
+<figure><img src="../../../.gitbook/assets/pan8 (1).png" alt="" width="280"><figcaption></figcaption></figure>
+
+\
+2️⃣ Tap **`Confirm`** to execute the transaction.
+
+Once completed:
+
+* The **Transaction Receipt** screen will appear
+* Tap **View on BscScan** to check detailed transaction information
+
+<figure><img src="../../../.gitbook/assets/pan9.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 6. Check Swap Results
+
+* On PancakeSwap, go to\
+  **Wallet Address (top-right) → Transactions**\
+  to view your recent swap history.
+
+<figure><img src="../../../.gitbook/assets/pan11.png" alt="" width="389"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/pan10.png" alt="" width="287"><figcaption></figcaption></figure>
+
+* Return to your wallet’s main screen to confirm that\
+  the **XTO token has been added successfully**.
 {% endtab %}
 
 {% tab title="한국어" %}
-### 🥞 **PancakeSwap에서 XTO 스왑(Swap)하기**
+### 🥞 PancakeSwap에서 XTO 스왑하기
 
-XTO는 **PancakeSwap에서도 자유롭게 거래 가능**합니다!\
-아래 안내를 따라 **XTO를 안전하게 스왑(Swap)하고 거래**하세요. 🚀✨
+XTO는 **PancakeSwap**을 통해서도\
+BNB Smart Chain 기반 자산과 자유롭게 스왑할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption><p>PancakeSwap</p></figcaption></figure>
+아래 순서를 차근차근 따라 하면\
+처음이라도 안전하게 스왑을 완료할 수 있습니다.
 
-***
+{% hint style="info" %}
+#### ⚠️ 스왑 전 필수 확인 사항
 
-#### ✅ **1. PancakeSwap 접속 및 지갑 연결**
-
-📌 **PancakeSwap 공식 홈페이지**로 이동합니다.\
-📌 우측 상단의 **"Connect Wallet" 버튼을 눌러 MetaMask와 연결**하세요.
-
-<figure><img src="../../../.gitbook/assets/화면 캡처 2023-10-16 133205.jpg" alt=""><figcaption><p>PancakeSwap Homepage</p></figcaption></figure>
-
-***
-
-#### ✅ **2. 스왑(Swap) 페이지로 이동**
-
-1️⃣ **홈페이지 좌측 상단**의 **"Trade" > "Swap" 버튼**을 클릭하세요.\
-2️⃣ 스왑 화면이 나타나며, 기본적으로 **BNB → CAKE 스왑 설정**이 되어 있습니다.
-
-* **BNB**: 내가 판매할 코인
-* **CAKE**: 내가 받을 코인
-
-📌 **각 토큰 부분을 클릭하면 다른 코인으로 변경 가능**합니다.\
-📌 **XTO를 스왑하려면, CAKE 대신 XTO를 선택해야 합니다!**
-
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-10-16 133436.jpg" alt="" width="291"><figcaption><p>Manage Tokens 1</p></figcaption></figure>
+* XTO 토큰이 지갑에 등록되어 있어야 합니다.\
+  (등록되어 있지 않다면 👉 **\[**[**Import XTO Tokens**](import-xto-tokens.md#import-xto-token-1)**] 페이지를 먼저 확인해 주세요**)
+* 스왑에 사용할 코인이 충분히 있어야 하며,\
+  해당 코인은 **BNB Smart Chain 네트워크 기반**이어야 합니다.
+* 거래 과정에서 **네트워크 수수료(가스비)** 가 사용되므로,\
+  가스비까지 고려하여 잔액을 준비해 주시기 바랍니다.
+{% endhint %}
 
 ***
 
-#### ✅ **3. XTO 토큰 추가하기**
+#### ✅ STEP 1. PancakeSwap 접속 및 지갑 연결
 
-📌 기본 목록에 XTO가 보이지 않는다면, 아래 방법으로 추가하세요!
+1️⃣ **PancakeSwap 공식 홈페이지**에 접속합니다.&#x20;
 
-1️⃣ **"CAKE" 부분을 클릭**하여 변경 화면을 엽니다.\
-2️⃣ 팝업 창에서 **"토큰 관리(Token Management)"** 버튼을 클릭하세요.\
-3️⃣ **"토큰(Token)" 메뉴를 선택**한 후, 아래 XTO 컨트랙트 주소를 입력합니다.
+<figure><img src="../../../.gitbook/assets/pan12.png" alt=""><figcaption><p><a href="https://pancakeswap.finance/home">https://pancakeswap.finance/home</a></p></figcaption></figure>
 
-📌 **XTO 컨트랙트 주소:**\
-`0xAA390Bd1657514730D98BAaBcE4b393a53ACD579`
+2️⃣ 화면 우측 상단의 **`Connect Wallet`** 버튼을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/슬라이드1.JPG" alt=""><figcaption><p>Manage Tokens 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-***
+3️⃣ 사용하는 지갑을 선택합니다.
 
-#### ✅ **4. 게임 화면에서 XTO 컨트랙트 주소 복사하기**
 
-📌 더욱 간편하게 **게임 내 XTO 컨트랙트 주소를 직접 복사**할 수도 있습니다!\
-📌 복사한 주소를 **PancakeSwap의 "토큰 추가" 창에 붙여넣으면 XTO를 쉽게 불러올 수 있습니다.**
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
+**🔐 지갑 선택 안내**
 
-***
+* **MetaMask**\
+  **-** 브라우저 확장 프로그램이 설치되어 있다면 MetaMask를 선택하면 바로 연결됩니다.
 
-#### ✅ **5. XTO 스왑 진행하기**
+<figure><img src="../../../.gitbook/assets/pan1.png" alt=""><figcaption></figcaption></figure>
 
-1️⃣ **XTO 토큰을 선택한 후, 스왑할 BNB 또는 XTO의 수량을 입력하세요.**\
-2️⃣ 가격을 확인한 후, **"Swap" 버튼을 눌러 거래를 진행합니다.**\
-3️⃣ **MetaMask에서 거래 확인 팝업이 뜨면 "확인"을 눌러 승인하세요.**
+* **Trust Wallet**\
+  **-** QR 코드가 표시됩니다.\
+  \- Trust Wallet 앱을 실행한 후 QR 스캔으로 연결합니다.
 
-📌 **주의!**\
-✅ **스왑을 진행하기 전에 슬리피지(Slippage) 설정을 확인하세요.**\
-✅ 네트워크 상황에 따라 거래 속도가 다를 수 있습니다.
+<figure><img src="../../../.gitbook/assets/pan2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt="" width="282"><figcaption></figcaption></figure>
+👉 연결 확인 팝업이 나타나면 **`Connect`** 를 눌러 연결을 완료합니다.
+
+<figure><img src="../../../.gitbook/assets/pan3.png" alt="" width="286"><figcaption></figcaption></figure>
 
 ***
 
-#### 🎉 **거래 완료 및 확인**
+#### ✅ STEP 2. Swap 화면 확인
 
-✅ 거래가 완료되면, MetaMask에서 **잔액을 확인**할 수 있습니다.\
-✅ PancakeSwap의 **거래 내역(Transaction History)** 에서 스왑 결과를 확인하세요.
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-이제 PancakeSwap에서도 XTO를 자유롭게 거래할 수 있습니다! 🚀✨
+지갑 연결이 완료되면 자동으로 **Swap 화면**으로 이동합니다.
+
+* **From (상단)**\
+  → 내가 보낼 토큰\
+  → BNB Smart Chain 기반 토큰 선택\
+  (예: BNB, FLOKI 등)
+* **To (하단)**\
+  → 내가 받을 토큰\
+  → 기본값은 CAKE로 설정되어 있습니다.
+
+<figure><img src="../../../.gitbook/assets/pan4.png" alt="" width="435"><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 3. XTO 선택하기
+
+1️⃣ **To 영역의 CAKE** 를 터치합니다.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="425"><figcaption></figcaption></figure>
+
+2️⃣ 토큰 선택 화면 상단의 검색창에 **XTO** 를 입력합니다.
+
+3️⃣ 검색 결과에 표시되는 **XTO** 를 선택합니다.
+
+<figure><img src="../../../.gitbook/assets/pan5.png" alt="" width="388"><figcaption></figcaption></figure>
+
+👉 이제 스왑 대상이 **From 토큰 → XTO** 로 설정됩니다.
+
+***
+
+#### ✅ STEP 4. 스왑 조건 확인 및 진행
+
+1️⃣ 스왑할 수량을 입력 후 `Swap` 을 클릭합니다.&#x20;
+
+<figure><img src="../../../.gitbook/assets/pan6.png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 아래 항목을 확인합니다.
+
+* Price
+* Price Impact
+* Slippage Tolerance
+* Minimum Received
+* Trading Fee
+
+3️⃣ 문제가 없다면 **`Confirm Swap`** 을 눌러 진행합니다.
+
+<figure><img src="../../../.gitbook/assets/pan7.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 5. 지갑 승인 및 트랜잭션 완료
+
+1️⃣ 팝업창에서 **거래 승인(Confirm)** 창이 나타납니다.
+
+<figure><img src="../../../.gitbook/assets/pan8 (1).png" alt="" width="280"><figcaption></figcaption></figure>
+
+\
+2️⃣ `Confirm`를 누르면 트랜잭션이 즉시 진행됩니다.
+
+트랜잭션 완료 후,
+
+* **Transaction Receipt** 화면이 표시됩니다.
+* **View on BscScan** 을 눌러 상세 거래 내역을 확인할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/pan9.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 6. 스왑 결과 확인
+
+* PancakeSwap 화면 우측 상단 **내 지갑 주소 → Transactions** 에서\
+  최근 스왑 내역을 확인할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/pan11.png" alt="" width="389"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/pan10.png" alt="" width="287"><figcaption></figcaption></figure>
+
+* 지갑 메인 화면으로 돌아가면\
+  **XTO 토큰이 정상적으로 추가된 것**을 확인할 수 있습니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-### 🥞 **PancakeSwapでXTOをスワップする方法**
+### 🥞 PancakeSwapでXTOをスワップする
 
-PancakeSwapでも **XTOを自由に取引** できます！\
-以下の手順に従って、安全にXTOをスワップしましょう。 🚀✨
+XTOは **PancakeSwap** を通じて、\
+**BNB Smart Chain対応の資産** と自由にスワップできます。
 
-<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption><p>PancakeSwap</p></figcaption></figure>
+以下の手順を順番に進めれば、\
+初めての方でも安全にスワップを完了できます。
 
-***
+{% hint style="info" %}
+#### ⚠️ スワップ前の必須確認事項
 
-#### ✅ **1. PancakeSwapにアクセスし、ウォレットを接続**
+スワップを始める前に、以下をご確認ください。
 
-📌 **PancakeSwap公式サイト** にアクセスします。\
-📌 **右上の「Connect Wallet」ボタンをクリックし、MetaMaskを接続** してください。
-
-<figure><img src="../../../.gitbook/assets/화면 캡처 2023-10-16 133205.jpg" alt=""><figcaption><p>PancakeSwap Homepage</p></figcaption></figure>
-
-***
-
-#### ✅ **2. スワップページへ移動**
-
-1️⃣ **左上の「Trade」 > 「Swap」ボタン** をクリックします。\
-2️⃣ **スワップ画面** が表示され、デフォルトでは **BNB → CAKE** の設定になっています。
-
-* **BNB**: 売却するトークン
-* **CAKE**: 受け取るトークン
-
-📌 **トークン名をクリックすると、別のトークンに変更可能です。**\
-📌 **XTOをスワップする場合は、CAKEの代わりにXTOを選択してください！**
-
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-10-16 133436.jpg" alt="" width="291"><figcaption><p>Manage Tokens 1</p></figcaption></figure>
+* **XTOトークンがウォレットに登録されていること**\
+  （未登録の場合は 👉 **\[**[**Import XTO Tokens**](import-xto-tokens.md#xtotkunwosuru)**]** を先にご確認ください）
+* スワップに使用する **トークン残高が十分にあること**
+* 対象トークンが **BNB Smart Chainネットワーク** 上であること
+* 取引時に **ネットワーク手数料（ガス代）** が発生するため、\
+  ガス代も含めた残高を準備してください
+{% endhint %}
 
 ***
 
-#### ✅ **3. XTOトークンを追加**
+#### ✅ STEP 1. PancakeSwapに接続・ウォレット連携
 
-📌 **XTOがリストに表示されない場合は、手動で追加** してください。
+1️⃣ **PancakeSwap公式サイト**にアクセスします。
 
-1️⃣ **「CAKE」部分をクリック** してトークン選択画面を開きます。\
-2️⃣ **ポップアップウィンドウで「トークン管理 (Token Management)」をクリック** します。\
-3️⃣ **「トークン (Tokens)」を選択** し、以下の **XTOコントラクトアドレス** を入力してください。
+<figure><img src="../../../.gitbook/assets/pan12.png" alt=""><figcaption><p><a href="https://pancakeswap.finance/home">https://pancakeswap.finance/home</a></p></figcaption></figure>
 
-📌 **XTO コントラクトアドレス:**\
-`0xAA390Bd1657514730D98BAaBcE4b393a53ACD579`
+2️⃣ 画面右上の **Connect Wallet** を選択します。
 
-<figure><img src="../../../.gitbook/assets/슬라이드1.JPG" alt=""><figcaption><p>Manage Tokens 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-***
+3️⃣ 使用しているウォレットを選択します。
 
-#### ✅ **4. ゲーム画面からXTOコントラクトアドレスをコピー**
 
-📌 **ゲーム画面からXTOのコントラクトアドレスを直接コピー** することも可能です！\
-📌 コピーしたアドレスを **PancakeSwapの「トークン追加」フィールドに貼り付け** て、XTOを登録してください。
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Token Address</p></figcaption></figure>
+**🔐 ウォレット選択のご案内**
 
-***
+* **MetaMask**\
+  **-** ブラウザ拡張機能がインストールされている場合、\
+  MetaMaskを選択するとすぐに接続されます。
 
-#### ✅ **5. XTOのスワップを実行**
+<figure><img src="../../../.gitbook/assets/pan1.png" alt=""><figcaption></figcaption></figure>
 
-1️⃣ **XTOトークンを選択し、スワップするBNBまたはXTOの数量を入力** します。\
-2️⃣ **詳細を確認し、「Swap」ボタンをクリック** して取引を進めてください。\
-3️⃣ **MetaMaskの確認ポップアップ** が表示されたら、**「確認 (Confirm)」をクリック** してスワップを承認します。
+* **Trust Wallet**\
+  **-** QRコードが表示されます。\
+  \- Trust Walletアプリを起動し、QRコードをスキャンして接続します。
 
-📌 **重要！**\
-✅ **スリッページ設定 (Slippage) を事前に確認してください。**\
-✅ **ネットワークの混雑状況により、取引速度が変わる可能性があります。**
+<figure><img src="../../../.gitbook/assets/pan2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt="" width="282"><figcaption></figcaption></figure>
+👉 接続確認ポップアップが表示されたら、\
+&#xNAN;**`Connect`**&#x3092;タップして接続を完了してください。
+
+<figure><img src="../../../.gitbook/assets/pan3.png" alt="" width="286"><figcaption></figcaption></figure>
 
 ***
 
-#### 🎉 **取引完了 & 確認方法**
+#### ✅ STEP 2. Swap画面を確認する
 
-✅ **スワップが完了すると、MetaMaskウォレットで残高を確認** できます。\
-✅ **PancakeSwapの「取引履歴 (Transaction History)」で取引の詳細を確認** してください。
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-これで **PancakeSwapでXTOの取引が可能** になりました！ 🚀✨
+ウォレットの接続が完了すると、自動的に **Swap画面** に移動します。
+
+* **From（上段）**\
+  → 送信するトークン\
+  → **BNB Smart Chain対応トークン** を選択\
+  （例：BNB、FLOKI など）
+* **To（下段）**\
+  → 受け取るトークン\
+  → 初期設定は **CAKE** です。
+
+<figure><img src="../../../.gitbook/assets/pan4.png" alt="" width="435"><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 3. XTOを選択する
+
+1️⃣ To欄の **CAKE** をタップします。
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="425"><figcaption></figcaption></figure>
+
+2️⃣ トークン選択画面上部の検索欄に **XTO** を入力します。
+
+3️⃣ 検索結果に表示される **XTO** を選択します。
+
+<figure><img src="../../../.gitbook/assets/pan5.png" alt="" width="388"><figcaption></figcaption></figure>
+
+👉 スワップ対象が **Fromトークン → XTO** に設定されます。
+
+***
+
+#### ✅ STEP 4. スワップ条件を確認して進む
+
+1️⃣ スワップ数量を入力後、**Swap** をタップします。
+
+<figure><img src="../../../.gitbook/assets/pan6.png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 以下の項目を確認してください。
+
+* Price
+* Price Impact
+* Slippage Tolerance
+* Minimum Received
+* Trading Fee
+
+3️⃣ 問題がなければ **`Confirm Swap`** を選択します。
+
+<figure><img src="../../../.gitbook/assets/pan7.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 5. ウォレット承認・トランザクション完了
+
+1️⃣ ポップアップで **取引承認（Confirm）** 画面が表示されます。
+
+<figure><img src="../../../.gitbook/assets/pan8 (1).png" alt="" width="280"><figcaption></figcaption></figure>
+
+\
+2️⃣ `Confirm`をタップすると、トランザクションが実行されます。
+
+完了後：
+
+* **Transaction Receipt** 画面が表示されます
+* **View on BscScan** から詳細な取引情報を確認できます
+
+<figure><img src="../../../.gitbook/assets/pan9.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ✅ STEP 6. スワップ結果を確認
+
+* PancakeSwap右上の\
+  **ウォレットアドレス → Transactions** から\
+  最新のスワップ履歴を確認できます。
+
+<figure><img src="../../../.gitbook/assets/pan11.png" alt="" width="389"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/pan10.png" alt="" width="287"><figcaption></figcaption></figure>
+
+* ウォレットのメイン画面に戻り、\
+  **XTOトークンが正常に追加されていること**をご確認ください。
 {% endtab %}
 {% endtabs %}
 

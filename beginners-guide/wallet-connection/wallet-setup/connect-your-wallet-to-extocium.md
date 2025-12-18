@@ -33,14 +33,14 @@ Please read carefully before proceeding.
 
 1️⃣ Tap the **fox button (🦊)** at the top center of the main HUD.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ When the popup appears, choose one of the following:
 
 * **QR Login**
 * **APP LOAD Login**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ After selecting a login method,\
 you’ll be asked to choose the wallet to connect.\
@@ -75,11 +75,11 @@ Make sure **BNB Smart Chain** is set in your wallet.
 
 1️⃣ Select **QR Login** to display a QR code on the game screen.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Open your wallet app and scan the QR code to start the connection.
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
 
 _👉 Works the same for both MetaMask and Trust Wallet._
 
@@ -94,7 +94,7 @@ tap **“Connect”** to complete the process.
 
 #### 📲 APP LOAD Login
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1️⃣ Select **APP LOAD**, and the chosen wallet app will open automatically.
 
@@ -171,11 +171,11 @@ EXTOCIUM에서는\
 
 1️⃣ **메인 HUD 중앙 상단**에 있는 **여우 버튼(🦊)** 을 터치하세요.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 팝업 창이 나타나면, **QR 로그인** 또는 **APP LOAD 로그인** 중 하나를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 선택 후,\
 **연결할 지갑을 선택하는 화면**이 나타납니다.\
@@ -209,11 +209,11 @@ EXTOCIUM에서는\
 
 1️⃣ QR 로그인을 선택하면 **게임 화면에 QR 코드가 표시됩니다.**
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 선택한 지갑 앱을 실행하여 QR 코드를 스캔하면 연결이 진행됩니다.
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
 
 _👉 MetaMask와 Trust Wallet 모두 동일하게 동작합니다._
 
@@ -227,7 +227,7 @@ _👉 MetaMask와 Trust Wallet 모두 동일하게 동작합니다._
 
 #### 📲 APP LOAD 로그인
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1️⃣ APP LOAD를 선택하면 **선택한 지갑 앱이 자동으로 실행됩니다.**
 
@@ -297,14 +297,14 @@ EXTOCIUMでは、\
 
 1️⃣ メインHUD中央上部にある **キツネボタン（🦊）** をタップしてください。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ポップアップが表示されたら、以下のいずれかを選択します。
 
 * **QRログイン**
 * **APP LOADログイン**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 選択後、\
 接続するウォレットを選ぶ画面が表示されます。\
@@ -339,11 +339,11 @@ EXTOCIUMでは、\
 
 1️⃣ QRログインを選択すると、ゲーム画面にQRコードが表示されます。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ウォレットアプリを起動し、QRコードをスキャンすると接続が進みます。
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="232"><figcaption><p>MetaMask QR</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-16 113144.png" alt="" width="234"><figcaption><p>TrustWallet QR</p></figcaption></figure></div>
 
 _👉 MetaMask・Trust Walletともに同じ動作です。_
 
@@ -357,7 +357,7 @@ _👉 MetaMask・Trust Walletともに同じ動作です。_
 
 #### 📲 APP LOADログイン
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1️⃣ APP LOADを選択すると、選択したウォレットアプリが自動で起動します。
 

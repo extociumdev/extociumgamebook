@@ -55,7 +55,7 @@ This minimizes abusive PK losses.
 
 ### 🚪 How to Access
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 📌 Tap the **vault icon** on the top-right of the HUD\
 📌 Select **Vault of Time** from the menu\
@@ -124,7 +124,7 @@ Use the Vault of Time to enjoy fairer PK gameplay while keeping field tension hi
 
 ### 🚪 접근 방법
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 📌 **HUD 우측 상단의 ‘금고 아이콘’을 터치**\
 📌 **메뉴에서 ‘시간의 금고’ 선택**\
@@ -194,7 +194,7 @@ PKによる損失を抑えながら、フィールド全域でPKが適切に維�
 
 ### 🚪 アクセス方法
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 📌 HUD右上の **金庫アイコン** をタップ\
 📌 メニューから **時の金庫** を選択\

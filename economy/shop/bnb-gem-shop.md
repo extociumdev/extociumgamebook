@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🦊 BNB / Gem Shop
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
