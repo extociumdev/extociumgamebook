@@ -140,7 +140,7 @@ Tap the activated **fox button (🦊)** to view:
 
 ***
 
-🛑[Having trouble connecting your wallet? Please refer to this tab!](../common-issues.md)
+🛑[Having trouble connecting your wallet? Please refer to this tab!](../common-wallet-issues.md)
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -264,7 +264,7 @@ NFT 거래나 지갑 승인이 필요한 경우에는 **사전에 지갑을 다�
 
 ***
 
-🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../common-issues.md)
+🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../common-wallet-issues.md)
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -395,7 +395,7 @@ NFT取引やウォレット承認が必要な場合は、事前に再接続す�
 
 ***
 
-🛑[ウォレットの接続に問題がありますか？このタブを参照してください！](../common-issues.md)
+🛑[ウォレットの接続に問題がありますか？このタブを参照してください！](../common-wallet-issues.md)
 {% endtab %}
 {% endtabs %}
 

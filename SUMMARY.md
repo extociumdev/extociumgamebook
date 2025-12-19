@@ -21,7 +21,7 @@
     * [🥞 Swap on PancakeSwap](beginners-guide/wallet-connection/swap-xto/swap-on-pancakeswap.md)
     * [🧭 Alternative: BNB Top-Up via GCash](beginners-guide/wallet-connection/swap-xto/alternative-bnb-top-up-via-gcash.md)
   * [⛔ Precautions](beginners-guide/wallet-connection/precautions.md)
-  * [🔖 Common Issues](beginners-guide/wallet-connection/common-issues.md)
+  * [🔖 Common Wallet Issues](beginners-guide/wallet-connection/common-wallet-issues.md)
   * [🪙 Blockchain for Beginners](beginners-guide/wallet-connection/blockchain-for-beginners.md)
 * [🧬 NFT Minting Guide](beginners-guide/nft-minting-guide/README.md)
   * [📂 Hero NFT](beginners-guide/nft-minting-guide/hero-nft.md)

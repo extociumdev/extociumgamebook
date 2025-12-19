@@ -14,8 +14,8 @@
 [precautions.md](precautions.md)
 {% endcontent-ref %}
 
-{% content-ref url="common-issues.md" %}
-[common-issues.md](common-issues.md)
+{% content-ref url="common-wallet-issues.md" %}
+[common-wallet-issues.md](common-wallet-issues.md)
 {% endcontent-ref %}
 
 {% content-ref url="blockchain-for-beginners.md" %}
