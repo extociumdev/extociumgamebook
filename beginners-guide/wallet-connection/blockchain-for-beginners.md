@@ -1,177 +1,505 @@
 # 🪙 Blockchain for Beginners
 
-
-
 {% tabs %}
 {% tab title="ENG" %}
-❓[Binance Smart Chain?](blockchain-for-beginners.md#binance-smart-chain)\
-❓[Layer 2](blockchain-for-beginners.md#layer-2)\
-❓[Why Choose BSC](blockchain-for-beginners.md#why-choose-bsc)\
-❓[How Are NFTs Created?](blockchain-for-beginners.md#how-are-nfts-created)\
-❓[BEP20 Standard](blockchain-for-beginners.md#bep20-standard)\
-❓[Verifying the Creator](blockchain-for-beginners.md#verifying-the-creator)\
-❓[How Do the Game Database and NFTs Interact?](blockchain-for-beginners.md#how-do-the-game-database-and-nfts-interact)\
-❓[Using a Block Explorer](blockchain-for-beginners.md#using-a-block-explorer)<br>
+### ✅ 30-Second Summary&#x20;
 
-## Check the Essential Blockchain Knowledge for Gameplay!
+* **Blockchain**\
+  → A shared ledger where multiple computers store the same transaction records together
+* **Wallet**\
+  → Looks like an app that holds coins, but actually manages the **keys** that let you move your assets
+* **Address**\
+  → Your wallet’s receiving address\
+  → Think of it like a **mailbox address**
+* **Transaction**\
+  → A recorded action such as sending, swapping, or purchasing
+* **Gas Fee (Network Fee)**\
+  → A processing fee paid to the network to handle transactions
 
-Blockchain is a new form of data storage based on “distributed ledger technology.” \
-To own or trade digital assets like NFTs in your game, understanding basic blockchain concepts will help you grasp everything more smoothly.
+***
 
-#### ‼️Binance Smart Chain?
+### 1️⃣ What Is a Blockchain?
 
-> Binance Smart Chain (BSC) is a blockchain network that handles transactions quickly with relatively low fees. \
-> It offers compatibility with various decentralized applications (DApps), making it easy and efficient to trade in-game items or NFTs.
+A blockchain stores transaction records in groups called **blocks**,\
+and keeps copies of those records in multiple places at the same time.
 
-#### ‼️Layer 2
+Because of this,\
+once something is recorded, it’s very difficult to secretly change later.
 
-> Layer 2 solutions reduce congestion on the main blockchain (Layer 1) and increase transaction speeds. \
-> By processing a large number of transactions on a separate protocol and only recording the final results on the main chain, they save both time and costs.
+👉 That’s why you can reliably verify\
+**who owns what**.
 
-#### ‼️Why Choose BSC
+***
 
-> We decided on Binance Smart Chain (BSC) because we believe **BNB is one of the most stable tokens** available. If the managing company were to go bankrupt, updates could be halted indefinitely. Therefore, we concluded that **starting on a trustworthy platform** right from the beginning was the wisest choice. BSC offers both stability and scalability, providing a reliable foundation for long-term operation.
+### 2️⃣ The Network Used by EXTOCIUM
 
-#### ‼️How Are NFTs Created?
+#### BNB Smart Chain (BSC, BNB Chain)
 
-> NFTs (Non-Fungible Tokens) are digital assets that possess uniqueness and scarcity. \
-> They are typically issued through smart contracts, each with a distinct ID. \
-> This uniqueness allows for true “ownership” of digital items like game assets or artwork.
+EXTOCIUM runs on the **BNB Smart Chain** blockchain network.
 
-#### ‼️BEP20 Standard
+* In wallets or apps,\
+  it may still be displayed as **BSC**.
+* Its former name was **Binance Smart Chain**.
 
-> BEP20 is the token standard used on BSC. \
-> Tokens following this standard are mutually compatible, making it easy to transfer, store, or trade them across various wallets and exchanges.
+📌 What matters most is this:
 
-#### ‼️Verifying the Creator
+> EXTOCIUM follows the **rules of BNB Smart Chain**, regardless of the name.
 
-> When trading NFTs, always verify the creator or issuer. \
-> You can look up the creator’s address on [**BSCscan**](https://bscscan.com/) or use the [**SEARCH NFT page on EXTOCIUM’s website**](https://extociumnft.com/) for verification.\
-> Confirming that the NFT is issued by a trusted creator and matches official release information is the first step toward a safe transaction.
+***
 
-#### ‼️How Do the Game Database and NFTs Interact?
+### 3️⃣ Why Do We Need Gas Fees?
 
-> When an NFT is created, its unique token ID and attribute data are recorded on both the blockchain and the game database. In-game actions like using or transferring an NFT are handled through a smart contract and APIs, which notify the game DB of any changes in ownership or attributes. In this setup, the blockchain provides “proof of ownership and transactions,” while the game DB manages fast data processing. \
-> These two systems stay synchronized so that whenever a player uses an NFT in-game or moves it to an external wallet, everything remains up-to-date.
+On a blockchain, actions like:
 
-#### ‼️Using a Block Explorer
+* Sending tokens
+* Swapping assets
+* Buying NFTs
 
-> A block explorer is a website that allows you to search blockchain data such as transactions, blocks, and wallet addresses. \
-> For BSC, you can use tools like [BscScan](https://bscscan.com/) to view smart contract details, token issuance history, and changes in ownership.
+all require the network to process them.
+
+The cost of that processing is called a **gas fee**.\
+(Think of it like a delivery or handling fee.)
+
+On **BNB Smart Chain**, gas fees are paid in **BNB**.
+
+***
+
+### 4️⃣ What’s the Difference Between Tokens and NFTs?
+
+#### 🪙 Token
+
+Tokens are **fungible**, like cash.\
+One unit is interchangeable with another.
+
+Example:\
+1 XTO is the same as any other 1 XTO.
+
+※ The exchange value of XTO (to KRW, USD, etc.) can change,\
+just like an exchange rate.
+
+***
+
+#### 🖼️ NFT (Non-Fungible Token)
+
+* Each one is **unique** (like a limited-edition card)
+* Has a **unique ID (Token ID)**
+* Examples: NFT Heroes, NFT Weapons
+
+That’s why NFTs are used as\
+**proof of ownership** — “this one is truly mine.”
+
+***
+
+### 5️⃣ How Are NFTs Created?
+
+1️⃣ A predefined rule set (**smart contract**) already exists\
+2️⃣ Someone requests an NFT to be issued\
+3️⃣ A unique ID is created\
+4️⃣ Ownership of that ID is recorded to a wallet address
+
+All future transfers are also\
+permanently recorded on the blockchain.
+
+***
+
+### 6️⃣ Why Use BNB Smart Chain?
+
+Simply put:
+
+* It supports **smart contracts**
+* It works well with **Ethereum-style wallets**
+* It’s designed for **fast processing and low fees**
+
+👉 It’s not about which chain is “better,”\
+but **which rules the game is built on**.
+
+***
+
+### &#x20;7️⃣ The Safest Way to Avoid Fake NFTs
+
+There are many fake tokens and NFTs\
+with similar names.
+
+The most reliable method is one thing:\
+👉 [**Search for EXTOCIUM NFTs**](https://extociumnft.com/)
+
+On BNB Smart Chain,\
+you can verify official addresses and transaction history\
+using [**BscScan**](https://bscscan.com/).
+
+***
+
+### 8️⃣ What to Check on BscScan
+
+#### ① Transaction Hash
+
+* A unique ID for each transaction
+* Used to check success or failure
+
+#### ② Wallet Address
+
+* Shows which wallet owns which assets
+
+#### ③ Contract Address
+
+* The official source of a token or NFT
+* This is where security begins
+
+***
+
+### 9️⃣ How Do the Game Database and Blockchain Work Together?
+
+* **Blockchain**\
+  → Records who owns which NFTs
+* **Game Database**\
+  → Handles fast game processes like\
+  combat, progression, and inventory
+
+Because of this, sometimes:
+
+* The blockchain transaction is complete
+* But the game screen updates later
+
+👉 This is why it appears in [**Common Wallet Issues**](common-wallet-issues.md).
+
+***
+
+### ✅ After Reading This Page, You Will:
+
+* Know whether your network is **BNB Smart Chain (BSC)**
+* Understand the difference between **tokens and NFTs**
+* Be able to check issues directly using **BscScan**
 {% endtab %}
 
 {% tab title="한국어" %}
-❓[Binance Smart Chain?](blockchain-for-beginners.md#binance-smart-chain)\
-❓[레이어2](blockchain-for-beginners.md#id-2)\
-❓[BSC를 선택한 이유](blockchain-for-beginners.md#bsc)\
-❓[NFT는 어떻게 만들어지나요?](blockchain-for-beginners.md#nft)\
-❓[BEP20 규격](blockchain-for-beginners.md#bep20)\
-❓[제작자 확인하기](blockchain-for-beginners.md#undefined-3)\
-❓[게임 DB와 NFT는 어떻게 연동되나요?](blockchain-for-beginners.md#db-nft)\
-❓[Block 탐색기 사용해보기](blockchain-for-beginners.md#block)<br>
+### ✅ 30초 요약&#x20;
 
-## 게임을 이용하는데 필요한 블록체인 지식들을 확인해보세요!
+* **블록체인**\
+  → 여러 컴퓨터가 **같은 거래 기록을 함께 보관하는 장부**
+* **지갑(Wallet)**\
+  → 코인을 담는 앱처럼 보이지만, 실제로는 **내 자산을 움직일 수 있는 ‘열쇠’**&#xB97C; 관리하는 도구
+* **주소(Address)**\
+  → 내 지갑의 **받는 주소** (우편함 주소라고 생각하면 됩니다)
+* **트랜잭션(Transaction)**\
+  → 보내기, 스왑, 구매 같은 행동이 **기록으로 남은 것**
+* **가스비(Network Fee)**\
+  → 그 기록을 처리해 달라고 네트워크에 내는 **처리 비용**
 
-블록체인은 ‘분산 원장 기술’을 기반으로 한 새로운 형태의 데이터 저장 방식입니다. \
-게임을 플레이하면서 디지털 자산인 NFT를 소유하거나 거래하려면, 기본적인 블록체인 개념을 알고 계시면 더욱 수월하게 이해하실 수 있습니다.
+***
 
-#### ‼️Binance Smart Chain?
+### 1️⃣ 블록체인이란?
 
-> Binance Smart Chain(BSC)은 빠르고 저렴한 수수료로 트랜잭션을 처리할 수 있는 블록체인 네트워크입니다. \
-> 다양한 탈중앙화 애플리케이션(DApp)과 호환성을 제공하여, 게임 내 아이템이나 NFT를 쉽고 빠르게 거래할 수 있습니다.
+블록체인은\
+**거래 기록을 블록이라는 묶음으로 저장하고**,\
+그 복사본을 여러 곳에 동시에 보관하는 방식입니다.
 
-#### ‼️레이어2
+그래서 한 번 기록된 내용은\
+**나중에 몰래 바꾸기 매우 어렵습니다.**
 
-> 레이어2는 메인 블록체인(레이어1)의 혼잡을 줄이고 거래 속도를 높이기 위해 도입된 확장성 솔루션입니다. \
-> 별도의 프로토콜 위에서 대량의 트랜잭션을 처리한 뒤, 결과만 메인 블록체인에 기록해 비용과 시간을 절약합니다.
+👉 그래서 “누가 무엇을 소유하고 있는지”를 신뢰할 수 있게 확인할 수 있습니다.
 
-#### ‼️BSC를 선택한 이유
+***
 
-> 우리는 다양한 토큰 중에서 **BNB가 가장 안정적**이라고 생각하여 바이낸스 스마트 체인(BSC)을 선택했습니다. 만약 운영하는 회사가 파산한다면 더 이상 업데이트가 이루어지지 않을 위험이 있기 때문에, **처음부터 믿을 수 있는 플랫폼**에서 시작하는 것이 가장 현명하다고 판단했습니다. BSC는 안정성과 확장성을 모두 갖추고 있어, 장기적으로도 안정적인 운영 기반을 마련할 수 있습니다.
+### 2️⃣ EXTOCIUM이 사용하는 네트워크
 
-#### ‼️NFT는 어떻게 만들어지나요?
+#### BNB Smart Chain (BSC, BNB Chain)
 
-> NFT(Non-Fungible Token)는 고유성과 희소성을 지닌 디지털 자산입니다. \
-> 일반적으로 스마트 컨트랙트를 통해 발행되며, 각 NFT는 서로 다른 고유 ID를 가지고 있습니다. 이런 특성 덕분에 게임 아이템이나 예술 작품 등에 적용되어 진정한 ‘소유권’을 증명할 수 있습니다.
+EXTOCIUM은\
+**BNB Smart Chain**이라는 블록체인 네트워크를 사용합니다.
 
-#### ‼️BEP20 규격
+* 지갑이나 앱에서는\
+  아직도 **BSC**라고 표시되는 경우가 많습니다.
+* 예전 이름은 **Binance Smart Chain**이었습니다.
 
-> BEP20은 BSC에서 사용되는 토큰 표준 규격입니다. \
-> 이 규격을 따른 토큰들은 상호 호환성을 갖추어, 다양한 지갑 및 거래소에서 쉽게 전송·보관·거래가 가능합니다.
+📌 중요한 건 이름보다 이것입니다
 
-#### ‼️제작자 확인하기
+> **EXTOCIUM은 BNB Smart Chain 규칙 위에서 돌아갑니다.**
 
-> NFT를 거래할 때는 반드시 제작자(혹은 발행자)의 정보를 확인하세요. \
-> [**BSCscan**](https://bscscan.com/)을 통해 조회하거나, [EXTOCIUM 홈페이지의 SEARCH NFT 페이지](https://extociumnft.com/)를 통해서도 확인이 가능합니다.\
-> 믿을 수 있는 제작자가 발행한 NFT인지, 공식 채널을 통해 배포된 정보가 맞는지 확인하는 것이 안전한 거래의 첫걸음입니다.
+***
 
-#### ‼️게임 DB와 NFT는 어떻게 연동되나요?
+### 3️⃣ 가스비는 왜 필요하나요?
 
-> NFT가 생성되면, 고유 토큰 ID와 속성 정보가 블록체인과 게임 DB에 각각 기록됩니다. 게임 내에서 NFT를 사용하거나 전송할 때는 스마트 컨트랙트와 API를 통해 소유권 변경이나 속성 변화를 감지하고, 게임 DB가 이를 실시간으로 업데이트합니다. 이처럼 NFT는 블록체인에 ‘소유권과 거래의 증거’를 남기고, 게임 DB는 빠른 데이터 처리를 위해 정보를 관리합니다. \
-> 두 시스템은 상호 연결되어 있어, 플레이어가 NFT를 활용하거나 외부 지갑으로 옮길 때, 항상 최신 상태가 유지되도록 동기화합니다.
+블록체인에서\
+보내기, 스왑, NFT 구매를 하면 네트워크가 그 일을 처리해야 합니다.
 
-#### ‼️ Block 탐색기 사용해보기
+그때 드는 비용이 **가스비**입니다. (택배비 같은 처리비라고 생각하면 쉽습니다.)
 
-> Block 탐색기는 블록체인상의 트랜잭션, 블록, 지갑 주소 등의 정보를 검색할 수 있는 웹사이트입니다. \
-> 예를 들어 BSC의 경우, [BscScan](https://bscscan.com/) 같은 탐색기를 사용하면 스마트 컨트랙트 정보, 토큰 발행 이력, 소유권 변경 기록 등을 직접 확인할 수 있습니다.
+BNB Smart Chain에서는 이 가스비를 **BNB**로 지불합니다.
 
+***
 
+### 4️⃣ 토큰과 NFT는 뭐가 다른가요?
+
+#### 🪙 토큰(Token)
+
+토큰은 현금처럼 같은 단위끼리는 서로 바꿔도 차이가 없습니다.\
+예: 1 XTO는 어떤 1 XTO든 동일합니다.
+
+※ 다만 ‘환율’처럼, XTO를 다른 돈(예: 원화/달러)으로 바꿀 때의 값은 변할 수 있습니다.
+
+***
+
+#### 🖼️ NFT (Non-Fungible Token)
+
+* **각각이 전부 다름** (예: 한정판 카드)
+* 고유한 번호(토큰 ID)를 가짐
+* 예: NFT 영웅, NFT 무기
+
+그래서 NFT는\
+“진짜 내 것”이라는 **소유권 증명**에 쓰입니다.
+
+***
+
+### 5️⃣ NFT는 어떻게 만들어지나요?&#x20;
+
+1️⃣ 이미 만들어진 규칙(스마트 컨트랙트)이 있고\
+2️⃣ 누군가 NFT 발행을 요청하면\
+3️⃣ 고유한 번호가 만들어지고\
+4️⃣ 그 번호의 주인이 **지갑 주소로 기록**됩니다
+
+그 이후의 거래도\
+전부 **기록으로 남습니다.**
+
+***
+
+### 6️⃣ 왜 BNB Smart Chain을 쓰나요?
+
+아주 사실적으로 말하면:
+
+* 스마트 컨트랙트를 사용할 수 있고
+* 이더리움 방식의 지갑과 잘 호환되며
+* 빠른 처리와 낮은 수수료를 목표로 설계된 네트워크이기 때문입니다
+
+👉 “어느 체인이 더 낫다”의 문제가 아니라\
+**우리 게임이 어떤 규칙 위에서 움직이느냐**의 문제입니다.
+
+***
+
+### &#x20;7️⃣ 가짜 NFT를 피하는 가장 확실한 방법
+
+이름만 비슷한\
+가짜 토큰, 가짜 NFT는 정말 많습니다.
+
+가장 확실한 확인 방법은 하나입니다.
+
+👉 [**EXTOCIUM NFT 검색**](https://extociumnft.com/)
+
+BNB Smart Chain에서는\
+[**BscScan**](https://bscscan.com/)이라는 사이트에서\
+공식 주소와 거래 기록을 확인할 수 있습니다.
+
+***
+
+### 8️⃣ BscScan에서 이것만 보면 됩니다
+
+#### ① 트랜잭션 해시
+
+* 거래마다 생기는 **거래 번호**
+* 이걸로 성공/실패 여부 확인
+
+#### ② 지갑 주소
+
+* 어떤 지갑이\
+  어떤 자산을 가지고 있는지 확인
+
+#### ③ 컨트랙트 주소
+
+* 토큰/NFT의 **공식 출처**
+* 이게 안전의 시작입니다
+
+***
+
+### 9️⃣ 게임 DB와 블록체인은 어떻게 같이 움직이나요?
+
+* **블록체인**\
+  → 누가 NFT를 소유하는지 기록
+* **게임 DB**\
+  → 전투, 성장, 인벤토리 같은\
+  빠른 게임 처리를 담당
+
+그래서 가끔\
+블록체인 거래는 완료됐는데\
+게임 화면 반영이 늦을 수 있습니다.
+
+👉 이게 [Common Wallet Issues](common-wallet-issues.md)에서 나오는 이유입니다.
+
+***
+
+### ✅ 이 페이지를 읽고 나면
+
+* 내가 쓰는 네트워크가 **BNB Smart Chain(BSC)**&#xC778;지 알 수 있습니다
+* 토큰과 NFT의 차이를 구분할 수 있습니다
+* 문제가 생겼을 때 **BscScan으로 직접 확인**할 수 있습니다
 {% endtab %}
 
 {% tab title="日本語" %}
-❓[Binance Smart Chainとは？](blockchain-for-beginners.md#binance-smart-chaintoha)\
-❓[レイヤー2](blockchain-for-beginners.md#reiy2)\
-❓[BSCを選んだ理由](blockchain-for-beginners.md#bscwonda)\
-❓[NFTはどうやって作られるの？](blockchain-for-beginners.md#nfthadouyatterareruno)\
-❓[BEP20規格](blockchain-for-beginners.md#bep20-gui-ge)\
-❓[制作者の確認](blockchain-for-beginners.md#no)\
-❓[ゲームDBとNFTはどう連動するの？](blockchain-for-beginners.md#gmudbtonfthadousuruno)\
-❓[Blockエクスプローラーを使ってみよう](blockchain-for-beginners.md#blockekusupurrwottemiyou)<br>
+### ✅ 30秒まとめ
 
-## ゲーム利用に必要なブロックチェーン知識を確認しましょう！
+* **ブロックチェーン**\
+  → 複数のコンピューターが同じ取引記録を共同で保管する台帳
+* **ウォレット（Wallet）**\
+  → コインを入れるアプリのように見えますが、\
+  　実際は資産を動かすための **「鍵」** を管理する道具
+* **アドレス（Address）**\
+  → ウォレットの受取用アドレス\
+  → **郵便受けの住所**だと考えると分かりやすいです
+* **トランザクション（Transaction）**\
+  → 送金・スワップ・購入などの行動が記録されたもの
+* **ガス代（ネットワーク手数料）**\
+  → 取引処理を依頼するためにネットワークへ支払う費用
 
-ブロックチェーンは「分散型台帳技術」を基盤とする新しいデータ保存の仕組みです。\
-ゲーム内でNFTなどのデジタル資産を所有・取引するには、基本的なブロックチェーンの概念を理解しておくとスムーズです。
+***
 
-#### ‼️Binance Smart Chainとは？
+### 1️⃣ ブロックチェーンとは？
 
-> Binance Smart Chain（BSC）は、トランザクションを低い手数料で高速に処理できるブロックチェーンネットワークです。\
-> さまざまな分散型アプリケーション（DApp）に対応し、ゲーム内アイテムやNFTを簡単かつ迅速に取引できます。
+ブロックチェーンは、\
+取引記録を **ブロック** という単位で保存し、\
+そのコピーを複数の場所に同時に保管します。
 
-#### ‼️レイヤー2
+そのため、一度記録された内容は\
+後からこっそり書き換えることが非常に困難です。
 
-> レイヤー2はメインブロックチェーン（レイヤー1）の混雑を緩和し、取引速度を向上させる拡張ソリューションです。\
-> 別のプロトコル上で多くのトランザクションを処理し、その結果だけをメインチェーンに記録することで、時間とコストを節約できます。
+👉 だからこそ、\
+&#xNAN;**「誰が何を所有しているか」** を信頼して確認できます。
 
-#### ‼️BSCを選んだ理由
+***
 
-> 私たちは数あるトークンの中で**BNBが最も安定している**と考え、Binance Smart Chain（BSC）を選択しました。もし運営会社が破綻すれば、アップデートが停止するリスクがあります。したがって、**最初から信頼できるプラットフォーム**を利用することが賢明だと判断しました。BSCは安定性と拡張性を兼ね備えており、長期的な運営基盤として信頼できる選択肢です.
+### 2️⃣ EXTOCIUMが使用するネットワーク
 
-#### ‼️NFTはどうやって作られるの？
+#### BNB Smart Chain (BSC, BNB Chain)
 
-> NFT（Non-Fungible Token）は、唯一性と希少性を持つデジタル資産です。\
-> 通常はスマートコントラクトによって発行され、各NFTは一意のIDを持っています。\
-> この特性により、ゲームアイテムやアート作品などに対して真の「所有権」を証明できます。
+EXTOCIUMは\
+**BNB Smart Chain** というブロックチェーンネットワークを使用しています。
 
-#### ‼️BEP20規格
+* ウォレットやアプリでは、\
+  今でも **BSC** と表示されることがあります。
+* 以前の名称は **Binance Smart Chain** でした。
 
-> BEP20はBSC上で使用されるトークンの標準規格です。\
-> この規格に準拠したトークンは互換性が高く、さまざまなウォレットや取引所で簡単に送受信や保管、取引が可能です。
+📌 大切なのは名前ではなく、
 
-#### ‼️制作者の確認
+> EXTOCIUMが **BNB Smart Chainのルール** 上で動いているという点です。
 
-> NFTを取引する際は、必ず制作者（あるいは発行者）の情報を確認してください。\
-> [**BSCscan**](https://bscscan.com/)で制作者のアドレスを検索したり、[EXTOCIUMのSEARCH NFTページ](https://extociumnft.com/)で確認することもできます。\
-> 信頼できる制作者が発行したNFTか、公式チャンネルの情報と一致しているかをチェックすることが、安全な取引の第一歩です。
+***
 
-#### ‼️ゲームDBとNFTはどう連動するの？
+### 3️⃣ なぜガス代が必要なのですか？
 
-> NFTが生成されると、その固有のトークンIDや属性情報がブロックチェーンとゲームDBの両方に記録されます。ゲーム内でNFTを使用・転送する際は、スマートコントラクトとAPIを介して所有権や属性の変化が検知され、ゲームDBにリアルタイムで反映されます。 このようにNFTはブロックチェーン上で「所有権と取引履歴の証拠」を残し、ゲームDBは迅速なデータ処理を担当します。2つのシステムは相互に連携し、プレイヤーがNFTをゲーム内で使ったり外部ウォレットへ移動するときに常に最新状態が保たれるように同期します。
+ブロックチェーンでは、\
+送金・スワップ・NFT購入などを行うと\
+ネットワークがその処理を行います。
 
-#### ‼️ Blockエクスプローラーを使ってみよう
+その処理費用が **ガス代** です。\
+（宅配の送料のようなものと考えると分かりやすいです）
 
-> Blockエクスプローラーとは、トランザクションやブロック、ウォレットアドレスなどのブロックチェーン上の情報を検索できるウェブサイトです。\
-> たとえばBSCの場合、[BscScan](https://bscscan.com/)などを使用すると、スマートコントラクトの詳細やトークンの発行履歴、所有権の変更記録などを確認できます。
+**BNB Smart Chain** では、\
+ガス代は **BNB** で支払います。
+
+***
+
+### 4️⃣ トークンとNFTの違いは？
+
+#### 🪙 トークン（Token）
+
+トークンは現金のように、\
+同じ単位同士であれば区別がありません。
+
+例：\
+1 XTO は、どの 1 XTO でも同じ価値です。
+
+※ ただし、XTOを他の通貨（円・ドルなど）に換算したときの\
+価格は変動します。
+
+***
+
+#### 🖼️ NFT (Non-Fungible Token)
+
+* すべてが **唯一無二**
+* **固有の番号（トークンID）** を持つ
+* 例：NFTヒーロー、NFT武器
+
+そのためNFTは、\
+&#xNAN;**「本当に自分のもの」** という所有権の証明に使われます。
+
+***
+
+### 5️⃣ NFTはどうやって作られるの？
+
+1️⃣ すでに決められたルール（スマートコントラクト）があり\
+2️⃣ 誰かがNFT発行をリクエストすると\
+3️⃣ 固有の番号が作られ\
+4️⃣ その番号の所有者がウォレットアドレスとして記録されます
+
+その後の取引もすべて、\
+記録として残り続けます。
+
+***
+
+### 6️⃣ なぜBNB Smart Chainを使うの？
+
+正直に言うと：
+
+* **スマートコントラクト** が使える
+* **イーサリアム系ウォレット** と高い互換性がある
+* **高速処理と低手数料** を目指して設計されている
+
+👉 「どのチェーンが優れているか」ではなく、\
+**ゲームがどのルールで動くか**の問題です。
+
+***
+
+### &#x20;7️⃣ 偽NFTを避ける一番確実な方法
+
+名前が似ている\
+偽トークン・偽NFTは数多く存在します。
+
+最も確実な確認方法は一つだけです。\
+👉 [**EXTOCIUM NFTを検索すること**](https://extociumnft.com/)
+
+BNB Smart Chainでは、\
+[**BscScan**](https://bscscan.com/) を使って\
+公式アドレスと取引履歴を確認できます。
+
+***
+
+### 8️⃣ BscScanで見るべきポイント
+
+#### ① トランザクションハッシュ
+
+* 各取引に付与される取引番号
+* 成功・失敗の確認に使用
+
+#### ② ウォレットアドレス
+
+* どのウォレットが\
+  どの資産を持っているか確認
+
+#### ③ コントラクトアドレス
+
+* トークン／NFTの公式な発行元
+* ここが安全確認の出発点です
+
+***
+
+### 9️⃣ ゲームDBとブロックチェーンはどう連動する？
+
+* **ブロックチェーン**\
+  → NFTの所有者を記録
+* **ゲームDB**\
+  → 戦闘・成長・インベントリなど\
+  　高速なゲーム処理を担当
+
+そのため、\
+ブロックチェーン取引は完了していても、\
+ゲーム画面への反映が遅れることがあります。
+
+👉 これが [**Common Wallet Issues**](common-wallet-issues.md) に載っている理由です。
+
+***
+
+### ✅ このページを読めば分かること
+
+* 使用しているネットワークが **BNB Smart Chain（BSC）** か分かる
+* **トークンとNFTの違い** を理解できる
+* 問題発生時に **BscScanで自分で確認** できるようになります
 {% endtab %}
 {% endtabs %}
 
