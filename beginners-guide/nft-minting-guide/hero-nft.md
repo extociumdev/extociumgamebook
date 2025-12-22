@@ -4,28 +4,27 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 📂 Hero NFT
 
-
-
 {% tabs %}
 {% tab title="ENG" %}
-### 🧙‍♀️ Hero NFT – How to Summon Your Hero
+### 🧙‍♀️ Hero NFT – How to Summon a Hero
 
-The legend of Extocium begins at your fingertips.\
-Use the materials you've gathered to summon your very own Hero NFT!
+The legend of Extocium begins with the choices you make right now.\
+Use the materials you've collected to summon your own Hero NFT.
 
 ***
 
 ### 📍 How to Summon a Hero
 
-Ready to summon your own Hero?\
-Just follow the steps below—anyone can do it!\
-Take your time and refer to the images at each step 👇
+You can summon your own hero directly.\
+By following the steps below in order, anyone can summon a Hero NFT.
+
+Please take your time and follow along with the images for each step. 👇
 
 ***
 
 #### ① Go to the Dashboard
 
-🎯 Click the **helmet icon** on the left side of the game screen to open the dashboard.
+🎯 Click the **helmet icon** on the left side of the game screen to open the Dashboard.
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="459"><figcaption></figcaption></figure>
 
@@ -33,38 +32,40 @@ Take your time and refer to the images at each step 👇
 
 #### ② Click the “Summon” Button
 
-📍 In the bottom-left corner of the dashboard, click the **“Summon”** button to open the Hero summon menu.
+📍Select the **`Summon`** button at the bottom-left of the Dashboard to enter the Hero Summoning menu.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ③ Check Required Materials
+#### ③ Check the Required Materials
 
-🧾 Review the **materials listed on the screen**, and make sure you have everything ready.
+🧾Review the list of **required materials** on the screen and make sure all items are prepared.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ④ Connect MetaMask & Summon!
+#### ④ Connect Your Wallet & Summon a Hero
 
-🔐 Connect your **MetaMask wallet**,\
-✨ Then click the **“Summon”** button to receive a random Hero!
+🔐 With your wallet connected,\
+✨ click the **`Summon`** button to summon a hero at random.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+_※ If your wallet is not connected yet, please complete the_ [_**Wallet Setup**_](../wallet-connection/wallet-setup/) _first._
+
 ***
 
-#### 🎲 Base Stats Are RNG-Based
+#### 🎲 Base Stats Are Random (Probability-Based)
 
-When you summon a Hero:
+When a hero is summoned:
 
-* One of the **7 unique Hero classes** is randomly selected
-* That class’s **skill set** is automatically assigned
-* **Base Stats are randomly determined** between 15–21, based on probability
+* One of **7 unique classes** is selected at random.
+* A skill set matching that class is automatically assigned.
+* Base stats are determined randomly within a range of **15 to 21**, based on probability.
 
-📊 For detailed stats, please refer to the **\[Stat Probability Chart]** below.
+📊 For detailed values, please refer to the **\[Stat Probability Table]** below.
 
 | NFT Stat | Probability (%) |
 | -------- | --------------- |
@@ -92,30 +93,39 @@ When you summon a Hero:
 
 ***
 
-Now then, Wizard—\
-It’s time to summon a Hero who may become a legend! 🌟\
-If luck’s on your side, the strongest one may appear just for you!
+🌟
+
+Now it’s time\
+to summon a hero who may become a legend.
+
+If you’re lucky,\
+a hero with the highest possible base stats\
+may appear.
+
+Good luck.\
+Your adventure begins now.
 {% endtab %}
 
 {% tab title="한국어" %}
 ### 🧙‍♀️ Hero NFT – 영웅 소환 방법
 
-**엑스토시움의 전설은, 지금 당신의 손끝에서 시작됩니다.**\
-수집한 재료를 사용해, 영웅을 직접 NFT로 소환해보세요!
+엑스토시움의 전설은 지금, 당신의 선택에서 시작됩니다.\
+수집한 재료를 사용해 **영웅을 직접 NFT로 소환**해 보세요.
 
 ***
 
 ### 📍 영웅 소환 방법
 
-**나만의 영웅, 직접 소환해볼까요?**\
-아래 단계를 따라가면, 누구나 쉽게 Hero NFT를 소환할 수 있어요!\
-각 순서에 맞는 이미지를 함께 보면서 천천히 따라와 주세요 👇
+나만의 영웅을 직접 소환할 수 있습니다.\
+아래 단계를 순서대로 따라 하면, 누구나 Hero NFT를 소환할 수 있습니다.
+
+각 단계에 맞는 이미지를 보면서 천천히 진행해 주세요. 👇
 
 ***
 
 #### ① 대시보드로 이동하기
 
-🎯 **게임 화면 좌측의 ‘투구 아이콘’을 클릭**하면 대시보드로 진입할 수 있어요.
+🎯 게임 화면 좌측에 있는 **투구 아이콘**을 선택하면 **대시보드**로 이동합니다.
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="459"><figcaption></figcaption></figure>
 
@@ -123,7 +133,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 #### ② ‘소환’ 버튼 클릭하기
 
-📍 **대시보드 좌측 하단의 `소환` 버튼**을 눌러, 영웅 소환 메뉴로 들어가세요.
+📍 **대시보드 좌측 하단의 `소환` 버튼**을 눌러, 영웅 소환 메뉴로 이동합니다.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -131,18 +141,20 @@ If luck’s on your side, the strongest one may appear just for you!
 
 #### ③ 필요한 재료 확인하기
 
-🧾 **화면에 표시되는 재료 목록**을 확인하고, 모든 아이템이 준비되어 있는지 점검해 주세요.
+🧾 **화면에 표시되는 재료 목록**을 확인하고, 모든 아이템이 준비되어 있는지 점검합니다.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ④ MetaMask 지갑 연결 & 영웅 소환!
+#### ④ 지갑 연결 & 영웅 소환!
 
-🔐 **MetaMask 지갑을 연결**한 뒤,\
+🔐 지갑이 연결된 상태에서,\
 ✨ **`소환` 버튼을 클릭하면 영웅이 랜덤으로 소환됩니다!**
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+_※ 지갑이 아직 연결되지 않았다면_ [_Wallet Setup_](../wallet-connection/wallet-setup/)_부터 차례대로 진행해 주세요._
 
 ***
 
@@ -150,11 +162,11 @@ If luck’s on your side, the strongest one may appear just for you!
 
 소환된 영웅은,
 
-* **7명의 고유 클래스 중 1명**이 랜덤으로 선택되고
-* 해당 클래스의 **스킬 세트**가 자동으로 부여돼요.
-* **베이스스탯은 15\~21 사이**에서, 확률에 따라 랜덤으로 정해져요!
+* **7가지 고유 클래스 중 1종**이 랜덤으로 선택되며
+* 해당 클래스에 맞는 **스킬 세트**가 자동으로 부여됩니다.
+* 베이스 스탯은 **15 \~ 21 범위**에서 확률에 따라 랜덤으로 결정됩니다.
 
-📊 자세한 수치는 아래 \[스탯 확률표]를 확인해 주세요.
+📊 자세한 수치는 아래 \[스탯 확률표]를 참고해 주세요.
 
 | NFT Stat | Probability (%) |
 | -------- | --------------- |
@@ -168,7 +180,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 ***
 
-#### 📦 필요한 재료
+#### 📦 필요한 재료 안내
 
 | 재료 이름 | 수량        |
 | ----- | --------- |
@@ -182,69 +194,79 @@ If luck’s on your side, the strongest one may appear just for you!
 
 ***
 
-자, 위자드님.\
-이제 전설이 될 영웅을 직접 소환해볼 차례예요!\
-🌟 운이 좋다면, 가장 강력한 스탯을 가진 영웅이 당신 곁에 나타날지도 몰라요!
+🌟
+
+이제 전설이 될 영웅을 직접 소환할 차례입니다.
+
+운이 좋다면,\
+가장 높은 베이스 스탯을 가진\
+강력한 영웅이 등장할 수도 있습니다.
+
+행운을 빕니다.\
+당신의 모험이 지금 시작됩니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-### 🧙‍♀️ Hero NFT – ヒーロー召喚方法
+### 🧙‍♀️ Hero NFT – 英雄の召喚方法
 
-エクストシウムの伝説は、あなたの指先から始まります。\
-集めた素材を使って、ヒーローNFTを召喚してみましょう！
+EXTOCIUMの伝説は、この瞬間、あなたの選択から始まります。\
+集めた素材を使って、**自分だけの英雄をNFTとして召喚**してみましょう。
 
 ***
 
-### 📍 ヒーローの召喚方法
+### 📍 英雄の召喚方法
 
-あなただけのヒーロー、召喚してみませんか？\
-以下の手順に従えば、誰でも簡単にヒーローNFTを手に入れることができます！\
-各ステップに合わせて画像もチェックしてくださいね👇
+英雄は、ゲーム内で **直接NFTとして召喚**できます。\
+以下の手順を順番に進めれば、どなたでもHero NFTを召喚できます。
+
+各ステップの画像を確認しながら、ゆっくり進めてください。 👇
 
 ***
 
 #### ① ダッシュボードへ移動
 
-🎯 ゲーム画面左側の**ヘルメットアイコン**をクリックすると、ダッシュボードに移動できます。
+🎯 ゲーム画面左側にある **ヘルメットアイコン**を選択すると、ダッシュボードが開きます。
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="459"><figcaption></figcaption></figure>
 
 ***
 
-#### ② 「召喚」ボタンをクリック
+#### ② 「召喚」ボタンを選択
 
-📍 ダッシュボード左下にある「召喚」ボタンをクリックして、ヒーロー召喚メニューを開きます。
+📍 ダッシュボード左下にあ&#x308B;**`「召喚」`ボタン**を押して、英雄召喚メニューへ進みます。
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ③ 必要素材を確認
+#### ③ 必要な素材を確認
 
-🧾 画面に表示される**必要な素材リスト**を確認し、すべて揃っているかチェックしましょう。
+🧾 画面に表示されている **必要素材の一覧**を確認し、すべてのアイテムが揃っているかチェックしてください。
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ④ MetaMaskを接続して召喚！
+#### ④ ウォレット接続＆英雄召喚
 
-🔐 **MetaMaskウォレット**を接続したあと、\
-✨ **「召喚」ボタンをクリックすると、ランダムでヒーローが出現します！**
+🔐 ウォレットが接続された状態で、\
+✨ **`「召喚」`ボタン**を押すと、英雄が **ランダム** に召喚されます。
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
+_※ まだウォレットを接続していない場合は、先に_ [_**Wallet Setup**_](../wallet-connection/wallet-setup/) _を完了してください。_
+
 ***
 
-#### 🎲 ベースステータスは確率によるランダム設定
+#### 🎲 ベースステータスは確率によるランダム
 
-召喚されたヒーローには以下の特性があります：
+召喚された英雄は、
 
-* **7種類のヒーロークラスの中から1人**がランダムで選ばれます
-* クラスごとの**固有スキルセット**が自動で付与されます
-* **ベースステータスは15〜21の間**で、確率に基づきランダムで決定されます
+* **7種類の固有クラス**の中から 1つがランダムで選ばれ
+* クラスに対応した **スキルセット** が 自動的に付与されます
+* ベースステータスは、**15〜21の範囲**で 確率に基づいて決定されます。
 
-📊 詳しい数値は、下部の\*\*\[ステータス確率表]\*\*をご確認ください。
+📊 詳細な数値については、下記の **［ステータス確率表］** をご確認ください。
 
 | NFT Stat | Probability (%) |
 | -------- | --------------- |
@@ -258,7 +280,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 ***
 
-#### 📦 必要素材
+#### 📦 必要な素材について
 
 | 素材名     | 数量        |
 | ------- | --------- |
@@ -272,9 +294,18 @@ If luck’s on your side, the strongest one may appear just for you!
 
 ***
 
-さあ、ウィザード様。\
-伝説となるヒーローを、あなたの手で召喚しましょう！🌟\
-運が良ければ、最強のステータスを持つヒーローが現れるかもしれません…！
+🌟
+
+いよいよ、\
+**伝説となる英雄を召喚する時です。**
+
+運が良ければ、\
+最高のベースステータスを持つ\
+強力な英雄が現れるかもしれません。
+
+**幸運を祈ります。**\
+あなたの冒険は、\
+今ここから始まります。
 {% endtab %}
 {% endtabs %}
 
