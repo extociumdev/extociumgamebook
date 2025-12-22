@@ -27,7 +27,7 @@ Take your time and refer to the images at each step 👇
 
 🎯 Click the **helmet icon** on the left side of the game screen to open the dashboard.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 120528.png" alt="" width="418"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="459"><figcaption></figcaption></figure>
 
 ***
 
@@ -35,7 +35,7 @@ Take your time and refer to the images at each step 👇
 
 📍 In the bottom-left corner of the dashboard, click the **“Summon”** button to open the Hero summon menu.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 122740.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,7 +43,7 @@ Take your time and refer to the images at each step 👇
 
 🧾 Review the **materials listed on the screen**, and make sure you have everything ready.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 122909.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -52,7 +52,7 @@ Take your time and refer to the images at each step 👇
 🔐 Connect your **MetaMask wallet**,\
 ✨ Then click the **“Summon”** button to receive a random Hero!
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 123028.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -117,7 +117,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 🎯 **게임 화면 좌측의 ‘투구 아이콘’을 클릭**하면 대시보드로 진입할 수 있어요.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 120528.png" alt="" width="418"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="459"><figcaption></figcaption></figure>
 
 ***
 
@@ -125,7 +125,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 📍 **대시보드 좌측 하단의 `소환` 버튼**을 눌러, 영웅 소환 메뉴로 들어가세요.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 122740.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -133,7 +133,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 🧾 **화면에 표시되는 재료 목록**을 확인하고, 모든 아이템이 준비되어 있는지 점검해 주세요.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 122909.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -142,7 +142,7 @@ If luck’s on your side, the strongest one may appear just for you!
 🔐 **MetaMask 지갑을 연결**한 뒤,\
 ✨ **`소환` 버튼을 클릭하면 영웅이 랜덤으로 소환됩니다!**
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 123028.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -207,7 +207,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 🎯 ゲーム画面左側の**ヘルメットアイコン**をクリックすると、ダッシュボードに移動できます。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 120528.png" alt="" width="418"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="459"><figcaption></figcaption></figure>
 
 ***
 
@@ -215,7 +215,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 📍 ダッシュボード左下にある「召喚」ボタンをクリックして、ヒーロー召喚メニューを開きます。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 122740.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -223,7 +223,7 @@ If luck’s on your side, the strongest one may appear just for you!
 
 🧾 画面に表示される**必要な素材リスト**を確認し、すべて揃っているかチェックしましょう。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 122909.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -232,7 +232,7 @@ If luck’s on your side, the strongest one may appear just for you!
 🔐 **MetaMaskウォレット**を接続したあと、\
 ✨ **「召喚」ボタンをクリックすると、ランダムでヒーローが出現します！**
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 123028.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
