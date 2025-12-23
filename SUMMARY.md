@@ -26,6 +26,7 @@
 * [🧬 NFT Minting Guide](beginners-guide/nft-minting-guide/README.md)
   * [📂 Hero NFT](beginners-guide/nft-minting-guide/hero-nft.md)
   * [📂 Equipment NFT](beginners-guide/nft-minting-guide/equipment-nft.md)
+  * [🧩 View Your NFT in Wallet](beginners-guide/nft-minting-guide/view-your-nft-in-wallet.md)
 * [🔒 Rookie Lock System](beginners-guide/rookie-lock-system/README.md)
   * [🐤 Trial Hero](beginners-guide/rookie-lock-system/trial-hero.md)
   * [🎁 Rookie Shopper's Surprises](beginners-guide/rookie-lock-system/rookie-shoppers-surprises.md)
