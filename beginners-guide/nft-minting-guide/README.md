@@ -22,12 +22,12 @@ On this page,\
 🧙‍♀️ **Hero NFT**\
 👇 Summon a hero and mint it as an NFT with **randomized abilities**.
 
-<table data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Hero NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167.png">KakaoTalk_20250721_135232167.png</a></td><td><a href="hero-nft.md#eng">#eng</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Hero NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167.png">KakaoTalk_20250721_135232167.png</a></td><td><a href="hero-nft.md#hero-nft-how-to-summon-a-hero">#hero-nft-how-to-summon-a-hero</a></td></tr></tbody></table>
 
 🛡️ **Equipment NFT**\
 👇 Craft equipment and mint it directly as an **Equipment NFT**.
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Equipment NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167_02.png">KakaoTalk_20250721_135232167_02.png</a></td><td><a href="equipment-nft.md#eng">#eng</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Equipment NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167_02.png">KakaoTalk_20250721_135232167_02.png</a></td><td><a href="equipment-nft.md#equipment-nft-crafting-and-minting-guide">#equipment-nft-crafting-and-minting-guide</a></td></tr></tbody></table>
 
 ***
 
@@ -57,12 +57,12 @@ NFTs are minted to your **wallet**, not your game account.\
 🧙‍♀️ **Hero NFT**\
 👇 영웅을 소환하고, 랜덤 능력을 가진 영웅 NFT를 발행합니다.
 
-<table data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Hero NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167.png">KakaoTalk_20250721_135232167.png</a></td><td><a href="hero-nft.md#undefined-1">#undefined-1</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Hero NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167.png">KakaoTalk_20250721_135232167.png</a></td><td><a href="hero-nft.md#hero-nft">#hero-nft</a></td></tr></tbody></table>
 
 🛡️ **Equipment NFT**\
 👇 장비를 제작하면, 해당 장비가 NFT로 민팅됩니다.
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Equipment NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167_02.png">KakaoTalk_20250721_135232167_02.png</a></td><td><a href="equipment-nft.md#undefined-1">#undefined-1</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Equipment NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167_02.png">KakaoTalk_20250721_135232167_02.png</a></td><td><a href="equipment-nft.md#equipment-nft-and">#equipment-nft-and</a></td></tr></tbody></table>
 
 ***
 
@@ -93,12 +93,12 @@ EXTOCIUMでは、\
 🧙‍♀️ **Hero NFT**\
 👇 英雄を召喚し、**ランダムな能力を持つ英雄NFT**を発行します。
 
-<table data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Hero NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167.png">KakaoTalk_20250721_135232167.png</a></td><td><a href="hero-nft.md#ri-ben-yu">#ri-ben-yu</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Hero NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167.png">KakaoTalk_20250721_135232167.png</a></td><td><a href="hero-nft.md#hero-nft-no">#hero-nft-no</a></td></tr></tbody></table>
 
 🛡️ **Equipment NFT**\
 👇 装備を制作すると、その装備が**NFTとしてミント**されます。
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Equipment NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167_02.png">KakaoTalk_20250721_135232167_02.png</a></td><td><a href="equipment-nft.md#ri-ben-yu">#ri-ben-yu</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Equipment NFT</td><td><a href="../../.gitbook/assets/KakaoTalk_20250721_135232167_02.png">KakaoTalk_20250721_135232167_02.png</a></td><td><a href="equipment-nft.md#equipment-nft-nomintogaido">#equipment-nft-nomintogaido</a></td></tr></tbody></table>
 
 ***
 
