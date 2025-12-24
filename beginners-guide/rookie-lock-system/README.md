@@ -17,7 +17,7 @@ a system called **Rookie Lock** is applied to features such as:
 * Swapping
 * NFT-related functions
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Rookie Lock exists to:
 
@@ -28,7 +28,7 @@ The Rookie Lock exists to:
 It may feel a bit restrictive at first,\
 but think of it as a safety net that helps you learn and adapt to the game.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="419"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="419"><figcaption></figcaption></figure>
 
 ***
 
@@ -79,7 +79,7 @@ Your journey starts safely, then opens wide. Welcome aboard, Wizard ✨
 EXTOCIUM에 처음 입장하면\
 **거래, 스왑, NFT 관련 기능에 ‘루키 락(Rookie Lock)’이 적용되어 있습니다.**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 루키 락은
 
@@ -90,7 +90,7 @@ EXTOCIUM에 처음 입장하면\
 처음엔 다소 제한적으로 느껴질 수 있지만,\
 게임을 이해하고 적응할 수 있도록 돕는 **안전장치**라고 생각하시면 됩니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="419"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="419"><figcaption></figcaption></figure>
 
 ***
 
@@ -137,7 +137,7 @@ EXTOCIUM에 처음 입장하면\
 **EXTOCIUM**に初めて入場すると、取引・スワップ・NFT関連機能に\
 &#xNAN;**「ルーキーロック（Rookie Lock）」**&#x304C;適用されます。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ルーキーロックは、
 
@@ -151,7 +151,7 @@ EXTOCIUM에 처음 입장하면\
 ゲームを理解し、安心して慣れていくための\
 **安全装置**としてお考えください。
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="419"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="419"><figcaption></figcaption></figure>
 
 ***
 

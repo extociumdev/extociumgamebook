@@ -56,7 +56,7 @@ Please proceed slowly while checking the images for each step.
 
 🛠️ From the left menu of the dashboard, select **Craft** to open the crafting screen.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -74,7 +74,7 @@ then click the desired item.
 
 _📌 In this guide, **“Awakening Darkness” (Weapon)** is used as an example._
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -163,7 +163,7 @@ EXTOCIUM에서는\
 
 🛠️ 대시보드 좌측 메뉴에서 **제작(Craft)** 을 선택하면 제작 화면이 열립니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -180,7 +180,7 @@ EXTOCIUM에서는\
 
 📌 **이 가이드에서는 무기(Weapon) 중 「깨어나는 어둠」을 예시로 설명합니다.**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -271,7 +271,7 @@ _※ 아직 지갑을 연결하지 않았다면 먼저_ [_**Wallet Setup**_](../
 
 🛠️ ダッシュボード左側のメニューから **Craft（制作）** を選択すると、制作画面が表示されます。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

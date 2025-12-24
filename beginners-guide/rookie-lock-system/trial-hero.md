@@ -74,6 +74,7 @@ You’ll find a space where you can freely test your skills.
 * Trade items
 * Trade NFTs
 * Swap XTO
+* Register Mining Setup
 
 Once you’ve had a real taste of what EXTOCIUM has to offer,\
 head to the [**Market**](../../economy/trade/market/#eng) to purchase a Hero NFT,\
@@ -155,7 +156,12 @@ EXTOCIUM의 [**일곱 기본 영웅**](../../growth/heroes/#heroes) 중 1명을 
 * [**루키 락(Rookie Lock)**](./#rookie-lock-system) 이 적용되어 있습니다.
 
 {% hint style="warning" %}
-#### 트라이얼 영웅 상태에서는 아이템 거래, NFT 거래, XTO 스왑 등의 기능을 사용할 수 없습니다.&#x20;
+#### 트라이얼 영웅 사용 중에는 다음 기능을 이용할 수 없습니다
+
+* 아이템 거래
+* NFT 거래
+* XTO 스왑
+* 채굴 세팅 등록
 
 트라이얼 영웅을 통해 충분히 EXTOCIUM의 매력에 빠져드시게 된다면, \
 '[마켓](../../economy/trade/market/#undefined-1)'에서 영웅 NFT를 **구매**하거나, 게임 내에서 영웅을 직접 [소환](../nft-minting-guide/hero-nft.md#hero-nft)(민팅)하여 루키 락을 해제해보세요!
@@ -243,6 +249,7 @@ EXTOCIUMに登場する [**7人の基本ヒーロー**](../../growth/heroes/#her
 * アイテム取引
 * NFT取引
 * XTOスワップ
+* 採掘設定を登録
 
 EXTOCIUMの魅力を十分に体験した後は、[**マーケット**](../../economy/trade/market/#ri-ben-yu)**でヒーローNFTを購入**するか、\
 ゲーム内で[ヒーローを召喚](../nft-minting-guide/hero-nft.md#hero-nft-no)（ミント）して ルーキーロックを解除してみてください。
