@@ -6,174 +6,260 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 💡**Trial Hero → NFT Hero Growth Data Transfer Service**
+### 🔄 Transferring Trial Hero Data
 
-**Did you purchase an NFT hero?** 🎉\
-Now, you can **transfer your Trial Hero’s growth data to your**[ **NFT**](../wallet-connection/blockchain-for-beginners.md#eng) **Hero!**\
-All **EXTOCIUM NFT heroes are uniquely generated** with their own addresses.\
-When summoned, an **NFT hero’s type & skills are randomly determined.**
+#### Transfer Growth Data from Trial Hero → NFT Hero
+
+Have you purchased a **Hero NFT**? 🎉\
+If so, you can transfer the growth data you earned while playing as a **Trial Hero**\
+to your **NFT Hero**.
+
+In EXTOCIUM, all real heroes are created as **NFTs**,\
+and each one has its own unique address.
 
 ***
 
-#### 🛠 **What is a Trial Hero?**
+### 🧪 What Is Trial Hero Data Transfer?
 
-Trial Heroes allow you to experience gameplay **before purchasing an NFT hero or summoning one.**
+This service allows you to transfer **part of the growth data**\
+you accumulated while playing as a Trial Hero\
+to an NFT Hero.
 
-✅ **Freely customize your skill deck**\
-❌ **Cannot be traded or registered for mining** 🥲
+※ For more details about Trial Heroes,\
+👉 please refer to **\[**[**Trial Hero**](trial-hero.md#trial-hero-trial-hero-selection-guide)**]**.
 
-{% hint style="info" %}
-[❓If you want to fully enjoy EXTOCIUM, consider purchasing a Hero NFT from the market!](../../economy/trade/market/trading-nfts/#eng)
+{% hint style="warning" %}
+### Before You Transfer – Important Notes
+
+* This service is available **once per account only**.
+* **Hero type and skill types are not transferred**.
+* **Only growth stats** are transferred to the NFT Hero.
 {% endhint %}
 
 ***
 
-#### 🔄 **How to Transfer Growth Data**
+### 🧭 How to Transfer Growth Data
 
-To ensure a smooth transition, **we’ve prepared a service that allows you to transfer your Trial Hero’s growth data to your newly purchased NFT Hero!**
+#### ① Find NPC Laura
+
+👉Go to the center of **Rottenhill** and interact with NPC **Laura**.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-👉 **Talk to ‘NPC Laura’ in the center of Rotten hill.**
+***
+
+#### ② Review the Service Info
+
+💬 Laura will provide a brief explanation of the growth data transfer service.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-💬 **Laura will provide a brief explanation** of the transfer service.
+***
 
-{% hint style="info" %}
-❗ **This service is available only once per account.**\
-❗ **Hero type & skills will NOT be transferred.**
-{% endhint %}
+#### ③ Select the Target NFT Hero
+
+👉 In the **“Select Target NFT”** panel,\
+choose the **NFT Hero** that will receive the growth data.
+
+📊 After selection,\
+you can preview the **expected results after the transfer**.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-👉 **Select your target NFT hero** in the **‘Target NFT Selection’** panel.
+***
 
-📊 **You can simulate the expected results** before finalizing the transfer.
+#### ④ Proceed with Transfer
+
+**👇** Click the **“Transfer”** button to open the final confirmation popup.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**👇** Once you approve, the growth data transfer will be completed.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-👉 Tap the **‘Confirm’** button to procee**d.**
+***
 
-✅ **Confirm the final approval, and the transfer will be completed!**\
-🚨 **After the transfer, NPC Laura will disappear from the map.**
+### 🌟
 
-💡 **Ready to power up your NFT Hero?**\
-Find **NPC Laura** and begin your journey now! 💫
+Now, it’s time to move beyond the trial\
+and step forward as a **true hero**.
+
+With your NFT Hero,\
+dive deeper into the world of **EXTOCIUM**.
+
+👉 Go find **NPC Laura** and begin your next chapter.
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 💡 **트라이얼 영웅 → NFT 영웅 성장 데이터 이전 서비스**
+### 🔄 Transferring Trial Hero Data
 
-영웅 **NFT를 구매하셨나요?** 🎉\
-그렇다면, **트라이얼 영웅의 성장 데이터를 당신의** [**NFT**](../wallet-connection/blockchain-for-beginners.md#undefined-1) **영웅으로 이전할 수 있습니다!**
+#### 트라이얼 영웅 → NFT 영웅 성장 데이터 이전
 
-EXTOCIUM의 모든 **실제 영웅은 NFT로 생성**되며, 고유 주소를 가집니다.\
-NFT 영웅은 **소환 순간, 영웅 타입 & 스킬이 랜덤 결정**됩니다.
+영웅 NFT를 구매하셨나요? 🎉\
+그렇다면, **트라이얼 영웅으로 키운 성장 데이터를**\
+**NFT 영웅으로 이전**할 수 있습니다.
+
+EXTOCIUM의 모든 실제 영웅은 **NFT로 생성**되며, 고유한 주소를 가집니다.
 
 ***
 
-#### 🛠 **트라이얼 영웅이란?**
+### 🧪 트라이얼 영웅 데이터 이전이란?
 
-트라이얼 영웅은 **NFT를 구매하거나 영웅을 소환하기 전에 체험할 수 있는 시스템**입니다.
+트라이얼 영웅으로 플레이하며 쌓은\
+**성장 데이터 일부를 NFT 영웅에게 이전**할 수 있는 서비스입니다.
 
-✅ 원하는 스킬 덱을 직접 구성 가능\
-❌ 거래 불가, 채굴 세팅 등록 불가 🥲
+※ 트라이얼 영웅에 대한 자세한 설명은\
+👉 **\[**[**Trial Hero**](trial-hero.md#trial-hero)**]** 를 참고해 주세요.
 
-{% hint style="info" %}
-**❓**[**EXTOCIUM을 본격적으로 즐기고 싶으시다면, 마켓에서 영웅 NFT를 구매해보세요!**](../../economy/trade/market/trading-nfts/#undefined-1)
+{% hint style="warning" %}
+### 이전하기 전 꼭 알아두세요
+
+* 이 서비스는 **계정당 1회만 제공**됩니다.
+* **영웅 타입과 스킬 종류는 이전되지 않습니다.**
+* 성장 수치만 NFT 영웅으로 이전됩니다.
 {% endhint %}
 
 ***
 
-#### 🔄 **성장 데이터 이전 방법**
+### 🧭 성장 데이터 이전 방법
 
-당신이 **NFT 영웅을 구매했을 때를 대비해**, 키우던 트라이얼 영웅의 성장 정보를 **새로운 NFT 영웅으로 이전할 수 있는 서비스를 준비했습니다!**
+#### ① NPC 로라 찾기
+
+👉 **로튼힐 중앙**에 있는 NPC ‘로라’에게 말을 겁니다.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-👉 **로튼힐 중앙에 있는 'NPC 로라'에게 대화를 요청하세요.**
+***
+
+#### ② 서비스 안내 확인
+
+💬 로라는 성장 데이터 이전 서비스에 대한 간단한 안내를 제공합니다.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-💬 로라가 성장 데이터 이전 서비스에 대한 간단한 안내를 제공합니다.
+***
 
-{% hint style="info" %}
-❗ **이전 서비스는 계정당 1회만 제공**되며,\
-❗ **영웅 타입 & 스킬 종류는 이전되지 않습니다.**
-{% endhint %}
+#### ③ 타겟 NFT 영웅 선택
+
+👉 **‘타겟 NFT 선택’ 패널**에서\
+성장 데이터를 이전할 **NFT 영웅을 선택**합니다.
+
+📊 선택 후,\
+이전이 완료되었을 때의 **예상 결과를 미리 확인**할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-👉 **‘타겟 NFT 선택’ 패널에서 데이터를 이전할 영웅 NFT를 선택하세요.**
+***
 
-📊 트라이얼 영웅에서 해당 NFT 영웅으로 **이전 후 예상 결과를 시뮬레이션**할 수 있습니다.
+#### ④ 이전 진행
+
+**👇 ‘이전하기’ 버튼**을 누르면 최종 확인 팝업이 표시됩니다.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**👇** 승인을 완료하면 성장 데이터 이전이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-👉 **‘이전하기’ 버튼을 터치하면 최종 확인 팝업이 출력됩니다.**\
-✅ 최종 승인을 하면 **정보 이전 완료!**\
-🚨 이후 **'NPC 로라'는 맵에서 사라집니다.**
+***
 
-💡 **NFT 영웅으로 강력하게 성장할 준비가 되셨나요?**\
-지금 **NPC 로라를 찾아가세요!** 💫
+### 🌟
+
+이제 트라이얼을 넘어,\
+**진짜 영웅으로 성장할 준비가 되었습니다.**
+
+NFT 영웅과 함께\
+EXTOCIUM의 세계를 더 깊이 탐험해 보세요.
+
+지금,\
+**NPC 로라를 찾아가 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**トライアル英雄 → NFT英雄 成長データ移行サービス**
+### 🔄 トライアルヒーロー成長データ移行
 
-**NFT英雄を購入しましたか？** 🎉\
-それなら、**トライアル英雄の成長データを**[**NFT**](../wallet-connection/blockchain-for-beginners.md#ri-ben-yu)**英雄に移行できます！**\
-EXTOCIUMの**全てのNFT英雄はユニークなアドレス**を持ち、\
-召喚時に**英雄のタイプ＆スキルがランダムに決定**されます。
+#### トライアルヒーロー → NFTヒーロー 成長データ移行
+
+**ヒーローNFTを購入しましたか？** 🎉\
+それなら、トライアルヒーローで育てた\
+**成長データをNFTヒーローへ移行**することができます。
+
+EXTOCIUMにおけるすべての正式なヒーローは\
+**NFTとして生成**され、それぞれ固有のアドレスを持っています。
 
 ***
 
-#### 🛠 **トライアル英雄とは？**
+### 🧪 トライアルヒーロー成長データ移行とは？
 
-トライアル英雄は、**NFT英雄を購入または召喚する前に試せるシステム**です。
+トライアルヒーローとしてプレイする中で蓄積した\
+**一部の成長データ**を、\
+NFTヒーローへ移行できるサービスです。
 
-✅ **スキルデッキを自由にカスタマイズ可能**\
-❌ **取引不可＆マイニング設定不可** 🥲
+※ トライアルヒーローの詳細については、\
+👉 **\[**[**Trial Hero**](trial-hero.md#toraiaruhr-gaido)**]** をご確認ください。
 
-{% hint style="info" %}
-❓[EXTOCIUMを存分に楽しみたい場合は、マーケットでヒーローNFTを購入してみてください！](../../economy/trade/market/trading-nfts/#ri-ben-yu)
+{% hint style="warning" %}
+### 移行前に必ずご確認ください
+
+* 本サービスは **アカウントごとに1回のみ** 利用可能です。
+* **ヒーロータイプおよびスキル種類は移行されません**。
+* **成長数値のみ** がNFTヒーローへ移行されます。
 {% endhint %}
 
 ***
 
-#### 🔄 **成長データ移行方法**
+### 🧭 成長データ移行の手順
 
-NFT英雄を購入した際、**育てたトライアル英雄の成長データを新しいNFT英雄に移行できるサービスを用意しました！**
+#### ① NPCローラを探す
+
+👉 **ロッテンヒル中央**にいるNPC **「ローラ」** のもとへ移動します。
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-👉 **ロッテンヒル中央にいる「NPCローラ」に話しかけてください。**
+***
+
+#### ② サービス案内の確認
+
+💬 ローラが成長データ移行サービスについて 簡単な説明を行います。
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-💬 **ローラが移行サービスについて簡単に説明します。**
+***
 
-{% hint style="info" %}
-❗ **このサービスはアカウントごとに1回のみ利用可能です。**\
-❗ **英雄のタイプ＆スキルは移行されません。**
-{% endhint %}
+#### ③ 対象NFTヒーローの選択
+
+👉 **「対象NFT選択」** パネルから、\
+成長データを移行するNFTヒーローを選択します。
+
+📊 選択後、\
+移行完了時の **予想結果を事前に確認**できます。
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-👉 **「ターゲットNFT選択」パネルで移行先のNFT英雄を選択してください。**
+***
 
-📊 **移行後の結果をシミュレーション可能です。**
+#### ④ 移行の実行
+
+**👇 「移行する」** ボタンを押すと、最終確認ポップアップが表示されます。
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**👇** 承認を完了すると、成長データ移行が完了します。
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-�&#xDC49;**「転送」**&#x30DC;タンをタップすると、最終確認ポップアップが表示されます。
+***
 
-✅ **最終承認すると移行完了！**\
-🚨 **移行後、「NPCローラ」はマップから消えます。**
+### 🌟
 
-💡 **NFT英雄をさらに強化する準備はできましたか？**\
-今すぐ**NPCローラ**を訪ねましょう！ 💫
+さあ、トライアルを超えて、\
+**本物のヒーローとして成長する準備**は整いました。
+
+NFTヒーローと共に、\
+EXTOCIUMの世界をさらに深く探索してみてください。
+
+👉 今すぐ **NPCローラ** を探しに行きましょう。
 {% endtab %}
 {% endtabs %}
 
