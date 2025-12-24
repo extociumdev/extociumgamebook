@@ -58,7 +58,7 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 
 **🍀레시피 드랍 정보 :**
 
-<table><thead><tr><th width="153">Monster</th><th width="136">Drop1</th><th width="170">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>수줍은 돼지</td><td>치즈 레시피</td><td>샐러드 레시피</td><td>접착제 레시피</td></tr><tr><td>폭주 돼지</td><td>치즈 레시피</td><td>오렌지 주스 레시피</td><td>접착제 레시피</td></tr><tr><td>바이슨</td><td>버터 레시피</td><td>견과류 요거트 레시피</td><td>접착제 레시피</td></tr><tr><td>이구아나</td><td>버터 레시피</td><td>팬케이크 레시피</td><td>-</td></tr><tr><td>수줍은 멧돼지</td><td>팬케이크 레시피</td><td>사과 스테이크 레시피</td><td>철 고리 레시피</td></tr><tr><td>슬라임</td><td>모듬꼬치 레시피</td><td>매직 젤리 레시피</td><td>정령의 목걸이 제작서</td></tr><tr><td>거대 폭주 돼지</td><td>치즈 레시피</td><td>오렌지 주스 레시피</td><td>-</td></tr><tr><td>거대 슬라임</td><td>모듬꼬치 레시피</td><td>매직 젤리 레시피</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="153">Monster</th><th width="136">Drop1</th><th width="170">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>수줍은 돼지</td><td>치즈 레시피</td><td>샐러드 레시피</td><td>접착제 레시피</td></tr><tr><td>폭주 돼지</td><td>치즈 레시피</td><td>오렌지 주스 레시피</td><td>접착제 레시피</td></tr><tr><td>바이슨</td><td>버터 레시피</td><td>견과류 요거트 레시피</td><td>접착제 레시피</td></tr><tr><td>이구아나</td><td>버터 레시피</td><td>팬케이크 레시피</td><td>-</td></tr><tr><td>수줍은 멧돼지</td><td>팬케이크 레시피</td><td>사과 스테이크 레시피</td><td>철 고리 레시피</td></tr><tr><td>슬라임</td><td>모듬꼬치 레시피</td><td>매직 젤리 레시피</td><td>정령의 목걸이 제작서</td></tr><tr><td>거대 폭주 돼지</td><td>치즈 레시피</td><td>오렌지 주스 레시피</td><td>-</td></tr><tr><td>거대 슬라임</td><td>모듬꼬치 레시피</td><td>매직 젤리 레시피</td><td>-</td></tr><tr><td>황금 슬라임</td><td>-</td><td>샐러드 레시피</td><td>접착제 레시피</td></tr><tr><td>황금 거대 슬라임</td><td>-</td><td>매직 젤리 레시피</td><td>-</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="日本語" %}
