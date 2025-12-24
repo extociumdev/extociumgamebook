@@ -53,7 +53,7 @@ The rental rules are as follows:
 
 📌 **Step 1:** Open the **"Dashboard"** from the **Main HUD**.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="241"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="241"><figcaption></figcaption></figure>
 
 📌 **Step 2:** Click the **"SHOP"** button at the top left of the **Dashboard**.
 
@@ -178,7 +178,7 @@ NFT 영웅을 소유하지 않은 유저도 **영웅을 대여하여 게임을 �
 
 📌 1단계: 메인 HUD에서 "대시보드"로 진입하세요.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="241"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="241"><figcaption></figcaption></figure>
 
 📌 2단계: 대시보드 좌측 상단의 "SHOP(상점)" 버튼을 클릭하세요.
 
@@ -302,7 +302,7 @@ NFTヒーローを所有していないプレイヤーでも、**ヒーローを
 
 📌 **ステップ1:** **メインHUD** から **「ダッシュボード」** を開きます。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="241"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="241"><figcaption></figcaption></figure>
 
 📌 **ステップ2:** **ダッシュボード左上の「SHOP」ボタン** をクリックします。
 

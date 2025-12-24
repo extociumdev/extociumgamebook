@@ -60,7 +60,7 @@ When the Swap screen opens, you’ll see two fields.
 
 * Select **XTO** as the token you want to receive.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -223,7 +223,7 @@ Swap 화면이 열리면 두 개의 항목이 보입니다.
 
 * 스왑하고 싶은 토큰으로 **XTO**를 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -382,7 +382,7 @@ Swap画面では、2つの項目が表示されます。
 
 * 受け取りトークンとして **XTO** を選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
