@@ -52,7 +52,7 @@ to an NFT Hero.
 
 💬 Laura will provide a brief explanation of the growth data transfer service.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -64,7 +64,7 @@ choose the **NFT Hero** that will receive the growth data.
 📊 After selection,\
 you can preview the **expected results after the transfer**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -72,11 +72,11 @@ you can preview the **expected results after the transfer**.
 
 **👇** Click the **“Transfer”** button to open the final confirmation popup.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **👇** Once you approve, the growth data transfer will be completed.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -136,7 +136,7 @@ EXTOCIUM의 모든 실제 영웅은 **NFT로 생성**되며, 고유한 주소를
 
 💬 로라는 성장 데이터 이전 서비스에 대한 간단한 안내를 제공합니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -148,7 +148,7 @@ EXTOCIUM의 모든 실제 영웅은 **NFT로 생성**되며, 고유한 주소를
 📊 선택 후,\
 이전이 완료되었을 때의 **예상 결과를 미리 확인**할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -156,11 +156,11 @@ EXTOCIUM의 모든 실제 영웅은 **NFT로 생성**되며, 고유한 주소를
 
 **👇 ‘이전하기’ 버튼**을 누르면 최종 확인 팝업이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **👇** 승인을 완료하면 성장 데이터 이전이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -223,7 +223,7 @@ NFTヒーローへ移行できるサービスです。
 
 💬 ローラが成長データ移行サービスについて 簡単な説明を行います。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -235,7 +235,7 @@ NFTヒーローへ移行できるサービスです。
 📊 選択後、\
 移行完了時の **予想結果を事前に確認**できます。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -243,11 +243,11 @@ NFTヒーローへ移行できるサービスです。
 
 **👇 「移行する」** ボタンを押すと、最終確認ポップアップが表示されます。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **👇** 承認を完了すると、成長データ移行が完了します。
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

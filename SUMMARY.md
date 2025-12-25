@@ -33,8 +33,8 @@
   * [👻 Transferring Trial Hero Data](beginners-guide/rookie-lock-system/transferring-trial-hero-data.md)
 * [🕹️ Gameplay Guide](beginners-guide/gameplay-guide/README.md)
   * [🏹 Battle](beginners-guide/gameplay-guide/battle.md)
-  * [⚒️ Crafting](beginners-guide/gameplay-guide/crafting.md)
   * [🏋️ Training](beginners-guide/gameplay-guide/training.md)
+  * [⚒️ Crafting](beginners-guide/gameplay-guide/crafting.md)
   * [🍎 Collecting](beginners-guide/gameplay-guide/collecting.md)
 
 ## 😎 Growth

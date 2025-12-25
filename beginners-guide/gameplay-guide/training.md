@@ -4,146 +4,325 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🏋️ Training
 
+<figure><img src="../../.gitbook/assets/Icon_TP.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
-💡 **Learn recipes and gathering skills through 'Training' and become stronger!**
+## 🧠 Training Guide
 
-Do you need crafting and gathering recipes to enjoy EXTOCIUM? Then, try 'Training'! TP may also be required to unlock certain content or meet trade conditions.
+**Training** is the system where you learn the **skills and recipes** required for crafting and gathering.
 
-❓To refine your skills, you need '**TP (Training Point)**'. TP can be probabilistically acquired by hunting monsters in the field. Pick up the blue coins that drop on the ground!
+To craft more items and access new content, training is essential.
 
-1️⃣[Accessing Training](training.md#id-1-accessing-training)\
-2️⃣[Resetting TP](training.md#id-2-resetting-tp)
+***
 
-#### 1️⃣Accessing Training
+### ✨ What Is Training?
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 134959.png" alt="" width="563"><figcaption></figcaption></figure>
+Through Training, you can unlock the following:
 
-👉First, touch the dashboard button on the top left of the main HUD.
+* Crafting recipe unlocks
+* Gathering recipe unlocks
+* Unlocks for certain content and trade conditions
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Training requires **TP (Training Points)**.
 
-👉Touch the 'Training' button on the left menu bar of the dashboard screen.
+***
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+### 🔵 What Is TP (Training Point)?
 
-👉The Training widget has appeared! There are a total of 9 learning items visible.
+TP is the point currency used to learn skills.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+#### #How to Obtain TP
 
-👉Touch each item to see what skills can be acquired and how much TP is required.
+* TP can be obtained **randomly** while hunting field monsters.
+* After defeating a monster, collect the **blue coin** dropped on the ground to receive TP.
 
-Pay TP for the learning item you want to acquire the skills!
+***
 
-#### 2️⃣Resetting TP
+### 1️⃣ How to Access Training
 
-Want to reset your TP history because you learned the skill route incorrectly? Then try purchasing the **'Book of Oblivion'** sold in the '[Shop](../../economy/shop/xto-shop.md#eng)'!
+You can access Training by following these steps:
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+1️⃣ Tap the **Dashboard** button at the top-left of the main HUD.
 
-👉Touch the 'Reset' button at the top left of the Training widget.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-👉If you possess the **'Book of Oblivion'** item on this screen, TP reset is possible.
 
-{% hint style="info" %}
-❓The 'Returned TP' information is the total amount of TP accumulated in my account.
-{% endhint %}
+2️⃣ Select **Training** from the left-side menu.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* Once the Training screen opens, **9 learning categories** will be displayed.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 📘 Learning Skills
+
+Tap any learning category to view:
+
+* Skills or recipes that can be obtained
+* Required TP amount
+
+Spend TP on the desired category to **immediately learn** the skill.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 2️⃣ TP Reset Guide
+
+If you selected the wrong training path or want to learn in a different direction,\
+you can **reset your TP**.
+
+***
+
+#### 📕 How to Reset TP
+
+To reset TP, you’ll need an item sold in the [shop](../../economy/shop/#eng) called **“Book of Oblivion.”**
+
+1️⃣ Tap the **Reset** button at the top-left of the Training screen.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+2️⃣ If you have the **Book of Oblivion**, TP reset will be available.
+
+***
+
+#### ℹ️ Returned TP Information
+
+The **“Return TP”** shown during reset represents the\
+**total accumulated TP** for that account.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 🎯 Training Key Summary
+
+* Training is the foundation of **crafting and gathering**
+* TP is obtained by **hunting monsters**
+* Skills are learned **instantly** by spending TP
+* TP can be reset using the **Book of Oblivion**
 {% endtab %}
 
 {% tab title="한국어" %}
-�&#xDCA1;**'기술 연마'를 통해 레시피와 채집기술을 익히고 더 강해지세요!**
+## 🧠 기술 연마 안내
 
-EXTOCIUM을 즐기기 위해 필요한 제작 레시피, 채집 레시피가 필요하신가요? 그렇다면 ‘기술 연마’에 도전해보세요! TP는 일부 컨텐츠 락을 해제하거나, 거래 조건을 달성하는 경우에도 필요할 수 있습니다.
+**기술 연마(Training)**&#xB294;\
+제작과 채집에 필요한 **기술과 레시피를 배우는 시스템**입니다.
 
-❓기술을 연마하기 위해선 ‘**TP (Traning Point)**’가 필요합니다. TP는 필드에 있는 몬스터를 사냥하면 확률적으로 획득이 가능합니다. 바닥에 떨어지는 파란색 동전을 얻으세요!
+더 많은 아이템을 제작하고, 새로운 콘텐츠를 이용하려면 기술 연마가 필요합니다.
 
-[1️⃣기술 연마 접근하기](training.md#id-1)\
-[2️⃣TP 초기화 하기](training.md#id-2-tp)
+***
 
-#### 1️⃣기술 연마 접근하기
+### ✨ 기술 연마란?
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 134959.png" alt="" width="563"><figcaption></figcaption></figure>
+기술 연마를 통해 다음과 같은 능력을 획득할 수 있습니다.
 
-👉먼저, 메인 HUD의 좌측 상단에 대시보드 버튼을 터치하세요.
+* 제작 레시피 해금
+* 채집 레시피 해금
+* 일부 콘텐츠 및 거래 조건 해금 등
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+기술 연마에는 **TP (Training Point)**&#xAC00; 필요합니다.
 
-👉대시보드 화면 좌측 메뉴바에서 '기술 연마' 버튼을 터치하세요.
+***
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+### 🔵 TP (Training Point)란?
 
-👉기술 연마 위젯이 등장했군요! 총 9개의 학습 항목이 보입니다.
+TP는 기술을 배우는 데 사용하는 포인트입니다.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+#### #TP 획득 방법
 
-👉각 항목을 터치하면, 어떤 기술을 획득할 수 있고, 얼마의 TP가 필요한지 기록되어 있습니다.
+* 필드 몬스터 사냥 시 **확률적으로 TP를 획득**할 수 있습니다.
+* 몬스터 처치 후 **바닥에 떨어진 파란색 동전**을 획득하면 TP가 지급됩니다.
 
-내가 원하는 학습 항목에 TP를 지불하여 기술을 획득해보세요!
+***
 
-#### 2️⃣TP 초기화 하기
+### 1️⃣ 기술 연마 접근 방법
 
-기술 루트를 잘못 익혀 TP내역을 초기화 하고 싶으신가요? \
-그렇다면 '[상점](../../economy/shop/xto-shop.md#undefined-1)'에서 판매하는 **'망각의 서'**&#xB97C; 구매해보세요!&#x20;
+기술 연마는 다음 순서로 접근할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+1️⃣ **메인 HUD 좌측 상단의 대시보드 버튼을 터치합니다.**
 
-👉기술 연마 위젯의 좌측 상단에 '초기화' 버튼을 터치해보세요.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-👉이 화면에서 **'망각의 서'** 아이템을 지니고 있다면 TP 초기화가 가능합니다.&#x20;
 
-{% hint style="info" %}
-❓'반환되는 TP' 정보는 나의 계정에 누적된 총 TP의 양 입니다.
-{% endhint %}
+2️⃣ **좌측 메뉴에서 ‘기술 연마’를 선택합니다.**
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* 기술 연마 화면이 열리면 **총 9개의 학습 항목**이 표시됩니다.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 📘 기술 배우기
+
+각 학습 항목을 터치하면 다음 정보를 확인할 수 있습니다.
+
+* 획득 가능한 기술 또는 레시피
+* 필요한 TP 수량
+
+원하는 항목에 TP를 사용하면 즉시 해당 기술을 획득할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 2️⃣ TP 초기화 안내
+
+기술 연마를 잘못 선택했거나 다른 방향으로 다시 배우고 싶은 경우\
+**TP 초기화**가 가능합니다.
+
+***
+
+#### 📕 TP 초기화 방법
+
+TP 초기화를 위해서는\
+[상점](../../economy/shop/#undefined-1)에서 판매하는 ‘**망각의 서**’가 필요합니다.
+
+1️⃣ 기술 연마 화면 좌측 상단의 **‘초기화’ 버튼**을 터치합니다.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+2️⃣ ‘망각의 서’를 보유한 상태라면 TP 초기화가 가능합니다.
+
+***
+
+#### ℹ️ 반환되는 TP 안내
+
+초기화 시 표시되는 ‘반환되는 TP’는 **해당 계정에** **누적된** **총 TP 수량**을 의미합니다.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 🎯 기술 연마 핵심 요약
+
+* 기술 연마는 제작과 채집의 기본입니다.
+* TP는 몬스터 사냥으로 획득합니다.
+* 기술은 TP를 사용해 즉시 습득할 수 있습니다.
+* ‘망각의 서’를 사용하면 TP 초기화가 가능합니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-�&#xDCA1;**「トレーニング」を通じてレシピや採取技術を学び、もっと強くなりましょう！**
+## 🧠 技術研磨ガイド
 
-EXTOCIUMを楽しむための製作レシピや採取レシピが必要ですか？ それなら「トレーニング」に挑戦してみてください！ TPは一部のコンテンツのロックを解除する場合や、取引条件を満たす際にも必要になることがあります。
+**技術研磨（Training）は、**\
+**制作や採集に必要な技術やレシピ**を学ぶためのシステムです。
 
-❓技術を磨くために&#x306F;**「TP (Training Point)」**&#x304C;必要です。 TPはフィールドにいるモンスターを狩ることで確率的に獲得できます。地面に落ちる青いコインを拾いましょう！
+より多くのアイテムを制作し、新しいコンテンツを利用するためには、\
+技術研磨が欠かせません。
 
-[1️⃣トレーニングへのアクセス](training.md#id-1torninguhenoakusesu)\
-[2️⃣TPのリセット](training.md#id-2tpnorisetto)
+***
 
-#### 1️⃣トレーニングへのアクセス
+### ✨ 技術研磨とは？
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 134959.png" alt="" width="563"><figcaption></figcaption></figure>
+技術研磨を通じて、以下の能力を獲得できます。
 
-👉まず、メインHUDの左上にあるダッシュボードボタンをタッチしてください。
+* 制作レシピの解放
+* 採集レシピの解放
+* 一部コンテンツおよび取引条件の解放 など
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+技術研磨には、**TP（Training Point）**&#x304C;必要です。
 
-👉ダッシュボード画面の左メニューバーから「トレーニング」ボタンをタッチしてください。
+***
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+### 🔵 TP（Training Point）とは？
 
-👉トレーニングウィジェットが表示されました！ 合計9つの学習項目が見えます。
+TPは、技術を習得するために使用するポイントです。
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+#### #TPの入手方法
 
-👉各項目をタッチすると、どの技術を習得できるか、どれだけのTPが必要かが記録されています。&#x20;
+* フィールドモンスター討伐時、**確率でTPを獲得**できます。
+* モンスター撃破後、地面に落ちた**青色のコイン**を拾うとTPが付与されます。
 
-求める学習項目にTPを支払って技術を習得しましょう！
+***
 
-#### 2️⃣TPのリセット
+### 1️⃣ 技術研磨へのアクセス方法
 
-技術ルートを間違って覚えてしまい、TP履歴をリセットしたいですか？ それなら「[ショップ](../../economy/shop/xto-shop.md#ri-ben-yu)」で販売されてい&#x308B;**「忘却の書」**&#x3092;購入してみてください！
+技術研磨は、以下の手順で利用できます。
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+1️⃣ メインHUD左上の**ダッシュボード**ボタンをタップします。
 
-👉トレーニングウィジェットの左上にある「リセット」ボタンをタッチしてください。
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-👉この画面&#x3067;**「忘却の書」**&#x30A2;イテムを持っていれば、TPリセットが可能です。
 
-{% hint style="info" %}
-❓「戻るTP」情報は、私のアカウントに蓄積されたTPの総量です。
-{% endhint %}
+2️⃣ **左側メニューから「技術研磨」を選択します。**
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* 技術研磨画面が開くと、**合計9つの学習項目**が表示されます。
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 📘 技術を学ぶ
+
+各学習項目をタップすると、以下の情報を確認できます。
+
+* 習得可能な技術またはレシピ
+* 必要なTP数
+
+習得したい項目にTPを使用すると、**即座に該当の技術を習得**できます。
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 2️⃣ TP初期化のご案内
+
+技術研磨を誤って選択した場合や、\
+別の方向で学び直したい場合は、**TPの初期化**が可能です。
+
+***
+
+#### 📕 TP初期化の方法
+
+TPを初期化するには、\
+[ショップ](../../economy/shop/#ri-ben-yu)で販売されている\*\*「忘却の書」\*\*が必要です。
+
+1️⃣ 技術研磨画面左上&#x306E;**「初期化」**&#x30DC;タンをタップします。
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+2️⃣ **「忘却の書」**&#x3092;所持している状態で、TPの初期化が可能になります。
+
+***
+
+#### ℹ️ 返還されるTPについて
+
+初期化時に表示され&#x308B;**「返還されるTP」は、**\
+**そのアカウントで**累計獲得したTPの総量を示しています。
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 🎯 技術研磨の重要ポイント
+
+* 技術研磨は**制作・採集の基礎**です
+* TPは**モンスター討伐**で獲得できます
+* 技術はTPを使って**即時習得**できます
+* **「忘却の書」**&#x3092;使用するとTPを初期化できます
 {% endtab %}
 {% endtabs %}
