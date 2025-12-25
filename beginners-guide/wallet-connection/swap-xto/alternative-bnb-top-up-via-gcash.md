@@ -8,7 +8,7 @@ BNB Top-Up Method Using G-Cash
 {% tab title="ENG" %}
 ### 💳 BNB Top-Up Method Using GCash (GCrypto)
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p><a href="https://gcash.com/">https://gcash.com/</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p><a href="https://gcash.com/">https://gcash.com/</a></p></figcaption></figure>
 
 This guide explains how to **purchase BNB using the GCrypto feature in the GCash app**\
 and **send it to your personal wallet (MetaMask / Trust Wallet)**.
@@ -73,11 +73,11 @@ Just remember this order:
 2️⃣ Go to **GInvest → GCrypto**\
 3️⃣ On the GCrypto screen, select **Top Up**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 4️⃣ Enter the amount → **Continue** → **Pay**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
 
 Once completed,\
 your **GCrypto Trading Wallet balance** will be updated.
@@ -91,7 +91,7 @@ your **GCrypto Trading Wallet balance** will be updated.
 3️⃣ Enter the amount or quantity\
 4️⃣ Tap **Buy** to complete the purchase
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="258"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="258"><figcaption></figcaption></figure>
 
 The purchased BNB will be stored in your **GCrypto Trading Wallet**.
 
@@ -108,17 +108,17 @@ The purchased BNB will be stored in your **GCrypto Trading Wallet**.
 
 
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 3️⃣ Review the details and agree to the\
 &#xNAN;**“irreversible transaction”** notice, then tap **Send**
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
 
 4️⃣ Enter the **OTP verification code** sent to your email\
 → The transfer will proceed
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 
 ***
 
@@ -147,7 +147,7 @@ your **GCash → Wallet BNB top-up** is complete and safe.
 {% tab title="한국어" %}
 ### 💳 BNB Top-Up Method Using GCash (GCrypto)
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p><a href="https://gcash.com/">https://gcash.com/</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p><a href="https://gcash.com/">https://gcash.com/</a></p></figcaption></figure>
 
 이 가이드는\
 **GCash 앱의 GCrypto 기능을 사용해 BNB를 구매하고,**\
@@ -216,11 +216,11 @@ GCrypto에서 코인을 **지갑으로 전송(Send)** 할 때는\
 2️⃣ **GInvest → GCrypto** 선택\
 3️⃣ GCrypto 화면에서 **Top Up** 선택
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 4️⃣ 충전할 금액 입력 → **Continue → Pay**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
 
 충전이 완료되면\
 GCrypto Trading Wallet 잔액이 업데이트됩니다.
@@ -234,7 +234,7 @@ GCrypto Trading Wallet 잔액이 업데이트됩니다.
 3️⃣ 구매할 금액 또는 수량 입력\
 4️⃣ **Buy** 버튼으로 구매 완료
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="258"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="258"><figcaption></figcaption></figure>
 
 구매한 BNB는\
 GCrypto Trading Wallet 안에 보관됩니다.
@@ -250,17 +250,17 @@ GCrypto Trading Wallet 안에 보관됩니다.
 * 받는 지갑 주소
 * 네트워크 (BNB Smart Chain)
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 3️⃣ 전송 정보 확인 후\
 “되돌릴 수 없음” 안내에 동의하고 **Send**
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
 
 4️⃣ 이메일로 전송되는 **인증 코드(OTP)** 입력\
 → 전송 진행
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 
 ***
 
@@ -289,7 +289,7 @@ GCash → 지갑 BNB 충전은 안전하게 완료됩니다.
 {% tab title="日本語" %}
 ### 💳 GCash（GCrypto）を使ってBNBをチャージする方法
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p><a href="https://gcash.com/">https://gcash.com/</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p><a href="https://gcash.com/">https://gcash.com/</a></p></figcaption></figure>
 
 このガイドでは、\
 **GCashアプリのGCrypto機能を使ってBNBを購入し、**\
@@ -357,11 +357,11 @@ GCryptoからウォレットへ送金（Send）する際、\
 2️⃣ **GInvest → GCrypto** を選択\
 3️⃣ GCrypto画面で **Top Up** を選択
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 4️⃣ 金額入力 → **Continue** → **Pay**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
 
 完了すると、\
 **GCrypto Trading Walletの残高**が更新されます。
@@ -375,7 +375,7 @@ GCryptoからウォレットへ送金（Send）する際、\
 3️⃣ 購入金額または数量を入力\
 4️⃣ **Buy** をタップして購入完了
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="258"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="258"><figcaption></figcaption></figure>
 
 購入したBNBは、\
 **GCrypto Trading Wallet** に保管されます。
@@ -391,17 +391,17 @@ GCryptoからウォレットへ送金（Send）する際、\
 * 受取ウォレットアドレス
 * ネットワーク：**BNB Smart Chain**
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 3️⃣ 内容を確認し、\
 &#xNAN;**「取り消し不可」** の案内に同意して **Send**
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
 
 4️⃣ メールで届く **認証コード（OTP）** を入力\
 → 送金が実行されます
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 
 ***
 

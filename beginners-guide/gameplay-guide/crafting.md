@@ -6,128 +6,352 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**The economy of EXTOCIUM is based on a crafting system.**
+## 🛠️ Item Crafting Guide
 
-To become stronger, you must craft more powerful equipment. Crafting equipment requires numerous intermediate materials. Acquire recipes through hunting, and craft materials and equipment to further upgrade your character!
+In the world of **EXTOCIUM**, growth comes from crafting your own items.\
+Stronger adventures require better gear and the best gear is crafted, not found.
 
-Shall we learn how to craft items now?
+Hunt monsters to collect **materials and recipes**,\
+craft items, and steadily power up your character step by step.
 
-<figure><img src="../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉First, touch the dashboard button on the main HUD.
+### 📱 How to Access the Crafting Menu
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Follow these steps to start crafting:
 
-👉Please touch the 'Craft' button in the left menu bar of the dashboard widget.
+1️⃣ Tap the **Dashboard** button on the main HUD.
 
-<figure><img src="../../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-👉 **There are three categories in the crafting screen.**\
-❓ In the **Equipment tab**, you can craft [**Weapons**](../../growth/equipment/weapon/#eng)**,** [**Orbs**](../../growth/equipment/orb/#eng)**, and** [**Accessories**](../../growth/equipment/accessories/#eng).\
-❓ In the **Item tab**, you can craft **Materials, Potions, and Scrolls**.
+2️⃣ Select **Crafting** from the left-side menu.
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+Once you enter the crafting screen, you’ll see a list of items you can craft.
 
-👉For items that can be crafted, the screen will show how many items can be crafted, as depicted above.
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉Touch the target panel to see more detailed information. It will display the required gold and material items for crafting, as well as the quantity to be crafted. Touch the 'Craft' button at the bottom to craft the item.
+### 📂 Crafting Categories
 
+The crafting screen includes **two main categories**:
 
+#### ⚔️ Equipment Tab
 
-<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+You can craft:
 
-👉There are two cases where crafting is not possible. \
-The first is, as shown above, where you need to learn the crafting method through '[Traning](training.md#eng)'. Earn TP through hunting to refine your crafting skills.
+* [Weapons](../../growth/equipment/weapon/#eng)
+* [Orbs](../../growth/equipment/orb/#eng)
+* [Accessories](../../growth/equipment/accessories/#eng)
 
-<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-👉The second case, as shown above, is when a 'Recipe Item' is needed. \
-Recipe items are dropped throughout the continent of Asterica. They can be dropped by monsters, or you can obtain them from '[NPC Hermaion](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)'.
+#### 🧪 Item Tab
+
+You can craft:
+
+* Material Items
+* Potions
+* Scrolls
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 🔍 Checking Craft Availability
+
+Craftable items display the **number of times they can currently be crafted**.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Tap an item panel to view:
+
+* Required Gold
+* Required Materials
+* Crafting Result and Quantity
+
+Tap the **Craft** button at the bottom to complete the item.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ❌ When Crafting Is Not Available
+
+There are **two main reasons** why crafting may not be possible:
+
+***
+
+#### 1️⃣ Insufficient Crafting Skills
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+Some items require you to **learn the '**[**Training**](training.md#eng)**' first**.
+
+* Earn **TP** by hunting monsters
+* Use TP to train crafting skills
+* Once training is complete, crafting becomes available
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 2️⃣ Recipe Item Required
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+Some items require a **recipe item** to craft.
+
+Recipes can be obtained through:
+
+* Drops from field or dungeon monsters
+* Specific locations across the Asterica Continent
+* [NPC **Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)
+
+Once you acquire the recipe, the item can be crafted.
+
+***
+
+### 🎯 Crafting Key Summary
+
+* Crafting is a **core progression system**
+* Access it via **Dashboard > Craft**
+* If crafting is unavailable, check your **skill training** or **recipe ownership**
+
+✨ Prepare well, craft smart, and your journey will feel a whole lot smoother, Wizard.
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**EXTOCIUM의 경제는 제작 시스템을 기반으로 순환합니다.**&#x20;
+## 🛠️ 아이템 제작 가이드
 
-나를 더욱 강하게 만들려면, 더 강력한 장비를 제작해야 합니다. 장비를 제작하려면 수많은 중간 단계의 재료들이 필요합니다. 사냥을 통해 레시피를 습득하고, 재료와 장비를 제작하여 나의 캐릭터를 더 업그레이드 시켜보세요!
+EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다.
 
-지금부터 아이템을 제작하는 방법을 알아볼까요?
+더 강해지기 위해서는 더 좋은 장비가 필요합니다.\
+그리고 장비는 **제작**으로 얻을 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+사냥을 통해 재료와 레시피를 모으고,\
+아이템을 제작하여 캐릭터를 단계적으로 강화해 보세요.
 
-👉우선 메인 HUD의 대시보트 버튼을 터치합니다.
+***
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### 📱 제작 메뉴로 이동하기
 
-👉대시보드 위젯의 좌측 메뉴바에서 '제작' 버튼을 터치해주세요.
+아이템 제작은 다음 순서로 진행할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
+1️⃣ **메인 HUD에서 대시보드 버튼을 터치합니다.**
 
-👉 제작 화면에는 3개의 카테고리가 존재합니다.\
-❓ 장비 탭에서는 '[**무기**](../../growth/equipment/weapon/#undefined-1)', '[**오브**](../../growth/equipment/orb/#undefined-1)', '[**악세서리**](../../growth/equipment/accessories/#undefined-1)' 제작이 가능합니다.\
-❓ 아이템 탭에서는 '**재료**', '**포션**', '**주문서**' 제작이 가능합니다.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+2️⃣ **대시보드 좌측 메뉴에서 ‘제작’을 선택합니다.**
 
-👉제작이 가능한 아이템의 경우, 위 화면처럼 몇 개의 아이템 제작이 가능한지 표시됩니다.
+제작 화면으로 이동하면 제작 가능한 아이템 목록이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-👉대상 패널을 터치하여 더 자세한 정보를 확인할 수 있습니다. 제작에 필요한 골드 및 재료아이템, 제작 수량 등이 표시됩니다. 하단에 '제작' 버튼을 터치하면 아이템을 제작할 수 있습니다.
+***
 
+### 📂 제작 카테고리 안내
 
+제작 화면에는 다음 **2가지 카테고리**가 존재합니다.
 
-<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+#### ⚔️ 장비 탭
 
-👉제작이 불가능한 경우는 두 가지가 있습니다. \
-첫 번째로는 위 화면 처럼, '[기술 연마](training.md#undefined-1)'를 통해 제작법을 익혀야 하는 경우입니다. 사냥을 통해 TP를 획득하여 제작 기술을 연마해보세요.
+다음 아이템을 제작할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+* [무기](../../growth/equipment/weapon/#undefined-1)
+* [오브](../../growth/equipment/orb/#undefined-1)
+* [악세서리](../../growth/equipment/accessories/#undefined-1)
 
-👉두 번째 경우는 위 화면 처럼, '레시피 아이템'이 필요한 경우입니다. \
-레시피 아이템은 아스테리카 대륙 곳곳에서 드랍됩니다. 몬스터에게 드랍되는 경우도 있고, '[NPC 헤르마이온](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)'에게서 획득할 수 있는 경우도 있습니다.
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### 🧪 아이템 탭
+
+다음 아이템을 제작할 수 있습니다.
+
+* 재료 아이템
+* 포션
+* 주문서
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 🔍 제작 가능 여부 확인
+
+제작이 가능한 아이템은 **현재 제작 가능한 개수**가 함께 표시됩니다.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+아이템 패널을 터치하면 아래 정보를 확인할 수 있습니다.
+
+* 필요한 골드
+* 필요한 재료 아이템
+* 제작 결과 및 수량
+
+하단의 **‘제작’ 버튼**을 터치하면 아이템 제작이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ❌ 제작이 불가능한 경우
+
+아이템 제작이 불가능한 경우는 다음 **두 가지**가 있습니다.
+
+***
+
+#### 1️⃣ 제작 기술이 부족한 경우
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+일부 아이템은 [**기술 연마**](training.md#id-1)를 통해 제작법을 먼저 익혀야 합니다.
+
+* 사냥을 통해 **TP**를 획득합니다.
+* TP를 사용하여 **제작 기술을 연마**합니다.
+* 기술 연마 완료 후 제작이 가능합니다.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 2️⃣ 레시피 아이템이 필요한 경우
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+일부 아이템은 **레시피 아이템**이 있어야 제작할 수 있습니다.\
+레시피 아이템은 다음 방법으로 획득할 수 있습니다.
+
+* 필드 및 던전 몬스터 드랍
+* 아스테리카 대륙 내 특정 지역 획득
+* [**NPC 헤르마이온**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)을 통해 획득
+
+레시피를 획득한 후 해당 아이템 제작이 가능합니다.
+
+***
+
+### 🎯 제작 핵심 요약
+
+* 제작은 성장의 핵심 시스템입니다.
+* 제작 메뉴는 **대시보드 > 제작**에서 이용합니다.
+* 제작이 안 될 경우 **기술 연마 또는 레시피 보유 여부**를 확인하십시오.
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**EXTOCIUMの経済は製作システムを基盤として回っています。**
+## 🛠️ アイテム制作ガイド
 
-もっと強くなるには、より強力な装備を製作する必要があります。装備を製作するには、多くの中間材料が必要です。狩りを通じてレシピを習得し、材料と装備を製作してキャラクターをさらにアップグレードしましょう！
+**EXTOCIUMの世界**では、\
+アイテムを自ら制作することで成長していきます。
 
-さあ、アイテムの作り方を学びましょうか？
+より強くなるためには、より良い装備が必要です。\
+そして、その装備は**制作によって入手**できます。
 
-<figure><img src="../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+狩りで素材やレシピを集め、\
+アイテムを制作しながら、キャラクターを段階的に強化していきましょう。
 
-👉まず、メインHUDのダッシュボードボタンをタッチします。
+***
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### 📱 制作メニューへの移動方法
 
-👉ダッシュボードウィジェットの左側のメニューバーから「製作」ボタンをタッチしてください。
+アイテム制作は、以下の手順で行えます。
 
-<figure><img src="../../.gitbook/assets/crafting_weapon.jpg" alt=""><figcaption></figcaption></figure>
+1️⃣ メインHUDで**ダッシュボード**ボタンをタップします。
 
-👉 **クラフト画面には3つのカテゴリーが存在します。**\
-❓ **装備タブ**では、[**武器**](../../growth/equipment/weapon/#ri-ben-yu)**・**[**オーブ**](../../growth/equipment/orb/#ri-ben-yu)**・**[**アクセサリー**](../../growth/equipment/accessories/#ri-ben-yu) をクラフトできます。\
-❓ **アイテムタブ**では、**素材・ポーション・スクロール** をクラフトできます。
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+2️⃣ ダッシュボード左側のメニューか&#x3089;**「制作」**&#x3092;選択します。&#x20;
 
-👉製作可能なアイテムの場合、上の画面のように何個のアイテムを製作できるか表示されます。
+制作画面に移動すると、制作可能なアイテム一覧が表示されます。
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-👉対象パネルをタッチして、詳細情報を確認できます。製作に必要なゴールドや素材アイテム、製作数量などが表示されます。下部の「製作」ボタンをタッチするとアイテムを製作できます。
+***
 
+### 📂 制作カテゴリー案内
 
+制作画面には、**2つのカテゴリー**があります。
 
-<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+#### ⚔️ 装備タブ
 
-👉製作が不可能な場合は二つあります。最初の場合は、上の画面のように、「[技術研磨](training.md#ri-ben-yu)」を通じて製作法を学ぶ必要があります。狩りを通じてTPを獲得し、製作技術を磨きましょう。
+以下のアイテムを制作できます。
 
-<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+* [武器](../../growth/equipment/weapon/#ri-ben-yu)
+* [オーブ](../../growth/equipment/orb/#ri-ben-yu)
+* [アクセサリー](../../growth/equipment/accessories/#ri-ben-yu)
 
-👉二つ目の場合は、上の画面のように、「レシピアイテム」が必要な場合です。\
-レシピアイテムはアステリカ大陸の至る所でドロップされます。\
-モンスターからドロップされることもありますし、「[NPCヘルマイオン](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)」から入手することもできます。
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### 🧪 アイテムタブ
+
+以下のアイテムを制作できます。
+
+* 素材アイテム
+* ポーション
+* スクロール
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 🔍 制作可能かどうかの確認
+
+制作可能なアイテムには、\
+**現在制作できる回数**があわせて表示されます。
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+アイテムパネルをタップすると、以下の情報を確認できます。
+
+* 必要ゴールド
+* 必要素材アイテム
+* 制作結果および数量
+
+画面下部&#x306E;**「制作」**&#x30DC;タンをタップすると、制作が完了します。
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ❌ 制作できない場合
+
+アイテムを制作できない場合は、主に以下の**2つの原因**が考えられます。
+
+***
+
+#### 1️⃣ 制作技術が不足している場合
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+一部のアイテムは、[**技術研磨**](training.md#ri-ben-yu)によって\
+あらかじめ制作方法を習得する必要があります。
+
+* モンスター討伐で**TP**を獲得
+* TPを使用して制作技術を研磨
+* 技術研磨が完了すると、制作可能になります
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 2️⃣ レシピアイテムが必要な場合
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+一部のアイテムは、**レシピアイテム**を所持していないと制作できません。
+
+レシピアイテムは、以下の方法で入手できます。
+
+* フィールドおよびダンジョンモンスターのドロップ
+* アステリカ大陸内の特定エリアで入手
+* [NPC **ヘルマイオン**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)から入手
+
+レシピを入手後、該当アイテムの制作が可能になります。
+
+***
+
+### 🎯 制作の重要ポイント
+
+* 制作は**成長の中核となるシステム**です
+* 制作メニューは **ダッシュボード ＞ 制作** から利用できます
+* 制作できない場合は、**技術研磨**や**レシピ所持状況**を確認してください
 {% endtab %}
 {% endtabs %}
