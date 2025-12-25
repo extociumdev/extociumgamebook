@@ -21,11 +21,11 @@ and the battlefield will feel a lot more manageable.
 
 The key combat elements are:
 
-1️⃣ Movement\
-2️⃣ Skill Usage\
-3️⃣ Skill Cooldowns\
-4️⃣ Auto Combat\
-5️⃣ Quick Slots
+1️⃣ [Movement](battle.md#id-1-movement)\
+2️⃣ [Skill Usage](battle.md#id-2-skill-usage)\
+3️⃣ [Skill Cooldowns](battle.md#id-3-skill-cooldowns)\
+4️⃣ [Auto Combat](battle.md#id-4-auto-combat)\
+5️⃣ [Quick Slots](battle.md#id-5-quick-slots)
 
 ***
 
@@ -508,12 +508,11 @@ EXTOCIUM의 전장은\
 
 戦闘の主な操作要素は以下の通りです。
 
-1️⃣ 移動\
-2️⃣ スキル使用\
-3️⃣ スキルクールタイム\
-4️⃣ オート（自動戦闘）\
-5️⃣ クイックスロット[오토(자동 전투)](battle.md#id-4)\
-5️⃣ [퀵슬롯](battle.md#id-5)
+1️⃣[ 移動](battle.md#id-1-yi-dong)\
+2️⃣ [スキル使用](battle.md#id-2-sukiru)\
+3️⃣ [スキルクールタイム](battle.md#id-3-sukirukrutaimu)\
+4️⃣ [オート（自動戦闘）](battle.md#id-4-to)\
+5️⃣ [クイックスロット](battle.md#id-5-kuikkusurotto)
 
 ***
 
