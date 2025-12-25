@@ -168,6 +168,7 @@
   * [🏔️ \~Lv.10 Green field](field-info/fields-by-level/lv.10-green-field.md)
   * [🏔️ \~Lv.20 Rahan's Manor](field-info/fields-by-level/lv.20-rahans-manor/README.md)
     * [🗿 Naraka - Dungeon](field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/README.md)
+      * [🎟️ Dungeon Entry Guide](field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/dungeon-entry-guide.md)
       * [😎 NPC - Naraka](field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/npc-naraka.md)
       * [🏺 \~Lv.30 Sanjiva](field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/lv.30-sanjiva.md)
       * [🏺 \~Lv.40 Kalasutra](field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/lv.40-kalasutra.md)
