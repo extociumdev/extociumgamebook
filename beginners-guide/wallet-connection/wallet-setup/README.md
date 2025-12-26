@@ -1,3 +1,9 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 17, 2025, and
+  its contents may change with future updates.
+---
+
 # 🔢 Wallet Setup
 
 <figure><img src="../../../.gitbook/assets/Gemini_Generated_Image_vjhld9vjhld9vjhl.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -185,4 +191,4 @@ EXTOCIUMは **BNB Smart Chainネットワーク**を基盤として運営され�
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>This page was last updated on December 17, 2025.</em></sup></p>
+<p align="right"></p>

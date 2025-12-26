@@ -1,3 +1,9 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 17, 2025, and
+  its contents may change with future updates.
+---
+
 # 3️⃣ Connect Your Wallet to EXTOCIUM
 
 {% embed url="https://www.youtube.com/watch?v=10N3xyMDQNk" %}
@@ -413,4 +419,4 @@ NFT取引やウォレット承認が必要な場合は、事前に再接続す�
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>This page was last updated on December 17, 2025.</em></sup></p>
+<p align="right"></p>

@@ -1,3 +1,9 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 17, 2025, and
+  its contents may change with future updates.
+---
+
 # 1️⃣ What is a Wallet?
 
 {% tabs %}
@@ -312,4 +318,4 @@ EXTOCIUMで使用されるネットワーク\
 [add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
 
-<p align="right"><sup><em>This page was last updated on December 17, 2025.</em></sup></p>
+<p align="right"></p>

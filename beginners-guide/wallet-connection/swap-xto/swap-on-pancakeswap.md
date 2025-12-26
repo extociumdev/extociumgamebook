@@ -1,3 +1,9 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 18, 2025, and
+  its contents may change with future updates.
+---
+
 # 🥞 Swap on PancakeSwap
 
 <figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption><p>PancakeSwap</p></figcaption></figure>
@@ -439,4 +445,4 @@ XTOは **PancakeSwap** を通じて、\
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>This page was last updated on December 18, 2025.</em></sup></p>
+<p align="right"></p>

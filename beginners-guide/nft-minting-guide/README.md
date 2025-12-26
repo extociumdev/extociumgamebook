@@ -1,5 +1,7 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: >-
+  ※ This guide was written based on the game status as of December 19, 2025, and
+  its contents may change with future updates.
 ---
 
 # 🧬 NFT Minting Guide

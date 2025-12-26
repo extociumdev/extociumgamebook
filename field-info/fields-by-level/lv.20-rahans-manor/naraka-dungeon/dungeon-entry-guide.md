@@ -1,3 +1,9 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 25, 2025, and
+  its contents may change with future updates.
+---
+
 # 🎟️ Dungeon Entry Guide
 
 {% tabs %}

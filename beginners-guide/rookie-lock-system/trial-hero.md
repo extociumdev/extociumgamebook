@@ -1,5 +1,7 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: >-
+  ※ This guide was written based on the game status as of December 24, 2025, and
+  its contents may change with future updates.
 ---
 
 # 🐤 Trial Hero
@@ -270,4 +272,4 @@ EXTOCIUMの魅力を十分に体験した後は、[**マーケット**](../../ec
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>This page was last updated on December 24, 2025.</em></sup></p>
+<p align="right"></p>

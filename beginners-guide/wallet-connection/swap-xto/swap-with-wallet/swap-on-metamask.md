@@ -1,3 +1,9 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 18, 2025, and
+  its contents may change with future updates.
+---
+
 # 🦊 Swap on MetaMask
 
 {% tabs %}
@@ -430,12 +436,6 @@ MetaMaskのメイン画面に戻り、\
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-<p align="right"><sup><em>This page was last updated on December 18, 2025.</em></sup></p>
-
-
-
-
 
 {% embed url="https://youtu.be/zkynEph-HMA" %}
 

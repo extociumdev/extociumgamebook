@@ -1,5 +1,7 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: >-
+  ※ This guide was written based on the game status as of December 22, 2025, and
+  its contents may change with future updates.
 ---
 
 # 📂 Hero NFT
@@ -309,4 +311,4 @@ _※ まだウォレットを接続していない場合は、先に_ [_**Wallet
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>This page was last updated on December 22, 2025.</em></sup></p>
+<p align="right"></p>

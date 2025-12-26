@@ -1,37 +1,44 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 17, 2025, and
+  its contents may change with future updates.
+---
+
 # ➕ Import XTO Tokens
 
 {% tabs %}
 {% tab title="ENG" %}
 ### ➕ Import XTO Token
 
-Once the **BNB Smart Chain** network has been added,\
-it’s time to **import the XTO token** into your wallet.
+If you’ve already added the **BNB Smart Chain network**,\
+it’s time to **add the XTO token to your wallet**.
 
-You must add the XTO token in order to:
+After adding XTO, you’ll be able to
 
-* Check your balance
-* Swap XTO
-* Trade XTO
+* check your **XTO balance**, and
+* proceed with **swaps and transactions**.
+
+Follow the steps below to add the XTO token to the wallet you’re using.
 
 ***
 
-### 🦊 Add XTO Token in MetaMask
+### ◾ Add XTO Token in MetaMask
 
 _(Manual Import Required)_
 
-In **MetaMask**,\
-you only need to add the XTO token **once** manually.
+On MetaMask,\
+you need to **add the XTO token manually once**.
 
-Please follow the steps below.
+Please follow the steps below in order.
 
 ***
 
 #### ✅ STEP 1. Open the Add Token Screen
 
 1️⃣ Open the **MetaMask** app.\
-2️⃣ Tap the **+ button** located to the right of the network display at the top of the screen.
+2️⃣ Tap the **`+` button** located to the right of the network display at the top of the screen.
 
-<figure><img src="../../../.gitbook/assets/image (911).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (911).png" alt="" width="322"><figcaption></figcaption></figure>
 
 3️⃣ The **Add Token** screen will open.
 
@@ -59,10 +66,10 @@ Enter the following details:
   `18`
 {% endhint %}
 
-📌 Once the **Token Address** is entered,\
-the **Token Symbol** and **Token Decimal** will be filled in automatically.
+📌 _When you enter the Token Address,_ \
+_the **Token Symbol** and Token Decimal will be filled in automatically._
 
-<figure><img src="../../../.gitbook/assets/xto6.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xto6.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ***
 
@@ -82,17 +89,17 @@ the **Token Symbol** and **Token Decimal** will be filled in automatically.
 
 ***
 
-### 🛡️ Check XTO Token in Trust Wallet
+### ◾ Check XTO Token in Trust Wallet
 
 _(Provided by Default / Activation Required)_
 
 In **Trust Wallet**,\
 the XTO token is already provided by default.\
-No token address input is required.
+You do not need to enter the token address manually.
 
 ***
 
-#### ✅ STEP 1. Go to Token Management
+#### ✅ STEP 1. Open the token management screen
 
 1️⃣ Open the **Trust Wallet** app.\
 2️⃣ Go to **Manage Crypto**.
@@ -104,15 +111,15 @@ No token address input is required.
 #### ✅ STEP 2. Search and Enable XTO
 
 1️⃣ Enter **XTO** in the search bar.\
-2️⃣ Find **XTO** on the **BNB Smart Chain** network.\
+2️⃣ Find **XTO on the BNB Smart Chain network**.\
 3️⃣ Make sure **EXTOCIUM** is displayed under the token name.\
-4️⃣ Turn on the toggle to enable the token.
+4️⃣ Turn on the switch to activate the token.
 
 <figure><img src="../../../.gitbook/assets/image (916).png" alt="" width="324"><figcaption></figcaption></figure>
 
 ***
 
-#### ⚠️ Important Check
+#### ⚠️ Important
 
 * Make sure the token is **XTO on BNB Smart Chain**.
 * There may be multiple tokens with similar names,\
@@ -120,12 +127,12 @@ No token address input is required.
 
 ***
 
-#### ❓ XTO Doesn’t Appear After Enabling
+#### ❓ If XTO does not appear after activation
 
-If XTO is enabled but does not appear in the token list,\
-please check the following setting:
+If you’ve activated XTO but it doesn’t appear in your token list,\
+please check the settings below.
 
-1️⃣ Tap the **settings icon** at the top-right of the token list.
+1️⃣ Tap the **settings button** in the top-right corner of the token list.
 
 <figure><img src="../../../.gitbook/assets/image (917).png" alt="" width="350"><figcaption></figcaption></figure>
 
@@ -135,31 +142,41 @@ please check the following setting:
 
 3️⃣ If it is enabled, turn it off.
 
-📌 When this option is active, tokens with small balances may be hidden automatically.\
-Disabling it will make **XTO** visible in the list.
+{% hint style="info" %}
+Small-value tokens may be hidden when this option is enabled.\
+After turning it off, XTO should appear normally.
+{% endhint %}
 
 ***
 
-### ✅ Setup Complete
+### ◾ Completion Notice
 
-You can now:
+You can now
 
-* Check your **XTO balance** in your wallet
-* Swap XTO using **Swap with Wallet** or **PancakeSwap**
+* check your **XTO balance** in your wallet, and
+* use **Swap with Wallet** or **PancakeSwap**\
+  to swap XTO.
+
+In the next guide, we’ll explain **how to swap XTO**.
 {% endtab %}
 
 {% tab title="한국어" %}
-### ➕ Import XTO Token
+### ➕ XTO 토큰 추가하기
 
-**BNB Smart Chain 네트워크 추가가 완료되었다면,**\
-**이제 XTO 토큰을 지갑에 등록할 차례입니다.**
+BNB Smart Chain 네트워크 추가가 완료되었다면,\
+이제 **XTO 토큰을 지갑에 등록할 차례**입니다.
 
-XTO 토큰을 등록해야\
-잔액을 확인하고, 스왑과 거래를 진행할 수 있습니다.
+XTO 토큰을 등록해야
+
+* 지갑에서 **XTO 잔액을 확인할 수 있고**
+* **스왑과 거래**를 진행할 수 있습니다.
+
+아래 안내에 따라\
+사용 중인 지갑에 XTO 토큰을 추가해 주세요.
 
 ***
 
-### 🦊 MetaMask에서 XTO 토큰 추가하기
+### ◾ MetaMask에서 XTO 토큰 추가하기
 
 _(수동 등록 필요)_
 
@@ -203,10 +220,9 @@ MetaMask에서는\
   `18`
 {% endhint %}
 
-📌 **Token Address를 입력하면**\
-Token Symbol과 Token Decimal은 **자동으로 채워집니다.**
+📌 _**Token Address를 입력하면** Token Symbol과 Token Decimal은 **자동으로 입력됩니다.**_
 
-<figure><img src="../../../.gitbook/assets/xto6.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xto6.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ***
 
@@ -215,10 +231,10 @@ Token Symbol과 Token Decimal은 **자동으로 채워집니다.**
 1️⃣ **NEXT** 버튼을 터치합니다.\
 2️⃣ “XTO 토큰을 Import 하시겠습니까?”라는 안내가 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (912).png" alt="" width="322"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (912).png" alt="" width="215"><figcaption></figcaption></figure>
 
 \
-3️⃣ **IMPORT** 버튼을 선택하면 완료됩니다.
+3️⃣ **`IMPORT`** 버튼을 선택하면 완료됩니다.
 
 🎉 MetaMask 메인 화면의 토큰 목록에 **XTO가 표시되면 성공입니다.**
 
@@ -226,7 +242,7 @@ Token Symbol과 Token Decimal은 **자동으로 채워집니다.**
 
 ***
 
-### 🛡️ Trust Wallet에서 XTO 토큰 확인하기
+### ◾ Trust Wallet에서 XTO 토큰 확인하기
 
 _(자동 제공 / 활성화만 필요)_
 
@@ -259,16 +275,14 @@ Trust Wallet에서는\
 
 #### ⚠️ 꼭 확인하세요
 
-* **BNB Smart Chain의 XTO인지 반드시 확인해야 합니다.**
-* 이름이 비슷한 토큰이 여러 개 있을 수 있으니\
-  **EXTOCIUM 표기**를 꼭 확인해 주세요.
+* 반드시 **BNB Smart Chain의 XTO**인지 확인해 주세요.
+* 이름이 비슷한 토큰이 여러 개 있을 수 있으므로 **EXTOCIUM 표기 여부를 꼭 확인**해야 합니다.
 
 ***
 
 #### ❓ XTO를 활성화했는데도 보이지 않는 경우
 
-Trust Wallet에서 XTO를 활성화했는데 토큰 목록에 보이지 않는다면,\
-아래 설정을 확인해 주세요.
+XTO를 활성화했지만 토큰 목록에 표시되지 않는다면 아래 설정을 확인해 주세요.
 
 1️⃣ 토큰 목록 화면 우측 상단의 **설정 버튼**을 선택합니다.
 
@@ -280,34 +294,41 @@ Trust Wallet에서 XTO를 활성화했는데 토큰 목록에 보이지 않는�
 
 3️⃣ 해당 옵션이 체크되어 있다면, **체크를 해제**합니다.
 
-📌 이 옵션이 활성화되어 있으면 금액이 작은 토큰은 자동으로 숨겨질 수 있습니다.\
+{% hint style="info" %}
+이 옵션이 활성화되어 있으면 금액이 작은 토큰은 자동으로 숨겨질 수 있습니다.\
 체크를 해제하면 XTO 토큰이 목록에 정상적으로 표시됩니다.
+{% endhint %}
 
 ***
 
-### ✅ 완료 안내
+### ◾ 완료 안내
 
 이제 지갑에서
 
-* XTO 잔액을 확인할 수 있고
+* **XTO 잔액을 확인할 수 있으며**
 * **Swap with Wallet** 또는 **PancakeSwap**을 이용해\
-  XTO를 스왑할 수 있습니다.
+  XTO 스왑을 진행할 수 있습니다.
+
+다음 가이드에서는 **XTO 스왑 방법**을 안내해 드립니다.
 {% endtab %}
 
 {% tab title="日本語" %}
 ### ➕ XTOトークンを追加する
 
-**BNB Smart Chain** の追加が完了したら、次は **XTOトークンをウォレットに登録**します。
+BNB Smart Chainネットワークの追加が完了したら、\
+次は**XTOトークンをウォレットに登録**しましょう。
 
-XTOトークンを登録することで、以下の操作が可能になります。
+XTOトークンを登録すると、
 
-* 残高の確認
-* XTOのスワップ
-* XTOの取引
+* **XTOの残高確認**ができ、
+* **スワップや取引**を行えるようになります。
+
+以下の手順に従って、\
+使用中のウォレットにXTOトークンを追加してください。
 
 ***
 
-### 🦊 MetaMaskでXTOトークンを追加する
+### ◾ MetaMaskでXTOトークンを追加する
 
 _（手動追加が必要）_
 
@@ -338,7 +359,7 @@ XTOトークンを **一度だけ手動で追加**する必要があります。
 
 ***
 
-#### ✅ STEP 3. トークン情報を入力する
+#### ✅ STEP 3. トークン情報を入力
 
 以下の情報を入力します。
 
@@ -353,13 +374,13 @@ XTOトークンを **一度だけ手動で追加**する必要があります。
 
 📌 **Token Address** を入力すると、**Token Symbol** と **Token Decimal** は自動で入力されます。
 
-<figure><img src="../../../.gitbook/assets/xto6.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xto6.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ***
 
-#### ✅ STEP 4. トークン追加を完了する
+#### ✅ STEP 4. トークンのImport完了
 
-1️⃣ **NEXT** をタップします。\
+1️⃣ **`NEXT`** をタップします。\
 2️⃣ 「XTOトークンをインポートしますか？」という表示が出ます。
 
 <figure><img src="../../../.gitbook/assets/image (912).png" alt="" width="322"><figcaption></figcaption></figure>
@@ -373,30 +394,30 @@ XTOトークンを **一度だけ手動で追加**する必要があります。
 
 ***
 
-### 🛡️ Trust WalletでXTOトークンを確認する
+### ◾ Trust WalletでXTOトークンを確認する
 
 _（自動提供／有効化のみ必要）_
 
 **Trust Wallet** では、\
-XTOトークンは **すでに標準で提供**されています。\
-アドレスを入力する必要はありません。
+XTOトークンは**すでに標準で提供**されています。\
+トークンアドレスを入力する必要はありません。
 
 ***
 
 #### ✅ STEP 1. トークン管理画面へ移動
 
 1️⃣ **Trust Wallet** アプリを起動します。\
-2️⃣ **Manage Crypto（資産管理）** を選択します。
+2️⃣ **Manage Crypto（暗号資産管理）** メニューに移動します。
 
 <figure><img src="../../../.gitbook/assets/image (914).png" alt="" width="322"><figcaption></figcaption></figure>
 
 ***
 
-#### ✅ STEP 2. XTOを検索して有効化する
+#### ✅ STEP 2. XTOを検索して有効化
 
 1️⃣ 検索欄に **XTO** と入力します。\
-2️⃣ **BNB Smart Chain** 上の **XTO** を探します。\
-3️⃣ トークン名の下に **EXTOCIUM** と表示されていることを必ず確認してください。\
+2️⃣ **BNB Smart ChainネットワークのXTO** を探します。\
+3️⃣ トークン名の下に **EXTOCIUM** と表示されているか確認します。\
 4️⃣ スイッチをオンにして有効化します。
 
 <figure><img src="../../../.gitbook/assets/image (916).png" alt="" width="324"><figcaption></figcaption></figure>
@@ -426,21 +447,25 @@ Trust WalletでXTOを有効化しても表示されない場合は、\
 
 3️⃣ チェックが入っている場合は、チェックを外してください。
 
-📌 この設定が有効な場合、少額のトークンは自動的に非表示になることがあります。\
-チェックを外すと、XTOが正常に表示されます。
+{% hint style="info" %}
+この設定が有効な場合、金額の小さいトークンは自動的に非表示になります。\
+解除するとXTOが正常に表示されます。
+{% endhint %}
 
 ***
 
-### ✅ 完了のお知らせ
+### ◾ 完了案内
 
-これでウォレット内で\
-**XTO残高の確認** ができるようになり、\
-**Swap with Wallet** または **PancakeSwap** を使って\
-XTOをスワップできます。
+これで、
+
+* ウォレットで **XTO残高を確認**でき、
+* **Swap with Wallet** または **PancakeSwap** を使って\
+  XTOのスワップが可能になります。
+
+次のガイドでは、\
+**XTOスワップ方法**をご案内します。
 {% endtab %}
 {% endtabs %}
-
-<p align="right"><sup><em>This page was last updated on December 17, 2025.</em></sup></p>
 
 {% embed url="https://youtube.com/shorts/J0EZ7J8gGuI?si=znR-swM6zLJASKoA" %}
 

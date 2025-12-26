@@ -1,5 +1,7 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: >-
+  ※ This guide was written based on the game status as of December 26, 2025, and
+  its contents may change with future updates.
 ---
 
 # 🍎 Collecting
@@ -264,4 +266,4 @@ TPを使用すると、対応する採集が可能になります。
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>This page was last updated on December 26, 2025.</em></sup></p>
+<p align="right"></p>

@@ -1,3 +1,9 @@
+---
+description: >-
+  ※ This guide was written based on the game status as of December 17, 2025, and
+  its contents may change with future updates.
+---
+
 # 🔁 Swap XTO
 
 <figure><img src="../../../.gitbook/assets/Gemini_Generated_Image_nnnu2nnnnu2nnnnu.png" alt="" width="188"><figcaption></figcaption></figure>
@@ -167,4 +173,4 @@ please refer to the guide below.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>This page was last updated on December 17, 2025.</em></sup></p>
+<p align="right"></p>
