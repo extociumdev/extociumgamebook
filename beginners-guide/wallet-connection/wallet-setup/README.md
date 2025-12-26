@@ -4,151 +4,183 @@
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🧰 Wallet Setup
+### 🧰 Wallet Setup Guide
 
-_(Wallet Setup Guide)_
+To play **EXTOCIUM**,\
+you must complete a wallet setup connected to the game.
 
-This page walks you through the **required wallet setup** for playing **EXTOCIUM**,\
-step by step in **1 → 2 → 3** order.
+This guide explains the wallet setup process\
+in **three simple steps (1 → 2 → 3)**,\
+so even first-time users can follow easily.
 
-Follow the steps below to complete everything at once—\
-from wallet setup to connecting your wallet to the game.
+By completing each step in order,\
+you can finish wallet creation and game connection at once.
 
 ***
 
-#### 📌 What You’ll Learn on This Page
+#### 📌 What This Guide Covers
 
-* 👇 **Step 1**: Understand what a wallet is
+**① Understand what a wallet is.**
+
+A wallet is a personal space where in-game assets and data are securely stored.\
+In EXTOCIUM, your wallet is used to connect your account and character.
 
 {% content-ref url="what-is-a-wallet.md" %}
 [what-is-a-wallet.md](what-is-a-wallet.md)
 {% endcontent-ref %}
 
-* 👇 **Step 2**: Add the **BNB Smart Chain** network\
-  used in EXTOCIUM to your wallet
+***
+
+**② Add the BNB Smart Chain network to your wallet.**
+
+EXTOCIUM operates on the **BNB Smart Chain network**.\
+You must add the BNB Smart Chain network to your wallet in advance\
+to play the game properly.
 
 {% content-ref url="add-bnb-smart-chain-to-your-wallet.md" %}
 [add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
 
-* 👇 **Step 3**: Connect your wallet to **EXTOCIUM**\
-  and get ready to play
+***
+
+**③ Connect your wallet to EXTOCIUM**.
+
+Once the wallet connection is complete, you are fully ready to play EXTOCIUM.\
+You can then create a character and access the game.
 
 {% content-ref url="connect-your-wallet-to-extocium.md" %}
 [connect-your-wallet-to-extocium.md](connect-your-wallet-to-extocium.md)
 {% endcontent-ref %}
-
-👉 Please follow the steps **in order**.\
-👉 Do not skip any steps.
 
 ***
 
 {% hint style="info" %}
 #### 🔐 Important Notes
 
-* You can connect **only one wallet**: MetaMask _or_ Trust Wallet
-* The wallet you choose first **cannot be changed arbitrarily**.
-* Before connecting, make sure **BNB Smart Chain** is set in your wallet
+* You can choose **only one wallet**: MetaMask or Trust Wallet.
+* The wallet you select **cannot be changed later**.
+* Before connecting your wallet,\
+  please make sure the **BNB Smart Chain network is properly set up**.
 {% endhint %}
 {% endtab %}
 
 {% tab title="한국어" %}
-### 🧰 Wallet Setup
+### 🧰 지갑 설정 가이드 (Wallet Setup)
 
-_(지갑 설정 안내)_
+EXTOCIUM을 플레이하기 위해서는\
+게임과 연결되는 **지갑 설정이 반드시 필요합니다.**
 
-이 페이지에서는 **EXTOCIUM을 플레이하기 위해 꼭 필요한 지갑 설정 과정을** \
-**1 → 2 → 3 단계로 순서대로 안내합니다.**
+본 가이드는\
+지갑이 처음인 사용자도 이해할 수 있도록\
+**1 → 2 → 3 단계**로 지갑 설정 과정을 안내합니다.
 
-아래 단계를 차례대로 따라오시면\
-**지갑 설정부터 게임 연결까지 한 번에 완료할 수 있습니다.**
+아래 단계를 순서대로 진행하면\
+지갑 생성부터 게임 연결까지 한 번에 완료할 수 있습니다.
 
 ***
 
-#### 📌 이 페이지에서 안내하는 내용
+#### 📌 이 가이드에서 안내하는 내용
 
-* 👇 **1단계** : 지갑이 무엇인지 이해합니다.&#x20;
+**① 지갑이 무엇인지 이해합니다.**
+
+지갑은 게임 내 자산과 데이터를 보관하는 개인 공간입니다.\
+EXTOCIUM에서는 지갑을 통해 계정 정보와 캐릭터가 연결됩니다.
 
 {% content-ref url="what-is-a-wallet.md" %}
 [what-is-a-wallet.md](what-is-a-wallet.md)
 {% endcontent-ref %}
 
-* 👇 **2단계** : EXTOCIUM에서 사용하는\
-  **BNB Smart Chain 네트워크를 지갑에 추가합니다.**
+***
+
+**② BNB Smart Chain 네트워크를 지갑에 추가합니다.**
+
+EXTOCIUM은 **BNB Smart Chain 네트워크**를 기반으로 운영됩니다.\
+따라서 지갑에 BNB Smart Chain 네트워크를 **사전에 추가해야** 정상적인 게임 이용이 가능합니다.
 
 {% content-ref url="add-bnb-smart-chain-to-your-wallet.md" %}
 [add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
 
-* 👇 **3단계** : 지갑을 EXTOCIUM과 연결하여\
-  **게임을 플레이할 준비를 완료합니다.**
+***
+
+**③ 지갑을 EXTOCIUM과 연결합니다.**
+
+지갑 연결을 완료하면 EXTOCIUM 게임 플레이를 위한 준비가 완료됩니다.\
+이후 캐릭터 생성 및 게임 접속이 가능합니다.
 
 {% content-ref url="connect-your-wallet-to-extocium.md" %}
 [connect-your-wallet-to-extocium.md](connect-your-wallet-to-extocium.md)
 {% endcontent-ref %}
-
-👉 순서대로 진행하는 것이 중요합니다.\
-👉 중간 단계를 건너뛰지 마시기 바랍니다.
 
 ***
 
 {% hint style="info" %}
 #### 🔐 안내 사항
 
-* MetaMask와 Trust Wallet 중 **하나의 지갑만 선택**하여 연결할 수 있습니다.
-* **처음 선택한 지갑은 변경할 수 없습니다.**
-* 지갑 연결 전, 반드시 **BNB Smart Chain 설정 여부**를 확인하시기 바랍니다.
+* 지갑은 **MetaMask 또는 Trust Wallet 중 하나만** 선택할 수 있습니다.
+* 최초로 선택한 지갑은 **변경할 수 없습니다.**
+* 지갑 연결 전,\
+  **BNB Smart Chain 네트워크가 설정되어 있는지 반드시 확인**하시기 바랍니다.
 {% endhint %}
 {% endtab %}
 
 {% tab title="日本語" %}
-### 🧰 ウォレット設定
+### 🧰 ウォレット設定ガイド（Wallet Setup）
 
-_（ウォレット設定ガイド）_
+EXTOCIUMをプレイするためには、\
+ゲームと連携する**ウォレットの設定が必須**となります。
 
-このページでは、EXTOCIUMをプレイするために必要な\
-**ウォレット設定の手順**を\
-**1 → 2 → 3** の順番でご案内します。
+本ガイドでは、\
+ウォレットを初めて利用する方でも理解できるよう、\
+**1 → 2 → 3 の手順**で設定方法をご案内します。
 
-以下の手順に沿って進めることで、\
-ウォレットの設定からゲームとの接続まで\
-一度に完了できます。
+手順通りに進めることで、\
+ウォレット作成からゲーム連携までを一度に完了できます。
 
 ***
 
-#### 📌 このページでご案内する内容
+#### 📌 本ガイドの内容
 
-* 👇 **ステップ1**：ウォレットの基本を理解します
+**① ウォレットとは何かを理解します。**
+
+ウォレットは、ゲーム内の資産やデータを保管する個人用スペースです。\
+EXTOCIUMでは、ウォレットを通じてアカウント情報とキャラクターが連携されます。
 
 {% content-ref url="what-is-a-wallet.md" %}
 [what-is-a-wallet.md](what-is-a-wallet.md)
 {% endcontent-ref %}
 
-* 👇 **ステップ2**：EXTOCIUMで使用する\
-  **BNB Smart Chain** ネットワークを ウォレットに追加します
+***
+
+**② BNB Smart Chainネットワークを追加します。**
+
+EXTOCIUMは **BNB Smart Chainネットワーク**を基盤として運営されています。\
+そのため、事前にウォレットへBNB Smart Chainネットワークを追加する必要があります。
 
 {% content-ref url="add-bnb-smart-chain-to-your-wallet.md" %}
 [add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
 
-* 👇 **ステップ3**：ウォレットをEXTOCIUMに接続し、\
-  ゲームをプレイする準備を完了します
+***
+
+**③ ウォレットをEXTOCIUMと接続します**。
+
+ウォレットの接続が完了すると、EXTOCIUMをプレイする準備が完了します。\
+その後、キャラクター作成およびゲームへの接続が可能になります。
 
 {% content-ref url="connect-your-wallet-to-extocium.md" %}
 [connect-your-wallet-to-extocium.md](connect-your-wallet-to-extocium.md)
 {% endcontent-ref %}
 
-👉 必ず **順番どおり** に進めてください。\
-👉 途中のステップを飛ばさないようご注意ください。
-
 ***
 
 {% hint style="info" %}
-#### 🔐 ご案内事項
+#### 🔐 注意事項
 
-* 接続できるウォレットは **MetaMask または Trust Wallet のいずれか一つ**です
-* 最初に選択したウォレットは、**任意で変更することはできません**。
-* ウォレット接続前に、**BNB Smart Chainの設定が完了しているか** 必ずご確認ください
+* 使用できるウォレットは **MetaMaskまたはTrust Walletのいずれか一つのみ**です。
+* 最初に選択したウォレットは**変更できません**。
+* ウォレット接続前に、\
+  **BNB Smart Chainネットワークが設定されているか必ず確認**してください。
 {% endhint %}
 {% endtab %}
 {% endtabs %}
