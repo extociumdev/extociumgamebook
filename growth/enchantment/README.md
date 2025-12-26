@@ -1,6 +1,10 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # ✡️ Enchantment
 
-<figure><img src="../../../.gitbook/assets/image (670).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (670).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="weapon-enchantment.md" %}
 [weapon-enchantment.md](weapon-enchantment.md)
@@ -17,3 +21,4 @@
 {% content-ref url="support-items.md" %}
 [support-items.md](support-items.md)
 {% endcontent-ref %}
+

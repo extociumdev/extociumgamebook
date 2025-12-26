@@ -1,7 +1,5 @@
 ---
-description: >-
-  ※ This guide was written based on the game status as of December 17, 2025, and
-  its contents may change with future updates.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🔢 Wallet Setup

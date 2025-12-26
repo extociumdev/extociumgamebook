@@ -1,3 +1,7 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # 🕹️ Gameplay Guide
 
 <figure><img src="../../.gitbook/assets/signal-2025-12-24-134114_002.jpeg" alt="" width="563"><figcaption></figcaption></figure>

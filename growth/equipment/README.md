@@ -1,3 +1,7 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # ⚔️ Equipment
 
 {% content-ref url="weapon/" %}

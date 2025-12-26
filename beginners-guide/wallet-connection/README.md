@@ -1,3 +1,7 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # 🦊 Wallet connection
 
 <figure><img src="../../.gitbook/assets/LevelupWallet.png" alt=""><figcaption></figcaption></figure>
