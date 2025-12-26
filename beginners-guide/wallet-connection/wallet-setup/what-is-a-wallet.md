@@ -4,26 +4,28 @@
 {% tab title="ENG" %}
 ### 🔐What Is a Blockchain Wallet?
 
-A blockchain wallet is a tool that safely stores and manages digital assets like NFTs and in-game items.
+A blockchain wallet is\
+a tool used to **store and manage digital assets**\
+such as NFTs and in-game items.
 
-To put it simply,\
-a blockchain wallet works like your **personal vault** for game items.
+Simply put,\
+a blockchain wallet is like a **personal safe that holds your game items**.
 
-Without a wallet, you can’t truly own or use assets in blockchain-based games or services.\
-If you want real ownership, a wallet is required.
+Without a wallet,\
+you cannot directly **own or use assets** in blockchain-based games or services.
 
 ***
 
 ### 🔗 What Is a Wallet Used For?
 
-With a blockchain wallet, you can:
+By using a blockchain wallet, you can do the following:
 
 * Store NFT heroes and NFT items
-* Connect your wallet to games or other services
-* Personally approve asset transfers and trades
+* Connect your wallet to games or services
+* Approve asset transfers or trades yourself.
 
 In short:\
-👉 A wallet is a **basic requirement** for playing blockchain games.
+👉 a wallet is a basic tool required to play blockchain games.
 
 ***
 
@@ -31,9 +33,9 @@ In short:\
 
 MetaMask is one of the most widely used blockchain wallets in the world.
 
-* Available as a browser extension and mobile app
-* Lets you manage NFTs and tokens directly
-* Supported by many blockchain games and services
+* Available as a web browser extension and mobile app
+* Allows you to manage NFTs and tokens directly.
+* Used by many blockchain games and services.
 
 👉 MetaMask Official Website\
 [https://metamask.io](https://metamask.io)
@@ -42,60 +44,59 @@ MetaMask is one of the most widely used blockchain wallets in the world.
 
 ### 🛡️ Trust Wallet
 
-Trust Wallet is a blockchain wallet optimized for mobile use.
+Trust Wallet is a blockchain wallet optimized for mobile devices.
 
 * Easy to use through a smartphone app
-* Supports multiple blockchain assets and NFTs in one place
-* Designed to be beginner-friendly
+* Supports managing multiple blockchain assets and NFTs at once.
+* Designed to be relatively easy for first-time users.
 
 👉 Trust Wallet Official Website\
 [https://trustwallet.com/](https://trustwallet.com/)
 
 ***
 
-### 💡 Key Things You Must Know
+### 💡 Important Things to Know
 
-The following points are extremely important. Please read carefully.
+The following information is very important. Please read carefully.
 
-🎮 NFT heroes and items created or traded in-game\
-can only be owned **while your wallet is connected**.
+🎮 NFT heroes and items created or traded in the game\
+can only be owned **when a wallet is connected**.
 
-🔑 NFT heroes and items are owned by\
-**the player’s wallet**, not the game company.
+🔑 NFT heroes and items are not owned by the game company,\
+but are **directly owned by the player’s wallet**.
 
 ✍️ When trading or transferring NFTs,\
-you must approve (sign) the transaction in your wallet.
+you must **approve the transaction (sign)** in your wallet.
 
-This approval confirms that the action is\
-being made by **you**, intentionally.
+This approval process confirms\
+that the action is being performed **by the player’s own decision**.
 
 ***
 
 ### ✅ Connecting Your Wallet to EXTOCIUM
 
 In EXTOCIUM,\
-you need to connect **MetaMask or Trust Wallet**\
+connecting **MetaMask or Trust Wallet** is required\
 to record and manage game assets on the blockchain.
 
-Once your wallet is connected, you can:
+After connecting your wallet, you can use the following features:
 
-* Own and manage NFT heroes and items
-* Trade with other players
-* Safely store your game assets
+* Ownership and management of NFT heroes and items
+* Trading with other players
+* Safe storage of game assets
 
 ***
 
-### 🚀 Moving to the Next Step
+### 🚀 Move to the Next Step
 
 Now you understand what a blockchain wallet is.
 
 In the next step,\
-we’ll guide you through how to add\
-**BNB Smart Chain**, the network used in EXTOCIUM,\
-to MetaMask or Trust Wallet.
+we will guide you through how to add\
+**BNB Smart Chain**, the network used by EXTOCIUM, to your wallet.
 
 {% hint style="danger" %}
-[<mark style="color:red;">**⛔ Before connecting your wallet, please be aware of the precautions!**</mark>](../precautions.md#eng)
+#### [Before connecting your wallet, please make sure to review the important notes.](../precautions.md#eng)
 {% endhint %}
 {% endtab %}
 
@@ -149,7 +150,7 @@ to MetaMask or Trust Wallet.
 
 * 스마트폰 앱으로 간편하게 사용할 수 있습니다.
 * 여러 블록체인 자산과 NFT를 한 번에 관리할 수 있습니다.
-* 초보자도 비교적 쉽게 사용할 수 있는 구조를 가지고 있습니다.
+* 처음 사용하는 사용자도 비교적 쉽게 사용할 수 있습니다.
 
 👉 트러스트 월렛 공식 홈페이지\
 [https://trustwallet.com/](https://trustwallet.com/)
@@ -158,7 +159,7 @@ to MetaMask or Trust Wallet.
 
 ### 💡 꼭 알아두어야 할 핵심 사항
 
-아래 내용은 매우 중요하므로 꼭 확인하시기 바랍니다.
+아래 내용은 매우 중요하므로 반드시 확인하시기 바랍니다.
 
 * 🎮 **게임 내에서 제작되거나 거래되는 NFT 영웅과 아이템은**\
   **지갑이 연결된 상태에서만 소유할 수 있습니다.**
@@ -192,10 +193,10 @@ EXTOCIUM에서는\
 
 다음 단계에서는\
 EXTOCIUM에서 사용되는 네트워크인\
-**BNB Smart Chain을 MetaMask 또는 Trust Wallet에 추가하는 방법**을 안내합니다.
+**BNB Smart Chain을 지갑에 추가하는 방법**을 안내합니다.
 
 {% hint style="danger" %}
-[**⛔**<mark style="color:red;">**지갑 연결 전, 주의 사항을 숙지하세요!**</mark>](../precautions.md#undefined-1)
+#### [지갑을 연결하기 전에 반드시 주의 사항을 확인하시기 바랍니다.](../precautions.md#undefined-1)
 {% endhint %}
 {% endtab %}
 
@@ -203,43 +204,42 @@ EXTOCIUM에서 사용되는 네트워크인\
 ### 🔐ブロックチェーンウォレットとは？
 
 ブロックチェーンウォレットとは、\
-NFTやゲームアイテムなどのデジタル資産を\
-安全に保管・管理するためのツールです。
+NFTやゲームアイテムなどの\
+**デジタル資産を保管・管理するためのツール**です。
 
-簡単に言うと、\
+わかりやすく言うと、\
 ブロックチェーンウォレットは\
-**ゲーム内アイテム専用の個人金庫**のような存在です。
+**ゲーム内アイテムを入れておく個人専用の金庫**のようなものです。
 
 このウォレットがなければ、\
 ブロックチェーンゲームやサービスで\
-資産を直接「所有・利用」することはできません。
+資産を**自分自身で所有・利用することはできません**。
 
 ***
 
-### 🔗 ウォレットは何に使われますか？
+### 🔗 ウォレットは何に使いますか？
 
 ブロックチェーンウォレットを使うことで、\
-以下のことが可能になります。
+次のことができます。
 
-* NFTヒーローやNFTアイテムの保管
-* ゲームや他のサービスとのウォレット接続
-* 資産の移動や取引時の本人承認
+* NFTヒーローやアイテムを保管します。
+* ゲームやサービスとウォレットを接続します。
+* 資産の移動や取引を自分で承認します。
 
 つまり、\
-👉 ウォレットはブロックチェーンゲームを利用するための\
-**基本ツール**です。
+👉 ウォレットはブロックチェーンゲームに必要な基本ツールです。
 
 ***
 
 ### 🦊 MetaMask（メタマスク）
 
 MetaMaskは、\
-世界中で最も広く利用されている\
+世界中で広く利用されている\
 ブロックチェーンウォレットの一つです。
 
-* ブラウザ拡張機能とモバイルアプリに対応
-* NFTやトークンを直接管理可能
-* 多くのブロックチェーンゲームやサービスで使用されています
+* ブラウザ拡張機能とモバイルアプリに対応しています。
+* NFTやトークンを直接管理できます。
+* 多くのブロックチェーンゲームやサービスで使用されています。
 
 👉 MetaMask 公式サイト\
 [https://metamask.io](https://metamask.io)
@@ -249,46 +249,46 @@ MetaMaskは、\
 ### 🛡️ Trust Wallet（トラストウォレット）
 
 Trust Walletは、\
-モバイル環境に最適化されたブロックチェーンウォレットです。
+モバイル環境に最適化された ブロックチェーンウォレットです。
 
-* スマートフォンアプリで簡単に利用可能
-* 複数のブロックチェーン資産やNFTを一括管理
-* 初心者の方でも比較的使いやすい設計です
+* スマートフォンアプリで簡単に利用できます。
+* 複数のブロックチェーン資産やNFTをまとめて管理できます。
+* 初めての方でも比較的使いやすい設計です。
 
 👉 Trust Wallet 公式サイト\
 [https://trustwallet.com/](https://trustwallet.com/)
 
 ***
 
-### 💡 必ず知っておくべき重要ポイント
+### 💡 必ず知っておきたいポイント
 
-以下の内容は非常に重要です。必ずご確認ください。
+以下の内容はとても重要です。\
+必ずご確認ください。
 
-🎮 ゲーム内で制作・取引されるNFTヒーローやアイテムは、\
-ウォレットが接続されている状態でのみ所有できます。
+🎮 ゲーム内で作成・取引される NFTヒーローやアイテムは、\
+**ウォレットを接続している場合のみ所有できます。**
 
-🔑 NFTヒーローやアイテムの所有者は\
-ゲーム会社ではなく、**プレイヤー自身のウォレット**です。
+🔑 NFTヒーローやアイテムは ゲーム会社ではなく、\
+**プレイヤー自身のウォレットが直接所有します。**
 
-✍️ NFTを取引・移動する際は、\
-必ずウォレット上で承認（署名）を行う必要があります。
+✍️ NFTを取引・移動する際には、**ウォレットでの承認（署名）が必要です。**
 
 この承認は、\
-その操作がプレイヤーご本人の意思によるものであることを\
-確認するための手続きです。
+その操作が **プレイヤー本人の意思で行われていることを確認するための手続き**です。
 
 ***
 
 ### ✅ EXTOCIUMとウォレットの接続
 
 EXTOCIUMでは、\
-ゲーム資産をブロックチェーン上に記録・管理するために\
-MetaMaskまたはTrust Walletの接続が必要です。
+ゲーム資産をブロックチェーン上で記録・管理するために\
+**MetaMaskまたはTrust Walletの接続が必要**です。
 
-ウォレットを接続すると、以下の機能が利用できます。
+ウォレットを接続すると、\
+次の機能が利用できます。
 
-* NFTヒーローおよびアイテムの所有・管理
-* 他のユーザーとの取引
+* NFTヒーローやアイテムの所有・管理
+* 他のプレイヤーとの取引
 * ゲーム資産の安全な保管
 
 ***
@@ -299,12 +299,11 @@ MetaMaskまたはTrust Walletの接続が必要です。
 ブロックチェーンウォレットについて理解できました。
 
 次のステップでは、\
-EXTOCIUMで使用されているネットワーク\
-**BNB Smart Chain**を\
-MetaMaskまたはTrust Walletに追加する方法をご案内します。
+EXTOCIUMで使用されるネットワーク\
+**BNB Smart Chainをウォレットに追加する方法**をご案内します。
 
 {% hint style="danger" %}
-<mark style="color:red;">⛔</mark> [<mark style="color:red;">**ウォレットを接続する前に、注意事項をよく理解してください！**</mark>](../precautions.md#ri-ben-yu)
+#### [ウォレットを接続する前に、必ず注意事項をご確認ください。](../precautions.md#ri-ben-yu)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
