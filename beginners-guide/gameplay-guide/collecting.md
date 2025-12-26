@@ -1,9 +1,3 @@
----
-description: >-
-  ※ This guide was written based on the game status as of December 26, 2025, and
-  its contents may change with future updates.
----
-
 # 🍎 Collecting
 
 {% tabs %}
@@ -266,4 +260,4 @@ TPを使用すると、対応する採集が可能になります。
 {% endtab %}
 {% endtabs %}
 
-<p align="right"></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 26, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

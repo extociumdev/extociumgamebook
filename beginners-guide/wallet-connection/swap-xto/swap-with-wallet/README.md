@@ -1,9 +1,3 @@
----
-description: >-
-  ※ This guide was written based on the game status as of December 17, 2025, and
-  its contents may change with future updates.
----
-
 # 💱 Swap with Wallet
 
 {% tabs %}

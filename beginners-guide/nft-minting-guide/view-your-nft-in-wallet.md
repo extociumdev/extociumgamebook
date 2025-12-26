@@ -1,9 +1,3 @@
----
-description: >-
-  ※ This guide was written based on the game status as of December 19, 2025, and
-  its contents may change with future updates.
----
-
 # 🧩 View Your NFT in Wallet
 
 {% tabs %}
@@ -399,4 +393,4 @@ NFT が自動表示されないことがあります。
 {% endtab %}
 {% endtabs %}
 
-<p align="right"></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 19, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

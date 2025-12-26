@@ -1,9 +1,3 @@
----
-description: >-
-  ※ This guide was written based on the game status as of December 17, 2025, and
-  its contents may change with future updates.
----
-
 # ➕ Import XTO Tokens
 
 {% tabs %}
@@ -466,6 +460,8 @@ Trust WalletでXTOを有効化しても表示されない場合は、\
 **XTOスワップ方法**をご案内します。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 17, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
 {% embed url="https://youtube.com/shorts/J0EZ7J8gGuI?si=znR-swM6zLJASKoA" %}
 

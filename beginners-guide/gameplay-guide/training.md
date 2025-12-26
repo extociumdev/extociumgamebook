@@ -1,9 +1,3 @@
----
-description: >-
-  ※ This guide was written based on the game status as of December 25, 2025, and
-  its contents may change with future updates.
----
-
 # 🏋️ Training
 
 <figure><img src="../../.gitbook/assets/Icon_TP.png" alt=""><figcaption></figcaption></figure>
@@ -329,4 +323,4 @@ TPを初期化するには、\
 {% endtab %}
 {% endtabs %}
 
-<p align="right"></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 25, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

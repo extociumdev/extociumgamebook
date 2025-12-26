@@ -1,9 +1,3 @@
----
-description: >-
-  ※ This guide was written based on the game status as of December 22, 2025, and
-  its contents may change with future updates.
----
-
 # 📂 Equipment NFT
 
 {% tabs %}
@@ -332,4 +326,4 @@ _※ まだウォレットを接続していない場合は、先に_ [_**Wallet
 {% endtab %}
 {% endtabs %}
 
-<p align="right"></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 22, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

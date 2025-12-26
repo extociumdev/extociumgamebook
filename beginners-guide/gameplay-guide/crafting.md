@@ -1,9 +1,3 @@
----
-description: >-
-  ※ This guide was written based on the game status as of December 25, 2025, and
-  its contents may change with future updates.
----
-
 # ⚒️ Crafting
 
 {% tabs %}
@@ -358,4 +352,4 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 {% endtab %}
 {% endtabs %}
 
-<p align="right"></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 25, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
