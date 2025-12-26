@@ -309,3 +309,4 @@ _※ まだウォレットを接続していない場合は、先に_ [_**Wallet
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>This page was last updated on December 22, 2025.</em></sup></p>

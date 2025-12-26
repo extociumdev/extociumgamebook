@@ -730,4 +730,4 @@ HPが20％以下になった際に自動で使用されます。
 {% endtab %}
 {% endtabs %}
 
-\-
+<p align="right"><sup><em>This page was last updated on December 24, 2025.</em></sup></p>

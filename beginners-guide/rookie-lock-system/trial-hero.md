@@ -270,3 +270,4 @@ EXTOCIUMの魅力を十分に体験した後は、[**マーケット**](../../ec
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>This page was last updated on December 24, 2025.</em></sup></p>

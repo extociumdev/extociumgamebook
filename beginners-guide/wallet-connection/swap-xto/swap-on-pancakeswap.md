@@ -439,3 +439,4 @@ XTOは **PancakeSwap** を通じて、\
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>This page was last updated on December 18, 2025.</em></sup></p>

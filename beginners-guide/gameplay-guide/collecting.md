@@ -6,186 +6,262 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 🌿 Gathering Guide
+## 🌿 Collecting Guide
 
-In Extocium, you can't just click and collect.\
-To gather items, you first need to earn **TP (Training Points)** through hunting,\
-and use them in the **Training tab** to unlock gathering skills.
+Can anyone collect plants and ores in the field right away?\
+Not quite.
 
-**Follow the steps below in order!**
-
-***
-
-#### 📍 How to Gather – Step by Step
-
-**① Open the Dashboard**
-
-🎯 Click the **helmet icon** on the left side of the game screen.
-
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 120528 (2).png" alt="" width="418"><figcaption></figcaption></figure>
+In **EXTOCIUM**, collecting is an action\
+that must be **learned first**.
 
 ***
 
-**② Click the Training Tab**
+### 🧠 Before You Start
 
-📘 In the bottom-left of the dashboard, click the **“Training” tab**.
+To begin collecting,\
+you must first learn collecting skills through [**Training**](training.md#training-guide).
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 154831 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+Learning skills requires [**TP (Training Points)**](training.md#what-is-tp-training-point).
 
-***
-
-**③ Select Biology & Use TP**
-
-🧬 Click **“Biology”** in the upper menu.\
-You’ll see gathering-related skills.\
-Spend TP to unlock them one by one.
-
-<figure><img src="../../.gitbook/assets/KakaoTalk_20250721_153717096_04 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/KakaoTalk_20250721_153717096.jpg" alt="" width="563"><figcaption></figcaption></figure>
+TP can be obtained by hunting monsters.\
+Look for the **blue coins** dropped on the ground after defeating them.
 
 ***
 
-**④ Start Gathering**
+### 📘 How to Learn Collecting Skills
 
-🌾 When you approach a gathering spot,\
-a **gather button** will appear.\
-Click it to start gathering.
+You can learn collecting skills by following these steps:
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155606.png" alt="" width="332"><figcaption></figcaption></figure>
+1️⃣ From the main screen, tap the **Helmet Icon** to open the Dashboard.
+
+<figure><img src="../../.gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
+
+\
+2️⃣ Select **Training** from the left menu.
+
+<figure><img src="../../.gitbook/assets/image (953).png" alt=""><figcaption></figcaption></figure>
+
+\
+3️⃣ Choose **Biology** from the top menu.
+
+<figure><img src="../../.gitbook/assets/image (955).png" alt=""><figcaption></figcaption></figure>
+
+In Biology, you will find skills related to collecting.\
+Spend TP on a skill to unlock the corresponding collecting ability.
+
+<figure><img src="../../.gitbook/assets/image (956).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ⚙️ Want to Auto-Gather?
+### 🌾 How to Collect
 
-Too much clicking? No worries.\
-Use the auto-gather function for convenience!
+After learning a collecting skill, move to the field.\
+When you approach a collectible object, the **Collect button** will appear on the screen.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155848.png" alt="" width="385"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (957).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155802.png" alt="" width="563"><figcaption></figcaption></figure>
+Tap the button to start collecting.\
+Once completed, you will obtain material items.
 
-<br>
+***
+
+### ⚙️ Auto Collecting
+
+If you need to collect the same material repeatedly,\
+you can use the **Auto Collecting** feature.
+
+With Auto Collecting enabled,\
+your character will automatically gather nearby resources.
+
+For details on how to set it up,\
+please refer to the related UI guide.
+
+<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (959).png" alt=""><figcaption><p>Settings Screen</p></figcaption></figure>
+
+***
+
+### 🌱 Collecting – Key Points
+
+* Collecting is available after Training.
+* Collecting skills are learned in **Training > Biology**.
+* Approach a resource and tap the button to collect.
+* Use Auto Collecting for repeated gathering.
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 🌿 채집 가이드
+## 🌿 채집 가이드
 
-엑스토시움에서는 단순히 클릭만으로 채집이 되지 않아요.\
-먼저, 사냥을 통해 얻는 TP(Training Point)를 모아 기술을 연마해야 채집이 가능해집니다.
+필드에 있는 풀과 광물,\
+아무나 바로 채집할 수 있을까요?&#x20;
 
-**아래 단계를 순서대로 따라해 보세요!**
-
-***
-
-#### 📍 채집 방법 – Step by Step
-
-**① 대시보드로 이동**
-
-🎯 **게임 화면 좌측의 ‘투구 아이콘’을 클릭**해 대시보드로 들어가세요.<br>
-
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 120528 (2).png" alt="" width="418"><figcaption></figcaption></figure>
+아닙니다.\
+EXTOCIUM에서 채집은 **배워야 할 수 있는 행동**입니다.
 
 ***
 
-**② 기술 연마 탭 클릭**
+### 🧠 먼저 알아두세요
 
-📘 대시보드 좌측 하단에 있는 **‘기술 연마(Training)’ 탭을 클릭**해 주세요.
+채집을 하려면 [**기술 연마(Training)**](training.md#undefined-2)를 통해\
+채집 기술을 먼저 배워야 합니다.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 154831 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+기술을 배우기 위해서는 [**TP(Training Point)**](training.md#tp-training-point)가 필요합니다.
 
-***
-
-**③ Biology 선택 & TP 사용**
-
-🧬 상단 메뉴에서 **‘생물학’를 클릭**하면,\
-채집과 관련된 항목들이 나타납니다.\
-하나씩 **TP를 소모해 오픈**해 주세요!
-
-<figure><img src="../../.gitbook/assets/KakaoTalk_20250721_153717096_04 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/KakaoTalk_20250721_153717096.jpg" alt="" width="563"><figcaption></figcaption></figure>
+TP는 몬스터를 사냥하다 보면\
+바닥에 떨어진 **파란색 동전**으로 획득할 수 있습니다.
 
 ***
 
-**④ 채집하기**
+### 📘 채집 기술 배우는 방법
 
-🌾 채집물 근처로 다가가면,\
-화면에 채집 버튼이 활성화돼요.\
-클릭하면 채집이 진행됩니다.
+채집 기술은 다음 순서로 배울 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155606.png" alt="" width="332"><figcaption></figcaption></figure>
+1️⃣ 메인 화면에서 **‘투구 아이콘’을 클릭**해 **대시보드**를 엽니다.
+
+<figure><img src="../../.gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
+
+\
+2️⃣ 좌측 메뉴에서 **기술 연마(Training)**&#xB97C; 선택합니다.
+
+<figure><img src="../../.gitbook/assets/image (953).png" alt=""><figcaption></figcaption></figure>
+
+\
+3️⃣ 상단 메뉴에서 **생물학**을 선택합니다.
+
+<figure><img src="../../.gitbook/assets/image (955).png" alt=""><figcaption></figcaption></figure>
+
+**생물학**에는 채집과 관련된 기술들이 정리되어 있습니다.\
+원하는 기술에 TP를 사용하면 해당 채집이 가능해집니다.
+
+<figure><img src="../../.gitbook/assets/image (956).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ⚙️ 오토 채집을 원하시나요?
+### 🌾 채집은 이렇게 합니다
 
-반복 채집이 번거로울 땐, 자동 채집 기능을 활용해보세요!\
-**오토 채집 설정 방법은 아래 이미지를 참고**해 주세요.
+채집 기술을 배운 뒤 필드로 이동해 보세요.\
+채집물 근처로 다가가면 화면에 **채집 버튼**이 나타납니다.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155848.png" alt="" width="385"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (957).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155802.png" alt="" width="563"><figcaption></figcaption></figure>
+채집 버튼을 터치하면 채집이 시작됩니다.\
+채집이 끝나면 재료 아이템을 획득할 수 있습니다.
+
+***
+
+### ⚙️ 자동 채집
+
+같은 재료를 여러 번 채집해야 할 때는\
+**자동 채집 기능**을 사용할 수 있습니다.
+
+자동 채집을 설정하면\
+캐릭터가 주변 채집물을 자동으로 수집합니다.
+
+자동 채집 설정 방법은\
+관련 UI 안내를 참고하시기 바랍니다.
+
+<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (959).png" alt=""><figcaption><p>Settings Screen</p></figcaption></figure>
+
+***
+
+### 🌱 채집, 이것만 기억하세요
+
+* 채집은 기술 연마 후 가능합니다.
+* 채집 기술은 **Training > Biology**에서 배웁니다.
+* 채집물 근처에서 버튼을 터치하면 채집이 시작됩니다.
+* 반복 채집 시 자동 채집을 활용할 수 있습니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 🌿 採集ガイド
+## 🌿 採集ガイド
 
-エクストシウムでは、ただクリックするだけでは採集できません。\
-まずは狩りで\*\*TP（トレーニングポイント）\*\*を集めて、\
-**トレーニング画面**で採集スキルを習得する必要があります。
+フィールドにある草や鉱石は、\
+誰でもすぐに採集できるのでしょうか？\
+いいえ、できません。
 
-**以下のステップに沿って進めてみましょう！**
-
-***
-
-#### 📍 採集の方法 – ステップガイド
-
-**① ダッシュボードを開く**
-
-🎯 ゲーム画面左側の**ヘルメットアイコン**をクリックしてください。
-
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 120528 (2).png" alt="" width="418"><figcaption></figcaption></figure>
+**EXTOCIUM**では、\
+採集は**学んでから行う行動**です。
 
 ***
 
-**② トレーニングタブをクリック**
+### 🧠 まず知っておきましょう
 
-📘 ダッシュボード左下にある\*\*「トレーニング」タブ\*\*をクリックします。
+採集を行うには、\
+[**技術研磨（Training）**](training.md#gaido)で\
+採集スキルを先に習得する必要があります。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 154831 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+スキルを習得するには\
+[**TP（Training Point）**](training.md#tptraining-pointtoha)が必要です。
 
-***
-
-**③ Biologyを選んでTPを使用**
-
-🧬 上部メニューから「Biology」を選択すると、\
-採集に関するスキルが表示されます。\
-TPを使って一つずつアンロックしていきましょう。!
-
-<figure><img src="../../.gitbook/assets/KakaoTalk_20250721_153717096_04 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/KakaoTalk_20250721_153717096.jpg" alt="" width="563"><figcaption></figcaption></figure>
+TPはモンスターを倒すと、\
+地面に落ちる**青いコイン**として獲得できます。
 
 ***
 
-**④ 採集する**
+### 📘 採集スキルの習得方法
 
-🌾 採集ポイントに近づくと、\
-採集ボタンが表示されます。\
-クリックすると採集が開始されます。
+採集スキルは、以下の手順で習得できます。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155606.png" alt="" width="332"><figcaption></figcaption></figure>
+1️⃣ メイン画面で**ヘルメットアイコン**をタップし、ダッシュボードを開きます。
+
+<figure><img src="../../.gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
+
+\
+2️⃣ 左側メニューから**技術研磨（Training）**&#x3092;選択します。
+
+<figure><img src="../../.gitbook/assets/image (953).png" alt=""><figcaption></figcaption></figure>
+
+\
+3️⃣ 上部メニューで**Biology**を選択します。
+
+<figure><img src="../../.gitbook/assets/image (955).png" alt=""><figcaption></figcaption></figure>
+
+**Biology**には、採集に関するスキルがまとめられています。\
+TPを使用すると、対応する採集が可能になります。
+
+<figure><img src="../../.gitbook/assets/image (956).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ⚙️ オート採集を使いたい方へ
+### 🌾 採集のやり方
 
-手動が面倒な時は、オート採集機能が便利です！\
-**設定方法は以下の画像をご覧ください。**
+採集スキルを習得したら、フィールドへ移動してください。\
+採集物の近くに行くと、画面に**採集ボタン**が表示されます。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155848.png" alt="" width="385"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (957).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2025-07-21 155802.png" alt="" width="563"><figcaption></figcaption></figure>
+ボタンをタップすると採集が開始され、\
+完了すると素材アイテムを獲得できます。
+
+***
+
+### ⚙️ 自動採集
+
+同じ素材を何度も採集する場合は、\
+**自動採集機能**を利用できます。
+
+自動採集を設定すると、\
+キャラクターが周囲の採集物を自動で集めます。
+
+設定方法の詳細は、\
+関連するUIガイドをご確認ください。
+
+<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (959).png" alt=""><figcaption><p>Settings Screen</p></figcaption></figure>
+
+***
+
+### 🌱 採集のポイントまとめ
+
+* 採集は技術研磨後に可能になります。
+* 採集スキルは **Training > Biology** で習得します。
+* 採集物の近くでボタンをタップすると採集が始まります。
+* 繰り返し採集する場合は自動採集が便利です。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>This page was last updated on December 26, 2025.</em></sup></p>

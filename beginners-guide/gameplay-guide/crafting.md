@@ -355,3 +355,5 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * 制作できない場合は、**技術研磨**や**レシピ所持状況**を確認してください
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>This page was last updated on December 25, 2025.</em></sup></p>

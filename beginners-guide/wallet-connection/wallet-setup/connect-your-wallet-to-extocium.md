@@ -399,4 +399,4 @@ NFT取引やウォレット承認が必要な場合は、事前に再接続す�
 {% endtab %}
 {% endtabs %}
 
-<sup>This page was last updated on December 17, 2025.</sup>
+<p align="right"><sup><em>This page was last updated on December 17, 2025.</em></sup></p>

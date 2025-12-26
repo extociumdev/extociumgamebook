@@ -431,7 +431,7 @@ MetaMaskのメイン画面に戻り、\
 {% endtab %}
 {% endtabs %}
 
-<sup>This page was last updated on December 18, 2025.</sup>
+<p align="right"><sup><em>This page was last updated on December 18, 2025.</em></sup></p>
 
 
 

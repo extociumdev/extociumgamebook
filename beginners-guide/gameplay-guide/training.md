@@ -326,3 +326,5 @@ TPを初期化するには、\
 * **「忘却の書」**&#x3092;使用するとTPを初期化できます
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>This page was last updated on December 25, 2025.</em></sup></p>

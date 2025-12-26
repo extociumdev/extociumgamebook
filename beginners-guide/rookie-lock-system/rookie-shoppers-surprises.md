@@ -232,5 +232,5 @@ Opening the Rookie Pack **immediately activates the new pet.**
 {% endtab %}
 {% endtabs %}
 
-\-
+<p align="right"><sup><em>This page was last updated on December 24, 2025.</em></sup></p>
 

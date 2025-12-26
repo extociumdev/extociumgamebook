@@ -313,4 +313,4 @@ MetaMaskまたはTrust Walletに追加する方法をご案内します。
 [add-bnb-smart-chain-to-your-wallet.md](add-bnb-smart-chain-to-your-wallet.md)
 {% endcontent-ref %}
 
-<sup>This page was last updated on December 17, 2025.</sup>
+<p align="right"><sup><em>This page was last updated on December 17, 2025.</em></sup></p>

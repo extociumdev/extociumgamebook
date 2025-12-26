@@ -516,7 +516,7 @@ MetaMaskは通常、\
 {% endtab %}
 {% endtabs %}
 
-
+<p align="right"><sup><em>This page was last updated on December 19, 2025.</em></sup></p>
 
 
 

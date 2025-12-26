@@ -392,3 +392,5 @@ NFT が自動表示されないことがあります。
   → Contract Address と Token ID を使って手動追加
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>This page was last updated on December 19, 2025.</em></sup></p>
