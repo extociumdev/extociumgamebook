@@ -8,9 +8,11 @@
 {% tab title="ENG" %}
 #### 🔗 Connect Your Wallet to EXTOCIUM
 
-_(MetaMask & Trust Wallet)_
+_(MetaMask / Trust Wallet)_
 
-In **EXTOCIUM**, you can connect your game account using **either MetaMask or Trust Wallet**.
+In EXTOCIUM,\
+you can connect **one wallet** to the game.\
+Choose either **MetaMask or Trust Wallet**.
 
 Follow the steps below to safely connect your wallet to the game.
 
@@ -31,7 +33,7 @@ Please read carefully before proceeding.
 
 #### ✅ Step 1. Start Connecting Your Wallet
 
-1️⃣ Tap the **fox button (🦊)** at the top center of the main HUD.
+1️⃣ Tap the **fox button (`🦊`)** at the top center of the main HUD.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,6 +75,8 @@ Example:
 Make sure **BNB Smart Chain** is set in your wallet.
 {% endhint %}
 
+**◾How to Connect**
+
 1️⃣ Select **QR Login** to display a QR code on the game screen.
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -84,7 +88,7 @@ Make sure **BNB Smart Chain** is set in your wallet.
 _👉 Works the same for both MetaMask and Trust Wallet._
 
 3️⃣ When a **“Connection Request”** popup appears in your wallet,\
-tap **“Connect”** to complete the process.
+tap **`Connect`** to complete the process.
 
 <div align="center"><figure><img src="../../../.gitbook/assets/메타연결.png" alt="" width="188"><figcaption><p>MetaMask pop-up</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/트러스트연결.png" alt="" width="188"><figcaption><p>TrustWallet pop-up</p></figcaption></figure></div>
 
@@ -95,6 +99,8 @@ tap **“Connect”** to complete the process.
 #### 📲 APP LOAD Login
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+**◾How to Connect**
 
 1️⃣ Select **APP LOAD**, and the chosen wallet app will open automatically.
 
@@ -109,7 +115,7 @@ tap **“Connect”** to complete the process.
 
 ***
 
-#### ✅ Step **2.** Connection Complete & Check
+#### ✅ Step **2.** Confirm the Connection
 
 🎉 Once the connection is complete,\
 the **fox button (🦊)** at the top center of the main HUD will be activated.
@@ -117,7 +123,7 @@ the **fox button (🦊)** at the top center of the main HUD will be activated.
 <figure><img src="../../../.gitbook/assets/메타-연결완료.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-### 🔐 About Keeping Your Wallet Connected
+### 🔐 Wallet Connection Notice
 
 For security reasons, wallet connections may not always stay active.
 
@@ -146,7 +152,7 @@ Tap the activated **fox button (🦊)** to view:
 {% tab title="한국어" %}
 #### 🔗 내 지갑과 EXTOCIUM 연결하기
 
-_(MetaMask & Trust Wallet)_
+_(MetaMask / Trust Wallet)_
 
 EXTOCIUM에서는\
 **MetaMask 또는 Trust Wallet 중 하나의 지갑을 선택하여 게임과 연결할 수 있습니다.**
@@ -167,9 +173,9 @@ EXTOCIUM에서는\
 
 ***
 
-#### ✅ Step 1. 지갑 연결 시작하기
+#### ✅ Step 1. 지갑 연결을 시작합니다
 
-1️⃣ **메인 HUD 중앙 상단**에 있는 **여우 버튼(🦊)** 을 터치하세요.
+1️⃣ **메인 HUD 중앙 상단**에 있는 **여우 버튼(`🦊`)** 을 터치하세요.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -191,7 +197,7 @@ EXTOCIUM에서는\
 
 ***
 
-### 🔹 연결 방식 설명&#x20;
+### 🔹 지갑 연결 방식 안내
 
 #### 📱 QR 로그인
 
@@ -207,6 +213,8 @@ EXTOCIUM에서는\
 **BNB Smart Chain 네트워크가 설정되었는지 꼭 확인**하세요!&#x20;
 {% endhint %}
 
+◾**연결 방법**
+
 1️⃣ QR 로그인을 선택하면 **게임 화면에 QR 코드가 표시됩니다.**
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -217,7 +225,7 @@ EXTOCIUM에서는\
 
 _👉 MetaMask와 Trust Wallet 모두 동일하게 동작합니다._
 
-3️⃣ 지갑 앱에 **"연결 승인 요청" 팝업**이 나타나면 **"연결" 버튼을 터치하여 연결을 완료하세요.**
+3️⃣ 지갑 앱에 **"연결 승인 요청" 팝업**이 나타나면 **`연결` 버튼을 터치하여 연결을 완료하세요.**
 
 <div align="center"><figure><img src="../../../.gitbook/assets/메타연결.png" alt="" width="188"><figcaption><p>MetaMask pop-up</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/트러스트연결.png" alt="" width="188"><figcaption><p>TrustWallet pop-up</p></figcaption></figure></div>
 
@@ -228,6 +236,8 @@ _👉 MetaMask와 Trust Wallet 모두 동일하게 동작합니다._
 #### 📲 APP LOAD 로그인
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+◾**연결 방법**
 
 1️⃣ APP LOAD를 선택하면 **선택한 지갑 앱이 자동으로 실행됩니다.**
 
@@ -242,7 +252,7 @@ _👉 MetaMask와 Trust Wallet 모두 동일하게 동작합니다._
 
 ***
 
-#### ✅ Step **2. 연결 완료 및 확인하기**
+#### ✅ Step **2.** 연결 완료 확인하기
 
 🎉 **연결이 완료되면, 메인 HUD 중앙 상단의 여우 버튼(🦊)이 활성화됩니다!**
 
@@ -270,14 +280,14 @@ NFT 거래나 지갑 승인이 필요한 경우에는 **사전에 지갑을 다�
 {% tab title="日本語" %}
 #### 🔗 ウォレットをEXTOCIUMに接続する
 
-_(MetaMask & Trust Wallet)_
+_(MetaMask / Trust Wallet)_
 
 EXTOCIUMでは、\
-**MetaMask または Trust Wallet のいずれか一つ**を選択して\
-ゲームと接続することができます。
+**MetaMaskまたはTrust Walletのいずれか一つ**を選択して\
+ゲームと接続できます。
 
 以下の手順に沿って進めることで、\
-ウォレットを安全にゲームへ接続できます。
+ウォレットを安全に接続できます。
 
 ***
 
@@ -293,9 +303,9 @@ EXTOCIUMでは、\
 
 ***
 
-#### ✅ Step 1. ウォレット接続を開始する
+#### ✅ Step 1. ウォレット接続を開始します
 
-1️⃣ メインHUD中央上部にある **キツネボタン（🦊）** をタップしてください。
+1️⃣ メインHUD中央上部にある **キツネボタン（`🦊`）** をタップしてください。
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -320,7 +330,7 @@ EXTOCIUMでは、\
 
 ***
 
-### 🔹 接続方式の説明
+### 🔹 ウォレット接続方法について
 
 #### 📱 QRログイン
 
@@ -337,6 +347,8 @@ EXTOCIUMでは、\
 ウォレットで **BNB Smart Chain** が設定されているか必ず確認してください。
 {% endhint %}
 
+**◾接続手順**
+
 1️⃣ QRログインを選択すると、ゲーム画面にQRコードが表示されます。
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -347,7 +359,7 @@ EXTOCIUMでは、\
 
 _👉 MetaMask・Trust Walletともに同じ動作です。_
 
-3️⃣ ウォレットアプリに **「接続承認リクエスト」** が表示されたら、**「接続」** をタップして完了です。
+3️⃣ ウォレットアプリに **「接続承認リクエスト」** が表示されたら、**「`接続`」** をタップして完了です。
 
 <div align="center"><figure><img src="../../../.gitbook/assets/메타연결.png" alt="" width="188"><figcaption><p>MetaMask pop-up</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/트러스트연결.png" alt="" width="188"><figcaption><p>TrustWallet pop-up</p></figcaption></figure></div>
 
@@ -358,6 +370,8 @@ _👉 MetaMask・Trust Walletともに同じ動作です。_
 #### 📲 APP LOADログイン
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+**◾接続手順**
 
 1️⃣ APP LOADを選択すると、選択したウォレットアプリが自動で起動します。
 
@@ -372,14 +386,14 @@ _👉 MetaMask・Trust Walletともに同じ動作です。_
 
 ***
 
-#### ✅ Step **2.** 接続完了・確認
+#### ✅ Step **2.** 接続完了を確認します
 
 🎉 接続が完了すると、メインHUD中央上部の **キツネボタン（🦊）** が有効化されます。
 
 <figure><img src="../../../.gitbook/assets/메타-연결완료.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-### 🔐 ウォレット接続維持に関するご案内
+### 🔐 ウォレット接続維持について
 
 セキュリティ上の理由により、ウォレット接続は常に自動で維持されるとは限りません。
 
