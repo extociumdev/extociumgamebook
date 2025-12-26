@@ -153,4 +153,4 @@ _（ウォレット設定ガイド）_
 {% endtab %}
 {% endtabs %}
 
-<sup>This page was last updated on December 17, 2025.</sup>
+<sup>_This page was last updated on December 17, 2025._</sup>
