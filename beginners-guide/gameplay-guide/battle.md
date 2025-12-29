@@ -140,6 +140,7 @@ The color of the outer border shows the skill type:
 * **Purple**: Summon Skill
 * **Blue**: Ranged Attack
 * **Green**: Buff Skill
+* **Yellow** : Melee Attack Skill
 
 This allows quick recognition of skill roles during combat.
 
@@ -388,6 +389,7 @@ CHA 스탯 투자로는 감소되지 않습니다.
 * **보라색** : 소환 스킬
 * **파란색** : 원거리 공격 스킬
 * **초록색** : 버프 스킬
+* **노란색** : 근접 공격 스킬
 
 색상을 통해 전투 중 스킬의 성격을 빠르게 구분할 수 있습니다.
 
@@ -623,6 +625,7 @@ CHAへの投資では短縮されません。
 * **紫**：召喚スキル
 * **青**：遠距離攻撃スキル
 * **緑**：バフスキル
+* **黄色**：近接攻撃スキル
 
 色によって戦闘中にスキルの役割を素早く判別できます。
 
