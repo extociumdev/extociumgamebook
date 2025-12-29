@@ -30,33 +30,37 @@ layout:
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 📒Elena: The Red-Haired Novice&#x20;
+#### 📒Elena: The Chaos Mage of RottenHill
 
-Elena, a spirited red-haired girl, grew up in a humble orphanage in Rotten Hill, a remote village at the western edge of the continent. Though lively and bold, she lived in the shadow of her best friend Ishtar, a stunning and powerful mage who seemed to have it all—beauty, strength, and mastery over magic. Elena longed to be like her, but her own abilities fell short.
+"A single mistake. A world of ash. A destiny awakened."
 
-Blessed with the rare gift of reacting to Extocium, Elena should have been extraordinary. Yet, her mana control was shaky, and unlike other mages whose spells carried elemental flair, her magic felt plain and unrefined. She dreamed of matching Ishtar’s grace, but avoiding disaster was her bigger challenge. One day, while practicing magic on a journey with Ishtar, Elena misfired a clumsy mana ball that obliterated the villa of a local noble, Rahan, in a fiery blast.
+In the dusty western corner of the continent, tucked away in the RottenHill orphanage, lived Elena. She was a whirlwind of red hair and restless energy—the kind of girl who was impossible to ignore. But behind her bright smiles, Elena was fighting a silent war with herself. She lived in the shadow of her best friend, Ishtar. To Elena, Ishtar was the perfect ideal: beautiful, poised, and naturally gifted. Elena, by contrast, felt like a clumsy footnote.
 
-Burdened with a staggering debt at such a young age, Elena was given a secret mission by Rahan as repayment. Now, she must join the Wizard Knights, her steps heavy with doubt. Still, this path might be her chance to unlock her hidden potential and rise to become someone as strong and radiant as Ishtar.
+Elena was one of the rare few who could resonate with Extocium, the world’s most volatile resource. Yet, while other mages commanded the elements with surgical precision, Elena’s mana was a formless, chaotic mess. She spent her days just trying not to break things.
+
+That fragile effort shattered during a journey with Ishtar. In a moment of panic, a single misfired mana bolt didn't just flicker—it detonated, reducing the manor of the powerful noble Rahan to cinders in seconds. Buried under a debt she could never pay, Elena was forced into a secret mission for the man whose home she destroyed. As she heads toward the Wizard Knights Order, her heart is heavy with doubt. But at the edge of this disaster, Elena might finally realize that her "clumsiness" was actually a power too great to be contained.
 {% endtab %}
 
 {% tab title="한국어" %}
 #### 📒엘레나: 붉은 머리의 서툰 마법사&#x20;
 
-대륙의 서쪽 끝, 로튼힐의 작은 고아원에서 자란 붉은 머리 소녀 엘레나는 활기찬 성격으로 늘 눈에 띄었다. 그러나 그녀의 마음속에는 친구 이슈타르에 대한 동경과 열등감이 뒤섞여 있었다. 이슈타르는 아름답고 강하며 마법을 자유롭게 다루는 완벽한 존재였지만, 엘레나는 그저 서툰 마법사일 뿐이었다.
+대륙의 서쪽 끝, 로튼힐의 작은 고아원에서 자란 붉은 머리 소녀 엘레나는 활기찬 성격으로 늘 사람들의 눈길을 끌었다. 웃음도 많고 행동도 앞서는 아이였지만, 그녀의 마음 한켠에는 늘 친구 이슈타르에 대한 동경과 열등감이 함께 자리하고 있었다. 아름답고 강하며 마법을 자유롭게 다루는 이슈타르는 엘레나에게 늘 닿을 수 없는 이상처럼 보였고, 그에 비해 엘레나는 스스로를 서툰 마법사라 여기곤 했다.
 
-엘레나는 귀한 엑스토시움에 반응하는 드문 인간이었지만, 마나 조절에 서툴러 마법은 늘 불완전했다. 다른 마법사들의 마법엔 속성이 있다는데, 그녀의 마법은 속성조차 없었다. 이슈타르처럼 되고 싶었지만, 실수하지 않는 것만 해도 다행이었다. 어느 날, 이슈타르와의 여행 중 마법 연습을 하다 잘못된 마나볼이 폭발하며 지방 귀족 라한의 별장을 잿더미로 만들어버렸다.
+엘레나는 귀한 자원 엑스토시움에 반응하는 드문 인간이었지만, 마나를 다루는 재능은 부족했다. 다른 마법사들의 마법에는 뚜렷한 속성이 있었지만, 그녀의 마법은 속성조차 없이 늘 불안정했다. 이슈타르처럼 되고 싶다는 마음과 달리, 실수하지 않는 것만 해도 다행인 날들이 이어졌다. 그러던 어느 날, 이슈타르와 함께한 여행 중 마법 연습을 하다 잘못된 마나볼이 폭발하며, 지방 귀족 라한의 별장을 한순간에 잿더미로 만들어 버리고 만다.
 
-어린 나이에 천문학적인 배상금을 떠안게 된 엘레나는 그 대가로 라한에게서 비밀 임무를 받았다. 이제 위자드 기사단으로 향해야 하는 그녀의 발걸음은 무겁다. 하지만 이 여정에서 엘레나는 어쩌면 자신의 잠재력을 깨닫고, 이슈타르처럼 강하고 멋진 사람이 될지도 모른다.
+어린 나이에 감당할 수 없는 배상금을 떠안게 된 엘레나는, 그 대가로 라한에게서 비밀 임무를 제안받는다. 위자드 기사단으로 향해야 하는 그녀의 발걸음은 무겁지만, 이 여정의 끝에서 엘레나는 어쩌면 자신의 잠재력을 깨닫고, 언젠가는 이슈타르처럼 강하고 멋진 마법사가 될 수 있을지도 모른다. 실수로 시작된 이 여행이, 그녀에게는 인생을 바꾸는 첫 걸음이 될 것이다.
 {% endtab %}
 
 {% tab title="日本語" %}
-📒エレナ：赤毛の未熟な魔法使い
+#### 📒 エレナ（Elena）：未熟な魔力に宿る、無限の可能性
 
-大陸の西の果て、ロッテンヒルの小さな孤児院で育った赤毛の少女、エレナ。元気で明るい性格の彼女は目立つ存在でしたが、心の中では親友イシュタルへの憧れと劣等感が入り混じっていました。イシュタルは美しく、強く、魔法を自由に操る完璧な存在。エレナはそんな彼女のようになりたいと願っていました。
+「たった一度の過ち、灰色の世界。そこから私の運命は動き出した。」
 
-エレナは貴重なエクストシウムに反応する珍しい人間でしたが、マナのコントロールが下手で、魔法はいつも不安定でした。他の魔法使いの魔法には属性があるというのに、彼女の魔法にはそれすらありませんでした。イシュタルのように輝きたいと思いつつも、失敗を避けるのが精一杯でした。ある日、イシュタルと旅をしながら魔法の練習中、失敗したマナボールが爆発し、地方貴族ラハンの別荘を一瞬で吹き飛ばしてしまいました。
+大陸の西の果て、ロッテンヒルの小さな孤児院で育った赤髪の少女、エレナ。明るく活発な彼女は、どこにいても周囲を照らす太陽のような存在でした。しかし、その笑顔の裏には、親友イシュタルに対する「憧れ」と、決して拭えない「劣等感」が静かに渦巻いていました。美しく、何でも器用にこなすイシュタルは、エレナにとって遥か遠い理想郷そのもの。自分はいつも一歩後ろを歩く、不器용な魔法使いに過ぎないと感じていたのです。
 
-幼いながらも莫大な賠償金を背負ったエレナは、その代償としてラハンから秘密の任務を託されます。そして今、ウィザード騎士団へ向かう彼女の足取りは重い。それでも、この旅が彼女に秘めた力を見出すきっかけとなり、イシュタルのように強く美しい存在になれる可能性を秘めているのかもしれません。
+エレナは稀少資源「エクストシウム」と共鳴できる数少ない資質を持っていましたが、その魔力制御は壊滅的でした。他の魔導師たちが鮮やかに元素を操る傍らで、彼女の魔法は形も属性も持たず、ただ不安定に揺らめくだけ。「今日は失敗しませんように」――それが彼女のささやかな日常でした。
+
+しかし、その危うい平穏はイシュタルとの旅路で崩れ去ります。放たれたマナの奔流は制御を失い、あろうことか地方貴族ラハンの別邸を一瞬にして灰燼に帰してしまったのです。子供には到底背負いきれない代償。その代わりに突きつけられたのは, ラハンからの「極秘任務」でした。魔導騎士団へと向かうエレナの足取りは重く、迷いに満ちています。けれど、この望まぬ旅の果てに、彼女は気づくことになるでしょう。その「未熟さ」こそが、世界を塗り替える真の力の胎動であったことに。
 {% endtab %}
 {% endtabs %}
 

@@ -9,37 +9,41 @@ coverY: 143.45868338672102
 
 {% embed url="https://youtu.be/Q3q6QJzN68o" %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Ishtar.png">Git_Hero_Ishtar.png</a></td><td><a href="../">..</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Ishtar_light.png">Git_Hero_Ishtar_light.png</a></td><td><a href="../stats/elemental-bonus-damage.md#elemental-bonus-damage-table">#elemental-bonus-damage-table</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Git_Hero_Ishtar.png">Git_Hero_Ishtar.png</a></td><td><a href="../">..</a></td></tr><tr><td></td><td><a href="../../../.gitbook/assets/KakaoTalk_20250918_153624149.png">KakaoTalk_20250918_153624149.png</a></td><td><a href="../stats/elemental-bonus-damage.md#elemental-bonus-damage-table">#elemental-bonus-damage-table</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 📒Ishtar: The Radiant Star of Rotten Hill
+### 📒 Ishtar: The Star That Refused to Fade
 
-Ishtar, with her lavender hair cascading like a twilight waterfall and pale blue eyes reminiscent of glacial caverns beneath eternal snow, was born and raised in the dilapidated orphanage of Rotten Hill. Amid the village’s crumbling ruins and bleak desolation, her beauty stood out like a beacon of light, enchanting all who laid eyes on her. Even Elena, her dearest companion, couldn’t help but be awestruck by her ethereal charm.
+"Beauty is a cage. Curiosity is the key."
 
-Yet, Ishtar’s allure runs deeper than her appearance. Within her burns an unquenchable curiosity and a fierce desire to conquer the vast world beyond her humble beginnings. Raised within the confines of Rotten Hill’s orphanage, she yearned to become someone powerful and extraordinary, her spirit restless with dreams of adventure. The rare visits from Paracil, a wandering merchant, were the highlights of her days. His tales of the Kingdom of Asterica and the legendary Wizard Knights ignited her imagination, planting seeds of longing to one day join their ranks.
+Ishtar was born to be noticed. With lilac hair that flowed like liquid light and eyes the color of ancient glacial ice, she was a vivid splash of color against the grey, crumbling walls of RottenHill. To the villagers, she was a masterpiece. To her friend Elena, she was a goddess. But Ishtar didn't want to be a masterpiece; she wanted to be a pioneer.
 
-Then came the day Parasiel arrived bearing Extocium, unveiling the hidden truth: both Ishtar and Elena possessed the rare gift of wizardry. Her heart surged with wild excitement, a fire kindled within her soul. No longer could she remain bound to Rotten Hill. Grasping Elena’s hand with unwavering resolve, Ishtar embarked on a journey to join the Wizard Knights—a quest that marked not just an adventure, but the beginning of her legacy.
+She felt the walls of the orphanage closing in. Her heart thrived on the stories of Parasiel, a traveling merchant who brought tales of the Kingdom of Asterica and the legendary Wizard Knights. She didn't just want to hear about the world—she wanted to own it.
+
+When Parasiel arrived with the mysterious Extocium, everything changed. Ishtar felt the dormant power within her pulse for the first time. In that moment, the hesitation she had carried her whole life vanished. Grabbing Elena’s hand, she stepped out into the unknown. For Ishtar, this isn't just a trip to join the Knights; it’s the moment she takes the pen and starts writing her own legend.
 {% endtab %}
 
 {% tab title="한국어" %}
 #### 📒이슈타르: 로튼힐의 빛나는 별
 
-연보라빛으로 찰랑이는 머릿결과 만년설 아래 얼음굴을 가져다놓은 듯한 희푸른 눈동자를 가진 이슈타르는 로튼힐 고아원에서 태어나 자란 소녀다. 황량하고 무너져가는 로튼힐의 풍경 속에서 그녀의 아름다움은 마치 밤하늘의 별처럼 유난히 도드라졌다. 절친한 친구 엘레나조차 이슈타르의 고혹적인 자태에 감탄을 금치 못할 정도였다.
+연보라빛으로 찰랑이는 머릿결과, 만년설 아래 얼음굴을 떠올리게 하는 희푸른 눈동자를 지닌 이슈타르는 로튼힐 고아원에서 태어나 자란 소녀였다. 황량하고 무너져 가는 마을 풍경 속에서도 그녀의 모습은 유난히 선명했고, 그 아름다움은 마치 어두운 밤하늘에 떠 있는 별처럼 사람들의 시선을 사로잡았다. 가장 가까운 친구 엘레나조차도, 이슈타르의 고혹적인 자태 앞에서는 감탄을 숨기지 못하곤 했다.
 
-하지만 이슈타르는 외모만으로 정의되지 않는다. 그녀의 내면에는 끝없는 호기심과 세상 너머의 이야기를 향한 뜨거운 열망이 불타고 있다. 작은 고아원의 울타리 안에서 자라며, 그녀는 드넓은 대륙을 누비는 강하고 멋진 존재가 되기를 꿈꿨다. 마을에 찾아오는 상인 파라시엘이 들려주는 아스테리카 왕국과 위자드 기사단의 이야기는 그녀의 가슴을 뛰게 하는 원동력이었다. 그의 목소리를 통해 전해지는 모험담은 이슈타르의 상상력을 깨우며, 언젠가 자신도 그 세계의 주인공이 되고 싶다는 바람을 키웠다.
+그러나 이슈타르는 단지 아름다운 소녀로 머물 아이가 아니었다. 그녀의 내면에는 끝없는 호기심과, 세상 너머를 향한 강한 갈망이 늘 타오르고 있었다. 작은 고아원의 울타리 안에서 자라며, 이슈타르는 언젠가 드넓은 대륙을 누비는 강하고 당당한 존재가 되기를 꿈꿨다. 마을을 찾는 상인 파라시엘이 들려주는 아스테리카 왕국과 위자드 기사단의 이야기는 그녀의 가슴을 뛰게 했고, 그가 들려주는 모험담은 이슈타르의 마음속에 아직 가보지 못한 세계를 또렷하게 그려 주었다.
 
-그러던 어느 날, 파라시엘이 신비로운 엑스토시움을 들고 찾아왔다. 그를 통해 이슈타르와 엘레나는 자신들에게 위자드의 재능이 잠재되어 있음을 알게 되었다. 그 순간, 이슈타르의 마음은 억누를 수 없을 만큼 요동쳤다. 더 이상 로튼힐에 갇혀 있을 수 없다는 확신이 그녀를 사로잡았고, 그녀는 엘레나의 손을 굳게 잡은 채 위자드 기사단에 입단하기 위한 여정을 시작했다. 이슈타르에게 이 길은 단순한 여행이 아니라, 운명을 스스로 써 내려가는 첫 페이지였다.
+그러던 어느 날, 파라시엘이 신비로운 엑스토시움을 들고 로튼힐을 찾는다. 그를 통해 이슈타르와 엘레나는 자신들 안에 위자드의 재능이 잠들어 있다는 사실을 알게 된다. 그 순간, 이슈타르의 마음속에서 망설임은 사라졌다. 더 이상 이곳에 머물 이유는 없었다. 그녀는 엘레나의 손을 단단히 붙잡고, 위자드 기사단을 향한 여정을 시작한다. 이슈타르에게 이 길은 단순한 여행이 아니라, 자신의 운명을 스스로 써 내려가기 시작하는 첫 장이었다.
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 📒イシュタル：ロッテンヒルの輝く星
+#### 📒 イシュタル（Ishtar）：ロッテンヒルに舞い降りた蒼き星
 
-薄紫色の髪が柔らかく揺れ、万年雪の下に眠る氷窟のような淡い青の瞳を持つイシュタルは、ロッテンヒルの小さな孤児院で生まれ育ちました。朽ち果てたロッテンヒルの寂しい風景の中でも、彼女の美しさはまるで夜空に瞬く星のように際立っていました。最も親しい友であるエレナでさえ、イシュタルの可憐な姿に心を奪われるほどでした。
+「美しさは籠の中。渇望こそが、外の世界へ続く鍵。」
 
-だが、イシュタルの魅力は外見だけに留まりません。彼女の心には尽きることのない好奇心と、広い世界への強い憧れが息づいています。小さな孤児院で育ちながら、彼女はいつか力強く、素晴らしい存在になることを夢見ていました。時折村を訪れる商人パラシエルが語るアステリカ王国やウィザード騎士団の物語は、彼女にとって何よりの宝物でした。彼の言葉はイシュタルの想像をかき立て、いつか自分もその冒険の一部になりたいという願いを膨らませてくれました。
+光を湛えた淡い紫の髪、万年雪の奥底に眠る氷窟のような瞳。ロッテンヒルの荒廃した景色の中で、イシュタルの存在はあまりにも鮮烈でした。暗闇に浮かぶ一筋の恒星のように、誰もが彼女に目を奪われ、親友のエレナでさえも、その眩しさに溜息を漏らすほどでした。
 
-ある日、パラシエルがエクストシウムを持って現れ、イシュタルとエレナにウィザードの才能が秘められていることが明らかになりました。その瞬間、イシュタルの心は抑えきれずに高鳴りました。もうロッテンヒルに留まることはできないと悟った彼女は、エレナの手をしっかりと握り、ウィザード騎士団への入団を目指す旅に出ることを決意しました。イシュタルにとって、この旅は冒険以上のもの――自らの運命を切り開く第一歩だったのです。
+しかし、イシュタルはただ愛でられるだけの少女ではありませんでした。その内側には、孤児院の壁の向こう側――まだ見ぬ広い世界への止まらない好奇心が燃え盛っていました。行商人パラシエルが語るアステリカ王国や魔導騎士団の武勇伝。彼女はその物語を糧に、いつか大陸を自由に駆け巡る自らの姿を夢見ていたのです。
+
+ある日、パラシエルが持ち込んだ神秘の資源「エクストシウム」。それが彼女の中に眠る魔導師の資質を呼び覚ました瞬間、イシュタルの心から迷いは消え去りました。もう、ここに留まる理由はない。エレナの手を強く引き、彼女は魔導騎士団への一歩を踏み出します。それは単なる旅ではありません。イシュタルという名の物語を、自らの手で綴り始めるためのプロローグなのです。
 {% endtab %}
 {% endtabs %}
 
