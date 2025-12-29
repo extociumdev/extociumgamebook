@@ -42,7 +42,7 @@ Please read carefully before proceeding.
 * **QR Login**
 * **APP LOAD Login**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ After selecting a login method,\
 you’ll be asked to choose the wallet to connect.\
@@ -181,7 +181,7 @@ EXTOCIUM에서는\
 
 2️⃣ 팝업 창이 나타나면, **QR 로그인** 또는 **APP LOAD 로그인** 중 하나를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 선택 후,\
 **연결할 지갑을 선택하는 화면**이 나타납니다.\
@@ -314,7 +314,7 @@ EXTOCIUMでは、\
 * **QRログイン**
 * **APP LOADログイン**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 選択後、\
 接続するウォレットを選ぶ画面が表示されます。\
