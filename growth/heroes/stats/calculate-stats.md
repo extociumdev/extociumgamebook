@@ -1,153 +1,263 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 3️⃣ Calculate stats
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 **Shall we explore how to calculate the final combat stats using combat stats and special stats?**
+### 🧮 Calculate Stats
 
-* Let's take **Attack Points (AP)** as an example!
+💡 **Let’s take a look at how Combat Stats and Special Stats combine to form your final combat power.**
 
-## ✅3-Step Guide for Calculating AP
+* To make things easier to understand, this guide uses **Phys. DMG (Physical Damage)** as an example.
 
-**AP (Attack Points)** refers to the attack power used by a hero during normal/melee/combo attacks, and it is calculated in the following 3 steps:
+***
 
-### **1️⃣** Calculate the total of base AP and equipment AP
+### ◾ What Is Phys. DMG?
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+**Phys. DMG** is the base physical damage applied when a Hero performs\
+**normal attacks, melee attacks, or combo attacks**.
 
-* First, calculate the total AP attached to the equipment. This also includes the base AP value assigned to the hero.
-* In other words, you add together the **hero's base attack power** and the **attack power gained from equipment**.
+Phys. DMG is **not determined by equipment alone**.\
+Skill effects and Special Stats are also taken into account\
+to calculate the final damage value.
 
-### **2️⃣** Add skill AP and distribute attack power
+***
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+### ✅ 3-Step Guide to Calculating Phys. DMG
 
-* Add the AP attached to the skill to the value obtained in step 1️⃣.
+#### 1️⃣ Base Phys. DMG + Equipment Phys. DMG
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* Next, multiply it by the **Multi-Hit Attack Power Allocation** assigned to each skill.
-  * For example, if a skill fires multiple projectiles, the total attack power is divided by the number of projectiles or expected hit counts to prevent each projectile's attack power from being too high. This way, the attack power is evenly distributed even if the skill hits multiple times.
+First, add together:
 
-### **3️⃣** Apply special stats
+* The Hero’s **base Phys. DMG**
+* All **Phys. DMG values provided by equipped gear**
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+In simple terms, this step calculates:
 
-* Finally, apply the special stats. These special stats are additional bonuses based on attributes like **STR, DEX, CON, WIS, CHA**.
+> “My Hero’s base physical damage + all physical damage gained from equipment.”
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+***
 
-* Refer to the coefficient table related to AP in the diagram, and multiply the total value of each stat (e.g., STR, DEX) by its respective coefficient. For more details, refer to the [**Special Stats - Coefficient**](special-stats/special-stats-coefficient.md) page.
-* Add **1** to the calculated result to make it a positive percentage value, representing the bonus rate added to the base attack power.
+#### 2️⃣ Apply Skill Phys. DMG & Multi-Hit Attack Power Allocation
+
+Next, add the **Phys. DMG granted by skills** to the value calculated in Step 1️⃣.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Then, multiply the result by the\
+**Multi-Hit Attack Power Allocation** assigned to each skill.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+_This process prevents excessive damage when a skill hits multiple times_\
+_by distributing the total damage based on the expected number of hits._
+
+_As a result, even multi-hit skills maintain balanced total damage output._
+
+***
+
+#### 3️⃣ Apply Special Stats
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+In the final step, **Special Stat bonuses** are applied.
+
+* Each Special Stat \[ **STR, DEX, INT, CON, WIS, CHA ]** \
+  provides a **percentage-based bonus** to Phys. DMG.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+📘 You can check how much each stat affects Phys. DMG\
+on the [**Special Stats – Coefficient**](special-stats/special-stats-coefficient.md) page.
+
+The calculated Special Stat bonuses are applied\
+as additional multipliers based on the base Phys. DMG.
+
+***
 
 {% hint style="info" %}
-#### 📊 AP Final Calculation Example
+### 📊 Final Phys. DMG Calculation Structure
 
-* The final calculation formula for **AP (Attack Points)** is structured as follows:
-
-\[ (Initial AP + Total AP from all equipped items + Skill AP) \* Multi-Hit Attack Power Allocation ] \* { 1 + (STR Total \* AP-STR Coefficient) + (DEX Total \* AP-DEX Coefficient) + (INT Total \* AP-INT Coefficient) + (CON Total \* AP-CON Coefficient) + (WIS Total \* AP-WIS Coefficient) + (CHA Total \* AP-CHA Coefficient) }
+\[ (Base Phys. DMG + Total Phys. DMG from all equipped items + Skill Phys. DMG) \* Multi-Hit Attack Power Allocation ] \* { 1 + (STR Total \* Phys. DMG-STR Coefficient) + (DEX Total \* Phys. DMG-DEX Coefficient) + (INT Total \* Phys. DMG-INT Coefficient) + (CON Total \* Phys. DMG-CON Coefficient) + (WIS Total \* Phys. DMG-WIS Coefficient) + (CHA Total \* Phys. DMG-CHA Coefficient) }
 {% endhint %}
 {% endtab %}
 
 {% tab title="한국어" %}
-💡 **전투 스탯과 스페셜 스탯을 이용해 최종 전투스탯을 계산하는 방법을 알아볼까요?**&#x20;
+### 🧮 Calculate Stats (스탯 계산)
 
-* 어택포인트 (AP)를 예시로 들어볼게요!
+💡 **전투 스탯과 스페셜 스탯이 어떻게 합쳐져 최종 전투력이 되는지 알아볼까요?**
 
-## ✅AP 계산을 위한 3단계 가이드
+* 이 가이드에서는 이해를 돕기 위해 **Phys. DMG(물리 데미지)**&#xB97C; 예시로 설명합니다.
 
-**AP** (어택 포인트)는 영웅이 일반공격/밀리공격/콤보공격을 할 때 사용되는 공격력을 의미하며, 이를계산하기 위해 아래 3단계를 거칩니다.
+***
 
-### **1️⃣ 기본 AP와 장비 AP의 총합 계산**
+### ◾ Phys. DMG(물리 데미지)란?
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+**Phys. DMG**는\
+영웅이 **일반 공격 / 근접 공격 / 콤보 공격**을 할 때 적용되는 기본 물리 데미지 수치입니다.
 
-* 먼저, **장비에 붙어 있는 AP의 총합**을 구합니다. 여기에는 **영웅에게 부여된 기본 AP 값**도 포함됩니다.
-* 쉽게 말해, **영웅의 기본 공격력**과 **장비를 통해 얻은 공격력**을 모두 더하는 것입니다.
+Phys. DMG는 단순히 장비 수치만으로 결정되지 않으며,\
+스킬 효과와 스페셜 스탯까지 모두 반영되어 최종 데미지로 계산됩니다.
 
-### **2️⃣ 스킬 AP 추가 및 공격력 분배**
+***
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+### ✅ Phys. DMG 계산을 위한 3단계 가이드
 
-* **스킬에 붙은 AP**를 **1️⃣**에서 구한 값에 더합니다.
+#### 1️⃣ 기본 Phys. DMG + 장비 Phys. DMG 계산
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* 그 다음, \*\***스킬마다 부여된 다단히트 공격력 분배(Multi-Hit Attack Power Allocation)**\*\*를 곱해줍니다.
-  * 예를 들어, 스킬이 여러 개의 탄환을 발사할 경우, 각 탄환의 공격력이 너무 높아지는 것을 막기 위해 **총 공격력을 탄환의 수 혹은 예상 타격 횟수로 나누어** 계산합니다. 이렇게 하면 스킬이 여러 번 타격을 해도 **공격력이 균형 있게 분배**됩니다.
+가장 먼저,\
+영웅이 기본적으로 가지고 있는 **Phys. DMG**와 장착한 장비에 부여된 **모든 Phys. DMG를 합산**합니다.
 
-### **3️⃣ 스페셜 스탯 적용**
+쉽게 말해,
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+> “내 캐릭터의 기본 물리 데미지 + 장비로 얻은 모든 물리 데미지”
 
-* 마지막으로, **스페셜 스탯**을 적용해줍니다. 이 **스페셜** 스탯은 **STR, DEX, CON, WIS, CHA** 등의 능력치를 기반으로 한 추가 보너스입니다.
+를 모두 더하는 단계입니다.
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+***
 
-* 도표에서 **AP와 관련된 계수**를 참고하여 **각각의 스탯(STR, DEX, 등등)의 총합**에 계수**를 곱한 값**을 모두 더합니다. [Special Stats - Coefficient ](special-stats/special-stats-coefficient.md)페이지를 참고해주세요.
-* 계산된 결과에 **1을 더하여 최종 양수 퍼센트 형태로** 만들어줍니다. 이 값은 **기본 공격력에 추가되는 보너스 비율**을 나타냅니다.
+#### 2️⃣ 스킬 Phys. DMG 적용 & 공격력 분배
+
+다음으로,\
+스킬에 부여된 **Phys. DMG**를 1️⃣ 단계에서 계산한 값에 추가합니다.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+그 후,\
+각 스킬에 설정된 **스킬마다 부여된 다단히트 공격력 분배(Multi-Hit Attack Power Allocation)**&#xB97C; 곱해줍니다.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+_이는 스킬이 여러 번 타격할 경우,_\
+_각 타격의 데미지가 과도해지는 것을 방지하기 위해_\
+_총 데미지를 예상 타격 횟수 기준으로 분배하기 위함입니다._
+
+_이를 통해 다단히트 스킬이라도_\
+_전체 피해량이 균형 있게 유지됩니다._
+
+***
+
+#### 3️⃣ 스페셜 스탯 적용
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+마지막 단계에서는 **스페셜 스탯 보너스**가 적용됩니다.
+
+* STR, DEX, INT, CON, WIS, CHA\
+  각 스페셜 스탯은 Phys. DMG에 **비율 기반 보너스**를 제공합니다.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+📘 각 스탯이 Phys. DMG에 얼마나 영향을 주는지는\
+[**Special Stats – Coefficient**](special-stats/special-stats-coefficient.md) 페이지에서 확인할 수 있습니다.
+
+계산된 스페셜 스탯 보너스는 **기본 Phys. DMG를 기준으로 한 추가 배율**로 적용됩니다.
+
+***
 
 {% hint style="info" %}
-#### 📊 AP 최종 계산 방식 예시
+### 📊 Phys. DMG 최종 계산 구조
 
-* AP(어택 포인트)의 최종 계산 방식은 아래와 같은 구조입니다:
-
-\[ (AP최초값 + 장착된 장비에 붙은 모든 AP의 총합 + 스킬 공격력 ) \* **다단히트 공격력 분배** ] \* { 1 + ( STR총합 \* AP-STR계수 ) + ( DEX총합 \* AP-DEX계수 ) + ( INT총합 \* AP-INT계수 ) } + ( CON총합 \* AP-CON계수 ) } + ( WIS총합 \* AP-WIS계수 ) } + ( CHA총합 \* AP-CHA계수 ) }
+\[ (Phys. DMG최초값 + 장착된 장비에 붙은 모든 Phys. DMG의 총합 + 스킬 공격력 ) \* **다단히트 공격력 분배** ] \* { 1 + ( STR총합 \* Phys. DMG-STR계수 ) + ( DEX총합 \* Phys. DMG-DEX계수 ) + ( INT총합 \* Phys. DMG-INT계수 ) } + ( CON총합 \* Phys. DMG-CON계수 ) } + ( WIS총합 \* Phys. DMG-WIS계수 ) } + ( CHA총합 \* Phys. DMG-CHA계수 ) }
 {% endhint %}
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **戦闘ステータスとスペシャルステータスを使用して最終的な戦闘ステータスを計算する方法を見てみましょうか？**
+### 🧮 ステータス計算（Calculate Stats）
 
-* アタックポイント (AP)を例にしてみます！
+💡 **戦闘ステータス**と**スペシャルステータス**が、\
+どのように組み合わさって最終的な戦闘力になるのかを見ていきましょう。
 
-## ✅AP計算のための3ステップガイド
+* 本ガイドでは、理解を深めるために **Phys. DMG（物理ダメージ）** を例として説明します。
 
-\*\*AP（アタックポイント）\*\*は英雄が通常/近接/コンボ攻撃を行う際に使用される攻撃力を指し、以下の3つのステップで計算されます。
+***
 
-### **1️⃣** 基本APと装備APの合計を計算
+### ◾ Phys. DMG（物理ダメージ）とは？
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+**Phys. DMG** は、\
+ヒーローが **通常攻撃・近接攻撃・コンボ攻撃** を行う際に適用される\
+基本的な物理ダメージ数値です。
 
-* まず、装備に付与されているAPの合計を求めます。ここには、英雄に割り当てられた基本APの値も含まれます。&#x20;
-* つまり、英雄の基本攻撃力と装備から得た攻撃力を全て足し合わせます。
+Phys. DMGは装備の数値だけで決まるものではなく、\
+スキル効果やスペシャルステータスを含めて 最終ダメージとして計算されます。
 
-### **2️⃣** スキルAPの追加と攻撃力の分配
+***
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+### ✅ Phys. DMG計算 3ステップガイド
 
-* スキルに付与されているAPをステップ1️⃣で求めた値に加えます。
+#### 1️⃣ 基本Phys. DMG ＋ 装備Phys. DMG
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* その後、各スキルに割り当てられた**マルチヒット攻撃力の分配**を掛けます。
-  * 例えば、スキルが複数の弾を発射する場合、各弾の攻撃力が高くなりすぎないように、総攻撃力を弾の数や予想されるヒット回数で割って計算します。これにより、スキルが複数回ヒットしても攻撃力が均等に分配されます。
+まず最初に、以下をすべて合算します。
 
-### **3️⃣** スペシャルステータスの適用
+* ヒーローが元々持っている **基本Phys. DMG**
+* 装備に付与されている **すべてのPhys. DMG**
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+簡単に言うと、
 
-* 最後に、スペシャルステータスを適用します。これらのスペシャルステータスは、**STR、DEX、CON、WIS、CHA**などの属性に基づく追加ボーナスです。
+> 「キャラクターの基本物理ダメージ＋装備から得た物理ダメージ」
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+を合計する段階です。
 
-* APに関連する係数表を参照し、各ステータス（例えばSTR、DEXなど）の合計にそれぞれの係数を掛けた値を全て足します。詳細については、[**Special Stats - Coefficient**](special-stats/special-stats-coefficient.md)ページを参照してください。
-* 計算結果に**1を加えて**最終的に正のパーセンテージの形にします。この値は基本攻撃力に追加されるボーナス率を表します。
+***
+
+#### 2️⃣ スキルPhys. DMG適用 ＆ 多段ヒット攻撃力分配
+
+次に、\
+スキルに設定されている **Phys. DMG** を1️⃣で算出した数値に加算します。
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+その後、\
+各スキルに設定された\
+**多段ヒット攻撃力分配（Multi-Hit Attack Power Allocation）**&#x3092;掛け合わせます。
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+_これは、スキルが複数回ヒットする場合に_\
+_1ヒットあたりのダメージが過剰にならないよう、_\
+_総ダメージを想定ヒット回数に応じて分配するための仕組みです。_\
+_この処理により、多段ヒットスキルでも_\
+_全体のダメージ量がバランスよく保たれます。_
+
+***
+
+#### 3️⃣ スペシャルステータス適用
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+最後に、**スペシャルステータスのボーナス**が適用されます。
+
+* STR / DEX / INT / CON / WIS / CHA\
+  それぞれのスペシャルステータスは、\
+  Phys. DMGに対して **割合ベースのボーナス** を提供します。
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+📘 各ステータスがPhys. DMGに どの程度影響するかについては、\
+[**Special Stats – Coefficient**](special-stats/special-stats-coefficient.md) ページで確認できます。
+
+算出されたスペシャルステータスのボーナスは、\
+基本Phys. DMGを基準とした 追加倍率として適用されます。
+
+***
 
 {% hint style="info" %}
-#### 📊 AP最終計算例
+### 📊 Phys. DMG 最終計算構造
 
-* \*\*AP（アタックポイント）\*\*の最終計算式は次のような構造です：
-
-\[ (初期AP + 装備したすべてのAPの合計 + スキルAP) \* マルチヒット攻撃力分配 ] \* { 1 + (STR合計 \* AP-STR係数) + (DEX合計 \* AP-DEX係数) + (INT合計 \* AP-INT係数) + (CON合計 \* AP-CON係数) + (WIS合計 \* AP-WIS係数) + (CHA合計 \* AP-CHA係数) }
+\[ (基本Phys. DMG + 装備によって付与されたPhys. DMGの合計 + スキル攻撃力 ) \* **多段ヒット攻撃力分配** ] \* { 1 + ( STR合計 × Phys. DMG-STR係数 ) + ( DEX合計 × Phys. DMG-DEX係数 ) + ( INT合計 × Phys. DMG-INT係数 ) } + ( CON合計 × Phys. DMG-CON係数 ) } + ( WIS合計 × Phys. DMG-WIS係数 ) } + ( CHA合計 × Phys. DMG-CHA係数 ) }
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 30, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
 
 
