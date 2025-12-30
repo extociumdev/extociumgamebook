@@ -1,213 +1,315 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 2️⃣ Special Stats
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 💡 Special Stats – Enhance Your Hero’s Combat Traits!
+### 🌟 Special Stats
 
-Special Stats are **the six unique attributes that each hero possesses**.\
-These stats **directly affect Combat Stats**, enhancing your hero’s combat potential.
-
-✅ **Example:**
-
-* **STR (Strength)** significantly influences **Attack Points (AP)**.
-* **The higher the STR, the higher the final AP value.**
-* Formula: <mark style="color:purple;">**Combat Stat × (1 + Special Stat Multiplier)**</mark>
+💡 **Special Stats** are the core attributes that define a Hero’s combat tendencies.\
+Every Hero has **6 Special Stats**, and these stats influence Combat Stats,\
+enhancing attack methods and overall battle style.
 
 ***
 
-#### 🔹 **How to Obtain Special Stats**
+#### ◾ What Are Special Stats?
 
-1️⃣ **Leveling Up & Earning SP (Stat Points)**
+Special Stats are **modifier stats** that enhance the final performance of Combat Stats.
 
-* When leveling up through hunting, heroes gain **+1 SP**.
-* **SP can be freely allocated to any of the six Special Stats.**
-
-2️⃣ **Equipment Bonuses (Weapons & Orbs)**
-
-* Some equipment grants Special Stats as **fixed or random options.**
-
-***
-
-#### ✅ How to Allocate SP
-
-<figure><img src="../../../../.gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
-
-👉 Open the **Hero Info Widget**, where **Special Stats** are displayed in the bottom left corner.\
-👉 **When leveling up, new SP will appear** in this section.\
-👉 Tap **“More Info”** to access the **Stat Allocation Screen**.
+* They are **not added directly** to Combat Stats.
+* Instead, they affect the **final calculated result** of those stats.
 
 
 
-<figure><img src="../../../../.gitbook/assets/image (831).png" alt=""><figcaption></figcaption></figure>
+📌 Example
 
-👉 Tap the **green arrow (▲) to add +1 SP** to a stat.\
-👉 Tap the **red arrow (▼) to remove -1 SP**.\
-👉 Press **\<Apply>** to finalize SP allocation.
+* **STR (Strength)** has a strong impact on **Attack Power (AP)**.
+* The higher your STR, the higher your final AP becomes.
+
+{% hint style="info" %}
+#### Application Formula
+
+Combat Stat × (1 + Special Stat Weight)
+{% endhint %}
 
 ***
 
-#### ✅ How to Reset SP
+#### ◾ How to Obtain Special Stats
 
-<figure><img src="../../../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+**1️⃣ Gaining SP Through Level-Up**
 
-👉 Open the **Hero Info Widget** and tap **\<Details>** in the top left corner.\
-👉 This screen shows **the hero’s base stats (initially assigned stats).**
+* Gain **+1 SP (Stat Point)** each time you level up by hunting monsters
+* Earned SP can be freely allocated to any of the **6 Special Stats**
 
+**2️⃣ Additional Stats From Equipment**
 
+* Some equipment provides Special Stats as **fixed** or **random options**
 
-<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 Tap **\<Reset>** to bring up the **SP Reset Widget**.
+#### ◾ How to Allocate SP
 
+Special Stats can be allocated from the **Hero Info screen**.
 
+1️⃣ Open the selected Hero’s **Info Widget**
 
-<figure><img src="../../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
 
-👉 **Purchase the “Book of Oblivion” from the XTO Shop** to reset SP.
+2️⃣ Check the **Special Stats section** at the bottom-left\
+3️⃣ When SP is earned through leveling, the information updates automatically
 
-💡 **Your combat strategy changes depending on how you invest SP!**\
-💡 **Use the Book of Oblivion to experiment with different strategies!**
+<figure><img src="../../../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
+
+4️⃣ Tap the **\[More]** button to move to the stat allocation screen
+
+<figure><img src="../../../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ SP Investment & Application
+
+<figure><img src="../../../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+
+* **\[&#x20;**<mark style="color:green;">**+**</mark>**&#x20;] Button**: Invest +1 SP into the selected Special Stat
+* **\[&#x20;**<mark style="color:red;">**−**</mark>**&#x20;] Button**: Remove −1 invested SP
+* Tap **\[Apply]** to finalize the SP distribution
+
+💡 Stats do **not** change until the **`Apply`** button is pressed.
+
+***
+
+#### ◾ How to Reset SP
+
+Special Stats can be reset **at any time**.
+
+1️⃣ Tap the **\[Details]** button at the top-left of the Hero Info Widget
+
+<figure><img src="../../../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ View the Hero’s **Base Stats (initial stats)**
+
+<figure><img src="../../../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ Tap **\[Reset]** to open the reset window다.
+
+<figure><img src="../../../../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
+
+📘 **Reset Item**
+
+* Use the **“Book of Oblivion”**, sold in the **XTO Shop**, to reset SP.
+
+***
+
+> ✨ Your combat strategy changes completely depending on how you invest Special Stats.\
+> ✨ Use the Book of Oblivion to freely experiment with different builds!
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 💡 **스페셜 스탯 – 영웅의 전투 특성을 강화하는 핵심 요소!**
+### 🌟 스페셜 스탯 (Special Stats)
 
-스페셜 스탯은 **영웅이 기본적으로 가지고 있는 6가지 특별한 능력치**입니다.\
-이 스탯은 **전투 스탯에 적용되어 영웅의 전투 특성을 강화**하는 역할을 합니다.
-
-✅ **예시:**
-
-* **STR(힘)** 은 **어택 포인트(AP)** 에 큰 영향을 미치며,
-* **STR이 높아질수록 AP의 최종 값도 상승**합니다.
-* 계산 방식: <mark style="color:purple;">**전투 스탯 × (1 + 스페셜 스탯 가중치)**</mark>
+💡 **스페셜 스탯은 영웅의 전투 성향을 결정하는 핵심 능력치입니다.**\
+영웅은 기본적으로 6가지 스페셜 스탯을 가지고 있으며,\
+이 스탯들은 전투 스탯에 영향을 주어 영웅의 공격 방식과 전투 스타일을 강화합니다.
 
 ***
 
-#### 🔹 **스페셜 스탯을 얻는 방법**
+#### ◾ 스페셜 스탯이란?
 
-1️⃣ **레벨업을 통해 SP(스탯 포인트) 획득**
+스페셜 스탯은 전투 스탯의 **최종 성능을 끌어올리는 보정 스탯**입니다.
 
-* 사냥을 통해 레벨업 시 **SP +1**을 받습니다.
-* SP는 **6개의 스페셜 스탯 중 원하는 곳에 투자 가능**합니다.
-
-2️⃣ **장비(무기, 오브)를 통해 추가 획득**
-
-* 일부 장비는 **고정 옵션 또는 랜덤 옵션**으로 스페셜 스탯을 부여합니다.
-
-***
-
-#### ✅ **SP 분배 방법**
-
-<figure><img src="../../../../.gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
-
-👉 **보유 영웅의 정보 위젯**을 열면, 좌측 하단에 **스페셜 스탯 정보**가 표시됩니다.\
-👉 **레벨업 시 SP를 획득하면, 해당 정보가 업데이트됩니다.**\
-👉 **더보기** 버튼을 눌러 스탯 분배창으로 이동하세요.
+* 전투 스탯에 직접 더해지는 것이 아니라
+* 전투 스탯의 **최종 결과에 영향을 주는 방식**으로 적용됩니다.
 
 
 
-<figure><img src="../../../../.gitbook/assets/image (831).png" alt=""><figcaption></figcaption></figure>
+📌 **예시**
 
-👉 각 스탯의 **녹색 화살표(▲)를 눌러 +1씩 SP를 투자**하세요.\
-👉 **빨간 화살표(▼)를 누르면 -1**이 됩니다.\
-👉 **<적용> 버튼을 터치하면 SP 분배가 완료됩니다.**
+* **STR(힘)**&#xC740; **어택 포인트(AP)**&#xC5D0; 큰 영향을 줍니다.
+* STR 수치가 높을수록, AP의 최종 값도 함께 상승합니다.
+
+{% hint style="info" %}
+#### **적용 방식**
+
+전투 스탯 × (1 + 스페셜 스탯 가중치)
+{% endhint %}
 
 ***
 
-#### ✅ **SP 초기화 방법**
+#### ◾ 스페셜 스탯 획득 방법
 
-<figure><img src="../../../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+**1️⃣ 레벨업을 통한 SP 획득**
 
-👉 **영웅 정보 위젯**에서 좌측 상단의 **<상세정보> 버튼을 터치**하세요.\
-👉 여기서 **영웅의 베이스 스탯(최초에 부여된 스탯 정보)을 확인할 수 있습니다.**
+* 몬스터 사냥으로 레벨업 시 **SP(스탯 포인트) +1** 획득
+* 획득한 SP는 6개의 스페셜 스탯 중 원하는 스탯에 자유롭게 투자할 수 있습니다.
 
+**2️⃣ 장비를 통한 추가 획득**
 
+* 일부 장비는 **고정 옵션 또는 랜덤 옵션**으로 스페셜 스탯을 제공합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 **<초기화> 버튼을 터치**하면, **스페셜 스탯을 초기화할 수 있는 위젯이 등장**합니다.
+#### ◾ SP 분배 방법
 
+스페셜 스탯은 영웅 정보 화면에서 분배할 수 있습니다.
 
+1️⃣ 보유 영웅의 **정보 위젯**을 엽니다.
 
-<figure><img src="../../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
 
-👉 **XTO 상점에서 판매하는 ‘망각의 서’ 아이템을 사용하면 SP를 초기화할 수 있습니다.**
+2️⃣ 좌측 하단에서 **스페셜 스탯 정보**를 확인합니다.\
+3️⃣ 레벨업으로 SP를 획득하면, 해당 정보가 업데이트됩니다.
 
-💡 **스페셜 스탯을 어떻게 투자하느냐에 따라 전투 전략이 달라집니다!**\
-💡 **망각의 서를 활용해 더욱 다양한 전투 전략을 시도해 보세요!**
+<figure><img src="../../../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
+
+4️⃣ **\[더보기] 버튼**을 눌러 스탯 분배 화면으로 이동하세요.
+
+<figure><img src="../../../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ SP 투자 및 적용
+
+<figure><img src="../../../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+
+* **\[&#x20;**<mark style="color:green;">**+**</mark>**&#x20;] 버튼**: 선택한 스페셜 스탯에 SP를 +1 투자합니다.
+* **\[&#x20;**<mark style="color:red;">**−**</mark>**&#x20;] 버튼**: 투자한 SP를 −1 회수합니다.
+* **\[적용] 버튼**을 터치하면 SP 분배가 완료됩니다.
+
+💡 `적용` 버튼을 누르기 전까지는 스탯이 실제로 변경되지 않습니다.
+
+***
+
+#### ◾ SP 초기화 방법
+
+스페셜 스탯은 언제든지 초기화할 수 있습니다.
+
+1️⃣ 영웅 정보 위젯 좌측 상단의 **\[상세정보] 버튼** 터치
+
+<figure><img src="../../../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 영웅의 **베이스 스탯(초기 스탯)** 확인 가능
+
+<figure><img src="../../../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ **\[초기화] 버튼**을 누르면 초기화 위젯이 표시됩니다.
+
+<figure><img src="../../../../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
+
+📘 **초기화 아이템**
+
+* XTO 상점에서 판매하는 **‘망각의 서’** 사용 시 SP를 초기화할 수 있습니다.
+
+***
+
+> ✨ 스페셜 스탯 투자에 따라 전투 전략은 완전히 달라집니&#xB2E4;**.**\
+> ✨ **망각의 서**를 활용해 다양한 빌드를 자유롭게 실험해 보세요!
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 💡 **スペシャルステータス – 英雄の戦闘特性を強化！**
+### 🌟 スペシャルステータス（Special Stats）
 
-スペシャルステータスは、**各英雄が持つ6つのユニークな能力値**です。\
-これらのステータスは**戦闘ステータスに影響を与え、戦闘能力を向上**させます。
-
-✅ **例:**
-
-* \*\*STR（力）\*\*は \*\*アタックポイント（AP）\*\*に大きく影響します。
-* **STRが高いほど、最終的なAP値も上昇します。**
-* 計算式: <mark style="color:purple;">**戦闘ステータス × (1 + スペシャルステータス倍率)**</mark>
-
-
+💡 **スペシャルステータス**は、ヒーローの戦闘傾向を決定する重要な能力値です。\
+ヒーローは基本的に **6種類のスペシャルステータス** を持っており、\
+これらは戦闘ステータスに影響を与え、攻撃方法や戦闘スタイルを強化します。.
 
 ***
 
-#### 🔹 **スペシャルステータスの獲得方法**
+#### ◾ スペシャルステータスとは？
 
-1️⃣ **レベルアップ時にSP（ステータスポイント）を獲得**
+スペシャルステータスは、\
+**戦闘ステータスの最終性能を引き上げる補正ステータス**です。
 
-* 狩りでレベルアップすると、**+1 SP**を獲得。
-* **6つのスペシャルステータスのいずれかに自由に振り分け可能。**
-
-2️⃣ **装備（武器・オーブ）による追加効果**
-
-* 一部の装備は**固定オプションまたはランダムオプション**でスペシャルステータスを付与。
-
-***
-
-#### ✅ SPの割り振り方法
-
-<figure><img src="../../../../.gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
-
-👉 **英雄情報ウィジェット**を開くと、左下に**スペシャルステータス情報**が表示されます。\
-👉 **レベルアップすると、新しいSP情報が追加されます。**\
-👉 **「詳細」ボタンをタップ**してステータス割り振り画面に移動。
+* 戦闘ステータスに直接加算されるのではなく、
+* **最終的な計算結果に影響する形**で適用されます。
 
 
 
-<figure><img src="../../../../.gitbook/assets/image (831).png" alt=""><figcaption></figcaption></figure>
+📌 **例**
 
-👉 **緑の矢印（▲）をタップすると、+1 SPを追加。**\
-👉 **赤の矢印（▼）をタップすると、-1 SPを削除。**\
-👉 **「適用」ボタンをタップ**してSPの割り振りを確定。
+* **STR（力）** は **攻撃力（AP）** に大きな影響を与えます。
+* STRの数値が高いほど、APの最終値も上昇します。
+
+{% hint style="info" %}
+#### 適用方式
+
+戦闘ステータス ×（1 ＋ スペシャルステータス補正）
+{% endhint %}
 
 ***
 
-#### ✅ **SPのリセット方法**
+#### ◾ スペシャルステータスの獲得方法
 
-<figure><img src="../../../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+**1️⃣ レベルアップによるSP獲得**
 
-👉 **英雄情報ウィジェット**を開き、左上の\*\*「詳細」ボタン\*\*をタップ。\
-👉 **英雄のベースステータス（初期ステータス）を確認可能。**
+* モンスター討伐でレベルアップすると **SP（ステータスポイント）+1** を獲得
+* 獲得したSPは、**6つのスペシャルステータス**の中から自由に振り分け可能
 
+**2️⃣ 装備による追加獲得**
 
+* 一部の装備には、**固定またはランダムオプション**として\
+  スペシャルステータスが付与されます
 
-<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 **「リセット」ボタンをタップすると、SPリセットウィジェットが表示。**
+#### ◾ SPの分配方法
 
+スペシャルステータスは、**ヒーロー情報画面**から分配できます。
 
+1️⃣ 対象ヒーローの **情報ウィジェット** を開きます
 
-<figure><img src="../../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
 
-👉 **XTOショップで「忘却の書」を購入すると、SPをリセット可能。**
+2️⃣ 左下で **スペシャルステータス情報** を確認します\
+3️⃣ レベルアップでSPを獲得すると、情報が更新されます
 
-💡 **SPの投資方法によって戦闘戦略が大きく変わります！**\
-💡 **「忘却の書」を活用し、さまざまな戦術を試してみよう！**
+<figure><img src="../../../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
+
+4️&#x20E3;**［もっと見る］** ボタンを押して、ステータス分配画面へ移動してください
+
+<figure><img src="../../../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ SPの投資と適用
+
+<figure><img src="../../../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+
+* **\[&#x20;**<mark style="color:green;">**+**</mark>**&#x20;] ボタン**：選択したステータスにSPを +1 投資
+* **\[&#x20;**<mark style="color:red;">**−**</mark>**&#x20;] ボタン**：投資したSPを −1 回収
+* **［適用］** ボタンをタップすると、分配が確定します
+
+💡 **`適用`** を押すまでは、ステータスは実際に変更されません。
+
+***
+
+#### ◾ SPの初期化方法
+
+スペシャルステータスは **いつでも初期化可能** です。
+
+1️⃣ ヒーロー情報ウィジェット左上の **［詳細情報］** をタップ
+
+<figure><img src="../../../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ ヒーローの **ベースステータス（初期ステータス）** を確認
+
+<figure><img src="../../../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+
+3️&#x20E3;**［初期化］** ボタンを押すと、初期化ウィジェットが表示されます
+
+<figure><img src="../../../../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
+
+📘 **初期化アイテム**
+
+* **XTOショップ**で販売されている\
+  &#xNAN;**「忘却の書」** を使用すると、SPを初期化できます。
+
+***
+
+> ✨ スペシャルステータスへの投資次第で、戦闘戦略は大きく変わります。\
+> ✨ 忘却の書を活用し、さまざまなビルドを自由に試してみましょう！
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 30, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
