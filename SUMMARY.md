@@ -75,7 +75,7 @@
 * [✡️ Enchantment](growth/enchantment/README.md)
   * [1️⃣ Weapon Enchantment](growth/enchantment/weapon-enchantment.md)
   * [2️⃣ Orb Enchantment](growth/enchantment/orb-enchantment.md)
-  * [⚡Enchant Stage Additional Effects](growth/enchantment/enchant-stage-additional-effects.md)
+  * [⚡ Enchant Stage Additional Effects](growth/enchantment/enchant-stage-additional-effects.md)
   * [💔 Enchantment Failed](growth/enchantment/enchantment-failed.md)
   * [💎 Support Items](growth/enchantment/support-items.md)
 * [⛏️ Mining Settings](growth/mining-settings/README.md)

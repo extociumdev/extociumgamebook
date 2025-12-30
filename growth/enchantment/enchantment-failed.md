@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 💔 Enchantment Failed
@@ -8,9 +8,9 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 💡**If a weapon is destroyed due to enchantment, there is a chance to obtain special items.**&#x20;
 
-These items are used as crafting materials and cannot be obtained elsewhere. Equipment destruction caused by enchantment is distinguished from '[equipment destruction through NPCs'](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu).
+These items are used as crafting materials and cannot be obtained elsewhere. Equipment destruction caused by enchantment is distinguished from '[equipment destruction through NPCs'](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu).
 
-<figure><img src="../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
 👉Destruction rewards are probabilistically determined for each piece of equipment. Please check the table below. \
 [⚔️Go to Equipments](enchantment-failed.md#equipments) / [💎Go to Accessories](enchantment-failed.md#accessories)
@@ -27,9 +27,9 @@ These items are used as crafting materials and cannot be obtained elsewhere. Equ
 {% tab title="한국어" %}
 **💡인챈트로 인해 무기가 파괴되면, 일정 확률로 특별한 아이템을 획득할 수 있습니다.**&#x20;
 
-이 아이템들은 제작 재료로 사용되며 다른 곳에서는 얻을 수 없습니다. 인챈트로 인한 장비 파괴는 '[NPC를 통한 장비 파괴](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)'와 구분됩니다.
+이 아이템들은 제작 재료로 사용되며 다른 곳에서는 얻을 수 없습니다. 인챈트로 인한 장비 파괴는 '[NPC를 통한 장비 파괴](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)'와 구분됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
 👉파괴 보상은 각 장비에 따라 확률적으로 책정됩니다. 아래 표를 확인해주세요. \
 [⚔️장비 바로가기](enchantment-failed.md#undefined-2) / [💎악세사리 바로가기](enchantment-failed.md#undefined-3)
@@ -46,9 +46,9 @@ These items are used as crafting materials and cannot be obtained elsewhere. Equ
 {% tab title="日本語" %}
 💡**エンチャントによって武器が破壊されると、特別なアイテムを獲得する可能性があります。**
 
-これらのアイテムは製作材料として使用され、他の場所では入手できません。エンチャントによる装備破壊は「[NPCを通じた装備破壊](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)」と区別されます。
+これらのアイテムは製作材料として使用され、他の場所では入手できません。エンチャントによる装備破壊は「[NPCを通じた装備破壊](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)」と区別されます。
 
-<figure><img src="../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
 👉破壊報酬は各装備に応じて確率的に設定されます。以下の表をご確認ください。\
 [⚔️装備ページへ](enchantment-failed.md#zhuang-bei) / [💎アクセサリーページへ](enchantment-failed.md#akusesar)

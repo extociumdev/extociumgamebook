@@ -1,7 +1,5 @@
 ---
-description: >-
-  🛑 Information on this page may differ from the current in-game data.🛑
-  Information on this page may differ from the current in-game data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # ⚔️ Weapon

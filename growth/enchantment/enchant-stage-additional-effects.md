@@ -1,8 +1,8 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
-# ⚡Enchant Stage Additional Effects
+# ⚡ Enchant Stage Additional Effects
 
 {% tabs %}
 {% tab title="ENG" %}

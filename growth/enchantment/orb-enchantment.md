@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 2️⃣ Orb Enchantment
@@ -17,21 +17,21 @@ description: 🛑 This information may be updated later than the game server dat
 
 You can access the enchant from each equipment's information screen.
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 👉 Tap the 'Enchant' button to enter.
 
 #### 2️⃣Enchant Screen Explanation
 
-<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 👉 Upon entering the enchant screen, you will see the materials needed, gold, success rate, and the expected stats increase if the enchant is successful.
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 👉 In the upper left purple slot, you can equip an 'Enchant Success Rate Booster Item'. Regardless of success or failure, one item will be consumed per enchant once it is equipped in the slot.
 
-<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 👉 In the upper right purple slot, you can equip a 'Orb Destruction Prevention Item'. Regardless of success or failure, one item will be consumed per enchant once it is equipped in the slot.
 
@@ -68,21 +68,21 @@ You can access the enchant from each equipment's information screen.
 
 인챈트는 각 장비의 정보 화면에서 진입할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 👉'인챈트' 버튼을 터치하여 진입합니다.
 
 #### 2️⃣인챈트 화면 설명
 
-<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 👉인챈트 화면에 진입하면, 인챈트에 필요한 재료 및 골드, 성공 확률, 인챈트 성공 시 증가되는 스탯의 기대값이 표시되어 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 👉좌측 상단 보라색 슬롯에는 '인챈트 성공 확률 보조 아이템'을 장착할 수 있습니다. 아이템은 성공/실패 여부에 관계 없이, 슬롯에 장착한 순간 인챈트 1회 당 1개가 소모됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 👉우측 상단 보라색 슬롯에는 '오브 파괴 시 파괴 방지 아이템'을 장착할 수 있습니다. 아이템은 성공/실패 여부에 관계 없이, 슬롯에 장착한 순간 인챈트 1회 당 1개가 소모됩니다.
 
@@ -119,21 +119,21 @@ You can access the enchant from each equipment's information screen.
 
 各装備の情報画面からエンチャントに入ることができます。
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 👉「エンチャント」ボタンをタップして入ります。
 
 #### 2️⃣エンチャント画面の説明
 
-<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 👉エンチャント画面に入ると、必要な材料、ゴールド、成功率、エンチャント成功時のステータス増加の期待値が表示されます。
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 👉左上の紫色のスロットには「エンチャント成功率を支援するアイテム」を装備できます。成功・失敗に関わらず、スロットに装備した瞬間、エンチャント1回につき1個が消費されます。
 
-<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 👉右上の紫色のスロットには「オーブ破壊防止アイテム」を装備できます。成功・失敗に関わらず、スロットに装備した瞬間、エンチャント1回につき1個が消費されます。
 
