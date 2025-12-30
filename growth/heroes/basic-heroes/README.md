@@ -8,7 +8,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% tab title="ENG" %}
 ### 💡 The 7 Heroes of EXTOCIUM
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In **EXTOCIUM**, there are a total of **7 Basic Heroes**.
 
@@ -75,7 +75,7 @@ from the list below.
 {% tab title="한국어" %}
 ### 💡 EXTOCIUM의 7명의 영웅들
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 EXTOCIUM에는\
 총 **7명의 기본 영웅(Basic Heroes)** 이 존재합니다.
@@ -138,7 +138,7 @@ EXTOCIUM에는\
 {% tab title="日本語" %}
 ### 💡 EXTOCIUMの7人のヒーロー
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **EXTOCIUM**には、\
 合計 **7人の基本ヒーロー（Basic Heroes）** が存在します。

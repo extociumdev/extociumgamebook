@@ -1,132 +1,264 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 4️⃣ Elemental Bonus Damage
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**All heroes and monsters in Extocium have one attribute.**&#x20;
+### 🌈 Elemental Bonus Damage
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../../../.gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure>
-
-Attributes refer to the 7 properties: dark, light, stone, water, fire, leaf, and force. \
-Damage is increased based on the strength relationship between each attribute.
-
-
-
-<figure><img src="../../../.gitbook/assets/image (802).png" alt=""><figcaption></figcaption></figure>
-
-👉 The target's attribute information can be checked on the target panel.
-
-<figure><img src="../../../.gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>
-
-👉 If a green arrow floats above the target's head, it means I can deal an additional 12% damage to the target.
-
-<figure><img src="../../../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
-
-👉 If a red arrow floats above the target's head, it means the target can deal an additional 12% damage to me.&#x20;
-
-{% hint style="info" %}
-Elemental bonus damage is applied as **{Final Damage \* (1 +&#x20;**<mark style="color:red;">**n%**</mark>**)}**, calculated in [**3️⃣ Calculate Stats**.](calculate-stats.md#eng)
-{% endhint %}
-
-[**🔹For more detailed information, refer to the table below.**](elemental-bonus-damage.md#elemental-bonus-damage-table)
+💡 All Heroes and Monsters in **EXTOCIUM** possess a single elemental attribute.\
+Depending on elemental advantages and disadvantages,\
+**additional damage may be applied during combat**.
 
 ***
 
-**❓When equipment has elemental bonus damage**
+#### ◾ Element Types
 
-<figure><img src="../../../.gitbook/assets/image (805).png" alt=""><figcaption></figcaption></figure>
+There are **7 elemental attributes** in total:
+
+* Dark / Light / Stone / Water / Fire / Leaf / Force
+
+Each element has its own **strengths and weaknesses against others**.\
+Based on these relationships, **Elemental Bonus Damage (EBD)** is applied.
+
+***
+
+#### ◾ How to Check Elemental Information
+
+* You can check a target’s element in the **Target Panel**.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* During combat,\
+  an **arrow icon displayed above the target’s head** allows you to quickly identify\
+  elemental advantages or disadvantages at a glance.
+
+***
+
+#### ◾ Arrow Icon Guide
+
+* **Green Arrow&#x20;**<mark style="color:green;">**▲**</mark>\
+  → You deal **12% additional damage** to the target.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* **Red Arrow&#x20;**<mark style="color:red;">**▼**</mark>\
+  → The target deals **12% additional damage** to you.
+
+💡 These arrows indicate the **elemental advantage or disadvantage** in the encounter.
+
+***
+
+#### ◾ How Elemental Bonus Damage Is Applied
+
+Elemental Bonus Damage is applied as an **additional multiplier**\
+to the **final damage calculated in the** [**Calculate Stats**](calculate-stats.md) **stage**.
+
+{% hint style="success" %}
+#### Application Formula
+
+> **Final Damage × (1 +&#x20;**<mark style="color:orange;">**n%**</mark>**)**
+
+In other words,\
+when you have an elemental advantage,\
+an extra percentage bonus is multiplied onto your already calculated final damage.
+{% endhint %}
+
+🔹 [For detailed values, please refer to the table below.](elemental-bonus-damage.md#elemental-bonus-damage-table)
+
+***
+
+#### ◾ Elemental Bonus Damage From Equipment
+
+Some equipment can grant **Elemental Bonus Damage** against specific elements as an option.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Elemental bonus damage on equipment means it deals **n% additional damage** to targets of that element.\
-For example, if **10% Light attribute** is added, it means **Ishtar (Light)** will take **10% additional damage**, as shown in the image.
+This effect increases damage dealt to enemies of the specified element by **n%**
+
+For example, if your equipment grants **+8% against Light**,\
+you will deal **8% additional damage** to Light-element enemies
 {% endhint %}
+
+***
+
+✨ Understanding elements can dramatically change battle outcomes,\
+even with the same stats.\
+✨ Before entering combat, always check your target’s element.
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**Extocium의 모든 영웅과 몬스터는 1개의 속성을 갖고 있습니다.**&#x20;
+### 🌈 Elemental Bonus Damage (속성 보너스 데미지)
 
-<figure><img src="../../../.gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-속성은 어둠, 빛, 돌, 물, 불, 잎, 힘, 이렇게 7가지의 성질을 갖고 있습니다. \
-각 속성의 강약 관계에 따라 데미지가 추가됩니다 .
-
-<figure><img src="../../../.gitbook/assets/image (802).png" alt=""><figcaption></figcaption></figure>
-
-👉타겟의 속성 정보는 타겟 패널에서 확인할 수 있습니다.
-
-<figure><img src="../../../.gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>
-
-👉타겟의 머리 위에 녹색 화살표가 떠 있다면, 내가 해당 타겟에게 12%의 추가 데미지를 입힐 수 있음을 의미합니다.
-
-<figure><img src="../../../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
-
-👉타겟의 머리 위에 붉은 화살표가 떠 있다면, 타겟이 나에게 12%의 추가 데미지를 입힐 수 있음을 의미합니다.
-
-{% hint style="info" %}
-상성 부가 데미지는 [**3️⃣Calculate stats**](calculate-stats.md#undefined-1)에서 계산된 **{최종 데미지 \* ( 1 +&#x20;**<mark style="color:red;">**n%**</mark>**&#x20;)}** 로 적용됩니다.
-{% endhint %}
-
-[**🔹더 자세한 정보는 아래 표를 참조해보세요.**](elemental-bonus-damage.md#elemental-bonus-damage-table)
+💡 **EXTOCIUM의 모든 영웅과 몬스터는 하나의 속성을 가지고 있습니다.**\
+속성 간의 상성에 따라, 전투 시 추가 데미지가 발생할 수 있습니다.
 
 ***
 
-**❓장비에 상성 부가 데미지가 붙은 경우**
+#### ◾ 속성 종류
 
-<figure><img src="../../../.gitbook/assets/image (805).png" alt=""><figcaption></figcaption></figure>
+속성은 총 **7가지**로 구성되어 있습니다.
+
+* 어둠 / 빛 / 돌 / 물 / 불 / 잎 / 힘
+
+각 속성은 서로 **강점과 약점 관계**를 가지고 있으며,\
+이 상성에 따라 **속성 보너스 데미지(Elemental Bonus Damage)**&#xAC00; 적용됩니다.
+
+***
+
+#### ◾ 속성 정보 확인 방법
+
+* 타겟의 속성은 **타겟 패널**에서 확인할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* 전투 중에는 타겟의 머리 위에 표시되는 **화살표 아이콘**을 통해\
+  상성 관계를 직관적으로 확인할 수 있습니다.
+
+***
+
+#### ◾ 화살표 아이콘 안내
+
+* **녹색 화살표&#x20;**<mark style="color:green;">**▲**</mark>\
+  → 내가 해당 타겟에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* **붉은 화살표&#x20;**<mark style="color:red;">**▼**</mark>\
+  → 해당 타겟이 나에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
+
+💡 화살표는 **속성 상성으로 인한 유불리 관계**를 나타냅니다.
+
+***
+
+#### ◾ 속성 보너스 피해 적용 방식
+
+속성 보너스 피해는 [**Calculate Stats**](calculate-stats.md) 단계에서 계산된 최종 데미지에 추가 배율로 적용됩니다.
+
+{% hint style="success" %}
+#### **적용 방식**
+
+> **최종 데미지 × (1 +&#x20;**<mark style="color:orange;">**n%**</mark>**)**
+
+즉, 속성 상성으로 유리한 경우 이미 계산된 최종 데미지에 추가 퍼센트 보너스가 곱해집니다
+{% endhint %}
+
+**🔹**[**더 자세한 정보는 아래 표를 참조해보세요.**](elemental-bonus-damage.md#elemental-bonus-damage-table)
+
+***
+
+#### ◾ 장비에 부여된 속성 보너스 **데미지**
+
+일부 장비에는 특정 속성에 대한 **속성 보너스 데미지**가 옵션으로 부여될 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**장비에 붙은 상성 부가 데미지는 해당 속성에게 n%의 부가 데미지를 입히는 것을 의미합니다.**\
-이미지에서 처럼 '빛 속성'에 10%가 추가되었다면, 이슈타르(빛)에게 10%의 추가 데미지를 입히게 됩니다.
+장비에 붙은 속성 보너스 데미지는 **해당 속성의 적에게 n% 추가 데미지**를 입히는 효과입니다.
+
+예를 들어, 장비에 '빛 속성'에 8%가 추가되었다면 빛 속성의 적에게 **8% 추가 데미지**를 입히게 됩니다.
 {% endhint %}
+
+***
+
+✨ **속성을 이해하면, 같은 스탯이라도 전투 결과는 크게 달라집니다.**\
+✨ **전투 전, 타겟의 속성을 꼭 확인해 보세요!**
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**Extociumのすべての英雄とモンスターは1つの属性を持っています。**&#x20;
+### 🌈 属性ボーナスダメージ（Elemental Bonus Damage）
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../../../.gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure>
-
-属性は闇、光、石、水、火、葉、力の7つの性質を持っています。 \
-各属性の強弱関係に応じてダメージが追加されます。
-
-
-
-<figure><img src="../../../.gitbook/assets/image (802).png" alt=""><figcaption></figcaption></figure>
-
-👉 ターゲットの属性情報は、ターゲットパネルで確認できます。
-
-<figure><img src="../../../.gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>
-
-👉 ターゲットの頭上に緑色の矢印が浮かんでいる場合、そのターゲットに対して12%の追加ダメージを与えることができることを意味します。
-
-<figure><img src="../../../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
-
-👉 ターゲットの頭上に赤い矢印が浮かんでいる場合、そのターゲットが私に12%の追加ダメージを与えることができることを意味します。
-
-{% hint style="info" %}
-属性追加ダメージは、[**3️⃣ Calculate Stats**](calculate-stats.md#ri-ben-yu)で計算された\*\***{最終ダメージ \* (1 +&#x20;**<mark style="color:red;">**n%**</mark>**)}**\*\*として適用されます。
-{% endhint %}
-
-[🔹より詳細な情報については、下の表を参照してください。](elemental-bonus-damage.md#elemental-bonus-damage-table)
+💡 **EXTOCIUM**に登場するすべてのヒーローとモンスターは、\
+それぞれ **1つの属性** を持っています。\
+属性の相性によって、戦闘中に **追加ダメージ** が発生する場合があります。
 
 ***
 
-**❓装備に属性追加ダメージが付いている場合**
+#### ◾ 属性の種類
 
-<figure><img src="../../../.gitbook/assets/image (805).png" alt=""><figcaption></figcaption></figure>
+属性は、全部で **7種類** 存在します。
+
+* 闇 / 光 / 石 / 水 / 火 / 葉 / 力
+
+各属性には、それぞれ有利・不利の関係があり、\
+その相性に応じて **属性ボーナスダメージ（Elemental Bonus Damage）** が適用されます。
+
+***
+
+#### ◾ 属性情報の確認方法
+
+* ターゲットの属性は、**ターゲットパネル**から確認できます。
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* 戦闘中は、\
+  ターゲットの頭上に表示される **矢印アイコン** によって、\
+  属性の有利・不利を直感的に把握できます。
+
+***
+
+#### ◾ 矢印アイコンの説明
+
+* **緑の矢印&#x20;**<mark style="color:green;">**▲**</mark>\
+  → 対象に **12％の追加ダメージ** を与えられる状態です。
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* **赤の矢印&#x20;**<mark style="color:red;">**▼**</mark>\
+  → 対象から **12％の追加ダメージ** を受ける状態です。
+
+💡 矢印は、属性相性による有利・不利を示しています。
+
+***
+
+#### ◾ 属性ボーナスダメージの適用方法
+
+属性ボーナスダメージは、\
+[**Calculate Stats**](calculate-stats.md) 段階で算出された **最終ダメージ** に対して、**追加倍率** として適用されます。
+
+{% hint style="success" %}
+#### 適用方式
+
+> **最終ダメージ × (1 +&#x20;**<mark style="color:orange;">**n%**</mark>**)**
+
+つまり、属性相性で有利な場合、\
+すでに計算された最終ダメージに 追加のパーセンテージボーナスが乗算されます。
+{% endhint %}
+
+**🔹**[詳細な数値については、下記の表をご参照ください。](elemental-bonus-damage.md#elemental-bonus-damage-table)
+
+***
+
+#### ◾ 装備に付与される属性ボーナスダメージ
+
+一部の装備には、\
+特定の属性に対する **属性ボーナスダメージ** が オプションとして付与される場合があります。
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-装備に付いている属性追加ダメージは、その属性に対して**n%の追加ダメージ**を与えることを意味します。\
-例えば、画像のように**光属性**に\*\*10%\*\*が追加された場合、**イシュタル（光）に10%の追加ダメージ**を与えることになります。
+装備に付いた属性ボーナスダメージは、対応する属性の敵に **n％の追加ダメージ** を与える効果です。
+
+例：装備に **「光属性に対して＋8％」** が付与されている場合、光属性の敵に **8％の追加ダメージ** を与えます。
 {% endhint %}
+
+***
+
+✨ 属性を理解すれば、同じステータスでも戦闘結果は大きく変わります。\
+✨ 戦闘前には、必ずターゲットの属性を確認しましょう。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 30, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
 ### ✅**Elemental Bonus Damage Table**
 
