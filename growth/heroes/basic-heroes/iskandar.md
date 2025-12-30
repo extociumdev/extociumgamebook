@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 cover: >-
   ../../../.gitbook/assets/extocium_httpss.mj.run9eG_2q_H_Ic_Medieval_fantasy_blond_shor_7e9d942d-f481-424f-8d56-c723c1bdc0b3_2.png
 coverY: 5.313280794991265

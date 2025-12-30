@@ -42,7 +42,7 @@ return to this page and continue the swap.
 1️⃣ Open the **Trust Wallet** app.\
 2️⃣ Tap the **blue `Swap` button** at the top center of the main screen.
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -60,7 +60,7 @@ When the Swap screen opens, you’ll see two fields.
 
 * Select **XTO** as the token you want to receive.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -73,7 +73,7 @@ You may see this message above the button:
 
 > **Approve FLOKI before you can swap it**
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="319"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="319"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### Why does this message appear?
@@ -101,7 +101,7 @@ _👉 Enable it for convenience, or disable it for tighter security - both are f
 3️⃣ Tap **Approve** to proceed.\
 Once approved, you’ll automatically move to the next step.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -118,7 +118,7 @@ Carefully review the following:
 If everything looks correct,\
 👉 Tap **`Confirm Swap`** to execute the swap.
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
 
 ***
 
@@ -205,7 +205,7 @@ XTO 토큰 등록이 완료되면 \
 1️⃣ Trust Wallet 앱을 실행합니다.\
 2️⃣ 메인 화면 **상단 중앙에 있는 파란색 `Swap` 버튼**을 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -223,7 +223,7 @@ Swap 화면이 열리면 두 개의 항목이 보입니다.
 
 * 스왑하고 싶은 토큰으로 **XTO**를 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -234,7 +234,7 @@ Swap 화면이 열리면 두 개의 항목이 보입니다.
 
 > **Approve FLOKI before you can swap it**
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="319"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="319"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### 이 메시지는 왜 나오나요?
@@ -263,7 +263,7 @@ _👉 편의성을 원한다면 켜두어도 괜찮으며, 보안에 더 민감�
 3️⃣ **Approve 버튼**을 눌러 승인을 진행합니다.\
 승인이 완료되면 자동으로 다음 단계로 이동합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -280,7 +280,7 @@ Approve가 끝나면 **Confirm Swap** 화면이 나타납니다.
 문제가 없다면,\
 👉 **화면 하단의 `Confirm Swap` 버튼**을 눌러 스왑을 진행합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
 
 ***
 
@@ -364,7 +364,7 @@ XTOトークンがまだ有効化されていません。
 1️⃣ **Trust Wallet** アプリを起動します。\
 2️⃣ メイン画面上部中央の **青いSwapボタン** をタップします。
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -382,7 +382,7 @@ Swap画面では、2つの項目が表示されます。
 
 * 受け取りトークンとして **XTO** を選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -395,7 +395,7 @@ Swap画面では、2つの項目が表示されます。
 
 > **Approve FLOKI before you can swap it**
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="319"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="319"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### なぜ表示されるのですか？
@@ -425,7 +425,7 @@ _👉 セキュリティを重視するならオフがおすすめです。_
 3️⃣ **Approve** をタップして承認します。\
 承認が完了すると、自動的に次の画面へ進みます。.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -442,7 +442,7 @@ Approve完了後、**Confirm Swap** 画面が表示されます。
 問題がなければ、\
 👉 画面下部の **`Confirm Swap`** をタップします。
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
 
 ***
 

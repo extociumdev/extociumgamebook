@@ -25,7 +25,7 @@ Once claimed, the Rookie Pack appears as an unopened item in your inventory.
 
 ### **3)** Pack Contents
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ Opening the Rookie Pack grants all rewards at once:
 
 ### **4)** Important Note
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Opening the Rookie Pack **immediately activates the new pet.**
 
@@ -101,7 +101,7 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 ### **3) 구성품 안내**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 루키팩을 열면 아래 보상이 **한 번에 지급**됩니다:
 
@@ -142,7 +142,7 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 ### **4)** 사용 시 주의
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 루키팩을 열면 **펫이 즉시 적용**됩니다.
 
@@ -166,7 +166,7 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 ### **2)** インベントリ確認
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 受取後、インベントリ内に未開封のルーキーパックが表示されます。
 
@@ -174,7 +174,7 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 ### **3)** パック内容
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 開封すると、以下の報酬が**まとめて**入手できます：
 
@@ -215,7 +215,7 @@ Opening the Rookie Pack **immediately activates the new pet.**
 
 ### **4)** 使用時の注意
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

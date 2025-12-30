@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 cover: >-
   ../../../.gitbook/assets/extocium_httpss.mj.run2Aa2v3NPi-8_Medieval_fantasy_emerald_ha_3e7b4d38-0d98-415d-86df-3dfb57e16208_3.png
 coverY: 110.81992847262669

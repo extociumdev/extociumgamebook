@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 cover: >-
   ../../../.gitbook/assets/extocium_Medieval_fantasy_black_short_hair_handsome_man_blue__c86af743-f624-4ec1-9863-0b90d0ad7fb6_0.png
 coverY: 192.0372870559115

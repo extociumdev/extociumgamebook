@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 cover: >-
   ../../../.gitbook/assets/extocium_httpss.mj.run2eKAkeqbWUs_httpss.mj.runN4jX_0nw9Qg_ht_f323dce0-5cc8-4079-bfde-f7b00d5f7a7b_2.png
 coverY: 185.96494248689575

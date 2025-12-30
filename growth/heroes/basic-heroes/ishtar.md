@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 cover: >-
   ../../../.gitbook/assets/extocium_httpss.mj.runFNzM3yl2tNw_Medieval_fantasy_red_dirt_m_e1fe470d-9ff2-41ac-aad4-702010273d0a_2.png
 coverY: 143.45868338672102
