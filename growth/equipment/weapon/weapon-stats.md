@@ -6,43 +6,56 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**When a weapon is created, it triggers one of the following four types of '**[**stat** ](../../heroes/stats/)**options':** Additionally, when a weapon is [enchanted](../../enchantment/weapon-enchantment.md), stat options corresponding to the enchantment level are added.
+### 💡 Weapon Stats
 
-1. [Fixed option ](weapon-stats.md#id-1-fixed-option)
-2. [Primary stat option (probabilistic) ](weapon-stats.md#id-2-primary-stat-option-probabilistic)
-3. [Secondary stat option (probabilistic) ](weapon-stats.md#id-3-secondary-stat-option-probabilistic)
-4. [Compatibility option (probabilistic) ](weapon-stats.md#id-4-compatibility-option-probabilistic)
-5. [Enchantment options depending on the weapon enchantment](weapon-stats.md#id-5-enchantment-options-depending-on-the-weapon-enchantment)
+When a weapon is created, [**stat**](../../heroes/stats/) **options** are applied based on the conditions below.\
+In addition, when a weapon is enchanted, extra options are granted according to the enchant level.
 
-{% hint style="info" %}
-⚠️ The minimum and maximum values of options may be adjusted based on a percentage due to balance updates.
+#### Weapon Stat Option Structure
+
+The following stat options may be applied to a weapon:
+
+* [Fixed Options](weapon-stats.md#id-1-fixed-options)
+* [Primary Stat Options (Chance-based)](weapon-stats.md#id-2-primary-stat-options-chance-based)
+* [Secondary Stat Options (Chance-based)](weapon-stats.md#id-3-secondary-stat-options-chance-based)
+* [Elemental Affinity Options (Chance-based)](weapon-stats.md#id-4-elemental-affinity-options-chance-based)
+* [Enchant Options based on weapon enchantment](weapon-stats.md#id-5-enchant-options)
+
+{% hint style="danger" %}
+#### The minimum and maximum values of options may be adjusted to a **percentage-based system** due to balance changes.
 {% endhint %}
 
-#### <mark style="color:blue;">1️⃣Fixed Option</mark>
+***
 
-An option that is 100% applied to all weapons. \
-The fixed option is randomly applied within a predefined minimum to maximum range for each weapon. \
-The fixed value varies for each weapon in terms of the primary stat.
+#### 1️⃣ Fixed Options
 
-| Option                   |  Spawn Probability (%) |
-| ------------------------ | ---------------------- |
-| Attack Point (AP)        | 100                    |
-| Skill Attack Point (SAP) | 100                    |
-| STR                      | 0 or 100               |
-| DEX                      | 0 or 100               |
-| INT                      | 0 or 100               |
-| CHA                      | 0 or 100               |
+These are basic options that are applied to **all weapons at 100%**.
 
-💡 **Equipment Fixed Option Range Guide**
+* Applied randomly within a predefined minimum–maximum range for each weapon.
+* Fixed option values vary depending on the weapon type.
 
-👉[ **Click here** ](weapon-stats.md#fixed-option-range)to check the **minimum and maximum fixed stat values for each piece of equipment!**
+| Option                        |  Spawn Probability (%) |
+| ----------------------------- | ---------------------- |
+| Attack Point (Phys. DMG)      | 100                    |
+| Skill Attack Point (Mag. DMG) | 100                    |
+| STR                           | 0 or 100               |
+| DEX                           | 0 or 100               |
+| INT                           | 0 or 100               |
+| CHA                           | 0 or 100               |
 
-#### <mark style="color:blue;">2️⃣Primary Stat Option (Probabilistic)</mark>
+💡 Fixed Option Range Guide\
+👉 [You can check the minimum and maximum values of fixed stats applicable to each equipment.](weapon-stats.md#fixed-option-range)
 
-When a weapon is created, a primary stat option can be randomly applied. \
-The probability value varies for each weapon and is likewise randomly applied within the predefined minimum to maximum range. \
-The higher the weapon's level, the higher the probability of generating stats. \
-When applying the primary stat probability, it is treated as an independent probability.
+***
+
+#### 2️⃣ Primary Stat Options (Chance-based)
+
+Stat options that are **applied probabilistically** when a weapon is created.
+
+* The application rate varies by weapon.
+* Applied randomly within a predefined minimum–maximum range.
+* Higher weapon levels increase the chance of stat generation.
+* Each option is applied with an **independent probability**.
 
 | Option | Spawn Probability (%) |
 | ------ | --------------------- |
@@ -53,47 +66,67 @@ When applying the primary stat probability, it is treated as an independent prob
 | WIZ    | 5\~8                  |
 | CHA    | 5\~8                  |
 
-💡 **Primary Stat Option Range Guide** \
-👉 [**Click here**](weapon-stats.md#primary-stat-option-range) to check the minimum and maximum values for primary stat options!
+💡 Primary Stat Option Range Guide\
+👉 [You can check the minimum and maximum values of primary stat options.](weapon-stats.md#primary-stat-option-range)
 
-#### <mark style="color:blue;">3️⃣Secondary Stat Option (Probabilistic)</mark>
+***
 
-When a weapon is created, a secondary stat option can be randomly applied. \
-The probability value varies for each weapon and is likewise randomly applied within the predefined minimum to maximum range. \
-The higher the weapon's level, the higher the probability of generating stats. \
-When applying the secondary stat probability, it is treated as an independent probability.
+#### 3️⃣ Secondary Stat Options (Chance-based)
 
-| Option                      | Spawn Probability (%) |
-| --------------------------- | --------------------- |
-| Attack Point (AP)           | 8\~10                 |
-| HP                          | 8\~10                 |
-| MP                          | 8\~10                 |
-| Critical Bonus (CB)         | 8\~10                 |
-| Critical Chance (CP)        | 3                     |
-| Skill Attack Point (SAP)    | 8\~10                 |
-| Skill Critical Bonus (SCB)  | 8\~10                 |
-| Skill Critical Chance (SCP) | 3                     |
-| Cooltime Reduction (CR)     | 3                     |
+Additional stat options that are **applied probabilistically** when a weapon is created.
 
-💡 **Secondary Stat Option Range Guide** \
-👉 [**Click here**](weapon-stats.md#secondary-stat-option-range) to check the minimum and maximum values for secondary stat options!
+* The application rate varies by weapon.
+* Applied randomly within a predefined minimum–maximum range.
+* Higher weapon levels increase the chance of stat generation.
+* Each option is applied with an **independent probability**.
 
-#### <mark style="color:blue;">4️⃣Compatibility Option (Probabilistic)</mark>
+| Option                               | Spawn Probability (%) |
+| ------------------------------------ | --------------------- |
+| Attack Point (Phys. DMG)             | 8\~10                 |
+| HP                                   | 8\~10                 |
+| MP                                   | 8\~10                 |
+| Critical Bonus (Phys. Crit DMG)      | 8\~10                 |
+| Critical Chance (Phys. Crit %)       | 3                     |
+| Skill Attack Point (Mag. DMG)        | 8\~10                 |
+| Skill Critical Bonus (Mag. Crit DMG) | 8\~10                 |
+| Skill Critical Chance (Mag. Crit %)  | 3                     |
+| Reduces skill reload time (CDR)      | 3                     |
 
-When a weapon is created, an additional damage option based on compatibility can be randomly applied. The probability value varies for each weapon and is likewise randomly applied within the predefined minimum to maximum range. The higher the weapon's level, the higher the probability of generating stats.
+💡 Secondary Stat Option Range Guide\
+👉 [You can check the minimum and maximum values of secondary stat options.](weapon-stats.md#secondary-stat-option-range)
+
+***
+
+#### 4️⃣ Elemental Affinity Options (Chance-based)
+
+When a weapon is created, **bonus damage options based on elemental affinity**\
+may be applied probabilistically.
+
+* The application rate varies by weapon.
+* Applied randomly within a predefined minimum–maximum range.
+* Higher weapon levels increase the chance of stat generation.
 
 {% hint style="info" %}
-The additional damage option according to compatibility is interpreted as follows:
+## Elemental bonus damage is calculated as follows:
 
 <img src="../../../.gitbook/assets/image (621).png" alt="" data-size="original">\
-This indication means that it deals 2% additional damage to opponents (both PCs and NPCs) that possess the 'Light Attribute'. If the final damage I deal to an enemy is 200, then when the enemy has the 'Light Attribute', the final damage becomes 204.
+**Example)** Bonus Damage +2% against Light-element targets
 
-❓<mark style="color:blue;">200\*(1+0.02)=204</mark>
+* If final damage is 200
+* <mark style="color:blue;">200 × (1 + 0.02) =</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**204**</mark>
+
+This option applies to both PCs and NPCs.
 {% endhint %}
 
-#### <mark style="color:blue;">5️⃣Enchantment options depending on the weapon enchantment</mark>
+***
 
-With each enchantment level reaching increments of '5', an additional random option is granted to the weapon. At this time, only one type of option is granted. As the weapon level increases, the minimum to maximum values of the options also increase.
+#### 5️⃣ Enchant Options
+
+When a weapon is enchanted and the enchant level reaches a **multiple of 5**,\
+an additional random option is granted.
+
+* Only **one option** is applied at a time.
+* Higher weapon levels increase the minimum and maximum values of the option.
 
 | Weapon                                                     | Option                                                            | Min \~ Max |
 | ---------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
@@ -105,44 +138,56 @@ With each enchantment level reaching increments of '5', an additional random opt
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**무기가 생성 될 때는 아래와 같은 네 가지 조건의 ‘**[**스탯**](../../heroes/stats/) **옵션’이 발동됩니다.**\
-또한 무기를 [인챈트](../../enchantment/weapon-enchantment.md) 하는 경우, 인챈트 레벨에 따른 스탯 옵션이 추가됩니다.
+### 💡 무기 스탯
 
-1. [고정 옵션](weapon-stats.md#id-1)
-2. [1차 스탯 옵션 (확률적)](weapon-stats.md#id-2-1)
-3. [2차 스탯 옵션 (확률적)](weapon-stats.md#id-3-2)
-4. [상성 옵션 (확률적)](weapon-stats.md#id-4)
-5. [무기 인챈트에 따른 인챈트 옵션](weapon-stats.md#id-5)
+무기가 생성될 때, 아래 조건에 따라 [**스탯**](../../heroes/stats/) **옵션**이 적용됩니다.\
+또한 무기를 인챈트할 경우, 인챈트 레벨에 따라 **추가 옵션**이 부여됩니다.
 
-{% hint style="info" %}
-⚠️ 옵션의 최소\~최대값은 밸런스 수정에 따라 일부 값이 '비율 기준'으로 조정될 수 있습니다.
+#### 무기 스탯 옵션 구성
+
+무기에는 다음과 같은 스탯 옵션이 적용될 수 있습니다.
+
+* [고정 옵션](weapon-stats.md#id-1)
+* [1차 스탯 옵션 (확률적)](weapon-stats.md#id-2-1)
+* [2차 스탯 옵션 (확률적)](weapon-stats.md#id-3-2)
+* [상성 옵션 (확률적)](weapon-stats.md#id-4)
+* [무기 인챈트에 따른 인챈트 옵션](weapon-stats.md#id-5)
+
+{% hint style="danger" %}
+#### 옵션의 최소\~최대값은 밸런스 조정에 따라 일부 수치가 **비율 기준**으로 변경될 수 있습니다.
 {% endhint %}
 
-#### <mark style="color:blue;">1️⃣고정 옵션</mark>
+***
 
-모든 무기에 100% 적용되는 옵션입니다. \
-고정 옵션은 각 무기에 정해진 최소 \~ 최대 값 안에서 랜덤하게 적용됩니다.\
-1차 스탯의 경우, 무기마다 적용되는 고정 값이 다릅니다.
+#### 1️⃣ 고정 옵션
 
-| 옵션           | 생성 확률 (%) |
-| ------------ | --------- |
-| 공격력 (AP)     | 100       |
-| 스킬 공격력 (SAP) | 100       |
-| STR          | 0 or 100  |
-| DEX          | 0 or 100  |
-| INT          | 0 or 100  |
-| CHA          | 0 or 100  |
+모든 무기에 **100% 적용되는 기본 옵션**입니다.
 
-💡 **장비 고정 옵션 범위 안내**
+* 무기마다 정해진 최소\~최대 값 범위 내에서 랜덤 적용됩니다.
+* 무기 종류에 따라 고정 옵션의 수치는 다르게 설정됩니다.
 
-👉 [**여기를 클릭**](weapon-stats.md#fixed-option-range)하여 **장비별 적용 가능한 고정 스탯의 최소\~최대값**을 확인하세요!
+| 옵션                | 생성 확률 (%) |
+| ----------------- | --------- |
+| 공격력 (Phys. DMG)   | 100       |
+| 스킬 공격력 (Mag. DMG) | 100       |
+| STR               | 0 or 100  |
+| DEX               | 0 or 100  |
+| INT               | 0 or 100  |
+| CHA               | 0 or 100  |
 
-#### <mark style="color:blue;">2️⃣1차 스탯 옵션 (확률적)</mark>
+💡 고정 옵션 범위 안내\
+👉 [장비별 적용 가능한 고정 스탯의 최소\~최대값을 확인할 수 있습니다.](weapon-stats.md#fixed-option-range)
 
-무기를 생성할 때 랜덤하게 1차 스탯 옵션이 적용될 수 있습니다. \
-각 확률 값은 무기마다 다르며, 마찬가지로 각 무기에 정해진 최소 \~ 최대 값 안에서 랜덤 하게 적용됩니다. \
-무기의 레벨이 높아질 수록 스탯 생성 확률도 높아집니다.  \
-1차 스탯의 확률을 적용할 때는 모두 독립 확률로 적용됩니다.
+***
+
+#### 2️⃣ 1차 스탯 옵션 (확률적)
+
+무기 생성 시, **확률적으로 적용되는 스탯 옵션**입니다.
+
+* 무기마다 적용 확률이 다릅니다.
+* 정해진 최소\~최대 값 범위 내에서 랜덤 적용됩니다.
+* 무기 레벨이 높을수록 옵션 생성 확률이 증가합니다.
+* 각 옵션은 **독립 확률**로 적용됩니다.
 
 | 옵션   | 생성 확률 (%) |
 | ---- | --------- |
@@ -153,50 +198,65 @@ With each enchantment level reaching increments of '5', an additional random opt
 | WIZ  | 5\~8      |
 | CHA  | 5\~8      |
 
-💡 **1차 스탯 옵션 범위 안내** \
-👉 [**여기를 클릭**](weapon-stats.md#primary-stat-option-range)하여 1차 스탯 옵션의 최소\~최대값을 확인하세요!
+💡 1차 스탯 옵션 범위 안내\
+👉[ 1차 스탯 옵션의 최소\~최대값을 확인할 수 있습니다.](weapon-stats.md#primary-stat-option-range)
 
-#### <mark style="color:blue;">3️⃣2차 스탯 옵션 (확률적)</mark>
+***
 
-무기를 생성할 때 랜덤하게 2차 스탯 옵션이 적용될 수 있습니다. \
-각 확률 값은 무기마다 다르며, 마찬가지로 각 무기에 정해진 최소 \~ 최대 값 안에서 랜덤 하게 적용됩니다. \
-무기의 레벨이 높아질 수록 스탯 생성 확률도 높아집니다. \
-2차 스탯의 확률을 적용할 때는 모두 독립 확률로 적용됩니다.
+#### 3️⃣ 2차 스탯 옵션 (확률적)
 
-| 옵션               | 생성 확률 (%) |
-| ---------------- | --------- |
-| 공격력 (AP)         | 8\~10     |
-| HP               | 8\~10     |
-| MP               | 8\~10     |
-| 치명타 보너스 (CB)     | 8\~10     |
-| 치명타 확률 (CP)      | 3         |
-| 스킬 공격력 (SAP)     | 8\~10     |
-| 스킬 치명타 보너스 (SCB) | 8\~10     |
-| 스킬 치명타 확률 (SCP)  | 3         |
-| 쿨타임 감소 (CR)      | 3         |
+무기 생성 시, **추가로 확률 적용되는 스탯 옵션**입니다.
 
-💡 **2차 스탯 옵션 범위 안내** \
-👉 [**여기를 클릭**](weapon-stats.md#secondary-stat-option-range)하여 2차 스탯 옵션의 최소\~최대값을 확인하세요!
+* 무기마다 적용 확률이 다릅니다.
+* 정해진 최소\~최대 값 범위 내에서 랜덤 적용됩니다.
+* 무기 레벨이 높을수록 옵션 생성 확률이 증가합니다.
+* 각 옵션은 **독립 확률**로 적용됩니다.
 
-#### <mark style="color:blue;">4️⃣상성 옵션 (확률적)</mark>
+| 옵션                         | 생성 확률 (%) |
+| -------------------------- | --------- |
+| 공격력 (Phys. DMG)            | 8\~10     |
+| HP                         | 8\~10     |
+| MP                         | 8\~10     |
+| 치명타 보너스 (Phys. Crit DMG)   | 8\~10     |
+| 치명타 확률 (Phys. Crit %)      | 3         |
+| 스킬 공격력 (Mag. DMG)          | 8\~10     |
+| 스킬 치명타 보너스 (Mag. Crit DMG) | 8\~10     |
+| 스킬 치명타 확률 (Mag. Crit %)    | 3         |
+| 쿨타임 감소 (CDR)               | 3         |
 
-무기를 생성할 때 랜덤하게 상성에 따른 부가 데미지 옵션이 적용될 수 있습니다. \
-각 확률 값은 무기마다 다르며, 마찬가지로 각 무기에 정해진 최소 \~ 최대 값 안에서 랜덤 하게 적용됩니다. 무기의 레벨이 높아질 수록 스탯 생성 확률도 높아집니다.
+💡 2차 스탯 옵션 범위 안내\
+👉 [2차 스탯 옵션의 최소\~최대값을 확인할 수 있습니다.](weapon-stats.md#secondary-stat-option-range)
+
+***
+
+#### 4️⃣ 상성 옵션 (확률적)
+
+무기 생성 시, **속성 상성에 따른 부가 데미지 옵션**이 확률적으로 적용될 수 있습니다.
+
+* 무기마다 적용 확률이 다릅니다.
+* 정해진 최소\~최대 값 범위 내에서 랜덤 적용됩니다.
+* 무기 레벨이 높을수록 옵션 생성 확률이 증가합니다.
 
 {% hint style="info" %}
-상성에 따른 부가 데미지 옵션은 아래와 같이 해석됩니다.
+## 상성에 따른 부가 데미지 옵션은 아래와 같이 해석됩니다.
 
 <img src="../../../.gitbook/assets/image (621).png" alt="" data-size="original">\
-이 표시의 의미는 '빛속성'을 가진 상대 (PC, NPC모두 포함)에게 2%의 부가 데미지를 입히는 것입니다. 만약 내가 적에게 입힐 최종 데미지가 200 이라면, 해당 적이 '빛속성'일 때, 최종 데미지가 204가 됩니다.
+예시) 빛 속성 대상에게 **부가 데미지 +2%**
 
-❓<mark style="color:blue;">200\*(1+0.02)=204</mark>
+* 최종 데미지 200일 경우
+* <mark style="color:blue;">200 × (1 + 0.02) =</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**204**</mark>
+
+해당 옵션은 PC와 NPC 모두에게 적용됩니다.
 {% endhint %}
 
-#### <mark style="color:blue;">5️⃣무기 인챈트에 따른 인챈트 옵션</mark>
+***
 
-인챈트를 통해 무기의 인챈트 레벨이 '5' 단위를 달성할 때 마다, 추가적인 랜덤 옵션이 부여됩니다.\
-이 때, 옵션은 1종만 부여됩니다.\
-무기의 레벨이 높아지면 옵션의 최소 \~ 최대 값도 높아집니다.
+#### 5️⃣ 인챈트 옵션
+
+무기를 인챈트하여 **인챈트 레벨이 5 단위에 도달할 때마다**, 추가적인 랜덤 옵션이 부여됩니다.
+
+* 옵션은 **1종만 적용**됩니다.
+* 무기 레벨이 높을수록 옵션의 최소\~최대 값이 증가합니다.
 
 | 무기 종류                              | 인챈트 옵션                                                            | 최소 \~ 최대 값 |
 | ---------------------------------- | ----------------------------------------------------------------- | ---------- |
@@ -208,40 +268,56 @@ With each enchantment level reaching increments of '5', an additional random opt
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**武器が生成される際、以下の4種類の「**[**ステータスオプション**](../../heroes/stats/)**」が発動されます。** また、[武器をエンチャントする場合](../../enchantment/weapon-enchantment.md)、エンチャントレベルに応じたステータスオプションが追加されます。
+### 💡 武器ステータス
 
-1. [固定オプション](weapon-stats.md#id-1opushon)&#x20;
-2. [1次ステータスオプション（確率的） ](weapon-stats.md#id-21suttasuopushon)
-3. [2次ステータスオプション（確率的） ](weapon-stats.md#id-32suttasuopushon)
-4. [相性オプション（確率的） ](weapon-stats.md#id-4opushon)
-5. [武器エンチャントによるエンチャントオプション](weapon-stats.md#id-5enchantoniyoruenchantoopushon)
+武器が生成される際、以下の条件に基づいてステータスオプションが適用されます。\
+また、武器をエンチャントすると、エンチャントレベルに応じて追加オプションが付与されます。
 
-{% hint style="info" %}
-⚠️ オプションの最小～最大値は、バランス調整により一部の値が「割合基準」で調整される場合があります。
+武器ステータスオプション構成
+
+武器には、以下のステータスオプションが適用される可能性があります。
+
+* [固定オプション](weapon-stats.md#id-1-opushon)
+* [1次ステータスオプション（確率）](weapon-stats.md#id-2-1suttasuopushon)
+* [2次ステータスオプション（確率）](weapon-stats.md#id-3-2suttasuopushon)
+* [属性相性オプション（確率）](weapon-stats.md#id-4-opushon)
+* [武器エンチャントによるエンチャントオプション](weapon-stats.md#id-5-enchantoopushon)
+
+{% hint style="danger" %}
+#### オプションの最小～最大値は、バランス調整により**割合基準**で変更される場合があります。
 {% endhint %}
 
-#### <mark style="color:blue;">1️⃣固定オプション</mark>
+***
 
-すべての武器に100%適用されるオプションです。 固定オプションは、各武器に設定された最小値～最大値の範囲内でランダムに適用されます。 1次ステータスの場合、武器ごとに適用される固定値が異なります。
+#### 1️⃣ 固定オプション
 
-| オプション        | 生成確率 (%) |
-| ------------ | -------- |
-| 攻撃力 (AP)     | 100      |
-| スキル攻撃力 (SAP) | 100      |
-| STR          | 0 or 100 |
-| DEX          | 0 or 100 |
-| INT          | 0 or 100 |
-| CHA          | 0 or 100 |
+すべての武器に**100％適用される基本オプション**です。
 
-💡 **装備固定オプション範囲ガイド**
+* 各武器に設定された最小～最大値の範囲内でランダムに適用されます。
+* 固定オプションの数値は、武器の種類によって異なります。
 
-👉 [**こちらをクリック** して](weapon-stats.md#fixed-option-range)、**各装備に適用される固定ステータスの最小～最大値**を確認しましょう！
+| オプション             | 生成確率 (%) |
+| ----------------- | -------- |
+| 攻撃力 (Phys. DMG)   | 100      |
+| スキル攻撃力 (Mag. DMG) | 100      |
+| STR               | 0 or 100 |
+| DEX               | 0 or 100 |
+| INT               | 0 or 100 |
+| CHA               | 0 or 100 |
 
-#### <mark style="color:blue;">2️⃣1次ステータスオプション（確率的）</mark>
+💡 固定オプション範囲案内\
+👉 [装備ごとに適用可能な固定ステータスの最小～最大値を確認できます。](weapon-stats.md#fixed-option-range)
 
-武器を生成する際、ランダムに1次ステータスオプションが適用される可能性があります。 各確率値は武器ごとに異なり、同様に各武器に設定された最小値～最大値の範囲内でランダムに適用されます。 \
-武器のレベルが高くなるほど、ステータス生成の確率も高まります。 \
-1次ステータスの確率を適用する際は、すべて独立確率で適用されます。
+***
+
+#### 2️⃣ 1次ステータスオプション（確率）
+
+武器生成時に、**確率的に適用されるステータスオプション**です。
+
+* 適用確率は武器ごとに異なります。
+* 設定された最小～最大値の範囲内でランダムに適用されます。
+* 武器レベルが高いほど、オプション生成確率が上昇します。
+* 各オプションは**独立した確率**で適用されます。
 
 | オプション | 生成確率 (%) |
 | ----- | -------- |
@@ -252,46 +328,67 @@ With each enchantment level reaching increments of '5', an additional random opt
 | WIZ   | 5\~8     |
 | CHA   | 5\~8     |
 
-💡 **1次ステータスオプションの範囲案内** \
-👉 [**こちらをクリック**](weapon-stats.md#primary-stat-option-range)**して**、1次ステータスオプションの最小～最大値を確認してください！
+💡 1次ステータスオプション範囲案内\
+👉 [1次ステータスオプションの最小～最大値を確認できます。](weapon-stats.md#primary-stat-option-range)
 
-#### <mark style="color:blue;">3️⃣2次ステータスオプション（確率的）</mark>
+***
 
-武器を生成する際、ランダムに2次ステータスオプションが適用される可能性があります。 各確率値は武器ごとに異なり、同様に各武器に設定された最小値～最大値の範囲内でランダムに適用されます。 \
-武器のレベルが高くなるほど、ステータス生成の確率も高まります。 \
-2次ステータスの確率を適用する際は、すべて独立確率で適用されます。
+#### 3️⃣ 2次ステータスオプション（確率）
 
-| オプション               | 生成確率 (%) |
-| ------------------- | -------- |
-| 攻撃力 (AP)            | 8\~10    |
-| HP                  | 8\~10    |
-| MP                  | 8\~10    |
-| クリティカルボーナス (CB)     | 8\~10    |
-| クリティカル確率 (CP)       | 3        |
-| スキル攻撃力 (SAP)        | 8\~10    |
-| スキルクリティカルボーナス (SCB) | 8\~10    |
-| スキルクリティカル確率 (SCP)   | 3        |
-| クールタイム減少 (CR)       | 3        |
+武器生成時に、**追加で確率適用されるステータスオプション**です。
 
-💡 **2次ステータスオプションの範囲案内** \
-👉 [**こちらをクリックして**](weapon-stats.md#secondary-stat-option-range)、2次ステータスオプションの最小～最大値を確認してください！
+* 適用確率は武器ごとに異なります。
+* 設定された最小～最大値の範囲内でランダムに適用されます。
+* 武器レベルが高いほど、オプション生成確率が上昇します。
+* 各オプションは**独立した確率**で適用されます。
 
-#### <mark style="color:blue;">4️⃣相性オプション（確率的）</mark>
+| オプション                         | 生成確率 (%) |
+| ----------------------------- | -------- |
+| 攻撃力 (Phys. DMG)               | 8\~10    |
+| HP                            | 8\~10    |
+| MP                            | 8\~10    |
+| クリティカルボーナス (Phys. Crit DMG)   | 8\~10    |
+| クリティカル確率 (Phys. Crit %)       | 3        |
+| スキル攻撃力 (Mag. DMG)             | 8\~10    |
+| スキルクリティカルボーナス (Mag. Crit DMG) | 8\~10    |
+| スキルクリティカル確率 (Mag. Crit %)     | 3        |
+| クールタイム減少 (CDR)                | 3        |
 
-武器を生成する際、ランダムに相性に応じた追加ダメージオプションが適用される可能性があります。 各確率値は武器ごとに異なり、同様に各武器に設定された最小値～最大値の範囲内でランダムに適用されます。武器のレベルが高くなるほど、ステータス生成の確率も高まります。
+💡 2次ステータスオプション範囲案内\
+👉 [2次ステータスオプションの最小～最大値を確認できます。](weapon-stats.md#secondary-stat-option-range)
+
+***
+
+#### 4️⃣ 属性相性オプション（確率）
+
+武器生成時に、**属性相性に基づく追加ダメージオプション**が\
+確率的に適用される場合があります。
+
+* 適用確率は武器ごとに異なります。
+* 設定された最小～最大値の範囲内でランダムに適用されます。
+* 武器レベルが高いほど、オプション生成確率が上昇します。
 
 {% hint style="info" %}
-相性による追加ダメージオプションは以下のように解釈されます。
+## 属性による追加ダメージは、以下のように計算されます。
 
 <img src="../../../.gitbook/assets/image (621).png" alt="" data-size="original">\
-この表示の意味は、「光属性」を持つ相手（PC、NPC両方含む）に対して2%の追加ダメージを与えることです。もし私が敵に与える最終ダメージが200なら、その敵が「光属性」の場合、最終ダメージは204になります。
+**例）** 光属性の対象に追加ダメージ +2％
 
-❓<mark style="color:blue;">200\*(1+0.02)=204</mark>
+* 最終ダメージが200の場合
+* <mark style="color:blue;">200 × (1 + 0.02) =</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**204**</mark>
+
+この効果は、PCおよびNPCの両方に適用されます。
 {% endhint %}
 
-#### <mark style="color:blue;">5️⃣武器エンチャントによるエンチャントオプション</mark>
+***
 
-エンチャントを通じて武器のエンチャントレベルが「5」単位を達成するごとに、追加のランダムオプションが付与されます。 この時、オプションは1種のみ付与されます。 武器のレベルが高くなると、オプションの最小～最大値も高くなります。
+#### 5️⃣ エンチャントオプション
+
+武器をエンチャントし、エンチャントレベルが**5の倍数**に到達するごとに、\
+追加のランダムオプションが付与されます。
+
+* オプションは**1種類のみ**付与されます。
+* 武器レベルが高いほど、オプションの最小～最大値が上昇します。
 
 | 武器種類                                          |  エンチャントオプション                                                      | 最小～最大値 |
 | --------------------------------------------- | ----------------------------------------------------------------- | ------ |
@@ -303,11 +400,13 @@ With each enchantment level reaching increments of '5', an additional random opt
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>※ This guide was written based on the game status as of December 31, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+
 #### 💡Fixed Option Range&#x20;
 
 📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
 
-<table data-header-hidden data-full-width="true"><thead><tr><th width="184.0909423828125"></th><th width="103.45452880859375"></th><th width="105.272705078125"></th><th width="114"></th><th width="109.54547119140625"></th><th width="110.9091796875"></th><th width="118.4544677734375"></th><th width="79.3572998046875"></th><th width="80.26431274414062"></th><th width="84.49053955078125"></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Equip Lv.</strong></td><td><strong>Durability</strong></td><td><strong>Min AP</strong></td><td><strong>Max AP</strong></td><td><strong>Min SAP</strong></td><td><strong>Max SAP</strong></td><td><strong>STR</strong></td><td><strong>DEX</strong></td><td><strong>INT</strong></td><td><strong>CHA</strong></td></tr><tr><td>Wooden Sword</td><td>1</td><td>50</td><td>30</td><td>32</td><td>30</td><td>32</td><td></td><td></td><td></td><td></td></tr><tr><td>Bronze Sword</td><td>3</td><td>50</td><td>120</td><td>140</td><td>120</td><td>140</td><td></td><td></td><td></td><td></td></tr><tr><td>Steel Sword</td><td>6</td><td>60</td><td>260</td><td>336</td><td>260</td><td>336</td><td></td><td></td><td></td><td></td></tr><tr><td>Flamberg</td><td>10</td><td>60</td><td>620</td><td>768</td><td>620</td><td>768</td><td></td><td></td><td></td><td></td></tr><tr><td>Paladin's Sword</td><td>15</td><td>70</td><td>1,300</td><td>1,584</td><td>1,300</td><td>1,584</td><td></td><td></td><td></td><td></td></tr><tr><td>Orc eye</td><td>18</td><td>70</td><td>2,800</td><td>2,978</td><td>2,800</td><td>2,978</td><td></td><td></td><td></td><td></td></tr><tr><td>Damascus</td><td>22</td><td>80</td><td>5,400</td><td>5,545</td><td>5,400</td><td>5,545</td><td></td><td></td><td></td><td></td></tr><tr><td>Savage Sword</td><td>26</td><td>80</td><td>10,200</td><td>11,160</td><td>10,200</td><td>11,160</td><td></td><td></td><td></td><td></td></tr><tr><td>Oracle Sword</td><td>30</td><td>90</td><td>20,500</td><td>22,364</td><td>20,500</td><td>22,364</td><td></td><td></td><td></td><td></td></tr><tr><td>Devil's Sword</td><td>36</td><td>90</td><td>40,000</td><td>44,982</td><td>40,000</td><td>44,982</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td>Awakening Darkness</td><td>42</td><td>100</td><td>78,000</td><td>89,856</td><td>78,000</td><td>89,856</td><td>2</td><td>1</td><td>2</td><td></td></tr><tr><td>Sword of Light</td><td>51</td><td>110</td><td>152,000</td><td>167,200</td><td>152,000</td><td>167,200</td><td>4</td><td>1</td><td>4</td><td>1</td></tr></tbody></table>
+<table data-header-hidden data-full-width="true"><thead><tr><th width="184.0909423828125"></th><th width="103.45452880859375"></th><th width="105.272705078125"></th><th width="114"></th><th width="109.54547119140625"></th><th width="110.9091796875"></th><th width="118.4544677734375"></th><th width="79.3572998046875"></th><th width="80.26431274414062"></th><th width="84.49053955078125"></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Equip Lv.</strong></td><td><strong>Durability</strong></td><td><strong>Min P</strong>hys. DMG</td><td><strong>Max Phys. DMG</strong></td><td><strong>Min Mag. DMG</strong></td><td><strong>Max Mag. DMG</strong></td><td><strong>STR</strong></td><td><strong>DEX</strong></td><td><strong>INT</strong></td><td><strong>CHA</strong></td></tr><tr><td>Wooden Sword</td><td>1</td><td>50</td><td>30</td><td>32</td><td>30</td><td>32</td><td></td><td></td><td></td><td></td></tr><tr><td>Bronze Sword</td><td>3</td><td>50</td><td>120</td><td>140</td><td>120</td><td>140</td><td></td><td></td><td></td><td></td></tr><tr><td>Steel Sword</td><td>6</td><td>60</td><td>260</td><td>336</td><td>260</td><td>336</td><td></td><td></td><td></td><td></td></tr><tr><td>Flamberg</td><td>10</td><td>60</td><td>620</td><td>768</td><td>620</td><td>768</td><td></td><td></td><td></td><td></td></tr><tr><td>Paladin's Sword</td><td>15</td><td>70</td><td>1,300</td><td>1,584</td><td>1,300</td><td>1,584</td><td></td><td></td><td></td><td></td></tr><tr><td>Orc eye</td><td>18</td><td>70</td><td>2,800</td><td>2,978</td><td>2,800</td><td>2,978</td><td></td><td></td><td></td><td></td></tr><tr><td>Damascus</td><td>22</td><td>80</td><td>5,400</td><td>5,545</td><td>5,400</td><td>5,545</td><td></td><td></td><td></td><td></td></tr><tr><td>Savage Sword</td><td>26</td><td>80</td><td>10,200</td><td>11,160</td><td>10,200</td><td>11,160</td><td></td><td></td><td></td><td></td></tr><tr><td>Oracle Sword</td><td>30</td><td>90</td><td>20,500</td><td>22,364</td><td>20,500</td><td>22,364</td><td></td><td></td><td></td><td></td></tr><tr><td>Devil's Sword</td><td>36</td><td>90</td><td>40,000</td><td>44,982</td><td>40,000</td><td>44,982</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td>Awakening Darkness</td><td>42</td><td>100</td><td>78,000</td><td>89,856</td><td>78,000</td><td>89,856</td><td>2</td><td>1</td><td>2</td><td></td></tr><tr><td>Sword of Light</td><td>51</td><td>110</td><td>152,000</td><td>167,200</td><td>152,000</td><td>167,200</td><td>4</td><td>1</td><td>4</td><td>1</td></tr></tbody></table>
 
 
 
@@ -323,5 +422,5 @@ With each enchantment level reaching increments of '5', an additional random opt
 
 📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
 
-<table data-header-hidden data-full-width="true"><thead><tr><th></th><th width="114"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Min AP</strong></td><td><strong>Max AP</strong></td><td><strong>Min HP</strong></td><td><strong>Max HP</strong></td><td><strong>Min MP</strong></td><td><strong>Max MP</strong></td><td><strong>Min CB</strong></td><td><strong>Max CB</strong></td><td><strong>Min CP</strong></td><td><strong>Max CP</strong></td><td><strong>Min SAP</strong></td><td><strong>Max SAP</strong></td><td><strong>Min SCB</strong></td><td><strong>Max SCB</strong></td><td><strong>Min SCP</strong></td><td><strong>Max SCP</strong></td><td><strong>Min CR</strong></td><td><strong>Max CR</strong></td></tr><tr><td>Wooden Sword</td><td>3</td><td>9</td><td>30</td><td>300</td><td>15</td><td>150</td><td>3</td><td>9</td><td>1</td><td>1</td><td>3</td><td>9</td><td>3</td><td>9</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Bronze Sword</td><td>6</td><td>21</td><td>150</td><td>1,500</td><td>75</td><td>750</td><td>6</td><td>21</td><td>1</td><td>1</td><td>6</td><td>21</td><td>6</td><td>21</td><td>1</td><td>1</td><td>1</td><td>2</td></tr><tr><td>Steel Sword</td><td>15</td><td>36</td><td>600</td><td>2,400</td><td>300</td><td>1200</td><td>15</td><td>36</td><td>1</td><td>2</td><td>15</td><td>36</td><td>15</td><td>36</td><td>1</td><td>2</td><td>1</td><td>3</td></tr><tr><td>Flamberg</td><td>21</td><td>66</td><td>1800</td><td>4,500</td><td>900</td><td>2250</td><td>21</td><td>66</td><td>1</td><td>2</td><td>21</td><td>66</td><td>21</td><td>66</td><td>1</td><td>2</td><td>1</td><td>4</td></tr><tr><td>Paladin's Sword</td><td>36</td><td>105</td><td>3000</td><td>7,200</td><td>1500</td><td>3600</td><td>36</td><td>105</td><td>1</td><td>3</td><td>36</td><td>105</td><td>36</td><td>105</td><td>1</td><td>3</td><td>1</td><td>5</td></tr><tr><td>Orc eye</td><td>54</td><td>150</td><td>4,200</td><td>9,000</td><td>2100</td><td>4500</td><td>54</td><td>150</td><td>1</td><td>3</td><td>54</td><td>150</td><td>54</td><td>150</td><td>1</td><td>3</td><td>1</td><td>6</td></tr><tr><td>Damascus</td><td>72</td><td>210</td><td>5,400</td><td>12,000</td><td>2700</td><td>6000</td><td>72</td><td>210</td><td>1</td><td>4</td><td>72</td><td>210</td><td>72</td><td>210</td><td>1</td><td>4</td><td>1</td><td>7</td></tr><tr><td>Savage Sword</td><td>105</td><td>270</td><td>7,200</td><td>18,000</td><td>3600</td><td>9000</td><td>105</td><td>270</td><td>1</td><td>4</td><td>105</td><td>270</td><td>105</td><td>270</td><td>1</td><td>4</td><td>1</td><td>8</td></tr><tr><td>Oracle Sword</td><td>400</td><td>3,000</td><td>12,000</td><td>24,000</td><td>6000</td><td>12000</td><td>400</td><td>3000</td><td>1</td><td>5</td><td>400</td><td>3000</td><td>400</td><td>3000</td><td>1</td><td>5</td><td>1</td><td>9</td></tr><tr><td>Devil's Sword</td><td>3,500</td><td>10,000</td><td>30,000</td><td>100,000</td><td>20000</td><td>70000</td><td>3500</td><td>10000</td><td>1</td><td>10</td><td>3500</td><td>10000</td><td>3500</td><td>10000</td><td>1</td><td>10</td><td>1</td><td>10</td></tr><tr><td>Awakening Darkness</td><td>15,000</td><td>20,000</td><td>120,000</td><td>160,000</td><td>90000</td><td>130000</td><td>15000</td><td>20000</td><td>1</td><td>11</td><td>15000</td><td>20000</td><td>15000</td><td>20000</td><td>1</td><td>11</td><td>1</td><td>11</td></tr><tr><td>Sword of Light</td><td>25,000</td><td>30,000</td><td>300,000</td><td>400,000</td><td>150000</td><td>190000</td><td>25000</td><td>30000</td><td>4</td><td>14</td><td>25000</td><td>30000</td><td>25000</td><td>30000</td><td>4</td><td>14</td><td>4</td><td>14</td></tr></tbody></table>
+<table data-header-hidden data-full-width="true"><thead><tr><th></th><th width="114"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Weapon</strong></td><td><strong>Min Phys. DMG</strong></td><td><strong>Max Phys. DMG</strong></td><td><strong>Min HP</strong></td><td><strong>Max HP</strong></td><td><strong>Min MP</strong></td><td><strong>Max MP</strong></td><td><strong>Min Phys. Crit DMG</strong></td><td><strong>Max Phys. Crit DMG</strong></td><td><strong>Min Phys. Crit %</strong></td><td><strong>Max Phys. Crit %</strong></td><td><strong>Min Mag. DMG</strong></td><td><strong>Max Mag. DMG</strong></td><td><strong>Min Mag. Crit DMG</strong></td><td><strong>Max Mag. Crit DMG</strong></td><td><strong>Min Mag. Crit %</strong></td><td><strong>Max Mag. Crit %</strong></td><td><strong>Min CDR</strong></td><td><strong>Max CDR</strong></td></tr><tr><td>Wooden Sword</td><td>3</td><td>9</td><td>30</td><td>300</td><td>15</td><td>150</td><td>3</td><td>9</td><td>1</td><td>1</td><td>3</td><td>9</td><td>3</td><td>9</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Bronze Sword</td><td>6</td><td>21</td><td>150</td><td>1,500</td><td>75</td><td>750</td><td>6</td><td>21</td><td>1</td><td>1</td><td>6</td><td>21</td><td>6</td><td>21</td><td>1</td><td>1</td><td>1</td><td>2</td></tr><tr><td>Steel Sword</td><td>15</td><td>36</td><td>600</td><td>2,400</td><td>300</td><td>1200</td><td>15</td><td>36</td><td>1</td><td>2</td><td>15</td><td>36</td><td>15</td><td>36</td><td>1</td><td>2</td><td>1</td><td>3</td></tr><tr><td>Flamberg</td><td>21</td><td>66</td><td>1800</td><td>4,500</td><td>900</td><td>2250</td><td>21</td><td>66</td><td>1</td><td>2</td><td>21</td><td>66</td><td>21</td><td>66</td><td>1</td><td>2</td><td>1</td><td>4</td></tr><tr><td>Paladin's Sword</td><td>36</td><td>105</td><td>3000</td><td>7,200</td><td>1500</td><td>3600</td><td>36</td><td>105</td><td>1</td><td>3</td><td>36</td><td>105</td><td>36</td><td>105</td><td>1</td><td>3</td><td>1</td><td>5</td></tr><tr><td>Orc eye</td><td>54</td><td>150</td><td>4,200</td><td>9,000</td><td>2100</td><td>4500</td><td>54</td><td>150</td><td>1</td><td>3</td><td>54</td><td>150</td><td>54</td><td>150</td><td>1</td><td>3</td><td>1</td><td>6</td></tr><tr><td>Damascus</td><td>72</td><td>210</td><td>5,400</td><td>12,000</td><td>2700</td><td>6000</td><td>72</td><td>210</td><td>1</td><td>4</td><td>72</td><td>210</td><td>72</td><td>210</td><td>1</td><td>4</td><td>1</td><td>7</td></tr><tr><td>Savage Sword</td><td>105</td><td>270</td><td>7,200</td><td>18,000</td><td>3600</td><td>9000</td><td>105</td><td>270</td><td>1</td><td>4</td><td>105</td><td>270</td><td>105</td><td>270</td><td>1</td><td>4</td><td>1</td><td>8</td></tr><tr><td>Oracle Sword</td><td>400</td><td>3,000</td><td>12,000</td><td>24,000</td><td>6000</td><td>12000</td><td>400</td><td>3000</td><td>1</td><td>5</td><td>400</td><td>3000</td><td>400</td><td>3000</td><td>1</td><td>5</td><td>1</td><td>9</td></tr><tr><td>Devil's Sword</td><td>3,500</td><td>10,000</td><td>30,000</td><td>100,000</td><td>20000</td><td>70000</td><td>3500</td><td>10000</td><td>1</td><td>10</td><td>3500</td><td>10000</td><td>3500</td><td>10000</td><td>1</td><td>10</td><td>1</td><td>10</td></tr><tr><td>Awakening Darkness</td><td>15,000</td><td>20,000</td><td>120,000</td><td>160,000</td><td>90000</td><td>130000</td><td>15000</td><td>20000</td><td>1</td><td>11</td><td>15000</td><td>20000</td><td>15000</td><td>20000</td><td>1</td><td>11</td><td>1</td><td>11</td></tr><tr><td>Sword of Light</td><td>25,000</td><td>30,000</td><td>300,000</td><td>400,000</td><td>150000</td><td>190000</td><td>25000</td><td>30000</td><td>4</td><td>14</td><td>25000</td><td>30000</td><td>25000</td><td>30000</td><td>4</td><td>14</td><td>4</td><td>14</td></tr></tbody></table>
 
