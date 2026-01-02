@@ -48,7 +48,7 @@ If you lose it, your wallet and assets **cannot be recovered**.
 1️⃣ Launch the MetaMask app.\
 2️⃣ Tap the **network selection area** at the top of the screen.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This area is where you manage the network currently in use.
@@ -66,17 +66,17 @@ the network must always be set to **BNB Smart Chain**.
 
 1️⃣ Go to the **\[Tokens]** screen at the bottom of the MetaMask app.
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure>
 
 2️⃣ Tap the **network name area** at the top of the screen.\
 (Example: Ethereum, BNB Chain)
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 3️⃣ Select **BNB Chain** from the list.\
 Once selected, the wallet network will automatically switch to **BNB Chain**.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **🔎How to Check the Network Setup**
@@ -93,7 +93,7 @@ If all of the following are true, **BNB Chain** has been set up correctly.
 
 If **BNB Chain** is not shown in the network list, you can add it manually.
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
 
 1️⃣ Tap **`Add Network`**.\
 2️⃣ Select **Custom Network** in the top-right corner.\
@@ -122,13 +122,13 @@ However, it may not be visible, so you need to check whether it is enabled.
 2️⃣ On the main screen, tap **`Manage Crypto`**.\
 3️⃣ A list of available networks and tokens will appear.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 ***
 
 ### ✅ STEP 2. Enable BNB Smart Chain
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="235"><figcaption></figcaption></figure>
 
 1️⃣ Find **BNB Smart Chain** in the list.\
 2️⃣ Check whether the switch on the right is turned on.\
@@ -223,7 +223,7 @@ EXTOCIUM은\
 1️⃣ 메타마스크 앱을 실행합니다.\
 2️⃣ 상단의 **네트워크 선택 영역**을 터치(클릭)합니다.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 이 영역은 메타마스크에서\
@@ -242,17 +242,17 @@ EXTOCIUM은\
 
 1️⃣ 메타마스크 앱 하단의 **\[Tokens] 화면**으로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure>
 
 2️⃣ 화면 상단에 표시된 **네트워크 이름 영역**을 터치합니다.\
 &#xNAN;_(예: Ethereum, BNB Chain 등)_
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 3️⃣ 네트워크 목록에서 **BNB Chain**을 선택합니다.\
 선택이 완료되면 지갑의 네트워크가 자동으로 BNB Smart Chain으로 전환됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **🔎 네트워크 설정 확인 방법**
@@ -270,7 +270,7 @@ BNB Smart Chain 설정이 정상적으로 완료된 상태입니다.
 
 네트워크 목록에 BNB Smart Chain이 보이지 않는 경우, 직접 추가할 수 있습니다.
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
 
 1️⃣ **네트워크 추가** 버튼을 선택합니다.\
 2️⃣ 우측 상단의 **커스텀 네트워크**를 선택합니다.\
@@ -303,13 +303,13 @@ BNB Smart Chain 설정이 정상적으로 완료된 상태입니다.
 &#xNAN;_(토큰 목록 화면 하단 또는 중간에 표시됩니다.)_\
 3️⃣ **Manage Crypto(가상자산 관리)** 화면에서 등록 가능한 네트워크와 토큰 목록이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 ***
 
 ### ✅ STEP 2. BNB Smart Chain을 활성화합니다
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="235"><figcaption></figcaption></figure>
 
 1️⃣ 목록에서 **BNB Smart Chain** 을 찾습니다.\
 2️⃣ 오른쪽 스위치가 **켜져 있는지 확인**합니다.\
@@ -412,7 +412,7 @@ EXTOCIUMは\
 1️⃣ MetaMaskアプリを起動します。\
 2️⃣ 画面上部の **ネットワーク選択エリア**をタップします。
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 この画面では、現在使用しているネットワークを管理できます。
@@ -430,17 +430,17 @@ MetaMaskの初期設定は\
 
 1️⃣ MetaMaskアプリ下部の **\[Tokens]** 画面に移動します。
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure>
 
 2️⃣ 画面上部の **ネットワーク名表示エリア**をタップします。\
 （例：Ethereum、BNB Chain）。
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 3️⃣ 一覧から **BNB Chain**を選択します。\
 選択が完了すると、ネットワークは 自動的にBNB Smart Chainへ切り替わります。
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **🔎 ネットワーク設定の確認方法**
@@ -459,7 +459,7 @@ MetaMaskの初期設定は\
 ネットワーク一覧に\
 **BNB Smart Chain**が表示されない場合は、手動で追加できます。
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/화면 캡처 2025-12-15 182934.png" alt="" width="231"><figcaption></figcaption></figure></div>
 
 1️⃣ **ネットワーク追加**を選択します。\
 2️⃣ 右上の **カスタムネットワーク**を選択します。\
@@ -490,13 +490,13 @@ Trust Walletでは、BNB Smart Chainが初期状態で提供されています�
 2️⃣ メイン画面で **\[Manage Crypto]**&#x3092;選択します。 \
 3️⃣ 登録可能な ネットワークとトークン一覧が表示されます。
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 ***
 
 ### ✅ STEP 2. BNB Smart Chainを有効化します
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 1️⃣ 一覧から **BNB Smart Chain**を探します。\
 2️⃣ 右側のスイッチが オンになっているか確認します。\

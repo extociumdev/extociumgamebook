@@ -18,13 +18,13 @@ Follow these steps to start crafting:
 
 1️⃣ Tap the **Dashboard** button on the main HUD.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Select **Crafting** from the left-side menu.
 
 Once you enter the crafting screen, you’ll see a list of items you can craft.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -40,7 +40,7 @@ You can craft:
 * [Orbs](../../growth/equipment/orb/#eng)
 * [Accessories](../../growth/equipment/accessories/#eng)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 🧪 Item Tab
 
@@ -50,7 +50,7 @@ You can craft:
 * Potions
 * Scrolls
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -58,7 +58,7 @@ You can craft:
 
 Craftable items display the **number of times they can currently be crafted**.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tap an item panel to view:
 
@@ -68,7 +68,7 @@ Tap an item panel to view:
 
 Tap the **Craft** button at the bottom to complete the item.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -80,7 +80,7 @@ There are **two main reasons** why crafting may not be possible:
 
 #### 1️⃣ Insufficient Crafting Skills
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Some items require you to **learn the '**[**Training**](training.md#eng)**' first**.
 
@@ -88,13 +88,13 @@ Some items require you to **learn the '**[**Training**](training.md#eng)**' firs
 * Use TP to train crafting skills
 * Once training is complete, crafting becomes available
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### 2️⃣ Recipe Item Required
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Some items require a **recipe item** to craft.
 
@@ -136,13 +136,13 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 1️⃣ **메인 HUD에서 대시보드 버튼을 터치합니다.**
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **대시보드 좌측 메뉴에서 ‘제작’을 선택합니다.**
 
 제작 화면으로 이동하면 제작 가능한 아이템 목록이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -158,7 +158,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * [오브](../../growth/equipment/orb/#undefined-1)
 * [악세서리](../../growth/equipment/accessories/#undefined-1)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 🧪 아이템 탭
 
@@ -168,7 +168,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * 포션
 * 주문서
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -176,7 +176,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 제작이 가능한 아이템은 **현재 제작 가능한 개수**가 함께 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 아이템 패널을 터치하면 아래 정보를 확인할 수 있습니다.
 
@@ -186,7 +186,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 하단의 **‘제작’ 버튼**을 터치하면 아이템 제작이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -198,7 +198,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 #### 1️⃣ 제작 기술이 부족한 경우
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 일부 아이템은 [**기술 연마**](training.md#id-1)를 통해 제작법을 먼저 익혀야 합니다.
 
@@ -206,13 +206,13 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * TP를 사용하여 **제작 기술을 연마**합니다.
 * 기술 연마 완료 후 제작이 가능합니다.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### 2️⃣ 레시피 아이템이 필요한 경우
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 일부 아이템은 **레시피 아이템**이 있어야 제작할 수 있습니다.\
 레시피 아이템은 다음 방법으로 획득할 수 있습니다.
@@ -252,13 +252,13 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 1️⃣ メインHUDで**ダッシュボード**ボタンをタップします。
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ダッシュボード左側のメニューか&#x3089;**「制作」**&#x3092;選択します。&#x20;
 
 制作画面に移動すると、制作可能なアイテム一覧が表示されます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -274,7 +274,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * [オーブ](../../growth/equipment/orb/#ri-ben-yu)
 * [アクセサリー](../../growth/equipment/accessories/#ri-ben-yu)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 🧪 アイテムタブ
 
@@ -284,7 +284,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * ポーション
 * スクロール
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -293,7 +293,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 制作可能なアイテムには、\
 **現在制作できる回数**があわせて表示されます。
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 アイテムパネルをタップすると、以下の情報を確認できます。
 
@@ -303,7 +303,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 画面下部&#x306E;**「制作」**&#x30DC;タンをタップすると、制作が完了します。
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -315,7 +315,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 #### 1️⃣ 制作技術が不足している場合
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 一部のアイテムは、[**技術研磨**](training.md#ri-ben-yu)によって\
 あらかじめ制作方法を習得する必要があります。
@@ -324,13 +324,13 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * TPを使用して制作技術を研磨
 * 技術研磨が完了すると、制作可能になります
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### 2️⃣ レシピアイテムが必要な場合
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 一部のアイテムは、**レシピアイテム**を所持していないと制作できません。
 

@@ -6,177 +6,232 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-### **Weapon Durability System Guide**
+### ⚔ Weapon Durability System
 
-#### ⚔ Overview
+In **EXTOCIUM**, a **Weapon Durability System** is applied\
+to prevent excessive PK and PvE activity using a single weapon.
 
-The **Weapon Durability System** is designed to prevent excessive PK and PvE activities using a single weapon.
-
-***
-
-#### 🛠 Durability Decrease Conditions
-
-* 🐉 **Kills 30 Monsters** → Durability **-1**
-* ⚔ **Kills 1 Player** → Durability **-1**
-* 💀 **Dies to Monster or Player** → Durability **-2**
-* 🔺 **Kills a Player 10 Levels Higher** → Durability **-10**
-* 🔻 **Kills a Player 10 Levels Lower** → Durability **-10**
+Weapon durability decreases through combat activities\
+and can be restored using **Polishing Stones**.
 
 ***
 
-#### 🔧 Durability Adjustment & Recovery
+#### ◾ Durability Reduction Conditions
 
-* 🪄 **When Weapon is Enchanted**
-  * +5 Enhancement → Durability **+10**
-  * +10 Enhancement → Durability **+10** (additional)
-* ⚠ **When Durability Reaches 0** → Weapon Performance **-50%**
-* 🔩 **Each Polishing Stone** restores **+10 Durability**
+Weapon durability decreases when performing the following actions:
 
-***
-
-#### 💎 How to Obtain Polishing Stones
-
-* ⚔ **During PK** → Small chance (**30%**) to drop a _Polishing Stone_
-* 🐉 **When Hunting Monsters** → Low chance (**0.5%**) to drop a _Polishing Stone_
+* Defeat **30 Monsters** → Durability −1
+* Kill **1 PC** → Durability −1
+* Die to a **Monster or PC** → Durability −2
+* <mark style="color:red;">▲</mark> Kill a PC **10 levels higher than you** → Durability −10
+* <mark style="color:blue;">▼</mark> Kill a PC **10 levels lower than you** → Durability −10
 
 ***
 
-👉 [**Check Weapon Durability by Type**](weapon-stats.md#fixed-option-range)
+#### ◾ Durability Bonus & Recovery
+
+**Through Weapon Enchantment**
+
+* Reaching **+5 Enchant** → Durability +10
+* Reaching **+10 Enchant** → Additional Durability +10
+
+If a weapon’s durability reaches **0**, its performance is reduced by **50%**.
+
+**Using Polishing Stones**
+
+* Use **1 Polishing Stone** → Restore **10 Durability**
 
 ***
 
-### **🛠 Repairing Weapons**
+#### ◾ How to Obtain Polishing Stones
 
-#### 🧭 Manual Repair
+Polishing Stones can be obtained through the following methods:
 
-* Go to **Dashboard → Weapon Information Page**.
-* The **number of Polishing Stones** you currently own is displayed in the **top-right corner** of the Weapon Information page.
-* Tap the **Durability Bar** under the weapon image to manually repair your weapon.
-* Check the **required number of Polishing Stones** and proceed with the repair!
+* **30% drop chance** when PK
+* **0.5% drop chance** when hunting monsters
 
 ***
 
-#### ⚙ Auto-Repair Function
+#### ◾ Checking Weapon Durability
 
-<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
+You can check durability information for each weapon by clicking [**here**](weapon-stats.md#fixed-option-range).
 
-* Equipped weapons can have **Auto-Repair** toggled **ON/OFF**.
-* Use the **AUTO button** next to your equipped weapon on the **Dashboard**!
+***
+
+#### ◾ How to Repair Weapons
+
+1.  Go to **Dashboard → Weapon Info Page**<br>
+
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+2.  Check the number of **Polishing Stones** you own at the top-right of the Weapon Info Page<br>
+
+    <figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+3.  Tap the **Durability Bar** below the weapon image to perform **manual repair**<br>
+
+    <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+4.  Confirm the required number of Polishing Stones and proceed with the repair<br>
+
+    <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+#### ◾ Auto-Repair Feature
+
+* Auto-repair can be toggled **ON / OFF** for equipped weapons.
+* Use the **AUTO button** next to the equipped weapon \
+  on the Dashboard to configure this setting
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="한국어" %}
-#### ⚔ 무기 내구도 시스템 안내
+### ⚔ 무기 내구도 시스템
 
-1개의 무기를 통한 과도한 **PK 및 PvE 활동을 방지하기 위해**\
-무기 내구도 시스템이 적용됩니다.
+EXTOCIUM에서는\
+하나의 무기를 이용한 과도한 PK 및 PvE 활동을 방지하기 위해 **무기 내구도 시스템**이 적용됩니다.
 
-***
-
-#### 🛠 내구도 감소 조건
-
-* 🐉 **몬스터 30마리 처치 시** → 내구도 **1 감소**
-* ⚔ **PC 1킬 시** → 내구도 **1 감소**
-* 💀 **몬스터 또는 PC에게 사망 시** → 내구도 **2 감소**
-* 🔺 **자신보다 10레벨 높은 PC 킬 시** → 내구도 **10 감소**
-* 🔻 **자신보다 10레벨 낮은 PC 킬 시** → 내구도 **10 감소**
+무기의 내구도는 전투 활동에 따라 감소하며, 연마석을 사용해 회복할 수 있습니다.
 
 ***
 
-#### 🔧 내구도 보정 및 회복
+#### ◾ 내구도 감소 조건
 
-* 🪄 **무기 인챈트 시**
-  * +5강 도달 시 → 내구도 **+10 증가**
-  * +10강 도달 시 → 내구도 **+10 추가 증가**
-* ⚠ **내구도 0이 되면** → **무기 성능** <mark style="color:red;">50%</mark> **감소**
-* 🔩 **연마석 1개 사용 시** → 내구도 <mark style="color:blue;">10</mark> **회복**
+다음 행동을 수행하면 무기의 내구도가 감소합니다.
 
-***
-
-#### 💎 연마석 획득처
-
-* ⚔ **PK 시** 일정 확률(**30%**)로 연마석 드랍
-* 🐉 **몬스터 사냥 시** 낮은 확률(**0.5%**)로 연마석 드랍
+* 몬스터 **30마리 처치 시** → 내구도 **1 감소**
+* **PC 1킬** 시 → 내구도 **1 감소**
+* **몬스터** 또는 **PC**에게 **사망 시** → 내구도 **2 감소**
+* <mark style="color:red;">▲</mark> 자신보다 **10레벨 높은 PC 처치 시** → 내구도 **10 감소**
+* <mark style="color:blue;">▼</mark> 자신보다 **10레벨 낮은 PC 처치 시** → 내구도 **10 감소**
 
 ***
 
-👉 [**무기별 내구도 확인 바로가기**](weapon-stats.md#fixed-option-range)
+#### ◾ 내구도 보정 및 회복
+
+* 무기 인챈트 시
+  * **+5강 도달 시** → 내구도 **+10 증가**
+  * **+10강 도달 시** → 내구도 **+10 추가 증가**
+* 무기의 내구도가 **0이 되면**, 해당 무기의 **성능이 50% 감소**합니다.
+* **연마석 1개 사용 시** → 내구도 **10 회복**
 
 ***
 
-#### 🛠 무기 수리하기
+#### ◾ 연마석 획득 방법
 
-* 대시보드 → 무기 정보 페이지로 들어가세요.
-* 무기 정보 페이지 우측 상단에 보유중인 연마석의 수량이 표시됩니다.
-* 무기 이미지 하단에 내구도 바를 터치하여 수동 수리가 가능합니다.
-* 필요한 연마석의 개수를 확인하여 수리를 진행하세요!
+연마석은 다음 방법으로 획득할 수 있습니다.
+
+* PK 시 **30% 확률**로 드랍
+* 몬스터 사냥 시 **0.5% 확률**로 드랍
 
 ***
 
-#### 🛠 자동 수리 기능
+#### ◾ 무기 내구도 확인
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure></div>
+무기별 내구도 정보는 [**여기를 눌러**](weapon-stats.md#fixed-option-range) 확인할 수 있습니다.
 
-* 장착 중인 장비는 자동 수리 기능을 ON/OFF 가능합니다.
-* 대시보드의 장착 중인 무기 옆 AUTO 버튼을 이용하세요!
+***
+
+#### ◾ 무기 수리 방법
+
+1.  **대시보드 → 무기 정보 페이지**로 이동합니다.<br>
+
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+2.  무기 정보 페이지 우측 상단에서 보유 중인 **연마석 수량**을 확인할 수 있습니다.<br>
+
+    <figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+3.  무기 이미지 하단의 **내구도 바**를 터치하면 수동 수리가 가능합니다.<br>
+
+    <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+4.  필요한 연마석 개수를 확인한 후 수리를 진행하세요.<br>
+
+    <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 자동 수리 기능
+
+* 장착 중인 장비는 **자동 수리 기능을 ON / OFF** 할 수 있습니다.
+* 대시보드에서 장착 중인 무기 옆의 **AUTO 버튼**을 통해 설정할 수 있습니다.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="日本語" %}
-### **武器耐久度システムガイド**
+### ⚔ 武器耐久度システム
 
-#### ⚔ 概要
+**EXTOCIUM**では、\
+1つの武器による過度な **PK・PvE行為** を防ぐため、**武器耐久度システム**が導入されています。
 
-1つの武器による**過度なPKおよびPvE行動を防止するため**に、\
-「武器耐久度システム」が導入されています。
-
-***
-
-#### 🛠 耐久度減少条件
-
-* 🐉 **モンスター30体討伐ごとに** → 耐久度 **-1**
-* ⚔ **プレイヤー1人撃破ごとに** → 耐久度 **-1**
-* 💀 **モンスターまたはプレイヤーに倒された場合** → 耐久度 **-2**
-* 🔺 **自分より10レベル高いプレイヤーを倒した場合** → 耐久度 **-10**
-* 🔻 **自分より10レベル低いプレイヤーを倒した場合** → 耐久度 **-10**
+武器の耐久度は戦闘行動によって減少し、**研磨石**を使用することで回復できます。
 
 ***
 
-#### 🔧 耐久度の補正および回復
+#### ◾ 耐久度が減少する条件
 
-* 🪄 **武器を強化した際**
-  * +5強化で → 耐久度 **+10**
-  * +10強化で → 耐久度 **+10**（追加）
-* ⚠ **耐久度が0になると** → 武器性能が **50%低下**
-* 🔩 **研磨石1個使用ごとに** → 耐久度 **+10 回復**
+以下の行動を行うと、武器の耐久度が減少します。
 
-***
-
-#### 💎 研磨石の入手方法
-
-* ⚔ **PK時** → 一定確率（**30%**）で _研磨石_ ドロップ
-* 🐉 **モンスター討伐時** → 低確率（**0.5%**）で _研磨石_ ドロップ
+* **モンスター30体討伐** → 耐久度 −1
+* **PC（プレイヤー）1キル** → 耐久度 −1
+* **モンスターまたはPCに倒された場合** → 耐久度 −2
+* <mark style="color:red;">▲</mark> **自分より10レベル高いPCを討伐** → 耐久度 −10
+* <mark style="color:blue;">▼</mark> **自分より10レベル低いPCを討伐** → 耐久度 −10
 
 ***
 
-👉 [**武器別耐久度を確認する**](weapon-stats.md#fixed-option-range)
+#### ◾ 耐久度補正と回復
+
+武器エンチャントによる補正
+
+* **＋5強化到達** → 耐久度 ＋10
+* **＋10強化到達** → 耐久度 ＋10（追加）
+
+武器の耐久度が **0** になると、その武器の性能は **50％低下** します。
+
+**研磨石による回復**
+
+* **研磨石1個使用** → 耐久度 **10回復**
 
 ***
 
-### **🛠** 武器を修理する
+#### ◾ 研磨石の入手方法
 
-#### 🧭 手動修理
+研磨石は以下の方法で入手できます。
 
-* **ダッシュボード → 武器情報ページ** にアクセスします。
-* 武器情報ページの **右上** に、所持している **研磨石の数** が表示されます。
-* 武器画像の下にある **耐久度バーをタップ** すると、手動で修理が可能です。
-* 必要な **研磨石の数** を確認し、修理を進めてください！
+* PK時：**30％**&#x306E;確率でドロップ
+* モンスター討伐時：**0.5％**&#x306E;確率でドロップ
 
 ***
 
-#### ⚙ 自動修理機能
+#### ◾ 武器耐久度の確認
 
-<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
+武器ごとの耐久度情報は、[**こちら**](weapon-stats.md#fixed-option-range)から確認できます。
 
-* 装備中の武器は、自動修理機能をON/OFF 切り替えることができます。
-* ダッシュボード の装備中武器の横にある AUTOボタン を利用してください！
+***
+
+#### ◾ 武器修理の方法
+
+1.  **ダッシュボード → 武器情報ページ**へ移動します<br>
+
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+2.  武器情報ページ右上で、所持している **研磨石の数量** を確認できます<br>
+
+    <figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+3.  武器画像下の **耐久度バー** をタップすると、**手動修理** が可能です<br>
+
+    <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+4.  必要な研磨石の数を確認し、修理を行ってください<br>
+
+    <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 自動修理機能
+
+* 装備中の武器は、**自動修理機能をON / OFF** に設定できます。
+* ダッシュボードで、装備中の武器横にある **AUTOボタン** から設定可能です
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 2, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

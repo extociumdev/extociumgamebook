@@ -8,7 +8,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% tab title="ENG" %}
 ### 🌈 Elemental Bonus Damage
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 💡 All Heroes and Monsters in **EXTOCIUM** possess a single elemental attribute.\
 Depending on elemental advantages and disadvantages,\
@@ -31,7 +31,7 @@ Based on these relationships, **Elemental Bonus Damage (EBD)** is applied.
 
 * You can check a target’s element in the **Target Panel**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * During combat,\
   an **arrow icon displayed above the target’s head** allows you to quickly identify\
@@ -44,7 +44,7 @@ Based on these relationships, **Elemental Bonus Damage (EBD)** is applied.
 * **Green Arrow&#x20;**<mark style="color:green;">**▲**</mark>\
   → You deal **12% additional damage** to the target.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Red Arrow&#x20;**<mark style="color:red;">**▼**</mark>\
   → The target deals **12% additional damage** to you.
@@ -78,7 +78,7 @@ an extra percentage bonus is multiplied onto your already calculated final damag
 
 Some equipment can grant **Elemental Bonus Damage** against specific elements as an option.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This effect increases damage dealt to enemies of the specified element by **n%**
@@ -97,7 +97,7 @@ even with the same stats.\
 {% tab title="한국어" %}
 ### 🌈 Elemental Bonus Damage (속성 보너스 데미지)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 💡 **EXTOCIUM의 모든 영웅과 몬스터는 하나의 속성을 가지고 있습니다.**\
 속성 간의 상성에 따라, 전투 시 추가 데미지가 발생할 수 있습니다.
@@ -119,7 +119,7 @@ even with the same stats.\
 
 * 타겟의 속성은 **타겟 패널**에서 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 전투 중에는 타겟의 머리 위에 표시되는 **화살표 아이콘**을 통해\
   상성 관계를 직관적으로 확인할 수 있습니다.
@@ -131,7 +131,7 @@ even with the same stats.\
 * **녹색 화살표&#x20;**<mark style="color:green;">**▲**</mark>\
   → 내가 해당 타겟에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **붉은 화살표&#x20;**<mark style="color:red;">**▼**</mark>\
   → 해당 타겟이 나에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
@@ -162,7 +162,7 @@ even with the same stats.\
 
 일부 장비에는 특정 속성에 대한 **속성 보너스 데미지**가 옵션으로 부여될 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 장비에 붙은 속성 보너스 데미지는 **해당 속성의 적에게 n% 추가 데미지**를 입히는 효과입니다.
@@ -179,7 +179,7 @@ even with the same stats.\
 {% tab title="日本語" %}
 ### 🌈 属性ボーナスダメージ（Elemental Bonus Damage）
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 💡 **EXTOCIUM**に登場するすべてのヒーローとモンスターは、\
 それぞれ **1つの属性** を持っています。\
@@ -202,7 +202,7 @@ even with the same stats.\
 
 * ターゲットの属性は、**ターゲットパネル**から確認できます。
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 戦闘中は、\
   ターゲットの頭上に表示される **矢印アイコン** によって、\
@@ -215,7 +215,7 @@ even with the same stats.\
 * **緑の矢印&#x20;**<mark style="color:green;">**▲**</mark>\
   → 対象に **12％の追加ダメージ** を与えられる状態です。
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **赤の矢印&#x20;**<mark style="color:red;">**▼**</mark>\
   → 対象から **12％の追加ダメージ** を受ける状態です。
@@ -249,7 +249,7 @@ even with the same stats.\
 一部の装備には、\
 特定の属性に対する **属性ボーナスダメージ** が オプションとして付与される場合があります。
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 装備に付いた属性ボーナスダメージは、対応する属性の敵に **n％の追加ダメージ** を与える効果です。

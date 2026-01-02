@@ -22,7 +22,7 @@ Please take your time and follow along with the images for each step. 👇
 
 🎯 Click the **helmet icon** on the left side of the game screen to open the Dashboard.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" width="459"><figcaption></figcaption></figure>
 
 ***
 
@@ -30,7 +30,7 @@ Please take your time and follow along with the images for each step. 👇
 
 📍Select the **`Summon`** button at the bottom-left of the Dashboard to enter the Hero Summoning menu.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -38,7 +38,7 @@ Please take your time and follow along with the images for each step. 👇
 
 🧾Review the list of **required materials** on the screen and make sure all items are prepared.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -47,7 +47,7 @@ Please take your time and follow along with the images for each step. 👇
 🔐 With your wallet connected,\
 ✨ click the **`Summon`** button to summon a hero at random.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _※ If your wallet is not connected yet, please complete the_ [_**Wallet Setup**_](../wallet-connection/wallet-setup/) _first._
 
@@ -123,7 +123,7 @@ Your adventure begins now.
 
 🎯 게임 화면 좌측에 있는 **투구 아이콘**을 선택하면 **대시보드**로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" width="459"><figcaption></figcaption></figure>
 
 ***
 
@@ -131,7 +131,7 @@ Your adventure begins now.
 
 📍 **대시보드 좌측 하단의 `소환` 버튼**을 눌러, 영웅 소환 메뉴로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -139,7 +139,7 @@ Your adventure begins now.
 
 🧾 **화면에 표시되는 재료 목록**을 확인하고, 모든 아이템이 준비되어 있는지 점검합니다.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -148,7 +148,7 @@ Your adventure begins now.
 🔐 지갑이 연결된 상태에서,\
 ✨ **`소환` 버튼을 클릭하면 영웅이 랜덤으로 소환됩니다!**
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _※ 지갑이 아직 연결되지 않았다면_ [_Wallet Setup_](../wallet-connection/wallet-setup/)_부터 차례대로 진행해 주세요._
 
@@ -223,7 +223,7 @@ EXTOCIUMの伝説は、この瞬間、あなたの選択から始まります。
 
 🎯 ゲーム画面左側にある **ヘルメットアイコン**を選択すると、ダッシュボードが開きます。
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" width="459"><figcaption></figcaption></figure>
 
 ***
 
@@ -231,7 +231,7 @@ EXTOCIUMの伝説は、この瞬間、あなたの選択から始まります。
 
 📍 ダッシュボード左下にあ&#x308B;**`「召喚」`ボタン**を押して、英雄召喚メニューへ進みます。
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -239,7 +239,7 @@ EXTOCIUMの伝説は、この瞬間、あなたの選択から始まります。
 
 🧾 画面に表示されている **必要素材の一覧**を確認し、すべてのアイテムが揃っているかチェックしてください。
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -248,7 +248,7 @@ EXTOCIUMの伝説は、この瞬間、あなたの選択から始まります。
 🔐 ウォレットが接続された状態で、\
 ✨ **`「召喚」`ボタン**を押すと、英雄が **ランダム** に召喚されます。
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _※ まだウォレットを接続していない場合は、先に_ [_**Wallet Setup**_](../wallet-connection/wallet-setup/) _を完了してください。_
 
