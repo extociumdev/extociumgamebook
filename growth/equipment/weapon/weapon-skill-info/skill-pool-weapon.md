@@ -4,6 +4,11 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🔥 Skill pool - Weapon
 
+<sup>**EN**</sup> You can check the skill probability table by clicking the link below.\
+<sup>**KR**</sup> 아래 링크를 눌러 스킬 확률표를 확인할 수 있습니다.\
+<sup>**JP**</sup> 以下のリンクをクリックすると、スキル確率表を確認できます。\
+👇
+
 {% content-ref url="skill-probability-table.md" %}
 [skill-probability-table.md](skill-probability-table.md)
 {% endcontent-ref %}
