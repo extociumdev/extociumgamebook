@@ -4,60 +4,152 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 💝 Accessories
 
-<figure><img src="../../../.gitbook/assets/Accessories.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/a1.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-### ✨ **Accessories – Maximize Your Hero’s Power!** ✨
+### ✨ Accessories
 
-**Necklaces, bracelets, and earrings** are **essential accessories that enhance your hero’s abilities**.\
-Each accessory **boosts specific stats**, giving you a strategic edge in battle.
+Accessories are equipment composed of **Necklaces, Bracelets, and Earrings**\
+that enhance a Hero’s attributes and improve overall combat performance.
 
-#### ⚠️ **Notice**
+Each accessory provides different stats, and depending on how they are combined,\
+a Hero’s growth direction and play style can change.
 
-🔹 **Accessories do not have CR as a random option.**\
-🔹 **Compared to weapons and orbs, accessories have lower random option rates and values.**
+***
 
-🎯 **Equip the right accessories to forge the ultimate warrior!** ⚔️🔥
-{% endtab %}
+#### ◾ Accessory Types
 
-{% tab title="한국어" %}
-### ✨ **악세서리 – 영웅의 힘을 극대화하라!** ✨
+Select each category to view detailed information and related systems.
 
-**목걸이, 팔찌, 귀걸이**로 구성된 **악세서리는 영웅의 능력을 더욱 강력하게 강화**합니다.\
-각 악세서리는 **특정 능력치를 보강**하며, 전투에서 더욱 유리한 위치를 차지할 수 있도록 도와줍니다.
 
-#### ⚠️ **주의사항**
 
-🔹 **악세서리에는 랜덤 옵션으로 CR이 부여되지 않습니다.**\
-🔹 **무기 및 오브에 비해, 악세서리의 랜덤 옵션 확률과 수치는 낮게 설정되어 있습니다.**
-
-🎯 **적절한 악세서리를 조합하여 최고의 전투력을 갖춘 영웅을 완성하세요!** ⚔️🔥
-{% endtab %}
-
-{% tab title="日本語" %}
-### ✨ **アクセサリー – 英雄の力を最大限に引き出せ！** ✨
-
-**ネックレス、ブレスレット、イヤリング** は、**英雄の能力をさらに強化する重要な装備** です。\
-各アクセサリーは **特定のステータスを向上** させ、戦闘で優位に立つためのサポートをしてくれます。
-
-#### ⚠️ **注意事項**
-
-🔹 **アクセサリーにはランダムオプションとしてCRが付与されません。**\
-🔹 **武器やオーブに比べて、アクセサリーのランダムオプションの確率と数値は低く設定されています。**
-
-🎯 **最適なアクセサリーを組み合わせ、最強の戦士を育て上げましょう！** ⚔️🔥
-{% endtab %}
-{% endtabs %}
+* **Necklace**&#x20;
 
 {% content-ref url="necklace.md" %}
 [necklace.md](necklace.md)
 {% endcontent-ref %}
 
+* **Bracelet**
+
 {% content-ref url="bracelet.md" %}
 [bracelet.md](bracelet.md)
 {% endcontent-ref %}
 
+* **Earring**&#x20;
+
 {% content-ref url="earring.md" %}
 [earring.md](earring.md)
 {% endcontent-ref %}
+
+
+
+***
+
+#### ◾ Please Note
+
+* Accessories **do not** receive the random option **CDR (Reduces skill reload time)**
+* Compared to Weapons and Orbs,\
+  the **probability and values of random options** on Accessories are set lower
+
+***
+
+✨ A well-balanced accessory combination is a key factor in completing your combat build.
+{% endtab %}
+
+{% tab title="한국어" %}
+### ✨ Accessories (악세서리)
+
+악세서리는 **목걸이, 팔찌, 귀걸이**로 구성된 장비로, 영웅의 능력치를 보완하고 전투 성능을 강화합니다.\
+각 악세서리는 서로 다른 능력치를 제공하며, 조합에 따라 캐릭터의 성장 방향이 달라집니다.
+
+***
+
+#### ◾ 악세서리 구성
+
+각 항목을 선택하면 해당 악세서리의 상세 정보와 시스템을 확인할 수 있습니다.
+
+
+
+* **Necklace (목걸이)**
+
+{% content-ref url="necklace.md" %}
+[necklace.md](necklace.md)
+{% endcontent-ref %}
+
+* **Bracelet (팔찌)**
+
+{% content-ref url="bracelet.md" %}
+[bracelet.md](bracelet.md)
+{% endcontent-ref %}
+
+* **Earring (귀걸이)**
+
+{% content-ref url="earring.md" %}
+[earring.md](earring.md)
+{% endcontent-ref %}
+
+
+
+***
+
+#### ◾ 알아두세요
+
+* 악세서리에는 **재장전 시간 감소 (CDR) 랜덤 옵션이 부여되지 않습니다.**
+* 무기 및 오브에 비해, 악세서리의 랜덤 옵션 **확률과 수치는 낮게 설정**되어 있습니다.
+
+***
+
+✨ 적절한 악세서리 조합은 전투력의 완성도를 높이는 중요한 요소입니다.
+{% endtab %}
+
+{% tab title="日本語" %}
+### ✨ アクセサリー（Accessories）
+
+アクセサリーは、**ネックレス・ブレスレット・イヤリング**で構成される装備で、\
+ヒーローの能力値を補完し、戦闘性能を強化します。
+
+各アクセサリーは異なるステータスを持ち、その組み合わせによって、\
+キャラクターの成長方向やプレイスタイルが変化します。
+
+***
+
+#### ◾ アクセサリー構成
+
+各項目を選択すると、該当アクセサリーの詳細情報や関連システムを確認できます。
+
+
+
+* **ネックレス（Necklace）**
+
+{% content-ref url="necklace.md" %}
+[necklace.md](necklace.md)
+{% endcontent-ref %}
+
+* **ブレスレット（Bracelet）**
+
+{% content-ref url="bracelet.md" %}
+[bracelet.md](bracelet.md)
+{% endcontent-ref %}
+
+* **イヤリング（Earring）**
+
+{% content-ref url="earring.md" %}
+[earring.md](earring.md)
+{% endcontent-ref %}
+
+
+
+***
+
+#### ◾ ご注意ください
+
+* アクセサリーには、**CDR（リロード時間短縮）** のランダムオプションは付与されません
+* 武器やオーブと比べて、\
+  アクセサリーの **ランダムオプション発生確率および数値は低め** に設定されています
+
+***
+
+✨ 適切なアクセサリーの組み合わせは、戦闘力の完成度を高める重要な要素です。
+{% endtab %}
+{% endtabs %}

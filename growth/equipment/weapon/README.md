@@ -51,7 +51,7 @@ you can see a **summary panel** of the currently equipped weapon.
 
 4️⃣ Tap the **Equipment Bag** at the bottom of the screen to view your weapon list.
 
-<figure><img src="../../../.gitbook/assets/dash2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dash2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -153,7 +153,7 @@ Tap **Detail** on the weapon information screen to view the weapon’s record in
 
 4️⃣ 화면 하단의 **장비 가방**을 터치하면 보유 중인 무기 목록을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/dash2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dash2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -256,7 +256,7 @@ _※ 표시되는 항목은 무기의 상태(NFT 여부 등)에 따라 달라질
 
 4️⃣ 画面下部の**装備バッグ**をタップすると、所持中の武器一覧を確認できます。
 
-<figure><img src="../../../.gitbook/assets/dash2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dash2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
