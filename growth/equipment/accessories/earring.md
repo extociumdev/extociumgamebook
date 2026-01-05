@@ -218,7 +218,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 
 
-#### 💡 Probabilistic Stat Option Range
+#### 💡 Random Stat Option Range
 
 📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
 

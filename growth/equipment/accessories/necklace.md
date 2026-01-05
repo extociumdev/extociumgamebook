@@ -264,7 +264,7 @@ MPと **CDR（リロード時間短縮）** を軸にした構成で、\
 
 
 
-#### 💡Probabilistic Stat Option Range
+#### 💡Random Stat Option Range
 
 📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
 

@@ -6,221 +6,279 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-### 📿 **Bracelet**
+### 📿 Bracelet&#x20;
 
-Bracelets **come with CB and SCB as base stats.**
+Bracelets are accessories specialized in **enhancing Critical Damage**.\
+They amplify burst potential for both **physical and magical attacks**,\
+making them ideal for combat styles that focus on explosive damage.
 
-💡 [**Fixed Stat Option Range** ](bracelet.md#bracelet-fixed-stat-option-range)\
-**💡** [**Probabilistic Stat Option Range**](bracelet.md#probabilistic-stat-option-range)
+***
+
+#### ◾ Bracelet Stat Guide
+
+* Bracelets are granted the following **base stats**:
+  * **Phys. Crit DMG** (Increases Physical Critical Damage)
+  * **Mag. Crit DMG** (Increases Magical Critical Damage)
+* Compared to Weapons and Orbs,\
+  the **probability and values of random options** on Bracelets are set lower.
+
+💡 [**Fixed Stat Option Range**](bracelet.md#bracelet-fixed-stat-option-range)\
+💡 [**Random Stat Option Range**](bracelet.md#random-stat-option-range)
 
 {% hint style="info" %}
-⚠️ The minimum and maximum values of options may be adjusted based on a percentage due to balance updates.
+⚠️ Minimum and maximum option values may be adjusted\
+to percentage-based values depending on balance changes.
 {% endhint %}
 
-Equip the right bracelet to unleash even greater combat power!
+***
+
+#### ◾ How to Access the Bracelet List
+
+1️⃣ Tap the **Dashboard button** at the top-left of the main screen.
+
+<figure><img src="../../../.gitbook/assets/a3 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ Tap the **Equipment Bag** at the bottom of the Dashboard.
+
+<figure><img src="../../../.gitbook/assets/dash2 (2).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ In the **Accessories tab**, select the **Bracelet icon** to view your list of owned Bracelets.
+
+<figure><img src="../../../.gitbook/assets/ab2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🔹 Accessing the Bracelet Inventory
+#### ◾ Using the Bracelet List
 
-<figure><img src="../../../.gitbook/assets/1-1.jpg" alt="" width="173"><figcaption><p>MainHUD</p></figcaption></figure>
+From the Bracelet list, you can perform the following actions:
 
-📌 **Tap the "Dashboard" button on the top-left of the main HUD.**\
-📌 **The dashboard displays a summary of your currently equipped weapon.**
+* Equip and unequip Bracelets
+* Sort Bracelets
+* View detailed Bracelet information
 
-<figure><img src="../../../.gitbook/assets/2 (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ab1 (2).png" alt=""><figcaption></figcaption></figure>
 
-📌 **Tap the "Equipment Bag" button at the bottom** to view your list of weapons, orbs, and accessories!
-
-***
-
-#### 🔹 **Using the Bracelet Inventory**
-
-<figure><img src="../../../.gitbook/assets/팔찌2.png" alt=""><figcaption></figcaption></figure>
-
-📌 **Tap a bracelet from the list to view its details.**\
-📌 **Here, you can equip or unequip bracelets, and use the sort button on the top-left to organize your equipment.**
+Use the **Sort button at the top-right** to organize the list based on your preferred criteria.
 
 ***
 
-#### ⚠️ **Bracelet Stats & Important Notes**
+#### ◾ Bracelet Lock Feature
 
-🔹 **CB and SCB are granted as base stats.**\
-🔹 **Compared to weapons and orbs, bracelets have lower random option rates and values.**\
-🔹 **CR is not granted as a random option.**
+Important Bracelets can be protected using the **Lock feature**.
 
-Choosing the right gear is key to maximizing your hero’s strength.\
-Use the base stats of bracelets wisely and create the ultimate battle strategy!
+* Tap the **lock-shaped icon** in the list to set the selected Bracelet to a locked state.
 
-***
+<figure><img src="../../../.gitbook/assets/ab3.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 **Utilizing the Lock Feature**
+Locked Bracelets have the following properties:
 
-<figure><img src="../../../.gitbook/assets/팔찌1.png" alt="" width="311"><figcaption></figcaption></figure>
-
-To prevent accidental use or dismantling, **take advantage of the equipment lock feature!**\
-📌 **Tap the "Lock" button in the inventory to secure your bracelet.**\
-📌 **Locked gear benefits:**\
-✅ **Moves to the top of the bracelet list** _for easy access_.\
-✅ **Cannot be used as crafting material** – _no risk of accidental dismantling!_\
-✅ **Cannot be used as enhancement material** – _prevents unintentional consumption!_
+* Always displayed at the **top of the Bracelet list**
+* Cannot be used as **crafting materials**
+* Cannot be used as **enhancement materials**
 
 ***
 
-#### 🔹 **Viewing Bracelet Details**
+#### ◾ Bracelet Details
 
-<figure><img src="../../../.gitbook/assets/팔찌3.png" alt=""><figcaption></figcaption></figure>
+Tap a Bracelet in the list to open its **detail page**.
 
-📌 **Tap any bracelet in the inventory to access the details page.**\
-📌 Here, you can **check its stats,** [**sell**](../../../economy/trade/market/trading-items/)**, and manage other features.**
+<figure><img src="../../../.gitbook/assets/ab4.png" alt=""><figcaption></figcaption></figure>
 
-💡 **Strategically utilize your bracelet’s base stats and random options to maximize your hero’s power!**
+From the detail page, you can:
+
+* Check Bracelet stats
+* [Sell](../../../economy/trade/market/) the Bracelet
+* (For NFT Bracelets) View related information
+
+***
+
+Bracelets are accessories that **complete the power of a single critical hit**.\
+Build around **Phys. Crit DMG** and **Mag. Crit DMG**\
+to perfect a combat style that matches your offensive focus.
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 📿 **팔찌**
+### 📿 Bracelet (팔찌)
 
-팔찌에는 **CB와 SCB가 기본적으로 부여됩니다.**
+팔찌는 **치명타 피해를 강화**하는 데 특화된 악세서리입니다.\
+물리·마법 공격 모두의 폭발력을 끌어올려,\
+순간 화력을 중시하는 전투 스타일에 적합합니다.
+
+***
+
+#### ◾ 팔찌 스탯 안내
+
+* 팔찌에는 다음 기본 스탯이 부여됩니다.
+  * **Phys. Crit DMG** (물리 치명타 피해 증가)
+  * **Mag. Crit DMG** (마법 치명타 피해 증가)
+* 무기 및 오브에 비해, 팔찌의 **랜덤 옵션 확률과 수치는 낮게 설정**되어 있습니다.
 
 💡 [**고정 스탯 옵션 범위**](bracelet.md#bracelet-fixed-stat-option-range) \
 💡 [**확률 스탯 옵션 범위**](bracelet.md#probabilistic-stat-option-range)
 
 {% hint style="info" %}
-⚠️ 옵션의 최소\~최대값은 밸런스 수정에 따라 일부 값이 '비율 기준'으로 조정될 수 있습니다.
+⚠️ 옵션의 최소\~최대값은 밸런스 조정에 따라 일부 수치가 **비율 기준**으로 변경될 수 있습니다.
 {% endhint %}
 
-적절한 팔찌를 장착하여 더욱 강력한 전투력을 발휘하세요!
+***
+
+#### ◾ 팔찌 목록 접근 방법
+
+1️⃣ 메인 화면 좌측 상단의 **대시보드** 버튼을 터치합니다.
+
+<figure><img src="../../../.gitbook/assets/a3 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ 대시보드 하단의 **장비 가방**을 터치합니다.
+
+<figure><img src="../../../.gitbook/assets/dash2 (2).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ 악세서리 탭에서 **팔찌 아이콘**을 선택하면 보유 중인 팔찌 목록을 확인할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/ab2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🔹 **팔찌 목록 접근하기**
+#### ◾ 팔찌 목록 활용
 
-<figure><img src="../../../.gitbook/assets/1-1.jpg" alt="" width="173"><figcaption><p>MainHUD</p></figcaption></figure>
+팔찌 목록에서는 다음 작업을 할 수 있습니다.
 
-📌 **메인 HUD 좌측 상단의 "대시보드" 버튼을 터치하세요.**\
-📌 **대시보드 중앙에서 현재 장착 중인 무기의 요약 정보를 확인할 수 있습니다.**
+* 팔찌 장착 및 해제
+* 팔찌 정렬
+* 팔찌 상세 정보 확인
 
-<figure><img src="../../../.gitbook/assets/2 (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ab1 (1).png" alt=""><figcaption></figcaption></figure>
 
-📌 **하단의 "장비 가방" 버튼을 터치하면 보유 중인 무기, 오브, 악세서리 리스트를 확인할 수 있습니다!**
-
-***
-
-#### 🔹 **팔찌 목록 활용하기**
-
-<figure><img src="../../../.gitbook/assets/팔찌2.png" alt=""><figcaption></figcaption></figure>
-
-📌 **팔찌 목록에서 원하는 장비를 터치하면 상세 정보 페이지로 이동합니다.**\
-📌 **이 목록에서 팔찌를 장착하거나 해제할 수 있으며, 좌측 상단의 정렬 버튼을 이용해 원하는 순서로 정렬할 수도 있습니다.**
+우측 상단의 정렬 버튼을 통해 원하는 기준으로 목록을 정렬할 수 있습니다.
 
 ***
 
-#### ⚠️ **팔찌 옵션 & 주의사항**
+#### ◾ 팔찌 잠금 기능
 
-🔹 **CB와 SCB가 기본 스탯으로 부여됩니다.**\
-🔹 **무기 및 오브에 비해, 팔찌의 랜덤 옵션 확률과 수치는 낮게 설정되어 있습니다.**\
-🔹 **랜덤 옵션으로 CR이 부여되지 않습니다.**
+중요한 팔찌는 **잠금 기능**을 활용해 보호할 수 있습니다.
 
-전략적인 장비 선택이 영웅의 전투력을 결정합니다.\
-팔찌의 기본 스탯을 활용하고, 최적의 옵션을 조합해 **나만의 전투 스타일을 완성하세요!**
+* 목록에서 **자물쇠 모양 버튼**을 터치하면\
+  해당 팔찌가 잠금 상태로 설정됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/ab3.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 **슬롯 잠금 기능 활용하기**
+잠금된 팔찌는 다음과 같은 특징이 있습니다.
 
-<figure><img src="../../../.gitbook/assets/팔찌1.png" alt="" width="311"><figcaption></figcaption></figure>
-
-팔찌를 실수로 사용하거나 분해하는 것을 방지하려면 **장비 잠금 기능을 활용**하세요!\
-📌 **목록에서 "잠금" 버튼을 터치하면 해당 장비가 잠금 상태가 됩니다.**\
-📌 **잠금된 장비의 장점:**\
-✅ **팔찌 목록의 최상단에 배치**되어 _쉽게 확인 가능!_\
-✅ **제작 재료로 사용되지 않음** – _실수로 분해할 걱정 없음!_\
-✅ **강화 재료로 사용되지 않음** – _실수로 소모될 위험 없음!_
+* 팔찌 목록에서 **항상 상단에 표시**됩니다.
+* **제작 재료로 사용되지 않습니다.**
+* **강화 재료로 사용되지 않습니다.**
 
 ***
 
-#### 🔹 **팔찌 상세 정보 확인하기**
+#### ◾ 팔찌 상세정보
 
-<figure><img src="../../../.gitbook/assets/팔찌3.png" alt=""><figcaption></figcaption></figure>
+팔찌 목록에서 원하는 장비를 터치하면 **상세 정보 페이지**로 이동합니다.
 
-📌 **팔찌 목록에서 원하는 장비를 터치하면 상세 정보 페이지로 이동**합니다.\
-📌 이 페이지에서는 **팔찌의 스탯 확인,** [**판매**](../../../economy/trade/market/trading-items/) **등 모든 작업을 수행**할 수 있습니다.
+<figure><img src="../../../.gitbook/assets/ab4.png" alt=""><figcaption></figcaption></figure>
 
-💡 **팔찌의 기본 스탯과 랜덤 옵션을 전략적으로 활용하여, 영웅을 더욱 강력하게 성장시키세요!**&#x20;
+상세 정보 페이지에서는 다음 작업을 할 수 있습니다.
+
+* 팔찌 스탯 확인
+* 팔찌 [판매](../../../economy/trade/market/)
+* (NFT 팔찌의 경우) 관련 정보 확인
+
+***
+
+팔찌는 **치명타 한 방의 위력을 완성하는 악세서리**입니다.\
+Phys. Crit DMG(물리 치명타 데미지)와 Mag. Crit DMG(마법 치명타 데미지)를 중심으로, \
+자신의 공격 성향에 맞는 전투 스타일을 완성해 보세요.
 {% endtab %}
 
 {% tab title="日本語" %}
-### 📿 **ブレスレット**
+### 📿 ブレスレット（Bracelet）
 
-ブレスレットには **CBとSCBが基本ステータスとして付与されます。**
+ブレスレットは、**クリティカルダメージの強化**に特化したアクセサリーです。\
+物理・魔法の両方の攻撃における瞬間火力を高め、\
+一撃の威力を重視する戦闘スタイルに適しています。
 
-**💡** [**固定ステータスオプションの範囲** ](bracelet.md#bracelet-fixed-stat-option-range)\
-**💡** [**確率ステータスオプションの範囲**](bracelet.md#probabilistic-stat-option-range)
+***
+
+#### ◾ ブレスレットのステータス案内
+
+* ブレスレットには、以下の **基本ステータス** が付与されます。
+  * **Phys. Crit DMG**（物理クリティカルダメージ増加）
+  * **Mag. Crit DMG**（魔法クリティカルダメージ増加）
+* 武器やオーブと比べて、\
+  ブレスレットの **ランダムオプション発生確率および数値は低め** に設定されています。
+
+💡 [**固定ステータスオプション範囲**](bracelet.md#bracelet-fixed-stat-option-range)\
+💡 [**ランダムステータスオプション範囲**](bracelet.md#random-stat-option-range)&#x20;
 
 {% hint style="info" %}
-⚠️ オプションの最小～最大値は、バランス調整により一部の値が「割合基準」で調整される場合があります。
+⚠️ オプションの最小値～最大値は、\
+バランス調整により一部が割合基準に変更される場合があります。
 {% endhint %}
 
+***
 
+#### ◾ ブレスレット一覧へのアクセス方法
 
-最適なブレスレットを装備し、さらに強力な戦闘力を発揮しましょう！
+1️⃣ メイン画面左上の **ダッシュボードボタン** をタップします。
+
+<figure><img src="../../../.gitbook/assets/a3 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ ダッシュボード下部の **装備バッグ** をタップします。
+
+<figure><img src="../../../.gitbook/assets/dash2 (2).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ **アクセサリータブ** で **ブレスレットアイコン** を選択すると、\
+所持中のブレスレット一覧を確認できます。
+
+<figure><img src="../../../.gitbook/assets/ab2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🔹 **ブレスレットインベントリへのアクセス**
+#### ◾ ブレスレット一覧の活用
 
-<figure><img src="../../../.gitbook/assets/1-1.jpg" alt="" width="173"><figcaption><p>MainHUD</p></figcaption></figure>
+ブレスレット一覧では、以下の操作が可能です。
 
-📌 **メインHUD左上の「ダッシュボード」ボタンをタップ** してください。\
-📌 **ダッシュボードでは現在装備している武器の概要パネルを確認** できます。
+* ブレスレットの装備・解除
+* ブレスレットの並び替え
+* ブレスレット詳細情報の確認
 
-<figure><img src="../../../.gitbook/assets/2 (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ab1.png" alt=""><figcaption></figcaption></figure>
 
-📌 **画面下部の「装備バッグ」ボタンをタップ** すると、武器・オーブ・アクセサリーのリストを表示できます！
-
-***
-
-#### 🔹 **ブレスレットインベントリの活用**
-
-<figure><img src="../../../.gitbook/assets/팔찌2.png" alt=""><figcaption></figcaption></figure>
-
-📌 **リスト内のブレスレットをタップすると、詳細ページが表示されます。**\
-📌 **ブレスレットの装備・解除** が可能で、左上の **「ソートボタン」** を使用して整理することもできます。
+**画面右上** の並び替えボタンを使用すると、お好みの条件で一覧を並び替えることができます。
 
 ***
 
-#### ⚠️ **ブレスレットのステータス & 注意事項**
+#### ◾ ブレスレットのロック機能
 
-🔹 **CBとSCBが基本ステータスとして付与されます。**\
-🔹 **武器やオーブに比べて、ブレスレットのランダムオプションの確率と数値は低く設定されています。**\
-🔹 **CRはランダムオプションとして付与されません。**
+重要なブレスレットは、**ロック機能** を活用して保護できます。
 
-最適な装備を選ぶことで、英雄の戦闘力を最大限に引き出せます。\
-ブレスレットの基本ステータスを活かし、最強の戦闘戦略を構築しましょう！
+* 一覧で **鍵アイコン** をタップすると、該当ブレスレットはロック状態に設定されます。
 
-***
+<figure><img src="../../../.gitbook/assets/ab3.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 **ロック機能の活用**
+ロックされたブレスレットの特徴：
 
-<figure><img src="../../../.gitbook/assets/팔찌1.png" alt="" width="311"><figcaption></figcaption></figure>
-
-誤使用や分解を防ぐために、**装備ロック機能を活用** しましょう！\
-📌 **インベントリ内の「ロック」ボタンをタップ** すると、ブレスレットがロックされます。\
-📌 **ロックされた装備のメリット:**\
-✅ **ブレスレットリストの最上部に配置** され、_簡単にアクセス可能_。\
-✅ **クラフト素材として使用不可** – _誤って分解する心配なし！_\
-✅ **強化素材として使用不可** – _意図せず消費するリスクなし！_
+* ブレスレット一覧の **最上部に固定表示** されます
+* **制作素材として使用されません**
+* **強化素材として使用されません**
 
 ***
 
-#### 🔹 **ブレスレットの詳細確認**
+#### ◾ ブレスレット詳細情報
 
-<figure><img src="../../../.gitbook/assets/팔찌3.png" alt=""><figcaption></figcaption></figure>
+ブレスレット一覧で装備をタップすると、**詳細情報ページ** に移動します。
 
-📌 **インベントリ内のブレスレットをタップすると、詳細ページに移動** できます。\
-📌 ここでは **ステータスの確認、**[**販売**](../../../economy/trade/market/trading-items/)**、その他の管理が可能** です。
+<figure><img src="../../../.gitbook/assets/ab4.png" alt=""><figcaption></figcaption></figure>
 
-💡 **ブレスレットの基本ステータスとランダムオプションを活用し、英雄をさらに強化しましょう！**
+詳細情報ページでは、以下の操作が可能です。
+
+* ブレスレットのステータス確認
+* ブレスレットの販売
+* （NFTブレスレットの場合）関連情報の確認
+
+***
+
+ブレスレットは、**クリティカル一撃の威力を完成させるアクセサリー**です。\
+**Phys. Crit DMG(物理クリDMG)** と **Mag. Crit DMG(魔法クリDMG)** を軸に、\
+ご自身の攻撃傾向に合った戦闘スタイルを完成させてみてください。
 {% endtab %}
 {% endtabs %}
 
@@ -232,7 +290,7 @@ To prevent accidental use or dismantling, **take advantage of the equipment lock
 
 
 
-#### 💡Probabilistic Stat Option Range
+#### 💡Random Stat Option Range
 
 📢 The table is long, so use the scrollbar below to scroll left and right to view the full table!
 
