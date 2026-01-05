@@ -174,7 +174,7 @@ to fine-tune an attack probability that fits your combat style.
 상세 정보 페이지에서는 다음 작업을 할 수 있습니다.
 
 * 귀걸이 스탯 확인
-* 귀걸이 판매
+* 귀걸이 [판매](../../../economy/trade/market/)
 * (NFT 귀걸이의 경우) 관련 정보 확인
 
 ***

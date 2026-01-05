@@ -153,3 +153,5 @@ Select each category to view detailed information and related systems.
 ✨ 適切なアクセサリーの組み合わせは、戦闘力の完成度を高める重要な要素です。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 5, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
