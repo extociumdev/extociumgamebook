@@ -82,16 +82,12 @@ Stat increase calculation is as follows:
 
 #### 4️⃣ Bonus Effects by Enchantment Stage
 
-Every weapon gains additional [**Primary Stats**](../heroes/stats/special-stats/) each time it reaches an Enchantment stage that is a multiple of **+5**.
+**For detailed information on Enchantment bonus effects by stage,**\
+**please refer to the link below.**
 
-* **Example**\
-  If a weapon reaches **+10 Enchantment**,\
-  it receives **two chances** to obtain Primary Stats.
-* The granted stat is randomly selected from **six types of Primary Stats**.
-* The minimum and maximum values of obtainable stats\
-  are determined based on the table shown below.
-
-<table><thead><tr><th width="116">Grade</th><th width="248">Equipment</th><th>Effect</th></tr></thead><tbody><tr><td>1</td><td>Wooden sword, Bronze sword, Steel sword, Flamberg</td><td>🔺Primary Stat 1 ~ 1</td></tr><tr><td>2</td><td>Paladin's Sword, Orc eye, Damascus</td><td>🔺Primary Stat 1 ~ 2</td></tr><tr><td>3</td><td>Savage Sword</td><td>🔺Primary Stat 1 ~ 3</td></tr><tr><td>4</td><td>Awakening Darkness</td><td>🔺Primary Stat 2 ~ 4</td></tr><tr><td>5</td><td>Sword of light</td><td>🔺Primary Stat 2 ~ 5</td></tr></tbody></table>
+{% content-ref url="enchant-stage-additional-effects.md" %}
+[enchant-stage-additional-effects.md](enchant-stage-additional-effects.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -168,14 +164,11 @@ Every weapon gains additional [**Primary Stats**](../heroes/stats/special-stats/
 
 #### 4️⃣ 인챈트 단계별 부가 효과
 
-모든 무기는 인챈트 **+5 단계 단위**를 달성할 때마다 추가로[ **1차 스탯**](../heroes/stats/special-stats/)이 부여됩니다.
+**인챈트 단계별 부가 효과에 대한 자세한 내용은 아래 링크에서 확인하실 수 있습니다.**
 
-* 예시:\
-  무기 인챈트가 **+10**일 경우 총 **2회**의 1차 스탯 획득 기회가 주어집니다.
-* 부여되는 스탯은 **1차 스탯 6종 중 1종이 랜덤**으로 적용됩니다.
-* 획득 가능한 스탯의 **최소\~최대값 범위**는 아래 도표 기준에 따라 결정됩니다.
-
-<table><thead><tr><th width="116">그레이드</th><th width="248">장비</th><th>효과</th></tr></thead><tbody><tr><td>1</td><td>목검, 청동검, 강철검, 플람베르그</td><td>🔺1차 스탯 값 1 ~ 1</td></tr><tr><td>2</td><td>팔라딘의 검, 오크의 눈, 다마스커스</td><td>🔺1차 스탯 값 1 ~ 2</td></tr><tr><td>3</td><td>야만의검</td><td>🔺1차 스탯 값 1 ~ 3</td></tr><tr><td>4</td><td>깨어나는 어둠</td><td>🔺1차 스탯 값 2 ~ 4</td></tr><tr><td>5</td><td>빛의 검</td><td>🔺1차 스탯 값 2 ~ 5</td></tr></tbody></table>
+{% content-ref url="enchant-stage-additional-effects.md" %}
+[enchant-stage-additional-effects.md](enchant-stage-additional-effects.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -214,13 +207,15 @@ Every weapon gains additional [**Primary Stats**](../heroes/stats/special-stats/
   エンチャント成功確率を補助するアイテムを装着できます。\
   成功・失敗に関係なく、\
   装着した状態でエンチャントを行うと\
-  **1回につき1個消費**されます。
+  **エンチャント1回につき1個消費**されます。
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * **右上の紫色スロット**\
   武器破壊を防止するアイテムを装着できます。\
-  こちらも成功・失敗に関係なく、エンチャント1回につき **1個消費**されます。
+  こちらも成功・失敗に関係なく、\
+  装着した状態でエンチャントを行うと\
+  **エンチャント1回につき1個消費**されます。
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -243,31 +238,26 @@ Every weapon gains additional [**Primary Stats**](../heroes/stats/special-stats/
 ステータス増加の計算方法は以下の通りです。
 
 * **計算式**\
-  現在値 +（初期値 × エンチャント段階別上昇率（％））
-* Phys. DMG / Mag. DMG は\
-  **小数点第2位まで適用**され、それ以下の数値は切り捨てられます。
-* 武器のグレードに応じて、\
-  以前のグレードの **＋13エンチャント値**は、\
-  次のグレードの **＋4エンチャント値**と\
-  ほぼ同等になるよう調整されます。
+  現在値 +（初期値 × エンチャント段階別上昇率（n％））
+* Phys. DMG / Mag. DMG は **小数点第2位まで適用**され、\
+  それ以下の数値は切り捨てられます。
+* 武器のグレードに応じて、以前のグレードの **＋13エンチャント値**は、\
+  次のグレードの **＋4エンチャント値**と ほぼ同等になるよう調整されます。
 
-<table><thead><tr><th width="75.79156494140625">段階</th><th width="117.54156494140625">成功確率（％）</th><th width="272.29150390625">効果</th><th width="169">必要材料</th><th>必要ゴールド</th></tr></thead><tbody><tr><td>1</td><td>100</td><td>🔺Phys. DMG/Mag. DMG <mark style="color:blue;"><strong>*2%</strong></mark></td><td>フリント  x3</td><td>10</td></tr><tr><td>2</td><td>95</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*3%</strong></mark></td><td>フリント x10</td><td>30</td></tr><tr><td>3</td><td>92</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*5%</strong></mark></td><td>エクストシウム彫刻 x5</td><td>150</td></tr><tr><td>4</td><td>85</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*8%</strong></mark></td><td>エクストシウム彫刻 x10</td><td>500</td></tr><tr><td>5</td><td>75</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*10%</strong></mark></td><td>エクストシウム彫刻 x20</td><td>1,500</td></tr><tr><td>6</td><td>60</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*10%</strong></mark></td><td>エクストシウム x1</td><td>2,500</td></tr><tr><td>7</td><td>50</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*10%</strong></mark></td><td>エクストシウム x5</td><td>5,000</td></tr><tr><td>8</td><td>40</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*12%</strong></mark></td><td>エクストシウム x10</td><td>10,000</td></tr><tr><td>9</td><td>30</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*12%</strong></mark></td><td>エクストシウム x15</td><td>20,000</td></tr><tr><td>10</td><td>20</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*12%</strong></mark></td><td>エクストシウム x20</td><td>30,000</td></tr><tr><td>11</td><td>10</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*15%</strong></mark></td><td>エクストシウム x25</td><td>40,000</td></tr><tr><td>12</td><td>9</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*15%</strong></mark></td><td>エクストシウム x30</td><td>55,000</td></tr><tr><td>13</td><td>8</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*15%</strong></mark></td><td>エクストシウム x35</td><td>80,000</td></tr></tbody></table>
+<table><thead><tr><th width="75.79156494140625">段階</th><th width="117.54156494140625">成功確率（％）</th><th width="272.29150390625">効果</th><th width="169">必要材料</th><th>必要ゴールド</th></tr></thead><tbody><tr><td>1</td><td>100</td><td>🔺Phys. DMG/Mag. DMG <mark style="color:blue;"><strong>*2%</strong></mark></td><td>フリント x3</td><td>10</td></tr><tr><td>2</td><td>95</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*3%</strong></mark></td><td>フリント x10</td><td>30</td></tr><tr><td>3</td><td>92</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*5%</strong></mark></td><td>エクストシウム彫刻 x5</td><td>150</td></tr><tr><td>4</td><td>85</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*8%</strong></mark></td><td>エクストシウム彫刻 x10</td><td>500</td></tr><tr><td>5</td><td>75</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*10%</strong></mark></td><td>エクストシウム彫刻 x20</td><td>1,500</td></tr><tr><td>6</td><td>60</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*10%</strong></mark></td><td>エクストシウム x1</td><td>2,500</td></tr><tr><td>7</td><td>50</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*10%</strong></mark></td><td>エクストシウム x5</td><td>5,000</td></tr><tr><td>8</td><td>40</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*12%</strong></mark></td><td>エクストシウム x10</td><td>10,000</td></tr><tr><td>9</td><td>30</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*12%</strong></mark></td><td>エクストシウム x15</td><td>20,000</td></tr><tr><td>10</td><td>20</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*12%</strong></mark></td><td>エクストシウム x20</td><td>30,000</td></tr><tr><td>11</td><td>10</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*15%</strong></mark></td><td>エクストシウム x25</td><td>40,000</td></tr><tr><td>12</td><td>9</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*15%</strong></mark></td><td>エクストシウム x30</td><td>55,000</td></tr><tr><td>13</td><td>8</td><td>🔺Phys. DMG/Mag. DMG  <mark style="color:blue;"><strong>*15%</strong></mark></td><td>エクストシウム x35</td><td>80,000</td></tr></tbody></table>
 
 ***
 
 #### 4️⃣ エンチャント段階別付加効果
 
-すべての武器は、エンチャント **＋5段階ごと**に 追加で **一次ステータス**が付与されます。
+エンチャント段階別の付加効果については、**下記のリンクをご確認ください。**
 
-* **例**\
-  武器エンチャントが **＋10**の場合、\
-  合計 **2回**の一次ステータス獲得チャンスが与えられます。
-* 付与されるステータスは、\
-  **一次ステータス6種類の中からランダム**で1つ選ばれます。
-* 獲得可能なステータスの 最小～最大値は、下記の表を基準として決定されます。
-
-<table><thead><tr><th width="116">グレード</th><th width="248">装備</th><th>効果</th></tr></thead><tbody><tr><td>1</td><td>木剣, 青銅の剣, 鋼鉄の剣, フランベルグ</td><td>🔺一次ステータス 1 ~ 1</td></tr><tr><td>2</td><td>パラディンの剣, オークの目, ダマスカス</td><td>🔺一次ステータス 1 ~ 2</td></tr><tr><td>3</td><td>野蛮の剣</td><td>🔺一次ステータス 1 ~ 3</td></tr><tr><td>4</td><td>目覚める闇</td><td>🔺一次ステータス 2 ~ 4</td></tr><tr><td>5</td><td>光の剣</td><td>🔺一次ステータス 2 ~ 5</td></tr></tbody></table>
+{% content-ref url="enchant-stage-additional-effects.md" %}
+[enchant-stage-additional-effects.md](enchant-stage-additional-effects.md)
+{% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+
+
 
 <p align="right"><sup><em>※ This guide was written based on the game status as of January 5, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
