@@ -6,207 +6,273 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🍒 Earrings
+### 🍒 Earring
 
-Earrings **come with CP and SCP as base stats.**
+Earrings are accessories that specialize in **enhancing Critical Hit Chance**.\
+By increasing the probability that attacks land as critical hits,\
+they play a key role in improving **consistent combat efficiency**.
 
-💡 [**Fixed Stat Option Range** ](earring.md#earring-fixed-stat-option-range)\
-**💡** [**Probabilistic Stat Option Range**](earring.md#probabilistic-stat-option-range)
+***
+
+#### ◾ Earring Stat Guide
+
+* Earrings are granted the following **base stats**:
+  * **Phys. Crit %** (Physical Critical Hit Chance)
+  * **Mag. Crit %** (Magical Critical Hit Chance)
+* Compared to Weapons and Orbs,\
+  the **probability and values of random options** on Earrings are set lower.
+
+💡 [**Fixed Stat Option Range**](earring.md#earring-fixed-stat-option-range)\
+💡 [**Random Stat Option Range**](earring.md#random-stat-option-range)
 
 {% hint style="info" %}
-⚠️ The minimum and maximum values of options may be adjusted based on a percentage due to balance updates.
+⚠️ Minimum and maximum option values may be adjusted\
+to percentage-based values depending on balance changes.
 {% endhint %}
 
-Equip the right earrings to unleash even greater combat power!
+***
+
+#### ◾ How to Access the Earring List
+
+1️⃣ Tap the **Dashboard button** at the top-left of the main screen.
+
+<figure><img src="../../../.gitbook/assets/a3 (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ Tap the **Equipment Bag** at the bottom of the Dashboard.
+
+<figure><img src="../../../.gitbook/assets/dash2 (3).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ In the **Accessories tab**, select the **Earring icon** to view your list of owned Earrings.
+
+<figure><img src="../../../.gitbook/assets/ae2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🔹 Accessing the Earring Inventory
+#### ◾ Using the Earring List
 
-<figure><img src="../../../.gitbook/assets/1-1.jpg" alt="" width="173"><figcaption><p>MainHUD</p></figcaption></figure>
+From the Earring list, you can perform the following actions:
 
-📌 **Tap the "Dashboard" button on the top-left of the main HUD.**\
-📌 **The dashboard displays a summary of your currently equipped weapon.**\
-📌 **Tap the "Equipment Bag" button at the bottom** to view your list of weapons, orbs, and accessories!
+* Equip and unequip Earrings
+* Sort Earrings
+* View detailed Earring information
 
-***
+<figure><img src="../../../.gitbook/assets/ae1.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 Using the Earring List
-
-<figure><img src="../../../.gitbook/assets/귀걸이2.png" alt=""><figcaption></figcaption></figure>
-
-📌 **Tap an earring from the list to view its details.**\
-📌 **Here, you can equip or unequip earrings, and use the sort button on the top-left to organize your equipment.**
+Use the **Sort button at the top-right** to organize the list based on your preferred criteria.
 
 ***
 
-#### ⚠️ **Earring Stats & Important Notes**
+#### ◾ Earring Lock Feature
 
-🔹 **CP and SCP are granted as base stats.**\
-🔹 **Compared to weapons and orbs, earrings have lower random option rates and values.**\
-🔹 **CR is not granted as a random option.**
+Important Earrings can be protected using the **Lock feature**.
 
-Choosing the right gear is key to maximizing your hero’s strength.\
-Use the base stats of earrings wisely and create the ultimate battle strategy!
+* Tap the **lock-shaped icon** in the list to set the selected Earring to a locked state.
 
-***
+<figure><img src="../../../.gitbook/assets/ae3.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 Utilizing the Lock Feature
+Locked Earrings have the following properties:
 
-<figure><img src="../../../.gitbook/assets/귀걸이1.png" alt=""><figcaption></figcaption></figure>
-
-To prevent accidental use or dismantling, **take advantage of the equipment lock feature!**\
-📌 **Tap the "Lock" button in the inventory to secure your earrings.**\
-📌 **Locked gear benefits:**\
-✅ **Moves to the top of the earring list** for easy access.\
-✅ **Cannot be used as crafting material** – no risk of accidental dismantling!
+* Always displayed at the **top of the Earring list**
+* Cannot be used as **crafting materials**
 
 ***
 
-#### 🔹 Viewing Earring Details
+#### ◾ Earring Details
 
-<figure><img src="../../../.gitbook/assets/귀걸이.png" alt=""><figcaption></figcaption></figure>
+Tap an Earring in the list to open its **detail page**.
 
-📌 **Tap any earring in the inventory to access the details page.**\
-📌 Here, you can **check its stats,** [**sell**](../../../economy/trade/market/trading-items/)**, and manage other features.**
+<figure><img src="../../../.gitbook/assets/ae4.png" alt=""><figcaption></figcaption></figure>
 
-💡 **Strategically utilize your earrings' base stats and random options to maximize your hero’s power!**
+From the detail page, you can:
+
+* Check Earring stats
+* [Sell](../../../economy/trade/market/) the Earring
+* (For NFT Earrings) View related information
+
+***
+
+Earrings are **key accessories for completing critical hit frequency**.\
+Build around **Phys. Crit %** and **Mag. Crit %**\
+to fine-tune an attack probability that fits your combat style.
 {% endtab %}
 
 {% tab title="한국어" %}
-### 🍒 **귀걸이**
+### 🍒 Earring (귀걸이)
 
-귀걸이에는 **CP와 SCP가 기본적으로 부여됩니다.**
+귀걸이는 **치명타 확률을 강화**하는 악세서리입니다.\
+공격이 치명타로 이어질 확률을 높여, 지속적인 전투 효율을 끌어올리는 데 중요한 역할을 합니다.
+
+***
+
+#### ◾ 귀걸이 스탯 안내
+
+* 귀걸이에는 다음 기본 스탯이 부여됩니다.
+  * **Phys. Crit %** (물리 치명타 확률)
+  * **Mag. Crit %** (마법 치명타 확률)
+* 무기 및 오브에 비해, 귀걸이의 **랜덤 옵션 확률과 수치는 낮게 설정**되어 있습니다.
 
 **💡** [**고정 스탯 옵션 범위** ](earring.md#earring-fixed-stat-option-range)\
 **💡** [**확률 스탯 옵션 범위**](earring.md#probabilistic-stat-option-range)
 
 {% hint style="info" %}
-⚠️ 옵션의 최소\~최대값은 밸런스 수정에 따라 일부 값이 '비율 기준'으로 조정될 수 있습니다.
+⚠️ 옵션의 최소\~최대값은 밸런스 조정에 따라 일부 수치가 **비율 기준**으로 변경될 수 있습니다.
 {% endhint %}
 
-적절한 귀걸이를 장착하여 더욱 강력한 전투력을 발휘하세요!
+***
+
+#### ◾ 귀걸이 목록 접근 방법
+
+1️⃣ 메인 화면 좌측 상단의 **대시보드** 버튼을 터치합니다.
+
+<figure><img src="../../../.gitbook/assets/a3 (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ 대시보드 하단의 **장비 가방**을 터치합니다.
+
+<figure><img src="../../../.gitbook/assets/dash2 (3).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ 악세서리 탭에서 **귀걸이 아이콘**을 선택하면 보유 중인 귀걸이 목록을 확인할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/ae2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🔹 **귀걸이 목록 접근하기**
+#### ◾ 귀걸이 목록 활용
 
-<figure><img src="../../../.gitbook/assets/1-1.jpg" alt="" width="173"><figcaption><p>MainHUD</p></figcaption></figure>
+귀걸이 목록에서는 다음 작업을 할 수 있습니다.
 
-📌 **메인 HUD 좌측 상단의 "대시보드" 버튼을 터치하세요.**\
-📌 **대시보드 중앙에서 현재 장착 중인 무기의 요약 정보를 확인할 수 있습니다.**\
-📌 **하단의 "장비 가방" 버튼을 터치하면 보유 중인 무기, 오브, 악세서리 리스트를 확인할 수 있습니다!**
+* 귀걸이 장착 및 해제
+* 귀걸이 정렬
+* 귀걸이 상세 정보 확인
 
-***
+<figure><img src="../../../.gitbook/assets/ae1.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 **귀걸이 목록 활용하기**
-
-<figure><img src="../../../.gitbook/assets/귀걸이2.png" alt=""><figcaption></figcaption></figure>
-
-📌 **귀걸이 목록에서 원하는 장비를 터치하면 상세 정보 페이지로 이동합니다.**\
-📌 **이 목록에서 귀걸이를 장착하거나 해제할 수 있으며, 좌측 상단의 정렬 버튼을 이용해 원하는 순서로 정렬할 수도 있습니다.**
+우측 상단의 정렬 버튼을 통해 원하는 기준으로 목록을 정렬할 수 있습니다.
 
 ***
 
-#### ⚠️ **귀걸이 옵션 & 주의사항**
+#### ◾ 귀걸이 잠금 기능
 
-🔹 **CP와 SCP가 기본 스탯으로 부여됩니다.**\
-🔹 **무기 및 오브에 비해, 귀걸이의 랜덤 옵션 확률과 수치는 낮게 설정되어 있습니다.**\
-🔹 **랜덤 옵션으로 CR이 부여되지 않습니다.**
+중요한 귀걸이는 **잠금 기능**을 활용해 보호할 수 있습니다.
 
-전략적인 장비 선택이 영웅의 전투력을 결정합니다.\
-귀걸이의 기본 스탯을 활용하고, 최적의 옵션을 조합해 **나만의 전투 스타일을 완성하세요!**
+* 목록에서 **자물쇠 모양 버튼**을 터치하면 해당 귀걸이가 잠금 상태로 설정됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/ae3.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 **슬롯 잠금 기능 활용하기**
+잠금된 귀걸이는 다음과 같은 특징이 있습니다.
 
-<figure><img src="../../../.gitbook/assets/귀걸이1.png" alt=""><figcaption></figcaption></figure>
-
-귀걸이를 실수로 사용하거나 분해하는 것을 방지하려면 **장비 잠금 기능을 활용**하세요!\
-📌 **목록에서 "잠금" 버튼을 터치하면 해당 장비가 잠금 상태가 됩니다.**\
-📌 **잠금된 장비의 장점:**\
-✅ **귀걸이 목록의 최상단에 배치**되어 쉽게 확인 가능!\
-✅ **제작 재료로 사용되지 않음** – 실수로 분해할 걱정 없음!
+* 귀걸이 목록에서 **항상 상단에 표시**됩니다.
+* **제작 재료로 사용되지 않습니다.**
 
 ***
 
-#### 🔹 **귀걸이 상세 정보 확인하기**
+#### ◾ 귀걸이 상세정보
 
-<figure><img src="../../../.gitbook/assets/귀걸이.png" alt=""><figcaption></figcaption></figure>
+귀걸이 목록에서 원하는 장비를 터치하면 **상세 정보 페이지**로 이동합니다.
 
-📌 **귀걸이 목록에서 원하는 장비를 터치하면 상세 정보 페이지로 이동**합니다.\
-📌 이 페이지에서는 **귀걸이의 스탯 확인,** [**판매**](../../../economy/trade/market/trading-items/) **등 모든 작업을 수행**할 수 있습니다.
+<figure><img src="../../../.gitbook/assets/ae4.png" alt=""><figcaption></figcaption></figure>
 
-💡 **귀걸이의 기본 스탯과 랜덤 옵션을 전략적으로 활용하여, 영웅을 더욱 강력하게 성장시키세요!**&#x20;
+상세 정보 페이지에서는 다음 작업을 할 수 있습니다.
+
+* 귀걸이 스탯 확인
+* 귀걸이 판매
+* (NFT 귀걸이의 경우) 관련 정보 확인
+
+***
+
+귀걸이는 **치명타 발생 빈도를 완성하는 핵심 악세서리**입니다.\
+Phys. Crit %와 Mag. Crit %를 중심으로, 자신의 전투 스타일에 맞는 공격 확률을 설계해 보세요.
 {% endtab %}
 
 {% tab title="日本語" %}
-### 🍒 イヤリング
+### 🍒 イヤリング（Earring）
 
-イヤリングには **CPとSCPが基本ステータスとして付与されます。**
+イヤリングは、**クリティカル発生確率の強化**に特化したアクセサリーです。\
+攻撃がクリティカルヒットになる確率を高めることで、\
+**安定した戦闘効率**を引き上げる重要な役割を果たします。
 
-💡 [**固定ステータスオプションの範囲**](earring.md#earring-fixed-stat-option-range) \
-**💡** [**確率ステータスオプションの範囲**](earring.md#probabilistic-stat-option-range)
+***
+
+#### ◾ イヤリングのステータス案内
+
+* イヤリングには、以下の **基本ステータス** が付与されます。
+  * **Phys. Crit %**（物理クリ率）
+  * **Mag. Crit %**（魔法クリ率）
+* 武器やオーブと比べて、\
+  イヤリングの **ランダムオプション発生確率および数値は低め** に設定されています。
+
+💡 [**固定ステータスオプション範囲**](earring.md#earring-fixed-stat-option-range)\
+💡 [**ランダムステータスオプション範囲**](earring.md#random-stat-option-range)
 
 {% hint style="info" %}
-⚠️ オプションの最小～最大値は、バランス調整により一部の値が「割合基準」で調整される場合があります。
+⚠️ オプションの最小値～最大値は、\
+バランス調整により一部が割合基準に変更される場合があります。
 {% endhint %}
 
-最適なイヤリングを装備し、さらに強力な戦闘力を発揮しましょう！
+***
+
+#### ◾ イヤリング一覧へのアクセス方法
+
+1️⃣ メイン画面左上の **ダッシュボードボタン** をタップします。
+
+<figure><img src="../../../.gitbook/assets/a3 (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ ダッシュボード下部の **装備バッグ** をタップします。
+
+<figure><img src="../../../.gitbook/assets/dash2 (3).png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ **アクセサリータブ** で **イヤリングアイコン** を選択すると、\
+所持中のイヤリング一覧を確認できます。
+
+<figure><img src="../../../.gitbook/assets/ae2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🔹 イヤリングインベントリへのアクセス
+#### ◾ イヤリング一覧の活用
 
-<figure><img src="../../../.gitbook/assets/1-1.jpg" alt="" width="173"><figcaption><p>MainHUD</p></figcaption></figure>
+イヤリング一覧では、以下の操作が可能です。
 
-📌 **メインHUD左上の「ダッシュボード」ボタンをタップ** してください。\
-📌 **ダッシュボードでは現在装備している武器の概要パネルを確認** できます。\
-📌 **画面下部の「装備バッグ」ボタンをタップ** すると、武器・オーブ・アクセサリーのリストを表示できます！
+* イヤリングの装備・解除
+* イヤリングの並び替え
+* イヤリング詳細情報の確認
 
-***
+<figure><img src="../../../.gitbook/assets/ae1.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 イヤリングリストの活用
-
-<figure><img src="../../../.gitbook/assets/귀걸이2.png" alt=""><figcaption></figcaption></figure>
-
-📌 **リスト内のイヤリングをタップすると、詳細ページが表示されます。**\
-📌 **イヤリングの装備・解除** が可能で、左上の **「ソートボタン」** を使用して整理することもできます。
+**画面右上** の並び替えボタンを使用すると、お好みの条件で一覧を並び替えることができます。
 
 ***
 
-#### ⚠️ **イヤリングのステータス & 注意事項**
+#### ◾ イヤリングのロック機能
 
-🔹 **CPとSCPが基本ステータスとして付与されます。**\
-🔹 **武器やオーブに比べて、イヤリングのランダムオプションの確率と数値は低く設定されています。**\
-🔹 **CRはランダムオプションとして付与されません。**
+重要なイヤリングは、**ロック機能** を使って保護できます。
 
-最適な装備を選ぶことで、英雄の戦闘力を最大限に引き出せます。\
-イヤリングの基本ステータスを活かし、最強の戦闘戦略を構築しましょう！
+* 一覧で **鍵アイコン** をタップすると、該当イヤリングはロック状態に設定されます。
 
-***
+<figure><img src="../../../.gitbook/assets/ae3.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔹 **ロック機能の活用**
+ロックされたイヤリングの特徴：
 
-<figure><img src="../../../.gitbook/assets/귀걸이1.png" alt=""><figcaption></figcaption></figure>
-
-誤使用や分解を防ぐために、**装備ロック機能を活用** しましょう！\
-📌 **インベントリ内の「ロック」ボタンをタップ** すると、イヤリングがロックされます。\
-📌 **ロックされた装備のメリット:**\
-✅ **イヤリングリストの最上部に配置** され、簡単にアクセス可能。\
-✅ **クラフト素材として使用不可** – 誤って分解する心配なし！
+* イヤリング一覧の **最上部に固定表示** されます
+* **制作素材として使用されません**
 
 ***
 
-#### 🔹イヤリングの詳細確認
+#### ◾ イヤリング詳細情報
 
-<figure><img src="../../../.gitbook/assets/귀걸이.png" alt=""><figcaption></figcaption></figure>
+イヤリング一覧で装備をタップすると、**詳細情報ページ** に移動します。
 
-📌 **インベントリ内のイヤリングをタップすると、詳細ページに移動** できます。\
-📌 ここでは **ステータスの確認、**[**販売**](../../../economy/trade/market/trading-items/)**、その他の管理が可能** です。
+<figure><img src="../../../.gitbook/assets/ae4.png" alt=""><figcaption></figcaption></figure>
 
-💡 **イヤリングの基本ステータスとランダムオプションを活用し、英雄をさらに強化しましょう！**
+詳細情報ページでは、以下の操作が可能です。
+
+* イヤリングのステータス確認
+* イヤリングの[販売](../../../economy/trade/market/)
+* （NFTイヤリングの場合）関連情報の確認
+
+***
+
+イヤリング은、**クリティカル発生頻度を完成させる中核アクセサリー**です。\
+**物理クリ率** と **魔法クリ率** を軸に、\
+自分の戦闘スタイルに合った攻撃確率を設計してみてください。
 {% endtab %}
 {% endtabs %}
 
