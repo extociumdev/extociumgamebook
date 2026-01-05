@@ -54,3 +54,5 @@ are determined by the equipment’s **grade**, based on the table below.
 <table><thead><tr><th width="116">グレード</th><th width="248">装備</th><th>効果</th></tr></thead><tbody><tr><td>1</td><td>⚔️木剣, 青銅の剣, 鋼鉄の剣, フランベルグ<br>🔮風のオーブ, 闇のオーブ, 深淵のオーブ, 清明のオーブ</td><td>🔺1次ステータス値 <mark style="color:blue;"><strong>+1 ~ 1</strong></mark></td></tr><tr><td>2</td><td>⚔️パラディンの剣, オークの目, ダマスカス<br>🔮火炎の風, 光の翼, 爆裂エネルギー</td><td>🔺1次ステータス値 <mark style="color:blue;"><strong>+1 ~ 2</strong></mark></td></tr><tr><td>3</td><td>⚔️野蛮の剣, オラクル·スワード, 悪魔の剣<br>🔮悪魔の手, 悪魔の翼, 審判のオーブ</td><td>🔺1次ステータス値 <mark style="color:blue;"><strong>+1 ~ 3</strong></mark></td></tr><tr><td>4</td><td>⚔️目覚める闇<br>🔮レインボー</td><td>🔺1次ステータス値 <mark style="color:blue;"><strong>+2 ~ 4</strong></mark></td></tr><tr><td>5</td><td>⚔️光の剣<br>🔮水の怒り</td><td>🔺1次ステータス値 <mark style="color:blue;"><strong>+2 ~ 5</strong></mark></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 5, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

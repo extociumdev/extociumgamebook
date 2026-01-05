@@ -6,14 +6,23 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**If a weapon is destroyed due to enchantment, there is a chance to obtain special items.**&#x20;
+#### ◾ Enchantment Failed
 
-These items are used as crafting materials and cannot be obtained elsewhere. Equipment destruction caused by enchantment is distinguished from '[equipment destruction through NPCs'](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu).
+If a weapon is destroyed due to Enchantment failure, you may obtain **special items** at a certain probability. \
+These items are used **only as crafting materials** and cannot be obtained through any other method.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+※ Equipment destruction caused by Enchantment\
+is treated separately from [**equipment destruction via NPC**](../equipment-care/equipment-destruction.md).
 
-👉Destruction rewards are probabilistically determined for each piece of equipment. Please check the table below. \
-[⚔️Go to Equipments](enchantment-failed.md#equipments) / [💎Go to Accessories](enchantment-failed.md#accessories)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Destruction rewards are **determined probabilistically for each piece of equipment**.\
+Please refer to the table below for details.
+
+→ ⚔️ [Weapon Destruction Reward Table](enchantment-failed.md#equipments)\
+→ 💎 [Accessory Destruction Reward Table](enchantment-failed.md#accessories)
+
+***
 
 #### ⚔️Equipments
 
@@ -25,14 +34,22 @@ These items are used as crafting materials and cannot be obtained elsewhere. Equ
 {% endtab %}
 
 {% tab title="한국어" %}
-**💡인챈트로 인해 무기가 파괴되면, 일정 확률로 특별한 아이템을 획득할 수 있습니다.**&#x20;
+#### ◾ 인챈트 실패
 
-이 아이템들은 제작 재료로 사용되며 다른 곳에서는 얻을 수 없습니다. 인챈트로 인한 장비 파괴는 '[NPC를 통한 장비 파괴](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)'와 구분됩니다.
+인챈트로 인해 **무기가 파괴될 경우**, 일정 확률로 **특별한 아이템**을 획득할 수 있습니다.\
+해당 아이템은 **제작 재료로만 사용되며**, 다른 경로로는 획득할 수 없습니다.
+
+※ 인챈트로 인한 장비 파괴는 [**NPC를 통한 장비 파괴**](../equipment-care/equipment-destruction.md)**와는 구분**됩니다.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-👉파괴 보상은 각 장비에 따라 확률적으로 책정됩니다. 아래 표를 확인해주세요. \
-[⚔️장비 바로가기](enchantment-failed.md#undefined-2) / [💎악세사리 바로가기](enchantment-failed.md#undefined-3)
+파괴 보상은 **각 장비별로 확률이 다르게 적용**됩니다.\
+자세한 내용은 아래 표를 참고해 주세요.
+
+→ ⚔️ [장비 파괴 보상 표 바로가기](enchantment-failed.md#undefined-3)\
+→ 💎 [악세사리 파괴 보상 표 바로가기](enchantment-failed.md#undefined-4)
+
+***
 
 #### ⚔️장비
 
@@ -44,14 +61,22 @@ These items are used as crafting materials and cannot be obtained elsewhere. Equ
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**エンチャントによって武器が破壊されると、特別なアイテムを獲得する可能性があります。**
+#### ◾ エンチャント失敗
 
-これらのアイテムは製作材料として使用され、他の場所では入手できません。エンチャントによる装備破壊は「[NPCを通じた装備破壊](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)」と区別されます。
+エンチャント失敗により **武器が破壊された場合**、一定確率で **特別なアイテム**を獲得できます。\
+これらのアイテムは **制作素材としてのみ使用**され、他の方法では入手できません。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+※ エンチャントによる装備破壊は、[**NPCによる装備破壊とは区別**](../equipment-care/equipment-destruction.md)されます。
 
-👉破壊報酬は各装備に応じて確率的に設定されます。以下の表をご確認ください。\
-[⚔️装備ページへ](enchantment-failed.md#zhuang-bei) / [💎アクセサリーページへ](enchantment-failed.md#akusesar)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+破壊報酬は **装備ごとに異なる確率**で設定されています。\
+詳細は以下の表をご確認ください。
+
+→ ⚔️ [装備破壊報酬表](enchantment-failed.md#zhuang-bei)\
+→ 💎 [アクセサリー破壊報酬表](enchantment-failed.md#akusesar)
+
+***
 
 #### ⚔️装備
 
@@ -62,3 +87,5 @@ These items are used as crafting materials and cannot be obtained elsewhere. Equ
 <table><thead><tr><th width="227.6666259765625">アクセサリー</th><th>アイテム種類 / 最小〜最大 / 出現確率</th></tr></thead><tbody><tr><td>💫水晶のブレスレット</td><td>🔹破壊の結晶 1 ~ 1 (10%)<br>🔹勇気の結晶 1 ~ 1 (10%)</td></tr><tr><td>💫冒険者のブレスレット</td><td>🔹破壊の結晶 1 ~ 1 (50%)<br>🔹勇気の結晶 1 ~ 1 (50%)</td></tr><tr><td>💫魔法使いのブレスレット</td><td>🔹破壊の結晶 1 ~ 2 (70%)<br>🔹勇気の結晶 1 ~ 2 (70%)</td></tr><tr><td>💫エルフのブレスレット</td><td>🔹破壊の結晶 2 ~ 4 (90%)<br>🔹勇気の結晶 2 ~ 4 (90%)</td></tr><tr><td>💫精霊のブレスレット</td><td>🔹破壊の結晶 4 ~ 6 (100%)<br>🔹勇気の結晶 4 ~ 6 (100%)</td></tr><tr><td>💫サラマンダーのブレスレット</td><td>🔹破壊の結晶 6 ~ 10 (100%)<br>🔹勇気の結晶 6 ~ 10 (100%)</td></tr><tr><td>💫業火のブレスレット</td><td>🔹破壊の結晶 10 ~ 20 (100%)<br>🔹勇気の結晶 10 ~ 20 (3%)<br>🔸神秘の石  1 ~ 1 (3%)</td></tr><tr><td>💫人魚のブレスレット</td><td>🔹破壊の結晶 20 ~ 50 (100%)<br>🔹勇気の結晶 20 ~ 50 (20%)<br>🔸神秘の石  1 ~ 1 (20%)</td></tr><tr><td>💫帝王のブレスレット</td><td>🔹破壊の結晶 50 ~ 100 (100%)<br>🔹勇気の結晶 50 ~ 100 (30%)<br>🔸神秘の石  1 ~ 1 (30%)</td></tr><tr><td>💫涙のブレスレット</td><td>🔹破壊の結晶 100 ~ 200 (100%)<br>🔹勇気の結晶 100 ~ 200 (100%)<br>🔸神秘の石  1 ~ 1 (40%)</td></tr><tr><td>💫星のブレスレット</td><td>🔹破壊の結晶 200 ~ 400 (100%)<br>🔹勇気の結晶 200 ~ 400 (100%)<br>🔸神秘の石  1 ~ 2 (60%)</td></tr><tr><td>💫蝶のブレスレット</td><td>🔹破壊の結晶 400 ~ 600 (100%)<br>🔹勇気の結晶 400 ~ 600 (100%)<br>🔸神秘の石  2 ~ 4 (100%)</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 5, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
