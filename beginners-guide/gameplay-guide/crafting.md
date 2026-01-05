@@ -24,7 +24,7 @@ Follow these steps to start crafting:
 
 Once you enter the crafting screen, you’ll see a list of items you can craft.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -40,7 +40,7 @@ You can craft:
 * [Orbs](../../growth/equipment/orb/#eng)
 * [Accessories](../../growth/equipment/accessories/#eng)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 🧪 Item Tab
 
@@ -50,7 +50,7 @@ You can craft:
 * Potions
 * Scrolls
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -142,7 +142,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 제작 화면으로 이동하면 제작 가능한 아이템 목록이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -158,7 +158,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * [오브](../../growth/equipment/orb/#undefined-1)
 * [악세서리](../../growth/equipment/accessories/#undefined-1)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 🧪 아이템 탭
 
@@ -168,7 +168,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * 포션
 * 주문서
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -258,7 +258,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 制作画面に移動すると、制作可能なアイテム一覧が表示されます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -274,7 +274,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * [オーブ](../../growth/equipment/orb/#ri-ben-yu)
 * [アクセサリー](../../growth/equipment/accessories/#ri-ben-yu)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 🧪 アイテムタブ
 
@@ -284,7 +284,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 * ポーション
 * スクロール
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

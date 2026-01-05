@@ -46,12 +46,12 @@ In simple terms, this step calculates:
 
 Next, add the **Phys. DMG granted by skills** to the value calculated in Step 1️⃣.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Then, multiply the result by the\
 **Multi-Hit Attack Power Allocation** assigned to each skill.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _This process prevents excessive damage when a skill hits multiple times_\
 _by distributing the total damage based on the expected number of hits._
@@ -127,12 +127,12 @@ Phys. DMG는 단순히 장비 수치만으로 결정되지 않으며,\
 다음으로,\
 스킬에 부여된 **Phys. DMG**를 1️⃣ 단계에서 계산한 값에 추가합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 그 후,\
 각 스킬에 설정된 **스킬마다 부여된 다단히트 공격력 분배(Multi-Hit Attack Power Allocation)**&#xB97C; 곱해줍니다.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _이는 스킬이 여러 번 타격할 경우,_\
 _각 타격의 데미지가 과도해지는 것을 방지하기 위해_\
@@ -213,13 +213,13 @@ Phys. DMGは装備の数値だけで決まるものではなく、\
 次に、\
 スキルに設定されている **Phys. DMG** を1️⃣で算出した数値に加算します。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 その後、\
 各スキルに設定された\
 **多段ヒット攻撃力分配（Multi-Hit Attack Power Allocation）**&#x3092;掛け合わせます。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _これは、スキルが複数回ヒットする場合に_\
 _1ヒットあたりのダメージが過剰にならないよう、_\

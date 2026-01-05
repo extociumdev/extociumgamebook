@@ -10,7 +10,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 These items are used as crafting materials and cannot be obtained elsewhere. Equipment destruction caused by enchantment is distinguished from '[equipment destruction through NPCs'](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu).
 
-<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 👉Destruction rewards are probabilistically determined for each piece of equipment. Please check the table below. \
 [⚔️Go to Equipments](enchantment-failed.md#equipments) / [💎Go to Accessories](enchantment-failed.md#accessories)
@@ -29,14 +29,14 @@ These items are used as crafting materials and cannot be obtained elsewhere. Equ
 
 이 아이템들은 제작 재료로 사용되며 다른 곳에서는 얻을 수 없습니다. 인챈트로 인한 장비 파괴는 '[NPC를 통한 장비 파괴](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)'와 구분됩니다.
 
-<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 👉파괴 보상은 각 장비에 따라 확률적으로 책정됩니다. 아래 표를 확인해주세요. \
 [⚔️장비 바로가기](enchantment-failed.md#undefined-2) / [💎악세사리 바로가기](enchantment-failed.md#undefined-3)
 
 #### ⚔️장비
 
-<table data-full-width="true"><thead><tr><th width="204">장비</th><th>아이템 종류 / Min ~ Max / 등장 확률</th></tr></thead><tbody><tr><td>⚔️목검<br>🔮바람의 오브</td><td>🔹파괴의 결정 1 ~ 1 (10%)<br>🔹용기의 결정 1 ~ 1 (10%)</td></tr><tr><td>⚔️청동검<br>🔮어둠의 오브</td><td>🔹파괴의 결정 1 ~ 1 (50%)<br>🔹용기의 결정 1 ~ 1 (50%)</td></tr><tr><td>⚔️강철검<br>🔮심연의 오브</td><td>🔹파괴의 결정 1 ~ 2 (70%)<br>🔹용기의 결정 1 ~ 2 (70%)</td></tr><tr><td>⚔️플람베르그<br>🔮청명의 오브</td><td>🔹파괴의 결정 2 ~ 4 (90%)<br>🔹용기의 결정 2 ~ 4 (90%)</td></tr><tr><td>⚔️팔라딘의 검<br>🔮화염의 바람</td><td>🔹파괴의 결정 4 ~ 6 (100%)<br>🔹용기의 결정 4 ~ 6 (100%)</td></tr><tr><td>⚔️오크의 눈<br>🔮빛의 날개</td><td>🔹파괴의 결정 6 ~ 10 (100%)<br>🔹용기의 결정 6 ~ 10 (100%)</td></tr><tr><td>⚔️다마스커스<br>🔮폭렬 에너지</td><td>🔹파괴의 결정 10 ~ 20 (100%)<br>🔹용기의 결정 10 ~ 20 (100%)<br>🔸신비의 돌 1 ~ 1 (3%)</td></tr><tr><td>⚔️야만의검<br>🔮악마의 손</td><td>🔹파괴의 결정 20 ~ 50 (100%)<br>🔹용기의 결정 20 ~ 50 (100%)<br>🔸신비의 돌 1 ~ 1 (20%)</td></tr><tr><td>⚔️오라클 스워드<br>🔮악마의 날개</td><td>🔹파괴의 결정 20 ~ 50 (100%)<br>🔹용기의 결정 20 ~ 50 (100%)<br>🔸신비의 돌 1 ~ 1 (30%)</td></tr><tr><td>⚔️악마의 검<br>🔮심판의 오브</td><td>🔹파괴의 결정 100 ~ 200 (100%)<br>🔹용기의 결정 100 ~ 200 (100%)<br>🔸신비의 돌 1 ~ 2 (40%)</td></tr><tr><td>⚔️깨어나는 어둠<br>🔮레인보우</td><td>🔹파괴의 결정 200 ~ 400 (100%)<br>🔹용기의 결정 200 ~ 400 (100%)<br>🔸신비의 돌 2 ~ 3 (60%)</td></tr><tr><td>⚔️빛의 검<br>🔮물의 분노</td><td>🔹파괴의 결정 400 ~ 600 (100%)<br>🔹용기의 결정 400 ~ 600 (100%)<br>🔸신비의 돌 3 ~ 5 (100%)</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="204">장비</th><th>아이템 종류 / Min ~ Max / 등장 확률</th></tr></thead><tbody><tr><td>⚔️목검<br>🔮바람의 오브</td><td>🔹파괴의 결정 1 ~ 1 (10%)<br>🔹용기의 결정 1 ~ 1 (10%)</td></tr><tr><td>⚔️청동검<br>🔮어둠의 오브</td><td>🔹파괴의 결정 1 ~ 2 (50%)<br>🔹용기의 결정 1 ~ 2 (50%)</td></tr><tr><td>⚔️강철검<br>🔮심연의 오브</td><td>🔹파괴의 결정 2 ~ 3 (70%)<br>🔹용기의 결정 2 ~ 3 (70%)</td></tr><tr><td>⚔️플람베르그<br>🔮청명의 오브</td><td>🔹파괴의 결정 4 ~ 5 (90%)<br>🔹용기의 결정 4 ~ 5 (90%)</td></tr><tr><td>⚔️팔라딘의 검<br>🔮화염의 바람</td><td>🔹파괴의 결정 5 ~ 8 (100%)<br>🔹용기의 결정 5 ~ 8 (100%)</td></tr><tr><td>⚔️오크의 눈<br>🔮빛의 날개</td><td>🔹파괴의 결정 10 ~ 12 (100%)<br>🔹용기의 결정 10 ~ 12 (100%)</td></tr><tr><td>⚔️다마스커스<br>🔮폭렬 에너지</td><td>🔹파괴의 결정 20 ~ 30 (100%)<br>🔹용기의 결정 20 ~ 30 (100%)<br>🔸신비의 돌 1 ~ 1 (3%)</td></tr><tr><td>⚔️야만의검<br>🔮악마의 손</td><td>🔹파괴의 결정 40 ~ 70 (100%)<br>🔹용기의 결정 40 ~ 700 (100%)<br>🔸신비의 돌 1 ~ 1 (20%)</td></tr><tr><td>⚔️오라클 스워드<br>🔮악마의 날개</td><td>🔹파괴의 결정 80 ~ 120 (100%)<br>🔹용기의 결정 80 ~ 120 (100%)<br>🔸신비의 돌 1 ~ 1 (30%)</td></tr><tr><td>⚔️악마의 검<br>🔮심판의 오브</td><td>🔹파괴의 결정 150 ~ 250 (100%)<br>🔹용기의 결정 150 ~ 250 (100%)<br>🔸신비의 돌 1 ~ 2 (40%)</td></tr><tr><td>⚔️깨어나는 어둠<br>🔮레인보우</td><td>🔹파괴의 결정 360 ~ 500 (100%)<br>🔹용기의 결정 360 ~ 500 (100%)<br>🔸신비의 돌 2 ~ 3 (60%)</td></tr><tr><td>⚔️빛의 검<br>🔮물의 분노</td><td>🔹파괴의 결정 700 ~ 800 (100%)<br>🔹용기의 결정 700 ~ 800 (100%)<br>🔸신비의 돌 3 ~ 5 (100%)</td></tr></tbody></table>
 
 #### 💎악세사리
 
@@ -48,7 +48,7 @@ These items are used as crafting materials and cannot be obtained elsewhere. Equ
 
 これらのアイテムは製作材料として使用され、他の場所では入手できません。エンチャントによる装備破壊は「[NPCを通じた装備破壊](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)」と区別されます。
 
-<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 👉破壊報酬は各装備に応じて確率的に設定されます。以下の表をご確認ください。\
 [⚔️装備ページへ](enchantment-failed.md#zhuang-bei) / [💎アクセサリーページへ](enchantment-failed.md#akusesar)
