@@ -89,7 +89,7 @@
   * [🐉 Succession](growth/hero-ascension/succession/README.md)
     * [🎖️ Skill Rune](growth/hero-ascension/succession/skill-rune.md)
     * [🪐 Skill Rune Crafting](growth/hero-ascension/succession/skill-rune-crafting.md)
-    * [🪩 Elemental Gem Slot](growth/hero-ascension/succession/elemental-gem-slot.md)
+    * [🪩 Elemental Gem](growth/hero-ascension/succession/elemental-gem.md)
   * [🔁 Reload](growth/hero-ascension/reload/README.md)
     * [1️⃣ Hero Reload](growth/hero-ascension/reload/hero-reload.md)
     * [2️⃣ Succession Hero Reload](growth/hero-ascension/reload/succession-hero-reload.md)

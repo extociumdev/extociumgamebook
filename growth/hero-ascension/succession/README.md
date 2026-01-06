@@ -119,8 +119,8 @@ _please check the related links._
 [skill-rune-crafting.md](skill-rune-crafting.md)
 {% endcontent-ref %}
 
-{% content-ref url="elemental-gem-slot.md" %}
-[elemental-gem-slot.md](elemental-gem-slot.md)
+{% content-ref url="elemental-gem.md" %}
+[elemental-gem.md](elemental-gem.md)
 {% endcontent-ref %}
 
 ***
@@ -239,8 +239,8 @@ _👇 슬롯과 추가 효과에 대한 자세한 정보는 관련 링크를 통
 [skill-rune-crafting.md](skill-rune-crafting.md)
 {% endcontent-ref %}
 
-{% content-ref url="elemental-gem-slot.md" %}
-[elemental-gem-slot.md](elemental-gem-slot.md)
+{% content-ref url="elemental-gem.md" %}
+[elemental-gem.md](elemental-gem.md)
 {% endcontent-ref %}
 
 ***
@@ -367,8 +367,8 @@ _👇 スロットおよび追加効果の詳細は、関連リンクから確�
 [skill-rune-crafting.md](skill-rune-crafting.md)
 {% endcontent-ref %}
 
-{% content-ref url="elemental-gem-slot.md" %}
-[elemental-gem-slot.md](elemental-gem-slot.md)
+{% content-ref url="elemental-gem.md" %}
+[elemental-gem.md](elemental-gem.md)
 {% endcontent-ref %}
 
 ***
