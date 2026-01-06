@@ -318,15 +318,5 @@ Check the chart below for detailed information!
 
 </details>
 
-## 💔Rune Destruction
-
-|                              |              |                        |                    |                 |
-| ---------------------------- | ------------ | ---------------------- | ------------------ | --------------- |
-| RUNE                         | Broken Power | Crystal of destruction | Crystal of courage | Pen of Oblivion |
-| <p>SQUARE<br>사각<br>四角</p>    | 2 \~ 5       | 1 \~ 1                 | 1 \~ 1             | 1 \~ 1          |
-| <p>PENTAGRAM<br>오각<br>五角</p> | 5 \~ 10      | 1 \~ 2                 | 1 \~ 2             | 1 \~ 1          |
-| <p>HEXAGON<br>육각<br>六角</p>   | 8 \~ 12      | 2 \~ 3                 | 2 \~ 3             | 1 \~ 1          |
-| <p>CIRCLE<br>원<br>円形</p>     | 10 \~ 15     | 4 \~ 5                 | 4 \~ 5             | 1 \~ 1          |
-
-
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
