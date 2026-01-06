@@ -16,13 +16,13 @@ you can change the Hero’s type and skills to build various skill deck combinat
 
 ### ◾ Hero Reload NPC Location
 
-Hero Reload can be performed at the following location.
+[Hero](../../../beginners-guide/nft-minting-guide/hero-nft.md) Reload can be performed at the following location.
 
-* Rottenhill > Magic Shop > **Ashurbanipal Library**
+* Rottenhill > Magic Shop > [**Ashurbanipal Library**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-You can proceed with Hero Reload by talking to NPC **Lelahel** in the Ashurbanipal Library.
+You can proceed with Hero Reload by talking to [NPC **Lelahel**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru) in the Ashurbanipal Library.
 
-<figure><img src="../../../.gitbook/assets/hr1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hr1 (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ Hero Reload is divided into the following two types.\
 * Normal Reload
 * Special Reload
 
-<figure><img src="../../../.gitbook/assets/hr10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hr10 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -81,13 +81,13 @@ The materials required for each Reload type can be checked below.
 
 ### ◾ 영웅 리로드 NPC 위치
 
-영웅 리로드는 아래 위치에서 진행할 수 있습니다.
+[영웅](../../../beginners-guide/nft-minting-guide/hero-nft.md) 리로드는 아래 위치에서 진행할 수 있습니다.
 
-* 로튼힐 > 마법 상점 > **아슈르바니팔 도서관**
+* 로튼힐 > 마법 상점 > [**아슈르바니팔 도서관**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-아슈르바니팔 도서관에 있는 NPC **레라엘**과 대화하면 영웅 리로드를 진행할 수 있습니다.
+아슈르바니팔 도서관에 있는 [NPC **레라엘**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru)과 대화하면 영웅 리로드를 진행할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/hr1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hr1 (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -112,7 +112,7 @@ The materials required for each Reload type can be checked below.
 * 일반 리로드
 * 스페셜 리로드
 
-<figure><img src="../../../.gitbook/assets/hr10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hr10 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -146,13 +146,13 @@ The materials required for each Reload type can be checked below.
 
 ### ◾ ヒーローリロードNPCの位置
 
-ヒーローリロードは、以下の場所で行うことができます。
+[ヒーロ](../../../beginners-guide/nft-minting-guide/hero-nft.md)ーリロードは、以下の場所で行うことができます。
 
-* ロッテンヒル ＞ 魔法ショップ ＞ **アシュルバニパル図書館**
+* ロッテンヒル ＞ 魔法ショップ ＞ [**アシュルバニパル図書館**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-アシュルバニパル図書館にいる NPC **レラヘル** と会話すると、ヒーローリロードを進行できます。
+アシュルバニパル図書館にいる [NPC **レラヘル**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru) と会話すると、ヒーローリロードを進行できます。
 
-<figure><img src="../../../.gitbook/assets/hr1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hr1 (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -178,7 +178,7 @@ The materials required for each Reload type can be checked below.
 * ノーマルリロード
 * スペシャルリロード
 
-<figure><img src="../../../.gitbook/assets/hr10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hr10 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

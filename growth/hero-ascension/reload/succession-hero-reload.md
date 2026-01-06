@@ -6,132 +6,209 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Do you want to reload a succession hero?**
+### ◾ Succession Hero Reload
 
-Did you know that you can also reload heroes that are in a succession state? \
-To create various skill deck combinations in EXTOCIUM, it's essential to know about reloading!
+Succession Hero Reload is a system that allows you\
+to perform Reload on Heroes that have completed Succession.
 
-#### ❓Find the NPC for succession reload
+Through Reload,\
+you can change the skill setup of a Succession Hero to build various skill deck combinations.
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉To reload a 'succession hero', go to the 'Magic Shop' from 'Rotten Hill', then move to the 'Ashurbanipal Library'. You can reload a hero from 'NPC Lelahel' in the Ashurbanipal Library.
+### ◾ Succession Hero Reload NPC Location
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+Succession Hero Reload can be performed at the following location.
 
-👉When you talk to Lelahel, you can choose between 'Hero Reload' and 'Succession Hero Reload'. Here, press the 'Succession' button to enter the succession reload stage.
+* Rottenhill > Magic Shop > **Ashurbanipal Library**
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+You can proceed with Succession Hero Reload by talking to NPC **Lelahel** \
+in the Ashurbanipal Library.
 
-#### ❓Succession Reload Methods
+<figure><img src="../../../.gitbook/assets/hr1 (2).png" alt=""><figcaption></figcaption></figure>
 
-> There are three methods for succession reload: \[Normal, Special, Rune Slot].
->
-> ![](<../../../.gitbook/assets/image (691).png>)
+***
 
-<figure><img src="../../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
+### ◾ How to Proceed with Succession Hero Reload
+
+After speaking with Lelahel,\
+you can choose between **\[Hero Reload]** and **\[Succession Hero Reload]**.
+
+<figure><img src="../../../.gitbook/assets/hr3.png" alt=""><figcaption></figcaption></figure>
+
+On this page, select the **\[Succession]** button to proceed with Succession Hero Reload.
+
+<figure><img src="../../../.gitbook/assets/hr8.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ Succession Hero Reload Types
+
+Succession Hero Reload includes the following three types.\
+![](../../../.gitbook/assets/image.png)
+
+* Normal Reload
+* Special Reload
+* Rune Slot Reload
+
+<figure><img src="../../../.gitbook/assets/hr9.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="264">Categories:</th><th>Normal</th><th>Special</th><th>Rune Slot</th></tr></thead><tbody><tr><td><strong>1️⃣ Succession Hero Level</strong></td><td>Maintain</td><td>Maintain</td><td>Maintain</td></tr><tr><td><strong>2️⃣ Succession Hero Type</strong></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td><td>Maintain</td></tr><tr><td><strong>3️⃣4️⃣ Legacy Hero Skill Type &#x26; Level</strong></td><td>Maintain</td><td>Maintain</td><td>Maintain</td></tr><tr><td><strong>5️⃣ Succession Hero Skill Type</strong></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td><td>Maintain</td></tr><tr><td><strong>5️⃣ Succession Hero Skill Level</strong></td><td><mark style="color:red;"><strong>Reset</strong></mark></td><td>Maintain</td><td>Maintain</td></tr><tr><td><strong>6️⃣ Succession - Rune Slot</strong></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td><td>Maintain</td><td><mark style="color:purple;"><strong>Reload</strong></mark></td></tr></tbody></table>
 
+***
+
+### ◾ Information Maintained During Reload
+
 {% hint style="info" %}
-**The hero's level is maintained, so the hero's stats and SP also remain the same.**
+Even when performing Succession Hero Reload, the **Hero’s level is maintained**.\
+Accordingly, the Hero’s stats and SP are also maintained.
 {% endhint %}
 
-The required materials for each reload method are as follows.
+The materials required for each Reload type can be checked below.
 
 | Normal                                                 | Special                                                          | Rune Slot                                                          |
 | ------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <p>4 Legendary Elixirs<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Special Reload<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Rune Slot Reload<br>(Purchase from XTO Shop)</p> |
-| 20 Crystals of Patience                                |                                                                  |                                                                    |
-| 8.88 million gold                                      |                                                                  |                                                                    |
+| <p>1 Legendary Elixirs<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Special Reload<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Rune Slot Reload<br>(Purchase from XTO Shop)</p> |
+| 5 Crystals of Patience                                 |                                                                  |                                                                    |
+| 4.8M Gold                                              |                                                                  |                                                                    |
 
 
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**계승 영웅을 리로드 하고 싶으신가요?**
+### ◾ 계승 영웅 리로드
 
-계승된 상태의 영웅도 리로드 할 수 있다는 사실 알고 계신가요?\
-EXTOCIUM의 다양한 스킬 덱 조합을 만들어보려면, 리로드에 관해 꼭 알고 계셔야 한답니다!
+계승 영웅 리로드는 계승이 완료된 영웅을 대상으로 리로드를 진행할 수 있는 시스템입니다.\
+리로드를 통해 계승 영웅의 스킬 구성을 변경하여 다양한 스킬 덱 조합을 구성할 수 있습니다.
 
-#### ❓계승 리로드 NPC 찾아가기
+***
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+### ◾ 계승 영웅 리로드 NPC 위치
 
-👉'[계승 영웅](../../heroes/succession-heroes/#eng)'을 리로드하려면,  '[로튼힐](../../../field-info/rotten-hill/)'에서 '[마법상점](../../../field-info/rotten-hill/magic-shop/)'으로 이동 후, 마법상점에서 '[아슈르바니팔 도서관](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)'으로 이동해야 합니다. 아슈르바니팔 도서관에 있는 '[NPC 레라엘](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru)'로 부터 영웅을 리로드 할 수 있습니다.
+계승 영웅 리로드는 아래 위치에서 진행할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+* 로튼힐 > 마법 상점 > **아슈르바니팔 도서관**
 
-👉레라엘에게 대화를 걸면, '영웅 리로드' 와 '계승 영웅 리로드' 중 하나를 선택할 수 있습니다. 여기서는 '계승' 버튼을 눌러 계승 리로드 단계로 진입합니다.
+아슈르바니팔 도서관에 있는 NPC **레라엘**과 대화하면 계승 영웅 리로드를 진행할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hr1 (2).png" alt=""><figcaption></figcaption></figure>
 
-#### ❓계승 리로드 방식
+***
 
-> 계승 리로드에는 \[일반, 스페셜, 룬 슬롯]의 3가지 방식이 존재합니다.
->
-> ![](<../../../.gitbook/assets/image (691).png>)
+### ◾ 계승 영웅 리로드 진행 방법
 
-<figure><img src="../../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
+레라엘과 대화하면, **\[영웅 리로드]**&#xC640; **\[계승 영웅 리로드]** 중 하나를 선택할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/hr3.png" alt=""><figcaption></figcaption></figure>
+
+이 페이지에서는 **\[계승]** 버튼을 선택하여 계승 영웅 리로드 단계로 진입합니다.
+
+<figure><img src="../../../.gitbook/assets/hr8.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ 계승 영웅 리로드 방식
+
+계승 영웅 리로드에는 아래 **세 가지 방식**이 존재합니다.\
+![](../../../.gitbook/assets/image.png)
+
+* 일반 리로드
+* 스페셜 리로드
+* 룬 슬롯 리로드
+
+<figure><img src="../../../.gitbook/assets/hr9.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="230">구분</th><th>일반</th><th>스페셜</th><th>룬 슬롯</th></tr></thead><tbody><tr><td><strong>1️⃣계승 영웅 레벨</strong></td><td>유지</td><td>유지</td><td>유지</td></tr><tr><td><strong>2️⃣계승 영웅 종류</strong></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td><td>유지</td></tr><tr><td><strong>3️⃣4️⃣레거시 영웅 스킬 종류 &#x26; 레벨</strong></td><td>유지</td><td>유지</td><td>유지</td></tr><tr><td><strong>5️⃣계승 영웅 스킬 종류</strong></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td><td>유지</td></tr><tr><td><strong>5️⃣계승 영웅 스킬 레벨</strong></td><td><mark style="color:red;"><strong>초기화</strong></mark></td><td>유지</td><td>유지</td></tr><tr><td><strong>6️⃣계승 - 룬 슬롯</strong></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td><td>유지</td><td><mark style="color:purple;"><strong>리로드</strong></mark></td></tr></tbody></table>
 
+***
+
+### ◾ 리로드 시 유지되는 정보
+
 {% hint style="info" %}
-**영웅 레벨은 유지되기 때문에, 영웅의 스탯 및 SP도 동일하게 유지됩니다.**
+계승 영웅 리로드를 진행해도 **영웅의 레벨은 유지**됩니다.\
+이에 따라 영웅의 스탯과 SP 또한 동일하게 유지됩니다.
 {% endhint %}
 
-각 리로드 방식에서 요구하는 재료는 다음과 같습니다.
+각 리로드 방식에 필요한 재료는 아래 내용을 통해 확인할 수 있습니다.
 
-| 일반                                 | 스페셜                                     | 룬 슬롯                                    |
-| ---------------------------------- | --------------------------------------- | --------------------------------------- |
-| <p>전설의 엘릭서 x4<br>( XTO 상점 구매 )</p> | <p>계승 - 스페셜 리로드 x1<br>( XTO 상점 구매 )</p> | <p>계승 - 룬슬롯 리로드 x1<br>( XTO 상점 구매 )</p> |
-| 인내의 결정 x20                         |                                         |                                         |
-| 888만 골드                            |                                         |                                         |
+| 일반                                  | 스페셜                                     | 룬 슬롯                                    |
+| ----------------------------------- | --------------------------------------- | --------------------------------------- |
+| <p>전설의 엘릭서 x 1<br>( XTO 상점 구매 )</p> | <p>계승 - 스페셜 리로드 x1<br>( XTO 상점 구매 )</p> | <p>계승 - 룬슬롯 리로드 x1<br>( XTO 상점 구매 )</p> |
+| 인내의 결정 x 5                          |                                         |                                         |
+| 480만 골드                             |                                         |                                         |
 
 
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**継承ヒーローをリロードしたいですか？**
+### ◾ 継承ヒーローリロード
 
-継承状態のヒーローもリロードできることをご存知でしたか？ \
-EXTOCIUMでさまざまなスキルデッキの組み合わせを作成するには、\
-リロードについて知っておくことが重要です！
+継承ヒーローリロードは、\
+継承を完了したヒーローを対象に リロードを行うことができるシステムです。
 
-#### ❓継承リロードNPCを探す
+リロードを通じて、\
+継承ヒーローのスキル構成を変更し、さまざまなスキルデッキの組み合わせを 構成できます。
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 '[継承ヒーロー](../../heroes/succession-heroes/#ri-ben-yu)'をリロードするには、'[ロッテンヒル](../../../field-info/rotten-hill/#ri-ben-yu)'から'[魔法店](../../../field-info/rotten-hill/magic-shop/)'に移動し、その後'[アシュールバニパル図書館](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/#ri-ben-yu)'に移動します。アシュールバニパル図書館にいる'[NPCレラエル](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#lelahel-reraeru)'からヒーローをリロードできます。
+### ◾ 継承ヒーローリロードNPCの位置
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+継承ヒーローリロードは、以下の場所で行うことができます。
 
-👉 レラエルと会話すると、『ヒーローリロード』と『継承ヒーローリロード』のどちらかを選択できます。ここでは、『継承』ボタンを押して継承リロード段階に進みます。
+* ロッテンヒル ＞ 魔法ショップ ＞ **アシュルバニパル図書館**
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+アシュルバニパル図書館にいる NPC **レラヘル** と会話すると、\
+継承ヒーローリロードを進行できます。
 
-#### ❓継承リロード方式
+<figure><img src="../../../.gitbook/assets/hr1 (2).png" alt=""><figcaption></figcaption></figure>
 
-> 継承リロードには\[通常、スペシャル、ルーンスロット]の3つの方式があります。
->
-> ![](<../../../.gitbook/assets/image (691).png>)
+***
 
-<figure><img src="../../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
+### ◾ 継承ヒーローリロード進行方法
+
+レラヘルと会話すると、\
+&#xNAN;**\[ヒーローリロード]** と **\[継承ヒーローリロード]** の いずれかを選択できます。
+
+<figure><img src="../../../.gitbook/assets/hr3.png" alt=""><figcaption></figcaption></figure>
+
+このページでは、**\[継承]** ボタンを選択して、継承ヒーローリロードを進行します。
+
+<figure><img src="../../../.gitbook/assets/hr8.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ 継承ヒーローリロード方式
+
+継承ヒーローリロードには、以下の **3つの方式** があります。\
+![](../../../.gitbook/assets/image.png)
+
+* ノーマルリロード
+* スペシャルリロード
+* ルーンスロットリロード
+
+<figure><img src="../../../.gitbook/assets/hr9.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="250">区分:</th><th>通常</th><th>スペシャル</th><th>ルーンスロット</th></tr></thead><tbody><tr><td><strong>1️⃣ 継承ヒーローレベル</strong></td><td>維持</td><td>維持</td><td>維持</td></tr><tr><td><strong>2️⃣ 継承ヒーローの種類</strong></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td><td>維持</td></tr><tr><td><strong>3️⃣4️⃣ レガシーヒーロースキルの種類とレベル</strong></td><td>維持</td><td>維持</td><td>維持</td></tr><tr><td><strong>5️⃣ 継承ヒーロースキルの種類</strong></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td><td>維持</td></tr><tr><td><strong>5️⃣ 継承ヒーロースキルのレベル</strong></td><td><mark style="color:red;"><strong>リセット</strong></mark></td><td>維持</td><td>維持</td></tr><tr><td><strong>6️⃣ 継承 - ルーンスロット</strong></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td><td>維持</td><td><mark style="color:purple;"><strong>リロード</strong></mark></td></tr></tbody></table>
 
+***
+
+### ◾ リロード時に維持される情報
+
 {% hint style="info" %}
-**ヒーローのレベルは維持されるため、ヒーローのステータスおよびSPも同様に維持されます。**
+継承ヒーローリロードを行っても、ヒーローのレベルは維持されます。\
+それに伴い、ヒーローのステータスおよびSPも 同様に維持されます。
 {% endhint %}
 
-各リロード方式で必要な材料は次のとおりです。
+各リロード方式に必要な素材は、以下の内容から確認できます。
 
 | 通常                       | スペシャル                          | ルーンスロット                          |
 | ------------------------ | ------------------------------ | -------------------------------- |
-| 伝説のエリクサー x4 (XTOショップで購入) | 継承 - スペシャルリロード x1 (XTOショップで購入) | 継承 - ルーンスロットリロード x1 (XTOショップで購入) |
-| 忍耐の結晶 x20                |                                |                                  |
-| 888万ゴールド                 |                                |                                  |
+| 伝説のエリクサー x1 (XTOショップで購入) | 継承 - スペシャルリロード x1 (XTOショップで購入) | 継承 - ルーンスロットリロード x1 (XTOショップで購入) |
+| 忍耐の結晶 x5                 |                                |                                  |
+| 480万ゴールド                 |                                |                                  |
 
 
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 6, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
