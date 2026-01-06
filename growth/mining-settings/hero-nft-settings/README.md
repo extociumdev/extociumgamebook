@@ -6,29 +6,44 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Try registering your Hero NFT in the mining setup!**
+### ◾ Hero Mining Setup
 
-<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+You can increase your daily mining output by registering **Hero NFTs** in the Mining Setup.
 
-#### ✅ Basic Rules for Hero Setup
+<figure><img src="../../../.gitbook/assets/ms5.png" alt=""><figcaption></figcaption></figure>
 
-* You can register a total of 4 Hero NFTs in the mining setup.&#x20;
-* Heroes are only used in the setup information and are not involved in direct usage or combat.&#x20;
-* The daily mining output is determined by the hero’s base stats and level.
-  * ❓[Check daily gold mining output](gold-mining-quantity.md)
-  * ❓[Check daily collectibles gathering output](gathering-yield.md)
+***
 
-#### ✅ Set Effects
+#### ◾ Basic Rules for Hero Setup
 
-The set effect is determined by the 'total sum' of the base stats of the Hero NFTs set in the slots.
+* You can register up to **4 Hero NFTs** in the Mining Setup.
+* Heroes registered in the Mining Setup\
+  are **used only for setup calculations**\
+  and are **not related to direct hero usage or combat participation**.
+* Daily mining output is determined by\
+  the Hero’s **base stats and level**.
+
+❓ [Check Daily Gold Mining Amount](gold-mining-quantity.md)\
+❓ [Check Daily Gathering Resource Amount](gathering-yield.md)
+
+***
+
+#### ◾ Set Effects
+
+Set Effects are applied based on the **total sum of base stats**\
+of the Hero NFTs registered in the Mining Setup slots.
+
+Set Effects are calculated according to the following rules:
 
 {% hint style="info" %}
-❓ **Primary stat additional calculation:** Final primary stat value + n + n2 + n3...&#x20;
+**Primary stat additional calculation:** Final primary stat value + n + n2 + n3...
 
-❓ **Secondary stat additional calculation:** Final secondary stat value \* (1 + (n% + n2% + n3%...))
+**Secondary stat additional calculation:** Final secondary stat value \* (1 + (n% + n2% + n3%...))
 {% endhint %}
 
-🔹After Patch (from 11.09\~)
+Detailed Set Effect values can be checked in the table below:\
+\
+**Hero Base Stat Total Effect Table**.
 
 | Total Base Stats | Effect                                    |
 | ---------------- | ----------------------------------------- |
@@ -52,31 +67,38 @@ The set effect is determined by the 'total sum' of the base stats of the Hero NF
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**영웅 NFT를 채굴세팅에 등록해보세요!**
+### ◾ 영웅 채굴 세팅
 
-<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+영웅 NFT를 채굴 세팅에 등록하여 **일일 채굴량을 증가**시킬 수 있습니다.
 
-#### ✅ 영웅 세팅 기본 룰
+<figure><img src="../../../.gitbook/assets/ms5.png" alt=""><figcaption></figcaption></figure>
 
-* 채굴 세팅에 등록 가능한 영웅 NFT 개수는 총 4개 입니다.
-* 영웅은 세팅 정보에만사용될 뿐, 영웅을 직접 사용하거나 전투에 참여하는 것과는 무관합니다.
-* 일일채굴량은 영웅의 베이스 스탯과 레벨에 따라 결정됩니다.
+***
+
+#### ◾ 영웅 세팅 기본 룰
+
+* 채굴 세팅에 등록할 수 있는 **영웅 NFT는 최대 4개**입니다.
+* 채굴 세팅에 등록된 영웅은 **세팅 정보에만 사용되며**,\
+  영웅을 직접 사용하거나 **전투에 참여하는 것과는 무관합니다.**
+* 일일채굴량은 영웅의 **베이스 스탯과 레벨**에 따라 결정됩니다.
   * ❓[일일골드 채굴량 확인하기](gold-mining-quantity.md)
   * ❓[일일 채집물 채집량 확인하기](gathering-yield.md)
 
-#### ✅ 세트 효과
+***
 
-슬롯에 세팅된 영웅 NFT가 가진 베이스 스탯의 '총 합산' 에 따라 세트 이펙트가 결정됩니다.
+#### ◾ 세트 효과
+
+채굴 세팅 슬롯에 등록된 영웅 NFT가 보유한 **베이스 스탯의 총 합산**에 따라 **세트 효과**가 적용됩니다.
+
+세트 효과는 아래 기준에 따라 계산됩니다.
 
 {% hint style="info" %}
-❓**1차 스탯 추가 계산 :** 최종1차 스탯 값 + n + n2 + n3 ...
+**1차 스탯 추가 계산 :** 최종1차 스탯 값 + n + n2 + n3 ...
 
-❓**2차 스탯 추가 계산 :** 최종 2차 스탯 값 \* ( 1 + ( n% + n2% + n3%...) )
+**2차 스탯 추가 계산 :** 최종 2차 스탯 값 \* ( 1 + ( n% + n2% + n3%...) )
 {% endhint %}
 
-🔹패치 후 (11.09\~)
-
-
+세트 효과에 따른 구체적인 수치는 아래의 **영웅 베이스 스탯 합산별 효과 표**를 통해 확인할 수 있습니다.
 
 | Total Base Stats | Effect                                    |
 | ---------------- | ----------------------------------------- |
@@ -97,36 +119,42 @@ The set effect is determined by the 'total sum' of the base stats of the Hero NF
 | 82               | DEX +3                                    |
 | 83               | CHA +3                                    |
 | 84               | CON +8                                    |
-
-❓패치 전 (\~11.09)
-
-<table><thead><tr><th width="182">베이스 스탯 합산</th><th>효과</th></tr></thead><tbody><tr><td>18</td><td>🔺STR <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>21</td><td>🔺치명타 보너스(CB) <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>30</td><td>🔺DEX <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>40</td><td>🔺공격력(AP) <mark style="color:blue;"><strong>*5%</strong></mark></td></tr><tr><td>45</td><td>🔺스킬 치명타 보너스(SCB) <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>50</td><td>🔺WIS <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>60</td><td>🔺골드 채굴 캡 <mark style="color:blue;"><strong>+10%</strong></mark></td></tr><tr><td>63</td><td>🔺AGI <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>65</td><td>🔺INT <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>68</td><td>🔺골드 채굴 캡 <mark style="color:blue;"><strong>+10%</strong></mark></td></tr><tr><td>72</td><td>🔺치명타 확률(CP) <mark style="color:blue;"><strong>*4%</strong></mark></td></tr><tr><td>76</td><td>🔺CON <mark style="color:blue;"><strong>+3</strong></mark></td></tr><tr><td>80</td><td>🔺스킬 공격력(SAP) <mark style="color:blue;"><strong>*10%</strong></mark></td></tr><tr><td>81</td><td>🔺스킬 치명타 보너스(SCB) <mark style="color:blue;"><strong>*5%</strong></mark></td></tr><tr><td>82</td><td>🔺골드 채굴 캡 <mark style="color:blue;"><strong>+20%</strong></mark></td></tr><tr><td>84</td><td>🔺스킬 치명타 확률(SCP) <mark style="color:blue;"><strong>*20%</strong></mark></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**ヒーローNFTを採掘設定に登録してみてください！**
+### ◾ ヒーロー採掘設定
 
-<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+ヒーローNFTを採掘設定に登録することで、1日の採掘量を増加させることができます。
 
-#### ✅ ヒーロー設定の基本ルール
+<figure><img src="../../../.gitbook/assets/ms5.png" alt=""><figcaption></figcaption></figure>
 
-* 採掘設定に登録できるヒーローNFTは合計4つです。&#x20;
-* ヒーローは設定情報でのみ使用され、直接使用や戦闘への参加とは無関係です。&#x20;
-* 日々の採掘量は、ヒーローのベースステータスとレベルによって決定されます。
-  * ❓[日々のゴールド採掘量を確認する](gold-mining-quantity.md)
-  * ❓[日々の収集物の収集量を確認する](gathering-yield.md)
+***
 
-#### ✅ セット効果
+#### ◾ ヒーロー設定の基本ルール
 
-スロットに設定されたヒーローNFTが持つベースステータスの「合計」に基づいてセットエフェクトが決定されます。
+* 採掘設定に登録できる ヒーローNFTは **最大4体**です。
+* 採掘設定に登録されたヒーローは **設定情報としてのみ使用**され、\
+  ヒーローを直接使用したり、**戦闘に参加することとは無関係**です。
+* 1日の採掘量は、ヒーローの**ベースステータスとレベル**に基づいて決定されます。
+  * ❓ [1日のゴールド採掘量を確認](gold-mining-quantity.md)
+  * ❓ [1日の採集素材量を確認](gathering-yield.md)
+
+***
+
+#### ◾ セット効果
+
+採掘設定スロットに登録された ヒーローNFTが保有する **ベースステータスの総合計**に応じて\
+セット効果が適用されます。
+
+セット効果は、以下の基準で計算されます。
 
 {% hint style="info" %}
-❓**1次ステータス追加計算：**&#x6700;終1次ステータス値 + n + n2 + n3...&#x20;
+**1次ステータス追加計算：**&#x6700;終1次ステータス値 + n + n2 + n3...
 
-❓**2次ステータス追加計算：**&#x6700;終2次ステータス値 \* (1 + (n% + n2% + n3%...))
+**2次ステータス追加計算：**&#x6700;終2次ステータス値 \* (1 + (n% + n2% + n3%...))
 {% endhint %}
 
-🔹パッチ後 (11月9日から\~)&#x20;
+セット効果の詳細な数値は、下記の **ヒーローベースステータス合算別効果表** をご確認ください。
 
 | Total Base Stats | Effect                                    |
 | ---------------- | ----------------------------------------- |
@@ -147,10 +175,8 @@ The set effect is determined by the 'total sum' of the base stats of the Hero NF
 | 82               | DEX +3                                    |
 | 83               | CHA +3                                    |
 | 84               | CON +8                                    |
-
-❓パッチ前 (\~11月9日まで)
-
-<table><thead><tr><th width="217">ベースステータス合計</th><th>効果</th></tr></thead><tbody><tr><td>18</td><td>🔺STR <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>21</td><td>🔺クリティカルヒットボーナス(CB) <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>30</td><td>🔺DEX <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>40</td><td>🔺攻撃力(AP) <mark style="color:blue;"><strong>*5%</strong></mark></td></tr><tr><td>45</td><td>🔺スキルクリティカルヒットボーナス(SCB) <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>50</td><td>🔺WIS <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>60</td><td>🔺ゴールド採掘キャップ <mark style="color:blue;"><strong>+10%</strong></mark></td></tr><tr><td>63</td><td>🔺AGI <mark style="color:blue;"><strong>*3%</strong></mark></td></tr><tr><td>65</td><td>🔺INT <mark style="color:blue;"><strong>+1</strong></mark></td></tr><tr><td>68</td><td>🔺ゴールド採掘キャップ <mark style="color:blue;"><strong>+10%</strong></mark></td></tr><tr><td>72</td><td>🔺クリティカルヒット確率(CP) <mark style="color:blue;"><strong>*4%</strong></mark></td></tr><tr><td>76</td><td>🔺CON <mark style="color:blue;"><strong>+3</strong></mark></td></tr><tr><td>80</td><td>🔺スキル攻撃力(SAP) <mark style="color:blue;"><strong>*10%</strong></mark></td></tr><tr><td>81</td><td>🔺スキルクリティカルヒットボーナス(SCB) <mark style="color:blue;"><strong>*5%</strong></mark></td></tr><tr><td>82</td><td>🔺ゴールド採掘キャップ <mark style="color:blue;"><strong>+20%</strong></mark></td></tr><tr><td>84</td><td>🔺スキルクリティカルヒット確率(SCP) <mark style="color:blue;"><strong>*20%</strong></mark></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 6, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
