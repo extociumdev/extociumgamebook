@@ -16,7 +16,7 @@ You can equip Skill Runes that you have crafted into these slots.
 
 Most materials required to craft Skill Runes can be obtained through [dungeon](../../../gamemode/naraka-dungeon.md) content.
 
-<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -98,7 +98,7 @@ the item acquisition probabilities can be checked in the table below.
 
 스킬 룬 제작에 필요한 대부분의 재료는 [던전](../../../gamemode/naraka-dungeon.md) 콘텐츠를 통해 획득할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -176,7 +176,7 @@ the item acquisition probabilities can be checked in the table below.
 
 スキルルーン制作に必要な ほとんどの素材は、[ダンジョンコンテンツ](../../../gamemode/naraka-dungeon.md)を通じて 入手できます。
 
-<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

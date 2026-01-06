@@ -100,7 +100,7 @@ When a normal Hero is succeeded into a Succession Hero, the following changes ar
 * New skill and Skill Rune slots are added.
 * The Elemental Gem slot is expanded.
 
-<figure><img src="../../../.gitbook/assets/ss5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
 
 Equipping a Skill Rune in the Skill Rune slot\
 activates additional effects when using the Succession skill.
@@ -224,7 +224,7 @@ _👇계승 영웅과 스킬에 대한 자세한 정보는 관련 링크를 통�
 * 새로운 스킬과 스킬 룬 슬롯이 추가됩니다.
 * 속성석 슬롯이 확장됩니다.
 
-<figure><img src="../../../.gitbook/assets/ss5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
 
 스킬 룬 슬롯에 룬을 장착하면 계승 스킬 사용 시 추가 효과가 발동합니다.\
 속성석 슬롯에 엘리멘탈 젬을 장착하면 영웅의 속성을 변경할 수 있습니다.
@@ -352,7 +352,7 @@ _👇 継承ヒーローおよびスキルの詳細は、関連リンクから�
 * 新しいスキルおよびスキルルーンスロットが追加されます。
 * 属性石スロットが拡張されます。
 
-<figure><img src="../../../.gitbook/assets/ss5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
 
 スキルルーンスロットにルーンを装着すると, 継承スキル使用時に 追加効果が発動します。\
 属性石スロットにエレメンタルジェムを装着すると, ヒーローの属性を変更できます。
