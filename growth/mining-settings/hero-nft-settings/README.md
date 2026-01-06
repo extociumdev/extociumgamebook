@@ -20,11 +20,10 @@ You can increase your daily mining output by registering **Hero NFTs** in the Mi
 * Heroes registered in the Mining Setup\
   are **used only for setup calculations**\
   and are **not related to direct hero usage or combat participation**.
-* Daily mining output is determined by\
-  the Hero’s **base stats and level**.
+* Base daily mining limits are determined by the Hero’s **base stats and level**.
 
-❓ [Check Daily Gold Mining Amount](gold-mining-quantity.md)\
-❓ [Check Daily Gathering Resource Amount](gathering-yield.md)
+❓ [Check Base Base Daily Gold Limit](base-daily-gold-limit.md)\
+❓ [Check Base Daily Gathering Limit](base-daily-gathering-limit.md)
 
 ***
 
@@ -80,9 +79,9 @@ Detailed Set Effect values can be checked in the table below:\
 * 채굴 세팅에 등록할 수 있는 **영웅 NFT는 최대 4개**입니다.
 * 채굴 세팅에 등록된 영웅은 **세팅 정보에만 사용되며**,\
   영웅을 직접 사용하거나 **전투에 참여하는 것과는 무관합니다.**
-* 일일채굴량은 영웅의 **베이스 스탯과 레벨**에 따라 결정됩니다.
-  * ❓[일일골드 채굴량 확인하기](gold-mining-quantity.md)
-  * ❓[일일 채집물 채집량 확인하기](gathering-yield.md)
+* 기본 일일 채굴량은 영웅의 **베이스 스탯과 레벨**에 따라 결정됩니다.
+  * ❓[기본 일일 골드 채굴 한도 확인하기](base-daily-gold-limit.md)
+  * ❓[기본 일일 채집물 채굴 한도 확인하기](base-daily-gathering-limit.md)
 
 ***
 
@@ -135,9 +134,9 @@ Detailed Set Effect values can be checked in the table below:\
 * 採掘設定に登録できる ヒーローNFTは **最大4体**です。
 * 採掘設定に登録されたヒーローは **設定情報としてのみ使用**され、\
   ヒーローを直接使用したり、**戦闘に参加することとは無関係**です。
-* 1日の採掘量は、ヒーローの**ベースステータスとレベル**に基づいて決定されます。
-  * ❓ [1日のゴールド採掘量を確認](gold-mining-quantity.md)
-  * ❓ [1日の採集素材量を確認](gathering-yield.md)
+* 基本1日の採掘量は、ヒーローの**ベースステータスとレベル**に応じて決定されます。
+  * ❓ [基本1日ゴールド採掘上限を確認する](base-daily-gold-limit.md)
+  * ❓ [基本1日採集素材採掘上限を確認する](base-daily-gathering-limit.md)
 
 ***
 
