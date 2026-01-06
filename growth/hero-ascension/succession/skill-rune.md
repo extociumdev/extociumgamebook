@@ -4,59 +4,82 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🎖️ Skill Rune
 
-> ## WHAT IS THE SKILL RUNE SYSTEM?
-
 <figure><img src="../../../.gitbook/assets/image (581).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 🔹 **Skill Rune System Guide**
+### **◾** Skill Runes
 
-<figure><img src="../../../.gitbook/assets/image (582).png" alt="" width="375"><figcaption></figcaption></figure>
+Skill Runes are a system that grants additional effects to the third skill of a Succession Hero.\
+After performing Hero Succession, four Skill Rune slots are unlocked for the third skill.\
+You can equip Skill Runes that you have crafted into these slots.
 
-After performing [**Succession**](./#eng), the **third skill of the succeeded hero** will unlock **four Skill Rune Slots**.\
-These slots can be used to equip **Skill Runes, which must be crafted**.\
-Most materials required for crafting Skill Runes can be **obtained from** [**dungeons**](../../../gamemode/naraka-dungeon.md#eng).
+Most materials required to craft Skill Runes can be obtained through [dungeon](../../../gamemode/naraka-dungeon.md) content.
 
-The special effects of Skill Runes **activate when using the third skill**,\
-applying their effect to the **target hit by the skill for a certain duration**.
-
-These effects are **only valid between the user and the affected target**.\
-If a character is under the effect of a Skill Rune, **a visual indicator will appear above their head**, as shown in the image below.
-
-However, **Skill Rune effects do not apply to normal monsters that do not have buffs** (such as increased or decreased damage).\
-In such cases, **no effect will be displayed above the target's head**.
-
-<figure><img src="../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### **✅ Skill Rune Inventory** Management
+### **◾** Skill Rune Effects
 
-<figure><img src="../../../.gitbook/assets/image (520).png" alt=""><figcaption></figcaption></figure>
+The special effects of Skill Runes are activated **when the third skill is used**.
 
-Skill Runes are classified separately from normal items and are **stored in the Rune category of your inventory**.\
-Additionally, they **do not drop upon PK death**, and trading or destruction features will be added in a future update.
+The effects are **applied to enemies hit by the skill** for a certain duration.\
+Skill Rune effects apply only between the user and the affected target.\
+When an effect is applied, an active effect indicator appears above the target’s head.
+
+However, Skill Rune effects do not apply to normal monsters that do not have buff effects\
+(such as damage increase or damage reduction).\
+In this case, no indicator may appear above the target.
+
+<figure><img src="../../../.gitbook/assets/sr0.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### **✅ Skill Rune Equip & Remove**
+### **◾** Skill Rune Inventory Management
 
-<figure><img src="../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+Skill Runes are managed separately from general items.\
+Obtained Skill Runes are stored in the **Rune** **category** of the Inventory.\
+&#xNAN;_&#x53;kill Runes are not dropped upon PK death._
 
-To equip a Skill Rune, go to your **Hero Information** screen and **tap the Skill Rune Slot**.\
-The system will automatically display **compatible runes**, and tapping the **\<Use> button** will instantly equip them.
+<figure><img src="../../../.gitbook/assets/sr1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
+When you select a Skill Rune from Inventory > Rune Category,\
+the **\[Destroy]** button appears at the bottom of the screen.
 
-✔ **Once equipped, the slot’s appearance will change**.\
-✔ **Removing an equipped Skill Rune requires a gold fee**.
+<figure><img src="../../../.gitbook/assets/sr5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
+Tapping the **\[Destroy]** button destroys the selected Skill Rune and grants byproducts.\
+👉 [**Go to Skill Rune Destruction Probability Guide**](skill-rune.md#skill-rune-destruction-probability-guide)
 
-⚔ **Craft and equip powerful Skill Runes to maximize your hero’s combat potential!** 🔥
+<figure><img src="../../../.gitbook/assets/sr7.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔸 **Item Drop Rate Table upon Skill Rune Destruction**
+***
+
+### **◾** Equipping and Removing Skill Runes
+
+To equip a Skill Rune, tap a Skill Rune slot on the Hero Information screen.
+
+<figure><img src="../../../.gitbook/assets/sr2.png" alt=""><figcaption></figcaption></figure>
+
+A list of equippable Skill Runes will be displayed.\
+Tap the **\[Use]** button to equip the Rune immediately.
+
+<figure><img src="../../../.gitbook/assets/sr3.png" alt=""><figcaption></figcaption></figure>
+
+Once equipped, the image of the slot changes.\
+Removing an equipped Skill Rune requires a Gold fee.
+
+<figure><img src="../../../.gitbook/assets/sr4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### **◾** Skill Rune Destruction Probability Guide
+
+When destroying a Skill Rune, \
+the item acquisition probabilities can be checked in the table below.
+
+🔸 **Item Drop Rate Table upon Skill Rune Destruction**
 
 |           | Broken Power |         | Crystal of Destruction |        | Crystal of Courage |        | Rune Fragment |       | EXP Bottle |     |
 | :-------: | :----------: | :-----: | :--------------------: | :----: | :----------------: | :----: | :-----------: | :---: | :--------: | :-: |
@@ -67,48 +90,76 @@ The system will automatically display **compatible runes**, and tapping the **\<
 {% endtab %}
 
 {% tab title="한국어" %}
-#### **🔹 스킬 룬 시스템 안내**
+### **◾ 스킬 룬**
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FrhATO6akr1WWMPOdTNbg%252Fimage.png%3Falt%3Dmedia%26token%3D17ea0df3-5dca-4109-8978-9892d48df5f1&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cef73653&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+스킬 룬은 계승된 영웅의 **세 번째 스킬**에 추가 효과를 부여하는 시스템입니다.\
+영웅을 계승하면, 세 번째 스킬에 **4개의 스킬 룬 슬롯**이 생성됩니다.\
+이 슬롯에는 직접 제작한 스킬 룬을 장착할 수 있습니다.
 
-영웅을 [**계승**](https://extocium.gitbook.io/extocium-guide/growth/powering-up-the-hero/succession#undefined-1)**한 후**, 계승된 영웅의 **3차 스킬에 4개의 스킬 룬 슬롯**이 생성됩니다. 이 슬롯에는 **직접 제작한 스킬 룬을 장착**할 수 있으며, 대부분의 스킬 룬 제작 재료는 [**던전**](https://extocium.gitbook.io/extocium-guide/gamemode/naraka-dungeon#undefined-1)**에서 획득**할 수 있습니다.
+스킬 룬 제작에 필요한 대부분의 재료는 [던전](../../../gamemode/naraka-dungeon.md) 콘텐츠를 통해 획득할 수 있습니다.
 
-스킬 룬의 특수 효과는 **3차 스킬을 사용함으로써 발동**되며, **스킬에 피격된 대상에게 일정 시간 동안 적용**됩니다.
-
-이 효과는 **사용자와 피격 대상 사이에서만 유효**하며, 스킬 룬 효과가 적용된 캐릭터는 **아래 그림과 같이 머리 위에 활성화된 효과가 표시**됩니다.
-
-단, **버프 효과(데미지 증가, 데미지 감소 등)가 없는 일반 몬스터에게는 룬 효과가 적용되지 않으며**, 이 경우, 대상의 머리 위에는 **아무런 표시도 나타나지 않을 수 있습니다.**
-
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252F28uAejJcuPZl47XocyWi%252Fimage.png%3Falt%3Dmedia%26token%3Df8df3ce3-6c78-44ca-9127-7d9d6408105a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2feac604&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### **✅ 스킬 룬 인벤토리 관리**
+### **◾ 스킬 룬 효과**
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FMTX4QayXH33EZVpkFUVE%252Fimage.png%3Falt%3Dmedia%26token%3Dd45eb6bd-2975-4c5a-8b5c-b6530264c608&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1d81bfa6&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+스킬 룬의 특수 효과는 **세 번째 스킬 사용 시** 발동됩니다.
 
-스킬 룬은 **일반 아이템과 분류가 다르며**, **전용 인벤토리(룬 카테고리)에 저장**됩니다. 또한, **PK 사망 시에도 드롭되지 않으며, 룬 거래 및 파괴 시스템은 추후 업데이트 예정**입니다.
+효과는 해당 스킬에 **피격된 대상**에게 일정 시간 동안 적용됩니다.\
+스킬 룬 효과는 사용자와 피격 대상 사이에서만 적용되며,\
+효과가 적용된 대상은 머리 위에 활성화 표시가 나타납니다.
+
+단, 버프 효과(데미지 증가, 데미지 감소 등)가 없는 일반 몬스터에게는 스킬 룬 효과가 적용되지 않습니다.\
+이 경우, 대상의 머리 위에는 별도의 표시가 나타나지 않을 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/sr0.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### **✅ 스킬 룬 장착 및 해제**
+### **◾ 스킬 룬 인벤토리 관리**
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FU0h4ukBvkcknH4GjFy3b%252Fimage.png%3Falt%3Dmedia%26token%3Dcaf312ab-eb8c-4c47-bafb-a9d911ae4b56&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=638c0444&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+스킬 룬은 일반 아이템과 분리되어 관리됩니다.\
+획득한 스킬 룬은 인벤토리의 **룬 카테고리**에 저장됩니다.\
+&#xNAN;_&#xC2A4;킬 룬은 PK 사망 시에도 드롭되지 않습니다._
 
-스킬 룬을 장착하려면, **영웅 정보 창에서 스킬 룬 슬롯을 터치**하세요. 그러면, **장착 가능한 룬이 자동으로 표시**되며, **<사용> 버튼을 터치하면 즉시 장착**됩니다.
+<figure><img src="../../../.gitbook/assets/sr1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252F3UUaDX75FZ7vRRssiXX4%252Fimage.png%3Falt%3Dmedia%26token%3D1f1432fb-d986-4735-966b-b955cbf8cd2c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a32e4bc1&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+인벤토리 > 룬 카테고리에서 스킬 룬을 선택하면, 화면 하단에 **\[파괴]** 버튼이 표시됩니다.
 
-✔ **장착이 완료되면, 슬롯의 이미지가 변경**됩니다. \
-✔ **장착된 스킬 룬을 해제하려면 골드 수수료가 필요**합니다.
+<figure><img src="../../../.gitbook/assets/sr5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FqpQStysJR79Awek05u9u%252Fimage.png%3Falt%3Dmedia%26token%3D7baf40a8-e91c-4e49-b67a-604f71fbc775&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c6e74ea9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+**\[파괴]** 버튼을 터치하면 선택한 스킬 룬이 파괴되며, 부산물을 획득할 수 있습니다.\
+👉 [**스킬 룬 파괴 확률 안내 바로가기**](skill-rune.md#undefined-6)
 
-⚔ **강력한 스킬 룬을 제작하고 장착하여, 영웅의 전투력을 극대화하세요!** 🔥
+<figure><img src="../../../.gitbook/assets/sr7.png" alt=""><figcaption></figcaption></figure>
 
-#### 🔸 스킬룬 파괴 시 아이템 확률표&#x20;
+***
 
-|     | 부서진 힘 |         | 파괴의 결정 |        | 용기의 결정 |        | 룬의 조각 |       | EXP 보틀 |     |
+### **◾ 스킬 룬 장착 및 해제**
+
+스킬 룬을 장착하려면, 영웅 정보 화면에서 스킬 룬 슬롯을 터치하세요.
+
+<figure><img src="../../../.gitbook/assets/sr2.png" alt=""><figcaption></figcaption></figure>
+
+장착 가능한 스킬 룬 목록이 표시되며, **\[사용]** 버튼을 터치하면 즉시 장착됩니다.
+
+<figure><img src="../../../.gitbook/assets/sr3.png" alt=""><figcaption></figcaption></figure>
+
+스킬 룬 장착 시 해당 슬롯의 이미지가 변경됩니다.\
+장착된 스킬 룬을 해제할 경우, **골드 수수료**가 필요합니다.
+
+<figure><img src="../../../.gitbook/assets/sr4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### **◾ 스킬 룬 파괴 확률 안내**
+
+스킬 룬을 파괴할 경우, 아이템 획득 확률은 아래 확률표를 통해 확인할 수 있습니다.
+
+🔸 **스킬룬 파괴 시 아이템 확률표**&#x20;
+
+| 스킬룬 | 부서진 힘 |         | 파괴의 결정 |        | 용기의 결정 |        | 룬의 조각 |       | EXP 보틀 |     |
 | :-: | :---: | :-----: | :----: | :----: | :----: | :----: | :---: | :---: | :----: | :-: |
 |  사각 |  100% |  2 - 10 |   20%  |  1 - 3 |   20%  |  1 - 3 |  100% | 1 - 2 |   5%   |  1  |
 |  오각 |  100% |  5 - 15 |   30%  |  2 - 6 |   30%  |  2 - 6 |  100% | 2 - 3 |   6%   |  1  |
@@ -117,46 +168,79 @@ The system will automatically display **compatible runes**, and tapping the **\<
 {% endtab %}
 
 {% tab title="日本語" %}
-#### **🔹 スキルルーンシステム ガイド**
+### **◾** スキルルーン
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FrhATO6akr1WWMPOdTNbg%252Fimage.png%3Falt%3Dmedia%26token%3D17ea0df3-5dca-4109-8978-9892d48df5f1&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cef73653&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+スキルルーンは、継承されたヒーローの **3番目のスキルに 追加効果を付与**するシステムです。\
+ヒーローを継承すると、3番目のスキルに 4つのスキルルーンスロットが解放されます。\
+これらのスロットには、自分で制作したスキルルーンを 装着できます。
 
-**继承後、**[**继承**](https://extocium.gitbook.io/extocium-guide/growth/powering-up-the-hero/succession#ri-ben-yu)**された英雄の第3スキルには4つのスキルルーンスロットが解放**されます。 これらのスロットには**作成したスキルルーンを装着**することができ、 スキルルーンの材料のほとんどは[**ダンジョン**](https://extocium.gitbook.io/extocium-guide/gamemode/naraka-dungeon#ri-ben-yu)**で入手可能**です。
+スキルルーン制作に必要な ほとんどの素材は、[ダンジョンコンテンツ](../../../gamemode/naraka-dungeon.md)を通じて 入手できます。
 
-スキルルーンの特殊効果は、**第3スキルを使用することで発動**し、 **スキルが命中した対象に一定時間適用されます**。
-
-この効果は**自分と攻撃を受けた対象の間でのみ有効**であり、 スキルルーンの効果が適用されたキャラクターの**頭上には、その効果が表示**されます。（下記の画像参照）
-
-ただし、**ダメージ増加・ダメージ軽減といったバフを持たない通常モンスターには、ルーン効果が適用されません**。 その場合、**対象の頭上に何も表示されないことがあります**。
-
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### **✅ スキルルーンのインベントリ管理**
+### **◾** スキルルーン効果
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FMTX4QayXH33EZVpkFUVE%252Fimage.png%3Falt%3Dmedia%26token%3Dd45eb6bd-2975-4c5a-8b5c-b6530264c608&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1d81bfa6&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+スキルルーンの特殊効果は、**3番目のスキル使用時**に発動します。
 
-スキルルーンは **通常のアイテムとは別カテゴリとして管理され、ルーン専用インベントリに保管** されます。 また、**PK死亡時でもドロップせず**、ルーンの取引や破壊機能は今後のアップデートで追加予定です。
+効果は、スキルが命中した対象に 一定時間適用されます。\
+スキルルーン効果は、使用者と命中した対象の間でのみ 適用されます。\
+効果が適用されると、対象の頭上に 有効化された効果表示が現れます。
+
+ただし、ダメージ増加やダメージ減少などの バフ効果を持たない\
+通常モンスターには、スキルルーン効果は適用されません。
+
+この場合、対象の頭上に 表示が出ないことがあります。
+
+<figure><img src="../../../.gitbook/assets/sr0.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### **✅ スキルルーンの装着と解除**
+### **◾** スキルルーンインベントリ管理
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FU0h4ukBvkcknH4GjFy3b%252Fimage.png%3Falt%3Dmedia%26token%3Dcaf312ab-eb8c-4c47-bafb-a9d911ae4b56&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=638c0444&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+スキルルーンは、一般アイテムとは別に管理されます。\
+獲得したスキルルーンは、インベントリの **ルーンカテゴリ**ーに保存されます。\
+スキルルーンは、PKによる死亡時にも ドロップされません。
 
-スキルルーンを装着するには、**英雄情報画面でスキルルーンスロットをタップ** してください。 システムが **装着可能なルーンを自動的に表示** し、**<装着> ボタン** をタップすると即座に装着されます。
+<figure><img src="../../../.gitbook/assets/sr1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252F3UUaDX75FZ7vRRssiXX4%252Fimage.png%3Falt%3Dmedia%26token%3D1f1432fb-d986-4735-966b-b955cbf8cd2c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a32e4bc1&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+インベントリ > ルーンカテゴリーで スキルルーンを選択すると、\
+画面下部に **\[破壊]** ボタンが表示されます。
 
-✔ **装着完了後、スロットの見た目が変化** します。 \
-✔ **装着したスキルルーンを解除するにはゴールド手数料が必要** です。
+<figure><img src="../../../.gitbook/assets/sr5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://extocium.gitbook.io/extocium-guide/~gitbook/image?url=https%3A%2F%2F2034937768-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkoBEJEqnxv6otqQj6uFt%252Fuploads%252FqpQStysJR79Awek05u9u%252Fimage.png%3Falt%3Dmedia%26token%3D7baf40a8-e91c-4e49-b67a-604f71fbc775&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c6e74ea9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+**\[破壊]** ボタンをタップすると、選択したスキルルーンが破壊され、副産物を獲得できます。
 
-⚔ **強力なスキルルーンを製作・装着し、英雄の戦闘力を最大限に引き出しましょう！** 🔥
+👉 [**スキルルーン破壊確率案内はこちら**](skill-rune.md#sukirurn-2)
 
-#### 🔸 スキルルーン破壊時のアイテム獲得確率表
+<figure><img src="../../../.gitbook/assets/sr7.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### **◾** スキルルーン装着および解除
+
+スキルルーンを装着するには、ヒーロー情報画面で スキルルーンスロットをタップしてください。
+
+<figure><img src="../../../.gitbook/assets/sr2.png" alt=""><figcaption></figcaption></figure>
+
+装着可能なスキルルーンの一覧が表示されます。\
+\[**使用**] ボタンをタップすると、即座に装着されます。
+
+<figure><img src="../../../.gitbook/assets/sr3.png" alt=""><figcaption></figcaption></figure>
+
+スキルルーン装着後は、該当スロットの画像が変更されます。\
+装着中のスキルルーンを解除する場合、ゴールド手数料が必要です。
+
+<figure><img src="../../../.gitbook/assets/sr4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### **◾** スキルルーン破壊確率案内
+
+スキルルーンを破壊した際の アイテム獲得確率は、下記の確率表で確認できます。
+
+🔸 **スキルルーン破壊時アイテム確率表**
 
 |     | 壊れた力 |         | 破壊の結晶 |        | 勇気の結晶 |        | ルーンの欠片 |       | EXPボトル |     |
 | :-: | :--: | :-----: | :---: | :----: | :---: | :----: | :----: | :---: | :----: | :-: |
@@ -167,3 +251,4 @@ The system will automatically display **compatible runes**, and tapping the **\<
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 6, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
