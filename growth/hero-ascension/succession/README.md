@@ -6,75 +6,110 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-#### ⚔️ **Hero Succession System Guide**
+### ◾ Hero Succession
 
-**💡 Succession is a core system that maximizes a hero’s growth potential!**\
-Through this system, you can **unlock the hero’s third skill slot**, granting them even greater combat capabilities.
+Hero Succession is a core system that allows your Hero to grow to the next stage.
 
-**🔥 Third Skill & Skill Runes**
+Through Succession, you can unlock the Hero’s third skill slot\
+and gain access to more powerful combat abilities.
 
-* The **third skill unlocked through Succession is always an active skill**.
-* This skill can be enhanced by equipping **Skill Runes**, which grant special effects and allow for more strategic customization.
+***
 
-**❓ How Succession Works**
+### ◾ Succession Effects
 
-* When a hero undergoes Succession, **a new hero is layered over one of the seven base heroes**.
+When a Hero undergoes Succession, the following changes occur.
 
-{% hint style="info" %}
-- Just like standard hero summoning, **a random hero from the Succession hero pool will be obtained**.
-- Additionally, the newly acquired hero’s **skill pool will be rolled to randomly determine one active skill**.
-{% endhint %}
+* The third skill slot is unlocked.
+* One new active skill is acquired.
+* Additional Skill Rune slots and Elemental Gem slots are unlocked.
 
-👇 **For more details on Succession heroes and skills, click the link below!**
+All Succession skills are active skills, and equipping Skill Runes grants additional effects.
+
+***
+
+### ◾ Succession System Overview
+
+Hero Succession works by overlaying a new Hero based on the seven base Heroes.\
+When Succession is performed, one random Hero is obtained from the Succession Hero pool.
+
+In addition,\
+one random active skill is obtained from the acquired Hero’s skill pool.
+
+_👇 For more detailed information about Succession Heroes and skills,_ \
+_please check the related links._
 
 {% content-ref url="../../heroes/succession-heroes/" %}
 [succession-heroes](../../heroes/succession-heroes/)
 {% endcontent-ref %}
 
-#### ⚔️ **How to Perform Hero Succession**
+***
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+### ◾ How to Proceed with Succession
 
-👉 **To initiate Succession**, first, travel to the [**Magic Shop**](../../../field-info/rotten-hill/magic-shop/) **in** [**Rotten hill**](../../../field-info/rotten-hill/#eng).\
-Then, proceed to the [**Ashurbanipal Library**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/#eng) from the Magic Shop,\
-where you can perform Succession through [**NPC Seheia**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#seheiah-seheia).
+Hero Succession can be performed at the following location.
 
+* Rottenhill > Magic Shop > **Ashurbanipal Library**
 
+<figure><img src="../../../.gitbook/assets/ss1 (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+Talk to the NPC **Seheiah** in the Ashurbanipal Library.
 
-👉 **After speaking with Seheia, tap the designated slot to select the hero you wish to succeed.**
+<figure><img src="../../../.gitbook/assets/ss0.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+After speaking with Seheiah,&#x20;the Succession guide window will appear.
 
-**❓ Succession Requirements**
+<figure><img src="../../../.gitbook/assets/ss2.png" alt=""><figcaption></figcaption></figure>
 
-* The hero must be at least **Level 45**.
-* The hero must have a **Base Stat of 17 or higher**.
+Tap the **checked slot** in the guide window \
+to move to the screen where you can select a Hero for Succession.
+
+<figure><img src="../../../.gitbook/assets/ss3.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 {% hint style="info" %}
-✅ **Required Materials for Succession**
+### Hero Succession Requirements
 
-1️⃣ **Primordial Horn × 2**\
-**2️⃣ Ancient Arena Seals × 10**\
-3️⃣ **36 million Gold**
+To proceed with Hero Succession, the following conditions must be met.
+
+* Hero Level 45 or higher
+* Base Stat 17 or higher
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 **Once all materials are prepared, tap the 'Succession' button to proceed!**
+### ◾ Required Materials for Succession
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+The following materials are required for Hero Succession.
 
-👉 **Succession Complete!**\
-For example, if the hero **Tamuz** has succeeded into **Nanna or Indra**:
+* Primordial Horn × 2
+* Ancient Arena Seal × 10
+* Gold 36,000,000
 
-* **The Succession Skill Slot will be unlocked**.
-* **New Skill, Skill Rune Slot, and Attribute Gem Slot will be expanded**.
-* **Equipping a Skill Rune in the Skill Rune Slot** will grant additional effects when using the Succession skill.
-* **Placing an Elemental Gem in the Attribute Gem Slot** will allow you to change the hero’s element.
+Once all required materials are prepared, tap the **\[Succession]** button to proceed.
 
-👇 **For more details on slots and their effects, click the link below!**
+<figure><img src="../../../.gitbook/assets/ss4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ Succession Results
+
+When a normal Hero is succeeded into a Succession Hero, the following changes are applied.
+
+* The Succession skill slot is unlocked.
+* New skill and Skill Rune slots are added.
+* The Elemental Gem slot is expanded.
+
+<figure><img src="../../../.gitbook/assets/ss5.png" alt=""><figcaption></figcaption></figure>
+
+Equipping a Skill Rune in the Skill Rune slot\
+activates additional effects when using the Succession skill.
+
+Equipping an Elemental Gem in the Elemental Gem slot\
+allows you to change the Hero’s element.
+
+_👇 For more detailed information about slots and additional effects,_\
+_please check the related links._
 
 {% content-ref url="skill-rune.md" %}
 [skill-rune.md](skill-rune.md)
@@ -88,200 +123,264 @@ For example, if the hero **Tamuz** has succeeded into **Nanna or Indra**:
 [elemental-gem-slot.md](elemental-gem-slot.md)
 {% endcontent-ref %}
 
+***
 
+### ◾ Appearance Change Guide
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+If you wish to keep the original appearance after Succession,\
+tap the **\[Costume]** button at the top to use the existing skin.
 
-{% hint style="info" %}
-❓Touch the **"Costume"** button at the top to use the existing skin.
-{% endhint %}
+<figure><img src="../../../.gitbook/assets/ss6.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="한국어" %}
-#### ⚔️ 영웅 계승 시스템 안내
+### ◾ 영웅 계승
 
-**💡 영웅 계승은 영웅의 성장 잠재력을 극대화하는 핵심 시스템입니다!**\
-이를 통해 **영웅의 세 번째 스킬 슬롯을 개방**할 수 있으며, 강력한 전투 능력을 추가로 확보할 수 있습니다.
+영웅 계승은 영웅을 한 단계 더 성장시키는 핵심 시스템입니다.
 
-**🔥 세 번째 스킬과 스킬 룬**
+계승을 통해 영웅의 **세 번째 스킬 슬롯**을 개방할 수 있으며,\
+더 강력한 전투 능력을 사용할 수 있습니다.
 
-* 계승을 통해 개방되는 **세 번째 스킬은 모두 액티브 스킬**로 구성됩니다.
-* 해당 스킬에는 **특수 효과를 부여할 수 있는 스킬 룬**을 장착할 수 있어, 전투 스타일에 맞춘 전략적 운용이 가능합니다.
+***
 
-**❓ 계승 방식**
+### ◾ 계승 효과
 
-* 영웅이 계승되면, **기초 영웅 7종을 기반으로 새로운 영웅이 덧씌워지는 방식**으로 진행됩니다.
+영웅이 계승되면 다음과 같은 변화가 발생합니다.
 
-{% hint style="info" %}
-- 새로운 영웅을 획득할 때는 기존 영웅 소환 방식과 동일하게, **계승 영웅 풀에서 랜덤한 영웅이 루팅**됩니다.
-- 또한, 획득한 영웅이 가진 **스킬 풀에서 랜덤한 액티브 스킬 1종이 추가로 루팅**됩니다.
-{% endhint %}
+* 세 번째 스킬 슬롯이 개방됩니다.
+* 새로운 액티브 스킬 1종을 획득합니다.
+* 스킬 룬 슬롯과 속성석 슬롯이 추가로 개방됩니다.
 
-👇 **계승 영웅과 스킬에 대한 더 자세한 정보를 원한다면, 아래 링크를 확인하세요!**
+계승 스킬은 모두 **액티브 스킬**이며, 스킬 룬을 장착해 추가 효과를 부여할 수 있습니다.
+
+***
+
+### ◾ 계승 방식 안내
+
+영웅 계승은 기초 영웅 7종을 기반으로 새로운 영웅이 덧씌워지는 방식으로 진행됩니다.\
+계승을 진행하면, 계승 영웅 풀에서 **무작위 영웅 1종**을 획득합니다.\
+또한, 해당 영웅이 가진 스킬 풀 중 **무작위 액티브 스킬 1종**이 함께 획득됩니다.
+
+_👇계승 영웅과 스킬에 대한 자세한 정보는 관련 링크를 통해 확인할 수 있습니다._
 
 {% content-ref url="../../heroes/succession-heroes/" %}
 [succession-heroes](../../heroes/succession-heroes/)
 {% endcontent-ref %}
 
-#### ⚔️ **영웅 계승 방법 안내**
+***
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+### ◾ 계승 진행 방법
 
-👉 **영웅을 계승하려면**, 먼저 [**로튼힐**](../../../field-info/rotten-hill/#undefined-1)**의** [**마법상점**](../../../field-info/rotten-hill/magic-shop/)으로 이동하세요.\
-그 후, 마법상점에서 [**아슈르바니팔 도서관**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/#undefined-1)으로 진입하면,\
-그곳에 있는 [**NPC 세헤이아**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#seheiah-seheia)를 통해 영웅 계승을 진행할 수 있습니다.
+영웅 계승은 아래 위치에서 진행할 수 있습니다.
 
+* 로튼힐 > 마법 상점 > **아슈르바니팔 도서관**
 
+<figure><img src="../../../.gitbook/assets/ss1 (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+아슈르바니팔 도서관에 있는 NPC **세헤이아**와 대화하세요.
 
-👉 **세헤이아와 대화한 후**, 체크 표시된 슬롯을 터치하여 **계승할 영웅을 선택**하세요.
+<figure><img src="../../../.gitbook/assets/ss0.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+세헤이아와 대화하면 계승 안내 창이 표시됩니다.
 
-**❓ 계승 조건**
+<figure><img src="../../../.gitbook/assets/ss2.png" alt=""><figcaption></figcaption></figure>
 
-* 영웅의 **레벨이 45 이상**이어야 합니다.
-* **베이스 스탯이 17 이상**이어야 합니다.
+안내 창에서 **체크 표시된 슬롯**을 터치하면, 계승할 영웅을 선택할 수 있는 화면으로 이동합니다.
+
+<figure><img src="../../../.gitbook/assets/ss3.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 {% hint style="info" %}
-**✅**&#xACC4;승에 필요한 재료
+### 영웅 계승 조건
 
-1️⃣ **태초의 뿔나팔 × 2**\
-2️⃣ **고대 아레나 인장 × 10**\
-3️⃣ **골드 3,600만**
+영웅 계승을 진행하려면 아래 조건을 충족해야 합니다.
+
+* 영웅 레벨 45 이상
+* 베이스 스탯 17 이상
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 **모든 재료가 준비되었으면, ‘계승’ 버튼을 터치하여 계승을 진행하세요!**
+### ◾ 계승에 필요한 재료
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+영웅 계승에는 다음 재료가 필요합니다.
 
-👉 **계승 완료!**\
-예를 들어, ‘탐무즈’ 영웅이 **‘난나’ 혹은 ‘인드라’로 계승되었다면**:
+* 태초의 뿔나팔 × 2
+* 고대 아레나 인장 × 10
+* 골드 36,000,000
 
-* **계승 스킬 슬롯이 개방**됩니다.
-* **새로운 스킬과 스킬 룬 슬롯, 속성석 슬롯이 확장**됩니다.
-* **스킬 룬 슬롯**에 룬을 장착하면, 계승 스킬 사용 시 추가 효과가 발동됩니다.
-* **속성석 슬롯**에 엘리멘탈 젬을 장착하면, 영웅의 속성을 변경할 수 있습니다.
+모든 재료가 준비되면 **\[계승]** 버튼을 터치하여 계승을 진행할 수 있습니다.
 
-👇 **슬롯과 추가 효과에 대한 자세한 정보를 확인하려면, 아래 링크를 클릭하세요!**
+<figure><img src="../../../.gitbook/assets/ss4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ 계승 결과
+
+일반 영웅이 계승 영웅으로 계승되면, 다음과 같은 변화가 적용됩니다.
+
+* 계승 스킬 슬롯이 개방됩니다.
+* 새로운 스킬과 스킬 룬 슬롯이 추가됩니다.
+* 속성석 슬롯이 확장됩니다.
+
+<figure><img src="../../../.gitbook/assets/ss5.png" alt=""><figcaption></figcaption></figure>
+
+스킬 룬 슬롯에 룬을 장착하면 계승 스킬 사용 시 추가 효과가 발동합니다.\
+속성석 슬롯에 엘리멘탈 젬을 장착하면 영웅의 속성을 변경할 수 있습니다.
+
+_👇 슬롯과 추가 효과에 대한 자세한 정보는 관련 링크를 통해 확인할 수 있습니다._
 
 {% content-ref url="skill-rune.md" %}
 [skill-rune.md](skill-rune.md)
 {% endcontent-ref %}
 
-
-
 {% content-ref url="skill-rune-crafting.md" %}
 [skill-rune-crafting.md](skill-rune-crafting.md)
 {% endcontent-ref %}
-
-
 
 {% content-ref url="elemental-gem-slot.md" %}
 [elemental-gem-slot.md](elemental-gem-slot.md)
 {% endcontent-ref %}
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+***
 
-{% hint style="info" %}
-❓**상단의 '외형변경' 버튼을 터치하면 기존 스킨을 사용할 수도 있습니다.**
-{% endhint %}
+### ◾ 외형 변경 안내
+
+계승 후에도 기존 영웅의 외형을 유지하고 싶다면, \
+상단의 **\[외형 변경]** 버튼을 터치하여 기존 스킨을 사용할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/ss6.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="日本語" %}
-#### ⚔️ **英雄継承システム ガイド**
+### ◾ ヒーロー継承
 
-**💡 継承は、英雄の成長ポテンシャルを最大限に引き出す重要なシステムです！**\
-このシステムを利用すると、**英雄の第3スキルスロットを解放**し、さらなる戦闘能力を獲得できます。
+ヒーロー継承は、ヒーローを一段階成長させるための中核となるシステムです。
 
-**🔥 第3スキルとスキルルーン**
+継承を行うことで、\
+ヒーローの**3番目のスキルスロット**が解放され、\
+より強力な戦闘能力を使用できるようになります。
 
-* **継承によって解放される第3スキルは、すべてアクティブスキル**です。
-* このスキルには**スキルルーンを装着**することで、特殊効果を付与し、戦略的な運用が可能になります。
+***
 
-**❓ 継承の仕組み**
+### ◾ 継承効果
 
-* 英雄が継承されると、**7種類の基礎英雄の上に新しい英雄が上書きされる**形で適用されます。
+ヒーローが継承されると、以下の変化が発生します。
 
-{% hint style="info" %}
-- 新しい英雄を獲得する際は、通常の英雄召喚と同様に、**継承英雄プールからランダムに英雄が選ばれます**。
-- また、獲得した英雄の**スキルプールからランダムにアクティブスキル1種が選択**されます。
-{% endhint %}
+* 3番目のスキルスロットが解放されます。
+* 新しいアクティブスキルを1種獲得します。
+* スキルルーンスロットと属性石スロットが追加で解放されます。
 
-👇 **継承英雄とスキルの詳細情報は、下記のリンクからご確認ください！**
+継承スキルはすべてアクティブスキルであり、\
+スキルルーンを装着することで追加効果を付与できます。
+
+***
+
+### ◾ 継承方式の案内
+
+ヒーロー継承は、7種の基礎ヒーローを基準として、\
+新しいヒーローが上書きされる方式で進行されます。
+
+継承を行うと、継承ヒーロープールから ランダムでヒーロー1種を獲得します。
+
+また、\
+獲得したヒーローが持つスキルプールの中から、\
+ランダムなアクティブスキル1種を同時に獲得します。
+
+_👇 継承ヒーローおよびスキルの詳細は、関連リンクから確認できます。_
 
 {% content-ref url="../../heroes/succession-heroes/" %}
 [succession-heroes](../../heroes/succession-heroes/)
 {% endcontent-ref %}
 
-#### ⚔️ **英雄継承の方法**
+***
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+### ◾ 継承の進行方法
 
-👉 **継承を行うには、まず**[**ロッテンヒル**](../../../field-info/rotten-hill/#ri-ben-yu)**の「**[**マジックショップ**](../../../field-info/rotten-hill/magic-shop/)**」へ向かいましょう。**\
-その後、マジックショップから[**アシュルバニパル図書館**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/#ri-ben-yu)へ移動し、\
-[**NPC「セヘイア」**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#seheiah-seheia)を通じて継承を行うことができます。
+ヒーロー継承は、以下の場所で行うことができます。
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+* ロトンヒル > 魔法ショップ > **アシュルバニパル図書館**
 
-👉 **セヘイアに話しかけた後、指定されたスロットをタップして継承する英雄を選択してください。**
+<figure><img src="../../../.gitbook/assets/ss1 (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+アシュルバニパル図書館にいる NPC **セヘイア**と会話してください。
 
+<figure><img src="../../../.gitbook/assets/ss0.png" alt=""><figcaption></figcaption></figure>
 
+**セヘイア**と会話すると、継承案内ウィンドウが表示されます。
 
-**❓ 継承の条件**
+<figure><img src="../../../.gitbook/assets/ss2.png" alt=""><figcaption></figcaption></figure>
 
-* **英雄のレベルが45以上**であること。
-* **ベースステータスが17以上**であること。
+案内ウィンドウで チェック表示されたスロットをタップすると、\
+継承するヒーローを選択する画面に移動します。
+
+<figure><img src="../../../.gitbook/assets/ss3.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 {% hint style="info" %}
-✅ **継承に必要な素材**
+### ヒーロー継承条件
 
-1️⃣ **太初の角笛 × 2** \
-**2️⃣ 古代アリーナの印 × 10**\
-**3️⃣ 3600万ゴールド**
+ヒーロー継承を行うには、以下の条件を満たす必要があります。
+
+* ヒーローレベル **45** 以上
+* ベースステータス **17** 以上
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 **すべての素材が揃ったら、「継承」ボタンをタップして進めましょう！**
+### ◾ 継承に必要な素材
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+ヒーロー継承には、以下の素材が必要です。
 
-👉 **継承完了！**\
-例えば、**タムズ**の英雄が**ナンナまたはインドラに継承された場合**:
+* 太初の角笛 × 2
+* 古代アリーナの印章 × 10
+* ゴールド 36,000,000
 
-* **継承スキルスロットが解放**されます。
-* **新たなスキル、スキルルーンスロット、および属性石スロットが拡張**されます。
-* **スキルルーンスロットにルーンを装着**すると、継承スキル使用時に追加効果が発動します。
-* **属性石スロットにエレメンタルジェムを装着**すると、英雄の属性を変更できます。
+すべての素材が揃っている場合、**\[継承]** ボタンをタップして 継承を進めることができます。
 
-👇 **スロットの詳細とその効果について詳しく知りたい場合は、以下のリンクをクリックしてください！**
+<figure><img src="../../../.gitbook/assets/ss4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ 継承結果
+
+一般ヒーローが 継承ヒーローとして継承されると、以下の変化が適用されます。
+
+* 継承スキルスロットが解放されます。
+* 新しいスキルおよびスキルルーンスロットが追加されます。
+* 属性石スロットが拡張されます。
+
+<figure><img src="../../../.gitbook/assets/ss5.png" alt=""><figcaption></figcaption></figure>
+
+スキルルーンスロットにルーンを装着すると, 継承スキル使用時に 追加効果が発動します。\
+属性石スロットにエレメンタルジェムを装着すると, ヒーローの属性を変更できます。
+
+_👇 スロットおよび追加効果の詳細は、関連リンクから確認できます。_
 
 {% content-ref url="skill-rune.md" %}
 [skill-rune.md](skill-rune.md)
 {% endcontent-ref %}
 
-
-
 {% content-ref url="skill-rune-crafting.md" %}
 [skill-rune-crafting.md](skill-rune-crafting.md)
 {% endcontent-ref %}
-
-
 
 {% content-ref url="elemental-gem-slot.md" %}
 [elemental-gem-slot.md](elemental-gem-slot.md)
 {% endcontent-ref %}
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+***
 
-{% hint style="info" %}
-❓上部の\*\*「外見変更」\*\*ボタンをタッチすると、既存のスキンを使用することもできます。
-{% endhint %}
+### ◾ 外見変更案内
+
+継承後も\
+既存ヒーローの外見を維持したい場合は、上部の **\[外見変更]** ボタンをタップして\
+既存スキンを使用できます。
+
+<figure><img src="../../../.gitbook/assets/ss6.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 6, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
