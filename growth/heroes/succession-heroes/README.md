@@ -29,8 +29,8 @@ even the same Succession Hero can exhibit different play styles and combat flows
 
 👇 Learn more about the **Succession System** through the link below.
 
-{% content-ref url="../../powering-up-the-hero/succession/" %}
-[succession](../../powering-up-the-hero/succession/)
+{% content-ref url="../../hero-ascension/succession/" %}
+[succession](../../hero-ascension/succession/)
 {% endcontent-ref %}
 
 ***
@@ -73,8 +73,8 @@ even the same Succession Hero can exhibit different play styles and combat flows
 
 👇 계승 시스템은 아래 링크를 통해 더 자세하게 확인해보세요.&#x20;
 
-{% content-ref url="../../powering-up-the-hero/succession/" %}
-[succession](../../powering-up-the-hero/succession/)
+{% content-ref url="../../hero-ascension/succession/" %}
+[succession](../../hero-ascension/succession/)
 {% endcontent-ref %}
 
 ***
@@ -120,8 +120,8 @@ even the same Succession Hero can exhibit different play styles and combat flows
 
 👇 継承システムの詳細は、以下のリンクからご確認ください。
 
-{% content-ref url="../../powering-up-the-hero/succession/" %}
-[succession](../../powering-up-the-hero/succession/)
+{% content-ref url="../../hero-ascension/succession/" %}
+[succession](../../hero-ascension/succession/)
 {% endcontent-ref %}
 
 ***

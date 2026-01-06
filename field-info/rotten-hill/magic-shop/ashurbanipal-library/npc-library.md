@@ -10,8 +10,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../../../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../../growth/powering-up-the-hero/succession/" %}
-[succession](../../../../growth/powering-up-the-hero/succession/)
+{% content-ref url="../../../../growth/hero-ascension/succession/" %}
+[succession](../../../../growth/hero-ascension/succession/)
 {% endcontent-ref %}
 
 **You can meet Seheiah, the Gatekeeper of Souls, in the Library of Ashurbanipal, inside the Magic Shop in Rotten Hill. She will succeed your Hero to a higher level.**\
@@ -28,8 +28,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../../../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../../growth/powering-up-the-hero/synthesis.md" %}
-[synthesis.md](../../../../growth/powering-up-the-hero/synthesis.md)
+{% content-ref url="../../../../growth/hero-ascension/synthesis.md" %}
+[synthesis.md](../../../../growth/hero-ascension/synthesis.md)
 {% endcontent-ref %}
 
 **Want to make your hero stronger? Visit Chavakia in Ashurbanipal Library and he can synthesise your heroes.**\
@@ -48,8 +48,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../../../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../../growth/powering-up-the-hero/reload/" %}
-[reload](../../../../growth/powering-up-the-hero/reload/)
+{% content-ref url="../../../../growth/hero-ascension/reload/" %}
+[reload](../../../../growth/hero-ascension/reload/)
 {% endcontent-ref %}
 
 **By paying Lelahel, the gatekeeper of souls, you can reload your hero to its original state. Don't forget that everything is reset.**\
@@ -64,12 +64,12 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../../../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../../growth/powering-up-the-hero/succession/skill-rune-crafting.md" %}
-[skill-rune-crafting.md](../../../../growth/powering-up-the-hero/succession/skill-rune-crafting.md)
+{% content-ref url="../../../../growth/hero-ascension/succession/skill-rune-crafting.md" %}
+[skill-rune-crafting.md](../../../../growth/hero-ascension/succession/skill-rune-crafting.md)
 {% endcontent-ref %}
 
-**Have you acquired a '**[**Succession Hero**](../../../../growth/powering-up-the-hero/succession/)**'? If so, you can now use skill runes! Omael will craft skill runes for you using the materials you have collected.**
+**Have you acquired a '**[**Succession Hero**](../../../../growth/hero-ascension/succession/)**'? If so, you can now use skill runes! Omael will craft skill runes for you using the materials you have collected.**
 
-'[계승 영웅](../../../../growth/powering-up-the-hero/succession/)'을 획득하셨나요? 그렇다면 스킬 룬을 사용할 수 있겠군요! 오마엘은 당신이 모아 온 재료로 스킬 룬을 제작해 준답니다.
+'[계승 영웅](../../../../growth/hero-ascension/succession/)'을 획득하셨나요? 그렇다면 스킬 룬을 사용할 수 있겠군요! 오마엘은 당신이 모아 온 재료로 스킬 룬을 제작해 준답니다.
 
-「[継承ヒーロー](../../../../growth/powering-up-the-hero/succession/)」を獲得しましたか？そうであれば、スキルルーンを使用できるようになりますね！オマエルが、あなたが集めた材料でスキルルーンを作成してくれます。
+「[継承ヒーロー](../../../../growth/hero-ascension/succession/)」を獲得しましたか？そうであれば、スキルルーンを使用できるようになりますね！オマエルが、あなたが集めた材料でスキルルーンを作成してくれます。

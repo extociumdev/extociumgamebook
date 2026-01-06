@@ -59,7 +59,7 @@ Choosing the right Hero for each battle situation is key.
 All Heroes (except Trial Heroes) are created in **NFT form**.
 
 If new Heroes are introduced,\
-they can be obtained through the [**Succession System**](../../powering-up-the-hero/succession/).\
+they can be obtained through the [**Succession System**](../../hero-ascension/succession/).\
 (For more details, please refer to the Succession Guide.)
 
 ***
@@ -122,7 +122,7 @@ EXTOCIUM에는\
 #### 🔹 [영웅 획득 방식](../../../beginners-guide/nft-minting-guide/)
 
 * Trial 영웅을 제외한 모든 영웅은 **NFT 형태**로 생성됩니다.
-* 새로운 영웅이 추가될 경우, [**계승 시스템**](../../powering-up-the-hero/succession/)을 통해 만날 수 있습니다.
+* 새로운 영웅이 추가될 경우, [**계승 시스템**](../../hero-ascension/succession/)을 통해 만날 수 있습니다.
 
 (계승 영웅에 대한 자세한 내용은 해당 가이드에서 확인할 수 있습니다.)
 
@@ -193,7 +193,7 @@ EXTOCIUM에는\
 
 トライアルヒーローを除くすべてのヒーローは、**NFT形式**で生成されます。
 
-新しいヒーローが追加された場合は、[**継承システム**](../../powering-up-the-hero/succession/)を通じて獲得できます。\
+新しいヒーローが追加された場合は、[**継承システム**](../../hero-ascension/succession/)を通じて獲得できます。\
 （継承ヒーローの詳細は、該当ガイドをご確認ください。）
 
 ***
