@@ -6,111 +6,224 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 **The Mining Setting System is designed to prevent inflation by stopping multi-account bots from producing resources indiscriminately.**
+### ◾ Mining Setup
 
-By registering **hero NFTs and equipment** in the settings window, you can increase the **maximum amount of resources** that can be mined.\
-In other words, the more you invest in your equipment, the **more resources** you can mine.
+Mining Setup is a system designed to prevent inflation caused by multi-account bots producing excessive currency.\
+By registering Hero NFTs and equipment in the Mining Setup slots,\
+the maximum amount of mineable resources increases.
 
-* **Daily gold limit** upon initial account creation: **10,000**
-* **Daily gathering limit** upon initial account creation: **100**
+In other words,\
+players who invest more in their equipment can mine a larger amount of resources.
 
-#### ✅Accessing the Mining Setting System
+***
 
-<figure><img src="../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+#### ◾ Base Mining Limits
 
-👉Tap the **Dashboard** button at the top left of the main HUD.
+When an account is created, the following base mining limits apply.
 
-<figure><img src="../../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
+* Daily mineable Gold: **10,000**
+* Daily collectible gathering resources: **100**
 
-👉 From the dashboard, tap the **Mining Setting** button to bring up the mining setting widget.\
-👉 Alternatively, tap the **Guide** button at the top left of the main HUD, then select the **Mining Setting** menu.\
-👉 When the mining setting widget appears, you can **equip heroes, weapons, and orbs** to each slot to increase your mining capacity.
+These limits can be increased through the Mining Setup.
 
-<figure><img src="../../.gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
+***
 
-{% hint style="info" %}
-❓ [For more details on **hero mining settings**, please refer to \[this link\].](hero-nft-settings/#eng)\
-❓ [For more details on **equipment mining settings**, please refer to \[this link\].](equipment-settings.md#eng)\
-🚨 <mark style="color:orange;">**Mining settings**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">can only be changed</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**once a day**</mark><mark style="color:orange;">. The reset occurs at</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**00:00 KST**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">each day. ( USA server : UTC 00:00 )</mark>
-{% endhint %}
+#### ◾ How to Access Mining Setup
 
-<figure><img src="../../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
+Mining Setup can be accessed **using the methods below.**
 
-👉 You can check the **amount of gold and resources that can be mined today** in real time at the bottom of the main HUD.
+* Tap the **\[Dashboard]** button at the top-left of the Main HUD.
+
+<figure><img src="../../.gitbook/assets/ms1.png" alt=""><figcaption></figcaption></figure>
+
+* From the Dashboard, tap **\[Mining Setup]** to display the Mining Setup widget.
+
+<figure><img src="../../.gitbook/assets/ms2.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ How to Set Up Mining
+
+Once the Mining Setup widget is displayed,\
+you can equip **Heroes, Weapons, and Orbs** into each slot.
+
+Depending on the equipped Heroes and equipment,\
+the maximum amount of mineable Gold and gathering resources increases.
+
+<figure><img src="../../.gitbook/assets/ms3.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ Detailed Guides
+
+* For more details on Hero Mining Setup, \
+  please refer to the **\[**[**Hero Mining Setup Guide**](hero-nft-settings/)**]**.
+* For more details on Equipment Mining Setup, \
+  please refer to the **\[**[**Equipment Mining Setup Guide**](equipment-settings.md)**]**.
+
+***
+
+#### ◾ Mining Setup Change Limit
+
+Mining Setup can be changed **once per day**.
+
+* The change count resets daily at **00:00 (KST)**.
+* For the USA server, the reset time is **00:00 (UTC)**.
+
+***
+
+#### ◾ Checking Mining Status
+
+The remaining amount of mineable Gold and gathering resources\
+for today can be checked **in real time** at the bottom of the Main HUD.
+
+<figure><img src="../../.gitbook/assets/ms4.png" alt=""><figcaption></figcaption></figure>
+
+
 {% endtab %}
 
 {% tab title="한국어" %}
-💡 **채굴 세팅 시스템은 다계정 봇이 무분별하게 재화를 생산하여 인플레이션을 일으키는 것을 막기 위해 만들어진 시스템입니다.**
+### ◾ 채굴 세팅
 
-**영웅 NFT와 장비**를 세팅창에 등록하면 **채굴 가능한 재화의 최대치**가 늘어나게 됩니다.\
-즉, **장비에 더 많은 투자를 한 유저**일수록 **더 많은 양의 재화**를 채굴할 수 있습니다.
+채굴 세팅은 다계정 봇이 무분별하게 재화를 생산하여 \
+게임 내 **인플레이션이 발생하는 것을 방지하기 위해** 도입된 시스템입니다. \
+영웅 NFT와 장비를 채굴 세팅 슬롯에 등록하면 **채굴 가능한 재화의 최대치가 증가**합니다.
 
-* **최초 계정 생성 시** 채굴 가능한 **일일 골드 양**: **10,000**
-* **최초 계정 생성 시** 채집 가능한 **일일 채집물 양**: **100**
+즉,\
+장비에 더 많은 투자를 한 유저일수록 더 많은 양의 재화를 채굴할 수 있습니다.
 
-#### ✅접근하기
+***
 
-<figure><img src="../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+#### ◾ 기본 채굴 제한
 
-👉메인 HUD 좌측 상단에 '대시보드' 버튼을 터치 합니다.
+계정 생성 시, 아래의 기본 채굴 제한이 적용됩니다.
 
-<figure><img src="../../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
+* 일일 채굴 가능 골드: **10,000**
+* 일일 채집 가능 채집물: **100**
 
-👉대시보드에서 '채굴 세팅' 버튼을 터치하면 채굴 세팅 위젯이 등장합니다.
+채굴 세팅을 통해 해당 수치는 증가시킬 수 있습니다.
 
-👉혹은 메인 HUD의 좌측 상단에 '가이드' 버튼을 터치한 후, '채굴 세팅' 메뉴를 터치하세요.
+***
 
-👉채굴 세팅 위젯이 등장하면, 각 슬롯에 영웅 및 무기, 오브를 장착하여 채굴량을 늘릴 수 있게 됩니다.&#x20;
+#### ◾ 채굴 세팅 접근 방법
 
-<figure><img src="../../.gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
+채굴 세팅은 **아래 방법으로 접근할 수 있습니다.**
 
-{% hint style="info" %}
-❓[영웅 채굴 세팅에 관한 자세한 내용은 이 링크를 참조하세요!](hero-nft-settings/)
+* 메인 HUD 좌측 상단의 **\[대시보드] 버튼**을 터치합니다.
 
-❓[장비 채굴 세팅에 관한 자세한 내용은 이 링크를 참조하세요!](equipment-settings.md)
+<figure><img src="../../.gitbook/assets/ms1.png" alt=""><figcaption></figcaption></figure>
 
-🚨<mark style="color:orange;">**채굴 세팅은 하루 1회만 변경이 가능합니다. 변경 기회는 한국 시간 기준, 매일 00:00에 리셋 됩니다.**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">( USA server : UTC 00:00 )</mark>
-{% endhint %}
+* 대시보드에서 **\[채굴 세팅] 버튼**을 터치하면 채굴 세팅 위젯이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ms2.png" alt=""><figcaption></figcaption></figure>
 
-👉오늘 채굴 가능한 골드 및 채집물의 양은 메인 HUD 하단에서 실시간으로 확인할 수 있습니다.
+***
+
+#### ◾ 채굴 세팅 방법
+
+채굴 세팅 위젯이 표시되면, 각 슬롯에 **영웅, 무기, 오브**를 장착할 수 있습니다.\
+장착된 영웅과 장비에 따라 채굴 가능한 **골드 및 채집물의 최대치가 증가**합니다.
+
+<figure><img src="../../.gitbook/assets/ms3.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 상세 가이드 안내
+
+* 영웅 채굴 세팅에 대한 자세한 내용은 **\[**[**영웅 채굴 세팅 가이드**](hero-nft-settings/)**]**&#xB97C; 참고해 주세요.
+* 장비 채굴 세팅에 대한 자세한 내용은 **\[**[**장비 채굴 세팅 가이드**](equipment-settings.md)**]**&#xB97C; 참고해 주세요.
+
+***
+
+#### ◾ 채굴 세팅 변경 제한
+
+채굴 세팅은 **하루 1회만 변경**할 수 있습니다.
+
+* 변경 횟수는 **한국 시간 기준 매일 00:00**에 초기화됩니다.
+* (USA 서버 기준: **UTC 00:00**)
+
+***
+
+#### ◾ 채굴 현황 확인
+
+오늘 채굴 가능한 **골드 및 채집물의 잔여량**은 메인 HUD 하단에서 **실시간으로 확인**할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/ms4.png" alt=""><figcaption></figcaption></figure>
+
+
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **採掘設定システムは、複数アカウントのボットが無分別に資源を生産し、インフレーションを引き起こすのを防ぐために設計されたシステムです。**
+### ◾ 採掘設定
 
-**英雄NFTや装備**を設定画面に登録することで、採掘可能な**資源の最大量**を増やすことができます。\
-つまり、**装備に多く投資したユーザー**ほど、より多くの資源を採掘することができます。
+採掘設定は、複数アカウントのボットによる過剰な資源生成を防ぎ、\
+ゲーム内インフレーションを抑制するために導入されたシステムです。
 
-* 初回アカウント作成時の**1日あたりのゴールド上限**：**10,000**
-* 初回アカウント作成時の**1日あたりの採集物上限**：**100**
+ヒーローNFTや装備を 採掘設定スロットに登録すると、採掘可能な資源の最大量が増加します。
 
-#### ✅採掘設定システムへのアクセス方法
+つまり、\
+装備により多く投資したプレイヤーほど、より多くの資源を採掘できます。
 
-<figure><img src="../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 メインHUDの左上にある**ダッシュボード**ボタンをタップします。
+#### ◾ 基本採掘制限
 
-<figure><img src="../../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
+アカウント作成時、以下の基本採掘制限が適用されます。
 
-👉 ダッシュボードで**採掘設定**ボタンをタップすると、採掘設定ウィジェットが表示されます。\
-👉 または、メインHUDの左上にある**ガイド**ボタンをタップし、**採掘設定**メニューを選択してください。\
-👉 採掘設定ウィジェットが表示されたら、各スロットに**英雄、武器、オーブ**を装備して採掘量を増やすことができます。
+* 1日の採掘可能ゴールド量: **10,000**
+* 1日の採集可能素材量: **100**
 
-<figure><img src="../../.gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
+採掘設定を行うことで、これらの数値を増加させることができます。
 
-{% hint style="info" %}
-❓ [英雄の採掘設定に関する詳しい情報は\[このリンク\]をご覧ください。 ](hero-nft-settings/#eng)
+***
 
-❓[ 装備の採掘設定に関する詳しい情報は\[このリンク\]をご覧ください。 ](equipment-settings.md#ri-ben-yu)
+#### ◾ 採掘設定へのアクセス方法
 
-🚨 <mark style="color:orange;">採掘設定は1日1回のみ変更可能です。変更のリセットは毎日\*\*00:00 (KST)\*\*に行われます。( USA server : UTC 00:00 )</mark>
-{% endhint %}
+採掘設定は、**以下の方法でアクセスできます。**
 
-<figure><img src="../../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
+* メインHUD左上&#x306E;**［ダッシュボード］** ボタンをタップします。
 
-👉 **本日採掘可能なゴールドおよび採集物の量**は、メインHUDの下部でリアルタイムに確認することができます。
+<figure><img src="../../.gitbook/assets/ms1.png" alt=""><figcaption></figcaption></figure>
+
+* ダッシュボード内&#x306E;**［採掘設定］** をタップすると、採掘設定ウィジェットが表示されます。
+
+<figure><img src="../../.gitbook/assets/ms2.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 採掘設定方法
+
+採掘設定ウィジェットが表示されると、各スロットに **ヒーロー・武器・オーブ** を装備できます。\
+装備したヒーローや装備に応じて、採掘可能なゴールドおよび採集素材の最大量が増加します。
+
+<figure><img src="../../.gitbook/assets/ms3.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 詳細ガイド案内
+
+* ヒーロー採掘設定の詳細については、**［**[**ヒーロー採掘設定ガイド**](hero-nft-settings/)**］** をご確認ください。
+* 装備採掘設定の詳細については、**［**[**装備採掘設定ガイド**](equipment-settings.md)**］** をご確認ください。
+
+***
+
+#### ◾ 採掘設定の変更制限
+
+採掘設定は **1日1回のみ変更可能**です。
+
+* 変更回数は **毎日 00:00（KR）** にリセットされます。
+* （USAサーバー基準：**UTC 00:00**）
+
+***
+
+#### ◾ 採掘状況の確認
+
+本日採掘可能な ゴールドおよび採集素材の残量は、\
+メインHUD下部で **リアルタイムに確認**できます。
+
+<figure><img src="../../.gitbook/assets/ms4.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 6, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
