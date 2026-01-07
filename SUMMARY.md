@@ -72,6 +72,9 @@
     * [📿 Necklace](growth/equipment/accessories/necklace.md)
     * [🙌 Bracelet](growth/equipment/accessories/bracelet.md)
     * [🍒 Earring](growth/equipment/accessories/earring.md)
+  * [🧰 Care](growth/equipment/care/README.md)
+    * [🔁 Reload Equipment](growth/equipment/care/reload-equipment.md)
+    * [💔 Equipment destruction](growth/equipment/care/equipment-destruction.md)
 * [✡️ Enchantment](growth/enchantment/README.md)
   * [1️⃣ Weapon Enchantment](growth/enchantment/weapon-enchantment.md)
   * [2️⃣ Orb Enchantment](growth/enchantment/orb-enchantment.md)
@@ -93,9 +96,6 @@
   * [🔁 Reload](growth/hero-ascension/reload/README.md)
     * [1️⃣ Hero Reload](growth/hero-ascension/reload/hero-reload.md)
     * [2️⃣ Succession Hero Reload](growth/hero-ascension/reload/succession-hero-reload.md)
-* [⚔️ Equipment Care](growth/equipment-care/README.md)
-  * [🔁 Reload Weapon](growth/equipment-care/reload-weapon.md)
-  * [💔 Equipment destruction](growth/equipment-care/equipment-destruction.md)
 * [🫙 EXP/TP Magic Vial](growth/exp-tp-magic-vial.md)
 
 ## 🗃️ SYSTEM

@@ -12,7 +12,7 @@ If a weapon is destroyed due to Enchantment failure, you may obtain **special it
 These items are used **only as crafting materials** and cannot be obtained through any other method.
 
 ※ Equipment destruction caused by Enchantment\
-is treated separately from [**equipment destruction via NPC**](../equipment-care/equipment-destruction.md).
+is treated separately from [**equipment destruction via NPC**](../equipment/care/equipment-destruction.md).
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,7 +39,7 @@ Please refer to the table below for details.
 인챈트로 인해 **무기가 파괴될 경우**, 일정 확률로 **특별한 아이템**을 획득할 수 있습니다.\
 해당 아이템은 **제작 재료로만 사용되며**, 다른 경로로는 획득할 수 없습니다.
 
-※ 인챈트로 인한 장비 파괴는 [**NPC를 통한 장비 파괴**](../equipment-care/equipment-destruction.md)**와는 구분**됩니다.
+※ 인챈트로 인한 장비 파괴는 [**NPC를 통한 장비 파괴**](../equipment/care/equipment-destruction.md)**와는 구분**됩니다.
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,7 @@ Please refer to the table below for details.
 エンチャント失敗により **武器が破壊された場合**、一定確率で **特別なアイテム**を獲得できます。\
 これらのアイテムは **制作素材としてのみ使用**され、他の方法では入手できません。
 
-※ エンチャントによる装備破壊は、[**NPCによる装備破壊とは区別**](../equipment-care/equipment-destruction.md)されます。
+※ エンチャントによる装備破壊は、[**NPCによる装備破壊とは区別**](../equipment/care/equipment-destruction.md)されます。
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

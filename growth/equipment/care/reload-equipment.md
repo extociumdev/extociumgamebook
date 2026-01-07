@@ -2,7 +2,7 @@
 description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
-# 🔁 Reload Weapon
+# 🔁 Reload Equipment
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -12,17 +12,17 @@ Did you know that you can also reload weapons and orbs? To create various skill 
 
 #### ❓Find the NPC for equipment reload
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-👉To reload equipment, go to the '[Magic Shop](../../field-info/rotten-hill/magic-shop/)' in '[Rotten Hill](../../field-info/rotten-hill/#eng)' and find '[NPC Barbatos](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'!
+👉To reload equipment, go to the '[Magic Shop](../../../field-info/rotten-hill/magic-shop/)' in '[Rotten Hill](../../../field-info/rotten-hill/#eng)' and find '[NPC Barbatos](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'!
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 #### ❓Equipment Reload Methods
 
 > There are two methods for equipment reload: \[Normal, Special].
 >
-> ![](<../../.gitbook/assets/image (693).png>)
+> ![](<../../../.gitbook/assets/image (693).png>)
 
 <table><thead><tr><th width="235">Categories:</th><th>Normal</th><th>Special</th></tr></thead><tbody><tr><td>1️⃣ <strong>Equipment Enchantment Level</strong></td><td><mark style="color:red;"><strong>Reset</strong></mark></td><td>Maintain</td></tr><tr><td>2️⃣ <strong>(Weapon) Skill Level</strong></td><td><mark style="color:red;"><strong>Reset</strong></mark></td><td>Maintain</td></tr><tr><td>2️⃣ <strong>(Weapon) Skill Type</strong></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td></tr><tr><td>3️⃣ <strong>Equipment Stats</strong></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td><td><mark style="color:purple;"><strong>Reload</strong></mark></td></tr></tbody></table>
 
@@ -51,17 +51,17 @@ EXTOCIUM의 다양한 스킬 덱 조합을 만들어보려면, 리로드에 관�
 
 #### ❓장비 리로드 NPC 찾아가기
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-👉장비를 리로드하려면,  '[로튼힐](../../field-info/rotten-hill/)'에서 '[마법상점](../../field-info/rotten-hill/magic-shop/)'으로 이동 후, '[NPC 바르바토스](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'를 찾아가세요!
+👉장비를 리로드하려면,  '[로튼힐](../../../field-info/rotten-hill/)'에서 '[마법상점](../../../field-info/rotten-hill/magic-shop/)'으로 이동 후, '[NPC 바르바토스](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'를 찾아가세요!
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 #### ❓장비 리로드 방식
 
 > 장비 리로드에는 \[일반, 스페셜]의 2가지 방식이 존재합니다.
 >
-> ![](<../../.gitbook/assets/image (693).png>)
+> ![](<../../../.gitbook/assets/image (693).png>)
 
 <table><thead><tr><th width="230">구분</th><th>일반</th><th>스페셜</th></tr></thead><tbody><tr><td><strong>1️⃣장비 인챈트 레벨</strong></td><td><mark style="color:red;"><strong>초기화</strong></mark></td><td>유지</td></tr><tr><td><strong>2️⃣(무기) 스킬 레벨</strong></td><td><mark style="color:red;"><strong>초기화</strong></mark></td><td>유지</td></tr><tr><td><strong>2️⃣(무기) 스킬 종류</strong></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td></tr><tr><td><strong>3️⃣장비 스탯</strong></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td><td><mark style="color:purple;"><strong>리로드</strong></mark></td></tr></tbody></table>
 
@@ -89,17 +89,17 @@ EXTOCIUM의 다양한 스킬 덱 조합을 만들어보려면, 리로드에 관�
 
 #### ❓装備リロードNPCを探す
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-👉装備をリロードするには、'[ロッテンヒル](../../field-info/rotten-hill/#ri-ben-yu)'の'[魔法店](../../field-info/rotten-hill/magic-shop/)'に移動し、'[NPCバルバトス](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'を探してください！
+👉装備をリロードするには、'[ロッテンヒル](../../../field-info/rotten-hill/#ri-ben-yu)'の'[魔法店](../../../field-info/rotten-hill/magic-shop/)'に移動し、'[NPCバルバトス](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)'を探してください！
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 #### ❓装備リロード方式
 
 > 装備リロードには\[通常、スペシャル]の2つの方式があります。
 >
-> ![](<../../.gitbook/assets/image (693).png>)
+> ![](<../../../.gitbook/assets/image (693).png>)
 
 <table><thead><tr><th width="266">区分:</th><th>通常</th><th>スペシャル</th></tr></thead><tbody><tr><td>1️⃣ <strong>装備のエンチャントレベル</strong></td><td><mark style="color:red;"><strong>リセット</strong></mark></td><td>維持</td></tr><tr><td>2️⃣ <strong>(武器) スキルレベル</strong></td><td><mark style="color:red;"><strong>リセット</strong></mark></td><td>維持</td></tr><tr><td>2️⃣ <strong>(武器) スキルの種類</strong></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td></tr><tr><td>3️⃣ <strong>装備のステータス</strong></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td><td><mark style="color:purple;"><strong>リロード</strong></mark></td></tr></tbody></table>
 
