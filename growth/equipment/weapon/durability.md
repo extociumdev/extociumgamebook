@@ -62,7 +62,7 @@ You can check durability information for each weapon by clicking [**here**](weap
 
 1.  Go to **Dashboard → Weapon Info Page**<br>
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 2.  Check the number of **Polishing Stones** you own at the top-right of the Weapon Info Page<br>
 
     <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -81,7 +81,7 @@ You can check durability information for each weapon by clicking [**here**](weap
 * Use the **AUTO button** next to the equipped weapon \
   on the Dashboard to configure this setting
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -135,7 +135,7 @@ EXTOCIUM에서는\
 
 1.  **대시보드 → 무기 정보 페이지**로 이동합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 2.  무기 정보 페이지 우측 상단에서 보유 중인 **연마석 수량**을 확인할 수 있습니다.<br>
 
     <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -153,7 +153,7 @@ EXTOCIUM에서는\
 * 장착 중인 장비는 **자동 수리 기능을 ON / OFF** 할 수 있습니다.
 * 대시보드에서 장착 중인 무기 옆의 **AUTO 버튼**을 통해 설정할 수 있습니다.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -212,7 +212,7 @@ EXTOCIUM에서는\
 
 1.  **ダッシュボード → 武器情報ページ**へ移動します<br>
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 2.  武器情報ページ右上で、所持している **研磨石の数量** を確認できます<br>
 
     <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -230,7 +230,7 @@ EXTOCIUM에서는\
 * 装備中の武器は、**自動修理機能をON / OFF** に設定できます。
 * ダッシュボードで、装備中の武器横にある **AUTOボタン** から設定可能です
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
 
