@@ -33,6 +33,13 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 🍀**Recipe  Drop Information:**
 
 <table><thead><tr><th width="148">Monster</th><th width="152">Drop1</th><th width="137">Drop2</th><th>Drop3</th><th>Drop4</th><th>Drop5</th></tr></thead><tbody><tr><td>Runaway boar</td><td>Reinforced Anvil Recipe</td><td>Wind of Fire Recipe</td><td>Inferno's Necklace Recipe</td><td>Inferno's Bracelet Recipe</td><td>Iron Clasp Recipe</td></tr><tr><td>Skeleton warrior</td><td>Reinforced Anvil Recipe</td><td>Humbaba's Lunchbox Recipe</td><td>Inferno's Bracelet Recipe</td><td>Inferno's Earrings Recipe</td><td>Iron Clasp Recipe</td></tr><tr><td>Angel slime</td><td>Humbaba's Lunchbox Recipe</td><td>Savage Sword Recipe</td><td>Inferno's Earrings Recipe</td><td>Mermaid's Necklace Recipe</td><td>Iron Chain Recipe</td></tr><tr><td>Desert spider</td><td>Wind of Fire Recipe</td><td>Wooden badge Recipe</td><td>Mermaid's Necklace Recipe</td><td>Mermaid's Bracelet Recipe</td><td>Iron Chain Recipe</td></tr><tr><td>Mudman</td><td>Explosion Energy Recipe</td><td>Savage Sword Recipe</td><td>Mermaid's Bracelet Recipe</td><td>-</td><td>Iron Chain Recipe</td></tr><tr><td>Mutated Desert Spider</td><td>Wind of Fire Recipe</td><td>Wooden badge Recipe</td><td>Leather String Recipe</td><td>-</td><td>-</td></tr><tr><td>Mutated Mudman</td><td>Explosion Energy Recipe</td><td>Savage Sword Recipe</td><td>Leather String Recipe</td><td>-</td><td>-</td></tr><tr><td>Burning Angel Slime</td><td>Humbaba's Lunchbox Recipe</td><td>Savage Sword Recipe</td><td>-</td><td>Leather String Recipe</td><td>-</td></tr><tr><td>Burning Mudman</td><td>Explosion Energy Recipe</td><td>Savage Sword Recipe</td><td>-</td><td>Leather String Recipe</td><td>-</td></tr></tbody></table>
+
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using Paid Energy, rewards are drawn from the Paid Energy–exclusive reward pool.\
+At an extremely low probability, the following weapon items may be dropped.
+
+> **Wooden Sword, Flamberg, Paladin's Sword, Orc eye, Damascus**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -57,6 +64,13 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 **🍀레시피 드랍 정보:**
 
 <table><thead><tr><th width="154">Monster</th><th width="145">Drop1</th><th width="128">Drop2</th><th>Drop3</th><th>Drop4</th><th>Drop5</th></tr></thead><tbody><tr><td>폭주 멧돼지</td><td><p>강화 모루 </p><p>레시피</p></td><td>화염의 바람 제작서</td><td><p>업화의 </p><p>목걸이 </p><p>제작서</p></td><td>업화의 팔찌 제작서</td><td>철 고리 레시피</td></tr><tr><td>해골전사</td><td><p>강화 모루 </p><p>레시피</p></td><td><p>훔바바의 </p><p>도시락 레시피</p></td><td><p>업화의 </p><p>팔찌 </p><p>제작서</p></td><td>업화의 귀걸이 제작서</td><td>철 고리 레시피</td></tr><tr><td>엔젤 슬라임</td><td><p>훔바바의 </p><p>도시락 레시피</p></td><td><p>야만의검 </p><p>제작서</p></td><td><p>업화의 </p><p>귀걸이 </p><p>제작서</p></td><td>인어의 목걸이 제작서</td><td>철 사슬 레시피</td></tr><tr><td>사막거미</td><td><p>화염의 바람 </p><p>제작서</p></td><td><p>나무 뱃지 </p><p>레시피</p></td><td><p>인어의 </p><p>목걸이 </p><p>제작서</p></td><td>인어의 팔찌 제작서</td><td>철 사슬 레시피</td></tr><tr><td>머드맨</td><td><p>폭렬 에너지 </p><p>제작서</p></td><td><p>야만의검 </p><p>제작서</p></td><td><p>인어의 </p><p>팔찌 </p><p>제작서</p></td><td>-</td><td>철 사슬 레시피</td></tr><tr><td>변이된 사막거미</td><td><p>화염의 바람 </p><p>제작서</p></td><td><p>나무 뱃지 </p><p>레시피</p></td><td><p>가죽 끈 </p><p>레시피</p></td><td>-</td><td></td></tr><tr><td>변이된 머드맨</td><td><p>폭렬 에너지 </p><p>제작서</p></td><td><p>야만의검 </p><p>제작서</p></td><td><p>가죽 끈 </p><p>레시피</p></td><td>-</td><td></td></tr><tr><td>불타는 엔젤 슬라임</td><td><p>훔바바의 </p><p>도시락 레시피</p></td><td><p>야만의검 </p><p>제작서</p></td><td>-</td><td>가죽 끈 레시피</td><td></td></tr><tr><td>불타는 머드맨</td><td><p>폭렬 에너지 </p><p>제작서</p></td><td><p>야만의검 </p><p>제작서</p></td><td>-</td><td>가죽 끈 레시피</td><td></td></tr></tbody></table>
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 유료 에너지 풀 전용 보상이 적용됩니다.\
+이때, 매우 희박한 확률로 아래의 무기 아이템이 드랍될 수 있습니다.
+
+> **목검, 플람베르그, 팔라딘의 검, 오크의 눈, 다마스커스**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -81,5 +95,14 @@ Collectors who’ve scoured the temple’s broken pillars and altars swear they�
 🍀**レシピドロップ情報:**
 
 <table data-full-width="true"><thead><tr><th width="151">Monster</th><th width="149">Drop1</th><th width="140">Drop2</th><th>Drop3</th><th>Drop4</th><th>Drop5</th></tr></thead><tbody><tr><td>暴走イノシシ</td><td>強化金床レシピ</td><td>火炎の風の製作書</td><td>インフェルノのネックレスレシピ</td><td>インフェルノのブレスレットレシピ</td><td>鉄のリングレシピ</td></tr><tr><td>骸骨戦士</td><td>強化金床レシピ</td><td>フンババのお弁当レシピ</td><td>インフェルノのブレスレットレシピ</td><td>インフェルノのイヤリングレシピ</td><td>鉄のリングレシピ</td></tr><tr><td>エンジェルスライム</td><td>フンババのお弁当レシピ</td><td>野蛮の剣製作書</td><td>インフェルノのイヤリングレシピ</td><td>人魚のネックレスレシピ</td><td>鉄の鎖レシピ</td></tr><tr><td>砂漠グモ</td><td>火炎の風の製作書</td><td>木製バッジレシピ</td><td>人魚のネックレスレシピ</td><td>人魚のブレスレットレシピピ</td><td>鉄の鎖レシピ</td></tr><tr><td>しつこい土人間</td><td>爆裂エネルギー製作書</td><td>野蛮の剣製作書</td><td>人魚のブレスレットレシピ</td><td>-</td><td>鉄の鎖レシピ</td></tr><tr><td>変異砂漠クモ</td><td>火炎の風の製作書</td><td>木製バッジレシピ</td><td>レザーストラップレシピ</td><td>-</td><td></td></tr><tr><td>変異マッドマン</td><td>爆裂エネルギー製作書</td><td>野蛮の剣製作書</td><td>レザーストラップレシピ</td><td>-</td><td></td></tr><tr><td>燃えるエンジェルスライム</td><td>フンババのお弁当レシピ</td><td>野蛮の剣製作書</td><td>-</td><td>レザーストラップレシピ</td><td></td></tr><tr><td>燃えるマッドマン</td><td>爆裂エネルギー製作書</td><td>野蛮の剣製作書</td><td>-</td><td>レザーストラップレシピ</td><td></td></tr></tbody></table>
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、有料エナジー専用報酬プールが適用されます。\
+この際、非常に低い確率で、以下の武器アイテムがドロップする場合があります。
+
+> **木剣, フランベルグ, パラディンの剣, オークの目, ダマスカス**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

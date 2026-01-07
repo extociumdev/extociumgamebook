@@ -33,6 +33,13 @@ description: 🛑 This information may be updated later than the game server dat
 | Crimson Soldier of Cornix   | Bloodstained Butterfly Heart Recipe | -                    |
 | Degenerate Dragon of Skolix | Wings of the Transcendent Recipe    | -                    |
 | Mutated Archer Captain      | Awakening Stone Recipe              | Ancient Power Recipe |
+
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using Paid Energy, rewards are drawn from the Paid Energy–exclusive reward pool.\
+At an extremely low probability, the following weapon items may be dropped.
+
+> **Devil's sword, \[Lock] Waking Darkness**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -60,6 +67,13 @@ description: 🛑 This information may be updated later than the game server dat
 | 코르닉스의 붉은 병사 | 핏빛 나비 심장 레시피  | -         |
 | 스콜릭스의 퇴화룡   | 초인의 날개 레시피    | -         |
 | 변이된 궁병대장    | 각성석 레시피       | 고대의 힘 레시피 |
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 유료 에너지 풀 전용 보상이 적용됩니다.\
+이때, 매우 희박한 확률로 아래의 무기 아이템이 드랍될 수 있습니다.
+
+> **악마의 검, \[잠김] 깨어나는 어둠**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -87,5 +101,14 @@ description: 🛑 This information may be updated later than the game server dat
 | コルニクスの赤き兵士 | 血染め蝶の心臓レシピ | -       |
 | スコリクスの退化竜  | 超人の翼レシピ    | -       |
 | 変異した弓兵隊長   | 覚醒石レシピ     | 古代の力レシピ |
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、有料エナジー専用報酬プールが適用されます。\
+この際、非常に低い確率で、以下の武器アイテムがドロップする場合があります。
+
+> **悪魔の剣, \[ロック] 目覚める闇**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

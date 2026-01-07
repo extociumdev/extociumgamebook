@@ -35,6 +35,13 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 🍀**Recipe  Drop Information:**
 
 <table><thead><tr><th width="142">Monster</th><th width="141">Drop1</th><th width="120">Drop2</th><th>Drop3</th><th>Drop4</th><th>Drop5</th></tr></thead><tbody><tr><td>Goblin</td><td>White cloth Recipe</td><td>Summons HP Potion Lv.3 Recipe</td><td>Silver Chain Recipe</td><td>Silver Clasp Recipe</td><td></td></tr><tr><td>Black Eagle’s</td><td>Thread Recipe</td><td>Tear's Necklace Recipe</td><td>Silver Chain Recipe</td><td>Silver Clasp Recipe</td><td></td></tr><tr><td>Red Goblin</td><td>Summons HP Potion Lv.3 Recipe</td><td>Tear's Necklace Recipe</td><td>Silver Chain Recipe</td><td>Silver Clasp Recipe</td><td></td></tr><tr><td>Giant Bear</td><td>White cloth Recipe</td><td>Tear's Necklace Recipe</td><td>Gold Chain Recipe</td><td>Gold Clasp Recipe</td><td></td></tr><tr><td>Golem</td><td>Thread Recipe</td><td>-</td><td>Gold Chain Recipe</td><td>Gold Clasp Recipe</td><td>Leather Strap Recipe</td></tr><tr><td>Red Goblin Bomber</td><td>Summons HP Potion Lv.3 Recipe</td><td>-</td><td>Gold Chain Recipe</td><td>Gold Clasp Recipe</td><td>Leather Strap Recipe</td></tr><tr><td>Magician Golem</td><td>Summons HP Potion Lv.3 Recipe</td><td>-</td><td>Gold Chain Recipe</td><td>Gold Clasp Recipe</td><td>Leather Strap Recipe</td></tr><tr><td>Mutated Red Goblin</td><td>White cloth Recipe</td><td>-</td><td>Gold Chain Recipe</td><td>Gold Clasp Recipe</td><td></td></tr><tr><td>Mutated Giant Bear</td><td>White cloth Recipe</td><td>-</td><td>-</td><td></td><td></td></tr></tbody></table>
+
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using Paid Energy, rewards are drawn from the Paid Energy–exclusive reward pool.\
+At an extremely low probability, the following weapon items may be dropped.
+
+> **Bronze Sword, Paladin's Sword, Orc eye, Damascus, Savage Sword, Oracle Sword**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -61,6 +68,13 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 **🍀레시피 드랍 정보:**
 
 <table><thead><tr><th width="153.22222900390625">Monster</th><th width="126.00006103515625">Drop1</th><th width="128">Drop2</th><th width="112.4442138671875">Drop3</th><th width="105.77783203125">Drop4</th><th>Drop5</th></tr></thead><tbody><tr><td>고블린</td><td>흰 천 레시피</td><td>소환수 HP 포션 Lv.3 레시피</td><td>은 사슬 레시피</td><td>은 고리 레시피</td><td>-</td></tr><tr><td>검은 독수리</td><td>실 레시피</td><td>눈물의 목걸이 제작서</td><td>은 사슬 레시피</td><td>은 고리 레시피</td><td>-</td></tr><tr><td>레드 고블린</td><td>소환수 HP 포션 Lv.3 레시피</td><td>눈물의 목걸이 제작서</td><td>은 사슬 레시피</td><td>은 고리 레시피</td><td>-</td></tr><tr><td>자이언트 베어</td><td>흰 천 레시피</td><td>눈물의 목걸이 제작서</td><td>금 사슬 레시피</td><td>금 고리 레시피</td><td>-</td></tr><tr><td>골렘</td><td>실 레시피</td><td>-</td><td>금 사슬 레시피</td><td>금 고리 레시피</td><td>가죽 끈 레시피</td></tr><tr><td>레드고블린 봄버</td><td>소환수 HP 포션 Lv.3 레시피</td><td>-</td><td>금 사슬 레시피</td><td>금 고리 레시피</td><td>가죽 끈 레시피</td></tr><tr><td>매지션 골렘</td><td>소환수 HP 포션 Lv.3 레시피</td><td>-</td><td>금 사슬 레시피</td><td>금 고리 레시피</td><td>가죽 끈 레시피</td></tr><tr><td>변이된 레드고블린</td><td>흰 천 레시피</td><td>-</td><td>금 사슬 레시피</td><td>금 고리 레시피</td><td></td></tr><tr><td>변이된 자이언트 베어</td><td>흰 천 레시피</td><td>-</td><td></td><td></td><td></td></tr></tbody></table>
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 유료 에너지 풀 전용 보상이 적용됩니다.\
+이때, 매우 희박한 확률로 아래의 무기 아이템이 드랍될 수 있습니다.
+
+> **청동검, 팔라딘의 검, 오크의 눈, 다마스커스, 야만의검, 오라클 스워드**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -87,6 +101,14 @@ The tunnels of Goblin’s Mine shimmer with the allure of gold and silver, but t
 🍀**レシピドロップ情報:**
 
 <table><thead><tr><th width="134">Monster</th><th width="156">Drop1</th><th width="153">Drop2</th><th>Drop3</th><th>Drop4</th><th>Drop4</th></tr></thead><tbody><tr><td>ゴブリン</td><td>白い布のレシピ</td><td>召喚数 HPポーション Lv.3 レシピ</td><td>銀の鎖レシピ</td><td>銀のリングレシピ</td><td>-</td></tr><tr><td>黒鷲</td><td>糸レシピ</td><td>涙のネックレスレシピ</td><td>銀の鎖レシピ</td><td>銀のリングレシピ</td><td>-</td></tr><tr><td>レッドゴブリン</td><td>召喚数 HPポーション Lv.3 レシピ</td><td>涙のネックレスレシピ</td><td>銀の鎖レシピ</td><td>銀のリングレシピ</td><td>-</td></tr><tr><td>ジャイアントベア</td><td>白い布のレシピ</td><td>涙のネックレスレシピ</td><td>金の鎖レシピ</td><td>金のリングレシピ</td><td>-</td></tr><tr><td>ゴーレム</td><td>糸レシピ</td><td>-</td><td>金の鎖レシピ</td><td>金のリングレシピ</td><td>レザーストラップレシピ</td></tr><tr><td>レッドゴブリン ボンバー</td><td>召喚数 HPポーション Lv.3 レシピ</td><td>-</td><td>金の鎖レシピ</td><td>金のリングレシピ</td><td>レザーストラップレシピ</td></tr><tr><td>マジシャン ゴーレム</td><td>召喚数 HPポーション Lv.3 レシピ</td><td>-</td><td>金の鎖レシピ</td><td>金のリングレシピ</td><td>レザーストラップレシピ</td></tr><tr><td>変異レッドゴブリン</td><td>白い布のレシピ</td><td>-</td><td>金の鎖レシピ</td><td>金のリングレシピ</td><td></td></tr><tr><td>変異ジャイアントベア</td><td>白い布のレシピ</td><td>-</td><td>-</td><td></td><td></td></tr></tbody></table>
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、有料エナジー専用報酬プールが適用されます。\
+この際、非常に低い確率で、以下の武器アイテムがドロップする場合があります。
+
+> **青銅の剣, パラディンの剣, オークの目, ダマスカス, 野蛮の剣, オラクル·スワード**
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

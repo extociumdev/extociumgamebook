@@ -35,6 +35,14 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 🍀**Recipe  Drop Information:**
 
 <table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>Bubble</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Green Sharit</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Red Sharit</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Green Ziz</td><td>Sword of light Recipe</td><td>Nebula Claw of Sharit Recipe</td></tr><tr><td>Red Ziz</td><td>Sword of light Recipe</td><td>Soul Star Fragment Recipe</td></tr><tr><td>Mutated Bubble</td><td>Noah's Prayer Recipe</td><td>-</td></tr><tr><td>Burning Red Ziz</td><td>Sword of light Recipe</td><td>-</td></tr></tbody></table>
+
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using Paid Energy, rewards are drawn from the Paid Energy–exclusive reward pool.\
+At an extremely low probability, the following weapon items may be dropped.
+
+> **Paladin's Sword, Savage Sword, Oracle Sword, Devil's sword,** \
+> **\[Lock] Waking Darkness**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -61,6 +69,13 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 **🍀레시피 드랍 정보:**
 
 <table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>버블</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>그린 샤리트</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>레드 샤리트</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>그린 지즈</td><td>빛의 검 제작서</td><td>샤리트의 성운 발톱 레시피</td></tr><tr><td>레드 지즈</td><td>빛의 검 제작서</td><td>혼의 별조각 레시피</td></tr><tr><td>변이된 버블</td><td>노아의 기도 레시피</td><td>-</td></tr><tr><td>불타는 레드 지즈</td><td>빛의 검 제작서</td><td>-</td></tr></tbody></table>
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 유료 에너지 풀 전용 보상이 적용됩니다.\
+이때, 매우 희박한 확률로 아래의 무기 아이템이 드랍될 수 있습니다.
+
+> **팔라딘의 검, 야만의검, 오라클 스워드, 악마의 검, \[잠김] 깨어나는 어둠**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -87,5 +102,14 @@ Legends whisper that the flood that drowned this land was unleashed by the mythi
 🍀**レシピドロップ情報:**
 
 <table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>バブル</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>グリーンシャリット</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>レッド·シャリット</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>グリーン·ジーズ</td><td>光の剣の製造書</td><td>シャリトの星雲の爪のレシピ</td></tr><tr><td>レッド·ジーズ</td><td>光の剣の製造書</td><td>魂の星の欠片のレシピ</td></tr><tr><td>変異バブル</td><td>ノアの祈りのレシピ</td><td>-</td></tr><tr><td>燃えるレッドジズ</td><td>光の剣の製造書</td><td>-</td></tr></tbody></table>
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、有料エナジー専用報酬プールが適用されます。\
+この際、非常に低い確率で、以下の武器アイテムがドロップする場合があります。
+
+> **パラディンの剣, 野蛮の剣, オラクル·スワード, 悪魔の剣, \[ロック] 目覚める闇**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

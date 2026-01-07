@@ -34,7 +34,13 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 
 <table><thead><tr><th width="153">Monster</th><th width="172">Drop1</th><th width="141">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Chipmunk</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Lesser Panda</td><td>Salad Recipe</td><td>Nut Yogurt Recipe</td><td>Hammer Recipe</td></tr><tr><td>Racoon</td><td>Salad Recipe</td><td>Butter Recipe</td><td>Hammer Recipe</td></tr><tr><td>Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td>Glue Recipe</td></tr><tr><td>Giant Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td></td></tr><tr><td>Giant Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td></td></tr></tbody></table>
 
-<br>
+\
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using **Paid Energy**, rewards are drawn from the **Paid Energy–exclusive reward pool**.\
+At an **extremely low probability**, the following weapon items may be dropped.
+
+> **Wooden Sword, Steel Sword**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -61,6 +67,13 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 **🍀레시피 드랍 정보 :**
 
 <table data-full-width="true"><thead><tr><th width="133">Monster</th><th width="141">Drop1</th><th width="137">Drop2</th><th width="146">Drop3</th></tr></thead><tbody><tr><td>다람쥐</td><td>모듬꼬치 <br>레시피</td><td>-</td><td>망치 레시피</td></tr><tr><td>얼룩 다람쥐</td><td>모듬꼬치 <br>레시피</td><td>-</td><td>망치 레시피</td></tr><tr><td>레서판다</td><td>샐러드 레시피</td><td>견과류 요거트 레시피</td><td>망치 레시피</td></tr><tr><td>라쿤</td><td>샐러드 레시피</td><td>버터 레시피</td><td>망치 레시피</td></tr><tr><td>엘크</td><td>치즈 레시피</td><td>오렌지 주스 <br>레시피</td><td>접착제 레시피</td></tr><tr><td>거대 다람쥐</td><td>모듬꼬치 <br>레시피</td><td>-</td><td></td></tr><tr><td>거대 엘크</td><td>치즈 레시피</td><td>오렌지 주스 <br>레시피</td><td></td></tr></tbody></table>
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 **유료 에너지 풀 전용 보상**이 적용됩니다.\
+이때, **매우 희박한 확률로 아래의** **무기 아이템이 드랍될 수 있습니다.**
+
+> **목검, 강철검**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -85,8 +98,15 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 🍀**レシピドロップ情報:**
 
 <table><thead><tr><th width="143">Monster</th><th width="157">Drop1</th><th width="153">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>リス</td><td>串盛り合わせレシピ</td><td>-</td><td>ハンマーレシピ</td></tr><tr><td>シマリス</td><td>串盛り合わせレシピ</td><td>-</td><td>ハンマーレシピ</td></tr><tr><td>レッサーパンダ</td><td>サラダレシピ</td><td>ナッツヨーグルトレシピ</td><td>ハンマーレシピ</td></tr><tr><td>ラクーン</td><td>サラダレシピ</td><td>バターレシピ</td><td>ハンマーレシピ</td></tr><tr><td>エルク</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>接着剤レシピ</td></tr><tr><td>巨大リス</td><td>串盛り合わせレシピ</td><td>-</td><td>-</td></tr><tr><td>巨大エルク</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>-</td></tr></tbody></table>
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、**有料エナジー専用報酬プール**が適用されます。\
+この際、**非常に低い確率**で、以下の武器アイテムがドロップする場合があります。
+
+> **木剣, 鋼鉄の剣**
 {% endtab %}
 {% endtabs %}
 
-
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 

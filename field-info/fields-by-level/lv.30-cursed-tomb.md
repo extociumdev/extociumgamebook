@@ -33,6 +33,13 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 🍀**Recipe  Drop Information:**
 
 <table><thead><tr><th width="140">Monster</th><th width="153">Drop1</th><th width="142">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>Fox</td><td>Red dye Recipe</td><td>Orb of Clarity Recipe</td><td>Spirit's Necklace Recipe</td></tr><tr><td>Wolf</td><td>Orb of Clarity Recipe</td><td>Tough leather Recipe</td><td>Spirit's Bracelet Recipe</td></tr><tr><td>Crow</td><td>Pancake Recipe</td><td>Orc Eye Recipe</td><td>Spirit's Earrings Recipe</td></tr><tr><td>Mutated elk</td><td>Tough leather Recipe</td><td>Wind of Fire Recipe</td><td>Spirit's Earrings Recipe</td></tr><tr><td>Scavenger</td><td>Magic jelly Recipe</td><td>Wind of Fire Recipe</td><td>Inferno's Necklace Recipe</td></tr><tr><td>Mutated Magic Elk</td><td>Tough leather Recipe</td><td>Wind of Fire Recipe</td><td>-</td></tr><tr><td>Burning Crow</td><td>Pancake Recipe</td><td>Orc Eye Recipe</td><td>-</td></tr></tbody></table>
+
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using Paid Energy, rewards are drawn from the Paid Energy–exclusive reward pool.\
+At an extremely low probability, the following weapon items may be dropped.
+
+> **Wooden Sword, Steel Sword, Flamberg, Paladin's Sword, Orc eye**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -57,6 +64,13 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 **🍀레시피 드랍 정보 :**
 
 <table><thead><tr><th width="147">Monster</th><th width="133">Drop1</th><th width="135">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>여우</td><td>붉은 염료 <br>레시피</td><td>청명의 오브 <br>제작서</td><td>정령의 목걸이 제작서</td></tr><tr><td>늑대</td><td>청명의 오브 제작서</td><td>질긴 가죽 <br>레시피</td><td>정령의 팔찌 제작서</td></tr><tr><td>까마귀</td><td>팬케이크 <br>레시피</td><td>오크의 눈 <br>제작서</td><td>정령의 귀걸이 제작서</td></tr><tr><td>변이된 엘크</td><td>질긴 가죽 <br>레시피</td><td>화염의 바람 <br>제작서</td><td>정령의 귀걸이 제작서</td></tr><tr><td>스캐빈저</td><td>매직 젤리 <br>레시피</td><td>화염의 바람 <br>제작서</td><td>업화의 목걸이 제작서</td></tr><tr><td>변이된 매직 엘크</td><td>질긴 가죽 <br>레시피</td><td>화염의 바람 <br>제작서</td><td>-</td></tr><tr><td>불타는 까마귀</td><td>팬케이크 <br>레시피</td><td>오크의 눈 <br>제작서</td><td>-</td></tr></tbody></table>
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 유료 에너지 풀 전용 보상이 적용됩니다.\
+이때, 매우 희박한 확률로 아래의 무기 아이템이 드랍될 수 있습니다.
+
+> **목검, 강철검, 플람베르그, 팔라딘의 검, 오크의 눈**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -81,5 +95,14 @@ Once a thriving source of amethyst, this land’s beauty has been tainted since 
 🍀**レシピドロップ情報:**
 
 <table><thead><tr><th width="135">Monster</th><th width="134">Drop1</th><th width="158">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>キツネ</td><td>赤染料レシピ</td><td>清明のオブ製作書</td><td>精霊のネックレスレシピ</td></tr><tr><td>オオカミ</td><td>清明のオブ製作書</td><td>丈夫な革レシピ</td><td>精霊のブレスレットレシピ</td></tr><tr><td>カラス</td><td>パンケーキレシピ</td><td>オークの雪の製作書</td><td>精霊のイヤリングレシピ</td></tr><tr><td>変異したエルク</td><td>丈夫な革レシピ</td><td>火炎の風の製作書</td><td>精霊のイヤリングレシピ</td></tr><tr><td>スカベンジャー</td><td>マジックゼリーレシピ</td><td>火炎の風の製作書</td><td>インフェルノのネックレスレシピ</td></tr><tr><td>変異マジックエルク</td><td>丈夫な革レシピ</td><td>火炎の風の製作書</td><td>-</td></tr><tr><td>燃えるカラス</td><td>パンケーキレシピ</td><td>オークの雪の製作書</td><td>-</td></tr></tbody></table>
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、有料エナジー専用報酬プールが適用されます。\
+この際、非常に低い確率で、以下の武器アイテムがドロップする場合があります。
+
+> **木剣, 鋼鉄の剣, フランベルグ, パラディンの剣, オークの目**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

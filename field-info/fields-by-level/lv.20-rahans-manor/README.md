@@ -35,6 +35,13 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 🍀**Recipe  Drop Information:**
 
 <table><thead><tr><th width="141">Monster</th><th width="143">Drop1</th><th width="162">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>Shy pig</td><td>Cheese Recipe</td><td>Salad Recipe</td><td>Glue Recipe</td></tr><tr><td>Runaway pig</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td>Glue Recipe</td></tr><tr><td>Bison</td><td>Butter Recipe</td><td>Nut Yogurt Recipe</td><td>Glue Recipe</td></tr><tr><td>Iguana</td><td>Butter Recipe</td><td>Pancake Recipe</td><td>-</td></tr><tr><td>Shy boar</td><td>Pancake Recipe</td><td>Apple steak Recipe</td><td>Iron Ring Recipe</td></tr><tr><td>Slime</td><td>Assorted skewers recipe</td><td>Magic jelly Recipe</td><td>Spirit's Necklace Recipe</td></tr><tr><td>Rampaging Giant Pig</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td>-</td></tr><tr><td>Giant Slime</td><td>Assorted skewers recipe</td><td>Magic jelly Recipe</td><td>-</td></tr><tr><td>Golden Slime</td><td>-</td><td>Salad Recipe</td><td>Glue Recipe</td></tr><tr><td>Golden Giant Slime</td><td>-</td><td>Magic jelly Recipe</td><td>-</td></tr></tbody></table>
+
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using Paid Energy, rewards are drawn from the Paid Energy–exclusive reward pool.\
+At an extremely low probability, the following weapon items may be dropped.
+
+> **Wooden Sword, Bronze Sword, Steel Sword, Flamberg, Paladin's Sword**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -59,6 +66,15 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 **🍀레시피 드랍 정보 :**
 
 <table><thead><tr><th width="153">Monster</th><th width="136">Drop1</th><th width="170">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>수줍은 돼지</td><td>치즈 레시피</td><td>샐러드 레시피</td><td>접착제 레시피</td></tr><tr><td>폭주 돼지</td><td>치즈 레시피</td><td>오렌지 주스 레시피</td><td>접착제 레시피</td></tr><tr><td>바이슨</td><td>버터 레시피</td><td>견과류 요거트 레시피</td><td>접착제 레시피</td></tr><tr><td>이구아나</td><td>버터 레시피</td><td>팬케이크 레시피</td><td>-</td></tr><tr><td>수줍은 멧돼지</td><td>팬케이크 레시피</td><td>사과 스테이크 레시피</td><td>철 고리 레시피</td></tr><tr><td>슬라임</td><td>모듬꼬치 레시피</td><td>매직 젤리 레시피</td><td>정령의 목걸이 제작서</td></tr><tr><td>거대 폭주 돼지</td><td>치즈 레시피</td><td>오렌지 주스 레시피</td><td>-</td></tr><tr><td>거대 슬라임</td><td>모듬꼬치 레시피</td><td>매직 젤리 레시피</td><td>-</td></tr><tr><td>황금 슬라임</td><td>-</td><td>샐러드 레시피</td><td>접착제 레시피</td></tr><tr><td>황금 거대 슬라임</td><td>-</td><td>매직 젤리 레시피</td><td>-</td></tr></tbody></table>
+
+
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 유료 에너지 풀 전용 보상이 적용됩니다.\
+이때, 매우 희박한 확률로 아래의 무기 아이템이 드랍될 수 있습니다.
+
+> **목검, 청동검, 강철검, 플람베르그, 팔라딘의 검**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -83,5 +99,14 @@ Long ago, the Rahan tribe settled this desolate expanse, once buried under volca
 🍀**レシピドロップ情報:**
 
 <table><thead><tr><th width="150">Monster</th><th width="154">Drop1</th><th width="145">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>はにかむ豚</td><td>チーズレシピ</td><td>サラダレシピ</td><td>接着剤レシピ</td></tr><tr><td>暴走豚</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>接着剤レシピ</td></tr><tr><td>バイソン</td><td>バターレシピ</td><td>ナッツヨーグルトレシピ</td><td>接着剤レシピ</td></tr><tr><td>イグアナ</td><td>バターレシピ</td><td>パンケーキレシピ</td><td>-</td></tr><tr><td>はにかむイノシシ</td><td>パンケーキレシピ</td><td>リンゴステーキレシピ</td><td>鉄のリングレシピ</td></tr><tr><td>スライム</td><td>串盛り合わせレシピ</td><td>マジックゼリーレシピ</td><td>精霊のネックレスレシピ</td></tr><tr><td>暴走巨大豚</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>-</td></tr><tr><td>巨大スライム</td><td>串盛り合わせレシピ</td><td>マジックゼリーレシピ</td><td>-</td></tr><tr><td>ゴールデンスライム</td><td></td><td>サラダレシピ</td><td>接着剤レシピ</td></tr><tr><td>ゴールデン巨大スライム</td><td></td><td>マジックゼリーレシピ</td><td></td></tr></tbody></table>
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、有料エナジー専用報酬プールが適用されます。\
+この際、非常に低い確率で、以下の武器アイテムがドロップする場合があります。
+
+> **木剣, 青銅の剣, 鋼鉄の剣, フランベルグ, パラディンの剣**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

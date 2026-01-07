@@ -37,6 +37,13 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 🍀**Recipe  Drop Information:**
 
 <table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>Ghoul</td><td>Primordial doll Recipe</td><td>-</td></tr><tr><td>Mutated Ghouls</td><td>Primordial doll Recipe</td><td>-</td></tr><tr><td>Blind Shaman</td><td>Primordial decoration Recipe</td><td>-</td></tr><tr><td>Madness</td><td>Primordial decoration Recipe</td><td>Primordial Horn Recipe</td></tr><tr><td>Illusions of Evil</td><td>Primordial Horn Recipe</td><td>-</td></tr><tr><td>Mutated Madman</td><td>Primordial decoration Recipe</td><td>Primordial Horn Recipe</td></tr><tr><td>Burning Evil Illusion</td><td>Primordial Horn Recipe</td><td>-</td></tr></tbody></table>
+
+🍀 **Weapon Drop Notice (Paid Energy)**
+
+When using Paid Energy, rewards are drawn from the Paid Energy–exclusive reward pool.\
+At an extremely low probability, the following weapon items may be dropped.
+
+> **Steel sword, Damascus, Savage Sword, Oracle Sword, Devil's sword**
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -63,6 +70,13 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 **🍀레시피 드랍 정보:**
 
 <table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>구울</td><td>태초의 인형 레시피</td><td>-</td></tr><tr><td>변이된 구울</td><td>태초의 인형 레시피</td><td>-</td></tr><tr><td>눈 먼 주술가</td><td>태초의 장식레시피</td><td>-</td></tr><tr><td>미치광이</td><td>태초의 장식레시피</td><td>태초의 뿔나팔 레시피</td></tr><tr><td>악의 환영</td><td>태초의 뿔나팔 레시피</td><td>-</td></tr><tr><td>변이된 미치광이</td><td>태초의 장식레시피</td><td>태초의 뿔나팔 레시피</td></tr><tr><td>불타는 악의 환영</td><td>태초의 뿔나팔 레시피</td><td>-</td></tr></tbody></table>
+
+🍀 **유료 에너지 사용 시 무기 드랍 안내**
+
+유료 에너지를 사용하면 유료 에너지 풀 전용 보상이 적용됩니다.\
+이때, 매우 희박한 확률로 아래의 무기 아이템이 드랍될 수 있습니다.
+
+> **강철검, 다마스커스, 야만의검, 오라클 스워드, 악마의 검**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -89,5 +103,14 @@ The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind th
 🍀**レシピドロップ情報:**
 
 <table><thead><tr><th width="214">Monster</th><th width="223">Drop1</th><th width="246">Drop2</th></tr></thead><tbody><tr><td>グール</td><td>太初の人形レシピ</td><td>-</td></tr><tr><td>変異したボウル</td><td>太初の人形レシピ</td><td>-</td></tr><tr><td>盲目の呪術家</td><td>太初の飾りレシピ</td><td>-</td></tr><tr><td>狂人</td><td>太初の飾りレシピ</td><td>太初の角ラッパレシピ</td></tr><tr><td>悪の幻影</td><td>太初の角ラッパレシピ</td><td>-</td></tr><tr><td>変異狂人</td><td>太初の飾りレシピ</td><td>太初の角ラッパレシピ</td></tr><tr><td>燃える悪の幻影</td><td>太初の角ラッパレシピ</td><td>-</td></tr></tbody></table>
+
+🍀 **有料エナジー使用時の武器ドロップ案内**
+
+有料エナジーを使用すると、有料エナジー専用報酬プールが適用されます。\
+この際、非常に低い確率で、以下の武器アイテムがドロップする場合があります。
+
+> **鋼鉄の剣, ダマスカス, 野蛮の剣, オラクル·スワード, 悪魔の剣**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
