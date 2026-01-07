@@ -6,67 +6,214 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 🔥 **Equipment Destruction Byproducts Chart**
+### ◾ Equipment Destruction
 
-💡 **What byproducts can be obtained from destroying equipment?**\
-This page provides a **byproduct chart for equipment destroyed through** [**Eligos** ](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)**at the Magic Shop in Rotten hill**.
+Equipment Destruction is a system that allows you\
+to directly select and destroy Equipment through NPC **Eligos**, and obtain byproducts in return.
 
-{% hint style="info" %}
-**This system is different from equipment destruction due to** [**enchantment failure**](../enchantment/enchantment-failed.md#eng)**.**
+{% hint style="warning" %}
+Equipment Destruction is **different from Equipment being destroyed during Enchanting**.\
+These two systems are separate and should not be confused.
+
+* **Eligos Equipment Destruction**:\
+  The player manually selects Equipment to destroy and receives byproducts.
+* [**Enchant Equipment Destruction**](../enchantment/enchantment-failed.md#enchantment-failed):\
+  Equipment may be destroyed probabilistically during the Enchant process,\
+  and this is **not related** to the byproduct chart on this page.
 {% endhint %}
+
+***
+
+### ◾ Eligos Location
+
+Equipment Destruction can be performed at the following location.
+
+* [Rottenhill](../../field-info/rotten-hill/) > [Magic Shop](../../field-info/rotten-hill/magic-shop/) > [NPC **Eligos**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)
+
+***
+
+### ◾ How to Proceed with Equipment Destruction
+
+#### 1. Talk to Eligos
+
+After speaking with Eligos, the Equipment Destruction screen will appear.
+
+<figure><img src="../../.gitbook/assets/ed1.png" alt=""><figcaption></figcaption></figure>
+
+#### 2. Select Equipment to Destroy
+
+Select the Equipment you wish to destroy, then proceed with the destruction.
+
+<figure><img src="../../.gitbook/assets/ed2.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. Destruction Complete & Byproducts Obtained
+
+Once Equipment Destruction is complete, you will obtain byproducts.
+
+<figure><img src="../../.gitbook/assets/ed3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Unlike the guide below, **when you destroy bound equipment, fewer byproducts are obtained.**
+### Notes
+
+The amount of byproducts obtained may vary depending on whether the Equipment is **bound**.\
+In particular, destroying **bound Equipment** may result in fewer byproducts.
 {% endhint %}
 
-Check the chart below for detailed information!
+***
 
-💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
-💔[Rune Destruction](equipment-destruction.md#rune-destruction)
+### ◾ Equipment Destruction Byproduct Chart
+
+The byproducts obtainable by destroying Equipment \
+through Eligos can be checked in the chart below.
+
+🔸 [**Equipment Destruction Byproduct Chart**](equipment-destruction.md#equipment-destruction-3)
+
+***
+
+### ◾ Related Pages
+
+The item drop probabilities for Rune Destruction can be checked on the page below.\
+👉 [**Go to Skill Rune Destruction Probability Guide**](../hero-ascension/succession/skill-rune.md#skill-rune-destruction-probability-guide)
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 🔥 **장비 파괴 부산물 차트**
+### ◾ 장비 파괴 (Equipment Destruction)
 
-💡 **장비를 파괴하면 어떤 부산물을 얻을 수 있을까요?**\
-이 페이지에서는 **로튼힐 > 마법상점 >** [**엘리고스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)를 통해 장비를 파괴했을 때 획득할 수 있는 **부산물 차트**를 제공합니다.
+장비 파괴는 NPC **엘리고스**를 통해 원하는 장비를 직접 선택하여 파괴하고,\
+부산물을 획득하는 시스템입니다.
 
-{% hint style="info" %}
-**이 시스템은** [**인챈트로 인한 장비 파괴**](../enchantment/enchantment-failed.md#undefined-1)**와는 구분됩니다.**
+{% hint style="warning" %}
+장비 파괴는 **인챈트(강화) 진행 중 발생하는 장비 파괴**와 서로 다른 시스템입니다.
+
+* **엘리고스 장비 파괴**: 플레이어가 장비를 선택해 직접 파괴하고 부산물을 획득합니다.
+* [**인챈트 장비 파괴**](../enchantment/enchantment-failed.md): 인챈트 과정에서 확률로 장비가 파괴될 수 있으며, \
+  본 페이지의 부산물 차트와는 구분됩니다.
 {% endhint %}
+
+***
+
+### ◾ 엘리고스 위치
+
+장비 파괴는 아래 위치에서 진행할 수 있습니다.
+
+* [로튼힐](../../field-info/rotten-hill/) > [마법 상점](../../field-info/rotten-hill/magic-shop/) > [NPC **엘리고스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)
+
+***
+
+### ◾ 장비 파괴 진행 방법
+
+#### 1. 엘리고스와 대화하기
+
+엘리고스와 대화하면 장비를 파괴할 수 있는 화면이 표시됩니다.
+
+<figure><img src="../../.gitbook/assets/ed1.png" alt=""><figcaption></figcaption></figure>
+
+#### 2. 파괴할 장비 선택하기
+
+파괴할 장비를 선택한 후 파괴를 진행할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/ed2.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. 파괴 완료 및 부산물 획득
+
+장비 파괴가 완료되면 부산물을 획득합니다.
+
+<figure><img src="../../.gitbook/assets/ed3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-&#x20;아래 가이드와는 달리, **귀속 장비를 파괴할 경우 부산물이 적게 나옵니다.**
+### 주의 사항
+
+장비 파괴는 **장비의 귀속 여부**에 따라 획득하는 부산물 수량이 달라질 수 있습니다.\
+특히, **귀속 장비**를 파괴할 경우 부산물이 더 적게 획득될 수 있습니다.
 {% endhint %}
 
-자세한 내용은 아래 차트를 확인하세요!
+***
 
-💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
-💔[Rune Destruction](equipment-destruction.md#rune-destruction)
+### ◾ 장비 파괴 부산물 차트
+
+엘리고스를 통해 장비를 파괴했을 때 획득할 수 있는 부산물은 아래 차트에서 확인할 수 있습니다.
+
+🔸 [**장비 파괴 부산물 차트**](equipment-destruction.md#equipment-destruction-1)
+
+***
+
+### ◾ 관련 페이지 안내
+
+룬 파괴 시 획득 가능한 아이템 확률은 아래 페이지에서 확인할 수 있습니다.\
+👉 [**스킬 룬 파괴 확률 안내 바로가기**](../hero-ascension/succession/skill-rune.md#skill-rune-destruction-probability-guide)
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 🔥 **装備破壊 副産物チャート**
+### ◾ 装備破壊（Equipment Destruction）
 
-💡 **装備を破壊すると、どのような副産物が得られるのでしょうか？**\
-このページでは、**ロッテンヒル > マジックショップ > エリゴス** を通じて装備を破壊した際に獲得できる **副産物チャート** をご案内いたします。
+装備破壊は、NPC **エリゴス** を通じて、任意の装備を直接選択して破壊し、\
+副産物を獲得できるシステムです。
 
-{% hint style="info" %}
-このシステムは、[エンチャントによる装備破壊](../enchantment/enchantment-failed.md#ri-ben-yu)とは異なります。
+{% hint style="warning" %}
+装備破壊は、**エンチャント（強化）進行中に発生する装備破壊**とは 異なるシステムです。
+
+* **エリゴス装備破壊**：\
+  プレイヤーが装備を選択して直接破壊し、副産物を獲得します。
+* [**エンチャント装備破壊**](../enchantment/enchantment-failed.md#enchanto)：\
+  エンチャント過程において、確率により装備が破壊される場合がありますが、\
+  本ページの副産物チャートとは **関係ありません**。
 {% endhint %}
+
+***
+
+### ◾ エリゴスの位置
+
+装備破壊は、以下の場所で行うことができます。
+
+* [ロッテンヒル](../../field-info/rotten-hill/) ＞ [魔法ショップ](../../field-info/rotten-hill/magic-shop/) ＞ [NPC **エリゴス**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)
+
+***
+
+### ◾ 装備破壊の進行方法
+
+#### 1. エリゴスと会話する
+
+エリゴスと会話すると、装備を破壊できる画面が表示されます。
+
+<figure><img src="../../.gitbook/assets/ed1.png" alt=""><figcaption></figcaption></figure>
+
+#### 2. 破壊する装備を選択する
+
+破壊したい装備を選択し、装備破壊を進行できます。
+
+<figure><img src="../../.gitbook/assets/ed2.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. 破壊完了・副産物獲得
+
+装備破壊が完了すると、副産物を獲得します。
+
+<figure><img src="../../.gitbook/assets/ed3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-以下のガイドとは異なり、**バウンド装備を破壊する場合、副産物が少なくなります。**
+### 注意事項
+
+装備破壊で獲得できる副産物の数量は、装備の **帰属状態** によって異なる場合があります。\
+特に、**帰属装備** を破壊した場合、獲得できる副産物が 少なくなることがあります。
 {% endhint %}
 
-詳しくは、以下のチャートをご確認ください！
+***
 
-💔[Equipment Destruction](equipment-destruction.md#equipment-destruction)\
-💔[Rune Destruction](equipment-destruction.md#rune-destruction)
+### ◾ 装備破壊副産物チャート
+
+エリゴスを通じて装備を破壊した際に 獲得できる副産物は、以下のチャートから確認できます。
+
+🔸 [**装備破壊副産物チャート**](equipment-destruction.md#equipment-destruction-2)
+
+***
+
+### ◾ 関連ページ案内
+
+ルーン破壊時に獲得可能な アイテム確率については、以下のページから確認できます。\
+👉 [スキルルーン破壊確率案内へ](../hero-ascension/succession/skill-rune.md#sukirurn-2)
 {% endtab %}
 {% endtabs %}
 
-## 💔Equipment Destruction
+### 💔Equipment Destruction
 
 <details>
 
