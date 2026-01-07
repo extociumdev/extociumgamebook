@@ -47,7 +47,7 @@ the **Equipment Destruction** system.
 
 Equipment Destruction can be performed at the following location.
 
-* [Rottenhill](../../../field-info/rotten-hill/) > [Magic Shop](../../../field-info/rotten-hill/magic-shop/) > [NPC **Eligos**](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-and-equipment-destruction-system)
+* [Rottenhill](../../field-info/rotten-hill/) > [Magic Shop](../../field-info/rotten-hill/magic-shop/) > [NPC **Eligos**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-and-equipment-destruction-system)
 
 Through Equipment Destruction, unnecessary Equipment can be safely removed.
 
@@ -95,7 +95,7 @@ EXTOCIUM에서는 영웅뿐만 아니라 **장비도 리로드하고 정리할 �
 
 장비 파괴는 아래 위치에서 진행할 수 있습니다.
 
-* [로튼힐](../../../field-info/rotten-hill/) > [마법 상점](../../../field-info/rotten-hill/magic-shop/) > [NPC **엘리고스**](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#and)
+* [로튼힐](../../field-info/rotten-hill/) > [마법 상점](../../field-info/rotten-hill/magic-shop/) > [NPC **엘리고스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#and)
 
 장비 파괴를 통해 불필요한 장비를 안전하게 처리할 수 있습니다.
 
@@ -145,7 +145,7 @@ EXTOCIUMでは、ヒーローだけでなく **装備もリロードや整理**�
 
 装備破壊は、以下の場所で行えます。
 
-[ロッテンヒル](../../../field-info/rotten-hill/) ＞ [魔法ショップ](../../../field-info/rotten-hill/magic-shop/) ＞ [NPC **エリゴス**](../../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#erigosushisutemu)
+[ロッテンヒル](../../field-info/rotten-hill/) ＞ [魔法ショップ](../../field-info/rotten-hill/magic-shop/) ＞ [NPC **エリゴス**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#erigosushisutemu)
 
 装備破壊を通じて、不要な装備を 安全に処理できます。
 
@@ -157,8 +157,8 @@ EXTOCIUMでは、ヒーローだけでなく **装備もリロードや整理**�
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="reload-equipment.md" %}
-[reload-equipment.md](reload-equipment.md)
+{% content-ref url="reload-weapon.md" %}
+[reload-weapon.md](reload-weapon.md)
 {% endcontent-ref %}
 
 {% content-ref url="equipment-destruction.md" %}
