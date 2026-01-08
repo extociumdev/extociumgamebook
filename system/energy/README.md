@@ -29,7 +29,7 @@ and to maintain the value of items obtained through hunting.
 * Energy is **bound to each owned Hero individually**.
 * Energy is divided into **Free Energy** and **Paid Energy**.
 
-👉 [Check 0 Energy Penalty Details](0-energy-penalty.md)
+👉 [Check Free Energy Recharge Rules](recharge-rules.md)
 
 | Category                                                   | Description                                                                                                                             |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -97,7 +97,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 에너지는 **보유 중인 각 영웅에게 귀속**됩니다.
 * 에너지는 **무료 에너지**와 **유료 에너지**로 구분됩니다.
 
-👉 [Check Free Energy Recharge Rules](recharge-rules.md)
+👉 [무료 에너지 충전 규칙 확인하기](recharge-rules.md)
 
 | 구분                                             | 설명                                                                                                                                                   |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
