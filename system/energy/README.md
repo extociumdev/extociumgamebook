@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ⚡ Energy
 
-<figure><img src="../../.gitbook/assets/image (615).png" alt=""><figcaption><p>Check out the energy panel on your game HUD!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-01-08 171042.png" alt="" width="133"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
