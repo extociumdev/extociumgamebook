@@ -63,6 +63,8 @@ and high-level Heroes can also **hunt or gather more easily in lower-level areas
 When all Energy is consumed, **items and gold no longer drop**,\
 and the amount of EXP gained is reduced.
 
+👉 [Check 0 Energy Penalty Details](0-energy-penalty.md)
+
 ***
 
 ### ◾ Paid Energy Purchase
@@ -95,7 +97,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 에너지는 **보유 중인 각 영웅에게 귀속**됩니다.
 * 에너지는 **무료 에너지**와 **유료 에너지**로 구분됩니다.
 
-👉 [무료 에너지 충전 규칙 확인하기](recharge-rules.md)
+👉 [Check Free Energy Recharge Rules](recharge-rules.md)
 
 | 구분                                             | 설명                                                                                                                                                   |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
