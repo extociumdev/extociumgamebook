@@ -29,6 +29,8 @@ and to maintain the value of items obtained through hunting.
 * Energy is **bound to each owned Hero individually**.
 * Energy is divided into **Free Energy** and **Paid Energy**.
 
+👉 [Check 0 Energy Penalty Details](0-energy-penalty.md)
+
 | Category                                                   | Description                                                                                                                             |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Energy Types                                               | Free Energy, Paid Energy                                                                                                                |
@@ -40,24 +42,19 @@ and to maintain the value of items obtained through hunting.
 
 ***
 
-### ◾ Free Energy Consumption
+### ◾ Energy Consumption Rules
 
-While playing a Hero,\
-Energy decreases by **1** each time a certain amount of EXP is gained, based on the Hero’s level.
+Each monster in a field is configured to consume **1 to n Energy Points**.
 
-When hunting monsters that are **11 or more levels lower** than your Hero,\
-Energy consumption is calculated based on the **monster’s level**,\
-not your Hero’s level.
+When a monster is defeated, Energy Points are accumulated.\
+Once the accumulated points reach the threshold (**n**), **1 Energy is consumed**.
 
-For example,\
-if your Hero is level 21 and you hunt a level 10 monster,\
-the **Level Cap System** applies, and Energy consumption follows the **level 10 Energy table**.
+The amount of Energy Points consumed may vary\
+depending on the **monster type and the field**.
 
-When hunting monsters **higher than your Hero’s level**,\
-more EXP is gained, so Energy may feel like it is consumed **much faster**.
-
-👉 [Check Free Energy Recharge Rules](recharge-rules.md)\
-👉 [Check Energy Consumption by Level](energy-consumption-by-level.md)
+Through this system,\
+hunting in **higher-level hunting grounds becomes more efficient**,\
+and high-level Heroes can also **hunt or gather more easily in lower-level areas**.<br>
 
 ***
 
@@ -65,8 +62,6 @@ more EXP is gained, so Energy may feel like it is consumed **much faster**.
 
 When all Energy is consumed, **items and gold no longer drop**,\
 and the amount of EXP gained is reduced.
-
-👉 [Check 0 Energy Penalty Details](0-energy-penalty.md)
 
 ***
 
@@ -80,8 +75,6 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
   it is applied immediately to the **currently equipped Hero**.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -102,6 +95,8 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 에너지는 **보유 중인 각 영웅에게 귀속**됩니다.
 * 에너지는 **무료 에너지**와 **유료 에너지**로 구분됩니다.
 
+👉 [무료 에너지 충전 규칙 확인하기](recharge-rules.md)
+
 | 구분                                             | 설명                                                                                                                                                   |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 에너지 종류                                         | 무료 에너지, 유료 에너지                                                                                                                                       |
@@ -113,22 +108,17 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 
 ***
 
-### ◾ 무료 에너지 소모
+### ◾ 에너지 소모 규칙
 
-플레이 중인 영웅은 레벨에 따라 **일정 경험치를 획득할 때마다 에너지가 1씩 감소**합니다.
+각 필드의 몬스터는 **1 \~ n의 에너지 포인트**를 소모하도록 설정되어 있습니다.
 
-자신의 레벨보다 **11 이상 낮은 몬스터**를 사냥할 경우, \
-내 레벨이 아닌 **몬스터 레벨 기준으로 에너지가 소모**됩니다.
+몬스터를 처치하면 에너지 포인트가 누적되며,\
+**누적 포인트가 기준값(n)에 도달하면 에너지 1이 소모**됩니다.
 
-예를 들어,\
-내 레벨이 21이고 10레벨 몬스터를 사냥하면 **레벨 캡 시스템**에 따라\
-10레벨 기준의 에너지 감소 규칙이 적용됩니다.
+몬스터의 종류와 필드에 따라, 소모되는 에너지 포인트 수는 다를 수 있습니다.
 
-자신의 레벨보다 **높은 몬스터**를 사냥하면 경험치를 많이 획득하는 만큼, \
-에너지가 빠르게 소모될 수 있습니다.
-
-👉 [무료 에너지 충전 규칙 확인하기](recharge-rules.md)\
-👉 [레벨별 에너지 소비 테이블 확인하기](energy-consumption-by-level.md)
+이 시스템을 통해, **상위 레벨 사냥터에서의 사냥 효율이 더욱 높아지며**,\
+고레벨 영웅이 **저레벨 지역에서 채집이나 사냥을 진행하는 것도 수월해집니다.**
 
 ***
 
@@ -168,36 +158,37 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 <div><figure><img src="../../.gitbook/assets/energy_free.png" alt=""><figcaption><p>無料エネルギー使用時の表示</p></figcaption></figure> <figure><img src="../../.gitbook/assets/energy_paid.png" alt=""><figcaption><p>有料エネルギー使用時の表示</p></figcaption></figure></div>
 
 * エナジーは**所持している各ヒーローごとに紐づけられます。**
-*   エナジーは**無料エナジー**と**有料エナジー**に分かれています。
+* エナジーは**無料エナジー**と**有料エナジー**に分かれています。
 
-    | 区分                                            | 説明                                                                                         |
-    | --------------------------------------------- | ------------------------------------------------------------------------------------------ |
-    | エネルギーの種類                                      | 無料エネルギー、有料エネルギー                                                                            |
-    | エネルギー消費順序                                     | 有料エネルギーが日々のエネルギーより優先して消費されます                                                               |
-    | <mark style="color:blue;">無料エネルギーの充電</mark>   | <p>毎日50ずつ自動充電、蓄積されず毎日リセットされます<br>🕖Asia Server : KST 00:00<br>🕖USA Server : UTC 00:00</p> |
-    | <mark style="color:purple;">有料エネルギーの獲得</mark> | [ショップ](../../economy/shop/#ri-ben-yu)で購入するか広告を通じて取得可能                                      |
-    | <mark style="color:blue;">無料エネルギー使用時</mark>   | ⛔<mark style="color:orange;">**アイテムおよびゴールドのドロップ率が20%減少**</mark>                            |
-    | <mark style="color:purple;">有料エネルギー使用時</mark> | 🍀<mark style="color:green;">**有料エネルギー専用のボーナスドロップが発生（狩りおよび採集時）**</mark>                    |
+👉 [無料エナジー充電ルールを確認](recharge-rules.md)
+
+| 区分                                            | 説明                                                                                         |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| エネルギーの種類                                      | 無料エネルギー、有料エネルギー                                                                            |
+| エネルギー消費順序                                     | 有料エネルギーが日々のエネルギーより優先して消費されます                                                               |
+| <mark style="color:blue;">無料エネルギーの充電</mark>   | <p>毎日50ずつ自動充電、蓄積されず毎日リセットされます<br>🕖Asia Server : KST 00:00<br>🕖USA Server : UTC 00:00</p> |
+| <mark style="color:purple;">有料エネルギーの獲得</mark> | [ショップ](../../economy/shop/#ri-ben-yu)で購入するか広告を通じて取得可能                                      |
+| <mark style="color:blue;">無料エネルギー使用時</mark>   | ⛔<mark style="color:orange;">**アイテムおよびゴールドのドロップ率が20%減少**</mark>                            |
+| <mark style="color:purple;">有料エネルギー使用時</mark> | 🍀<mark style="color:green;">**有料エネルギー専用のボーナスドロップが発生（狩りおよび採集時）**</mark>                    |
 
 ***
 
-### ◾ 無料エナジー消費
+### ◾ エナジー消費ルール
 
-プレイ中のヒーローは、\
-レベルに応じて**一定量のEXPを獲得するたびに、エナジーが1減少**します。
+各フィールドのモンスターは、\
+**1～nのエナジーポイント**を消費するように設定されています。
 
-自分のレベルより**11以上低いモンスター**を討伐した場合、\
-ヒーローのレベルではなく、**モンスターのレベル基準でエナジーが消費**されます。
+モンスターを討伐するとエナジーポイントが蓄積され、\
+累積ポイントが基準値（**n**）に達すると、**エナジーが1消費**されます。
 
-例として、\
-ヒーローのレベルが21で、レベル10のモンスターを討伐した場合、\
-**レベルキャップシステム**により、レベル10基準のエナジー消費ルールが適用されます。
+モンスターの種類やフィールドによって、\
+消費されるエナジーポイントの量は異なる場合があります。
 
-自分のレベルより**高いモンスター**を討伐すると、\
-多くのEXPを獲得できるため、エナジーの消費が**早く感じられる場合があります。**
+このシステムにより、\
+**高レベル狩場での狩り効率が向上し、**\
+高レベルヒーローが**低レベル地域で採集や狩りを行うことも容易**になります。
 
-👉 [無料エナジー充電ルールを確認](recharge-rules.md)\
-👉 [レベル別エナジー消費テーブルを確認](energy-consumption-by-level.md)
+
 
 ***
 
@@ -219,8 +210,6 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * エナジーポーションを使用すると、**現在装備中のヒーロー**に即時適用されます。
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endtab %}
 {% endtabs %}
 

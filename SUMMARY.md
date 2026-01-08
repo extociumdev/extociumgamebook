@@ -102,7 +102,6 @@
 
 * [⚡ Energy](system/energy/README.md)
   * [📁 Recharge Rules](system/energy/recharge-rules.md)
-  * [📁 Energy consumption by level](system/energy/energy-consumption-by-level.md)
   * [📁 0 Energy penalty](system/energy/0-energy-penalty.md)
 * [💵 Vault of Time](system/vault-of-time.md)
 * [⚠️ PK](system/pk/README.md)
