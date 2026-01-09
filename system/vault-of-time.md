@@ -6,211 +6,310 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-## ⏳ Vault of Time
+### ⏳ Vault of Time
 
-#### A System That Reduces PK Loss While Preserving Field Tension
+The **Vault of Time** is a protective system that automatically stores\
+a portion of the gold and items obtained through **PvE activities in the field**.
 
-<figure><img src="https://extocium.com/wp-content/uploads/2025/11/image-2.png" alt=""><figcaption></figcaption></figure>
-
-The **Vault of Time** automatically stores a portion of the **gold and items** you acquire during PvE gameplay.\
-This system reduces losses from PK while ensuring that PK remains active across most field areas.
-
-***
-
-### 🏦 How the Vault Works
-
-#### 🔹 1) Automatic storage of part of the gold/items earned in PvE
-
-Any gold or items obtained from monsters or field activities are partially stored in the Vault of Time.
+It is designed to reduce losses caused by PK\
+while maintaining overall field tension and the PK structure\
+through a **balanced system**.
 
 ***
 
-#### 🔹 2) The vault remains active for **6 hours** from the moment it first receives stored resources
+### ◾ How to Access the Vault of Time
 
-* The timer starts when you first obtain a resource.
-* After 6 hours, the vault **expires**, and all stored rewards disappear.
+* Tap the **Vault icon** in the upper-right corner of the HUD.
 
-⏰ Make sure to open the vault before the timer ends!
+<figure><img src="../.gitbook/assets/vt1.png" alt=""><figcaption></figcaption></figure>
 
-***
+* Select **“Vault of Time”** from the menu.
+* You can view the list of gold and items currently stored in the Vault.
 
-#### 🔹 3) In PK situations, **only vault-stored items and gold drop**
+<figure><img src="../.gitbook/assets/vt2.png" alt=""><figcaption></figcaption></figure>
 
-* If you die to PK, **only the resources in the Vault** will drop—not your inventory.
-* If you pick up the dropped resources again:\
-  👉 They return directly into your Vault.
-
-This minimizes abusive PK losses.
+_👉 You can check the current Vault status at any time._
 
 ***
 
-#### 🔹 4) Open the vault using Keys from the Wizard Challenge
+### ◾ Vault of Time Overview
 
-* Keys obtained from the [**Wizard Challenge**](../contents/wizard-challenge.md#eng) are required to open the vault.
-* Opening the vault grants all stored gold and items immediately.
-
-⚠️ If you fail to open it in time, it disappears and resets to zero.
-
-***
-
-### 🚪 How to Access
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-📌 Tap the **vault icon** on the top-right of the HUD\
-📌 Select **Vault of Time** from the menu\
-📌 View all currently stored gold and item information
+* A portion of resources obtained through PvE activities is automatically stored.
+* Resources stored in the Vault are managed **separately from your inventory**.
+* This helps minimize inventory loss even when PK occurs.
 
 ***
 
-### 📘 Summary
+### ◾ How the Vault of Time Works
 
-* PvE rewards are partially stored automatically
-* Vault lasts 6 hours from first acquisition
-* Only vault-stored items/gold drop on PK death
-* Dropped resources you recover return to the vault
-* Open with Wizard Challenge Keys
-* Accessible through HUD top-right vault icon
+#### 1️⃣ Automatic Resource Storage
 
-Use the Vault of Time to enjoy fairer PK gameplay while keeping field tension high! ✨
+A portion of the gold and items obtained through PvE activities\
+such as defeating field monsters or clearing content\
+is **automatically stored in the Vault of Time**.
+
+***
+
+#### 2️⃣ Vault Duration
+
+At the moment you obtain resources for the first time,\
+the Vault of Time is activated and a **6-hour timer begins**.
+
+* The Vault remains active for **6 hours from activation**.
+* If the Vault is not opened within the time limit,\
+  it will automatically expire and the stored resources cannot be recovered.
+
+⏰ Be sure to open the Vault within the time limit to claim your rewards.
+
+***
+
+#### 3️⃣ Drop Rules on PK
+
+If you are defeated through PK,\
+**only the resources stored in the Vault of Time are dropped**,\
+not the items in your inventory.
+
+{% hint style="info" %}
+If you pick up the dropped gold or items again,\
+👉 they are **automatically returned to the Vault of Time**.
+
+**This system prevents PK abuse and minimizes unnecessary repeated losses.**
+{% endhint %}
+
+***
+
+#### 4️⃣ How to Open the Vault
+
+To open the Vault of Time, you need a **Key** obtained from the [**Wizard Challenge**](../contents/wizard-challenge.md).
+
+* Using the Key immediately opens the Vault.
+* All stored gold and items are obtained instantly.
+
+You can enter the Wizard Challenge\
+by tapping the **scroll-shaped icon** on the right side of the HUD.
+
+<figure><img src="../.gitbook/assets/vt3.png" alt=""><figcaption></figcaption></figure>
+
+By completing the challenge, you can obtain a **Vault Key**.
+
+<figure><img src="../.gitbook/assets/vt4.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+#### If the Vault is not opened within the time limit, it will expire, and the next storage cycle will start from **zero**.
+{% endhint %}
+
+***
+
+### 🔎 Vault of Time at a Glance
+
+* Access the Vault of Time via the Vault icon in the upper-right HUD.
+* A portion of PvE rewards is automatically stored in the Vault.
+* The Vault remains active for **6 hours after activation**.
+* If not opened in time, stored resources expire.
+* On PK defeat, **only Vault-stored resources are dropped**, while inventory items are protected.
+* Picked-up drops are returned to the Vault automatically.
+* The Vault can only be opened using a **Key obtained from the Wizard Challenge**.
 {% endtab %}
 
 {% tab title="한국어" %}
-## ⏳ 시간의 금고(Vault of Time)
+### ⏳ 시간의 금고 (Vault of Time)
 
-#### PK 리스크를 완화하면서 필드 긴장감을 유지하는 핵심 시스템
+시간의 금고는\
+필드에서 진행하는 **PvE 활동 중 획득한 골드와 아이템의 일부를 자동으로 보관**하는 보호 시스템입니다.
 
-<figure><img src="https://extocium.com/wp-content/uploads/2025/11/image-2.png" alt=""><figcaption></figcaption></figure>
-
-\*\*시간의 금고(Vault of Time)\*\*는 필드에서의 PvE 활동 중 획득한 **골드와 아이템의 일부를 자동으로 보관**하는 보호형 시스템입니다. PK로 인해 발생하는 손실을 줄이면서도, 필드 전역에서 PK가 유지되도록 설계된 균형형 구조입니다.
-
-***
-
-### 🏦 시간의 금고 작동 방식
-
-#### 🔹 1) PvE 플레이 중 획득한 골드/아이템 일부가 자동 보관
-
-필드 몬스터 처치, 콘텐츠 클리어 등으로 얻은 자원 중 일부가 **자동으로 시간의 금고에 쌓입니다.**
+PK로 인한 손실을 줄이면서도,\
+필드 전반의 긴장감과 PK 구조가 유지되도록 설계된 **균형형 시스템**입니다.
 
 ***
 
-#### 🔹 2) 금고는 보관 시작 시점부터 **6시간 동안 유지**
+### ◾ 시간의 금고 접근 방법
 
-* 처음으로 재화를 획득한 순간 금고가 \*\*활성화(6시간 타이머 시작)\*\*됩니다.
-* 시간이 지나면 금고는 **자동 소멸**하며, 보상은 회수할 수 없습니다.
+* HUD 우측 상단의 **금고 아이콘**을 터치합니다.
 
-⏰ 시간 내에 반드시 금고를 열어 보상을 획득하세요!
+<figure><img src="../.gitbook/assets/vt1.png" alt=""><figcaption></figcaption></figure>
 
-***
+* 메뉴에서 **‘시간의 금고’**&#xB97C; 선택합니다.
+* 현재 보관 중인 골드 및 아이템 목록을 확인할 수 있습니다.
 
-#### 🔹 3) PK 발생 시, 금고에 있는 재화만 드랍
+<figure><img src="../.gitbook/assets/vt2.png" alt=""><figcaption></figcaption></figure>
 
-* PK로 사망할 경우 **플레이어 인벤토리가 아닌, 금고 보관분만** 드랍됩니다.
-* 드랍된 아이템이나 골드를 내가 다시 주우면?\
-  👉 **다시 금고로 자동 귀속**됩니다.
-
-⚠️ 이를 통해 PK 악용을 방지하고, 불필요한 피해를 최소화합니다.
+👉 _언제든지 현재 금고 상태를 확인할 수 있습니다._
 
 ***
 
-#### 🔹 4) 금고는 ‘위자드 챌린지(Wizard Challenge)’ 보상 열쇠로 개방
+### ◾ 시간의 금고 기본 개요
 
-* 금고를 열기 위해서는 \*\*[위자드 챌린지](../contents/wizard-challenge.md#undefined-1)에서 획득한 열쇠(Key)\*\*가 필요합니다.
-* 금고 개방 → 그동안 보관된 **골드 & 아이템 즉시 획득**
-
-🔥 시간 내에 열지 못하면 금고는 소멸되고, 다시 0부터 시작됩니다!
-
-***
-
-### 🚪 접근 방법
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-📌 **HUD 우측 상단의 ‘금고 아이콘’을 터치**\
-📌 **메뉴에서 ‘시간의 금고’ 선택**\
-📌 **보관 중인 골드 및 아이템 목록을 확인**할 수 있습니다.
+* 필드 PvE 활동을 통해 획득한 재화 일부가 자동으로 보관됩니다.
+* 금고에 보관된 재화는 일반 인벤토리와 **분리되어 관리**됩니다.
+* PK 발생 시에도 인벤토리 손실을 최소화할 수 있습니다.
 
 ***
 
-### 📘 핵심 요약
+### ◾ 시간의 금고 작동 방식
 
-* PvE로 얻은 일부 자원이 **자동으로 시간의 금고에 저장**됨
-* 금고는 **6시간 지속**, 기간 내 열지 않으면 보관분은 소멸
-* PK 발생 시 **금고 보관분만 드랍**, 본래 인벤토리는 보호
-* 드랍을 다시 주우면 금고로 재귀속
-* 금고는 **위자드 챌린지로 얻은 열쇠로만 개방 가능**
-* HUD 우측 상단 금고 아이콘으로 접근 가능
+#### 1️⃣ 재화 자동 보관
 
-시간의 금고 시스템을 통해 **PK 긴장감을 유지하면서도 플레이 손실을 최소화하는 균형 잡힌 필드 경험**을 즐겨보세요!
+필드 몬스터 처치, 콘텐츠 클리어 등 PvE 활동을 통해 획득한 골드 및 아이템 중 일부가\
+**자동으로 시간의 금고에 저장**됩니다.
+
+***
+
+#### 2️⃣ 금고 유지 시간
+
+처음으로 재화를 획득한 순간, 시간의 금고가 **활성화되며 6시간 타이머가 시작**됩니다.
+
+* 금고는 활성화 시점부터 **6시간 동안 유지**됩니다.
+* 제한 시간 내에 열지 않으면, 금고는 자동으로 소멸되며 보관된 재화는 회수할 수 없습니다.
+
+⏰ 반드시 시간 내에 금고를 열어 보상을 획득하세요.
+
+***
+
+#### 3️⃣ PK 발생 시 드랍 규칙
+
+PK로 인해 사망할 경우, 플레이어의 인벤토리가 아닌 **시간의 금고에 보관된 재화만 드랍**됩니다.
+
+{% hint style="info" %}
+드랍된 아이템이나 골드를 내가다시 획득하면,\
+👉 해당 재화는 **다시 시간의 금고로 자동 귀속**됩니다.
+
+**이를 통해 PK 악용을 방지하고, 불필요한 반복 피해를 최소화합니다.**
+{% endhint %}
+
+***
+
+#### 4️⃣ 금고 개방 방법
+
+시간의 금고를 개방하려면, [**위자드 챌린지(Wizard Challenge)**](../contents/wizard-challenge.md)에서 획득한 **열쇠(Key)**&#xAC00; 필요합니다.\
+열쇠를 사용하면 금고가 즉시 개방되며, 보관 중이던 골드와 아이템을 모두 획득할 수 있습니다.
+
+위자드 챌린지는 **HUD 우측의 두루마리 모양 아이콘**을 터치하여 입장할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/vt3.png" alt=""><figcaption></figcaption></figure>
+
+챌린지를 완료하면 **금고 열쇠를 획득**할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/vt4.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+#### 제한 시간 내에 열지 못하면 금고는 소멸되며, 다음 보관은 다시 0부터 시작됩니다.
+{% endhint %}
+
+***
+
+### 🔎 시간의 금고 한눈에 다시보기
+
+* HUD 우측 상단 금고 아이콘을 통해 시간의 금고에 접근할 수 있습니다.
+* PvE로 획득한 일부 재화가 자동으로 금고에 저장됩니다.
+* 금고는 활성화 후 **6시간 동안 유지**됩니다.
+* 시간 내에 열지 않으면 보관된 재화는 소멸됩니다.
+* PK 발생 시 **금고 보관분만 드랍**되며 인벤토리는 보호됩니다.
+* 드랍된 재화를 다시 획득하면 금고로 재귀속됩니다.
+* 금고는 **위자드 챌린지에서 획득한 열쇠**로만 개방할 수 있습니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-## ⏳ 時の金庫
+### ⏳ 時間の金庫（Vault of Time）
 
-#### PK被害を軽減しつつ、フィールドの緊張感を維持するシステム
+**時間の金庫**は、\
+フィールドで行う **PvE活動中に獲得したゴールドやアイテムの一部を自動で保管**する保護システムです。
 
-<figure><img src="https://extocium.com/wp-content/uploads/2025/11/image-2.png" alt=""><figcaption></figcaption></figure>
-
-**時の金庫（Vault of Time）は、PvEプレイ中に獲得したゴールドやアイテムの一部を自動的に保管**するシステムです。\
-PKによる損失を抑えながら、フィールド全域でPKが適切に維持されるよう設計されています。
-
-***
-
-### 🏦 金庫の仕組み
-
-#### 🔹 1) PvEで獲得したゴールド／アイテムの一部を自動保管
-
-フィールドでの討伐・活動で得た資源の一部が、自動的に「時の金庫」に蓄積されます。
+PKによる損失を抑えつつ、\
+フィールド全体の緊張感とPK構造を維持するよう設計された **バランス型システム**です。
 
 ***
 
-#### 🔹 2) 金庫は初回保管時から**6時間だけ有効**
+### ◾ 時間の金庫へのアクセス方法
 
-* 最初に資源が入った瞬間からカウント開始。
-* 6時間が経過すると **金庫は消滅** し、中身は受け取れません。
+* HUD右上の **金庫アイコン** をタップします。
 
-⏰ 時間内に必ず開封しましょう！
+<figure><img src="../.gitbook/assets/vt1.png" alt=""><figcaption></figcaption></figure>
 
-***
+* メニューから **「時間の金庫」** を選択します。
+* 現在保管中のゴールドおよびアイテム一覧を確認できます。
 
-#### 🔹 3) PK時にドロップするのは**金庫にある分のみ**
+<figure><img src="../.gitbook/assets/vt2.png" alt=""><figcaption></figcaption></figure>
 
-* PKで死亡しても、**インベントリではなく金庫内の資源のみがドロップ**します。
-* そのドロップを自分で拾い直した場合：\
-  👉 自動的に再び金庫へ戻ります。
-
-これにより、PKによる過度な損失を防ぎます。
+_👉 いつでも現在の金庫の状態を確認できます。_
 
 ***
 
-#### 🔹 4) 開封にはウィザードチャレンジの鍵が必要
+### ◾ 時間の金庫 基本概要
 
-* 金庫を開くには、[**ウィザードチャレンジで入手した鍵**](../contents/wizard-challenge.md#ri-ben-yu)が必要です。
-* 開封すると、保管されていたゴールドとアイテムを即時獲得できます。
-
-⚠️ 時間内に開封できなかった場合、金庫は消滅し0から再スタート！
-
-***
-
-### 🚪 アクセス方法
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-📌 HUD右上の **金庫アイコン** をタップ\
-📌 メニューから **時の金庫** を選択\
-📌 現在保管されているゴールド・アイテム量を確認可能
+* フィールドでのPvE活動によって獲得した資源の一部が自動で保管されます。
+* 金庫に保管された資源は、通常のインベントリとは **別に管理** されます。
+* PKが発生した場合でも、インベントリの損失を最小限に抑えられます。
 
 ***
 
-### 📘 まとめ
+### ◾ 時間の金庫の仕組み
 
-* PvEで得た一部の資源を自動保管
-* 初回獲得から6時間の制限付き
-* PK死亡時に落とすのは金庫内の資源のみ
-* 拾い直せば金庫に再帰属
-* 開封にはウィザードチャレンジの鍵が必要
-* HUD右上の金庫アイコンからアクセス
+#### 1️⃣ 資源の自動保管
 
-時の金庫を活用して、PKの緊張感を保ちつつ、安全でスマートなフィールドプレイを楽しみましょう！✨
+フィールドモンスターの討伐やコンテンツクリアなど、\
+PvE活動によって獲得したゴールドやアイテムの一部が\
+**自動的に時間の金庫へ保管**されます。
+
+***
+
+#### 2️⃣ 金庫の保持時間
+
+初めて資源を獲得した瞬間、時間の金庫が **有効化され、6時間のタイマーが開始**されます。
+
+* 金庫は有効化時点から **6時間維持**されます。
+* 制限時間内に開放しなかった場合、\
+  金庫は自動的に消滅し、保管された資源は回収できません。
+
+⏰ 必ず時間内に金庫を開放し、報酬を獲得してください。
+
+***
+
+#### 3️⃣ PK発生時のドロップルール
+
+PKによって死亡した場合、プレイヤーのインベントリではなく、\
+**時間の金庫に保管された資源のみがドロップ**されます。
+
+{% hint style="info" %}
+ドロップしたゴールドやアイテムを再度拾った場合、\
+👉 **再び時間の金庫へ自動的に帰属**されます。
+
+**これにより、PKの悪用を防止し、不要な繰り返し被害を最小限に抑えます。**
+{% endhint %}
+
+***
+
+#### 4️⃣ 金庫の開放方法
+
+時間の金庫を開放するには、[**ウィザードチャレンジ（Wizard Challenge）**](../contents/wizard-challenge.md)で獲得できる\
+**鍵（Key）**&#x304C;必要です。
+
+* 鍵を使用すると、金庫は即座に開放されます。
+* 保管されていたゴールドおよびアイテムをすべて獲得できます。
+
+ウィザードチャレンジは、HUD右側の **巻物型アイコン** をタップすると入場できます。
+
+<figure><img src="../.gitbook/assets/vt3.png" alt=""><figcaption></figcaption></figure>
+
+チャレンジをクリアすると、**金庫の鍵**を獲得できます。
+
+<figure><img src="../.gitbook/assets/vt4.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+#### 제制限時間内に金庫を開放できなかった場合、金庫は消滅し、次回の保管は **0から再スタート**します。
+{% endhint %}
+
+***
+
+### 🔎 時間の金庫 ひと目で確認
+
+* HUD右上の金庫アイコンから時間の金庫にアクセスできます。
+* PvEで獲得した資源の一部が自動で金庫に保管されます。
+* 金庫は有効化後 **6時間維持**されます。
+* 時間内に開放しない場合、保管された資源は消滅します。
+* PK発生時は **金庫保管分のみがドロップ**し、インベントリは保護されます。
+* ドロップした資源を再取得すると金庫へ再帰属されます。
+* 金庫は **ウィザードチャレンジで獲得した鍵**でのみ開放可能です。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 9, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
