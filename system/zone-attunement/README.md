@@ -6,202 +6,270 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-## 🌐 Zone Attunement&#x20;
+### 🌐 Zone Attunement
 
-<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Field Synchronization is a system that automatically adjusts your character’s stats to match the field level when entering an area lower than your current level.\
-Instead of the previous complicated level-gap rules, this system adopts a well-tested **Level Scaling** method, allowing players to explore fields more clearly and comfortably.
+Zone Attunement is a system that **automatically adjusts your combat power**\
+when you enter a field that is **lower level than your character**.
 
-***
-
-### 🎯 System Goals
-
-#### 🔹 1. Protect Low-Level Players
-
-Prevents high-level players from indiscriminately PK-ing in low-level areas.
-
-#### 🔹 2. Assist High-Level Resource Farming
-
-High-level players can still gather materials efficiently in low-level zones.\
-Since the character’s stats scale to the field level, difficulty imbalance is minimized.
+Instead of complex level gap rules, EXTOCIUM uses a **proven level scaling system**,\
+allowing anyone to explore fields comfortably and fairly.
 
 ***
 
-### ⚙️ Conditions for Field Synchronization
+### ◾ Purpose of Zone Attunement
 
-#### 🛡️ Sync Level Based on Highest Gear Grade
+#### 1️⃣ Protection for Low-Level Areas
 
-Field Synchronization determines your **Sync Level** based on the **highest grade** among your equipped gear.
+Prevents high-level players from PKing indiscriminately in low-level regions.
 
-* If you enter a field while equipping gear **above the field’s grade standard**,\
-  → your Sync Level will match **that gear’s grade**.
+#### 2️⃣ Farming Support for High-Level Players
 
-#### 📘 Field Gear Grade Standards
-
-Each field has a reference gear grade that its scaling is based on.\
-(_The actual table will be linked according to the localization file._)
+High-level players can still efficiently farm materials in lower-level fields.\
+Because stats are adjusted to match the field level, gameplay remains balanced without difficulty gaps.
 
 ***
 
-### 🧪 Example
+### ◾ Zone Attunement Application Rules
 
-#### 📍 Field: **Green Field (푸른 들판 / Green Field)**
+#### 🛡️ Equipment Grade-Based Scaling
 
-* Standard Grade: **1**
-  * Steel Sword
-  * Abyss Orb
-  * Mage Accessory
+Zone Attunement determines the **Sync Level** of a field\
+based on the **highest equipment Grade currently equipped**.
 
-#### ▶️ Scenario
+* If you enter a field while wearing equipment that exceeds the field’s standard Grade,\
+  the Sync Level is **automatically applied based on that equipment Grade**.
 
-A player enters Green Field while equipping **Lightbringer Sword (Grade 10)**.
+***
+
+#### 📘 Standard Equipment Grade by Field
+
+Each field has a **standard equipment Grade** used for Zone Attunement.\
+&#xNAN;_※ You can check the standard Grade for each field_ \
+_in the **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-field)_**]** below._
+
+***
+
+### ◾ Zone Attunement Example
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+> 📍 **Field**: Green Field\
+> 📘 **Standard Equipment Grade**: 1
+
+#### ▶️ Situation
+
+The player enters Green Field while equipped with the **Sword of Light (Grade 10)**.
 
 #### ✔️ Result
 
-→ Sync Level **10** is automatically applied.
+→ **Sync Level 10** is automatically applied.
 
 ***
 
-### 📈 How Field Synchronization Scales Stats
+### ◾ Zone Attunement Scaling Method
 
-Field Synchronization scales **final character stats based on proportional values**.\
-Therefore, higher gear grade, higher total SP distribution, and higher enchant levels all result in **greater efficiency after scaling**.
+Zone Attunement adjusts **final stats based on scaling ratios**.
 
-⚠️ However, equipping gear with **mismatched grades** may cause inefficiencies.
+This means higher values in the following areas \
+will result in better performance even while attuned:
+
+* Equipped equipment Grade
+* Total SP distribution
+* Enchantment values
+
+{% hint style="danger" %}
+#### However, equipping items with **significantly mismatched Grades** may reduce overall efficiency.
+{% endhint %}
+
+#### 📊 Scaling Data by Field
+
+When Zone Attunement is applied, the stat scaling values adjusted per field\
+can be checked in the **\[**[**Scaling Data by Field**](./#scaling-data-by-field-1)**]** table below.
+
+***
+
+#### 📌&#x20;
+
+> **Zone Attunement creates a fair combat environment based on the field you enter.**
 {% endtab %}
 
 {% tab title="한국어" %}
-## 🌐 영역 교감
+### 🌐 영역 교감
 
-<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**영역 교감**은 캐릭터가 **자신보다 낮은 레벨의 필드**에 진입할 때, 해당 필드에 맞춰 **스펙을 자동 조정**해주는 시스템입니다.\
-기존의 복잡했던 레벨 갭 규칙을 대신하여, 게임 경험이 충분히 검증된 **Level Scaling 방식**을 채택해 보다 명확하고 편하게 필드를 탐험할 수 있습니다.
+영역 교감은 캐릭터가 **자신보다 낮은 레벨의 필드에 입장했을 때**,\
+해당 필드에 맞게 **전투 능력이 자동으로 조정되는 시스템**입니다.
 
-***
-
-### 🎯 시스템 목적
-
-#### 🔹 1. 저레벨 유저 보호
-
-고레벨 플레이어가 저레벨 지역에서 **무분별하게 PK**하는 상황을 예방합니다.
-
-#### 🔹 2. 고레벨 유저의 자원 파밍 보조
-
-고레벨 유저도 **저레벨 존에서 재료 아이템을 원활하게 파밍**할 수 있습니다.\
-필드 레벨에 맞춰 스펙이 조정되기 때문에 난이도 불균형이 발생하지 않습니다.
+복잡했던 레벨 차이 규칙 대신,\
+검증된 **레벨 스케일링 방식**을 적용하여 누구나 부담 없이 필드를 탐험할 수 있도록 설계되었습니다.
 
 ***
 
-### ⚙️ 영역 교감 적용 조건
+### ◾ 영역 교감의 목적
 
-#### 🛡️ 장비 기준 등급에 따른 싱크 레벨 적용
+#### 1️⃣ 저레벨 지역 보호
 
-영역 교감 시스템은 **착용 중인 장비** 중\
-➡️ **가장 높은 등급(Grade)** 을 기준으로 **필드 싱크 레벨**을 결정합니다.
+고레벨 플레이어가 저레벨 지역에서 무분별하게 PK하는 상황을 방지합니다.
 
-* 기준 등급을 **초과하는 장비를 장착**하고 필드에 진입하면\
-  → 해당 장비의 등급에 맞춰 **싱크 레벨이 적용**됩니다.
+#### 2️⃣ 고레벨 유저의 파밍 지원
+
+고레벨 플레이어도 저레벨 필드에서 **재료 아이템을 원활하게 획득**할 수 있습니다.\
+필드 레벨에 맞춰 스펙이 조정되기 때문에, 난이도 불균형 없이 플레이할 수 있습니다.
+
+***
+
+### ◾ 영역 교감 적용 기준
+
+#### 🛡️ 장비 등급 기준 적용
+
+영역 교감은 **현재 장착 중인 장비 중 가장 높은 등급(Grade)**&#xC744; 기준으로 필드의 **싱크 레벨**이 결정됩니다.
+
+* 기준 등급보다 **높은 장비를 착용한 상태로 필드에 입장하면**,\
+  해당 장비 등급에 맞춰 **싱크 레벨이 자동 적용**됩니다.
+
+***
 
 #### 📘 필드별 기준 장비 등급
 
-각 필드에는 **싱크 기준이 되는 장비 등급**이 존재합니다.\
-(※ 실제 표는 로컬라이징 파일에 따라 연동 예정)
+각 필드에는 영역 교감에 적용되는 **기준 장비 등급**이 존재합니다.\
+&#xNAN;_※ 필드별 기준 장비 등급은_\
+_아래의 **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-field)_**]** 표를 통해 확인할 수 있습니다._
 
 ***
 
-### 🧪 예시
+### ◾ 영역 교감 적용 예시
 
-#### 📍 필드: **푸른 들판 (Green Field)**
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* **기준 등급 : 1**
-  * 강철검
-  * 심연의 오브
-  * 마법사 악세서리
+> 📍 **필드** : 푸른 들판 (Green Field)\
+> 📘 **기준 장비 등급** : 1
 
 #### ▶️ 플레이 상황
 
-플레이어가 **빛의 검 (등급 10)** 을 장착한 상태로 **푸른 들판 진입**
+플레이어가 **빛의 검 (등급 10)**&#xC744; 장착한 상태로 푸른 들판에 입장합니다.
 
 #### ✔️ 결과
 
-→ **싱크 레벨 10** 이 자동으로 적용됩니다.
+→ **싱크 레벨 10**이 자동으로 적용됩니다.
 
 ***
 
-### 📈 영역 교감의 스케일링 방식
+### ◾ 영역 교감 스케일링 방식
 
-영역 교감은 최종 스탯을 **비율 기반으로 스케일링**합니다.\
-따라서 **장착 중인 장비 등급, 총 SP 분배량, 인챈트 수치** 등이 높을 수록 더 높은 효율을 갖습니다.\
-⚠️단, **등급이 서로 맞지 않는 장비를 장착 중인 경우 손해**를 볼 수 있습니다.
+영역 교감은 **최종 스탯을 비율 기준으로 조정**합니다.
+
+따라서 다음 요소가 높을수록 영역 교감 상태에서도 더 높은 효율을 발휘할 수 있습니다.
+
+* 장착 중인 장비 등급
+* 총 SP 분배량
+* 인챈트 수치
+
+{% hint style="danger" %}
+#### 단, 장비 등급이 서로 크게 다른 장비를 함께 착용한 경우, 효율이 낮아질 수 있습니다.
+{% endhint %}
+
+#### 📊 필드별 스케일링 데이터 안내
+
+영역 교감이 적용될 경우, 필드에 따라 조정되는 **스탯 스케일링 수치**는\
+아래의 **\[**[**Scaling Data by Field**](./#scaling-data-by-field)**]** 표를 통해 확인할 수 있습니다.
+
+***
+
+#### 📌&#x20;
+
+> **영역 교감은 필드를 기준으로 공정한 전투 환경을 만들어주는 시스템입니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
-## 🌐 ゾーン・アチューンメント
+### 🌐 エリア同調（Zone Attunement）
 
-<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**領域共感**は、自分よりも低いレベルのフィールドに入場した際、そのフィールドに合わせてキャラクターのステータスを自動調整するシステムです。\
-従来の複雑なレベル差ルールの代わりに、実績のある **レベルスケーリング方式** を採用し、より明確で快適なフィールド探索を実現します。
+エリア同調は、自分のレベルより**低いレベルのフィールドに入場した際**、\
+そのフィールドに合わせて**戦闘能力が自動で調整されるシステム**です。
 
-***
-
-### 🎯 システム目的
-
-#### 🔹 1. 低レベルプレイヤーの保護
-
-高レベルプレイヤーが低レベル地域で無差別にPKを行うことを防止します。
-
-#### 🔹 2. 高レベルの資源収集をサポート
-
-高レベルプレイヤーも低レベルゾーンで素材アイテムを効率よく収集できます。\
-フィールドレベルに合わせてステータスが調整されるため、難易度の不均衡が発生しません。
+複雑だったレベル差ルールの代わりに、検証された**レベルスケーリング方式**を採用し、\
+誰でも安心してフィールドを探索できるように設計されています。
 
 ***
 
-### ⚙️ 領域共感の適用条件
+### ◾ エリア同調の目的
 
-#### 🛡️ 装備の最高グレードに基づくシンクレベル適用
+#### 1️⃣ 低レベルエリアの保護
 
-領域共感システムは、現在装備しているアイテムの中で\
-**最も高いグレード** を基準に **シンクレベル** を決定します。
+高レベルプレイヤーが 低レベルエリアで無秩序にPKする行為を防止します。
 
-* フィールド基準を超える装備を着用して入場した場合\
-  → その装備のグレードに応じて **シンクレベルが適用** されます。
+#### 2️⃣ 高レベルプレイヤーのファーミング支援
 
-#### 📘 フィールドごとの基準装備グレード
-
-各フィールドには、スケーリングの基準となる装備グレードが存在します。\
-（※ 実際の表はローカライズファイルに基づいて連動予定）
+高レベルプレイヤーも 低レベルフィールドで**素材アイテムを効率よく獲得**できます。\
+フィールドレベルに合わせてステータスが調整されるため、難易度の不均衡なくプレイできます。
 
 ***
 
-### 🧪 例
+### ◾ エリア同調の適用基準
 
-#### 📍 フィールド：**青い野原（Green Field）**
+#### 🛡️ 装備グレード基準の適用
 
-* 基準グレード：**1**
-  * 鋼の剣
-  * 深淵のオーブ
-  * 魔法使いアクセサリー
+エリア同調は、**現在装備している装備の中で最も高いグレード（Grade）を基準に、**\
+**フィールドのシンクレベル**が決定されます。
+
+* フィールドの基準グレードを超える装備を着用した状態で入場すると、\
+  その装備グレードに応じた **シンクレベルが自動的に適用**されます。
+
+***
+
+#### 📘 フィールド別 基準装備グレード
+
+各フィールドには、エリア同調に使用される**基準装備グレード**が設定されています。\
+&#xNAN;_※ フィールドごとの基準装備グレードは、_\
+_下記の **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-field)_**]** 表をご確認ください。_
+
+***
+
+### ◾ エリア同調 適用例
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+> 📍 **フィールド**：グリーンフィールド（Green Field）\
+> 📘 **基準装備グレード**：1
 
 #### ▶️ プレイ状況
 
-プレイヤーが **光の剣（グレード10）** を装備したまま青い野原へ入場。
+プレイヤーが **光の剣（グレード10）**&#x3092;装備した状態で グリーンフィールドに入場します。
 
 #### ✔️ 結果
 
-→ **シンクレベル10** が自動的に適用されます。
+→ **シンクレベル10**が自動的に適用されます。
 
 ***
 
-### 📈 領域共感のスケーリング方式
+### ◾ エリア同調のスケーリング方式
 
-領域共感は **最終ステータスを比率に基づいてスケーリング** します。\
-そのため、装備グレード、総SP配分量、エンチャント数値が高いほど、スケール後の効率も向上します。
+エリア同調は、**最終ステータスを比率ベースで調整**します。
 
-⚠️ ただし、装備同士のグレードが噛み合わない場合、損をする可能性があります。
+そのため、以下の要素が高いほど、エリア同調中でもより高い性能を発揮できます。
+
+* 装備中の装備グレード
+* 総SP配分量
+* エンチャント数値
+
+{% hint style="danger" %}
+#### ただし、装備グレードが大きく異なる装備を同時に装着している場合、 効率が低下する可能性があります。
+{% endhint %}
+
+#### 📊 フィールド別 スケーリングデータ
+
+エリア同調が適用された場合、フィールドごとに調整される\
+**ステータスのスケーリング数値**は、下記の **\[**[**Scaling Data by Field**](./#scaling-data-by-field-1)**]** 表をご確認ください。
+
+***
+
+#### 📌&#x20;
+
+> **エリア同調は、フィールドを基準に公平な戦闘環境を作るシステムです。**
 {% endtab %}
 {% endtabs %}
 
@@ -248,3 +316,5 @@ Therefore, higher gear grade, higher total SP distribution, and higher enchant l
 | **Kalasutra**       | 9         |                    | 69.8       | 90            | 57.8      |
 |                     | 10        |                    | 26.2       | 85            | 17.5      |
 | **Samghata**        | 10        |                    | 60.8       | 95            | 48.8      |
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 12, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

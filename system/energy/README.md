@@ -29,7 +29,7 @@ and to maintain the value of items obtained through hunting.
 * Energy is **bound to each owned Hero individually**.
 * Energy is divided into **Free Energy** and **Paid Energy**.
 
-👉 [Check Free Energy Recharge Rules](recharge-rules.md)
+👉 [Check Free Energy Recharge Rules](daily-energy-recharge-rules.md)
 
 | Category                                                   | Description                                                                                                                             |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * When an Energy Potion is used,\
   it is applied immediately to the **currently equipped Hero**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -97,7 +97,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 에너지는 **보유 중인 각 영웅에게 귀속**됩니다.
 * 에너지는 **무료 에너지**와 **유료 에너지**로 구분됩니다.
 
-👉 [무료 에너지 충전 규칙 확인하기](recharge-rules.md)
+👉 [무료 에너지 충전 규칙 확인하기](daily-energy-recharge-rules.md)
 
 | 구분                                             | 설명                                                                                                                                                   |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -139,7 +139,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 각 영웅은 **주간 최대 2,000의 유료 에너지**를 충전할 수 있습니다.
 * 에너지 포션 사용 시, **현재 장착 중인 영웅**에게 즉시 적용됩니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -162,7 +162,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * エナジーは**所持している各ヒーローごとに紐づけられます。**
 * エナジーは**無料エナジー**と**有料エナジー**に分かれています。
 
-👉 [無料エナジー充電ルールを確認](recharge-rules.md)
+👉 [無料エナジー充電ルールを確認](daily-energy-recharge-rules.md)
 
 | 区分                                            | 説明                                                                                         |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -211,7 +211,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 各ヒーローは**週に最大2,000の有料エナジー**をチャージできます。
 * エナジーポーションを使用すると、**現在装備中のヒーロー**に即時適用されます。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

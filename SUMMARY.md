@@ -101,7 +101,7 @@
 ## 🗃️ SYSTEM
 
 * [⚡ Energy](system/energy/README.md)
-  * [📁 Recharge Rules](system/energy/recharge-rules.md)
+  * [📁 Daily Energy Recharge Rules](system/energy/daily-energy-recharge-rules.md)
   * [📁 0 Energy penalty](system/energy/0-energy-penalty.md)
 * [🪄 Zone Attunement](system/zone-attunement/README.md)
   * [Skill Level Cap System](system/zone-attunement/skill-level-cap-system.md)
