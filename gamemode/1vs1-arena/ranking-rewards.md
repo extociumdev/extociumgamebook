@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📁 Ranking Rewards
@@ -10,57 +10,101 @@ description: 🛑 This information may be updated later than the game server dat
 * ✅[Weekly Rewards](ranking-rewards.md#trophy-1)
 * ✅[Ranking Buffs](ranking-rewards.md#trophy-2)
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/ar4 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## ✅Ranking Rules <a href="#trophy" id="trophy"></a>
 
 {% tabs %}
 {% tab title="ENG" %}
-💡Your **Arena Rank** is determined based on the **number of trophies** you earn.\
-If multiple players have the **same trophy count**, the player with **higher total EXP** ranks higher.
+### 📜 Ranking Rules
 
-📌 **Ranking Rules for Ties**
+* Arena rankings are determined by the **number of Trophies earned**.
+* If multiple players have the same number of Trophies,\
+  the player with **higher total accumulated EXP** ranks higher.
 
-* If **Player A and Player B** have **the same trophies & EXP**, they **both rank 1st**.
-* The next rank starts at **3rd place** (Player C = 3rd).
+***
 
-📅 **Ranking & Rewards**
+### ◾ Tie Handling
 
-* **Trophy accumulation period**: KST **Monday 00:00 \~ Sunday 23:59**
-* **Rewards are distributed weekly** via mail based on the **rankings at Sunday 23:59 KST**
-* **Ranking board displays up to Top 200 players**
+If both **Trophies and total EXP** are the same, those players are assigned **the same rank**.
+
+* If Player A and Player B are tied for **1st place**,\
+  → the next rank starts at **3rd place**.
+
+***
+
+### ◾ Ranking Period & Rewards
+
+* **Ranking Period**: Monday 00:00 – Sunday 23:59 (KST)
+* **Reward Distribution**:\
+  Rewards are sent via in-game mail based on rankings at **Sunday 23:59 (KST)**.\
+  &#xNAN;_(Once per week)_
+
+***
+
+### ◾ Ranking Board
+
+* The ranking board displays up to **Top 200 players**.
 {% endtab %}
 
 {% tab title="한국어" %}
-💡아레나에서 획득한 **트로피 개수**를 기준으로 **아레나 랭크**가 부여됩니다.\
-**트로피가 동일할 경우**, **누적 EXP가 높은 유저가 상위 랭크**를 차지합니다.
+### 📜 랭킹 규칙
 
-📌 **동점 시 랭킹 규칙**
+* 아레나 랭킹은 **획득한 트로피 수**를 기준으로 결정됩니다.
+* 트로피가 같을 경우, **누적 EXP가 높은 유저**가 상위 랭크를 차지합니다.
 
-* A와 B가 **트로피 개수 + 누적 EXP 동일** → **둘 다 1위**
-* 다음 순위는 **3위부터 시작** (C는 3위)
+***
 
-📅 **랭킹 산정 & 보상 지급**
+### ◾ 동점 처리
 
-* **트로피 적립 기간**: KST **월요일 00:00 \~ 일요일 23:59**
-* **보상 지급**: KST **일요일 23:59 기준 순위**에 따라 **우편 지급 (주 1회)**
-* **랭킹 보드 표시 범위**: **최대 200위까지 공개**
+트로피와 누적 EXP가 모두 같을 경우, 해당 유저들은 **같은 순위**로 처리됩니다.
+
+* A와 B가 공동 1위일 경우\
+  → 다음 순위는 **3위부터 시작**합니다.
+
+***
+
+### ◾ 집계 및 보상
+
+* **집계 기간**: 월요일 00:00 \~ 일요일 23:59 (KST)
+* **보상 지급**: 일요일 23:59 기준, 우편 지급 (주 1회)
+
+***
+
+### ◾ 랭킹 보드
+
+* 랭킹은 **최대 200위까지** 공개됩니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-💡アリーナで獲得した**トロフィーの数**に応じて**アリーナランク**が決まります。\
-**トロフィー数が同じ場合**、**累積EXPが高いプレイヤーが上位**になります。
+### 📜 ランキングルール
 
-📌 **同点時のランク決定ルール**
+* アリーナランキングは、**獲得したトロフィー数** を基準に決定されます。
+* トロフィー数が同じ場合は、**累積EXPが高いプレイヤー** が上位にランクされます。
 
-* **AとB**が**トロフィー数＆累積EXP同じ** → **両方が1位**
-* 次の順位は**3位から** (C = 3位)
+***
 
-📅 **ランキング集計＆報酬**
+### ◾ 同順位の処理
 
-* **トロフィー獲得期間**: KST **月曜 00:00 \~ 日曜 23:59**
-* **報酬配布**: KST **日曜 23:59時点の順位**に基づき、**毎週1回メールで配布**
-* **ランキングボードは200位まで表示**
+トロフィー数と累積EXPが **どちらも同じ場合**、\
+該当するプレイヤーは **同じ順位** として扱われます。
+
+* プレイヤーAとプレイヤーBが **同率1位** の場合、\
+  → 次の順位は **3位から** 開始されます。
+
+***
+
+### ◾ 集計・報酬
+
+* **集計期間**：月曜日 00:00 ～ 日曜日 23:59（KST）
+* **報酬配布**：\
+  日曜日 23:59（KST）時点の順位に基づき、**ゲーム内メールで配布**されます。（週1回）
+
+***
+
+### ◾ ランキングボード
+
+* ランキングボードは **上位200位まで** 表示されます。
 {% endtab %}
 {% endtabs %}
 
@@ -78,39 +122,119 @@ If multiple players have the **same trophy count**, the player with **higher tot
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 🏆 Arena TOP 10 Perks!
+### 📜 Ranking Buffs
 
-Players ranked **1st \~ 10th** in the Arena receive:\
-✅ **Real-time Damage Boost Buff**\
-✅ **Exclusive Ranker Effect**
+Adventurers ranked in the **Top 10** of the Arena\
+receive **special bonus effects** while maintaining their rank.
 
-🔥 **Only the strongest can claim these rewards!**\
-Stay in the **TOP 10** and enjoy your **powerful buffs & flashy effects!**
+***
+
+### ◾ Top 10 Ranking Benefits
+
+The following benefits are granted to players ranked **1st through 10th**\
+in the Arena.
+
+* **Real-time Damage Increase Buff**
+* **Exclusive Ranker Visual Effect**
+
+These effects remain active **only while you stay within the Top 10**.
+
+***
+
+### ◾Ranking Buff Notes
+
+* Ranking buffs are **applied automatically**.
+* If you fall out of the Top 10,\
+  **all buffs and visual effects are removed immediately**.
+
+***
+
+### ◾ Ranking Buff Details
+
+Detailed buff values based on rank can be found in the table below.
+
+<table><thead><tr><th width="150.33333333333331" align="center">Rank</th><th width="373" align="center">Buff</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Damage +5%</td></tr><tr><td align="center">2</td><td align="center">Damage +4.6%</td></tr><tr><td align="center">3</td><td align="center">Damage +4.2%</td></tr><tr><td align="center">4</td><td align="center">Damage +3.8%</td></tr><tr><td align="center">5</td><td align="center">Damage +3.4%</td></tr><tr><td align="center">6</td><td align="center">Damage +3%</td></tr><tr><td align="center">7</td><td align="center">Damage +2.6%</td></tr><tr><td align="center">8</td><td align="center">Damage +2.2%</td></tr><tr><td align="center">9</td><td align="center">Damage +1.8%</td></tr><tr><td align="center">10</td><td align="center">Damage +1.4%</td></tr></tbody></table>
+
+✨
+
+> **True strength is proven by records.**\
+> **Reach the Top 10, and wield the power that comes with it.**
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 🏆 **아레나 TOP 10 특전!**
+### 📜 랭킹 버프
 
-아레나 **랭킹 1위 \~ 10위** 유저는 **랭킹을 유지하는 동안**\
-✅ **실시간 데미지 증가 버프**\
-✅ **랭커 전용 이펙트**\
-를 부여받습니다!
+아레나에서 **TOP 10**에 랭크된 모험가는 랭킹을 유지하는 동안 **특별한 보너스 효과**를 받게 됩니다.
 
-🔥 **강자만이 누릴 수 있는 특권!**\
-TOP 10을 유지하며 **강력한 버프와 화려한 이펙트**를 경험하세요!
+***
+
+### ◾ TOP 10 랭킹 특전
+
+아레나 랭킹 **1위 \~ 10위** 유저에게는 다음 혜택이 적용됩니다.
+
+* **실시간 데미지 증가 버프**
+* **랭커 전용 이펙트**
+
+해당 효과는 **TOP 10 랭킹을 유지하는 동안만 적용**됩니다.
+
+***
+
+### ◾ 랭킹 버프 안내
+
+* 랭킹 버프는 **자동으로 적용**됩니다.
+* 랭킹에서 벗어날 경우, **버프와 이펙트는 즉시 해제**됩니다.
+
+***
+
+### ◾ 랭킹 버프 상세
+
+랭킹에 따른 버프 효과의 상세 수치는 아래 표를 참고해 주세요.
+
+<table><thead><tr><th width="150.33333333333331" align="center">Rank</th><th width="373" align="center">Buff</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Damage +5%</td></tr><tr><td align="center">2</td><td align="center">Damage +4.6%</td></tr><tr><td align="center">3</td><td align="center">Damage +4.2%</td></tr><tr><td align="center">4</td><td align="center">Damage +3.8%</td></tr><tr><td align="center">5</td><td align="center">Damage +3.4%</td></tr><tr><td align="center">6</td><td align="center">Damage +3%</td></tr><tr><td align="center">7</td><td align="center">Damage +2.6%</td></tr><tr><td align="center">8</td><td align="center">Damage +2.2%</td></tr><tr><td align="center">9</td><td align="center">Damage +1.8%</td></tr><tr><td align="center">10</td><td align="center">Damage +1.4%</td></tr></tbody></table>
+
+✨
+
+> **강자는 기록으로 증명됩니다.**\
+> **TOP 10에 올라, 그 자리에 걸맞은 힘을 누리세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 🏆 アリーナTOP10特典！
+### 📜 ランキングバフ
 
-**アリーナランキング1位～10位**のプレイヤーは、\
-✅ **リアルタイムでダメージ増加バフ**\
-✅ **ランカー専用エフェクト**\
-を獲得できます！
+アリーナで **TOP 10** にランクインした冒険者は、その順位を維持している間、\
+**特別なボーナス効果** を受けることができます。
 
-🔥 **強者だけの特権！**\
-**TOP10を維持して、特別なバフと華やかなエフェクトを体験しましょう！**
+***
+
+### ◾ TOP 10 ランキング特典
+
+アリーナランキング **1位～10位** のプレイヤーには、以下の特典が付与されます。
+
+* **リアルタイムダメージ増加バフ**
+* **ランカー専用エフェクト**
+
+これらの効果は、**TOP 10の順位を維持している間のみ有効** です。
+
+***
+
+### ◾ ランキングバフ案内
+
+* ランキングバフは **自動的に適用** されます。
+* TOP 10から外れた場合、**バフおよびエフェクトは即時解除** されます。
+
+***
+
+### ◾ ランキングバフ詳細
+
+ランキングに応じた バフ効果の詳細数値については、以下の表をご確認ください。
+
+<table><thead><tr><th width="150.33333333333331" align="center">Rank</th><th width="373" align="center">Buff</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Damage +5%</td></tr><tr><td align="center">2</td><td align="center">Damage +4.6%</td></tr><tr><td align="center">3</td><td align="center">Damage +4.2%</td></tr><tr><td align="center">4</td><td align="center">Damage +3.8%</td></tr><tr><td align="center">5</td><td align="center">Damage +3.4%</td></tr><tr><td align="center">6</td><td align="center">Damage +3%</td></tr><tr><td align="center">7</td><td align="center">Damage +2.6%</td></tr><tr><td align="center">8</td><td align="center">Damage +2.2%</td></tr><tr><td align="center">9</td><td align="center">Damage +1.8%</td></tr><tr><td align="center">10</td><td align="center">Damage +1.4%</td></tr></tbody></table>
+
+✨
+
+> **強さは、記録によって証明されます。**\
+> **TOP 10に立ち、その座にふさわしい力を手に入れましょう。**
 {% endtab %}
 {% endtabs %}
 
-<table><thead><tr><th width="150.33333333333331" align="center">Rank</th><th width="373" align="center">Buff</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Damage +5%</td></tr><tr><td align="center">2</td><td align="center">Damage +4.6%</td></tr><tr><td align="center">3</td><td align="center">Damage +4.2%</td></tr><tr><td align="center">4</td><td align="center">Damage +3.8%</td></tr><tr><td align="center">5</td><td align="center">Damage +3.4%</td></tr><tr><td align="center">6</td><td align="center">Damage +3%</td></tr><tr><td align="center">7</td><td align="center">Damage +2.6%</td></tr><tr><td align="center">8</td><td align="center">Damage +2.2%</td></tr><tr><td align="center">9</td><td align="center">Damage +1.8%</td></tr><tr><td align="center">10</td><td align="center">Damage +1.4%</td></tr></tbody></table>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 13, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
