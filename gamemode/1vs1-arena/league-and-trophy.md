@@ -1,107 +1,338 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📁 League & Trophy
-
-### <mark style="color:purple;">**📜Header List**</mark>
-
-* ✅[Trophy](league-and-trophy.md#trophy)
-* ✅[League & Trophy Chart](league-and-trophy.md#trophy-1)
-* ✅[Trophy correction according to level](league-and-trophy.md#trophy-2)
-
-## ✅**Trophy** <a href="#trophy" id="trophy"></a>
 
 <figure><img src="../../.gitbook/assets/Icon_Trophy.png" alt=""><figcaption><p>Trophy</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-* You gain trophies by winning in the arena, and lose trophies when you lose.
-* Trophies accumulate in your account, and rankings are calculated based on your weekly trophy count.
-* Leagues are automatically assigned based on the <mark style="color:blue;">**'maximum level of heroes you own in your account'.**</mark>
-* **Trophies are reset to the initial number of trophies for the league you belong to every week.**&#x20;
-  * For example, if your level is 45, you will be in the 'Emperor' league, and your score will be reset to 1452 points at 00:00 every Monday based on Korean Standard Time.
-* **Every day at 00:00 KST, accounts that did not participate in the arena will have their trophy scores decreased by&#x20;**<mark style="color:red;">**25**</mark>**&#x20;points.**
-  * <mark style="color:red;">Additionally, if a player does not participate in the Arena at all during the week before the reset week, their account will be treated as a "sleep" account and their trophy count will not be reset.</mark>
-  * For example, if you belong to the 'Emperor' league and did not participate in the Arena last week, your total trophy score would be 1452 - (7 x 25) = 1277, and you will start this week with 1277 points.
-* Please refer to the table below for league and trophy score details.
+### 📜 League & Trophy Guide
+
+In the 1vs1 Arena, you earn or lose **Trophies** based on match results.\
+Your total Trophies determine your **League placement** and **Rankings**.
+
+***
+
+### ◾ What Are Trophies?
+
+Trophies represent your performance in Arena battles.
+
+* **Win a match** to gain Trophies.
+* **Lose a match** to lose Trophies.
+* Trophies are accumulated on an **account-wide basis**.
+
+***
+
+### ◾ Ranking Calculation
+
+* Rankings are determined by the **number of Trophies earned each week**.
+* Competition takes place **within each League** on a weekly basis.
+
+***
+
+### ◾ League Assignment
+
+Leagues are not selected manually.\
+Your League is **automatically assigned**\
+based on the **highest-level Hero owned on your account**.
+
+***
+
+### ◾ Weekly Trophy Reset
+
+* Trophies are reset every **Monday at 00:00 (KST)**.
+* After the reset, your Trophy count is set to\
+  the **starting Trophy value of your League**.
+
+#### Example
+
+* If the highest-level Hero on your account is **Level 45**,\
+  you will be placed in the **Emperor League**.
+* If the starting Trophy value for that League is **1,452**,\
+  your Trophies will reset to **1,452** every Monday at 00:00 (KST).
+
+***
+
+### ◾ Trophy Decay (Inactivity Penalty)
+
+* At **00:00 (KST) each day**,\
+  accounts that did **not participate in the Arena at all that day&#x20;**<mark style="color:red;">**will lose 25**</mark>**&#x20;Trophies**.
+
+***
+
+### ◾ Sleep Account Notice
+
+* If an account does **not participate in the Arena even once during the week before a reset**,\
+  it will be marked as a **Sleep Account**.
+* Sleep Accounts **do not receive the weekly Trophy reset**.
+
+#### Example
+
+* Emperor League
+* No Arena participation during the previous week
+* 7 consecutive days of inactivity
+
+→ **1,452 − (25 × 7) = 1,277 Trophies**
+
+In this case,\
+the new week will start at **1,277 Trophies** instead of the League’s starting value.
+
+***
+
+### ◾ League & Trophy Table
+
+Starting Trophy values and Trophy ranges for each League can be found in the table below.
+
+<table data-header-hidden data-full-width="true"><thead><tr><th width="186.54150390625" align="center"></th><th width="100" align="center"></th><th width="112.5416259765625" align="center"></th><th width="92" align="center"></th><th width="108.8333740234375" align="center"></th><th width="117" align="center"></th></tr></thead><tbody><tr><td align="center"><strong>League</strong></td><td align="center"><strong>Name</strong></td><td align="center"><img src="../../.gitbook/assets/Icon_Trophy.png" alt="Trophy" data-size="line"></td><td align="center"><strong>Level</strong></td><td align="center"><strong>Win Trophy</strong></td><td align="center"><strong>Lose</strong><br><strong>Trophy</strong></td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R13 (1).png" alt="" data-size="original"></td><td align="center">Bronze</td><td align="center"><mark style="color:purple;"><strong>0~</strong></mark></td><td align="center">20~25</td><td align="center">5</td><td align="center">-2</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R11.png" alt="" data-size="original"></td><td align="center">Silver</td><td align="center"><mark style="color:purple;"><strong>152~</strong></mark></td><td align="center">26~30</td><td align="center">6</td><td align="center">-3</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R8.png" alt="" data-size="original"></td><td align="center">Gold</td><td align="center"><mark style="color:purple;"><strong>452~</strong></mark></td><td align="center">31~35</td><td align="center">7</td><td align="center">-5</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R7.png" alt="" data-size="original"></td><td align="center">Nobless</td><td align="center"><mark style="color:purple;"><strong>902~</strong></mark></td><td align="center">36~44</td><td align="center">8</td><td align="center">-6</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R6.png" alt="" data-size="original"></td><td align="center">Emperor</td><td align="center"><mark style="color:purple;"><strong>1452~</strong></mark></td><td align="center">45~60</td><td align="center">10</td><td align="center">-8</td></tr></tbody></table>
+
+***
+
+### ◾ Trophy Adjustment System
+
+In the Arena, Trophy gains and losses are\
+**slightly adjusted based on the level difference** between players.
+
+* This system accounts for difficulty differences\
+  between higher-level and lower-level opponents.
+
+#### Example
+
+* If you **lose to an opponent who is 9 levels higher than you**:
+  * Base Trophy loss: −5
+  * After adjustment: **−1**
+
+***
+
+### ◾ Trophy Adjustment Criteria
+
+Detailed Trophy adjustment values based on level differences\
+can be found in the table below.
+
+<table data-full-width="true"><thead><tr><th align="center">Level gap</th><th align="center">Win Trophy Bonus</th><th align="center">Draw</th><th align="center">Lose Trophy Bonus</th></tr></thead><tbody><tr><td align="center">+9~10</td><td align="center">+4</td><td align="center">0</td><td align="center">-4</td></tr><tr><td align="center">+7~8</td><td align="center">+3</td><td align="center">0</td><td align="center">-3</td></tr><tr><td align="center">+6</td><td align="center">+2</td><td align="center">0</td><td align="center">-2</td></tr><tr><td align="center">+0~5</td><td align="center">0</td><td align="center">0</td><td align="center">0</td></tr></tbody></table>
+
+***
+
+✨
+
+> **Trophies are a record of your skill.**\
+> **Leagues show where you stand, and the Arena gives you the chance to change it.**
 {% endtab %}
 
 {% tab title="한국어" %}
-* 아레나에서 승리하면 트로피를 획득하고, 패배하면 트로피를 잃게 됩니다.
-* 트로피는 계정에 적립되며, 주간 트로피 개수를 기준으로 랭킹이 산정됩니다.
-* 리그는 <mark style="color:blue;">**'계정 내 보유중인 영웅의 최대 레벨을 기준'**</mark>으로 자동 배정됩니다.
-* **트로피는 매주 자신이 속해 있는 리그의 최초 시작 트로피 개수로 초기화 됩니다.**&#x20;
-  * 예를 들어 당신의 레벨이 45라면 '엠퍼러'리그에 속하게 되고, 당신의 점수는 한국  시간 기준 매주 월요일 00:00에 1452점으로 초기화 됩니다.
-* **매일 KST 00:00을 기준으로, 아레나에 참여하지 않은 계정은  트로피 점수가&#x20;**<mark style="color:red;">**25**</mark>**점씩 감소됩니다.**
-  * <mark style="color:red;">또한, 리셋 주간 전 주에 한 번도 아레나 참여를 하지 않은 경우, 슬립 계정으로 처리되어 트로피가 초기화 되지 않습니다.</mark>&#x20;
-  * 예를 들어 당신이 '엠퍼러' 리그에 속한 뒤 지난 주에 아레나 참여를 하지 않았다면, 총 트로피 점수는 1452 - ( 7x 25 ) = 1277점이 되고, 이번 주는 그대로 1277점에서 시작하게 됩니다.
-* 리그 및 트로피의 점수 표는 아래를 참조해주세요.
+### 📜 리그 & 트로피 가이드
+
+1vs1 아레나에서는 전투 결과에 따라 **트로피**를 획득하거나 잃게 되며,\
+트로피를 기준으로 **리그와 랭킹**이 결정됩니다.
+
+***
+
+### ◾ 트로피란?
+
+트로피는 아레나에서의 **승패 성과를 나타내는 점수**입니다.
+
+* 아레나에서 **승리하면 트로피를 획득**합니다.
+* 아레나에서 **패배하면 트로피를 잃습니다.**
+* 트로피는 **계정 단위로 누적**됩니다.
+
+***
+
+### ◾ 랭킹 산정 방식
+
+* 랭킹은 **주간 트로피 획득량**을 기준으로 산정됩니다.
+* 매주 리그별로 경쟁이 진행됩니다.
+
+***
+
+### ◾ 리그 배정 기준
+
+리그는 수동으로 선택하지 않으며, \
+**계정 내 보유 중인 영웅의 최대 레벨**을 기준으로 자동 배정됩니다.
+
+***
+
+### ◾ 주간 트로피 초기화
+
+* 트로피는 **매주 월요일 00:00 (KST)** 기준으로 초기화됩니다.
+* 초기화 시, 해당 리그의 **시작 트로피 점수**로 설정됩니다.
+
+#### 예시
+
+* 계정 내 최고 레벨 영웅이 **45레벨**일 경우\
+  → **엠퍼러 리그**에 배정됩니다.
+* 해당 리그의 시작 트로피가 **1,452점**이라면\
+  → 매주 월요일 00:00에 **1,452점으로 초기화**됩니다.
+
+***
+
+### ◾ 트로피 감소(미참여 페널티)
+
+* **매일 KST 00:00 기준**,\
+  해당 날짜에 아레나에 **한 번도 참여하지 않은 계정**은 트로피가 <mark style="color:red;">**25점씩 감소**</mark>합니다.
+
+***
+
+### ◾ 슬립 계정 안내
+
+* 리셋 주간 **이전 주에 아레나에 단 한 번도 참여하지 않은 경우**, 해당 계정은 **슬립 계정**으로 처리됩니다.
+* 슬립 계정은 **트로피 초기화가 적용되지 않습니다.**
+
+#### 예시
+
+* 엠퍼러 리그 소속
+* 지난주 아레나 미참여
+* 총 7일 미참여 시\
+  → **1,452 − (25 × 7) = 1,277점**
+
+이 경우, 이번 주는 **1,277점에서 그대로 시작**합니다.
+
+***
+
+### ◾ 리그 & 트로피 점수표
+
+리그별 시작 트로피와 점수 구간은 아래 표를 참고해 주세요.
+
+<table data-header-hidden data-full-width="true"><thead><tr><th width="186.54150390625" align="center"></th><th width="100" align="center"></th><th width="112.5416259765625" align="center"></th><th width="92" align="center"></th><th width="108.8333740234375" align="center"></th><th width="117" align="center"></th></tr></thead><tbody><tr><td align="center"><strong>League</strong></td><td align="center"><strong>Name</strong></td><td align="center"><img src="../../.gitbook/assets/Icon_Trophy.png" alt="Trophy" data-size="line"></td><td align="center"><strong>Level</strong></td><td align="center"><strong>Win Trophy</strong></td><td align="center"><strong>Lose</strong><br><strong>Trophy</strong></td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R13 (1).png" alt="" data-size="original"></td><td align="center">Bronze</td><td align="center"><mark style="color:purple;"><strong>0~</strong></mark></td><td align="center">20~25</td><td align="center">5</td><td align="center">-2</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R11.png" alt="" data-size="original"></td><td align="center">Silver</td><td align="center"><mark style="color:purple;"><strong>152~</strong></mark></td><td align="center">26~30</td><td align="center">6</td><td align="center">-3</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R8.png" alt="" data-size="original"></td><td align="center">Gold</td><td align="center"><mark style="color:purple;"><strong>452~</strong></mark></td><td align="center">31~35</td><td align="center">7</td><td align="center">-5</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R7.png" alt="" data-size="original"></td><td align="center">Nobless</td><td align="center"><mark style="color:purple;"><strong>902~</strong></mark></td><td align="center">36~44</td><td align="center">8</td><td align="center">-6</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R6.png" alt="" data-size="original"></td><td align="center">Emperor</td><td align="center"><mark style="color:purple;"><strong>1452~</strong></mark></td><td align="center">45~60</td><td align="center">10</td><td align="center">-8</td></tr></tbody></table>
+
+***
+
+### ◾ 트로피 보정 시스템
+
+아레나에서는 상대와의 **레벨 차이**에 따라 트로피 획득량 또는 손실량이 **소폭 조정**됩니다.
+
+* 고레벨 vs 저레벨 간의 난이도 차이를 고려한 보정 시스템입니다.
+
+#### 예시
+
+* 내가 **9레벨 높은 상대에게 패배**한 경우
+  * 기본 손실: −5
+  * 보정 적용 후: **−1**
+
+***
+
+### ◾ 트로피 보정 기준
+
+레벨 차이에 따른 트로피 보정 수치는 아래 표에서 확인할 수 있습니다.
+
+<table data-full-width="true"><thead><tr><th align="center">Level gap</th><th align="center">Win Trophy Bonus</th><th align="center">Draw</th><th align="center">Lose Trophy Bonus</th></tr></thead><tbody><tr><td align="center">+9~10</td><td align="center">+4</td><td align="center">0</td><td align="center">-4</td></tr><tr><td align="center">+7~8</td><td align="center">+3</td><td align="center">0</td><td align="center">-3</td></tr><tr><td align="center">+6</td><td align="center">+2</td><td align="center">0</td><td align="center">-2</td></tr><tr><td align="center">+0~5</td><td align="center">0</td><td align="center">0</td><td align="center">0</td></tr></tbody></table>
+
+***
+
+✨
+
+> **트로피는 실력의 기록입니다.**\
+> **리그는 당신의 위치를 보여주고, 아레나는 그 위치를 바꿀 기회를 줍니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
-* アリーナで勝利するとトロフィーを獲得し、敗北するとトロフィーを失います。
-* トロフィーはアカウントに蓄積され、週間トロフィー数を基準にランキングが算出されます。
-* リーグは<mark style="color:blue;">**「アカウントで所持しているヒーローの最大レベルを基準」**</mark>に自動的に割り当てられます。
-* **トロフィーは、毎週所属しているリーグの最初のトロフィー数にリセットされます。**
-  * たとえば、あなたのレベルが45である場合、「エンペラー」リーグに属し、あなたのスコアは韓国標準時に基づいて毎週月曜日の00:00に1452点にリセットされます。
-* **毎日KST 00:00を基準に、アリーナに参加していないアカウントはトロフィースコアが**<mark style="color:red;">**25**</mark>**点減少します。**
-  * <mark style="color:red;">さらに、リセット週の前週にアリーナに一度も参加しなかった場合、スリープアカウントとして扱われ、トロフィーがリセットされません。</mark>
-  * 例えば、あなたが「エンペラー」リーグに所属した後、先週アリーナに参加しなかった場合、総トロフィースコアは1452 - (7 x 25) = 1277点となり、今週はそのまま1277点からスタートとなります。
-* リーグとトロフィーのスコア表は下記を参照してください。
+### 📜 リーグ＆トロフィーガイド
+
+1vs1アリーナでは、\
+試合結果に応じて **トロフィー** を獲得、または失います。\
+トロフィーを基準に、**リーグ** と **ランキング** が決定されます。
+
+***
+
+### ◾ トロフィーとは？
+
+トロフィーは、アリーナでの勝敗結果を表す **評価ポイント** です。
+
+* アリーナで **勝利するとトロフィーを獲得** します。
+* アリーナで **敗北するとトロフィーを失います**。
+* トロフィーは **アカウント単位で累積** されます。
+
+***
+
+### ◾ ランキング算出方法
+
+* ランキングは **週間で獲得したトロフィー数** を基準に算出されます。
+* 毎週、**リーグごとにランキング競争** が行われます。
+
+***
+
+### ◾ リーグ配属基準
+
+リーグは手動で選択することはできません。\
+**アカウント内で所持している英雄の最大レベル** を基準に、リーグが **自動的に配属** されます。
+
+***
+
+### ◾ 週間トロフィーリセット
+
+* トロフィーは **毎週月曜日 00:00（KST）** を基準にリセットされます。
+* リセット後は、**所属リーグの開始トロフィー数** に設定されます。
+
+#### 例
+
+* アカウント内で最もレベルが高い英雄が **レベル45** の場合\
+  → **エンペラーリーグ** に配属されます。
+* そのリーグの開始トロフィーが **1,452** の場合\
+  → 毎週月曜日 00:00（KST）に **1,452** にリセットされます。
+
+***
+
+### ◾ トロフィー減少（未参加ペナルティ）
+
+* **毎日 00:00（KST）** を基準に、その日にアリーナへ **一度も参加していないアカウント** は、\
+  トロフィーが <mark style="color:red;">**25ポイント減少**</mark> します。
+
+***
+
+### ◾ スリープアカウントについて
+
+* リセット週の **前週に一度もアリーナへ参加していない場合**、\
+  そのアカウントは **スリープアカウント** として処理されます。
+* スリープアカウントには **週間トロフィーリセットが適用されません**。
+
+#### 例
+
+* エンペラーリーグ所属
+* 前週アリーナ未参加
+* 7日間連続未参加の場合
+
+→ **1,452 −（25 × 7）＝ 1,277**
+
+この場合、今週は **1,277トロフィー** からスタートします。
+
+***
+
+### ◾ リーグ＆トロフィー表
+
+リーグ別の開始トロフィー数や トロフィー区間については、以下の表をご確認ください。
+
+<table data-header-hidden data-full-width="true"><thead><tr><th width="186.54150390625" align="center"></th><th width="100" align="center"></th><th width="112.5416259765625" align="center"></th><th width="92" align="center"></th><th width="108.8333740234375" align="center"></th><th width="117" align="center"></th></tr></thead><tbody><tr><td align="center"><strong>League</strong></td><td align="center"><strong>Name</strong></td><td align="center"><img src="../../.gitbook/assets/Icon_Trophy.png" alt="Trophy" data-size="line"></td><td align="center"><strong>Level</strong></td><td align="center"><strong>Win Trophy</strong></td><td align="center"><strong>Lose</strong><br><strong>Trophy</strong></td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R13 (1).png" alt="" data-size="original"></td><td align="center">Bronze</td><td align="center"><mark style="color:purple;"><strong>0~</strong></mark></td><td align="center">20~25</td><td align="center">5</td><td align="center">-2</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R11.png" alt="" data-size="original"></td><td align="center">Silver</td><td align="center"><mark style="color:purple;"><strong>152~</strong></mark></td><td align="center">26~30</td><td align="center">6</td><td align="center">-3</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R8.png" alt="" data-size="original"></td><td align="center">Gold</td><td align="center"><mark style="color:purple;"><strong>452~</strong></mark></td><td align="center">31~35</td><td align="center">7</td><td align="center">-5</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R7.png" alt="" data-size="original"></td><td align="center">Nobless</td><td align="center"><mark style="color:purple;"><strong>902~</strong></mark></td><td align="center">36~44</td><td align="center">8</td><td align="center">-6</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R6.png" alt="" data-size="original"></td><td align="center">Emperor</td><td align="center"><mark style="color:purple;"><strong>1452~</strong></mark></td><td align="center">45~60</td><td align="center">10</td><td align="center">-8</td></tr></tbody></table>
+
+***
+
+### ◾ トロフィー補正システム
+
+アリーナでは、対戦相手との **レベル差** に応じて、\
+トロフィーの **獲得量・減少量が微調整** されます。
+
+* これは、高レベルと低レベル間の難易度差を考慮したシステムです。
+
+#### 例
+
+* 自分より9レベル高い相手に敗北した場合
+  * 基本減少量：−5
+  * 補正後：**−1**
+
+***
+
+### ◾ トロフィー補正基準
+
+レベル差による トロフィー補正の詳細は、以下の表をご確認ください。
+
+<table data-full-width="true"><thead><tr><th align="center">Level gap</th><th align="center">Win Trophy Bonus</th><th align="center">Draw</th><th align="center">Lose Trophy Bonus</th></tr></thead><tbody><tr><td align="center">+9~10</td><td align="center">+4</td><td align="center">0</td><td align="center">-4</td></tr><tr><td align="center">+7~8</td><td align="center">+3</td><td align="center">0</td><td align="center">-3</td></tr><tr><td align="center">+6</td><td align="center">+2</td><td align="center">0</td><td align="center">-2</td></tr><tr><td align="center">+0~5</td><td align="center">0</td><td align="center">0</td><td align="center">0</td></tr></tbody></table>
+
+***
+
+✨
+
+> **トロフィーは、あなたの実力の記録。**\
+> **リーグは現在地を示し、アリーナは、その位置を変えるチャンスを与えてくれます。**
 {% endtab %}
 {% endtabs %}
 
-## ✅ League & **Trophy Chart** <a href="#trophy" id="trophy"></a>
-
-<table data-header-hidden data-full-width="true"><thead><tr><th width="248" align="center"></th><th width="100" align="center"></th><th width="124" align="center"></th><th width="92" align="center"></th><th width="113" align="center"></th><th width="117" align="center"></th></tr></thead><tbody><tr><td align="center"><strong>League</strong></td><td align="center"><strong>Name</strong></td><td align="center"><img src="../../.gitbook/assets/Icon_Trophy.png" alt="Trophy" data-size="line"></td><td align="center"><strong>Level</strong></td><td align="center"><strong>Win Trophy</strong></td><td align="center"><strong>Lose</strong><br><strong>Trophy</strong></td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R13 (1).png" alt="" data-size="original"></td><td align="center">Bronze</td><td align="center"><mark style="color:purple;"><strong>0~</strong></mark></td><td align="center">20~25</td><td align="center">5</td><td align="center">-2</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R11.png" alt="" data-size="original"></td><td align="center">Silver</td><td align="center"><mark style="color:purple;"><strong>152~</strong></mark></td><td align="center">26~30</td><td align="center">6</td><td align="center">-3</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R8.png" alt="" data-size="original"></td><td align="center">Gold</td><td align="center"><mark style="color:purple;"><strong>452~</strong></mark></td><td align="center">31~35</td><td align="center">7</td><td align="center">-5</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R7.png" alt="" data-size="original"></td><td align="center">Nobless</td><td align="center"><mark style="color:purple;"><strong>902~</strong></mark></td><td align="center">36~44</td><td align="center">8</td><td align="center">-6</td></tr><tr><td align="center"><img src="../../.gitbook/assets/A_R6.png" alt="" data-size="original"></td><td align="center">Emperor</td><td align="center"><mark style="color:purple;"><strong>1452~</strong></mark></td><td align="center">45~60</td><td align="center">10</td><td align="center">-8</td></tr></tbody></table>
-
-## ✅ **Trophy** correction according to level <a href="#trophy" id="trophy"></a>
-
-{% tabs %}
-{% tab title="ENG" %}
-#### 🏆 Trophy Adjustment System
-
-In the **Arena**, the number of **trophies gained or lost** after a match is slightly adjusted based on the level difference between players.\
-This ensures fairness between **high-level and low-level players**.
-
-📌 **Example**
-
-* If you **lose** to an opponent **9 levels higher**, you would normally lose **5 trophies**.
-  * But with the adjustment, you only lose **1 trophy** instead!
-
-🔎 **Check the table below for detailed trophy adjustments!**
-{% endtab %}
-
-{% tab title="한국어" %}
-#### 🏆 **트로피 보정 시스템 안내**
-
-아레나에서 **승리/패배 시 트로피 변동**은 상대 레벨에 따라 조정됩니다.\
-**고레벨 유저 vs 저레벨 유저 간 난이도 차이**를 고려하여,\
-트로피 손실 또는 획득량이 **소폭 보정**됩니다.
-
-📌 **예시**
-
-* 내가 **9레벨 높은 상대**에게 **패배**하면 원래 **트로피 -5**지만,\
-  **보정값 적용 후 -1**만 잃게 됩니다.
-
-🔎 **자세한 보정 기준은 아래 표에서 확인하세요!**
-{% endtab %}
-
-{% tab title="日本語" %}
-#### 🏆 トロフィー補正システム
-
-**アリーナ**では、**勝敗時のトロフィー増減**が、\
-対戦相手との**レベル差**を考慮して**わずかに調整**されます。\
-これにより、**高レベル vs 低レベル**の戦いでも公平性が保たれます。
-
-📌 **例**
-
-* 自分より**9レベル高い相手**に**敗北**すると、通常なら**トロフィー -5**。
-  * しかし補正により、**-1 だけ**の減少になります！
-
-🔎 **詳しい補正値は下の表をチェック！**
-{% endtab %}
-{% endtabs %}
-
-<table data-full-width="true"><thead><tr><th width="188" align="center">Level gap</th><th width="238" align="center">Win Trophy Bonus</th><th width="263" align="center">Draw</th><th align="center">Lose Trophy Bonus</th></tr></thead><tbody><tr><td align="center">+9~10</td><td align="center">+4</td><td align="center">0</td><td align="center">-4</td></tr><tr><td align="center">+7~8</td><td align="center">+3</td><td align="center">0</td><td align="center">-3</td></tr><tr><td align="center">+6</td><td align="center">+2</td><td align="center">0</td><td align="center">-2</td></tr><tr><td align="center">+0~5</td><td align="center">0</td><td align="center">0</td><td align="center">0</td></tr></tbody></table>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 13, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
