@@ -12,7 +12,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 Earn **EXP** through hunting and activities to level up,\
 unlock stronger equipment, and access more advanced content.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -106,7 +106,7 @@ Some systems directly influence how efficiently your Hero grows.
 💡 **레벨은 영웅의 강함을 나타내는 가장 중요한 기준입니다.**\
 사냥과 활동을 통해 EXP를 획득하고, 레벨을 올려 더 강력한 장비와 콘텐츠를 해금해 보세요.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -198,7 +198,7 @@ EXP와 TP를 즉시 획득할 수 있는 아이템을 활용하면 영웅을 더
 狩りや各種活動を通じて **EXP** を獲得し、\
 レベルを上げて、より強力な装備や新たなコンテンツを解放しましょう。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

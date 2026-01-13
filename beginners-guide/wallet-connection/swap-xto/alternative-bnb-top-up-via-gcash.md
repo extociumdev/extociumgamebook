@@ -73,11 +73,11 @@ Just remember this order:
 2️⃣ Go to **GInvest → GCrypto**\
 3️⃣ On the GCrypto screen, select **Top Up**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 4️⃣ Enter the amount → **Continue** → **Pay**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
 
 Once completed,\
 your **GCrypto Trading Wallet balance** will be updated.
@@ -216,11 +216,11 @@ GCrypto에서 코인을 **지갑으로 전송(Send)** 할 때는\
 2️⃣ **GInvest → GCrypto** 선택\
 3️⃣ GCrypto 화면에서 **Top Up** 선택
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 4️⃣ 충전할 금액 입력 → **Continue → Pay**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
 
 충전이 완료되면\
 GCrypto Trading Wallet 잔액이 업데이트됩니다.
@@ -357,11 +357,11 @@ GCryptoからウォレットへ送金（Send）する際、\
 2️⃣ **GInvest → GCrypto** を選択\
 3️⃣ GCrypto画面で **Top Up** を選択
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 4️⃣ 金額入力 → **Continue** → **Pay**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gcash.png" alt=""><figcaption></figcaption></figure></div>
 
 完了すると、\
 **GCrypto Trading Walletの残高**が更新されます。

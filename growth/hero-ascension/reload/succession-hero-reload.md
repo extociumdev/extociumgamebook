@@ -45,7 +45,7 @@ On this page, select the **\[Succession]** button to proceed with Succession Her
 ### ◾ Succession Hero Reload Types
 
 Succession Hero Reload includes the following three types.\
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 * Normal Reload
 * Special Reload
@@ -110,7 +110,7 @@ The materials required for each Reload type can be checked below.
 ### ◾ 계승 영웅 리로드 방식
 
 계승 영웅 리로드에는 아래 **세 가지 방식**이 존재합니다.\
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 * 일반 리로드
 * 스페셜 리로드
@@ -180,7 +180,7 @@ The materials required for each Reload type can be checked below.
 ### ◾ 継承ヒーローリロード方式
 
 継承ヒーローリロードには、以下の **3つの方式** があります。\
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 * ノーマルリロード
 * スペシャルリロード

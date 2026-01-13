@@ -6,387 +6,497 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Is hunting too challenging? Why not try party play with friends?**
+### 📜 Party Guide
 
-1️⃣ [Forming a Party ](party.md#id-1-forming-a-party)\
-2️⃣ [Leaving a Party ](party.md#id-2-leaving-a-party)\
-3️⃣ [Managing Party Members ](party.md#id-3-managing-party-members)\
-4️⃣[ Party Buff Skills](party.md#id-4-party-buff-skills)\
-5️⃣[Party Distribution Rules](party.md#id-5-party-distribution-rules)\
-6️⃣[Party EXP Bonus](party.md#id-6-party-exp-bonus)
+Hunting alone can be tough.\
+Sometimes, the fastest way forward is fighting together.\
+Form a party in **EXTOCIUM** and take on the world with your friends.
 
-#### 1️⃣Forming a Party
+***
 
-There are two ways to form a party.
+### ◾ What Is a Party?
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+A party is a co-op system that lets you hunt and challenge raids together with other adventurers.\
+While in a party, you can track each other’s location and gain EXP bonuses and special party buffs.
 
-👉First method: Touch the party button at the bottom left of the main HUD.
+***
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### ◾ How to Form a Party
 
-👉A party widget will appear. A list of recommended members is displayed on the left. Touch the green button in this slot to send a party request to someone.
+There are **two ways** to form a party.
 
-{% hint style="info" %}
-<img src="../.gitbook/assets/image (631).png" alt="" data-size="original">
+#### 1️⃣ Invite Using the Party Button
 
-❓Don't want to receive party requests? Then **turn off** the 'Party Request' toggle button at the bottom of the party widget.
-{% endhint %}
+Tap the **Party button** at the bottom-left of the main HUD.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p1.png" alt=""><figcaption></figcaption></figure>
 
-👉The second method involves approaching a potential party member directly in the world and touching the party button above their head.
+When the party widget opens, a **recommended player list** appears on the left.\
+Tap the **green button** next to a player to send a party invite.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p2.png" alt=""><figcaption></figcaption></figure>
 
-👉If you've sent a party request using one of these methods, a request popup like the image above will appear on the recipient's screen. If the recipient presses the '**Accept**' button, the party will be formed.
+If you don’t want to receive party requests,\
+turn **OFF** the **“Party Request”** toggle at the bottom of the party widget.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p3.png" alt=""><figcaption></figcaption></figure>
 
-👉Once the party is formed, the party members' information will be displayed on the left side of the main HUD. A blue floor effect will be visible among party members.
+#### 2️⃣ Invite Directly in the World
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* Approach the adventurer you want to party with in the world.\
+  Tap the **Party button above their character** to send an invite.
 
-👉If you want to check the location of party members, touch the magnifying glass button at the top right of the main HUD.
+<figure><img src="../.gitbook/assets/p4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+When the invited player taps **“Accept”**, the party is formed.
 
-👉When the minimap opens, the locations of my party members will be displayed with blue circles.
+<figure><img src="../.gitbook/assets/IMG_7423.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+***
 
-#### 2️⃣Leaving a Party
+### ◾ Checking Party Status
 
-If you want to leave the party, follow these steps:
+* Once the party is formed, \
+  party member information appears on the **left side of the main HUD**.
+* A **blue ground effect** will appear around party members.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p6.png" alt=""><figcaption></figcaption></figure>
 
-👉While the party is formed, touch the party button at the bottom left of the main HUD.
+* Tap the **magnifying glass icon** at the top-right of the HUD.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p7.png" alt=""><figcaption></figcaption></figure>
 
-👉Party member information will be displayed in the party widget. Touch the 'Leave Party' button at the bottom left.
+* On the minimap, party members are shown as **blue circles**.
 
-A confirmation popup to leave the party will appear, press the 'Confirm' button to leave the party.
+<figure><img src="../.gitbook/assets/p8.png" alt=""><figcaption></figcaption></figure>
 
-#### 3️⃣Managing Party Members
+***
 
-If you want to manage party members, follow these steps. Managing party members is a unique privilege of the party leader.
+### ◾ Leaving a Party
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+To leave a party, follow these steps:
 
-👉While the party is formed, touch the party button at the bottom left of the main HUD.
+* Tap the **Party button** at the bottom-left of the HUD.
 
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p1 (1).png" alt=""><figcaption></figcaption></figure>
 
-👉Party member information will be displayed in the party widget. Touching the 'minus' button on each slot allows you to forcibly remove a targeted party member.
+* Tap **“Leave Party”** at the bottom of the party widget.
 
-#### 4️⃣Party Buff Skills
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Party buff skill information is displayed on the right side of the party widget.
+* Tap **“Confirm”** in the popup to leave the party.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-👉**There are two party buff skills. As long as the party is maintained, they apply solely to 'me'.**
+***
 
-There is a buff that amplifies my damage and a buff that reduces the damage I take from opponents. Like normal skills, you can touch the 'Upgrade' button to use materials and gold to achieve better effects.
+### ◾ Managing Party Members
 
-#### 5️⃣Party Distribution Rules
+Only the **Party Leader** can manage party members.
 
-<mark style="color:purple;">**👉Normal Monster Distribution Rules**</mark>
+* Open the party widget by tapping the **Party button**.\
+  Tap the **minus (−) button** on a member slot to remove that member from the party.
 
-> When party members defeat regular monsters, items and EXP are distributed in a loop according to the party member order: 1 -> 2 -> 3 -> 4 -> 1 -> 2 -> 3 -> 4. For items, they are distributed using ownership sharing. Instead of picking up dropped items immediately, ownership is granted to everyone after a certain period of time.
+<figure><img src="../.gitbook/assets/p9 (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:purple;">**👉Raid Boss Distribution Rules**</mark>
+***
 
-> * During raids, individual contribution is calculated based on personal performance.
-> * Contribution is only measured when the energy level is above 1; if energy is at 0, no contribution is accumulated.
-> * Rewards from the reward pool are fully applied based on final individual contribution.
-> * If in a party, the total items received from the pool based on each member's contribution are then redistributed evenly (1/n) among all party members.
-> * If there are fewer items than party members (e.g., 3 items for 4 members), items are randomly distributed so that 3 members receive one item each.
-> * The party distribution function is disabled when party members are too far apart.
+### ◾ Party Buff Skills
 
-{% hint style="info" %}
-⛔ **If a high-level or low-level party member with a "**[**level cap**](/broken/pages/xS9mxiY77pGcLnZEadui#eng)**" applied is included in the raid party, the overall contribution may be reduced, so please be cautious!**
+* Party buff skills are displayed on the **right side of the party widget**.
+* There are **two party buffs**, and while the party is active, they apply **only to you**.
 
-❓ For example, if a "Level 50 user with 0 energy" attempts to take down a "Level 20 Raid Boss," most of the damage contribution would be attributed to the Level 50 user. However, since their energy is 0, they will not be eligible for rewards. As a result, the remaining rewards pool is distributed among the valid users, which causes a loss in the total reward pool.
-{% endhint %}
-
-#### 6️⃣Party EXP Bonus
-
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-👉 When you form a party, the **EXP bonus buff amount** is displayed to the right of the party toggle button.
+<figure><img src="../.gitbook/assets/p10.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓ The bonus buff applies from **2 or more active members**.
+#### Buff types:
 
-* 2 members: +2.5%
-* 3 members: +2.7%
-* 4 members: +3%
-* 5 members: +3.2%
-* 6 members: +3.4%
+* A buff that **increases your attack damage**
+* A buff that **reduces damage you take**
+
+Just like normal skills, you can tap **Upgrade** to enhance these buffs using materials and gold.
 {% endhint %}
+
+***
+
+### ◾ Party Distribution Rules
+
+#### ▶ Normal Monsters
+
+* When a monster is defeated, items and EXP are distributed **in party order**.\
+  (1 → 2 → 3 → 4 → back to 1)
+* Items use an **ownership-sharing system**.\
+  After a short time, all party members can pick up the dropped items.
+
+#### ▶ Raid Bosses
+
+Raid rewards are determined by **player ranking**.\
+Your ranking is based on the **amount of damage you deal during the raid**.
+
+* When the raid ends, all participants are ranked according to their damage contribution.
+* **Reward tiers vary by rank**, and rewards are granted based on your final ranking.
+
+If you are in a party, \
+Rewards earned by each party member based on their rank are **combined**,\
+then **evenly redistributed (1/n)** among all party members.
+
+* If there are fewer items than party members,\
+  items are **randomly distributed**, with some members receiving one item.
+* If party members are too far apart, **party distribution may be temporarily disabled**.
+
+***
+
+### ◾ Party EXP Bonus
+
+When you form a party, \
+the **EXP bonus value** is displayed to the right of the party toggle button.
+
+<figure><img src="../.gitbook/assets/p11.png" alt=""><figcaption></figcaption></figure>
+
+* The EXP bonus applies when **2 or more active party members** are present.
+
+| Number of Party Members | EXP Bonus |
+| ----------------------- | --------- |
+| 2명                      | +2.5%     |
+| 3명                      | +2.7%     |
+| 4명                      | +3.0%     |
+| 5명                      | +3.2%     |
+| 6명                      | +3.4%     |
+
+***
+
+✨
+
+> **Fighting alone takes courage.**\
+> **Fighting together takes you further.**\
+> **In EXTOCIUM, the world shines brighter when you’re in a party.**
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**사냥이 어려우신가요? 그렇다면 친구들과 파티 플레이를 시도해 보는 건 어떨까요?**
+### 📜 파티 가이드
 
-1️⃣[파티 맺기](party.md#id-1)\
-2️⃣[파티 탈퇴](party.md#id-2)\
-3️⃣[파티원 관리](party.md#id-3)\
-4️⃣[파티 버프 스킬](party.md#id-4)\
-5️⃣[파티 분배 규칙](party.md#id-5)\
-6️⃣[파티 EXP 보너스](party.md#id-6-exp-1)
+혼자 사냥이 버겁다면, 함께 싸우는 게 가장 빠른 길입니다.\
+EXTOCIUM의 파티 시스템을 통해 친구들과 함께 더 강해져 보세요.
 
-#### 1️⃣파티 맺기
+***
 
-파티를 맺는 방법은 두 가지 입니다.&#x20;
+### ◾ 파티란?
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+파티는 다른 모험가와 함께 사냥, 레이드 등을 진행할 수 있는 협동 시스템입니다.\
+파티를 맺으면 서로의 위치를 확인할 수 있고, EXP 보너스와 전용 버프 효과도 받을 수 있습니다.
 
-👉첫 번째 방법 입니다. 메인 HUD 좌측 하단에 파티 버튼을 터치합니다.
+***
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### ◾ 파티 맺기
 
-👉파티 위젯이 등장합니다. 좌측에 추천인 목록이 제시됩니다. 이 슬롯에서 녹색 버튼을 터치하면 상대방에게 파티가 요청됩니다.
+파티를 맺는 방법은 **두 가지**가 있습니다.
 
-{% hint style="info" %}
-<img src="../.gitbook/assets/image (631).png" alt="" data-size="original">
+#### 1️⃣ 파티 버튼으로 요청하기
 
-❓상대방에게 파티 요청을 받고 싶지 않으신가요? 그렇다면 파티 위젯 하단에 '파티 요청' 토글버튼을 터치하여OFF로 만들어주세요.
-{% endhint %}
+메인 HUD **좌측 하단의 파티 버튼**을 터치합니다.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p1.png" alt=""><figcaption></figcaption></figure>
 
-👉두 번째는 월드에서 직접 파티 요청 대상자에게 다가가는 방법입니다. 대상의 머리 위에 뜬 파티 버튼을 터치해주세요.
+파티 위젯이 열리면, 좌측에 **추천 목록**이 표시됩니다.\
+원하는 대상 옆의 **녹색 버튼**을 터치하면 파티 요청이 전송됩니다.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p2.png" alt=""><figcaption></figcaption></figure>
 
-👉두 가지 방법 중 한 가지로 파티 요청을 실행했다면, 상대방 화면에 위 이미지 처럼 요청 팝업이 제시됩니다. 상대방이 '승인' 버튼을 누르면 파티가 결성됩니다.
+파티 요청을 받고 싶지 않다면 파티 위젯 하단의 **‘파티 요청’ 토글 버튼**을 OFF로 설정할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p3.png" alt=""><figcaption></figcaption></figure>
 
-👉파티가 결성되면 메인 HUD 좌측에 파티원의 정보가 표시됩니다. 파티원끼리는 파란색 바닥 이펙트가 표시됩니다.&#x20;
+#### 2️⃣ 월드에서 직접 요청하기
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* 월드에서 파티를 맺고 싶은 모험가에게 다가가\
+  **머리 위에 표시된 파티 버튼**을 터치하면 파티 요청을 보낼 수 있습니다.
 
-👉파티원의 위치를 확인하고 싶다면 메인 HUD 우측 상단에 돋보기 버튼을 터치하세요.
+<figure><img src="../.gitbook/assets/p4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+요청을 받은 모험가가 **‘승인’** 버튼을 누르면 파티가 결성됩니다.
 
-👉미니맵이 열리면, 위 이미지 처럼 나의 파티원의 위치가 파란색 동그라미로 표시됩니다.
+<figure><img src="../.gitbook/assets/IMG_7423.jpg" alt=""><figcaption></figcaption></figure>
 
-#### 2️⃣파티 탈퇴
+***
 
-파티를 탈퇴하고 싶다면, 다음 스텝을 따라해보세요.
+### ◾ 파티 상태 확인
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* 파티가 결성되면 메인 HUD **좌측에 파티원 정보**가 표시됩니다.
+* 파티원 주변에는 **파란색 바닥 이펙트**가 나타납니다.
 
-👉파티가 결성된 상태에서 메인 HUD 좌측 하단에 파티 버튼을 터치합니다.
+<figure><img src="../.gitbook/assets/p6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* HUD 우측 상단의 **돋보기 버튼**을 눌러보세요.
 
-👉파티 위젯에 파티 멤버 정보가 표시됩니다. 좌측 맨 하단에 '파티 탈퇴' 버튼을 터치해주세요.
+<figure><img src="../.gitbook/assets/p7.png" alt=""><figcaption></figcaption></figure>
 
-파티 탈퇴 확인 팝업이 출력되면, '확인'버튼을 눌러 파티를 탈퇴할 수 있습니다.
+* 미니맵에서 파티원의 위치를 **파란색 원**으로 확인할 수 있습니다.
 
-#### 3️⃣파티원 관리
+<figure><img src="../.gitbook/assets/p8.png" alt=""><figcaption></figcaption></figure>
 
-파티원을 관리 하고 싶다면 다음 스텝을 따라해보세요. 파티원 관리는 파티 리더의 고유 권한입니다.
+***
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### ◾ 파티 탈퇴
 
-👉파티가 결성된 상태에서 메인 HUD 좌측 하단에 파티 버튼을 터치합니다.
+파티를 나가고 싶을 경우 아래 순서대로 진행하세요.
 
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+* 메인 HUD 좌측 하단의 **파티 버튼**을 터치합니다.
 
-👉파티 위젯에 파티 멤버 정보가 표시됩니다. 각 슬롯에 '마이너스' 버튼을 터치하면, 대상 파티원을 강제로 쫓아낼 수 있습니다.&#x20;
+<figure><img src="../.gitbook/assets/p1 (1).png" alt=""><figcaption></figcaption></figure>
 
-#### 4️⃣파티 버프 스킬
+* 파티 위젯 하단의 **‘파티 탈퇴’** 버튼을 터치합니다.
 
-파티 위젯 우측에 파티 버프 스킬 정보가 표시됩니다.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (636).png" alt=""><figcaption></figcaption></figure>
+* 확인 팝업에서 **‘확인’**&#xC744; 누르면 파티에서 탈퇴합니다.
 
-👉**파티 버프 스킬은 2개 입니다. 파티를 유지한 상태라면, '나'에게 단독으로 적용됩니다.**&#x20;
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-나의 데미지를 증폭 시켜주는 버프와 내가 상대방에게 입는 데미지를 감소시켜 주는 버프가 있습니다. 일반 스킬과 마찬가지로, '업그레이드'버튼을 터치하여 재료와 골드를 소모해 더 좋은 효과를 얻을 수 있습니다.
+***
 
-#### 5️⃣파티 분배 규칙
+### ◾ 파티원 관리
 
-👉<mark style="color:purple;">**일반 몬스터 분배 규칙**</mark>
+파티원 관리는 **파티 리더만 가능**합니다.
 
-> 파티 멤버가 일반 몬스터를 잡을 때는, 파티원 순서대로 1->2->3->4->1->2->3->4 와 같은 루프로 아이템\&EXP를 분배 받게 됩니다. 아이템의 경우 소유권 분배 형식으로, 드랍된 아이템을 줍지 않고, 일정 시간이 지나면 모두에게 소유권이 생기게 됩니다.
+* 파티 버튼을 터치해 파티 위젯을 엽니다.\
+  각 파티원 슬롯의 **마이너스(−) 버튼**을 누르면 해당 파티원을 파티에서 제외할 수 있습니다.
 
-👉<mark style="color:purple;">**레이드 보스 분배 규칙**</mark>
+<figure><img src="../.gitbook/assets/p9.png" alt=""><figcaption></figcaption></figure>
 
-> * 레이드를 할 때는 개인의 기여도를 기준으로 계산됩니다.
-> * 기여도는 나의 에너지가 1 이상일 때만 측정되며, 에너지가 0이면 기여도가 축적되지 않습니다.
-> * 최종적으로 나의 기여도를 기준으로 보상 풀이 적용됩니다.
-> * 파티 중일 경우, 각 파티원의 기여도를 기준으로 보상 풀에서 획득한 모든 아이템을 합산한 후 각 파티원에게 1/n으로 재분배됩니다.
-> * 이때, 아이템이 3개 남고 파티원이 4명이라면 3개의 아이템은 무작위로 각 1개씩 지급됩니다.
-> * 파티원과의 거리가 멀어지면 파티 분배 기능이 사라집니다.
+***
 
-{% hint style="info" %}
-**⛔레이드 파티에 '**[**레벨 캡**](/broken/pages/xS9mxiY77pGcLnZEadui#undefined-1)**'이 적용된 고레벨 혹은 저레벨 팀원이 포함되어 있을 경우, 전체 기여도에 손실을 입을 수 있으니 주의하세요!**
+### ◾ 파티 버프 스킬
 
-❓예를 들어, '20레벨 레이드 보스'를 '에너지가 0인 50레벨 유저'가 공략하게 되면, 대부분의 데미지 기여도를 50레벨 유저가 가져가게 될 테지만, 그의 에너지가 0 이므로 보상 책정이 되지 않습니다. 따라서 남은 총 기여도 풀에서 나머지 유효 유저들의 보상이 책정되게 되고, 이는 전체 보상풀의 손실을 불러옵니다.
-{% endhint %}
+* 파티 위젯 **우측**에서 파티 버프 스킬을 확인할 수 있습니다.
+* 파티 버프는 **2종류**이며, 파티가 유지되는 동안 **나에게만 적용**됩니다.
 
-#### 6️⃣파티 EXP 보너스
-
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-👉파티를 맺으면 파티 토글 버튼 우측에 EXP 보너스 버프량이 표시됩니다.
+<figure><img src="../.gitbook/assets/p10.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓보너스 버프는 활성화 된 유저 2인 이상부터 적용됩니다.
+#### 버프 종류:
 
-2인 : +2.5%
+* 나의 **공격 데미지를 증가**시키는 버프
+* 내가 받는 **피해를 감소**시키는 버프
 
-3인 : +2.7%
-
-4인 : +3%
-
-5인 : +3.2%
-
-6인 : +3.4%
+일반 스킬과 동일하게 **업그레이드 버튼**을 통해 재료와 골드를 사용해 강화할 수 있습니다.
 {% endhint %}
 
+***
 
+### ◾ 파티 분배 규칙
+
+#### ▶ 일반 몬스터
+
+* 파티원이 몬스터를 처치하면 **파티원 순서대로** 아이템과 EXP가 분배됩니다.\
+  (1 → 2 → 3 → 4 → 다시 1)
+* 아이템은 **소유권 분배 방식**으로 처리되며, 일정 시간이 지나면 모든 파티원이 획득할 수 있습니다.
+
+#### ▶ 레이드 보스
+
+레이드 보상은 **참여자의 등수**를 기준으로 책정됩니다.\
+등수는 레이드 중 **내가 준 데미지 기여도**에 따라 결정됩니다.
+
+* 레이드 종료 시, 각 참여자는 데미지 기여도에 따라 **순위가 정해집니다.**
+* **등수에 따라 보상 레벨이 달라지며**, 해당 보상 레벨에 맞는 보상을 획득합니다.
+
+파티 중일 경우, \
+각 파티원이 **자신의 등수에 따라 획득한 보상**을 모두 합산한 뒤, 파티원 수에 따라 **균등 분배(1/n)** 됩니다.
+
+* 아이템 수가 파티원 수보다 적을 경우, 일부 파티원에게 **무작위로 1개씩 지급**됩니다.
+* 파티원과의 거리가 너무 멀어질 경우, **파티 분배 기능이 일시적으로 적용되지 않을 수 있습니다.**
+
+***
+
+### ◾ 파티 EXP 보너스
+
+파티를 맺으면 파티 토글 버튼 우측에 **EXP 보너스 수치**가 표시됩니다.
+
+<figure><img src="../.gitbook/assets/p11.png" alt=""><figcaption></figcaption></figure>
+
+* EXP 보너스는 **활성 파티원 2명 이상**부터 적용됩니다.
+
+| 파티 인원 | EXP 보너스 |
+| ----- | ------- |
+| 2명    | +2.5%   |
+| 3명    | +2.7%   |
+| 4명    | +3.0%   |
+| 5명    | +3.2%   |
+| 6명    | +3.4%   |
+
+***
+
+✨
+
+> **혼자 싸우는 용기도 멋지지만, 함께 싸우는 선택은 더 멀리 갑니다.**\
+> **EXTOCIUM의 세계는, 파티에서 더 빛납니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**狩りが難しいですか？ それなら友達とのパーティープレイを試してみてはどうでしょうか？**
+### 📜 パーティーガイド
 
-1️⃣ [パーティー結成 ](party.md#id-1pt)\
-2️⃣ [パーティー脱退 ](party.md#id-2pt)\
-3️⃣ [パーティーメンバー管理 ](party.md#id-3ptmenb)\
-4️⃣ [パーティーバフスキル](party.md#id-4ptbafusukiru)\
-5️⃣ [パーティー分配ルール](party.md#id-5ptrru)\
-6️⃣[パーティEXPボーナス](party.md#id-6ptiexpbnasu)
+ひとりでの狩りが大変なら、一緒に戦うのがいちばんの近道です。\
+**EXTOCIUM**のパーティーシステムで、仲間とともにさらに強くなりましょう。
 
-#### 1️⃣パーティー結成
+***
 
-パーティーを結成する方法は2つあります。
+### ◾ パーティーとは？
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+パーティーは、ほかの冒険者と一緒に 狩りやレイドに挑戦できる協力システムです。\
+パーティーを組むと、お互いの位置を確認でき、\
+EXPボーナスや専用バフ効果を受けることができます。
 
-👉最初の方法です。メインHUDの左下にあるパーティーボタンをタッチします。
+***
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### ◾ パーティーを組む
 
-👉パーティーウィジェットが表示されます。左側に推薦されたメンバーリストが表示されます。このスロットの緑色ボタンをタッチすると、相手にパーティー申請が行われます。
+パーティーを組む方法は **2つ**あります。
 
-{% hint style="info" %}
-<img src="../.gitbook/assets/image (631).png" alt="" data-size="original">
+#### 1️⃣ パーティーボタンから申請する
 
-❓パーティー申請を受けたくないですか？ その場合は、パーティーウィジェットの下部にある「パーティー申請」トグルボタンを**OFF**にしてください。
-{% endhint %}
+メインHUD左下の **パーティーボタン** をタッチします。
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p1.png" alt=""><figcaption></figcaption></figure>
 
-👉二つ目の方法は、ワールドで直接パーティー申請対象者に近づき、その頭上にあるパーティーボタンをタッチします。
+パーティーウィジェットが開くと、左側に **おすすめリスト** が表示されます。\
+対象の横にある **緑色のボタン** をタッチすると、パーティー申請が送信されます。
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p2.png" alt=""><figcaption></figcaption></figure>
 
-👉これらの方法のいずれかでパーティー申請を実行した場合、上の画像のように相手の画面に申請ポップアップが表示されます。相手が「**承認**」ボタンを押すと、パーティーが結成されます。
+パーティー申請を受け取りたくない場合は、パーティーウィジェット下部の\
+&#xNAN;**「パーティー申請」トグルボタン** をOFFに設定してください。
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p3.png" alt=""><figcaption></figcaption></figure>
 
-👉パーティーが結成されると、メインHUDの左側にパーティーメンバーの情報が表示されます。パーティーメンバー間では青い床エフェクトが表示されます。
+#### 2️⃣ ワールドで直接申請する
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* ワールドでパーティーを組みたい冒険者に近づき、キャラクターの頭上に表示される\
+  **パーティーボタン** をタッチすると申請できます。
 
-👉パーティーメンバーの位置を確認したい場合は、メインHUDの右上にある虫眼鏡ボタンをタッチしてください。
+<figure><img src="../.gitbook/assets/p4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+申請を受けた冒険者が **「承認」** ボタンを押すと、パーティーが結成されます。
 
-👉ミニマップが開くと、私のパーティーメンバーの位置が青い円で表示されます。
+<figure><img src="../.gitbook/assets/IMG_7423.jpg" alt=""><figcaption></figcaption></figure>
 
-#### 2️⃣パーティー脱退
+***
 
-パーティーを脱退したい場合は、次のステップに従ってください。
+### ◾ パーティー状態の確認
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* パーティーが結成されると、メインHUD左側に **パーティーメンバー情報** が表示されます。
+* パーティーメンバーの周囲には **青い床エフェクト** が表示されます。
 
-👉パーティーが結成されている状態で、メインHUDの左下にあるパーティーボタンをタッチします。
+<figure><img src="../.gitbook/assets/p6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (636).png" alt=""><figcaption></figcaption></figure>
+* HUD右上の **虫眼鏡ボタン** をタッチしてください。
 
-👉パーティーウィジェットにパーティーメンバー情報が表示されます。左下にある「パーティー脱退」ボタンをタッチしてください。
+<figure><img src="../.gitbook/assets/p7.png" alt=""><figcaption></figcaption></figure>
 
-パーティー脱退確認ポップアップが表示されるので、「確認」ボタンを押してパーティーを脱退します。
+* ミニマップ上で、パーティーメンバーの位置を **青い円** で確認できます。
 
-#### 3️⃣パーティーメンバー管理
+<figure><img src="../.gitbook/assets/p8.png" alt=""><figcaption></figcaption></figure>
 
-パーティーメンバーを管理したい場合は、次のステップに従ってください。パーティーメンバー管理はパーティーリーダーの独自権限です。
+***
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### ◾ パーティー脱退
 
-👉パーティーが結成されている状態で、メインHUDの左下にあるパーティーボタンをタッチします。
+パーティーから抜けたい場合は、以下の手順で進めてください。
 
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+* メインHUD左下の **パーティーボタン** をタッチ
 
-👉パーティーウィジェットにパーティーメンバー情報が表示されます。各スロットにある「マイナス」ボタンをタッチすると、対象パーティーメンバーを強制的に追い出すことができます。&#x20;
+<figure><img src="../.gitbook/assets/p1 (1).png" alt=""><figcaption></figcaption></figure>
 
-#### 4️⃣パーティーバフスキル
+* パーティーウィジェット下部の **「パーティー脱退」** をタッチ
 
-パーティーウィジェットの右側にパーティーバフスキル情報が表示されます。
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (636).png" alt=""><figcaption></figcaption></figure>
+* 確認ポップアップで **「確認」** を押すと脱退できます
 
-👉**パーティーバフスキルは2つあります。パーティーが維持されている限り、それらは「私」にのみ適用されます。**
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-私のダメージを増幅させるバフと、私が相手から受けるダメージを減少させるバフがあります。通常のスキルと同様に、「アップグレード」ボタンをタッチして材料とゴールドを消費し、より良い効果を得ることができます。
+***
 
-#### 5️⃣パーティー分配ルール
+### ◾ パーティーメンバー管理
 
-👉<mark style="color:purple;">**通常モンスターの分配ルール**</mark>
+パーティーメンバーの管理は **パーティーリーダーのみ可能** です。
 
-> パーティーメンバーが一般モンスターを捕まえる時は、パーティーメンバー順に1->2->3->4->1->2->3->4のようなループでアイテム\&EXPを分配してもらいます。 アイテムの場合は所有権分配形式で、ドロップされたアイテムを拾わず、一定時間が経つと皆に所有権が生じます。
+* パーティーボタンをタッチして パーティーウィジェットを開き、\
+  各メンバー枠の **マイナス（−）ボタン** をタッチすると、\
+  対象のメンバーをパーティーから外すことができます。
 
-👉<mark style="color:purple;">**レイドボスの分配ルール**</mark>
+<figure><img src="../.gitbook/assets/p9.png" alt=""><figcaption></figcaption></figure>
 
-> * レイド中、個人の貢献度に基づいて計算が行われます。
-> * 貢献度はエネルギーが1以上のときにのみ測定され、エネルギーが0の場合、貢献度は蓄積されません。
-> * 最終的に個人の貢献度に基づいて、報酬プールからの報酬が適用されます。
-> * パーティを組んでいる場合、各メンバーの貢献度に基づいて報酬プールから獲得したアイテムを合計し、各パーティメンバーに1/nで再分配します。
-> * その際、アイテムが3つでパーティメンバーが4人いる場合、3人のメンバーにランダムに1つずつアイテムが配布されます。
-> * パーティメンバーと離れすぎるとパーティ分配機能が無効になります。
+***
 
-{% hint style="info" %}
-**⛔ レイドパーティに「レベルキャップ」が適用された高レベルまたは低レベルのチームメンバーが含まれている場合、全体の貢献度に損失が発生する可能性があるため、注意してください！**
+### ◾ パーティーバフスキル
 
-❓ 例えば、「エネルギーが0の50レベルユーザー」が「20レベルのレイドボス」を攻略しようとした場合、大部分のダメージ貢献度は50レベルユーザーに帰属します。しかし、彼のエネルギーが0であるため、報酬が支給されません。その結果、残りの有効ユーザーに対して報酬が分配され、全体の報酬プールに損失が生じます。
-{% endhint %}
+* パーティーウィジェット右側で **パーティーバフスキル** を確認できます。
+* パーティーバフは **2種類** あり、パーティーを維持している間、**自分にのみ適用** されます。
 
-#### 6️⃣パーティEXPボーナス
-
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-👉 パーティを組むと、パーティトグルボタンの右側に**EXPボーナスバフ量**が表示されます。
+<figure><img src="../.gitbook/assets/p10.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓ ボーナスバフは**アクティブなメンバーが2人以上**から適用されます。
+#### バフの種類：
 
-* 2人: +2.5%
-* 3人: +2.7%
-* 4人: +3%
-* 5人: +3.2%
-* 6人: +3.4%
+* 自分の **攻撃ダメージを増加** させるバフ
+* 自分が受ける **ダメージを軽減** するバフ
+
+通常のスキルと同様に、**アップグレード** ボタンから 素材とゴールドを消費して強化できます。
 {% endhint %}
+
+***
+
+### ◾ パーティー分配ルール
+
+#### ▶ 通常モンスター
+
+* モンスターを倒すと、パーティーメンバーの順番で アイテムとEXPが分配されます。\
+  （1 → 2 → 3 → 4 → 再び1）
+* アイテムは **所有権分配方式** で処理され、一定時間が経過すると、\
+  すべてのパーティーメンバーが獲得できます。
+
+#### ▶ レイドボス
+
+レイド報酬は **参加者の順位** を基準に決定されます。\
+順位は、レイド中に与えた **ダメージ貢献度** によって決まります。
+
+* レイド終了時、すべての参加者に順位が付けられます。
+* **順位に応じて報酬レベルが変わり**、その報酬レベルに対応した報酬を獲得できます。
+
+パーティー中の場合、\
+各メンバーが順位に応じて獲得した報酬を合算し、\
+**パーティーメンバー数に応じて均等分配（1/n）** されます。
+
+* アイテム数がパーティーメンバー数より少ない場合、\
+  一部のメンバーに **ランダムで1個ずつ** 配布されます。
+* パーティーメンバーとの距離が離れすぎると、\
+  **パーティー分配機能が一時的に無効** になることがあります。
+
+***
+
+### ◾ パーティーEXPボーナス
+
+パーティーを組むと、パーティートグルボタン右側に **EXPボーナス数値** が表示されます。
+
+<figure><img src="../.gitbook/assets/p11.png" alt=""><figcaption></figcaption></figure>
+
+* EXPボーナスは **有効なパーティーメンバーが2人以上** の場合に適用されます。
+
+| パーティー人数 | EXPボーナス |
+| ------- | ------- |
+| 2명      | +2.5%   |
+| 3명      | +2.7%   |
+| 4명      | +3.0%   |
+| 5명      | +3.2%   |
+| 6명      | +3.4%   |
+
+***
+
+✨
+
+> **ひとりで戦う勇気も素晴らしい。**\
+> **でも、共に戦ぶ選択は、もっと遠くへ行けます。**\
+> **EXTOCIUMの世界は、パーティーでこそ、より輝きます。**
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
-
-
-
-
-
-
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 13, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
