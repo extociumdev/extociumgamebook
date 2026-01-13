@@ -91,15 +91,34 @@ This rule applies only if **all of the following conditions are met**:
 
 ***
 
-### ◾ PK Leverage Type Overview
+### ◾ PK Leverage Bonus Chart Overview
 
-PK Leverage Zones are categorized by difficulty as follows:
+Bonus rules apply in **PK Leverage Zones**.\
+When hunting in a PK Leverage Zone, bonus effects are applied based on the criteria below.
 
-👉 [**PK Leverage Type 1** (Easy)](bonus-chart.md#pk-leverage-1)\
-👉 [**PK Leverage Type 2** (Medium)](bonus-chart.md#pk-leverage-2)\
-👉 [**PK Leverage Type 3** (Hard)](bonus-chart.md#pk-leverage-3)
+***
 
-Detailed values and bonuses for each type can be found on their respective pages.
+#### 📊 PK Leverage Bonus Charts
+
+**1️⃣ Item / Gold / EXP Increase**
+
+This chart shows how much **item drops, gold drops, and EXP gains increase**\
+based on your **PK Level** while hunting in a PK Leverage Zone.
+
+👉 The higher your PK Level, the greater the rewards you can obtain.
+
+<table data-full-width="true"><thead><tr><th width="103.16668701171875">PK Lv.</th><th width="230.2916259765625">Item Drop Rate Increase (%)</th><th width="229.916748046875">Gold Drop Rate Increase (%)</th><th>EXP Gain Increase (%)</th></tr></thead><tbody><tr><td>6</td><td>40</td><td>40</td><td>10</td></tr><tr><td>7</td><td>50</td><td>50</td><td>18</td></tr><tr><td>8</td><td>60</td><td>60</td><td>24</td></tr><tr><td>9</td><td>70</td><td>70</td><td>28</td></tr><tr><td>10</td><td>80</td><td>80</td><td>36</td></tr></tbody></table>
+
+***
+
+**2️⃣ Item & Gold Drop Chance / Rate upon Death**
+
+This chart shows the **chance and amount** of your **items and gold being dropped**\
+when you die in a PK Leverage Zone.
+
+👉 As your PK Level increases, rewards grow. But **so does the risk**.
+
+<table><thead><tr><th width="96.83306884765625" align="center">PK Lv.</th><th width="194.66656494140625">EXP Reduction Rate (%)</th><th width="194.66680908203125">Item Drop Chance (%)</th><th width="194.7916259765625">Item Drop Rate (%)</th><th width="194.791748046875">Gold Drop Chance (%) </th><th width="194.7916259765625">Gold Drop Rate (%)</th><th>Gold Permanent Loss (%)</th></tr></thead><tbody><tr><td align="center">6</td><td>0.3%</td><td>52%</td><td>40%</td><td>52%</td><td>40%</td><td>25%</td></tr><tr><td align="center">7</td><td>0.4%</td><td>54%</td><td>45%</td><td>54%</td><td>45%</td><td>25%</td></tr><tr><td align="center">8</td><td>0.6%</td><td>56%</td><td>50%</td><td>56%</td><td>50%</td><td>25%</td></tr><tr><td align="center">9</td><td>0.8%</td><td>58%</td><td>55%</td><td>58%</td><td>55%</td><td>25%</td></tr><tr><td align="center">10</td><td>1%</td><td>60%</td><td>60%</td><td>60%</td><td>60%</td><td>25%</td></tr></tbody></table>
 
 ***
 
@@ -189,15 +208,33 @@ PK 레버리지 존에서는 아이템이 드랍되었을 때,\
 
 ***
 
-### ◾ PK 레버리지 타입 안내
+### ◾ PK 레버리지 보너스 차트 안내
 
-PK 레버리지 존은 난이도에 따라 다음과 같이 구분됩니다.
+PK 레버리지 존에서는 **보너스 규칙**이 적용됩니다. \
+PK 레버리지 존에서 사냥을 진행하면, 아래 기준에 따라 **보너스 효과**가 적용됩니다.
 
-* 👉 [**PK 레버리지 타입 1** (쉬움 난이도)](bonus-chart.md#pk-leverage-1)
-* 👉 [**PK 레버리지 타입 2** (중간 난이도)](bonus-chart.md#pk-leverage-2)
-* 👉 [**PK 레버리지 타입 3** (어려움 난이도)](bonus-chart.md#pk-leverage-3)
+***
 
-각 타입별 상세 수치와 보너스는 해당 페이지에서 확인할 수 있습니다.
+#### 📊 PK 레버리지 보너스 차트
+
+**1️⃣ 아이템 / 골드 / EXP 증가량**
+
+PK 레버리지 존에서 사냥 시,\
+PK 레벨에 따라 **아이템, 골드, EXP 획득량이 얼마나 증가하는지**를 보여주는 표입니다.
+
+👉 PK 레벨이 높을수록 더 많은 보상을 획득할 수 있습니다.
+
+<table><thead><tr><th width="103.16668701171875">PK Lv.</th><th width="230.2916259765625">아이템 드랍률 증가 (%)</th><th width="229.916748046875">골드 드랍률 증가 (%)</th><th>EXP 획득량 증가 (%)</th></tr></thead><tbody><tr><td>6</td><td>40</td><td>40</td><td>10</td></tr><tr><td>7</td><td>50</td><td>50</td><td>18</td></tr><tr><td>8</td><td>60</td><td>60</td><td>24</td></tr><tr><td>9</td><td>70</td><td>70</td><td>28</td></tr><tr><td>10</td><td>80</td><td>80</td><td>36</td></tr></tbody></table>
+
+***
+
+**2️⃣ 사망 시 아이템 및 골드 드랍 확률 / 비율**
+
+PK 레버리지 존에서 사망할 경우, **내 아이템과 골드가 드랍될 확률과 비율**을 보여주는 표입니다.
+
+👉 PK 레벨이 높을수록 보상은 커지지만, 동시에 **리스크도 함께 증가**합니다.
+
+<table><thead><tr><th width="96.83306884765625" align="center">PK Lv.</th><th width="194.66656494140625">EXP 감소율 (%)</th><th width="194.66680908203125">아이템 드랍 확률 (%)</th><th width="194.7916259765625">아이템 드랍 비율 (%)</th><th width="194.791748046875">골드 드랍 확률 (%)</th><th width="194.7916259765625">골드 드랍 비율 (%)</th><th>골드 영구 소실 비율 (%)</th></tr></thead><tbody><tr><td align="center">6</td><td>0.3%</td><td>52%</td><td>40%</td><td>52%</td><td>40%</td><td>25%</td></tr><tr><td align="center">7</td><td>0.4%</td><td>54%</td><td>45%</td><td>54%</td><td>45%</td><td>25%</td></tr><tr><td align="center">8</td><td>0.6%</td><td>56%</td><td>50%</td><td>56%</td><td>50%</td><td>25%</td></tr><tr><td align="center">9</td><td>0.8%</td><td>58%</td><td>55%</td><td>58%</td><td>55%</td><td>25%</td></tr><tr><td align="center">10</td><td>1%</td><td>60%</td><td>60%</td><td>60%</td><td>60%</td><td>25%</td></tr></tbody></table>
 
 ***
 
@@ -291,15 +328,34 @@ PKレバレッジゾーンでは、アイテムがドロップされた際、\
 
 ***
 
-### ◾ PKレバレッジタイプ案内
+### ◾ PKレバレッジボーナスチャート案内
 
-PKレバレッジゾーンは、難易度に応じて以下のように分類されます。
+PKレバレッジゾーンでは、**共通のボーナスルール**が適用されます。\
+PKレバレッジゾーンで狩りを行うと、以下の基準に基づいて **ボーナス効果**が適用されます。
 
-👉 [**PKレバレッジタイプ1**（易しい難易度）](bonus-chart.md#pk-leverage-1)\
-👉 [**PKレバレッジタイプ2**（中間難易度）](bonus-chart.md#pk-leverage-2)\
-👉 [**PKレバレッジタイプ3**（高難易度）](bonus-chart.md#pk-leverage-3)
+***
 
-各タイプの詳細な数値やボーナス内容は、それぞれのページで確認できます。
+#### 📊 PKレバレッジボーナスチャート
+
+**1️⃣ アイテム / ゴールド / EXP 増**加量
+
+PKレバレッジゾーンで狩りを行う際、**PKレベル**に応じて\
+アイテム、ゴールド、EXPの獲得量が どれだけ増加するかを示す表です。
+
+👉 PKレベルが高いほど、より多くの報酬を獲得できます。
+
+<table><thead><tr><th width="103.16668701171875">PKレベル</th><th width="230.2916259765625">アイテムドロップ率増加（％）</th><th width="229.916748046875">ゴールドドロップ率増加（％）</th><th>EXP獲得量増加（％）</th></tr></thead><tbody><tr><td>6</td><td>40</td><td>40</td><td>10</td></tr><tr><td>7</td><td>50</td><td>50</td><td>18</td></tr><tr><td>8</td><td>60</td><td>60</td><td>24</td></tr><tr><td>9</td><td>70</td><td>70</td><td>28</td></tr><tr><td>10</td><td>80</td><td>80</td><td>36</td></tr></tbody></table>
+
+***
+
+2️⃣ **死亡時のアイテム・ゴールドドロップ確率 / 比率**
+
+PKレバレッジゾーンで死亡した場合、**自分のアイテムおよびゴールド**が\
+ドロップされる**確率と比率**を示す表です。
+
+👉 PKレベルが高くなるほど、報酬は増えますが、**リスクも同時に高まります。**
+
+<table><thead><tr><th width="96.83306884765625" align="center">PKレベル</th><th width="194.66656494140625">EXP減少率（％）</th><th width="194.66680908203125">アイテムドロップ確率（％）</th><th width="194.7916259765625">アイテムドロップ比率（％）</th><th width="194.791748046875">ゴールドドロップ確率（％）</th><th width="194.7916259765625">ゴールドドロップ比率（％</th><th>ゴールド永久消失率（％）</th></tr></thead><tbody><tr><td align="center">6</td><td>0.3%</td><td>52%</td><td>40%</td><td>52%</td><td>40%</td><td>25%</td></tr><tr><td align="center">7</td><td>0.4%</td><td>54%</td><td>45%</td><td>54%</td><td>45%</td><td>25%</td></tr><tr><td align="center">8</td><td>0.6%</td><td>56%</td><td>50%</td><td>56%</td><td>50%</td><td>25%</td></tr><tr><td align="center">9</td><td>0.8%</td><td>58%</td><td>55%</td><td>58%</td><td>55%</td><td>25%</td></tr><tr><td align="center">10</td><td>1%</td><td>60%</td><td>60%</td><td>60%</td><td>60%</td><td>25%</td></tr></tbody></table>
 
 ***
 
