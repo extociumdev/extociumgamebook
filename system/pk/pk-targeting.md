@@ -21,10 +21,10 @@ Use the features below to quickly focus your attacks on the target you want.
 
 PK Targeting consists of the following functions:
 
-1️⃣ PK On / Off Button\
-2️⃣ Auto Target Settings\
-3️⃣ Target Lock / Next Target\
-4️⃣ Nearby PK Target List
+1️⃣ [PK On / Off Button](pk-targeting.md#id-1-pk-on-off-button)\
+2️⃣ [Auto Target Settings](pk-targeting.md#id-2-auto-target-settings)\
+3️⃣ [Target Lock / Next Target](pk-targeting.md#id-3-target-lock-next-target)\
+4️⃣ [Nearby PK Target List](pk-targeting.md#id-4-nearby-pk-target-list)
 
 ***
 
@@ -321,10 +321,10 @@ EXTOCIUMでは、\
 
 PKターゲティングは、以下の機能で構成されています。
 
-1️⃣ PK On / Off ボタン\
-2️⃣ オートターゲット設定\
-3️⃣ ターゲット固定 / 次のターゲット\
-4️⃣ 近接PKターゲットリスト
+1️⃣ [PK On / Off ボタン](pk-targeting.md#id-1-pk-on-off-botan)\
+2️⃣ [オートターゲット設定](pk-targeting.md#id-2-totgetto)\
+3️⃣ [ターゲット固定 / 次のターゲット](pk-targeting.md#id-3-tgetto-notgetto)\
+4️⃣ [近接PKターゲットリスト](pk-targeting.md#id-4-pktgettorisuto)
 
 ***
 
