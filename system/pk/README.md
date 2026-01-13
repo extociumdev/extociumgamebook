@@ -50,7 +50,7 @@ you can prevent yourself from PKing other players while in Auto mode.
 #### However, this setting **does not prevent other players from PKing you**.
 {% endhint %}
 
-👉 [Learn more about Target Control](target-control.md)\
+👉 [Learn more about Target Control](pk-targeting.md)\
 👉 [View your PK Records](pk-record.md)
 
 ***
@@ -165,7 +165,7 @@ Auto 상태에서 **내가 다른 유저를 PK하는 것을 방지**할 수 있�
 #### 단, 이 설정은 **다른 유저가 나를 PK하는 것을 막지는 않습니다.**
 {% endhint %}
 
-👉 [타겟 설정 기능 자세히 보기](target-control.md)\
+👉 [타겟 설정 기능 자세히 보기](pk-targeting.md)\
 👉 [PK 기록 확인하기](pk-record.md)
 
 ***
@@ -276,7 +276,7 @@ Auto状態で**自分が他のプレイヤーをPKすることを防止**でき�
 #### ただし、この設定では **他のプレイヤーからのPKを防ぐことはできません。**
 {% endhint %}
 
-👉 [ターゲット設定機能の詳細を見る](target-control.md)\
+👉 [ターゲット設定機能の詳細を見る](pk-targeting.md)\
 👉 [PK履歴を確認する](pk-record.md)
 
 ***

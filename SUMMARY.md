@@ -106,7 +106,7 @@
 * [🪄 Zone Attunement](system/zone-attunement/README.md)
   * [Skill Level Cap System](system/zone-attunement/skill-level-cap-system.md)
 * [⚠️ PK](system/pk/README.md)
-  * [🎯 Target Control](system/pk/target-control.md)
+  * [🎯 PK Targeting](system/pk/pk-targeting.md)
   * [📁 PK Leverage Bonus](system/pk/pk-leverage-bonus/README.md)
     * [❤️ Bonus Chart](system/pk/pk-leverage-bonus/bonus-chart.md)
   * [❗ PK Penalty](system/pk/pk-penalty.md)
