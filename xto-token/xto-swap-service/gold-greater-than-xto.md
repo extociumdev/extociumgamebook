@@ -12,7 +12,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 > The total swap amount of XTO tokens can vary depending on the situation and resets based on **UTC 15:00**. Even if there is remaining swap capacity for you, swapping may become unavailable if the server's total capacity is filled.
 >
-> ❓The '[Abundance and Famine](abundance-and-famine.md#eng)' system may operate depending on the total amount of gold -> XTO token swaps within the server.
+> ❓The '[Abundance and Famine](/broken/pages/Qhjg37KTkXbdWtuaHjnM#eng)' system may operate depending on the total amount of gold -> XTO token swaps within the server.
 
 #### ✅ **Conditions for swapping:**
 
@@ -72,7 +72,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 > XTO 토큰 총 스왑량은 상황에 따라 변동 가능하며, **KST 00:00**를 기준으로 리셋됩니다. 나의 스왑 가능량이 남아있더라도, 서버 총량이 채워지면 스왑이 불가능 할 수 있습니다.
 >
-> ❓서버 내에서 골드 -> XTO 토큰으로 스왑되는 총량에 따라 '[풍요와 기근](abundance-and-famine.md#undefined-1)' 시스템이 작동할 수 있습니다.
+> ❓서버 내에서 골드 -> XTO 토큰으로 스왑되는 총량에 따라 '[풍요와 기근](/broken/pages/Qhjg37KTkXbdWtuaHjnM#undefined-1)' 시스템이 작동할 수 있습니다.
 
 #### ✅ 스왑 가능 조건 :
 

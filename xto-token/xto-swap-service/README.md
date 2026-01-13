@@ -46,6 +46,6 @@ description: 🛑 This information may be updated later than the game server dat
 [xto-greater-than-gold.md](xto-greater-than-gold.md)
 {% endcontent-ref %}
 
-{% content-ref url="abundance-and-famine.md" %}
-[abundance-and-famine.md](abundance-and-famine.md)
+{% content-ref url="/broken/pages/Qhjg37KTkXbdWtuaHjnM" %}
+[Broken link](/broken/pages/Qhjg37KTkXbdWtuaHjnM)
 {% endcontent-ref %}

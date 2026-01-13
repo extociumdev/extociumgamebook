@@ -226,7 +226,6 @@
 * [🤝 XTO Swap Service](xto-token/xto-swap-service/README.md)
   * [1️⃣ Gold -> XTO](xto-token/xto-swap-service/gold-greater-than-xto.md)
   * [2️⃣ XTO -> Gold](xto-token/xto-swap-service/xto-greater-than-gold.md)
-  * [☠️ Abundance and Famine](xto-token/xto-swap-service/abundance-and-famine.md)
 * [🎁 XTO Holding Service](xto-token/xto-holding-service/README.md)
   * [🍓 X Points Earning Rate](xto-token/xto-holding-service/x-points-earning-rate.md)
 * [🏦 Gold Safe Service](xto-token/gold-safe-service.md)
