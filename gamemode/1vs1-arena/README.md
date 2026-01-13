@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 cover: ../../.gitbook/assets/LevelupArena.png
 coverY: 118
 ---
@@ -10,96 +10,129 @@ coverY: 118
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🏆 **1vs1 Arena: The Ultimate PvP Showdown!**
+### 🏆 1vs1 Arena
 
-The **1vs1 Arena** is one of the most important **PvP** contents in **EXTOCIUM**!\
-Here, there are **no random factors, no extra buffs**—just pure **skill and strategy**.\
-Compete in weekly rankings and earn **exclusive rewards**!
+The 1vs1 Arena is **EXTOCIUM’s core PvP content**.\
+Face off against another adventurer in a **true one-on-one battle**,\
+where victory is decided by **skill and strategy alone**.
 
-🔥 **How It Works**
+No luck-based elements.\
+No additional buffs.\
+Every match is fought under **equal conditions**.
 
-* **Weekly Ranking System**: A fresh competition every week!
-
-{% hint style="info" %}
-⚡ **Energy Consumption: ❌ (Not Required)**
-{% endhint %}
+Test your combat skills and challenge yourself to become a true champion.
 
 ***
 
-#### ✅ How to Enter the Arena
+### ◾ Arena Format
 
-1️⃣ Click the **Arena Seal** icon on the **left side of the minimap**.
+* **Weekly Ranking System**\
+  A new ranking competition begins every week.
+* **No Energy Cost**\
+  Enter the arena freely without consuming energy.
 
-<figure><img src="../../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
+***
 
-2️⃣ Click **"Enter Waiting Room"** at the **top left**.
+### ◾ How to Enter the Arena
 
-<figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+Follow the steps below to enter the 1vs1 Arena.
 
-👑 **Are you ready to prove your strength?**\
-💥 Enter the arena now and become a legend!
+1️⃣ Tap the **Arena Emblem icon** on the left side of the minimap.
+
+<figure><img src="../../.gitbook/assets/ar1.png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ Tap **“Enter Waiting Room”** at the top-left of the screen.
+
+<figure><img src="../../.gitbook/assets/ar2.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **Victory is earned through skill, not numbers.**\
+> **Step into the 1vs1 Arena and prove your strength.**
 {% endtab %}
 
 {% tab title="한국어" %}
-### 🏆 **1vs1 아레나: EXTOCIUM 최강자를 가리는 전장!**
+### 🏆 1vs1 아레나
 
-EXTOCIUM의 핵심 **PvP 콘텐츠**인 1vs1 아레나!\
-이곳에서는 **운❌, 버프❌** 오직 **실력과 전략**으로만 승부가 결정됩니다.\
-진정한 강자를 증명하고, **주간 랭킹 보상**도 놓치지 마세요!
+1vs1 아레나는 EXTOCIUM의 대표적인 **PvP 콘텐츠**입니다.\
+다른 모험가와 **1대1로 직접 대결**하며, 오직 **실력과 전략**으로 승부가 결정됩니다.
 
-🔥 **운영 방식**
-
-* **주 단위 랭킹제**: 매주 새로운 경쟁이 시작!
-
-{% hint style="info" %}
-⚡ **에너지 소모: ❌ (소모 없음)**
-{% endhint %}
+운에 의한 요소나 추가 버프는 적용되지 않으며, 모든 전투는 **동일한 조건**에서 진행됩니다.\
+자신의 전투 실력을 시험하고, 진정한 강자에 도전해 보세요.
 
 ***
 
-#### ✅ **아레나 입장 방법**
+### ◾ 아레나 운영 방식
 
-1️⃣ 미니맵 좌측의 ‘**아레나 인장**’ 아이콘 클릭
+* **주 단위 랭킹제**\
+  매주 새로운 랭킹 경쟁이 진행됩니다.
+* **에너지 소모 없음**\
+  부담 없이 참여할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
+***
 
-2️⃣ 좌측 상단의 ‘**아레나 대기실 입장**’ 클릭
+### ◾ 아레나 입장 방법
 
-<figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+아래 순서에 따라 1vs1 아레나에 입장할 수 있습니다.
 
-👑 **최강자에 도전할 준비됐나요?**\
-💥 지금 바로 아레나에서 전설이 되어보세요!
+1️⃣ 미니맵 좌측에 있는 **‘아레나 인장’ 아이콘**을 터치합니다.
+
+<figure><img src="../../.gitbook/assets/ar1.png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ 좌측 상단의 **‘아레나 대기실 입장’** 버튼을 터치합니다.
+
+<figure><img src="../../.gitbook/assets/ar2.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **승부는 숫자가 아닌 실력으로 결정됩니다.**\
+> **지금, 1vs1 아레나에서 당신의 강함을 증명해 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-### 🏆 **1vs1アリーナ：最強を決める戦場！**
+### 🏆 1vs1アリーナ
 
-**EXTOCIUM**で最も重要な **PvPコンテンツ**、それが **1vs1アリーナ**！\
-ここでは **運❌、バフ❌**、**実力と戦略**のみが勝敗を決めます。\
-毎週のランキングで競い、**特別な報酬**をゲットしましょう！
+1vs1アリーナは、**EXTOCIUM**を代表する**PvPコンテンツ**です。\
+ほかの冒険者と **1対1で直接対決**し、勝敗は **実力と戦略のみ** で決まります。
 
-🔥 **アリーナの仕組み**
+運に左右される要素や、追加バフは一切適用されません。\
+すべてのバトルは **同じ条件** で行われます。
 
-* **週間ランキング制**：毎週新たな戦いが始まる！
-
-{% hint style="info" %}
-⚡ **エネルギー消費: ❌ (消費なし)**
-{% endhint %}
+自分の戦闘スキルを試し、真の強者に挑戦しましょう。
 
 ***
 
-#### ✅ アリーナへの参加方法
+### ◾ アリーナ運営方式
 
-1️⃣ ミニマップ左側の「**アリーナ印章**」アイコンをクリック
+* **週単位ランキング制**\
+  毎週、新たなランキング競争が始まります。
+* **エネルギー消費なし**\
+  いつでも気軽に参加できます。
 
-<figure><img src="../../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
+***
 
-2️⃣ 左上の「**アリーナ待機室に入場**」をクリック
+### ◾ アリーナ入場方法
 
-<figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+以下の手順で、1vs1アリーナに入場できます。
 
-👑 **あなたの実力を証明する準備はできましたか？**\
-💥 さあ、アリーナで伝説になりましょう！
+1️⃣ ミニマップ左側にあ&#x308B;**「アリーナの印章」アイコン** をタッチします。
+
+<figure><img src="../../.gitbook/assets/ar1.png" alt="" width="563"><figcaption></figcaption></figure>
+
+2️⃣ 左上の **「アリーナ待機室へ入場」** ボタンをタッチします。
+
+<figure><img src="../../.gitbook/assets/ar2.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **勝負は数字ではなく、実力で決まる。**\
+> **今こそ、1vs1アリーナで あなたの強さを証明しましょう。**
 {% endtab %}
 {% endtabs %}
 
@@ -118,3 +151,5 @@ EXTOCIUM의 핵심 **PvP 콘텐츠**인 1vs1 아레나!\
 {% content-ref url="arena-roulette.md" %}
 [arena-roulette.md](arena-roulette.md)
 {% endcontent-ref %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 13, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
