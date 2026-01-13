@@ -1,3 +1,7 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # 🏹 Battle
 
 {% tabs %}
@@ -13,7 +17,7 @@ and the battlefield will feel a lot more manageable.
 
 ***
 
-### 🎮 Core Combat Controls
+### ◾ Core Combat Controls
 
 The key combat elements are:
 
@@ -72,7 +76,7 @@ Each skill follows **three cooldown-related elements**.
 
 ***
 
-#### 🔫 Cooldown Components
+#### ◾ Cooldown Components
 
 **1️⃣ Reload Time**\
 The time required to reload ammo after using a skill.\
@@ -89,11 +93,9 @@ This cooldown **cannot be reduced**, even with CHA investment.
 
 ***
 
-### 👀 Skill Slot UI Indicators
+### ◾ Skill Slot UI Indicators
 
 All cooldown-related information is shown directly on the skill slot UI.
-
-***
 
 **🔴 Number Above Skill Icon (Magazine Count)**
 
@@ -130,7 +132,7 @@ All cooldown-related information is shown directly on the skill slot UI.
 
 ***
 
-#### 🎨 Skill Icon Border Color (Skill Type)
+#### ◾ Skill Icon Border Color (Skill Type)
 
 <figure><img src="../../.gitbook/assets/dsgfsef.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -160,6 +162,8 @@ Auto Combat allows your character to move and fight automatically.
 
 * Auto Combat is unlocked using [**TP**](training.md).
 * Once unlocked, it can be used at any time.
+
+<figure><img src="../../.gitbook/assets/IMG_7422 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -232,15 +236,14 @@ Please refer to the table below for details.
 
 ***
 
-### 🎯 Combat Key Takeaways
+### ◾ Combat Key Takeaways
 
 * Never stop moving.
 * Understand the cooldown structure.
 * Use Auto Combat wisely, depending on the situation.
 
 Once you grasp the core combat systems,\
-the battlefield of **EXTOCIUM**\
-will no longer feel overwhelming.
+the battlefield of **EXTOCIUM** will no longer feel overwhelming.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -254,7 +257,7 @@ EXTOCIUM의 전투는\
 
 ***
 
-### 🎮 기본 조작 구성
+### ◾ 기본 조작 구성
 
 전투의 핵심 조작 요소는 다음과 같습니다.
 
@@ -312,7 +315,7 @@ EXTOCIUM의 전투는\
 
 ***
 
-#### 🔫 쿨타임 구성 요소
+#### ◾ 쿨타임 구성 요소
 
 **1️⃣ 재장전 시간 (Reload Time)**\
 스킬 사용 후 탄환이 다시 충전되기까지 필요한 시간입니다.\
@@ -330,19 +333,16 @@ CHA 스탯 투자로는 감소되지 않습니다.
 
 ***
 
-### 👀 스킬 슬롯 UI 표시 안내
+### ◾ 스킬 슬롯 UI 표시 안내
 
 위의 쿨타임 요소들은\
 모두 **스킬 슬롯 UI**를 통해 확인할 수 있습니다.
-
-***
 
 **🔴 스킬 아이콘 상단 숫자 (탄창 바)**
 
 <figure><img src="../../.gitbook/assets/쿨타임3_광역.png" alt=""><figcaption></figcaption></figure>
 
-스킬 아이콘 위에 표시된 **빨간색 숫자**는\
-해당 스킬의 **탄창 수(현재 장전된 탄환 개수)**&#xB97C; 의미합니다.
+스킬 아이콘 위에 표시된 **빨간색 숫자**는 해당 스킬의 **탄창 수(현재 장전된 탄환 개수)**&#xB97C; 의미합니다.
 
 * 숫자는 해당 스킬이 **최대 몇 회까지 사용 가능한지**를 나타냅니다.
 * 스킬을 사용할 때마다 숫자가 **1씩 감소**합니다.
@@ -368,8 +368,7 @@ CHA 스탯 투자로는 감소되지 않습니다.
 
 <figure><img src="../../.gitbook/assets/쿨타임1_버프.png" alt=""><figcaption></figcaption></figure>
 
-스킬 아이콘 바깥을 감싸는 **큰 원형 검은색 회전 마스크**는\
-해당 스킬의 **월드 쿨다운 상태**를 나타냅니다.
+스킬 아이콘 바깥을 감싸는 **큰 원형 검은색 회전 마스크**는 해당 스킬의 **월드 쿨다운 상태**를 나타냅니다.
 
 * 스킬 사용 시 외곽 원이 **검은색으로 회전**합니다.
 * 회전이 **완전히 종료되어야 스킬 사용이 가능**합니다.
@@ -378,12 +377,11 @@ CHA 스탯 투자로는 감소되지 않습니다.
 
 ***
 
-#### 🎨 스킬 아이콘 외곽 색상 (스킬 유형)
+#### ◾ 스킬 아이콘 외곽 색상 (스킬 유형)
 
 <figure><img src="../../.gitbook/assets/dsgfsef.png" alt="" width="375"><figcaption></figcaption></figure>
 
-스킬 아이콘 바깥 원형 테두리의 **색상**은\
-해당 스킬의 **유형**을 나타냅니다.
+스킬 아이콘 바깥 원형 테두리의 **색상**은 해당 스킬의 **유형**을 나타냅니다.
 
 * **빨간색** : 광역 공격 스킬
 * **보라색** : 소환 스킬
@@ -409,6 +407,8 @@ CHA 스탯 투자로는 감소되지 않습니다.
 
 자동 전투 기능은 [**TP**](../../economy/trade/#undefined-1)**를 사용하여 해금**할 수 있습니다.\
 해금 이후에는 언제든지 자동 전투를 사용할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/IMG_7422.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -479,15 +479,13 @@ HP 포션을 20%로 설정할 경우 체력이 20% 이하가 되면 자동으로
 
 ***
 
-### 🎯 전투 핵심 요약
+### ◾ 전투 핵심 요약
 
 * 이동을 멈추지 마십시오.
 * 쿨타임 구조를 이해하십시오.
 * 자동 전투는 상황에 맞게 사용하십시오.
 
-기본 전투 시스템을 숙지하면\
-EXTOCIUM의 전장은\
-더 이상 위협적인 공간이 아닙니다.
+기본 전투 시스템을 숙지하면 EXTOCIUM의 전장은 더 이상 위협적인 공간이 아닙니다.
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -502,7 +500,7 @@ EXTOCIUM의 전장은\
 
 ***
 
-### 🎮 基本操作構成
+### ◾ 基本操作構成
 
 戦闘の主な操作要素は以下の通りです。
 
@@ -560,7 +558,7 @@ EXTOCIUM의 전장은\
 
 ***
 
-#### 🔫 クールタイム構成
+#### ◾ クールタイム構成
 
 **1️⃣ リロード時間（Reload Time）**\
 スキル使用後、弾薬が再装填されるまでの時間です。\
@@ -577,12 +575,9 @@ CHAへの投資では短縮されません。
 
 ***
 
-### 👀 スキルスロットUI表示
+### ◾ スキルスロットUI表示
 
-クールタイムに関する情報は、\
-すべてスキルスロットUIで確認できます。
-
-***
+クールタイムに関する情報は、すべてスキルスロットUIで確認できます。
 
 **🔴 スキルアイコン上部の数字（弾数**）
 
@@ -617,7 +612,7 @@ CHAへの投資では短縮されません。
 
 ***
 
-#### 🎨 スキルアイコン外枠の色（スキルタイプ）
+#### ◾ スキルアイコン外枠の色（スキルタイプ）
 
 <figure><img src="../../.gitbook/assets/dsgfsef.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -645,6 +640,8 @@ CHAへの投資では短縮されません。
 
 * [**TP**](training.md)を使用して解放できます。
 * 解放後はいつでも利用可能です。
+
+<figure><img src="../../.gitbook/assets/IMG_7422 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -717,15 +714,13 @@ HPが20％以下になった際に自動で使用されます。
 
 ***
 
-#### 🎯 バトル要点まとめ
+#### ◾ バトル要点まとめ
 
 * 移動を止めないこと
 * クールタイム構造を理解すること
 * 自動戦闘は状況に応じて使うこと
 
-基本的な戦闘システムを把握すれば、\
-**EXTOCIUM**の戦場は\
-もはや恐れる場所ではありません。
+基本的な戦闘システムを把握すれば、**EXTOCIUM**の戦場は もはや恐れる場所ではありません。
 {% endtab %}
 {% endtabs %}
 

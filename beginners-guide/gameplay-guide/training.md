@@ -1,3 +1,7 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # 🏋️ Training
 
 <figure><img src="../../.gitbook/assets/Icon_TP.png" alt=""><figcaption></figcaption></figure>
@@ -12,7 +16,7 @@ To craft more items and access new content, training is essential.
 
 ***
 
-### ✨ What Is Training?
+### ◾ What Is Training?
 
 Through Training, you can unlock the following:
 
@@ -24,7 +28,7 @@ Training requires **TP (Training Points)**.
 
 ***
 
-### 🔵 What Is TP (Training Point)?
+### ◾ What Is TP (Training Point)?
 
 TP is the point currency used to learn skills.
 
@@ -57,7 +61,7 @@ You can access Training by following these steps:
 
 ***
 
-### 📘 Learning Skills
+### ◾ Learning Skills
 
 Tap any learning category to view:
 
@@ -100,7 +104,7 @@ The **“Return TP”** shown during reset represents the\
 
 ***
 
-### 🎯 Training Key Summary
+### ◾ Training Key Summary
 
 * Training is the foundation of **crafting and gathering**
 * TP is obtained by **hunting monsters**
@@ -118,7 +122,7 @@ The **“Return TP”** shown during reset represents the\
 
 ***
 
-### ✨ 기술 연마란?
+### ◾ 기술 연마란?
 
 기술 연마를 통해 다음과 같은 능력을 획득할 수 있습니다.
 
@@ -130,7 +134,7 @@ The **“Return TP”** shown during reset represents the\
 
 ***
 
-### 🔵 TP (Training Point)란?
+### ◾ TP (Training Point)란?
 
 TP는 기술을 배우는 데 사용하는 포인트입니다.
 
@@ -163,7 +167,7 @@ TP는 기술을 배우는 데 사용하는 포인트입니다.
 
 ***
 
-### 📘 기술 배우기
+### ◾ 기술 배우기
 
 각 학습 항목을 터치하면 다음 정보를 확인할 수 있습니다.
 
@@ -206,7 +210,7 @@ TP 초기화를 위해서는\
 
 ***
 
-### 🎯 기술 연마 핵심 요약
+### ◾ 기술 연마 핵심 요약
 
 * 기술 연마는 제작과 채집의 기본입니다.
 * TP는 몬스터 사냥으로 획득합니다.
@@ -225,7 +229,7 @@ TP 초기화를 위해서는\
 
 ***
 
-### ✨ 技術研磨とは？
+### ◾ 技術研磨とは？
 
 技術研磨を通じて、以下の能力を獲得できます。
 
@@ -237,7 +241,7 @@ TP 초기화를 위해서는\
 
 ***
 
-### 🔵 TP（Training Point）とは？
+### ◾ TP（Training Point）とは？
 
 TPは、技術を習得するために使用するポイントです。
 
@@ -270,7 +274,7 @@ TPは、技術を習得するために使用するポイントです。
 
 ***
 
-### 📘 技術を学ぶ
+### ◾ 技術を学ぶ
 
 各学習項目をタップすると、以下の情報を確認できます。
 
@@ -314,7 +318,7 @@ TPを初期化するには、\
 
 ***
 
-### 🎯 技術研磨の重要ポイント
+### ◾ 技術研磨の重要ポイント
 
 * 技術研磨は**制作・採集の基礎**です
 * TPは**モンスター討伐**で獲得できます

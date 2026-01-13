@@ -1,3 +1,7 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # 🍎 Collecting
 
 {% tabs %}
@@ -12,7 +16,7 @@ that must be **learned first**.
 
 ***
 
-### 🧠 Before You Start
+### ◾ Before You Start
 
 To begin collecting,\
 you must first learn collecting skills through [**Training**](training.md#training-guide).
@@ -24,7 +28,7 @@ Look for the **blue coins** dropped on the ground after defeating them.
 
 ***
 
-### 📘 How to Learn Collecting Skills
+### ◾ How to Learn Collecting Skills
 
 You can learn collecting skills by following these steps:
 
@@ -49,7 +53,7 @@ Spend TP on a skill to unlock the corresponding collecting ability.
 
 ***
 
-### 🌾 How to Collect
+### ◾ How to Collect
 
 After learning a collecting skill, move to the field.\
 When you approach a collectible object, the **Collect button** will appear on the screen.
@@ -61,7 +65,7 @@ Once completed, you will obtain material items.
 
 ***
 
-### ⚙️ Auto Collecting
+### ◾ Auto Collecting
 
 If you need to collect the same material repeatedly,\
 you can use the **Auto Collecting** feature.
@@ -78,7 +82,7 @@ please refer to the related UI guide.
 
 ***
 
-### 🌱 Collecting – Key Points
+### ◾ Collecting – Key Points
 
 * Collecting is available after Training.
 * Collecting skills are learned in **Training > Biology**.
@@ -97,7 +101,7 @@ EXTOCIUM에서 채집은 **배워야 할 수 있는 행동**입니다.
 
 ***
 
-### 🧠 먼저 알아두세요
+### ◾ 먼저 알아두세요
 
 채집을 하려면 [**기술 연마(Training)**](training.md#undefined-2)를 통해\
 채집 기술을 먼저 배워야 합니다.
@@ -109,7 +113,7 @@ TP는 몬스터를 사냥하다 보면\
 
 ***
 
-### 📘 채집 기술 배우는 방법
+### ◾ 채집 기술 배우는 방법
 
 채집 기술은 다음 순서로 배울 수 있습니다.
 
@@ -134,7 +138,7 @@ TP는 몬스터를 사냥하다 보면\
 
 ***
 
-### 🌾 채집은 이렇게 합니다
+### ◾ 채집은 이렇게 합니다
 
 채집 기술을 배운 뒤 필드로 이동해 보세요.\
 채집물 근처로 다가가면 화면에 **채집 버튼**이 나타납니다.
@@ -146,7 +150,7 @@ TP는 몬스터를 사냥하다 보면\
 
 ***
 
-### ⚙️ 자동 채집
+### ◾ 자동 채집
 
 같은 재료를 여러 번 채집해야 할 때는\
 **자동 채집 기능**을 사용할 수 있습니다.
@@ -163,7 +167,7 @@ TP는 몬스터를 사냥하다 보면\
 
 ***
 
-### 🌱 채집, 이것만 기억하세요
+### ◾ 채집, 이것만 기억하세요
 
 * 채집은 기술 연마 후 가능합니다.
 * 채집 기술은 **Training > Biology**에서 배웁니다.
@@ -183,7 +187,7 @@ TP는 몬스터를 사냥하다 보면\
 
 ***
 
-### 🧠 まず知っておきましょう
+### ◾ まず知っておきましょう
 
 採集を行うには、\
 [**技術研磨（Training）**](training.md#gaido)で\
@@ -197,7 +201,7 @@ TPはモンスターを倒すと、\
 
 ***
 
-### 📘 採集スキルの習得方法
+### ◾ 採集スキルの習得方法
 
 採集スキルは、以下の手順で習得できます。
 
@@ -222,7 +226,7 @@ TPを使用すると、対応する採集が可能になります。
 
 ***
 
-### 🌾 採集のやり方
+### ◾ 採集のやり方
 
 採集スキルを習得したら、フィールドへ移動してください。\
 採集物の近くに行くと、画面に**採集ボタン**が表示されます。
@@ -234,7 +238,7 @@ TPを使用すると、対応する採集が可能になります。
 
 ***
 
-### ⚙️ 自動採集
+### ◾ 自動採集
 
 同じ素材を何度も採集する場合は、\
 **自動採集機能**を利用できます。
@@ -251,7 +255,7 @@ TPを使用すると、対応する採集が可能になります。
 
 ***
 
-### 🌱 採集のポイントまとめ
+### ◾ 採集のポイントまとめ
 
 * 採集は技術研磨後に可能になります。
 * 採集スキルは **Training > Biology** で習得します。

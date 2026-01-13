@@ -1,4 +1,10 @@
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
 # ⚒️ Crafting
+
+
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -12,7 +18,7 @@ craft items, and steadily power up your character step by step.
 
 ***
 
-### 📱 How to Access the Crafting Menu
+### ◾ How to Access the Crafting Menu
 
 Follow these steps to start crafting:
 
@@ -28,7 +34,7 @@ Once you enter the crafting screen, you’ll see a list of items you can craft.
 
 ***
 
-### 📂 Crafting Categories
+### ◾ Crafting Categories
 
 The crafting screen includes **two main categories**:
 
@@ -54,7 +60,7 @@ You can craft:
 
 ***
 
-### 🔍 Checking Craft Availability
+### ◾ Checking Craft Availability
 
 Craftable items display the **number of times they can currently be crafted**.
 
@@ -72,11 +78,9 @@ Tap the **Craft** button at the bottom to complete the item.
 
 ***
 
-### ❌ When Crafting Is Not Available
+### ◾ When Crafting Is Not Available
 
 There are **two main reasons** why crafting may not be possible:
-
-***
 
 #### 1️⃣ Insufficient Crafting Skills
 
@@ -108,7 +112,7 @@ Once you acquire the recipe, the item can be crafted.
 
 ***
 
-### 🎯 Crafting Key Summary
+### ◾ Crafting Key Summary
 
 * Crafting is a **core progression system**
 * Access it via **Dashboard > Craft**
@@ -130,7 +134,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 📱 제작 메뉴로 이동하기
+### ◾ 제작 메뉴로 이동하기
 
 아이템 제작은 다음 순서로 진행할 수 있습니다.
 
@@ -146,7 +150,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 📂 제작 카테고리 안내
+### ◾ 제작 카테고리 안내
 
 제작 화면에는 다음 **2가지 카테고리**가 존재합니다.
 
@@ -172,7 +176,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 🔍 제작 가능 여부 확인
+### ◾ 제작 가능 여부 확인
 
 제작이 가능한 아이템은 **현재 제작 가능한 개수**가 함께 표시됩니다.
 
@@ -190,11 +194,9 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### ❌ 제작이 불가능한 경우
+### ◾ 제작이 불가능한 경우
 
 아이템 제작이 불가능한 경우는 다음 **두 가지**가 있습니다.
-
-***
 
 #### 1️⃣ 제작 기술이 부족한 경우
 
@@ -225,7 +227,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 🎯 제작 핵심 요약
+### ◾ 제작 핵심 요약
 
 * 제작은 성장의 핵심 시스템입니다.
 * 제작 메뉴는 **대시보드 > 제작**에서 이용합니다.
@@ -246,7 +248,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 📱 制作メニューへの移動方法
+### ◾ 制作メニューへの移動方法
 
 アイテム制作は、以下の手順で行えます。
 
@@ -262,7 +264,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 📂 制作カテゴリー案内
+### ◾ 制作カテゴリー案内
 
 制作画面には、**2つのカテゴリー**があります。
 
@@ -288,7 +290,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 🔍 制作可能かどうかの確認
+### ◾ 制作可能かどうかの確認
 
 制作可能なアイテムには、\
 **現在制作できる回数**があわせて表示されます。
@@ -307,11 +309,9 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### ❌ 制作できない場合
+### ◾ 制作できない場合
 
 アイテムを制作できない場合は、主に以下の**2つの原因**が考えられます。
-
-***
 
 #### 1️⃣ 制作技術が不足している場合
 
@@ -344,7 +344,7 @@ EXTOCIUM의 세계에서는 **아이템을 직접 제작하며 성장**합니다
 
 ***
 
-### 🎯 制作の重要ポイント
+### ◾ 制作の重要ポイント
 
 * 制作は**成長の中核となるシステム**です
 * 制作メニューは **ダッシュボード ＞ 制作** から利用できます
