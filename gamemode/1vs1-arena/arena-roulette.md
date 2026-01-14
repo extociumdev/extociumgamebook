@@ -1,67 +1,58 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📁 Arena-Roulette
 
-### <mark style="color:purple;">**📜Header List**</mark>
-
-* ✅[NPC Hermaion](arena-roulette.md#trophy)
-* ✅[Roulette pool](arena-roulette.md#trophy-1)
-
-## ✅NPC Hermaion <a href="#trophy" id="trophy"></a>
-
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
-
 {% tabs %}
 {% tab title="ENG" %}
-#### 🏆**Arena Rewards & ‘Arena Coin’ Usage**
+### 📜 Arena Roulette Guide
 
-Wondering what to do with the **‘Arena Coins’** you earn from rewards?\
-Use them at [**NPC Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)!
+Wondering where to use the **Arena Coins** you earn from victories?\
+**Arena Roulette** is a content feature where you can spend\
+Arena Coins and Gold to receive **random rewards**.
 
-✅ **Hermaion’s Shop Features**
+***
 
-* Exchange **Arena Coins + a small amount of gold** for **random rewards** 🎁
-* Some **crafting materials are exclusively available from Hermaion** ⚒️
-* **Item pool expands with updates**, so keep an eye out for new rewards! 🚀
+### ◾ What Is Arena Roulette?
 
+Arena Roulette is a system that allows you to use **Arena Coins obtained from Arena battles**\
+to randomly acquire a variety of items.
 
-{% endtab %}
+Some **crafting materials and special items** can only be obtained through Arena Roulette.
 
-{% tab title="한국어" %}
-#### 🏆 **아레나 보상 & ‘아레나 코인’ 사용처**
+***
 
-아레나 보상으로 획득한 **‘아레나 코인’**, 어디에 쓰냐고요?\
-바로 [**NPC 헤르마이온**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)에게 사용하세요!
+### ◾ How to Use Arena Roulette
 
-✅ **헤르마이온의 역할**
+Arena Roulette can be accessed through the [NPC **Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion).
 
-* **아레나 코인 + 소정의 골드**를 지불하면 **랜덤 보상 지급** 🎁
-* 일부 **제작 재료는 오직 헤르마이온을 통해서만 획득 가능** ⚒️
-* **아이템 풀은 업데이트마다 확장**되므로, 새로운 보상이 추가될 수도! 🚀
-{% endtab %}
+1️⃣ Prepare **Arena Coins** and a small amount of **Gold**.
 
-{% tab title="日本語" %}
-#### 🏆**アリーナ報酬＆「アリーナコイン」の使い道**
+2️⃣ Talk to **NPC Hermaion**.
 
-アリーナ報酬で手に入る **「アリーナコイン」**、どう使うか気になりますよね？\
-それは [**NPC「ヘルマイオン」**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion) で利用できます！
+<figure><img src="../../.gitbook/assets/ar6.png" alt=""><figcaption></figcaption></figure>
 
-✅ **ヘルマイオンのショップ機能**
+3️⃣ Start the Arena Roulette to instantly receive a **random reward**.
 
-* **アリーナコイン＋少量のゴールド**で**ランダム報酬を獲得** 🎁
-* 一部の**製作素材はヘルマイオン限定**で入手可能 ⚒️
-* **アップデートごとにアイテムプールが拡張**されるので、新しい報酬が追加されるかも！？ 🚀
-{% endtab %}
-{% endtabs %}
+<figure><img src="../../.gitbook/assets/ar7 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+***
 
-## ✅Roulette pool <a href="#trophy" id="trophy"></a>
+### ◾ NPC Hermaion
 
-{% tabs %}
-{% tab title="ENG" %}
+Hermaion is the NPC in charge of **Arena Roulette**.
+
+* Provides roulette rewards in exchange for Arena Coins.
+* Certain crafting materials are **exclusive to Hermaion**.
+* The roulette reward pool may **expand with future updates**.
+
+***
+
+### ◾ Roulette Reward Pool
+
+For a full list of items that can be obtained from Arena Roulette, please refer to the table below.
+
 | **Item**                      | **amount** | **prob** |
 | ----------------------------- | ---------- | -------- |
 | Ancient arena seal            | 1          | 6.000%   |
@@ -118,6 +109,52 @@ Use them at [**NPC Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#h
 {% endtab %}
 
 {% tab title="한국어" %}
+### 📜 아레나 룰렛 가이드
+
+아레나에서 승리하며 획득한 **아레나 코인**, 어디에 사용하면 좋을까요?\
+**아레나 룰렛**은 아레나 코인과 골드를 사용해 **랜덤 보상**을 획득할 수 있는 콘텐츠입니다.
+
+***
+
+### ◾ 아레나 룰렛이란?
+
+아레나 룰렛은 아레나 보상으로 얻은 **아레나 코인**을 사용해\
+다양한 아이템을 **랜덤으로 획득**할 수 있는 시스템입니다.
+
+일부 **제작 재료와 특수 아이템**은 아레나 룰렛을 통해서만 획득할 수 있습니다.
+
+***
+
+### ◾ 아레나 룰렛 이용 방법
+
+아레나 룰렛은 [NPC **헤르마이온(Hermaion)**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion) 을 통해 이용할 수 있습니다.
+
+1️⃣ 아레나 코인과 **소정의 골드**를 준비합니다.
+
+2️⃣ NPC 헤르마이온과 대화합니다.
+
+<figure><img src="../../.gitbook/assets/ar6.png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ 아레나 룰렛을 시작하면, 랜덤 보상이 즉시 지급됩니다.
+
+<figure><img src="../../.gitbook/assets/ar7 (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ NPC 헤르마이온 소개
+
+헤르마이온은 **아레나 룰렛을 담당하는 NPC**입니다.
+
+* 아레나 코인을 사용해 룰렛 보상을 제공합니다.
+* 일부 제작 재료는 **헤르마이온을 통해서만 획득**할 수 있습니다.
+* 룰렛의 보상 풀은 **업데이트에 따라 확장**될 수 있습니다.
+
+***
+
+### ◾ 룰렛 보상 풀
+
+아레나 룰렛에서 획득할 수 있는 보상 아이템 목록은 아래 표를 참고해 주세요.
+
 | **아이템**      | **수량** | **확률** |
 | ------------ | ------ | ------ |
 | 고대 아레나 인장    | 1      | 6.000% |
@@ -174,6 +211,55 @@ Use them at [**NPC Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#h
 {% endtab %}
 
 {% tab title="日本語" %}
+### 📜 アリーナルーレットガイド
+
+アリーナで勝利して獲得した **アリーナコイン**、どこで使えばいいか迷っていませんか？
+
+**アリーナルーレット**は、\
+アリーナコインとゴールドを使用して **ランダム報酬** を獲得できるコンテンツです。
+
+***
+
+### ◾ アリーナルーレットとは？
+
+アリーナルーレットは、\
+アリーナ報酬として獲得した **アリーナコイン** を使用し、\
+さまざまなアイテムを **ランダム** に獲得できるシステムです。
+
+一部の **制作素材** や **特殊アイテム** は、アリーナルーレットでのみ入手できます。
+
+***
+
+### ◾ アリーナルーレットの利用方法
+
+アリーナルーレットは [NPC **ヘルマイオン**](../../field-info/rotten-hill/npc-rotten-hill.md#hermaion-herumeion)**（Hermaion）** を通じて利用できます。
+
+1️⃣ **アリーナコイン** と **少量のゴールド** を準備します。
+
+2️⃣ NPC **ヘルマイオン** と会話します。
+
+<figure><img src="../../.gitbook/assets/ar6.png" alt=""><figcaption></figcaption></figure>
+
+3️⃣ アリーナルーレットを開始すると、**ランダム報酬が即座に獲得** されます。
+
+<figure><img src="../../.gitbook/assets/ar7 (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ NPC ヘルマイオン紹介
+
+ヘルマイオンは、**アリーナルーレットを担当するNPC** です。
+
+* アリーナコインを使用して ルーレット報酬を提供します。
+* 一部の制作素材は **ヘルマイオンからのみ入手可能** です。
+* ルーレットの報酬プールは、**アップデートにより拡張** される場合があります。
+
+***
+
+### ◾ ルーレット報酬プール
+
+アリーナルーレットで獲得できる 報酬アイテムの一覧は、以下の表をご確認ください。
+
 | アイテム        | 数量 | 確率     |
 | ----------- | -- | ------ |
 | 古代アリーナの印章   | 1  | 6.000% |
@@ -229,3 +315,5 @@ Use them at [**NPC Hermaion**](../../field-info/rotten-hill/npc-rotten-hill.md#h
 | 魔法宝石装飾レシピ   | 1  | 1.500% |
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 14, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
