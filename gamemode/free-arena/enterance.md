@@ -1,160 +1,203 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📁 Enterance
 
 {% tabs %}
 {% tab title="ENG" %}
-#### 💡**Free Arena Guide**
+### 📜 Free Arena Entry Guide
 
-The **Free Arena** is available **anytime**—train and spar with friends!
-
-***
-
-#### ✅ **How to Enter Free Arena**
-
-1️⃣ **Tap the Arena button** on the **top-right of the main HUD**
-
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
-
-2️⃣ In the menu, tap **"Enter Free Arena"** (left side)
-
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-3️⃣ **Create a room** (left) or **Join an existing one** (right list)
-
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-4️⃣ If the room requires a password, **enter it using the keyboard**
-
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-
+Free Arena is a **practice-focused PvP mode** that you can enter at any time.\
+Create your own room or join an existing one to enjoy friendly battles with friends.
 
 ***
 
-#### ⚙️ **Host Features & Room Management**
+### ◾ How to Enter Free Arena
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+Follow the steps below to enter Free Arena.
 
-* **Gear icon** → Open **Room Management Menu & Set Prize Money**
-* **Start Game button** → Begin a friendly match!
+1️⃣ Tap the **Arena button** at the **top-right of the main HUD**.
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1.png" alt=""><figcaption></figcaption></figure>
 
-❓ When you approach a player in the room, an X-shaped menu will appear. \
-Press this button to kick the player.
+2️⃣ From the menu screen, tap **“Enter Free Arena”** on the **right side**.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fa1.png" alt=""><figcaption></figcaption></figure>
 
-👉 **Touch the gear-shaped button and then press the game start button to begin a friendly match!**
+3️⃣ On the Free Arena screen, choose one of the following:
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+* **Left**: Create a room
+* **Right list**: Join an existing room
 
-🔥 **Train, strategize, and have fun with PvP sparring!**\
-💪 Jump into Free Arena now!
+<figure><img src="../../.gitbook/assets/fa2 (1).png" alt=""><figcaption></figcaption></figure>
+
+4️⃣ If the room is **password-protected**, enter the password using the keyboard to join.
+
+<figure><img src="../../.gitbook/assets/fa11.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ Host Features & Management Menu
+
+If you create a room, you will have access to host-only features.
+
+* **Gear icon**\
+  → Opens the room management menu
+
+<figure><img src="../../.gitbook/assets/fa4.png" alt=""><figcaption></figcaption></figure>
+
+* **Start Game button**\
+  → Starts a **friendly Free Arena match**
+
+<figure><img src="../../.gitbook/assets/fa5.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ Player Management
+
+* When you move close to a player inside the room, an **X-shaped button** will appear.
+* Tap this button to **remove that player from the room**.
+
+<figure><img src="../../.gitbook/assets/fa3.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **Practice freely and improve without pressure.**\
+> **Free Arena is the best place to prepare for real battles.**
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 💡 **자유 아레나 가이드**
+### 📜 자유 아레나 입장 가이드
 
-자유 아레나는 **언제든지 참여 가능!** 친구들과 함께 모의 전투를 즐겨보세요.
-
-***
-
-#### ✅ **자유 아레나 입장 방법**
-
-1️⃣ **메인 HUD 우측 상단**의 **아레나 버튼 터치**
-
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
-
-2️⃣ 메뉴에서 **좌측 ‘자유 아레나 입장’ 버튼 클릭**
-
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-3️⃣ **방 생성**(좌측) 또는 **기존 방 참여**(우측 리스트)
-
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-4️⃣ **비밀번호가 필요한 방**은 **키보드로 입력 후 입장**
-
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-
+자유 아레나는 언제든지 참여할 수 있는 **연습용 PvP 콘텐츠**입니다.\
+방을 직접 만들거나, 이미 생성된 방에 입장해 친구들과 모의 전투를 즐길 수 있습니다.
 
 ***
 
-#### ⚙️ **방장 기능 & 관리 메뉴**
+### ◾ 자유 아레나 입장 방법
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+아래 순서에 따라 자유 아레나에 입장할 수 있습니다.
 
-* **톱니바퀴 아이콘** → **방 관리 메뉴 호출 & 우승 상금 설정**
-* **게임 시작 버튼** → 친선 경기 시작!
+1️⃣ **메인 HUD 우측 상단**의 **아레나 버튼**을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1.png" alt=""><figcaption></figcaption></figure>
 
-❓방 인원 근처에 가면 X모양 메뉴가 뜨는데, 이 버튼을 누르면 상대를 강퇴시킬 수 있습니다.
+2️⃣ 메뉴 화면에서 우측에 있는 **‘자유 아레나 입장’** 버튼을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fa1.png" alt=""><figcaption></figcaption></figure>
 
-**👉톱니바퀴 모양 버튼을 터치해 게임 시작 버튼을 누르면 친선경기가 시작됩니다!**
+3️⃣ 자유 아레나 화면에서
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+* **좌측**: 방 생성
+* **우측 리스트**: 기존 방 입장\
+  중 원하는 방법을 선택합니다.
 
-🔥 **자유롭게 연습하고, 실력을 키울 기회!**\
-💪 지금 바로 자유 아레나에 도전하세요!
+<figure><img src="../../.gitbook/assets/fa2 (1).png" alt=""><figcaption></figcaption></figure>
+
+4️⃣ **비밀번호가 설정된 방**일 경우, 키보드로 비밀번호를 입력한 후 입장합니다.
+
+<figure><img src="../../.gitbook/assets/fa11.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ 방장 기능 & 관리 메뉴
+
+방을 생성한 경우, 방장 전용 기능을 사용할 수 있습니다.
+
+* **톱니바퀴 아이콘**\
+  → 방 관리 메뉴를 열 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/fa4.png" alt=""><figcaption></figcaption></figure>
+
+* **게임 시작 버튼**\
+  → 자유 아레나 **친선 경기**를 시작합니다.
+
+<figure><img src="../../.gitbook/assets/fa5.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ 멤버 관리 안내
+
+* 방 안에서 **멤버 근처로 이동하면 X 모양 버튼**이 표시됩니다.
+* 해당 버튼을 터치하면 **해당 유저를 방에서 내보낼 수 있습니다.**
+
+<figure><img src="../../.gitbook/assets/fa3.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **자유롭게 연습하고, 부담 없이 실력을 키워보세요.**\
+> **자유 아레나는, 전투를 준비하는 가장 좋은 공간입니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
-**💡 フリーアリーナガイド**
+### 📜 フリーアリーナ入場ガイド
 
-**フリーアリーナはいつでも参加可能！** 友達と模擬戦を楽しもう！
-
-***
-
-#### ✅ **フリーアリーナ入場方法**
-
-1️⃣ **メインHUD右上**の **「アリーナ」ボタンをタップ**
-
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
-
-2️⃣ メニューが表示されたら、**左側「フリーアリーナ入場」ボタンをタップ**
-
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-3️⃣ **ルームを作成**(左) または **既存のルームに参加**(右)
-
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-4️⃣ **パスワードが必要な場合**は、**キーボードで入力して入場**
-
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-
+フリーアリーナは、いつでも参加できる **練習向けPvPコンテンツ** です。\
+自分でルームを作成したり、すでに作成されたルームに入場して、\
+友達と模擬バトルを楽しむことができます。
 
 ***
 
-#### ⚙️ **ルーム管理 & ホスト機能**
+### ◾ フリーアリーナ入場方法
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+以下の手順でフリーアリーナに入場できます。
 
+1️⃣ **メインHUD右上** にある **アリーナボタン** をタッチします。
 
+<figure><img src="../../.gitbook/assets/ar1.png" alt=""><figcaption></figcaption></figure>
 
-* **歯車アイコン** → **ルーム管理メニューを開き、優勝賞金を設定**
-* **ゲーム開始ボタン** → **フレンドリーマッチ開始！**
+2️⃣ メニュー画面で、右側にある **「フリーアリーナ入場」** ボタンをタッチします。
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fa1.png" alt=""><figcaption></figcaption></figure>
 
-❓部屋内のプレイヤーに近づくと、X字型のメニューが表示されます。このボタンを押すと、相手をキックすることができます。
+3️⃣ フリーアリーナ画面で、以下のいずれかを選択します。
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+* **左側**：ルーム作成
+* **右側リスト**：既存ルームに入場
 
-**👉歯車の形をしたボタンをタッチしてゲーム開始ボタンを押すと、フレンドリーマッチが開始されます！**
+<figure><img src="../../.gitbook/assets/fa2 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+4️⃣ **パスワードが設定されたルーム** の場合、キーボードでパスワードを入力して入場します。
 
-🔥 **自由に戦略を試し、腕を磨こう！**\
-💪 さあ、フリーアリーナでバトルスタート！
+<figure><img src="../../.gitbook/assets/fa11.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ ホスト機能＆管理メニュー
+
+ルームを作成した場合、ホスト専用の機能を利用できます。
+
+* **歯車アイコン**\
+  → ルーム管理メニューを開きます。
+
+<figure><img src="../../.gitbook/assets/fa4.png" alt=""><figcaption></figcaption></figure>
+
+* **ゲーム開始ボタン**\
+  → フリーアリーナの **親善試合** を開始します。
+
+<figure><img src="../../.gitbook/assets/fa5.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ メンバー管理案内
+
+* ルーム内で **メンバーの近くに移動すると、Xマークのボタン** が表示されます。
+* そのボタンをタッチすると、**該当メンバーをルームから退出させることができます**。
+
+<figure><img src="../../.gitbook/assets/fa3.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **自由に練習し、気軽に実力を磨きましょう。**\
+> **フリーアリーナは、本番の戦いに備えるための最適な場所です。**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 14, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
