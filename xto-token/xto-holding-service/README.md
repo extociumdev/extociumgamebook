@@ -31,7 +31,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 👉 Tap the XTO Holding button in the center of the shop menu.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 The ticket holding service widget will appear. It shows the details of your held tickets and the X Points you can earn weekly. There are three buttons at the bottom for purchasing, modifying, and swapping tickets.
 
@@ -86,7 +86,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 👉상점 메뉴 중앙의 XTO 홀딩 버튼을 터치하세요.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉티켓 홀딩 서비스 위젯이 나옵니다. 내가 홀딩중인 티켓 정보와 매주 받을 수 있는 X포인트 정보가 있습니다. 하단에 3개 버튼으로 티켓을 구매, 변경, 스왑 할 수 있습니다.
 
@@ -143,7 +143,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 👉 ショップメニュー中央のXTOホールドボタンをタップします。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 チケットホールドサービスのウィジェットが表示されます。ホールド中のチケット情報や毎週受け取れるXポイントの情報が確認できます。下部にはチケット購入、変更、スワップ用の3つのボタンがあります。
 

@@ -37,9 +37,9 @@ Test your combat skills and challenge yourself to become a true champion.
 
 Follow the steps below to enter the 1vs1 Arena.
 
-1️⃣ Tap the **Arena Emblem icon** on the left side of the minimap.
+1️⃣ Tap the **Game Mode icon** on the left side of the minimap.
 
-<figure><img src="../../.gitbook/assets/ar1 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2️⃣ Tap **“Enter Waiting Room”** at the top-left of the screen.
 
@@ -77,9 +77,9 @@ Follow the steps below to enter the 1vs1 Arena.
 
 아래 순서에 따라 1vs1 아레나에 입장할 수 있습니다.
 
-1️⃣ 미니맵 좌측에 있는 **‘아레나 인장’ 아이콘**을 터치합니다.
+1️⃣ 미니맵 좌측에 있는 **게임 모드 아이콘**을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/ar1 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2️⃣ 좌측 상단의 **‘아레나 대기실 입장’** 버튼을 터치합니다.
 
@@ -119,9 +119,9 @@ Follow the steps below to enter the 1vs1 Arena.
 
 以下の手順で、1vs1アリーナに入場できます。
 
-1️⃣ ミニマップ左側にあ&#x308B;**「アリーナの印章」アイコン** をタッチします。
+1️⃣ ミニマップ左側にある **ゲームモードアイコン** をタップします。
 
-<figure><img src="../../.gitbook/assets/ar1 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2️⃣ 左上の **「アリーナ待機室へ入場」** ボタンをタッチします。
 

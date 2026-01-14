@@ -1,55 +1,75 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # ❄️ Frost War
 
 {% tabs %}
 {% tab title="ENG" %}
-## ❄️ Frost War Guide
+### 📜 Frost War Guide
 
-_A compact but intense battlefield!_\
-Get a taste of large-scale PvP with **Frost War** — fast, fierce, and super fun.
+A small battlefield with intense action.\
+**Frost War** is a mini siege-style PvP mode where strategy and teamwork decide victory.
 
-***
-
-### 💡 Before You Join
-
-#### 🕹 How to Enter
-
-Tap the **\[Mode]** button in-game and head to the **Frost War Lobby**.
-
-<figure><img src="../../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
-
-#### ⏰ Schedule
-
-Starts **daily at** \
-🎯**13:30 UTC**\
-🎯**08:30 ETC (UTC-5)**\
-🎯**22:30 KST**\
-Don’t be late—auto match begins right on time!
+Enjoy the thrill of large-scale PvP in a fast and focused format.\
+This is not just about getting kills. **Objectives and coordination matter most.**
 
 ***
 
-### 🧪 Potion Purchase
+### ◾ How to Enter
 
-You can grab a _Frost Potion Package_ from **NPC ‘Rena’** in the lobby.
+Follow the steps below to join Frost War.
 
-<figure><img src="../../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
+1️⃣ Tap the **Game Mode icon** on the left side of the minimap.
 
-#### **⚠️ Heads Up!**
+<figure><img src="../../.gitbook/assets/ar1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-* Potions are **single-use only**
-* **Unused potions disappear** after the war ends\
-  → So don’t hoard—use them when it matters most!
+2️⃣ Select **Frost War Lobby** from the top menu.
 
-#### **🧊 Base Potion Set (Level 0 Package)**
+<figure><img src="../../.gitbook/assets/fw1.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ Schedule
+
+* Starts **daily at** 🎯**13:30 UTC** 🎯**08:30 ETC (UTC-5)**
+* The battle starts automatically at the scheduled time.
+
+⚠️ Make sure to enter the lobby before the match begins.
+
+***
+
+### ◾ Participation Rules
+
+* Participation is determined by the **character that enters the lobby**.
+* When the battle starts, **all food and buff effects are removed automatically**.\
+  → Everyone begins the fight under the same conditions.
+
+<table><thead><tr><th width="233.5556640625">Character Level</th><th>Entry Conditions</th></tr></thead><tbody><tr><td>Level 48+</td><td>Join with your current gear and stats</td></tr><tr><td>Below Level 48</td><td>Join with AI-set stats, gear, and random skills</td></tr><tr><td>Gear Setting</td><td>Stats based on "Awakening Darkness +0" equipment</td></tr></tbody></table>
+
+***
+
+### ◾ Battle Preparation – Potion Purchase
+
+You can purchase **Frost Potion Packages** from NPC **Rena** inside the lobby.
+
+<figure><img src="../../.gitbook/assets/fw2.png" alt=""><figcaption></figcaption></figure>
+
+#### 📦 Basic Potion Package (Level 0)
 
 * HP Potion × 10
 * MP Potion × 10
 * Summon HP Potion × 10
 
-#### 🧊 Level-based Potion Info
+{% hint style="warning" %}
+#### ⚠️ Important Notes
+
+* Potions are **single-use only**.
+* Any unused potions are **deleted automatically** after the battle ends.\
+  → Use them wisely when the timing matters.
+{% endhint %}
+
+#### 📦 Potion packages are also available by level.
 
 | Potion Level | Price (Gold) | Total Potions (each: HP, MP, Summon HP) |
 | ------------ | ------------ | --------------------------------------- |
@@ -65,92 +85,86 @@ You can grab a _Frost Potion Package_ from **NPC ‘Rena’** in the lobby.
 | Lv.9         | 80,000       | 100                                     |
 | Lv.10        | 100,000      | 110                                     |
 
-{% hint style="danger" %}
-All food and buffs are **automatically cleared** at the start of battle.\
-→ Everyone enters the field with a clean slate. No cheats, no boosts!
-{% endhint %}
+***
+
+### ◾ Team Formation
+
+* Participants are randomly divided into **4 teams**.
+* Each team consists of:
+  * **7 player characters (PCs)**
+  * **Up to 40 minions**
+* If there are not enough players, **AI-controlled units are added automatically**.
 
 ***
 
-### 🧙 Participation Requirements
+### ◾ Battlefield Structure & Starting Positions
 
-The character you bring into the lobby is the one that joins the fight.
+<figure><img src="../../.gitbook/assets/KakaoTalk_20250929_140617362_06.png" alt="" width="188"><figcaption></figcaption></figure>
 
-| Character Level | Entry Conditions                                 |
-| --------------- | ------------------------------------------------ |
-| Level 48+       | Join with your current gear and stats            |
-| Below Level 48  | Join with AI-set stats, gear, and random skills  |
-| Gear Setting    | Stats based on "Awakening Darkness +0" equipment |
+* Each team starts from **one of the four corners of the map**.
+* The battlefield is fully open, allowing free movement and flexible strategies.
 
 ***
 
-### ⚔️ How the Battle Works
+### ◾ Combat Rules
 
-#### 👥 Team Formation
-
-* 4 random teams
-* Each team = **7 players + up to 40 minions**\
-  → Short on players? **AI teammates will fill in!**
-
-#### 🚩 Starting Points
-
-Teams start from the **4 corners of the map**\
-Explore and strategize freely — it’s an open battlefield.
+* Defeating an enemy **player character** increases your team’s **minion level**.
+* Minion Effects:
+  * **+20% attack power per level**
+  * Can grow up to **Level 20**
+* **AI-controlled PCs do not count toward PK totals.**
 
 ***
 
-### 📏 Combat Rules
+### ◾ Victory Conditions
 
-* Defeating enemy players **levels up your team’s minions**
-* Each level gives **+20% attack power**, up to **level 20**
+Achieve **one** of the following to win:
 
-{% hint style="danger" %}
-**AI-controlled players do not count toward kill scores.**
-{% endhint %}
+* Destroy **two enemy gates**
+* Reach the **central control stone**
+* Win by **total damage contribution** to the control stone
 
-***
-
-### 🏆 How to Win
-
-1. Destroy **2 enemy gates**
-2. Reach the **central capture stone**
-3. Victory is based on **total damage contributed to the stone**
-
-→ It’s not just a brawl — **teamwork and tactics** win the war.
+💡 This mode rewards objective play and teamwork, not just eliminations.
 
 ***
 
-### 🎁 Reward System
+### ◾ Reward System
 
-The Frost War rewards consist of the following two categories:
+Frost War rewards are divided into two categories:
 
-1. **HOT5 Rewards**
-2. **Victory/Defeat Rewards**
+* **HOT5 Rewards**
+* **Win / Loss Rewards**
 
-If you do not make it into the HOT5, you will only receive the Victory or Defeat rewards.
+<mark style="background-color:$success;">**If you are not selected for HOT5, you will receive only the win or loss reward.**</mark>
 
 ***
 
-🔥 **HOT5 is determined based on your Battle Score.**
+### ◾ HOT5 Selection Criteria
 
-📊 **Battle Score is calculated using the formula below:**
+HOT5 players are selected based on **Battle Score**.
+
+#### 📊 Battle Score Formula
+
+```
+(Gate 1 Contribution × 1.2)
++ (Gate 2 Contribution × 1.2)
++ (Control Stone Contribution × 1.5)
++ (PK Contribution × 1.2)
+= Battle Score
+```
 
 {% hint style="info" %}
-(Gate 1 Contribution × 1.2) +\
-(Gate 2 Contribution × 1.2) +\
-(Capture stone Contribution × 1.5) +\
-(PK Contribution × 1.2)\
-\= Battle Score
+#### 🔍 Contribution Details
+
+* **Control Stone Contribution**\
+  → Damage dealt to the control stone ÷ Total HP of the control stone
+* **PK Contribution**\
+  → Your PK count ÷ Total PK count of all players in the match
 {% endhint %}
 
-🔍 **Each type of contribution is calculated as follows:**
+***
 
-* **Capture Stone Contribution**\
-  → (Damage you dealt to the Capture Stone) ÷ (Total HP of the Capture Stone)
-* **PK Contribution**\
-  → (Your number of successful PKs) ÷ (Total number of PKs by all players in this battle)
-
-#### 🏅 Rank-Based Rewards (Arena Tier)
+### ◾ Rank-Based Rewards (Arena Rank)
 
 **■ Arena Emperor & Noblesse**
 
@@ -227,141 +241,162 @@ If you do not make it into the HOT5, you will only receive the Victory or Defeat
 | Evil Crystal / Obsidian   | 1\~3 | 2\~5 | 2\~4            |
 | Mystic Stone              | 1    | 1    | 0.1             |
 
-#### 🎯 Final Note
+✨
 
-New to PvP?\
-**Frost War is the perfect battleground to test the waters.**\
-Simple rules, strategic play, and seriously satisfying wins.
-
-💥 **See you every day at 🕒UTC 13:30  in Frost War!**
+> If you’re new to PvP, Frost War is the perfect place to start.\
+> Simple rules, clear objectives, and the power of teamwork.
+>
+> **Every night at  13:30(UTC).**\
+> See you on the battlefield in Frost War. ❄️🔥
 {% endtab %}
 
 {% tab title="한국어" %}
-## ❄️ Frost War 안내서
+### 📜 프로스트 워 가이드
 
-작지만 치열한 미니 공성전!\
-**Frost War에서 대규모 PvP의 재미를 가볍고 강렬하게 체험해보세요.**
+작지만 치열한 전장, **미니 공성전 PvP 콘텐츠, 프로스트 워!**
 
-***
-
-### 💡 시작 전 준비하기
-
-#### 🕹 입장 방법
-
-게임 내 **\[모드] 버튼**을 눌러 **Frost War 대기실**로 입장해 주세요.
-
-<figure><img src="../../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
-
-#### ⏰ 진행 시간
-
-**매일** \
-🎯**22:30 KST**\
-정시에 자동 시작되니, 늦지 않게 대기실에 들어와 주세요!
+프로스트 워에서는 대규모 PvP의 재미를 짧고 강렬하게 즐길 수 있습니다.\
+단순한 처치 경쟁이 아닌, **전략과 협동이 승리를 결정합니다.**
 
 ***
 
-### 🧪 포션 구매
+### ◾ 입장 방법
 
-대기실 내 NPC ‘레나’에게서 _프로스트 포션 패키&#xC9C0;_&#xB97C; 구매할 수 있어요.
+아래 순서에 따라 프로스트 워에 입장할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
+1️⃣ 미니맵 좌측에 있는 **게임 모드 아이콘**을 터치합니다.
 
-#### ⚠️ 중요 포인트!
+<figure><img src="../../.gitbook/assets/ar1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-* 포션은 **1회용**입니다.
-* **전쟁 종료 후 미사용 포션은 자동 삭제**되니, 아끼지 말고 꼭 필요한 타이밍에 사용해 주세요!
+2️⃣ 상단 메뉴에서 **프로스트 워 대기실**을 선택합니다.
 
-#### 🧊 기본 포션 구성 (레벨 0 패키지 기준)
+<figure><img src="../../.gitbook/assets/fw1.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ 진행 시간
+
+* **매일 22:30 (KST)**
+* 정시에 자동으로 전투가 시작됩니다.
+
+⚠️ 시작 시간 전에 반드시 대기실에 입장해 주세요.
+
+***
+
+### ◾ 참여 조건 안내
+
+* 대기실에 **입장한 캐릭터 기준**으로 전장 참여가 결정됩니다.
+* 전투 시작 시 **음식 및 모든 버프 효과는 자동으로 제거**됩니다.\
+  → 모두가 같은 조건에서 전투를 시작합니다.
+
+<table><thead><tr><th width="222.6363525390625">캐릭터 레벨</th><th>전장 참여 방식</th></tr></thead><tbody><tr><td>48 이상</td><td>현재 장비 및 스탯 그대로 전장 참여</td></tr><tr><td>48 미만</td><td>AI 설정 기반 스탯/장비/스킬로 전장 참여 (스킬은 랜덤)</td></tr><tr><td>장비 설정</td><td>'깨어나는 어둠 +0' 기준 장비 스탯 적용</td></tr></tbody></table>
+
+***
+
+### ◾ 전투 준비 – 포션 구매
+
+대기실 내 NPC **레나(Lena)** 를 통해 **프로스트 포션 패키지**를 구매할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/fw2.png" alt=""><figcaption></figcaption></figure>
+
+#### 📦 기본 포션 구성 (레벨 0 패키지 기준)
 
 * HP 포션 × 10
 * MP 포션 × 10
 * 소환수 HP 포션 × 10
 
-#### 🧊 레벨별 포션 구매 정보
+{% hint style="warning" %}
+#### ⚠️ **주의사항**
+
+* 포션은 **1회용**입니다.
+* 전쟁 종료 후, **사용하지 않은 포션은 자동 삭제**됩니다.\
+  → 아끼지 말고 필요한 타이밍에 사용하세요.
+{% endhint %}
+
+#### 📦 레벨별 포션 구매 정보
 
 <table><thead><tr><th width="134.3636474609375">포션 레벨</th><th width="161.0909423828125">가격 (Gold)</th><th>추가 포션 수 (HP, MP, 소환수 HP 각각)</th></tr></thead><tbody><tr><td>Lv.0</td><td>기본 제공</td><td>10개</td></tr><tr><td>Lv.1</td><td>20</td><td>20개</td></tr><tr><td>Lv.2</td><td>100</td><td>30개</td></tr><tr><td>Lv.3</td><td>500</td><td>40개</td></tr><tr><td>Lv.4</td><td>2,500</td><td>50개</td></tr><tr><td>Lv.5</td><td>6,000</td><td>60개</td></tr><tr><td>Lv.6</td><td>15,000</td><td>70개</td></tr><tr><td>Lv.7</td><td>30,000</td><td>80개</td></tr><tr><td>Lv.8</td><td>50,000</td><td>90개</td></tr><tr><td>Lv.9</td><td>80,000</td><td>100개</td></tr><tr><td>Lv.10</td><td>100,000</td><td>110개</td></tr></tbody></table>
 
-{% hint style="danger" %}
-전투 시작 시, **음식 및 모든 버프 효과는 자동 제거**됩니다.\
-→ 누구나 같은 조건에서 싸우는 **클린 전장**을 위해 꼭 필요한 조치입니다!
-{% endhint %}
+***
+
+### ◾ 팀 구성 방식
+
+* 참가자는 **무작위 4개 팀**으로 배정됩니다.
+* 각 팀 구성:
+  * **PC 유저 7명**
+  * **미니언 최대 40마리**
+* 참가 인원이 부족할 경우, **AI가 자동으로 보충**됩니다.
 
 ***
 
-### 🧙‍♂️ 참여 조건
+### ◾ 전장 구조 & 시작 위치
 
-**대기실에 입장한 캐릭터 기준**으로 전장 참여가 결정돼요.
+<figure><img src="../../.gitbook/assets/KakaoTalk_20250929_140617362_06.png" alt="" width="188"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="222.6363525390625">캐릭터 레벨</th><th>전장 참여 방식</th></tr></thead><tbody><tr><td>48 이상</td><td>현재 장비 및 스탯 그대로 전장 참여</td></tr><tr><td>48 미만</td><td>AI 설정 기반 스탯/장비/스킬로 전장 참여 (스킬은 랜덤)</td></tr><tr><td>장비 설정</td><td>'깨어나는 어둠 +0' 기준 장비 스탯 적용</td></tr></tbody></table>
-
-### ⚔️ 진행 방식
-
-#### 👥 팀 구성
-
-* 참가자는 **무작위 4개 팀**으로 나뉘며,\
-  각 팀은 **PC 유저 7명 + 미니언 최대 40마리**로 구성돼요.\
-  → 참가자가 부족하면 **AI가 자동 보충**됩니다.
-
-#### 🚩 시작 위치
-
-* 각 팀은 **맵의 네 모서리에서 출발**하며,\
-  모든 경로가 열린 **개방형 맵**에서 자유롭게 전략을 펼칠 수 있어요.
+* 각 팀은 **맵의 네 모서리**에서 시작합니다.
+* 모든 경로가 열려 있는 **개방형 맵**에서 자유롭게 이동하며 전략을 펼칠 수 있습니다.
 
 ***
 
-### 📏 전투 규칙
+### ◾ 전투 규칙
 
-* **상대 팀 PC를 처치**하면, 우리 팀 미니언의 **레벨이 상승**합니다.
-* 미니언은 **레벨당 공격력 20% 증가**,\
-  **최대 20레벨까지 성장**할 수 있어요.
-
-{% hint style="danger" %}
-**AI PC는 킬 수에 포함되지 않습니다.**
-{% endhint %}
+* 상대 팀 **PC를 처치하면**, 우리 팀 **미니언의 레벨이 상승**합니다.
+* 미니언 효과:
+  * 레벨당 공격력 **+20%**
+  * 최대 **20레벨**까지 성장
+* **AI PC는 PK 수에 포함되지 않습니다.**
 
 ***
 
-### 🏆 승리 조건
+### ◾ 승리 조건
 
-1. **상대 팀의 게이트 2개 파괴**
-2. **중앙 점령석 도달**
-3. **점령석에 가한 누적 데미지 기여도**에 따라 승패 결정!
+아래 조건 중 하나를 달성하면 승리합니다.
 
-→ 단순한 킬 싸움이 아닌, **전략과 협동이 핵심**인 전투입니다.
+* 상대 팀의 **게이트 2개 파괴**
+* **중앙 점령석 도달**
+* 점령석에 가한 **누적 데미지 기여도** 비교
 
-***
-
-### 🎁 보상 시스템
-
-프로스트워의 보상은 다음 두 가지로 구성됩니다.
-
-1. **HOT5 보상**
-2. **승리/패배 보상**
-
-HOT5에 포함되지 않은 경우, **승리 또는 패배 보상만** 수령할 수 있습니다.
+💡 단순 처치 수가 아닌, **목표 달성과 팀 협력이 핵심**입니다.
 
 ***
 
-🔥 **HOT5는 전투 스코어를 기준으로 선정됩니다.**
+### ◾ 보상 시스템
 
-📊 **전투 스코어 계산식은 아래와 같습니다.**
+프로스트 워 보상은 **2가지**로 구성됩니다.
+
+* **HOT5 보상**
+* **승리 / 패배 보상**
+
+<mark style="background-color:$success;">**HOT5에 포함되지 않은 경우, 승리 또는 패배 보상만 획득합니다.**</mark>
+
+***
+
+### ◾ HOT5 선정 기준
+
+HOT5는 **전투 스코어**를 기준으로 선정됩니다.
+
+#### 📊 전투 스코어 계산식
+
+```
+(게이트1 기여도 × 1.2)
++ (게이트2 기여도 × 1.2)
++ (점령석 기여도 × 1.5)
++ (PK 기여도 × 1.2)
+= 전투 스코어
+```
 
 {% hint style="info" %}
-(게이트1 기여도 × 1.2) +\
-(게이트2 기여도 × 1.2) +\
-(점령석 기여도 × 1.5) +\
-(PK 기여도 × 1.2)\
-\= 전투 스코어
-{% endhint %}
-
-🔍 **각 기여도는 다음과 같은 방식으로 산정됩니다.**
+#### 🔍 기여도 계산 방식
 
 * **점령석 기여도**\
-  → (내가 점령석에 입힌 데미지) ÷ (점령석의 전체 HP)
+  → 내가 점령석에 입힌 데미지 ÷ 점령석 전체 HP
 * **PK 기여도**\
-  → (내가 PK에 성공한 횟수) ÷ (이번 전투 전체 유저의 PK 총합)
+  → 나의 PK 횟수 ÷ 전체 유저 PK 총합
+{% endhint %}
 
-#### 🏅 등급별 보상 (아레나 랭크 기준)
+***
+
+### ◾ 등급별 보상 (아레나 랭크 기준)
 
 **■ 아레나 엠퍼러, 아레나 노블레스**
 
@@ -422,58 +457,79 @@ HOT5에 포함되지 않은 경우, **승리 또는 패배 보상만** 수령할
 
 ***
 
-### 🎯 마무리 한 마디
+✨
 
-처음 PvP를 접하신다면,\
-**Frost War는 부담 없이 실전 감각을 익힐 수 있는 최고의 전장**입니다.\
-간단한 룰, 짜임새 있는 전투, 그리고 짜릿한 승리의 쾌감까지!
-
-✨ **매일 저녁 10시 30분, Frost War에서 뵙겠습니다 😊**
+> 처음 PvP에 도전한다면, 프로스트 워는 가장 좋은 시작점입니다.\
+> 간단한 룰, 명확한 목표, 그리고 협동의 재미까지.
+>
+> **매일 밤 10시 30분**, 프로스트 워에서 만나요.
 {% endtab %}
 
 {% tab title="日本語" %}
-## ❄️ Frost War ご案内
+### 📜 フロストウォーガイド
 
-小さいけれど熱い、ミニ攻城戦！\
-**Frost War**で、大規模PvPの楽しさを気軽に体験してみませんか？
+小さくても激しい戦場。\
+**フロストウォー** は、ミニ攻城戦形式のPvPコンテンツです。
 
-***
-
-### 💡 開始前の準備
-
-#### 🕹 参加方法
-
-ゲーム内の\*\*\[モード]ボタン\*\*をタップし、**Frost Warロビー**へご入場ください。
-
-<figure><img src="../../.gitbook/assets/frostwar1 (1).png" alt=""><figcaption></figcaption></figure>
-
-#### ⏰ 開催時間
-
-**毎晩**\
-🎯**22:30 KSTに自動開始**されます。\
-お時間に余裕を持ってロビーへお越しください。
+短時間で大規模PvPの迫力を体験でき、\
+単なる撃破数ではなく、**戦略とチームワーク** が勝利を左右します。
 
 ***
 
-### 🧪 ポーションの購入
+### ◾ 入場方法
 
-ロビーにいる\*\*NPC「レナ」\*\*か&#x3089;_&#x30D5;ロストポーションパッケー&#x30B8;_&#x3092;ご購入いただけます。
+以下の手順でフロストウォーに参加できます。
 
-<figure><img src="../../.gitbook/assets/frostwar3.png" alt=""><figcaption></figcaption></figure>
+1️⃣ ミニマップ左側にある **ゲームモードアイコン** をタップします。
 
-#### **⚠️ ご注意**
+<figure><img src="../../.gitbook/assets/ar1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-* ポーションは**1回限りの使用**となります
-* **戦争終了後、未使用ポーションは自動削除**されます\
-  → 必要なタイミングで、迷わずお使いください！
+2️⃣ 上部メニューから **フロストウォー待機室** を選択します。
 
-#### **🧊 基本ポーション構成（レベル0パッケージ）**
+<figure><img src="../../.gitbook/assets/fw1.png" alt=""><figcaption></figcaption></figure>
 
-* HPポーション ×10
-* MPポーション ×10
-* 召喚獣HPポーション ×10
+***
 
-#### 🧊 レベル別ポーション情報
+### ◾ 開催時間
+
+* **毎日 22:30（KST）**
+* 開始時間になると、自動で戦闘が始まります。
+
+⚠️ 開始前に必ず待機室へ入場してください。
+
+***
+
+### ◾ 参加条件について
+
+* 待機室に入場した **キャラクター基準** で参戦が決定されます。
+* 戦闘開始時、**食べ物およびすべてのバフ効果は自動的に解除** されます。\
+  → 全員が同じ条件で戦闘を開始します。
+
+<table><thead><tr><th width="171.33349609375">キャラクターレベル</th><th>参加形式</th></tr></thead><tbody><tr><td>48以上</td><td>現在の装備とステータスで参加</td></tr><tr><td>48未満</td><td>AIが設定した装備・ステータス・スキルで参加（スキルはランダム）</td></tr><tr><td>装備基準</td><td>「目覚めし闇 +0」のステータス基準で統一されます</td></tr></tbody></table>
+
+***
+
+### ◾ 戦闘準備 ― ポーション購入
+
+待機室内のNPC **レナ（Rena）** から **フロストポーションパッケージ** を購入できます。
+
+<figure><img src="../../.gitbook/assets/fw2.png" alt=""><figcaption></figcaption></figure>
+
+#### 📦 基本ポーション構成（レベル0パッケージ基準）
+
+* HPポーション × 10
+* MPポーション × 10
+* 召喚獣HPポーション × 10
+
+{% hint style="warning" %}
+#### ⚠️ 注意事項
+
+* ポーションは **使い切り** です。
+* 戦闘終了後、**未使用のポーションは自動的に削除** されます。\
+  → 必要なタイミングで積極的に使用してください。
+{% endhint %}
+
+#### 📦 レベル別ポーション情報
 
 | ポーションレベル | 価格（ゴールド） | 各種ポーション数（HP/MP/召喚体） |
 | -------- | -------- | ------------------- |
@@ -489,92 +545,86 @@ HOT5에 포함되지 않은 경우, **승리 또는 패배 보상만** 수령할
 | Lv.9     | 80,000   | 100個                |
 | Lv.10    | 100,000  | 110個                |
 
-{% hint style="danger" %}
-戦闘開始時に、**食事とすべてのバフ効果は自動的に解除**されます。\
-→ 全員が同じ条件で戦えるようにするための大切な設定です！
-{% endhint %}
+***
+
+### ◾ チーム編成
+
+* 参加者は **ランダムに4チーム** に分けられます。
+* 各チーム構成：
+  * **プレイヤーキャラクター（PC）7名**
+  * **ミニオン最大40体**
+* 参加人数が不足している場合、**AIが自動的に補充** されます。
 
 ***
 
-### 🧙‍♂️ 参加条件
+### ◾ マップ構造 & 開始位置
 
-ロビーに入場したキャラクターが、そのまま戦場に出撃します。
+<figure><img src="../../.gitbook/assets/KakaoTalk_20250929_140617362_06.png" alt="" width="188"><figcaption></figcaption></figure>
 
-| キャラクターレベル | 参加形式                             |
-| --------- | -------------------------------- |
-| 48以上      | 現在の装備とステータスで参加                   |
-| 48未満      | AIが設定した装備・ステータス・スキルで参加（スキルはランダム） |
-| 装備基準      | 「目覚めし闇 +0」のステータス基準で統一されます        |
+* 各チームは、**マップの四隅** からスタートします。
+* すべてのルートが開放された **オープンマップ** で、自由に戦略を展開できます。
 
 ***
 
-### ⚔️ 戦闘の流れ
+### ◾ 戦闘ルール
 
-#### 👥 チーム構成
-
-* プレイヤーは**ランダムに4つのチーム**に分かれます。
-* 各チームは**プレイヤー7人 + ミニオン最大40体**で構成されます。\
-  → 不足時は**AIが自動補充**されます！
-
-#### 🚩 スタート位置
-
-マップの**四隅から開始**され、\
-すべてのルートが開放された**オープンフィールド**で自由に戦略を組み立てられます。
+* 敵チームの **PCを撃破** すると、自チームの **ミニオンレベルが上昇** します。
+* ミニオン効果：
+  * レベルごとに **攻撃力 +20%**
+  * 最大 **レベル20** まで成長
+* **AI操作のPCはPK数に含まれません。**
 
 ***
 
-### 📏 戦闘ルール
+### ◾ 勝利条件
 
-* **敵プレイヤーを倒す**と、味方のミニオンのレベルが上がります。
-* レベルごとに**攻撃力が20%上昇**し、最大**レベル20**まで成長します。
+以下のいずれかを達成すると勝利となります。
 
-{% hint style="danger" %}
-**AI操作のキャラクターはキル数に含まれません。**
-{% endhint %}
+* 敵チームの **ゲートを2つ破壊**
+* **中央占領石に到達**
+* 占領石への **累積ダメージ貢献度** による判定
 
-***
-
-### 🏆 勝利条件
-
-1. **敵ゲートを2つ破壊**
-2. **中央の占領石に到達**
-3. **占領石に与えた累積ダメージ量**で勝敗が決定します！
-
-→ キル数ではなく、**戦略とチームワークが勝利のカギ**です。
+💡 単なる撃破数ではなく、**目標達成とチーム連携** が重要です。
 
 ***
 
-### 🎁 報酬システム
+### ◾ 報酬システム
 
-フロストウォーの報酬は、以下の2種類で構成されています。
+フロストウォーの報酬は、以下の **2種類** で構成されています。
 
-1. **HOT5報酬**
-2. **勝利／敗北報酬**
+* **HOT5報酬**
+* **勝利 / 敗北報酬**
 
-HOT5に入らなかった場合は、勝利または敗北に応じた報酬のみを受け取ることができます。
+<mark style="background-color:$success;">**HOT5に選ばれなかった場合は、勝利または敗北報酬のみを獲得します。**</mark>
 
 ***
 
-🔥 **HOT5はバトルスコアによって決定されます。**
+### ◾ HOT5 選定基準
 
-📊 **バトルスコアの計算式は以下の通りです：**
+HOT5は **戦闘スコア** を基準に選出されます。
+
+#### 📊 戦闘スコア計算式
+
+```
+（ゲート1貢献度 × 1.2）
++（ゲート2貢献度 × 1.2）
++（占領石貢献度 × 1.5）
++（PK貢献度 × 1.2）
+= 戦闘スコア
+```
 
 {% hint style="info" %}
-（ゲート1の貢献度 × 1.2）＋\
-（ゲート2の貢献度 × 1.2）＋\
-（占領石の貢献度 × 1.5）＋\
-（PKの貢献度 × 1.2）\
-＝ バトルスコア
+#### 🔍 貢献度の算出方法
+
+* **占領石貢献度**\
+  → 自分が与えた占領石ダメージ ÷ 占領石の総HP
+* **PK貢献度**\
+  → 自分のPK回数 ÷ 戦闘全体のPK総数
 {% endhint %}
 
-🔍 **それぞれの貢献度は次のように算出されます：**
+***
 
-* **占領石の貢献度**\
-  →（自分が占領石に与えたダメージ）÷（占領石の総HP）
-* **PKの貢献度**\
-  →（自身のPK成功回数）÷（今回の戦闘で全プレイヤーが記録したPK総数）
-
-#### 🏅 ランク別報酬（アリーナ階級）
+### ◾ ランク別報酬（アリーナランク基準）
 
 **■ アリーナエンペラー, アリーナノブレス**
 
@@ -639,13 +689,13 @@ HOT5に入らなかった場合は、勝利または敗北に応じた報酬の�
 
 ***
 
-#### 🎯 最後にひとこと
+✨
 
-PvPが初めての方でもご安心ください。\
-**Frost Warは、実践感覚を気軽に身につけられる絶好の戦場です。**\
-シンプルなルール、緻密な戦闘、そして達成感のある勝利体験をぜひお楽しみください。
-
-✨ **毎日22時30分、Frost Warでお会いしましょう！**
+> **PvPが初めての方にも、フロストウォーは最適な戦場です。**\
+> **シンプルなルール、明確な目標、そして協力の楽しさ。**
+>
+> **毎晩22時30分。フロストウォーでお会いしましょう。**&#x20;
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 14, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

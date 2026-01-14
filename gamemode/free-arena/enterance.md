@@ -17,13 +17,13 @@ Create your own room or join an existing one to enjoy friendly battles with frie
 
 Follow the steps below to enter Free Arena.
 
-1️⃣ Tap the **Arena button** at the **top-right of the main HUD**.
+1️⃣ Tap the **Game Mode icon** on the left side of the minimap.
 
-<figure><img src="../../.gitbook/assets/ar1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ From the menu screen, tap **“Enter Free Arena”** on the **right side**.
 
-<figure><img src="../../.gitbook/assets/fa1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fa1 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ On the Free Arena screen, choose one of the following:
 
@@ -81,13 +81,13 @@ If you create a room, you will have access to host-only features.
 
 아래 순서에 따라 자유 아레나에 입장할 수 있습니다.
 
-1️⃣ **메인 HUD 우측 상단**의 **아레나 버튼**을 터치합니다.
+1️⃣ 미니맵 좌측에 있는 **게임 모드 아이콘**을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/ar1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 메뉴 화면에서 우측에 있는 **‘자유 아레나 입장’** 버튼을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/fa1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fa1 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 자유 아레나 화면에서
 
@@ -147,13 +147,13 @@ If you create a room, you will have access to host-only features.
 
 以下の手順でフリーアリーナに入場できます。
 
-1️⃣ **メインHUD右上** にある **アリーナボタン** をタッチします。
+1️⃣ ミニマップ左側にある **ゲームモードアイコン** をタップします。
 
-<figure><img src="../../.gitbook/assets/ar1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ar1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ メニュー画面で、右側にある **「フリーアリーナ入場」** ボタンをタッチします。
 
-<figure><img src="../../.gitbook/assets/fa1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fa1 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ フリーアリーナ画面で、以下のいずれかを選択します。
 
