@@ -113,7 +113,7 @@ Rabbit Rush 경기는 매일 아래 시간에 진행됩니다.
 
 ### ◾ 입장 방법 ②&#x20;
 
-1️⃣ [**로튼힐(Rottenhill)**](../../field-info/rotten-hill/)에서 [**메바헬**](../../field-info/rotten-hill/npc-rotten-hill.md#mebahel-mebaheru)옆에 있는 작은 술집, **녹슨 술잔**으로 입장합니다.
+1️⃣ [**로튼힐(Rottenhill)**](../../field-info/rotten-hill/)에서 [**메바헬**](../../field-info/rotten-hill/npc-rotten-hill.md#mebahel-mebaheru)옆에 있는 작은 술집, [**녹슨 술잔**](../../field-info/rotten-hill/the-rusty-tankard.md)으로 입장합니다.
 
 <figure><img src="../../.gitbook/assets/rr5.png" alt=""><figcaption></figcaption></figure>
 
