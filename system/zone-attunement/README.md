@@ -53,7 +53,7 @@ _in the **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-
 
 ### ◾ Zone Attunement Example
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 📍 **Field**: Green Field\
 > 📘 **Standard Equipment Grade**: 1
@@ -142,7 +142,7 @@ _아래의 **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-
 
 ### ◾ 영역 교감 적용 예시
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 📍 **필드** : 푸른 들판 (Green Field)\
 > 📘 **기준 장비 등급** : 1
@@ -231,7 +231,7 @@ _下記の **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-
 
 ### ◾ エリア同調 適用例
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 📍 **フィールド**：グリーンフィールド（Green Field）\
 > 📘 **基準装備グレード**：1
