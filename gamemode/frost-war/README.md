@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ❄️ Frost War
 
+<figure><img src="../../.gitbook/assets/FrostWar_Badge.png" alt="" width="123"><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 📜 Frost War Guide
@@ -135,7 +137,7 @@ Frost War rewards are divided into two categories:
 * **HOT5 Rewards**
 * **Win / Loss Rewards**
 
-<mark style="background-color:$success;">**If you are not selected for HOT5, you will receive only the win or loss reward.**</mark>
+<mark style="color:purple;">**If you are not selected for HOT5, you will receive only the win or loss reward.**</mark>
 
 ***
 
@@ -367,7 +369,7 @@ HOT5 players are selected based on **Battle Score**.
 * **HOT5 보상**
 * **승리 / 패배 보상**
 
-<mark style="background-color:$success;">**HOT5에 포함되지 않은 경우, 승리 또는 패배 보상만 획득합니다.**</mark>
+<mark style="color:purple;">**HOT5에 포함되지 않은 경우, 승리 또는 패배 보상만 획득합니다.**</mark>
 
 ***
 
@@ -595,7 +597,7 @@ HOT5는 **전투 스코어**를 기준으로 선정됩니다.
 * **HOT5報酬**
 * **勝利 / 敗北報酬**
 
-<mark style="background-color:$success;">**HOT5に選ばれなかった場合は、勝利または敗北報酬のみを獲得します。**</mark>
+<mark style="color:purple;">**HOT5に選ばれなかった場合は、勝利または敗北報酬のみを獲得します。**</mark>
 
 ***
 
