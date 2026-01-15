@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ❄️ Frost War
 
-<figure><img src="../../.gitbook/assets/FrostWar_Badge.png" alt="" width="123"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FrostWar_Badge (1).png" alt="" width="123"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
