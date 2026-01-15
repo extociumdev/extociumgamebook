@@ -8,6 +8,8 @@ coverY: 31
 
 <figure><img src="../../.gitbook/assets/Rabbit_Badge.png" alt="" width="173"><figcaption></figcaption></figure>
 
+{% embed url="https://youtu.be/RtyVT18sCQ4" %}
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 📜 Rabbit Rush Guide
