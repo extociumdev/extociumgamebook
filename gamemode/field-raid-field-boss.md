@@ -1,85 +1,230 @@
-# 😈 Field Raid
+---
+description: 🛑 Information on this page may differ from the current in-game data.
+---
+
+# 😈 Field Raid (Field Boss)
 
 <figure><img src="../.gitbook/assets/Raid_Badge.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-### 😈**Field Raid System Guide**
+### 😈 Field Raid Guide
 
-Each field hosts a powerful **Field Boss** that appears at specific times.\
-These bosses are far stronger than regular monsters, so **cooperation with other players is essential** to defeat them.
+Field Raids are large-scale combat events \
+where powerful **Field Bosses** appear at scheduled times.\
+These bosses are far stronger than normal monsters, \
+so teaming up with other adventurers is highly recommended.
 
-Each boss **drops unique materials** that are exclusive to them. If you need specific resources for crafting, be sure to **keep track of their spawn times and prepare accordingly**!\
-\
-Rewards are distributed based on **individual contribution (total damage dealt)**, so the more damage you inflict, the greater your rewards.
+***
 
-<table><thead><tr><th width="122" align="center">Item Pool</th><th align="center">Achievement conditions - 달성 조건 - 達成条件</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Damage over 35% - 데미지 35% 이상 - ダメージ 35% 以上</td></tr><tr><td align="center">2</td><td align="center">Damage less than 35% - 데미지 35% 미만 - ダメージ 35% 未満</td></tr><tr><td align="center">3</td><td align="center">Damage less than 30% -  데미지 30% 미만 - ダメージ 30% 未満</td></tr><tr><td align="center">4</td><td align="center">Damage less than 15% - 데미지 15% 미만 - ダメージ 15% 未満</td></tr><tr><td align="center">5</td><td align="center">Damage less than 10% - 데미지 10% 미만 - ダメージ 10% 未満</td></tr><tr><td align="center">6</td><td align="center">Damage less than 5% - 데미지 5% 미만 - ダメージ 5% 未満</td></tr><tr><td align="center">7</td><td align="center">Damage less than 3% - 데미지 3% 미만 - ダメージ 3% 未満</td></tr><tr><td align="center">8</td><td align="center">Damage less than 2% - 데미지 2% 미만 - ダメージ 2% 未満</td></tr></tbody></table>
+#### ◾ How to Check Field Boss Spawn Notifications
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+You can check Field Boss spawn status and schedules in the following ways:
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+**① World Map**
 
-**📢 Field Boss Spawn Alerts**
+* Open the World Map to see which fields currently have an active Field Boss.
 
-* While hunting in the field, **a notification will appear on your screen** when a boss spawns.
+<figure><img src="../.gitbook/assets/fr2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+**② In-Game Screen**
 
-* You can also check the **remaining time until the boss appears** on the **top-left corner of each field slot in the world map**.
+* Tap the ⭐ **star icon** at the top-left of the game screen.
+
+<figure><img src="../.gitbook/assets/fr4 (1).png" alt=""><figcaption></figcaption></figure>
+
+* Check **Today's To-Do** to see today’s Field Boss information.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* Tap **Event Schedule** to view the full schedule.
+
+<figure><img src="../.gitbook/assets/fr7.png" alt=""><figcaption></figcaption></figure>
+
+**③ Set Boss Alerts**
+
+* In the Event Schedule, enable the checkbox to receive **Field Boss alerts**.
+* Alert times are displayed based on your **local time zone**.
+
+***
+
+#### ◾ Reward Criteria: Raid Points (Damage Contribution)
+
+When a Field Boss is defeated, rewards are distributed based on your **personal Raid Points**,\
+which are calculated from your **damage contribution** during the raid.
+
+Regardless of the map or boss type, **all Field Raids share the same reward structure**.
+
+***
+
+#### ◾ Reward Pool Stages
+
+Raid rewards are assigned according to your **Raid Point ranking**,\
+with different **Item Pools** applied by rank.
+
+_📌 Reward Pools are applied **automatically** once conditions are met._
+
+| Reward Pool  | Requirement                  |
+| ------------ | ---------------------------- |
+| Item Pool 1  | Raid Points Rank 1           |
+| Item Pool 2  | Raid Points Rank 2           |
+| Item Pool 3  | Raid Points Rank 3           |
+| Item Pool 4  | Raid Points Rank 4           |
+| Item Pool 5  | Raid Points Rank 5           |
+| Item Pool 6  | Raid Points Rank 6           |
+| Item Pool 7  | Raid Points Rank 7           |
+| Item Pool 8  | Raid Points Rank 8           |
+| Item Pool 9  | Raid Points Rank 9           |
+| Item Pool 10 | Raid Points Rank 10          |
+| Item Pool 11 | Raid Points Rank 11–15       |
+| Item Pool 12 | Raid Points Rank 21 or lower |
 {% endtab %}
 
 {% tab title="한국어" %}
-### 😈 필드 레이드 시스템 안내
+### 😈 필드 레이드 가이드
 
-각 필드에는 일정 시간마다 강력한 **필드 보스**가 등장합니다.\
-이들은 일반 몬스터보다 훨씬 강력하기 때문에, 반드시 여러 플레이어와 협력하여 공략해야 합니다.
+필드 레이드는 일정 시간마다 강력한 **필드 보스**가 등장하는 콘텐츠입니다.\
+필드 보스는 매우 강력하므로, 여러 모험가와 협력해 공략하는 것이 좋습니다.
 
-특히, 각 보스는 **자신만의 고유한 재료 아이템**을 드롭하므로, 원하는 장비 제작에 필요한 보스가 있다면 시간에 맞춰 도전해 보세요!\
-\
-필드 보스를 처치하면 **개인 기여도(총 데미지 기여율)** 에 따라 보상이 지급됩니다.
+***
 
-<table><thead><tr><th width="122" align="center">Item Pool</th><th align="center">Achievement conditions - 달성 조건 - 達成条件</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Damage over 35% - 데미지 35% 이상 - ダメージ 35% 以上</td></tr><tr><td align="center">2</td><td align="center">Damage less than 35% - 데미지 35% 미만 - ダメージ 35% 未満</td></tr><tr><td align="center">3</td><td align="center">Damage less than 30% -  데미지 30% 미만 - ダメージ 30% 未満</td></tr><tr><td align="center">4</td><td align="center">Damage less than 15% - 데미지 15% 미만 - ダメージ 15% 未満</td></tr><tr><td align="center">5</td><td align="center">Damage less than 10% - 데미지 10% 미만 - ダメージ 10% 未満</td></tr><tr><td align="center">6</td><td align="center">Damage less than 5% - 데미지 5% 미만 - ダメージ 5% 未満</td></tr><tr><td align="center">7</td><td align="center">Damage less than 3% - 데미지 3% 미만 - ダメージ 3% 未満</td></tr><tr><td align="center">8</td><td align="center">Damage less than 2% - 데미지 2% 미만 - ダメージ 2% 未満</td></tr></tbody></table>
+#### ◾ 필드 보스 등장 알림 확인 방법
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+필드 보스의 등장 여부와 일정은 아래 방법으로 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+**① 월드맵에서 확인하기**
 
-**📢 필드 보스 등장 알림**
+* 월드맵에서 보스가 등장한 맵을 체크할 수 있습니다.
 
-* 필드에서 사냥 중이라면, **보스 등장 시 화면에 알림이 표시**됩니다.
+<figure><img src="../.gitbook/assets/fr2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+**② 게임 화면에서 확인하기**
 
-* 또는, **월드맵에서 각 필드 슬롯 좌측 상단**을 확인하면 **보스 등장까지 남은 시간**을 실시간으로 체크할 수 있습니다.
+* 게임 화면 좌측 상단의 ⭐ 별 모양 아이콘을 터치합니다.
+
+<figure><img src="../.gitbook/assets/fr4 (1).png" alt=""><figcaption></figcaption></figure>
+
+* **Today's To-Do**에서 오늘의 보스 정보를 확인할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* **이벤트 스케줄**을 터치하면 전체 스케줄을 확인할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/fr7.png" alt=""><figcaption></figcaption></figure>
+
+**③ 알람 설정하기**
+
+* 이벤트 스케줄에서 체크박스를 선택하면 **보스 등장 알람을 설정**할 수 있습니다.
+* 알람 시간은 **접속 중인 지역의 현지 시간** 기준으로 표시됩니다.
+
+***
+
+#### ◾ 보상 지급 기준: 레이드 포인트(데미지 기여도)
+
+필드 보스를 처치하면,\
+개인 **레이드 포인트( 데미지 기여도)** 를 기준으로 보상이 지급됩니다.
+
+맵과 보스 종류에 관계없이, 모든 필드 레이드는 **동일한 보상 구조**를 사용합니다.
+
+***
+
+#### ◾ 보상 풀 단계 안내
+
+레이드 보상은 **레이드 포인트 순위**에 따라 아이템 풀이 단계별로 적용됩니다.
+
+| 보상 풀     | 달성 조건           |
+| -------- | --------------- |
+| 아이템 풀 1  | 레이드 포인트 1위      |
+| 아이템 풀 2  | 레이드 포인트 2위      |
+| 아이템 풀 3  | 레이드 포인트 3위      |
+| 아이템 풀 4  | 레이드 포인트 4위      |
+| 아이템 풀 5  | 레이드 포인트 5위      |
+| 아이템 풀 6  | 레이드 포인트 6위      |
+| 아이템 풀 7  | 레이드 포인트 7위      |
+| 아이템 풀 8  | 레이드 포인트 8위      |
+| 아이템 풀 9  | 레이드 포인트 9위      |
+| 아이템 풀 10 | 레이드 포인트 10위     |
+| 아이템 풀 11 | 레이드 포인트 11\~15위 |
+| 아이템 풀 12 | 레이드 포인트 21위 이상  |
+
+_📌 보상 풀은 조건에 따라 **자동 적용**됩니다._
 {% endtab %}
 
 {% tab title="日本語" %}
-### 😈**フィールドレイドシステム ガイド**
+### 😈 フィールドレイドガイド
 
-各フィールドには、特定の時間になると強力な**フィールドボス**が出現します。\
-これらのボスは通常のモンスターよりもはるかに強力なため、**他のプレイヤーと協力して討伐することが不可欠です**。
+フィールドレイドは、一定時間ごとに強力な**フィールドボス**が出現するコンテンツです。\
+フィールドボスは通常のモンスターよりもはるかに強力なため、\
+複数の冒険者と協力して討伐することをおすすめします。
 
-各ボスは**固有の素材アイテム**をドロップします。\
-装備製作に必要な素材がある場合は、**ボスの出現時間を確認し、準備を整えましょう！**\
-\
-また、ボスを討伐すると、**個人の貢献度（与えたダメージ量）**&#x306B;基づいて報酬が分配されます。
+***
 
-<table><thead><tr><th width="122" align="center">Item Pool</th><th align="center">Achievement conditions - 달성 조건 - 達成条件</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Damage over 35% - 데미지 35% 이상 - ダメージ 35% 以上</td></tr><tr><td align="center">2</td><td align="center">Damage less than 35% - 데미지 35% 미만 - ダメージ 35% 未満</td></tr><tr><td align="center">3</td><td align="center">Damage less than 30% -  데미지 30% 미만 - ダメージ 30% 未満</td></tr><tr><td align="center">4</td><td align="center">Damage less than 15% - 데미지 15% 미만 - ダメージ 15% 未満</td></tr><tr><td align="center">5</td><td align="center">Damage less than 10% - 데미지 10% 미만 - ダメージ 10% 未満</td></tr><tr><td align="center">6</td><td align="center">Damage less than 5% - 데미지 5% 미만 - ダメージ 5% 未満</td></tr><tr><td align="center">7</td><td align="center">Damage less than 3% - 데미지 3% 미만 - ダメージ 3% 未満</td></tr><tr><td align="center">8</td><td align="center">Damage less than 2% - 데미지 2% 미만 - ダメージ 2% 未満</td></tr></tbody></table>
+#### ◾ フィールドボス出現通知の確認方法
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+フィールドボスの出現状況やスケジュールは、以下の方法で確認できます。
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+**① ワールドマップで確認**
 
-**📢 フィールドボス出現アラート**
+* ワールドマップを開くと、フィールドボスが出現しているマップを確認できます。
 
-* フィールドで狩りをしていると、**ボスが出現すると画面に通知が表示されます**。
+<figure><img src="../.gitbook/assets/fr2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+**② ゲーム画面から確認**
 
-* また、**ワールドマップの各フィールドスロットの左上**で、**ボスの出現までの残り時間**を確認することもできます。
+* ゲーム画面左上の ⭐ **星アイコン**をタップします。
+
+<figure><img src="../.gitbook/assets/fr4 (1).png" alt=""><figcaption></figcaption></figure>
+
+* **Today's To-Do** から、本日のフィールドボス情報を確認できます。
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* **イベントスケジュール**をタップすると、全体スケジュールを確認できます。
+
+<figure><img src="../.gitbook/assets/fr7.png" alt=""><figcaption></figcaption></figure>
+
+**③ アラーム設定**
+
+* イベントスケジュールでチェックボックスを選択すると、\
+  フィールドボス出現アラームを設定できます。
+* アラーム時間は、**現在接続している地域の現地時間**で表示されます。
+
+***
+
+#### ◾ 報酬付与基準：レイドポイント（ダメージ貢献度）
+
+フィールドボスを討伐すると、\
+個人の**レイドポイント（ダメージ貢献度）**&#x306B;応じて報酬が支給されます。
+
+マップやボスの種類に関係なく、すべてのフィールドレイドは**共通の報酬構造**を使用します。
+
+***
+
+#### ◾ 報酬プール段階案内
+
+レイド報酬は、**レイドポイントの順位**に応じて 段階別の**アイテムプール**が適用されます。
+
+_📌 報酬プールは条件を満たすと**自動的に適用**されます。_
+
+| アイテムプール    | 達成条件           |
+| ---------- | -------------- |
+| アイテムプール 1  | レイドポイント 1位     |
+| アイテムプール 2  | レイドポイント 2位     |
+| アイテムプール 3  | レイドポイント 3位     |
+| アイテムプール 4  | レイドポイント 4位     |
+| アイテムプール 5  | レイドポイント 5位     |
+| アイテムプール 6  | レイドポイント 6位     |
+| アイテムプール 7  | レイドポイント 7位     |
+| アイテムプール 8  | レイドポイント 8位     |
+| アイテムプール 9  | レイドポイント 9位     |
+| アイテムプール 10 | レイドポイント 10位    |
+| アイテムプール 11 | レイドポイント 11～15位 |
+| アイテムプール 12 | レイドポイント 21位以下  |
 {% endtab %}
 {% endtabs %}
 
 {% content-ref url="../field-info/fields-by-level/" %}
 [fields-by-level](../field-info/fields-by-level/)
 {% endcontent-ref %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 16, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
