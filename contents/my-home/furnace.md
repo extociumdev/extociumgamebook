@@ -1,85 +1,99 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🔥 Furnace
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 **Create new materials using the furnace!**\
-Do you have unused or unwanted items?\
-Then why not utilise the **furnace**? You can find it in **'**[**My Home**](./#eng)**'**.
+### 🔥 Furnace Guide
 
-### 🛠 **Repairing the Furnace**
+The Furnace is a **crafting system** that allows you to burn unused items to obtain **Embers**,\
+which can then be used to **summon new items**.
 
-👉 If you are using the furnace for the first time, you must **repair it**.\
-👉 **Use gold and woods to restore the furnace.**
+The Furnace can be accessed **inside** [**My Home**](./).
 
-{% hint style="info" %}
-❓ _Materials required for repair:_
+***
 
-* **3,000 Gold**
-* **Wood** × 150
+### ◾ Repairing the Furnace
+
+Before using the Furnace for the first time, it must be **repaired**.\
+You can repair the Furnace using the items below.
+
+<figure><img src="../../.gitbook/assets/mh6.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+#### 🛠️ Required Items for Repair
+
+* Gold × 3,000
+* Wood × 150
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/mh2.png" alt="" width="429"><figcaption></figcaption></figure>
+Once the repair is complete, the Furnace functions will be fully available.
 
-### 🔥 Furnace Functions
+***
 
-The furnace allows you to **burn items to obtain 'embers'**, which can then be used to **summon new items**.
+### ◾ Basic Furnace Functions
 
-* The amount of **embers gained varies depending on the item** burned.
-* ❓ _Untradeable items can also be burned, so be cautious not to incinerate valuable possessions!_
+The Furnace operates in the following way:
 
-<figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
+* Burning items grants **Embers**.
+* The amount of Embers obtained **varies by item**.
+* **Untradeable items can also be burned**, \
+  so be careful not to accidentally destroy important items.
 
+***
 
+### ◾ How to Use the Furnace
 
-### 🎮 How to Use
+#### 1️⃣ Burning Items
 
-1️⃣ **Burning Items**
+<figure><img src="../../.gitbook/assets/mh7.png" alt=""><figcaption></figcaption></figure>
 
-* Drag & drop items from your **inventory to the furnace slot**.
-* The **estimated ember yield** will be displayed below the slot.
-* Click **\[Burn]** to generate embers.
+* From the inventory on the right side,\
+  **drag and drop** the item you want to burn into the Furnace slot.
+* The **expected Ember amount** will be displayed at the bottom of the slot.
+* Tap the **\[Burn]** button to generate Embers.
 
-<figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
+***
 
+#### 2️⃣ Receiving Embers
 
+<figure><img src="../../.gitbook/assets/mh8.png" alt=""><figcaption></figcaption></figure>
 
+* Generated Embers are delivered to your **Mailbox**.
+* Make sure to collect them from the Mailbox.
 
+***
 
-2️⃣ **Claiming Embers**
+#### 3️⃣ Summoning Items
 
-* The embers you obtain can be **claimed from the 'Mailbox'**.
+<figure><img src="../../.gitbook/assets/mh9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>
+* After collecting Embers, return to the Furnace.
+* Use **Embers and Gold** to summon items.
+* Tap the **\[Summon]** button.
 
+💡 Each summon requires **30 Embers**.
 
+***
 
-3️⃣ **Summoning Items**
+#### 4️⃣ Checking Summoned Items
 
-* Once you have received the embers, return to the **furnace** and use them, along with gold, to summon new items.
-* Click **\[Summon]** to proceed!
-* ❓ _Each summon requires 30 embers._
+<figure><img src="../../.gitbook/assets/mh10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
+* The summon result is displayed immediately.
+* Summoned items can also be checked in your **Mailbox**.
 
+<figure><img src="../../.gitbook/assets/mh11.png" alt=""><figcaption></figcaption></figure>
 
+***
 
-4️⃣ **Checking Summoned Items**
+### ◾ Using Embers
 
-* The result of the summon will be displayed immediately.
+By using Embers wisely, you can turn unwanted items into **new items with greater value**.
 
-<figure><img src="../../.gitbook/assets/image (819).png" alt=""><figcaption></figcaption></figure>
-
-* Summoned items can also be found in the '**Mailbox**'.
-
-<figure><img src="../../.gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
-
-🔥 **Make good use of the embers and transform unwanted items into valuable resources!**
-
-### ✅ **Table of Items Summonable with Embers**
+🔻 Please refer to the table below for items that can be summoned using Embers.
 
 | Item Name          | Summon Probability (%) | Amount |
 | ------------------ | ---------------------- | ------ |
@@ -97,81 +111,92 @@ The furnace allows you to **burn items to obtain 'embers'**, which can then be u
 {% endtab %}
 
 {% tab title="한국어" %}
-💡 **화로를 이용해 새로운 재료를 만들어 봅시다!**
+### 🔥 화로 가이드
 
-사용하지 않는 아이템이나 버려야 할 아이템이 있나요?\
-그렇다면 **화로**를 활용해 보세요! 화로는 **'**[**마이홈**](./#undefined-1)**'**&#xC5D0;서 찾을 수 있습니다.
+화로는 사용하지 않는 아이템을 태워 **불씨**를 획득하고,\
+그 불씨를 사용해 **새로운 아이템을 소환**할 수 있는 제작 시스템입니다.
 
-### 🛠 **화로 수리하기**
+화로는 [**마이홈**](./) **내부**에서 이용할 수 있습니다.
 
-👉 화로를 처음 사용한다면 **우선 수리가 필요합니다.**\
-👉 **골드와 목재를 사용해 화로를 수리**해 주세요.
+***
 
-{% hint style="info" %}
-❓ _화로 수리에 필요한 재료:_
+### ◾ 화로 수리하기
 
-* **3,000 골드**
-* **목재** × 150
+화로를 처음 이용하려면 먼저 **수리**가 필요합니다.\
+아래 아이템을 사용해 화로를 수리할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/mh6.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+#### 🛠️ 화로 수리에 필요한 아이템
+
+* 골드 × 3,000
+* 목재 × 150
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/mh2.png" alt="" width="429"><figcaption></figcaption></figure>
+수리가 완료되면 화로 기능을 정상적으로 이용할 수 있습니다.
 
-### 🔥 **화로의 기능**
+***
 
-화로는 **아이템을 태워 '불씨'를 얻고**, 그 불씨를 사용해 **새로운 아이템을 소환하는 시스템**입니다.
+### ◾ 화로의 기본 기능
 
-* 아이템마다 태울 때 획득할 수 있는 **불씨의 양이 다릅니다.**
-* ❓ _거래 불가 아이템도 태울 수 있으니, 중요한 아이템이 소각되지 않도록 주의하세요!_
+화로는 다음과 같은 방식으로 작동합니다.
 
-<figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
+* 아이템을 태우면 **불씨**를 획득할 수 있습니다.
+* 아이템마다 태울 때 획득할 수 있는 **불씨의 양은 서로 다릅니다**.
+* **거래 불가 아이템도 태울 수 있으므로**, 중요한 아이템이 소각되지 않도록 주의해 주세요.
 
+***
 
+### ◾ 화로 사용 방법
 
-### 🎮 **사용 방법**
+#### 1️⃣ 아이템 태우기
 
-1️⃣ **아이템 태우기**
+<figure><img src="../../.gitbook/assets/mh7.png" alt=""><figcaption></figcaption></figure>
 
-* 우측 인벤토리에서 **화로 칸으로 아이템을 드래그&드롭**하세요.
-* **불씨 예상 획득량이 슬롯 하단에 표시**되니 참고하세요.
-* **\[태우기] 버튼을 누르면 불씨가 소환**됩니다.
+* 우측 인벤토리에서 태우고 싶은 아이템을 **화로 슬롯으로 드래그 & 드롭**합니다.
+* 슬롯 하단에서 **예상 불씨 획득량**을 확인할 수 있습니다.
+* **\[태우기] 버튼**을 누르면 불씨가 생성됩니다.
 
-<figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
+***
 
+#### 2️⃣ 불씨 수령하기
 
+<figure><img src="../../.gitbook/assets/mh8.png" alt=""><figcaption></figcaption></figure>
 
+* 생성된 불씨는 **우편함**으로 지급됩니다.
+* 우편함에서 불씨를 수령해 주세요.
 
+***
 
-2️⃣ **불씨 수령하기**
+#### 3️⃣ 아이템 소환하기
 
-* 생성된 **불씨는 '우편함'에서 수령**할 수 있습니다.
+<figure><img src="../../.gitbook/assets/mh9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>
+* 불씨를 수령한 후, 다시 화로로 이동합니다.
+* **불씨와 골드**를 사용해 아이템을 소환할 수 있습니다.
+* **\[소환] 버튼**을 터치해 주세요.
 
+💡 아이템 소환 1회당 **불씨 30개**가 필요합니다.
 
+***
 
-3️⃣ **아이템 소환하기**
+#### 4️⃣ 소환된 아이템 확인
 
-* 우편함에서 불씨를 받았다면, 다시 화로로 돌아와 **불씨와 골드를 사용해 아이템을 소환**할 수 있습니다.
-* **\[소환] 버튼을 눌러보세요!**
-* ❓ _소환 1회당 불씨 30개가 필요합니다._
+<figure><img src="../../.gitbook/assets/mh10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
+* 소환 결과는 즉시 화면에 표시됩니다.
+* 소환된 아이템은 **우편함**에서 확인할 수 있습니다.
 
+<figure><img src="../../.gitbook/assets/mh11.png" alt=""><figcaption></figcaption></figure>
 
+***
 
-4️⃣ **소환된 아이템 확인**
+### ◾ 불씨 활용 안내
 
-* 소환된 아이템의 결과가 즉시 표시됩니다.
+불씨를 잘 활용하면, 쓸모없던 아이템을 **새로운 가치 있는 아이템으로 바꿀 수 있습니다**.
 
-<figure><img src="../../.gitbook/assets/image (819).png" alt=""><figcaption></figcaption></figure>
-
-* **소환된 아이템 역시 '우편함'에서 확인할 수 있습니다.**
-
-<figure><img src="../../.gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
-
-🔥 불씨를 잘 활용해 불필요한 아이템을 가치 있게 바꿔 보세요!
-
-### ✅불씨로 소환 가능한 아이템 도표
+🔻 불씨로 소환 가능한 아이템은 아래 도표를 참고해 주세요.
 
 | 아이템 이름 | 소환 확률 (%) | 양 (Amount) |
 | ------ | --------- | ---------- |
@@ -189,80 +214,94 @@ The furnace allows you to **burn items to obtain 'embers'**, which can then be u
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **炉を活用して新しい素材を作りましょう！**\
-使わないアイテムや不要なアイテムはありませんか？\
-それなら、ぜひ **炉を活用** してみてください！炉は **「**[**マイホーム**](./#ri-ben-yu)**」** で見つけることができます。
+### 🔥 炉（ファーネス）ガイド
 
-### 🛠 炉の修理
+炉は、使用しないアイテムを燃やして **火種** を獲得し、\
+その火種を使用して **新しいアイテムを召喚**できる制作システムです。\
+炉は [**マイホーム**](./)**の内部** で利用できます。
 
-👉 初めて炉を使用する場合は、**まず修理が必要** です。\
-👉 **ゴールドと木材を使用して炉を修理してください。**
+***
 
-{% hint style="info" %}
-❓ _修理に必要な素材:_
+### ◾ 炉の修理
 
-* **3,000 ゴールド**
-* **木材** × 150
+炉を初めて利用する場合、まず **修理** を行う必要があります。\
+以下のアイテムを使用すると、炉を修理できます。
+
+<figure><img src="../../.gitbook/assets/mh6.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+#### 🛠️ 修理に必要なアイテム
+
+* ゴールド × 3,000
+* 木材 × 150
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/mh2.png" alt="" width="429"><figcaption></figcaption></figure>
+修理が完了すると、炉の機能を正常に利用できるようになります。
 
-### 🔥 **炉の機能**
+***
 
-炉では **アイテムを燃やして「火種」(embers) を獲得** し、その火種を使用して **新たなアイテムを召喚** できます。
+### ◾ 炉の基本機能
 
-* **獲得できる火種の量はアイテムごとに異なります。**
-* ❓ _取引不可のアイテムも燃やせるため、大切なアイテムを誤って燃やさないようご注意ください！_
+炉は、以下の仕組みで動作します。
 
-<figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
+* アイテムを燃やすと **火種** を獲得できます。
+* 獲得できる火種の量は、\
+  **アイテムごとに異なります**。
+* **取引不可アイテムも燃やすことができる**ため、\
+  大切なアイテムを誤って消失しないよう注意してください。
 
+***
 
+### ◾ 炉の使い方
 
-### 🎮 使用方法
+#### 1️⃣ アイテムを燃やす
 
-1️⃣ **アイテムを燃やす**
+<figure><img src="../../.gitbook/assets/mh7.png" alt=""><figcaption></figcaption></figure>
 
-* **インベントリから炉のスロットにアイテムをドラッグ＆ドロップ** してください。
-* **獲得可能な火種の予測量** がスロットの下に表示されます。
-* **\[燃やす] ボタンを押すと、火種が生成** されます。
+* 右側のインベントリから、燃やしたいアイテムを **炉スロットへドラッグ＆ドロップ**します。
+* スロット下部で **獲得予定の火種数** を確認できます。
+* **［燃やす］ボタン**をタップすると、火種が生成されます。
 
-<figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
+***
 
+#### 2️⃣ 火種を受け取る
 
+<figure><img src="../../.gitbook/assets/mh8.png" alt=""><figcaption></figcaption></figure>
 
+* 生成された火種は **メールボックス** に送られます。
+* メールボックスから火種を受け取ってください。
 
+***
 
-2️⃣ **火種の受け取り**
+#### 3️⃣ アイテムを召喚する
 
-* 獲得した火種は **「郵便箱」から受け取る** ことができます。
+<figure><img src="../../.gitbook/assets/mh9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>
+* 火種を受け取った後、再び炉に戻ります。
+* **火種とゴールド**を使用して アイテムを召喚できます。
+* **［召喚］ボタン**をタップしてください。
 
+💡 アイテム召喚は **1回につき火種30個** が必要です。
 
+***
 
-3️⃣ **アイテムの召喚**
+#### 4️⃣ 召喚されたアイテムを確認する
 
-* 郵便箱で火種を受け取ったら、**炉に戻り、火種とゴールドを使用してアイテムを召喚** できます。
-* **\[召喚] ボタンを押してください！**
-* ❓ _1回の召喚には火種30個が必要です。_
+<figure><img src="../../.gitbook/assets/mh10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
+* 召喚結果はすぐに画面に表示されます。
+* 召喚されたアイテムは **メールボックス** でも確認できます。
 
+<figure><img src="../../.gitbook/assets/mh11.png" alt=""><figcaption></figcaption></figure>
 
+***
 
-4️⃣ **召喚されたアイテムの確認**
+### ◾ 火種の活用について
 
-* 召喚結果が即座に表示されます。
+火種をうまく活用することで、\
+不要なアイテムを **新たな価値のあるアイテムへ変える**ことができます。
 
-<figure><img src="../../.gitbook/assets/image (819).png" alt=""><figcaption></figcaption></figure>
-
-* 召喚されたアイテムは「**郵便箱**」から確認できます。
-
-<figure><img src="../../.gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
-
-🔥 **火種を活用して、不用品を貴重なアイテムに変えましょう！**
-
-### ✅ **火種で召喚可能なアイテム表**
+🔻 火種で召喚できるアイテムについては、下記の表をご確認ください。
 
 | アイテム名    | 召喚確率 (%) | 数量 (Amount) |
 | -------- | -------- | ----------- |
@@ -280,3 +319,4 @@ The furnace allows you to **burn items to obtain 'embers'**, which can then be u
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 19, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
