@@ -14,7 +14,7 @@ The Explorer’s Diary is a **progression content** where you record\
 monsters and gatherables encountered across the continent of **Asterica**,\
 build completion, and gain **bonus stats**.
 
-You can start the Explorer’s Diary by talking to the NPC **Aerial**, who appears in the field.
+You can start the Explorer’s Diary by talking to the NPC **Arial**, who appears in the field.
 
 <figure><img src="../.gitbook/assets/ee1.png" alt=""><figcaption></figcaption></figure>
 
