@@ -158,3 +158,5 @@ Explore carefully, grow wisely, and above all… enjoy the journey.\
 **イェイレルはロッテンヒルで、いつでも応援しております。** 🌿
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 19, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
