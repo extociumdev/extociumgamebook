@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🏹 The Rooftop Hollow
+# 🎯 The Rooftop Hollow
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -13,11 +13,11 @@ Before heading into battle, this is your go-to space to experiment, strategize, 
 
 #### 📍How to Enter the Rooftop Hollow
 
-**① Go to** [**My Home**](../../../contents/my-home/#eng)
+**① Go to** [**My Home**](./#eng)
 
 The Rooftop Hollow is located inside **My Home**.
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20250722_134100569 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20250722_134100569 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -25,7 +25,7 @@ The Rooftop Hollow is located inside **My Home**.
 
 Inside My Home, tap on the **Rooftop Hollow icon** to access it.
 
-<figure><img src="../../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -34,7 +34,7 @@ Inside My Home, tap on the **Rooftop Hollow icon** to access it.
 The Rooftop Hollow is **locked at first**,\
 but don’t worry — the materials required are **easy to collect!**
 
-<figure><img src="../../../.gitbook/assets/rt2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ but don’t worry — the materials required are **easy to collect!**
 
 Once unlocked, you can enter the training space freely.
 
-<figure><img src="../../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -53,14 +53,14 @@ Once unlocked, you can enter the training space freely.
 * Try out **various heroes and their skills**—no ownership required.
 * Practice skill combos, animations, and find what suits your strategy.
 
-<figure><img src="../../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 Weapon Testing**
 
 * Use different weapons freely!
 * **Weapon skills are randomly assigned**, so feel free to experiment.
 
-<figure><img src="../../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 Training Slimes**
 
@@ -84,11 +84,11 @@ Victory comes from preparation.\
 
 #### 📍 옥상공터 진입 방법
 
-**①** [**마이홈**](../../../contents/my-home/#undefined-1)**으로 이동**
+**①** [**마이홈**](./#undefined-1)**으로 이동**
 
 옥상공터는 **마이홈** 안에 있어요.
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20250722_134100569 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20250722_134100569 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -96,7 +96,7 @@ Victory comes from preparation.\
 
 마이홈 내부에서 **옥상공터 아이콘**을 눌러주세요.
 
-<figure><img src="../../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -105,7 +105,7 @@ Victory comes from preparation.\
 최초 진입 시 옥상공터는 잠겨 있어요.\
 🔓 하지만, **해금에 필요한 재료는 쉽게 구할 수 있으니 걱정 마세요!**
 
-<figure><img src="../../../.gitbook/assets/rt2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -114,7 +114,7 @@ Victory comes from preparation.\
 재료를 제출하면 옥상공터가 개방됩니다.\
 이제 자유롭게 테스트를 시작할 수 있어요.
 
-<figure><img src="../../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -125,7 +125,7 @@ Victory comes from preparation.\
 * 보유 여부와 관계없이 다양한 **영웅의 스킬을 체험**할 수 있어요.
 * 실전 투입 전, **스킬 구성과 반응을 직접 확인**해보세요!
 
-<figure><img src="../../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 무기 테스트**
 
@@ -133,7 +133,7 @@ Victory comes from preparation.\
 * 무기 스킬은 **랜덤으로 설정**되어 실험됩니다.
 * 다양한 무기 스킬을 체험하며 스타일을 점검해보세요.
 
-<figure><img src="../../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 연습용 슬라임**&#x20;
 
@@ -157,11 +157,11 @@ Victory comes from preparation.\
 
 #### 📍 屋上の空地への入り方
 
-**①** [**マイホーム**](../../../contents/my-home/#ri-ben-yu)**へ移動**
+**①** [**マイホーム**](./#ri-ben-yu)**へ移動**
 
 屋上の空地は**マイホーム**内にあります。
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20250722_134100569 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KakaoTalk_20250722_134100569 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -169,7 +169,7 @@ Victory comes from preparation.\
 
 マイホーム内で**屋上の空地アイコン**をタップしてください。
 
-<figure><img src="../../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -178,7 +178,7 @@ Victory comes from preparation.\
 初回は**ロック状態**ですが、\
 🔓 必要な素材は**簡単に集まるものばかり**なので安心してください！
 
-<figure><img src="../../../.gitbook/assets/rt2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -186,7 +186,7 @@ Victory comes from preparation.\
 
 素材を使えばロックが解除され、自由に出入りできます。
 
-<figure><img src="../../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -197,14 +197,14 @@ Victory comes from preparation.\
 * 所持していないヒーローでも、**自由にスキルを試すことができます。**
 * 実戦前にスキルの動作や組み合わせをチェックしましょう！
 
-<figure><img src="../../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 武器テスト**
 
 * さまざまな武器を自由に使用できます。
 * 武器スキルは**ランダムで付与**されるため、試行錯誤してみてください。
 
-<figure><img src="../../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 練習用スライム**
 

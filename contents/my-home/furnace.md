@@ -1,9 +1,8 @@
 ---
 description: 🛑 This information may be updated later than the game server data.
-icon: campfire
 ---
 
-# Furnace
+# 🔥 Furnace
 
 {% tabs %}
 {% tab title="ENG" %}
