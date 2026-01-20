@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🏋️ Training
 
-<figure><img src="../../.gitbook/assets/Icon_TP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Traning_Badge.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

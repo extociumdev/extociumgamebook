@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🥇 Achievement
 
-<figure><img src="../.gitbook/assets/Achivement_Badge.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/achievement.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -22,9 +22,10 @@ You can check your achievements by following the steps below.
 
 1️⃣ Tap the **scroll-shaped icon** at the top of the main screen.
 
-<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws1 (1).png" alt=""><figcaption></figcaption></figure>
 
-2️⃣ When the menu opens, select the **\[Achievements] tab**.
+2️⃣ When you tap the icon, \
+the menu opens and the **Achievements screen** is displayed immediately.
 
 <figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,9 +66,9 @@ Once an achievement’s requirements are met, you can claim its reward.
 
 1️⃣ **메인 화면 상단의 두루마리 모양 아이콘**을 터치합니다.
 
-<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws1 (1).png" alt=""><figcaption></figcaption></figure>
 
-2️⃣ 메뉴가 열리면 **\[업적] 탭**을 선택합니다.
+2️⃣ 아이콘을 터치하면 메뉴가 열리며, **업적 화면이 바로 표시됩니다.**
 
 <figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
@@ -109,9 +110,9 @@ Once an achievement’s requirements are met, you can claim its reward.
 
 1️⃣ メイン画面上部の **巻物型アイコン** をタップします。
 
-<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ws1 (1).png" alt=""><figcaption></figcaption></figure>
 
-2️⃣ メニューが開いたら、**［実績］タブ** を選択します。
+2️⃣ アイコンをタップするとメニューが開き、**実績画面**がすぐに表示されます。
 
 <figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 

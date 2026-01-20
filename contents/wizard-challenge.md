@@ -1,188 +1,210 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🪩 Wizard Challenge
 
+<figure><img src="../.gitbook/assets/wizard.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
-## 🧙‍♂️ Wizard Challenge&#x20;
+### 🧙‍♂️ Wizard Challenge Guide
 
-#### Daily 24-hour Challenge Content Guide
+The Wizard Challenge is a **daily challenge content** that runs for **24 hours each day**.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Every day, multiple **Challenge Cards** are generated based on normal gameplay.\
+By completing these challenges, you can earn **Keys**.
 
-**Wizard Challenge** generates a set of **Challenge Cards** that can be completed within a 24-hour period.\
-These cards include simple tasks such as PK, dying from PK, joining raids, playing various game modes, or consuming energy.
-
-By completing these challenges, you can obtain **Keys**, which are used to open the [**Vault of Time**](../system/vault-of-time.md#eng) for special rewards!
-
-***
-
-### 🎯 Types of Challenges
-
-Challenges refresh daily and may include:
-
-* ⚔️ Perform **PK**
-* 💀 **Die** due to PK
-* 🛡️ Join a **Raid**
-* 🎮 Participate in **game modes**
-* 🔋 **Consume Energy**
-
-Most tasks are designed to be naturally completed during regular gameplay.
+The Keys you earn are used to open the **Vault of Time**,\
+allowing you to claim resources that have been stored inside the vault.
 
 ***
 
-### 🔑 Get Keys → Open the Time Vault
+### ◾ What Is the Wizard Challenge?
 
-* Each challenge card displays its reward.
-* After completing a challenge, tap the card to instantly receive a **Key**.
-* Gather enough Keys to open the **Time Vault** and claim valuable rewards.
+The Wizard Challenge is a system designed to let players\
+naturally take on challenges while enjoying EXTOCIUM’s various contents.
 
-***
+Challenge Cards may include activities such as:
 
-### 🚪 How to Access
+* Performing PK or being defeated through PK
+* Participating in Raids
+* Playing different game modes
+* Consuming Energy
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-📌 **Step 1 — Tap the scroll-shaped icon at the top of the HUD**\
-📌 **Step 2 — When the Achievements menu appears, select the “Challenge” tab at the top**\
-📌 **Step 3 — View challenge cards, progress, and claim rewards**
-
-If you complete a challenge:\
-👉 **Tap the card to receive your Key!**
+Most challenges can be completed naturally through regular gameplay.
 
 ***
 
-### 📘 Summary
+### ◾ Challenge Cards & Earning Keys
 
-* Daily 24-hour challenge rotation
-* Simple, naturally achievable tasks
-* Earn Keys → Open Time Vault
-* Access via HUD scroll icon → Achievements → Challenge tab
+Multiple **Challenge Cards** are displayed in the Wizard Challenge.
 
-Make the most of Wizard Challenge to earn daily rewards and enjoy steady progression! 🗝️✨
+Each card shows its completion condition and reward.\
+Once the condition is met, tap the Challenge Card to obtain a **Key**.
+
+***
+
+### ◾ Opening the Vault of Time
+
+When you collect a certain number of Keys, you can open the **Vault of Time**.\
+Opening the vault allows you to claim resources that were automatically stored\
+through field activities.
+
+***
+
+### ◾ How to Access the Wizard Challenge
+
+You can access the Wizard Challenge by following the steps below.
+
+1️⃣ Tap the **scroll-shaped icon** at the top of the main screen.
+
+<figure><img src="../.gitbook/assets/ws1 (3).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ Tap **\[Challenge]** at the top to view the list of Challenge Cards and your current progress.
+
+<figure><img src="../.gitbook/assets/wc1.png" alt=""><figcaption></figcaption></figure>
+
+Once a challenge is completed, 👉 tap the Challenge Card to claim your Key immediately.
+
+***
+
+✨
+
+> **Once a day, check your Challenge Cards and open the Vault of Time.**
 {% endtab %}
 
 {% tab title="한국어" %}
-## 🧙‍♂️ 위자드 챌린지
+### 🧙‍♂️ 위자드 챌린지 가이드
 
-#### 매일 새롭게 열리는 24시간 도전 콘텐츠 가이드
+위자드 챌린지는 매일 **24시간 동안 진행할 수 있는 일일 도전 콘텐츠**입니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+게임을 플레이하며 달성할 수 있는 여러 가지 **도전 카드**가 매일 새롭게 생성되며,\
+도전을 완료하면 **열쇠(Key)**&#xB97C; 획득할 수 있습니다.
 
-\*\*위자드 챌린지(Wizard Challenge)\*\*는 하루(24시간) 동안 도전 가능한 다양한 \*\*도전 카드(Challenge Cards)\*\*가 생성되는 일일 콘텐츠입니다.\
-PK, 레이드 참여, 다양한 게임 모드 플레이, 에너지 소비 등 **간단하지만 플레이 활동과 자연스럽게 연결된 과제들**로 구성되어 있습니다.
-
-도전을 달성하면 **‘열쇠(Key)’를 획득**할 수 있으며, 이를 사용해 \*\*[시간의 금고(Time Vault)](../system/vault-of-time.md#undefined-1)\*\*를 열어 보상을 받을 수 있습니다!
+획득한 열쇠는 **시간의 금고(Vault of Time)**&#xB97C; 열어, 금고에 보관된 재화를 수령하는 데 사용됩니다.
 
 ***
 
-### 🎯 어떤 도전들이 나오나요?
+### ◾ 위자드 챌린지란?
 
-도전 카드는 매일 갱신되며 다음과 같은 활동이 포함됩니다:
+위자드 챌린지는 \
+EXTOCIUM의 다양한 콘텐츠를 즐기며 자연스럽게 도전할 수 있도록 구성된 시스템입니다.
 
-* ⚔️ **PK 수행하기**
-* 💀 **PK로 인해 사망하기**
-* 🛡️ **레이드 참여하기**
-* 🎮 **각종 게임 모드 참여**
-* 🔋 **에너지 소비하기**
+도전 카드에는 다음과 같은 활동이 포함됩니다.
 
-💡 대부분의 과제는 자연스럽게 플레이하다 보면 달성되는 구조로 설계되어 있습니다.
+* PK 진행 또는 PK로 사망하기
+* 레이드 참여하기
+* 다양한 게임 모드 플레이
+* 에너지 소비하기
 
-***
-
-### 🔑 열쇠(Key) 획득 → 시간의 금고(Time Vault) 개방
-
-위자드 챌린지의 목표는 **열쇠를 모아 금고를 여는 것!**
-
-* 각 도전 카드에는 보상이 표시됩니다.
-* 도전 완료 후 카드를 터치하면 **즉시 열쇠를 획득**할 수 있습니다.
-* 일정 개수의 열쇠를 모으면 **시간의 금고를 개방**하여 높은 가치의 보상을 획득할 수 있습니다.
+대부분의 도전은 일반적인 플레이 과정에서 자연스럽게 달성할 수 있습니다.
 
 ***
 
-### 🚪 입장 방법
+### ◾ 도전 카드와 열쇠 획득
 
-아래 단계에 따라 위자드 챌린지 메뉴에 접근할 수 있습니다.
+위자드 챌린지에는 여러 장의 **도전 카드**가 표시됩니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-📌 **1단계 — HUD 상단의 ‘스크롤 모양 아이콘’을 터치**\
-📌 **2단계 — 업적(Achievements) 메뉴가 열리면, 상단의 ‘챌린지(Challenge)’ 탭을 선택**\
-📌 **3단계 — 도전 카드 목록이 표시되며, 진행 상황을 확인하고 보상을 받을 수 있음**
-
-도전을 달성했다면?\
-👉 **해당 카드를 터치해 즉시 열쇠를 받아가세요!**
+각 도전 카드에는 달성 조건과 보상이 함께 표시되며, \
+도전 조건을 만족하면 해당 도전 카드를 터치해 **열쇠(Key)**&#xB97C; 획득할 수 있습니다.
 
 ***
 
-### 📘 한눈에 정리
+### ◾ 시간의 금고(Time Vault) 열기
 
-* 매일 24시간 동안 다양한 도전 카드가 갱신
-* 자연스럽게 플레이해도 달성 가능한 과제 중심
-* 보상은 ‘열쇠’, 열쇠를 모아 ‘시간의 금고’ 개방 가능
-* HUD 상단 스크롤 아이콘 → Achievements → Challenge 탭에서 접근 가능
+일정 개수의 열쇠를 모으면 **시간의 금고를 개방**할 수 있습니다.\
+금고를 열면, 필드 활동을 통해 자동으로 보관되어 있던 재화를 수령할 수 있습니다.
 
-위자드 챌린지를 통해 매일 특별한 보상을 획득하고, 꾸준한 성장의 재미를 경험해 보세요! 🗝️✨
+***
+
+### ◾ 위자드 챌린지 메뉴 접근 방법
+
+위자드 챌린지는 아래 순서로 확인할 수 있습니다.
+
+1️⃣ **메인 화면 상단의 두루마리 모양 아이콘**을 터치합니다.
+
+<figure><img src="../.gitbook/assets/ws1 (3).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 상단에서 **\[챌린지]**&#xB97C; 터치하면 도전 카드 목록과 현재 진행 상황을 확인할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/wc1.png" alt=""><figcaption></figcaption></figure>
+
+도전을 완료했다면, 👉 해당 도전 카드를 터치해 열쇠를 바로 획득하세요.
+
+***
+
+✨
+
+> **하루 한 번,도전 카드를 확인하고 시간의 금고를 열어 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-## 🧙‍♂️ ウィザードチャレンジ&#x20;
+### 🧙‍♂️ ウィザードチャレンジ ガイド
 
-#### 24時間更新のデイリーチャレンジガイド
+ウィザードチャレンジは、**毎日24時間プレイできる日替わりチャレンジコンテンツ**です。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+ゲームをプレイすることで達成できる 複数の**チャレンジカード**が毎日生成され、\
+チャレンジを達成すると **鍵（Key）** を獲得できます。
 
-**ウィザードチャレンジ**では、24時間以内に挑戦できる**チャレンジカード**が生成されます。\
-PK、PKでの死亡、レイド参加、各種ゲームモードへの参加、エネルギー消費など、プレイと自然につながる簡単なタスクで構成されています。
-
-チャレンジを達成すると **「鍵」** を獲得でき、集めた鍵で [**時の金庫**](../system/vault-of-time.md)**（Time Vault）** を開くことができます！
-
-***
-
-### 🎯 出現するチャレンジ例
-
-チャレンジカードは毎日更新され、以下のような内容が含まれます：
-
-* ⚔️ **PKを行う**
-* 💀 **PKで死亡する**
-* 🛡️ **レイドに参加する**
-* 🎮 **各種ゲームモードに参加する**
-* 🔋 **エネルギーを消費する**
-
-多くのタスクは、通常のプレイ中に自然と達成できるよう設計されています。
+獲得した鍵は、**時間の金庫（Vault of Time）**&#x3092;開き、\
+金庫に保管されている資源を受け取るために使用されます。
 
 ***
 
-### 🔑 鍵を獲得 → 時の金庫を開封
+### ◾ ウィザードチャレンジとは？
 
-* 各チャレンジカードには報酬が表示されます。
-* チャレンジ達成後、カードをタップすると **即座に鍵を獲得** できます。
-* 一定数の鍵を集めることで **時の金庫** を開き、価値の高い報酬を獲得できます。
+ウィザードチャレンジは、EXTOCIUMのさまざまなコンテンツを楽しみながら、\
+自然に挑戦できるよう構成されたシステムです。
 
-***
+チャレンジカードには、次のような内容が含まれます。
 
-### 🚪 アクセス方法
+* PKを行う、またはPKによって倒される
+* レイドに参加する
+* さまざまなゲームモードをプレイする
+* エネルギーを消費する
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-📌 **手順1 — HUD上部の「巻物アイコン」をタップ**\
-📌 **手順2 — Achievements（実績）メニューが開いたら、上部の「Challenge」タブを選択**\
-📌 **手順3 — チャレンジカードを閲覧し、進行状況や報酬を確認**
-
-チャレンジを達成したら：\
-👉 **カードをタップして鍵を受け取ろう！**
+多くのチャレンジは、通常のプレイを行う中で 自然に達成できます。
 
 ***
 
-### 📘 まとめ
+### ◾ チャレンジカードと鍵の獲得
 
-* 24時間ごとにチャレンジが更新
-* 自然に達成できるシンプルなタスク中心
-* 鍵を集めて時の金庫を開封
-* HUD巻物アイコン → Achievements → Challengeタブからアクセス
+ウィザードチャレンジでは、複数の**チャレンジカード**が表示されます。
 
-ウィザードチャレンジで毎日の報酬と継続的な成長を楽しみましょう！🗝️✨
+各カードには、達成条件と報酬が表示されており、条件を満たすと\
+カードをタップして **鍵（Key）** を獲得できます。
+
+***
+
+### ◾ 時間の金庫（Vault of Time）を開く
+
+一定数の鍵を集めると、**時間の金庫**を開くことができます。\
+金庫を開くと、フィールド活動を通じて 自動的に保管されていた資源を受け取れます。
+
+***
+
+### ◾ ウィザードチャレンジ メニューへのアクセス方法
+
+ウィザードチャレンジは、以下の手順で確認できます。
+
+1️⃣ メイン画面上部の **巻物型アイコン**をタップします。
+
+<figure><img src="../.gitbook/assets/ws1 (3).png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 上部の **［チャレンジ］** をタップすると、チャレンジカード一覧と\
+現在の進行状況を確認できます。
+
+<figure><img src="../.gitbook/assets/wc1.png" alt=""><figcaption></figcaption></figure>
+
+チャレンジを達成したら、👉 該当するカードをタップして すぐに鍵を受け取りましょう。
+
+***
+
+✨
+
+> **1日1回、チャレンジカードを確認して 時間の金庫を開いてみましょう。**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 20, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
