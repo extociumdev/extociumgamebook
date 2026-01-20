@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🥇 Achievement
@@ -8,101 +8,134 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡 **Complete achievements and claim valuable rewards!**
+### 🏆 Achievements Guide
 
-As you **hunt and engage in PvP battles** in EXTOCIUM, you will naturally progress through various achievements.\
-By steadily completing achievements from the beginning of your journey, you can **earn a variety of useful items** to aid your gameplay!
+Achievements are goal-based content that can be **naturally completed** as you play through hunting, combat, and various activities in EXTOCIUM.\
+By completing achievements, \
+you can earn **valuable rewards** that support your overall progression.
 
-### 🎯 Accessing the Achievements Menu
+***
 
-👉 Tap the **Guide button at the top of the main HUD** to access the achievements menu.
+### ◾ How to Access the Achievements Menu
 
-<figure><img src="../.gitbook/assets/ac1.png" alt="" width="563"><figcaption></figcaption></figure>
+You can check your achievements by following the steps below.
 
-👉 Select the **'Achievements' tab** to view the list of available achievements.
+1️⃣ Tap the **scroll-shaped icon** at the top of the main screen.
+
+<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ When the menu opens, select the **\[Achievements] tab**.
 
 <figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
-### 🎁 Claiming Achievement Rewards
+***
 
-👉 Once you meet the achievement requirements, the **'Receive' button** will become available.
+### ◾ How to Claim Achievement Rewards
+
+Once an achievement’s requirements are met, you can claim its reward.
+
+1️⃣ Tap the **\[Receive]** button to receive the achievement reward.
 
 <figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
 
-👉 Tap the **'Receive' button** to receive your rewards.
+2️⃣ Claimed rewards are delivered to your **Mailbox**.
 
-<figure><img src="../.gitbook/assets/ac4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac4.png" alt=""><figcaption></figcaption></figure>
 
-👉 **Rewards can be collected from the 'Mailbox'.**
+***
 
-<figure><img src="../.gitbook/assets/ac5.png" alt=""><figcaption></figcaption></figure>
+✨
 
-🏆 **Complete achievements and enjoy a variety of rewards!**
+> **Achievements are completed naturally as part of your journey through the game.**\
+> **Each achievement you earn becomes a resource that supports your growth**\
+> **and leads you toward your next adventure.**
 {% endtab %}
 
 {% tab title="한국어" %}
-💡 **업적을 달성하고 푸짐한 보상을 받아가세요!**
+### 🏆 업적 가이드
 
-EXTOCIUM에서 **사냥과 PvP를 즐기는 것만으로도** 다양한 업적을 달성할 수 있습니다.\
-게임을 시작하면서 차근차근 업적을 해결해 나가면, **게임 플레이에 도움이 되는 다양한 아이템**을 보상으로 획득할 수 있습니다!
+업적은 사냥, 전투, 다양한 콘텐츠를 플레이하며 자연스럽게 달성할 수 있는 목표 콘텐츠입니다.\
+업적을 달성하면 게임 플레이에 도움이 되는 다양한 보상을 획득할 수 있습니다.
 
-### 🎯 **업적 메뉴 접근 방법**
+***
 
-👉 **메인 HUD 상단의 가이드 버튼**을 터치하면 업적 메뉴에 접근할 수 있습니다.
+### ◾ 업적 메뉴 접근 방법
 
-<figure><img src="../.gitbook/assets/ac1.png" alt="" width="563"><figcaption></figcaption></figure>
+업적은 아래 순서로 확인할 수 있습니다.
 
-👉 **'업적' 탭을 터치**하면 업적 목록이 표시됩니다.
+1️⃣ **메인 화면 상단의 두루마리 모양 아이콘**을 터치합니다.
+
+<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ 메뉴가 열리면 **\[업적] 탭**을 선택합니다.
 
 <figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
-### 🎁 **업적 보상 받기**
+***
 
-👉 업적 조건을 충족하면 **'받기' 버튼**이 활성화됩니다.
+### ◾ 업적 보상 받는 방법
+
+업적 조건을 충족하면 보상을 받을 수 있습니다.
+
+1️⃣ **\[받기] 버튼**을 터치하면 업적 보상을 획득할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
 
-👉 **'받기' 버튼을 터치하여 보상을 수령**하세요.
+2️⃣ 획득한 보상은 **우편함**으로 지급됩니다.
 
-<figure><img src="../.gitbook/assets/ac4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac4.png" alt=""><figcaption></figcaption></figure>
 
-👉 **획득한 보상은 '우편함'에서 확인**할 수 있습니다.
+***
 
-<figure><img src="../.gitbook/assets/ac5.png" alt=""><figcaption></figcaption></figure>
+✨
 
-🏆 **업적을 달성하고 다양한 보상을 받아보세요!**
+> **업적은 게임을 플레이하는 과정 속에서 자연스럽게 완성됩니다.**\
+> **차근차근 쌓아 올린 업적 하나하나가, 모험에 필요한 자원이 되어 다음 여정을 이끌어 줍니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
-💡 **業績を達成し、貴重な報酬を獲得しましょう！**
+### 🏆 実績ガイド
 
-EXTOCIUMで**狩猟やPvPを楽しむだけで**、さまざまな業績を達成できます。\
-ゲームを始めたばかりの頃から業績を達成していくことで、**プレイに役立つさまざまなアイテム**を報酬として獲得できます！
+実績は、狩りや戦闘、さまざまなコンテンツをプレイする中で\
+**自然に達成できる目標型コンテンツ**です。
 
-### 🎯 業績メニューのアクセス方法
+実績を達成すると、ゲームプレイに役立つ **さまざまな報酬** を獲得できます。
 
-👉 **メインHUD上部のガイドボタン** をタップすると、業績メニューにアクセスできます。
+***
 
-<figure><img src="../.gitbook/assets/ac1.png" alt="" width="563"><figcaption></figcaption></figure>
+### ◾ 実績メニューへのアクセス方法
 
-👉 **「業績」タブ** をタップすると、業績一覧が表示されます。
+実績は、以下の手順で確認できます。
+
+1️⃣ メイン画面上部の **巻物型アイコン** をタップします。
+
+<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+
+2️⃣ メニューが開いたら、**［実績］タブ** を選択します。
 
 <figure><img src="../.gitbook/assets/ac2.png" alt=""><figcaption></figcaption></figure>
 
-### 🎁 業績報酬の受け取り
+***
 
-👉 業績条件を達成すると、**「受け取る」ボタン** が有効になります。
+### ◾ 実績報酬の受け取り方
+
+実績条件を満たすと、報酬を受け取ることができます。
+
+1️⃣ **［受け取る］ボタン** をタップすると、実績報酬を獲得できます。
 
 <figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
 
-👉 **「受け取る」ボタンをタップして報酬を獲得** してください。
+2️⃣ 獲得した報酬は、**メールボックス** に送られます。
 
-<figure><img src="../.gitbook/assets/ac4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac4.png" alt=""><figcaption></figcaption></figure>
 
-👉 **獲得した報酬は「郵便箱」で確認できます。**
+***
 
-<figure><img src="../.gitbook/assets/ac5.png" alt=""><figcaption></figcaption></figure>
+✨
 
-🏆 **業績を達成して、さまざまな報酬を手に入れましょう！**
+> **実績は、ゲームを進める中で 自然と積み重なっていきます。**\
+> **一つひとつ達成した実績が、次の冒険へ進むための力となります。**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 20, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

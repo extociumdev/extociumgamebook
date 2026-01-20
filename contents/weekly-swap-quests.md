@@ -19,7 +19,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 Tap the **Guide button at the top of the main HUD** to access the Weekly Quest menu.
 
-<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1 (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 Select the **'Weekly Quest' tab** to open the quest menu.
 
@@ -48,7 +48,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 **메인 HUD 상단의 가이드 버튼을 터치**하여 주간 퀘스트 메뉴에 접근하세요.
 
-<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1 (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 **'주간 퀘스트' 탭을 터치**하면 퀘스트 메뉴가 열립니다.
 
@@ -77,7 +77,7 @@ This system is designed to **maintain the stability of the XTO ecosystem** by en
 
 👉 **メインHUD上部のガイドボタン** をタップして、週間クエストメニューにアクセスしてください。
 
-<figure><img src="../.gitbook/assets/ac1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ac1 (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 **「週間クエスト」タブ** をタップすると、クエストメニューが開きます。
 
