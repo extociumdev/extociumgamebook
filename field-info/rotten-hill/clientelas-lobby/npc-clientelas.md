@@ -6,14 +6,14 @@ description: 🛑 This information may be updated later than the game server dat
 
 > ## Sitael - 시타엘 - シタエル
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt="" width="250"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Icon_GuildTrophy.png" alt="" width="75"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Icon_GuildTrophy.png" alt="" width="75"><figcaption></figcaption></figure>
 
 **For more information about clubs, check the link below.👇**
 
-{% content-ref url="../../clientelas-club/club/" %}
-[club](../../clientelas-club/club/)
+{% content-ref url="../../../clientelas-club/club/" %}
+[club](../../../clientelas-club/club/)
 {% endcontent-ref %}
 
 {% tabs %}
@@ -53,8 +53,8 @@ description: 🛑 This information may be updated later than the game server dat
 
 🔗 **Click the link below for more details about the Patron system.**
 
-{% content-ref url="../../clientelas-club/patron-and-client.md" %}
-[patron-and-client.md](../../clientelas-club/patron-and-client.md)
+{% content-ref url="../../../clientelas-club/patron-and-client.md" %}
+[patron-and-client.md](../../../clientelas-club/patron-and-client.md)
 {% endcontent-ref %}
 
 {% tabs %}

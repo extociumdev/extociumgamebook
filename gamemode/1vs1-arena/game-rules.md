@@ -93,7 +93,7 @@ To enter the 1vs1 Arena, the following conditions must be met:
 
 ### ◾ Matchmaking Rules
 
-* All players waiting in the [Arena Lobby](../../field-info/rotten-hill/arena-waiting-room.md) are registered in the **matchmaking pool**.
+* All players waiting in the [Arena Lobby](/broken/pages/D2iztnZSnJb6Jy8Fjj7H) are registered in the **matchmaking pool**.
 * Matchmaking prioritizes players within the **same League**.
   * If no players are available in the same League,\
     matchmaking expands to **one League above and below**.
@@ -179,7 +179,7 @@ If no suitable opponent is found, a **bot match** will be initiated automaticall
 
 ### ◾ 매칭 규칙
 
-* [아레나 대기실](../../field-info/rotten-hill/arena-waiting-room.md)에 대기 중인 모든 유저는 **매칭 풀**에 등록됩니다.
+* [아레나 대기실](/broken/pages/D2iztnZSnJb6Jy8Fjj7H)에 대기 중인 모든 유저는 **매칭 풀**에 등록됩니다.
 * 매칭은 **리그 단위**로 우선 진행됩니다.
   * 동일 리그 유저가 없을 경우 상·하 **1단계 리그까지** 포함하여 매칭됩니다.
 * **레벨 매칭 기준**
@@ -268,7 +268,7 @@ If no suitable opponent is found, a **bot match** will be initiated automaticall
 
 ### ◾ マッチングルール
 
-* [アリーナ待機室](../../field-info/rotten-hill/arena-waiting-room.md)で待機中のプレイヤーは、すべて **マッチングプール** に登録されます。
+* [アリーナ待機室](/broken/pages/D2iztnZSnJb6Jy8Fjj7H)で待機中のプレイヤーは、すべて **マッチングプール** に登録されます。
 * マッチングは **リーグ単位** を優先して行われます。
   * 同一リーグのプレイヤーがいない場合、**上下1段階のリーグ** まで対象が拡張されます。
 * **レベルマッチング基準**
