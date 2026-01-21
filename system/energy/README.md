@@ -44,17 +44,35 @@ and to maintain the value of items obtained through hunting.
 
 ### ◾ Energy Consumption Rules
 
-Each monster in a field is configured to consume **1 to n Energy Points**.
+Each monster in a field is configured to consume **1 to n Energy Points**.\
+Energy consumption is calculated based on **damage contribution**, not on whether the monster is defeated.
 
-When a monster is defeated, Energy Points are accumulated.\
-Once the accumulated points reach the threshold (**n**), **1 Energy is consumed**.
+When you deal damage to a monster, **Energy Points accumulate proportionally to your damage contribution**.\
+Once the accumulated points reach the threshold value (n), **1 Energy is consumed**.
 
-The amount of Energy Points consumed may vary\
-depending on the **monster type and the field**.
+As a result, **Energy may be consumed even if the monster is not defeated**,\
+as long as damage has been dealt.
 
-Through this system,\
-hunting in **higher-level hunting grounds becomes more efficient**,\
-and high-level Heroes can also **hunt or gather more easily in lower-level areas**.<br>
+This rule applies **equally to both normal monsters and raid bosses**.
+
+***
+
+#### ◾ Energy Consumption in Party Play
+
+During party play, Energy consumption is determined by **your location relative to party members who are actively hunting**.
+
+* If you are **in the same map as a party member who is hunting**,\
+  Energy will be consumed **even if you are not directly participating in combat**.
+* If you are **in a different map from the hunting party member**,\
+  or **located in a town (Rotten Hill)**, **Energy will not be consumed**.
+
+***
+
+This system is designed to\
+reward combat participation more accurately,\
+increase hunting efficiency in higher-level areas,\
+and allow high-level heroes to hunt or gather in lower-level zones\
+without unnecessary Energy loss.
 
 ***
 
@@ -112,15 +130,33 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 
 ### ◾ 에너지 소모 규칙
 
-각 필드의 몬스터는 **1 \~ n의 에너지 포인트**를 소모하도록 설정되어 있습니다.
+각 필드의 몬스터는 **1 \~ n의 에너지 포인트**를 소모하도록 설정되어 있습니다.\
+에너지 소모는 **몬스터 처치 여부가 아닌, 전투 중 가한 데미지 기여도**를 기준으로 계산됩니다.
 
-몬스터를 처치하면 에너지 포인트가 누적되며,\
-**누적 포인트가 기준값(n)에 도달하면 에너지 1이 소모**됩니다.
+몬스터에게 데미지를 가하면 해당 데미지 비율에 따라 **에너지 포인트가 누적**되며,\
+누적된 포인트가 기준값(n)에 도달할 경우 **에너지 1이 소모**됩니다.
 
-몬스터의 종류와 필드에 따라, 소모되는 에너지 포인트 수는 다를 수 있습니다.
+따라서 몬스터를 **처치하지 않더라도**, 전투 중 가한 데미지 기여도에 따라 에너지가 소모될 수 있습니다.\
+해당 규칙은 **일반 몬스터와 레이드 보스 모두 동일하게 적용**됩니다.
 
-이 시스템을 통해, **상위 레벨 사냥터에서의 사냥 효율이 더욱 높아지며**,\
-고레벨 영웅이 **저레벨 지역에서 채집이나 사냥을 진행하는 것도 수월해집니다.**
+***
+
+### ◾ 파티 플레이 시 에너지 소모
+
+파티 플레이 중 에너지 소모는 **사냥 중인 파티원과의 위치 관계**를 기준으로 적용됩니다.
+
+* 사냥 중인 파티원과 **같은 맵에 위치한 경우**,\
+  본인이 직접 사냥에 참여하지 않더라도 **에너지가 소모됩니다**.
+* 사냥 중인 파티원과 **다른 맵에 있거나**,\
+  **마을(로튼힐)에 위치한 경우에는 에너지가 소모되지 않습니다**.
+
+***
+
+이 시스템은\
+전투 참여도에 따른 합리적인 에너지 소모 구조를 통해,\
+상위 레벨 사냥터에서는 보다 높은 사냥 효율을 제공하고,\
+고레벨 영웅이 저레벨 지역에서 사냥이나 채집을 진행하는 경우에도\
+부담 없이 플레이할 수 있도록 설계되었습니다.
 
 ***
 
@@ -175,22 +211,39 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 
 ***
 
-### ◾ エナジー消費ルール
+#### ◾ エネルギー消費ルール
 
-各フィールドのモンスターは、\
-**1～nのエナジーポイント**を消費するように設定されています。
+各フィールドのモンスターは、**1〜n のエネルギーポイント**を消費するように設定されています。\
+エネルギーの消費は、**モンスターの討伐可否ではなく、与えたダメージの貢献度**を基準に計算されます。
 
-モンスターを討伐するとエナジーポイントが蓄積され、\
-累積ポイントが基準値（**n**）に達すると、**エナジーが1消費**されます。
+モンスターにダメージを与えると、そのダメージ量に応じて\
+**エネルギーポイントが累積**され、\
+累積ポイントが基準値（n）に到達すると **エネルギーが 1 消費**されます。
 
-モンスターの種類やフィールドによって、\
-消費されるエナジーポイントの量は異なる場合があります。
+そのため、モンスターを**討伐していない場合でも**、\
+戦闘中のダメージ貢献度に応じてエネルギーが消費されることがあります。
 
-このシステムにより、\
-**高レベル狩場での狩り効率が向上し、**\
-高レベルヒーローが**低レベル地域で採集や狩りを行うことも容易**になります。
+このルールは、**通常モンスターおよびレイドボスの両方に共通して適用**されます。
 
+***
 
+#### ◾ パーティープレイ時のエネルギー消費
+
+パーティープレイ中のエネルギー消費は、\
+**狩りを行っているパーティーメンバーとの位置関係**に基づいて判定されます。
+
+* 狩り中のパーティーメンバーと**同じマップにいる場合**、\
+  自身が直接戦闘に参加していなくても **エネルギーが消費**されます。
+* 狩り中のパーティーメンバーと**異なるマップにいる場合**、\
+  または **街（ロトンヒル）にいる場合は、エネルギーは消費されません**。
+
+***
+
+このシステムは、\
+戦闘への貢献度に応じた合理的なエネルギー消費を実現し、\
+高レベル狩場での狩り効率を高めるとともに、\
+高レベルヒーローが低レベル地域で狩りや採集を行う際にも\
+無理なくプレイできるよう設計されています。
 
 ***
 
@@ -215,4 +268,4 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 8, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 21, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
