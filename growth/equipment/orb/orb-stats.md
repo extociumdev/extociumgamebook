@@ -102,7 +102,7 @@ Additional stat options that may be applied **probabilistically** when an Orb is
 When an Orb is created, an **Elemental Bonus Damage option**\
 based on elemental affinity may be applied probabilistically.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Application chance varies by Orb
 * Randomly applied within a fixed **minimum–maximum range**
@@ -233,7 +233,7 @@ an additional **random option** is granted.
 
 오브 생성 시, **속성 상성에 따른 부가 데미지 옵션**이 확률적으로 적용될 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 적용 확률은 오브마다 다릅니다.
 * 정해진 최소\~최대 값 범위 내에서 랜덤 적용됩니다.
@@ -364,7 +364,7 @@ an additional **random option** is granted.
 
 オーブ生成時、**属性相性に基づく追加ダメージオプション**が **確率的に付与される場合があります。**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 適用確率は、オーブごとに異なります。
 * あらかじめ設定された **最小～最大値の範囲内** でランダムに適用されます。
