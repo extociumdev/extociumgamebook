@@ -42,37 +42,28 @@ and to maintain the value of items obtained through hunting.
 
 ***
 
-### ◾ Energy Consumption Rules
+#### ◾ Energy Consumption Rules
 
 Each monster in a field is configured to consume **1 to n Energy Points**.\
-Energy consumption is calculated based on **damage contribution**, not on whether the monster is defeated.
+Energy consumption is **finalized at the moment the monster is defeated** and is calculated based on **damage contribution during combat**.
 
-When you deal damage to a monster, **Energy Points accumulate proportionally to your damage contribution**.\
-Once the accumulated points reach the threshold value (n), **1 Energy is consumed**.
+When damage is dealt to a monster, **contribution points (Energy Points) are temporarily accumulated** in proportion to the damage dealt.
 
-As a result, **Energy may be consumed even if the monster is not defeated**,\
-as long as damage has been dealt.
+{% hint style="success" %}
+If the monster is defeated and the accumulated contribution reaches the threshold value (n),\
+**1 Energy is consumed**.
+{% endhint %}
 
-This rule applies **equally to both normal monsters and raid bosses**.
+Accumulated contribution **expires after a certain period of time**.\
+If the monster is not defeated within this time,\
+the contribution will **not be counted toward Energy consumption**.
 
-***
-
-#### ◾ Energy Consumption in Party Play
-
-During party play, Energy consumption is determined by **your location relative to party members who are actively hunting**.
-
-* If you are **in the same map as a party member who is hunting**,\
-  Energy will be consumed **even if you are not directly participating in combat**.
-* If you are **in a different map from the hunting party member**,\
-  or **located in a town (Rotten Hill)**, **Energy will not be consumed**.
-
-***
+These rules apply **equally to both normal monsters and raid bosses**.
 
 This system is designed to\
-reward combat participation more accurately,\
-increase hunting efficiency in higher-level areas,\
-and allow high-level heroes to hunt or gather in lower-level zones\
-without unnecessary Energy loss.
+consume Energy based on real combat participation and outcomes,\
+reduce unnecessary Energy loss,\
+and improve hunting efficiency and overall gameplay freedom.
 
 ***
 
@@ -128,35 +119,25 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 
 ***
 
-### ◾ 에너지 소모 규칙
+#### ◾ 에너지 소모 규칙
 
 각 필드의 몬스터는 **1 \~ n의 에너지 포인트**를 소모하도록 설정되어 있습니다.\
-에너지 소모는 **몬스터 처치 여부가 아닌, 전투 중 가한 데미지 기여도**를 기준으로 계산됩니다.
+에너지 소모는 **몬스터 처치 시점에 확정**되며, **전투 중 가한 데미지 기여도**를 기준으로 계산됩니다.
 
-몬스터에게 데미지를 가하면 해당 데미지 비율에 따라 **에너지 포인트가 누적**되며,\
-누적된 포인트가 기준값(n)에 도달할 경우 **에너지 1이 소모**됩니다.
+몬스터에게 데미지를 가하면 해당 데미지 비율에 따라 **기여도(에너지 포인트)가 임시로 누적**됩니다.
 
-따라서 몬스터를 **처치하지 않더라도**, 전투 중 가한 데미지 기여도에 따라 에너지가 소모될 수 있습니다.\
-해당 규칙은 **일반 몬스터와 레이드 보스 모두 동일하게 적용**됩니다.
+{% hint style="success" %}
+몬스터가 **처치될 경우**, 누적된 기여도가 기준값(n)에 도달하면 **에너지 1이 소모**됩니다.
+{% endhint %}
 
-***
+또한, 누적된 **기여도는 일정 시간이 지나면 사라지며**,\
+시간 내에 몬스터가 처치되지 않을 경우\
+해당 기여도는 에너지 소모에 반영되지 않습니다.
 
-### ◾ 파티 플레이 시 에너지 소모
+이 규칙은 **일반 몬스터와 레이드 보스 모두 동일하게 적용**됩니다.
 
-파티 플레이 중 에너지 소모는 **사냥 중인 파티원과의 위치 관계**를 기준으로 적용됩니다.
-
-* 사냥 중인 파티원과 **같은 맵에 위치한 경우**,\
-  본인이 직접 사냥에 참여하지 않더라도 **에너지가 소모됩니다**.
-* 사냥 중인 파티원과 **다른 맵에 있거나**,\
-  **마을(로튼힐)에 위치한 경우에는 에너지가 소모되지 않습니다**.
-
-***
-
-이 시스템은\
-전투 참여도에 따른 합리적인 에너지 소모 구조를 통해,\
-상위 레벨 사냥터에서는 보다 높은 사냥 효율을 제공하고,\
-고레벨 영웅이 저레벨 지역에서 사냥이나 채집을 진행하는 경우에도\
-부담 없이 플레이할 수 있도록 설계되었습니다.
+이 시스템은 전투에 대한 실제 참여도와 결과를 기준으로 에너지를 소모하여,\
+불필요한 에너지 손실을 줄이고 사냥 효율과 플레이 자유도를 높이기 위해 설계되었습니다.
 
 ***
 
@@ -214,36 +195,27 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 #### ◾ エネルギー消費ルール
 
 各フィールドのモンスターは、**1〜n のエネルギーポイント**を消費するように設定されています。\
-エネルギーの消費は、**モンスターの討伐可否ではなく、与えたダメージの貢献度**を基準に計算されます。
+エネルギーの消費は、**モンスターが討伐された時点で確定**し、\
+**戦闘中に与えたダメージの貢献度**を基準に計算されます。
 
-モンスターにダメージを与えると、そのダメージ量に応じて\
-**エネルギーポイントが累積**され、\
-累積ポイントが基準値（n）に到達すると **エネルギーが 1 消費**されます。
+モンスターにダメージを与えると、\
+そのダメージ量に応じて **貢献度（エネルギーポイント）が一時的に累積**されます。
 
-そのため、モンスターを**討伐していない場合でも**、\
-戦闘中のダメージ貢献度に応じてエネルギーが消費されることがあります。
+{% hint style="success" %}
+モンスターが討伐された場合、\
+累積した貢献度が基準値（n）に到達すると **エネルギーが 1 消費**されます。
+{% endhint %}
+
+また、累積された貢献度は**一定時間が経過すると消失**し、\
+その時間内にモンスターが討伐されなかった場合、\
+該当する貢献度は **エネルギー消費には反映されません**。
 
 このルールは、**通常モンスターおよびレイドボスの両方に共通して適用**されます。
 
-***
-
-#### ◾ パーティープレイ時のエネルギー消費
-
-パーティープレイ中のエネルギー消費は、\
-**狩りを行っているパーティーメンバーとの位置関係**に基づいて判定されます。
-
-* 狩り中のパーティーメンバーと**同じマップにいる場合**、\
-  自身が直接戦闘に参加していなくても **エネルギーが消費**されます。
-* 狩り中のパーティーメンバーと**異なるマップにいる場合**、\
-  または **街（ロトンヒル）にいる場合は、エネルギーは消費されません**。
-
-***
-
-このシステムは、\
-戦闘への貢献度に応じた合理的なエネルギー消費を実現し、\
-高レベル狩場での狩り効率を高めるとともに、\
-高レベルヒーローが低レベル地域で狩りや採集を行う際にも\
-無理なくプレイできるよう設計されています。
+本システムは、\
+実際の戦闘参加度と結果を基準にエネルギーを消費することで、\
+不要なエネルギー消費を抑え、\
+狩り効率とプレイの自由度を高めることを目的として設計されています。
 
 ***
 
