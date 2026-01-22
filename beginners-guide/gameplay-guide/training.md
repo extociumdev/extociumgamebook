@@ -97,8 +97,7 @@ To reset TP, you’ll need an item sold in the [shop](../../economy/shop/#eng) c
 
 #### ℹ️ Returned TP Information
 
-The **“Return TP”** shown during reset represents the\
-**total accumulated TP** for that account.
+The **“Return TP”** shown during reset represents the **total accumulated TP** for that account.
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -182,15 +181,13 @@ TP는 기술을 배우는 데 사용하는 포인트입니다.
 
 ### 2️⃣ TP 초기화 안내
 
-기술 연마를 잘못 선택했거나 다른 방향으로 다시 배우고 싶은 경우\
-**TP 초기화**가 가능합니다.
+기술 연마를 잘못 선택했거나 다른 방향으로 다시 배우고 싶은 경우 **TP 초기화**가 가능합니다.
 
 ***
 
 #### 📕 TP 초기화 방법
 
-TP 초기화를 위해서는\
-[상점](../../economy/shop/#undefined-1)에서 판매하는 ‘**망각의 서**’가 필요합니다.
+TP 초기화를 위해서는 [상점](../../economy/shop/#undefined-1)에서 판매하는 ‘**망각의 서**’가 필요합니다.
 
 1️⃣ 기술 연마 화면 좌측 상단의 **‘초기화’ 버튼**을 터치합니다.
 
@@ -221,11 +218,10 @@ TP 초기화를 위해서는\
 {% tab title="日本語" %}
 ## 🧠 技術研磨ガイド
 
-**技術研磨（Training）は、**\
-**制作や採集に必要な技術やレシピ**を学ぶためのシステムです。
+**技術研磨（Training）は、制作や採集に必要な技術やレシピ**を学ぶためのシステムです。
 
-より多くのアイテムを制作し、新しいコンテンツを利用するためには、\
-技術研磨が欠かせません。
+より多くのアイテムを制作し、\
+新しいコンテンツを利用するためには、技術研磨が欠かせません。
 
 ***
 
@@ -289,15 +285,13 @@ TPは、技術を習得するために使用するポイントです。
 
 ### 2️⃣ TP初期化のご案内
 
-技術研磨を誤って選択した場合や、\
-別の方向で学び直したい場合は、**TPの初期化**が可能です。
+技術研磨を誤って選択した場合や、別の方向で学び直したい場合は、**TPの初期化**が可能です。
 
 ***
 
 #### 📕 TP初期化の方法
 
-TPを初期化するには、\
-[ショップ](../../economy/shop/#ri-ben-yu)で販売されている\*\*「忘却の書」\*\*が必要です。
+TPを初期化するには、[ショップ](../../economy/shop/#ri-ben-yu)で販売されてい&#x308B;**「忘却の書」**&#x304C;必要です。
 
 1️⃣ 技術研磨画面左上&#x306E;**「初期化」**&#x30DC;タンをタップします。
 
