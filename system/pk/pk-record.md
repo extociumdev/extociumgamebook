@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 📕 PK Record
 
+<figure><img src="../../.gitbook/assets/Icon_PKLog.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 📜 PK Records

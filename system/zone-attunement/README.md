@@ -8,7 +8,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% tab title="ENG" %}
 ### 🌐 Zone Attunement
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Zone Attunement is a system that **automatically adjusts your combat power**\
 when you enter a field that is **lower level than your character**.
@@ -53,7 +53,7 @@ _in the **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-
 
 ### ◾ Zone Attunement Example
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 📍 **Field**: Green Field\
 > 📘 **Standard Equipment Grade**: 1
@@ -98,7 +98,7 @@ can be checked in the **\[**[**Scaling Data by Field**](./#scaling-data-by-field
 {% tab title="한국어" %}
 ### 🌐 영역 교감
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 영역 교감은 캐릭터가 **자신보다 낮은 레벨의 필드에 입장했을 때**,\
 해당 필드에 맞게 **전투 능력이 자동으로 조정되는 시스템**입니다.
@@ -142,7 +142,7 @@ _아래의 **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-
 
 ### ◾ 영역 교감 적용 예시
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 📍 **필드** : 푸른 들판 (Green Field)\
 > 📘 **기준 장비 등급** : 1
@@ -186,7 +186,7 @@ _아래의 **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-
 {% tab title="日本語" %}
 ### 🌐 エリア同調（Zone Attunement）
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 エリア同調は、自分のレベルより**低いレベルのフィールドに入場した際**、\
 そのフィールドに合わせて**戦闘能力が自動で調整されるシステム**です。
@@ -231,7 +231,7 @@ _下記の **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-
 
 ### ◾ エリア同調 適用例
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 📍 **フィールド**：グリーンフィールド（Green Field）\
 > 📘 **基準装備グレード**：1

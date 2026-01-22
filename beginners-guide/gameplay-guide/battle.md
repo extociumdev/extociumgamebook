@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🏹 Battle
 
+<figure><img src="../../.gitbook/assets/Btn_Equip.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ## 💥 EXTOCIUM Combat Guide

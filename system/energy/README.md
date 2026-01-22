@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ⚡ Energy
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-01-08 171042.png" alt="" width="133"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Icon_Energy.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -85,7 +85,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * When an Energy Potion is used,\
   it is applied immediately to the **currently equipped Hero**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -156,7 +156,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 각 영웅은 **주간 최대 2,000의 유료 에너지**를 충전할 수 있습니다.
 * 에너지 포션 사용 시, **현재 장착 중인 영웅**에게 즉시 적용됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -236,7 +236,7 @@ you can purchase additional Energy from the [shop](../../economy/shop/) using **
 * 各ヒーローは**週に最大2,000の有料エナジー**をチャージできます。
 * エナジーポーションを使用すると、**現在装備中のヒーロー**に即時適用されます。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

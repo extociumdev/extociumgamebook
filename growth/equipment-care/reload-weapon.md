@@ -20,7 +20,7 @@ you can reconfigure existing Equipment and try out various combat styles.
 
 Reload Equipment can be performed at the following location.
 
-* [Rottenhill](../../field-info/rotten-hill/) > [Magic Shop](../../field-info/rotten-hill/magic-shop/) > [NPC **Barbatos**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)
+* [Rottenhill](../../field-info/rotten-hill/) > [Magic Shop](../../field-info/rotten-hill/magic-shop/) > [**NPC Barbatos**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#the-weapon-reload-smith)
 
 You can proceed with Reload Equipment by talking to **Barbatos**.
 
@@ -86,7 +86,7 @@ The materials required for each Reload type can be checked below.
 
 장비 리로드는 아래 위치에서 진행할 수 있습니다.
 
-* [로튼힐](../../field-info/rotten-hill/) > [마법 상점](../../field-info/rotten-hill/magic-shop/) > [NPC **바르바토스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)
+* [로튼힐](../../field-info/rotten-hill/) > [마법 상점](../../field-info/rotten-hill/magic-shop/) > [**NPC 바르바토스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#the-weapon-reload-smith)
 
 바르바토스와 대화하면 장비 리로드를 진행할 수 있습니다.
 
@@ -153,7 +153,7 @@ The materials required for each Reload type can be checked below.
 
 装備リロードは、以下の場所で行うことができます。
 
-* [ロッテンヒル](../../field-info/rotten-hill/) ＞ [魔法ショップ](../../field-info/rotten-hill/magic-shop/) ＞ [NPC **バルバトス**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#barbatos-barubatosu)
+* [ロッテンヒル](../../field-info/rotten-hill/) ＞ [魔法ショップ](../../field-info/rotten-hill/magic-shop/) ＞ [**NPC バルバトス**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#the-weapon-reload-smith)
 
 バルバトスと会話すると、装備リロードを進行できます。
 

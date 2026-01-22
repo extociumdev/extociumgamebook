@@ -18,7 +18,7 @@ you can create a battle strategy that’s uniquely yours.
 
 💡 Grow your Heroes, discover the optimal combinations, and unleash even greater combat potential.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -60,32 +60,28 @@ For more details on Hero progression, please refer to the guide below.
 
 #### 🌟&#x20;
 
-Heroes are the heart of combat in **EXTOCIUM**.\
-How you grow them will change the flow of battle\
-and reshape the battlefield entirely.
-
-Now, it’s time.\
-Start growing **your own Hero**.
+> Heroes are the heart of combat in **EXTOCIUM**.\
+> How you grow them will change the flow of battle\
+> and reshape the battlefield entirely.\
+> Now, it’s time.\
+> Start growing **your own Hero**.
 {% endtab %}
 
 {% tab title="한국어" %}
 ### ⚔️ HEROES – 전투의 중심
 
-EXTOCIUM의 전투는\
-**영웅(Hero)** 을 어떻게 키우느냐에 따라 완전히 달라집니다.
+EXTOCIUM의 전투는 **영웅(Hero)** 을 어떻게 키우느냐에 따라 완전히 달라집니다.
 
 영웅은
 
 * 다양한 **스탯**과
-* **장비**, **스킬** 조합을 통해\
-  전투 능력을 크게 성장시킬 수 있습니다.
+* **장비**, **스킬** 조합을 통해 전투 능력을 크게 성장시킬 수 있습니다.
 
-전투 스탯과 스페셜 스탯을 잘 조합해 \
-**나만의 전투 전략**을 만들어 보세요.
+전투 스탯과 스페셜 스탯을 잘 조합해  **나만의 전투 전략**을 만들어 보세요.
 
 💡 영웅을 성장시키고, 최적의 조합을 찾아 더 강력한 전투력을 발휘할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -97,8 +93,7 @@ EXTOCIUM에는 크게 **두 종류의 영웅**이 존재합니다.
 
 #### 1️⃣ [트라이얼 영웅 (Trial Hero)](../../beginners-guide/rookie-lock-system/trial-hero.md#undefined-1)
 
-트라이얼 영웅은\
-**계정 생성 시 기본으로 제공되는 영웅**입니다.
+트라이얼 영웅은 **계정 생성 시 기본으로 제공되는 영웅**입니다.
 
 * 계정에 귀속됩니다.
 * **2개의 스킬을 직접 선택**할 수 있습니다.
@@ -108,8 +103,7 @@ EXTOCIUM에는 크게 **두 종류의 영웅**이 존재합니다.
 
 #### 2️⃣ [NFT 영웅 (Summoned NFT Hero)](../../beginners-guide/nft-minting-guide/hero-nft.md#undefined-1)
 
-NFT 영웅은\
-**소환, 거래, 민팅** 등을 통해 획득하는 영웅입니다.
+NFT 영웅은 **소환, 거래, 민팅** 등을 통해 획득하는 영웅입니다.
 
 * 모든 NFT 영웅은 **NFT 형태**로 제공됩니다.
 * **2개의 스킬이 랜덤으로 부여**됩니다.
@@ -127,20 +121,15 @@ NFT 영웅은\
 
 #### 🌟&#x20;
 
-영웅은 EXTOCIUM 전투의 핵심입니다.
-
-영웅을 어떻게 성장시키느냐에 따라\
-전투의 흐름이 바뀌고, 전장은 완전히 다른 모습이 됩니다.
-
-지금부터\
-**당신만의 영웅을 성장시켜 보세요.**
+> 영웅은 EXTOCIUM 전투의 핵심입니다.\
+> 영웅을 어떻게 성장시키느냐에 따라 전투의 흐름이 바뀌고, 전장은 완전히 다른 모습이 됩니다.\
+> 지금부터 **당신만의 영웅을 성장시켜 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
 ### ⚔️ HEROES（ヒーロー）– 戦闘の中心
 
-**EXTOCIUM**の戦闘は、\
-**ヒーローをどのように育成するか**によって大きく変化します。
+**EXTOCIUM**の戦闘は、**ヒーローをどのように育成するか**によって大きく変化します。
 
 ヒーローは
 
@@ -154,7 +143,7 @@ NFT 영웅은\
 💡 ヒーローを育成し、最適な組み合わせを見つけることで、\
 より強力な戦闘力を発揮できます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -166,8 +155,7 @@ NFT 영웅은\
 
 #### 1️⃣ [トライアルヒーロー（Trial Hero）](../../beginners-guide/rookie-lock-system/trial-hero.md#ri-ben-yu)
 
-トライアルヒーローは、\
-アカウント作成時に基本で提供されるヒーローです。\
+トライアルヒーローは、アカウント作成時に基本で提供されるヒーローです。\
 アカウントに紐づいています。
 
 * **2つのスキルを自由に選択可能**
@@ -179,8 +167,7 @@ NFT 영웅은\
 
 #### 2️⃣ [NFTヒーロー（Summoned NFT Hero）](../../beginners-guide/nft-minting-guide/hero-nft.md#ri-ben-yu)
 
-NFTヒーローは、\
-**召喚・取引・ミンティング**などを通じて獲得できます。\
+NFTヒーローは、**召喚・取引・ミンティング**などを通じて獲得できます。\
 すべてNFT形式で提供されます。
 
 * **2つのスキルはランダムで付与**
@@ -199,11 +186,8 @@ NFTヒーローは、\
 
 #### 🌟&#x20;
 
-ヒーローは **EXTOCIUMの戦闘の要**です。\
-育成方法ひとつで戦況は変わり、\
-戦場はまったく違う姿を見せるでしょう。
-
-さあ、\
-あなただけのヒーローを育ててみてください。
+> ヒーローは **EXTOCIUMの戦闘の要**です。\
+> 育成方法ひとつで戦況は変わり、戦場はまったく違う姿を見せるでしょう。\
+> さあ、あなただけのヒーローを育ててみてください。
 {% endtab %}
 {% endtabs %}

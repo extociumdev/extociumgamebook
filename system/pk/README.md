@@ -90,7 +90,7 @@ PK Level can be reduced in the following ways:
 
 * While standing still in a **safe zone**, PK Level decreases by **1 every 30 minutes**.
 * You can also reduce your PK Level immediately\
-  by paying gold and items to the town [NPC **“Niberius.”**](../../field-info/rotten-hill/npc-rotten-hill.md#niberius-niberiusu)
+  by paying gold and items to the town [**NPC “Niberius.”**](../../field-info/rotten-hill/npc-rotten-hill.md#pk-contract-broker)
 
 <figure><img src="../../.gitbook/assets/image (998).png" alt=""><figcaption></figcaption></figure>
 
@@ -202,7 +202,7 @@ PK 레벨이 높은 상태에서 몬스터 또는 다른 유저에게 사망할 
 PK 레벨을 감소시키는 방법은 다음과 같습니다.
 
 * 안전지대에서 제자리에 멈춰 서 있을 경우, **30분마다 PK 레벨이 1씩 감소**합니다.
-* 마을의 [NPC **‘니베리우스’**](../../field-info/rotten-hill/npc-rotten-hill.md#niberius-niberiusu)에게 골드와 아이템을 지불하여 PK 레벨을 즉시 감소시킬 수 있습니다.
+* 마을의 [**NPC ‘니베리우스’**](../../field-info/rotten-hill/npc-rotten-hill.md#pk-contract-broker)에게 골드와 아이템을 지불하여 PK 레벨을 즉시 감소시킬 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (998).png" alt=""><figcaption></figcaption></figure>
 
@@ -316,7 +316,7 @@ PKレベルが高い状態で モンスターまたは他のプレイヤーに�
 PKレベルは以下の方法で減少させることができます。
 
 * **安全地帯**でその場に留まると、**30分ごとにPKレベルが1減少**します。
-* 街の[NPC **「ニベリウス」**](../../field-info/rotten-hill/npc-rotten-hill.md#niberius-niberiusu)に ゴールドとアイテムを支払うことで、\
+* 街の[**NPC 「ニベリウス」**](../../field-info/rotten-hill/npc-rotten-hill.md#pk-contract-broker)に ゴールドとアイテムを支払うことで、\
   PKレベルを即座に減少させることも可能です。
 
 <figure><img src="../../.gitbook/assets/image (998).png" alt=""><figcaption></figcaption></figure>

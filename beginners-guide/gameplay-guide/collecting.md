@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🍎 Collecting
 
+<figure><img src="../../.gitbook/assets/Btn_Collect.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ## 🌿 Collecting Guide
@@ -11,20 +13,19 @@ description: 🛑 Information on this page may differ from the current in-game d
 Can anyone collect plants and ores in the field right away?\
 Not quite.
 
-In **EXTOCIUM**, collecting is an action\
-that must be **learned first**.
+In **EXTOCIUM**, collecting is an action that must be **learned first**.
 
 ***
 
 ### ◾ Before You Start
 
-To begin collecting,\
-you must first learn collecting skills through [**Training**](training.md#training-guide).
-
+To begin collecting, you must first learn collecting skills through [**Training**](training.md#training-guide).\
 Learning skills requires [**TP (Training Points)**](training.md#what-is-tp-training-point).
 
 TP can be obtained by hunting monsters.\
 Look for the **blue coins** dropped on the ground after defeating them.
+
+<figure><img src="../../.gitbook/assets/Icon_TP (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -73,8 +74,7 @@ you can use the **Auto Collecting** feature.
 With Auto Collecting enabled,\
 your character will automatically gather nearby resources.
 
-For details on how to set it up,\
-please refer to the related UI guide.
+For details on how to set it up, please refer to the related UI guide.
 
 <figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
 
@@ -93,8 +93,7 @@ please refer to the related UI guide.
 {% tab title="한국어" %}
 ## 🌿 채집 가이드
 
-필드에 있는 풀과 광물,\
-아무나 바로 채집할 수 있을까요?&#x20;
+필드에 있는 풀과 광물, 아무나 바로 채집할 수 있을까요?&#x20;
 
 아닙니다.\
 EXTOCIUM에서 채집은 **배워야 할 수 있는 행동**입니다.
@@ -103,13 +102,12 @@ EXTOCIUM에서 채집은 **배워야 할 수 있는 행동**입니다.
 
 ### ◾ 먼저 알아두세요
 
-채집을 하려면 [**기술 연마(Training)**](training.md#undefined-2)를 통해\
-채집 기술을 먼저 배워야 합니다.
-
+채집을 하려면 [**기술 연마(Training)**](training.md#undefined-2)를 통해 채집 기술을 먼저 배워야 합니다.\
 기술을 배우기 위해서는 [**TP(Training Point)**](training.md#tp-training-point)가 필요합니다.
 
-TP는 몬스터를 사냥하다 보면\
-바닥에 떨어진 **파란색 동전**으로 획득할 수 있습니다.
+TP는 몬스터를 사냥하다 보면 바닥에 떨어진 **파란색 동전**으로 획득할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/Icon_TP.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -152,14 +150,10 @@ TP는 몬스터를 사냥하다 보면\
 
 ### ◾ 자동 채집
 
-같은 재료를 여러 번 채집해야 할 때는\
-**자동 채집 기능**을 사용할 수 있습니다.
+같은 재료를 여러 번 채집해야 할 때는 **자동 채집 기능**을 사용할 수 있습니다.\
+자동 채집을 설정하면 캐릭터가 주변 채집물을 자동으로 수집합니다.
 
-자동 채집을 설정하면\
-캐릭터가 주변 채집물을 자동으로 수집합니다.
-
-자동 채집 설정 방법은\
-관련 UI 안내를 참고하시기 바랍니다.
+자동 채집 설정 방법은 관련 UI 안내를 참고하시기 바랍니다.
 
 <figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
 
@@ -178,26 +172,21 @@ TP는 몬스터를 사냥하다 보면\
 {% tab title="日本語" %}
 ## 🌿 採集ガイド
 
-フィールドにある草や鉱石は、\
-誰でもすぐに採集できるのでしょうか？\
+フィールドにある草や鉱石は、誰でもすぐに採集できるのでしょうか？\
 いいえ、できません。
 
-**EXTOCIUM**では、\
-採集は**学んでから行う行動**です。
+**EXTOCIUM**では、採集は**学んでから行う行動**です。
 
 ***
 
 ### ◾ まず知っておきましょう
 
-採集を行うには、\
-[**技術研磨（Training）**](training.md#gaido)で\
-採集スキルを先に習得する必要があります。
+採集を行うには、[**技術研磨（Training）**](training.md#gaido)で 採集スキルを先に習得する必要があります。\
+スキルを習得するには [**TP（Training Point）**](training.md#tptraining-pointtoha)が必要です。
 
-スキルを習得するには\
-[**TP（Training Point）**](training.md#tptraining-pointtoha)が必要です。
+TPはモンスターを倒すと、地面に落ちる**青いコイン**として獲得できます。
 
-TPはモンスターを倒すと、\
-地面に落ちる**青いコイン**として獲得できます。
+<figure><img src="../../.gitbook/assets/Icon_TP (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -233,21 +222,16 @@ TPを使用すると、対応する採集が可能になります。
 
 <figure><img src="../../.gitbook/assets/image (957).png" alt=""><figcaption></figcaption></figure>
 
-ボタンをタップすると採集が開始され、\
-完了すると素材アイテムを獲得できます。
+ボタンをタップすると採集が開始され、完了すると素材アイテムを獲得できます。
 
 ***
 
 ### ◾ 自動採集
 
-同じ素材を何度も採集する場合は、\
-**自動採集機能**を利用できます。
+同じ素材を何度も採集する場合は、**自動採集機能**を利用できます。\
+自動採集を設定すると、キャラクターが周囲の採集物を自動で集めます。
 
-自動採集を設定すると、\
-キャラクターが周囲の採集物を自動で集めます。
-
-設定方法の詳細は、\
-関連するUIガイドをご確認ください。
+設定方法の詳細は、関連するUIガイドをご確認ください。
 
 <figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
 

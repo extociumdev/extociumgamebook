@@ -35,11 +35,11 @@ This page explains how **Hero Synthesis** works and the rules you need to know.
 
 Hero Synthesis can be accessed at the following location:
 
-* Rottenhill > Magic Shop > **Ashurbanipal Library**
+* Rottenhill > [Magic Shop](../../field-info/rotten-hill/magic-shop/) > [**Ashurbanipal Library**](../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/화면 캡처 2026-01-06 135716.png" alt=""><figcaption></figcaption></figure></div>
 
-Among the four NPCs in the Ashurbanipal Library, talk to **Chavakiah**.
+Among the four NPCs in the Ashurbanipal Library, talk to [**Chavakiah**](../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-weaver-of-synthesis).
 
 <figure><img src="../../.gitbook/assets/gk1.png" alt=""><figcaption></figcaption></figure>
 
@@ -140,11 +140,11 @@ EXTOCIUM의 모든 영웅 NFT에는 [**베이스 스탯**](../heroes/basic-heroe
 
 영웅 합성은 아래 위치에서 진행할 수 있습니다.
 
-* 로튼힐 > 마법 상점 > **아슈르바니팔 도서관**
+* 로튼힐 > [마법 상점](../../field-info/rotten-hill/magic-shop/) > [**아슈르바니팔 도서관**](../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/화면 캡처 2026-01-06 135716.png" alt=""><figcaption></figcaption></figure></div>
 
-아슈르바니팔 도서관에 있는 4명의 NPC 중 ‘차바키아’와 대화하세요.
+아슈르바니팔 도서관에 있는 4명의 NPC 중 ‘[**차바키아**](../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-weaver-of-synthesis)’와 대화하세요.
 
 <figure><img src="../../.gitbook/assets/gk1.png" alt=""><figcaption></figcaption></figure>
 
@@ -247,11 +247,11 @@ EXTOCIUMのすべてのヒーローNFTには [**ベースステータス**](../h
 
 ヒーロー合成は、以下の場所で行うことができます。
 
-* ロトンヒル > 魔法ショップ > **アシュルバニパル図書館**
+* ロトンヒル > [魔法ショップ](../../field-info/rotten-hill/magic-shop/) > [**アシュルバニパル図書館**](../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/화면 캡처 2026-01-06 135716.png" alt=""><figcaption></figcaption></figure></div>
 
-アシュルバニパル図書館にいる 4人のNPCのうち、**チャバキア**と会話してください。
+アシュルバニパル図書館にいる 4人のNPCのうち、[**チャバキア**](../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-weaver-of-synthesis)と会話してください。
 
 <figure><img src="../../.gitbook/assets/gk1.png" alt=""><figcaption></figcaption></figure>
 

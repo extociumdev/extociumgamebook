@@ -84,7 +84,7 @@
     * [🍒 Earring](growth/equipment/accessories/earring.md)
   * [🧰 Care](growth/equipment-care/README.md)
     * [🔁 Reload Equipment](growth/equipment-care/reload-weapon.md)
-    * [💔 Equipment destruction](growth/equipment-care/equipment-destruction.md)
+    * [💥 Equipment destruction](growth/equipment-care/equipment-destruction.md)
 * [✡️ Enchantment](growth/enchantment/README.md)
   * [1️⃣ Weapon Enchantment](growth/enchantment/weapon-enchantment.md)
   * [2️⃣ Orb Enchantment](growth/enchantment/orb-enchantment.md)

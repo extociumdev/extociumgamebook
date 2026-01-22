@@ -2,7 +2,7 @@
 description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
-# 💔 Equipment destruction
+# 💥 Equipment destruction
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -28,7 +28,7 @@ These two systems are separate and should not be confused.
 
 Equipment Destruction can be performed at the following location.
 
-* [Rottenhill](../../field-info/rotten-hill/) > [Magic Shop](../../field-info/rotten-hill/magic-shop/) > [NPC **Eligos**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)
+* [Rottenhill](../../field-info/rotten-hill/) > [Magic Shop](../../field-info/rotten-hill/magic-shop/) > [**NPC Eligos**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#the-breaker-of-arms)
 
 ***
 
@@ -96,7 +96,7 @@ The item drop probabilities for Rune Destruction can be checked on the page belo
 
 장비 파괴는 아래 위치에서 진행할 수 있습니다.
 
-* [로튼힐](../../field-info/rotten-hill/) > [마법 상점](../../field-info/rotten-hill/magic-shop/) > [NPC **엘리고스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)
+* [로튼힐](../../field-info/rotten-hill/) > [마법 상점](../../field-info/rotten-hill/magic-shop/) > [**NPC 엘리고스**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#the-breaker-of-arms)
 
 ***
 
@@ -165,7 +165,7 @@ The item drop probabilities for Rune Destruction can be checked on the page belo
 
 装備破壊は、以下の場所で行うことができます。
 
-* [ロッテンヒル](../../field-info/rotten-hill/) ＞ [魔法ショップ](../../field-info/rotten-hill/magic-shop/) ＞ [NPC **エリゴス**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#eligos-eregosu)
+* [ロッテンヒル](../../field-info/rotten-hill/) ＞ [魔法ショップ](../../field-info/rotten-hill/magic-shop/) ＞ [**NPC エリゴス**](../../field-info/rotten-hill/magic-shop/npc-magic-shop.md#the-breaker-of-arms)
 
 ***
 

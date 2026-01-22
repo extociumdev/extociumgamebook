@@ -31,7 +31,7 @@ After the match ends, they are sent to your **Mailbox**.
 1️⃣ After the match ends, open your **Mailbox**.\
 2️⃣ **Claim the winning tickets** from the mail.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -80,7 +80,7 @@ Rabbit Rush에서 승리하면 👉 **승리한 색깔의 티켓**을 획득합�
 1️⃣ 게임 종료 후, **우편함을 확인합니다.**\
 2️⃣ 우편함에서 **승리 티켓을 수령**합니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -128,7 +128,7 @@ Rabbit Rushで勝利すると、👉 **勝利したカラーのチケット** �
 1️⃣ 試合終了後、**メールボックス** を確認します。\
 2️⃣ メールボックスから **勝利チケットを受け取ります**。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

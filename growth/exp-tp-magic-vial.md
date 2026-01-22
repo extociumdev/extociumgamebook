@@ -23,7 +23,7 @@ use them on other Heroes when needed, or trade them on the Market.
 
 EXP / TP Magic Vials can be used at the following location.
 
-* [Rottenhill](../field-info/rotten-hill/) > [Magic Shop](../field-info/rotten-hill/magic-shop/) > [NPC **Amonas**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#amonas-amonasu)
+* [Rottenhill](../field-info/rotten-hill/) > [Magic Shop](../field-info/rotten-hill/magic-shop/) > [**NPC Amonas**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#alchemist-of-the-magic-shop)
 
 <figure><img src="../.gitbook/assets/ex1.png" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +90,7 @@ EXP / TP 마법 호리병은 영웅의 **EXP 또는 TP를 저장하거나 거래
 
 EXP / TP 마법 호리병은 아래 위치에서 사용할 수 있습니다.
 
-* [로튼힐](../field-info/rotten-hill/) > [마법 상점](../field-info/rotten-hill/magic-shop/) > [NPC **아모나스**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#amonas-amonasu)
+* [로튼힐](../field-info/rotten-hill/) > [마법 상점](../field-info/rotten-hill/magic-shop/) > [**NPC 아모나스**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#alchemist-of-the-magic-shop)
 
 <figure><img src="../.gitbook/assets/ex1.png" alt=""><figcaption></figcaption></figure>
 
@@ -155,7 +155,7 @@ EXP / TP 魔法の壺は、ヒーローの **EXP または TP を保存・取引
 
 EXP / TP 魔法の壺は、以下の場所で使用できます。
 
-* [ロッテンヒル](../field-info/rotten-hill/) ＞ [魔法ショップ](../field-info/rotten-hill/magic-shop/) ＞ [NPC **アモナス**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#amonas-amonasu)
+* [ロッテンヒル](../field-info/rotten-hill/) ＞ [魔法ショップ](../field-info/rotten-hill/magic-shop/) ＞ [**NPC アモナス**](../field-info/rotten-hill/magic-shop/npc-magic-shop.md#alchemist-of-the-magic-shop)
 
 <figure><img src="../.gitbook/assets/ex1.png" alt=""><figcaption></figcaption></figure>
 
