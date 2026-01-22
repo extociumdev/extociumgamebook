@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🍷 Clientelas Lobby
@@ -8,132 +8,240 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🏛 **Clientelas Lobby – Where Connections Begin**
+### 🏛  Clientelas Lobby
 
-Welcome to the **Clientelas Lobby**—the central hub for all things club-related.\
-This is where Wizards can **find their community**, form lasting bonds,\
-and unlock powerful bonuses through club-based features.
+The Clientelas Lobby is a community space\
+where adventurers begin forming connections and building relationships.
 
-***
-
-#### 🚪 How to Enter
-
-There are two easy ways to access the Clientelas Lobby:
-
-1️⃣ **Enter via the portal in the southwest area of The Rusty Tankard**
-
-<figure><img src="../../../.gitbook/assets/bb6 (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-2️⃣ **Click the ‘Clientelas Lobby’ button from the main HUD**
-
-<figure><img src="../../../.gitbook/assets/cc1.png" alt="" width="478"><figcaption></figcaption></figure>
+Here, adventurers can join clubs, set up patron relationships with other players,\
+and start engaging in a variety of community activities within EXTOCIUM.
 
 ***
 
-#### 🧙 Learn More About Club NPCs
+### ◾ How to Enter
 
-Curious about the NPCs that run the club system?\
-👉 [Click here for Club NPC Info](npc-clientelas.md#eng)
+You can enter the Clientellas Lobby using one of the methods below.\
+Choose the option that works best for you.
 
-#### 🏛 **Club Lobby Main Features**
+1️⃣ Use the portal located at the **southwest side of The Rusty Tankard**
 
-🔹 [**Create & Join a Club**](../../../clientelas-club/club/#eng) – Talk to **Sitael** to establish or join an existing club\
-🔹 [**Manage Patrons & Clients**](../../../clientelas-club/patron-and-client.md#eng) – Speak with **Hagiel** to **use referral codes, form sponsorships, and earn extra Gold bonuses**\
-🔹 [**Enter Club Room**](../../../clientelas-club/club/join.md#eng) – Access your club’s exclusive space
+<figure><img src="../../../.gitbook/assets/rt5 (4).png" alt=""><figcaption></figcaption></figure>
 
-💡 **Find your place and build strong connections at the Clientelas Club Lobby!**
+2️⃣ Select **“Clientellas Lobby”** from the top menu of the Main HUD
+
+<figure><img src="../../../.gitbook/assets/cc1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-**Adventure is powerful alone—but it’s even greater with allies.**\
-Step into the lobby, and claim your place in the world of Extocium. ✨
+### ◾ Key NPCs
 
+The Clientellas Lobby is home to NPCs who manage various community-related features,\
+including club activities and patron relationships.
 
+Through these NPCs, adventurers can\
+choose an affiliation or form special connections with other players.
+
+👇 For detailed NPC information, please refer to **NPC – Clientelas**.
+
+{% content-ref url="npc-clientelas.md" %}
+[npc-clientelas.md](npc-clientelas.md)
+{% endcontent-ref %}
+
+***
+
+### ◾ Main Features of the Clientelas Lobby
+
+#### 🔹 Create & Join Clubs
+
+* Talk to **NPC Sitael** to create a new club or join an existing one.
+
+{% content-ref url="../../../clientelas-club/club/" %}
+[club](../../../clientelas-club/club/)
+{% endcontent-ref %}
+
+***
+
+#### 🔹 Patron & Client Management
+
+* Speak with **NPC Haziel** to set up a patron relationship using a referral code.
+* Forming a patron relationship grants additional Gold bonuses.
+
+{% content-ref url="../../../clientelas-club/patron-and-client.md" %}
+[patron-and-client.md](../../../clientelas-club/patron-and-client.md)
+{% endcontent-ref %}
+
+***
+
+#### 🔹 Enter the Club Room
+
+* Move to your club’s exclusive space, the **Club Room**, if you are a club member.
+
+<figure><img src="../../../.gitbook/assets/cc10.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ✨
+
+> **The Clientelas Lobby is the starting point for adventures shared with others.**\
+> **Solo journeys have their charm, but with companions,** \
+> **the road stretches even further.**
+>
+> **Your place begins here.**
 {% endtab %}
 
 {% tab title="한국어" %}
-### 🏛 클리엔텔라스 로비 – 유대의 시작
+### 🏛 클리엔텔라스 로비 (Clientellas Lobby)
 
-클럽 활동의 중심지, \*\*클리엔텔라스 로비(Clientellas Lobby)\*\*에 오신 걸 환영합니다.\
-이곳은 위자드님이 **자신의 소속을 찾고, 유대를 맺으며**\
-엑스토시움 속에서 더 강력한 커뮤니티 활동을 시작할 수 있는 특별한 공간이에요.
+클리엔텔라스 로비는 **모험가들이 관계를 맺고 교류를 시작하는 커뮤니티 공간**입니다.
 
-***
-
-#### 🚪 입장 방법
-
-클리엔텔라스 로비에 들어가는 방법은 두 가지예요.\
-가장 편한 경로로 진입해 보세요!
-
-1️⃣ **녹슨 술잔 남서쪽에 위치한 포털을 통해 입장**
-
-<figure><img src="../../../.gitbook/assets/bb6 (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-2️⃣ **메인 HUD의 상단 메뉴에서 ‘클리엔텔라스 로비’ 버튼 클릭**
-
-<figure><img src="../../../.gitbook/assets/cc1.png" alt="" width="478"><figcaption></figcaption></figure>
+이곳에서 모험가는 클럽에 가입하거나, 다른 모험가와 후원 관계를 맺는 등\
+엑스토시움 속 다양한 커뮤니티 활동을 시작할 수 있습니다.
 
 ***
 
-#### 🧙 클럽 관련 NPC 안내
+### ◾ 입장 방법
 
-클럽 기능과 NPC 정보가 궁금하다면?\
-👉 [클럽 NPC 정보 바로가기](npc-clientelas.md#undefined-1)
+클리엔텔라스 로비에는 아래 두 가지 방법으로 입장할 수 있습니다.\
+편한 방법을 선택해 주세요.
 
-#### 🏛 **클럽 로비 주요 기능**
+1️⃣ **녹슨 술잔 남서쪽에 위치한 포털 이용**
 
-🔹 [**클럽 창설 & 가입**](../../../clientelas-club/club/#undefined-1) – **시타엘**을 통해 클럽을 만들거나 기존 클럽에 가입 가능\
-🔹 [**페이트론 & 클라이언트 관리**](../../../clientelas-club/patron-and-client.md#undefined-1) – **하지엘**과 대화하여 **레퍼럴 코드로 후원 관계를 맺고 추가 골드 보너스 획득**\
-🔹 [**클럽 룸 입장**](../../../clientelas-club/club/join.md#undefined-1) – 소속된 클럽의 전용 공간으로 이동
+<figure><img src="../../../.gitbook/assets/rt5 (4).png" alt=""><figcaption></figcaption></figure>
 
-💡 **클리엔탈라스 클럽 로비에서 소속을 찾고, 강한 유대를 만들어보세요!**
+2️⃣ **메인 HUD 상단 메뉴에서 ‘클리엔텔라스 로비’ 버튼 선택**
+
+<figure><img src="../../../.gitbook/assets/cc1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-**혼자만의 모험도 멋지지만, 함께할 동료가 있다면 더 강해질 수 있어요.**\
-지금, 클럽 로비에서 당신의 자리를 찾아보세요! 🛡️✨
+### ◾ 주요 NPC 안내
+
+클리엔텔라스 로비에는 **클럽 활동과 후원 관계 설정 등**,\
+다양한 커뮤니티 기능을 담당하는 NPC들이 모여 있습니다.\
+이곳의 NPC를 통해 소속을 정하거나, 다른 위자드와 특별한 관계를 맺을 수 있습니다.
+
+👇 자세한 NPC 정보는 아래 **NPC - 클리엔텔라스** 안내를 참고해 주세요.
+
+{% content-ref url="npc-clientelas.md" %}
+[npc-clientelas.md](npc-clientelas.md)
+{% endcontent-ref %}
+
+***
+
+### ◾ 클리엔텔라스 로비 주요 기능
+
+#### 🔹 클럽 창설 & 가입
+
+* NPC **시타엘**을 통해 새로운 클럽을 만들거나 이미 존재하는 클럽에 가입할 수 있습니다.
+
+{% content-ref url="../../../clientelas-club/club/" %}
+[club](../../../clientelas-club/club/)
+{% endcontent-ref %}
+
+***
+
+#### 🔹 페이트론 & 클라이언트 관리
+
+* NPC **하지엘**과 대화하여 레퍼럴 코드를 사용한 후원 관계를 설정할 수 있습니다.
+* 후원 관계를 맺으면 추가 골드 보너스를 획득할 수 있습니다.
+
+{% content-ref url="../../../clientelas-club/patron-and-client.md" %}
+[patron-and-client.md](../../../clientelas-club/patron-and-client.md)
+{% endcontent-ref %}
+
+***
+
+#### 🔹 클럽 룸 입장
+
+* 자신이 소속된 클럽의 전용 공간인 **클럽 룸**으로 이동할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/cc10.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ✨
+
+> **클리엔텔라스 로비는 혼자가 아닌, 함께하는 모험의 시작점입니다.**\
+> **혼자서 떠나는 모험도 좋지만, 동료와 함께라면 더 넓은 길을 걸을 수 있습니다.**\
+> **당신의 자리는, 이곳에서 시작됩니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 🏛**クライエンテラス・ロビー – 絆が始まる場所**
+### 🏛 클리엔텔라스 로비 (Clientellas Lobby)
 
-ようこそ、**クライエンテラス・ロビー（Clientelas Lobby）へ。**\
-**ここは、クラブ関連のすべてが集まる中心地です。**\
-**ウィザード様が自分の所属先を見つけ、信頼関係を築く**ための特別な場所となっています。
+클리엔텔라스 로비는 **모험가들이 관계를 맺고 교류를 시작하는 커뮤니티 공간**입니다.
 
-***
-
-#### 🚪 入場方法
-
-クライエンテラス・ロビーへは、以下の2つの方法で入場できます：
-
-1️⃣ **The Rusty Tankardの南西エリアにあるポータルから入場**
-
-<figure><img src="../../../.gitbook/assets/bb6 (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-2️⃣ **メインHUD上部の「Clientelas Lobby」ボタンをクリック**
-
-<figure><img src="../../../.gitbook/assets/cc1.png" alt="" width="478"><figcaption></figcaption></figure>
+이곳에서 모험가는 클럽에 가입하거나, 다른 모험가와 후원 관계를 맺는 등\
+엑스토시움 속 다양한 커뮤니티 활동을 시작할 수 있습니다.
 
 ***
 
-#### 🧙 クラブNPCの情報はこちら
+### ◾ 입장 방법
 
-クラブ関連のNPCが気になる方は、こちらをご確認ください：\
-👉 [クラブNPC情報を見る](npc-clientelas.md#ri-ben-yu)
+클리엔텔라스 로비에는 아래 두 가지 방법으로 입장할 수 있습니다.\
+편한 방법을 선택해 주세요.
 
-#### 🏛 **クラブロビーの主な機能**
+1️⃣ **녹슨 술잔 남서쪽에 위치한 포털 이용**
 
-🔹 [**クラブ創設＆加入**](../../../clientelas-club/club/#ri-ben-yu) – **シタエル**に話しかけてクラブを作成・加入\
-🔹 [**パトロン＆クライアント管理**](../../../clientelas-club/patron-and-client.md#ri-ben-yu) – **ハジエル**と会話して、**リファラルコードを使い、支援関係を結び、追加ゴールドボーナスを獲得**\
-🔹 [**クラブルーム入場** ](../../../clientelas-club/club/join.md#ri-ben-yu)– 所属クラブの専用スペースへ移動
+<figure><img src="../../../.gitbook/assets/rt5 (4).png" alt=""><figcaption></figcaption></figure>
 
-💡 **クリエンタラス・クラブロビーで仲間を見つけ、強い絆を築こう！**
+2️⃣ **메인 HUD 상단 메뉴에서 ‘클리엔텔라스 로비’ 버튼 선택**
+
+<figure><img src="../../../.gitbook/assets/cc1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-**一人での冒険も良いですが、仲間がいればもっと強くなれます。**\
-今すぐクラブロビーで、あなたの居場所を見つけてくださいね 🛡️✨
+### ◾ 주요 NPC 안내
+
+클리엔텔라스 로비에는 **클럽 활동과 후원 관계 설정 등**,\
+다양한 커뮤니티 기능을 담당하는 NPC들이 모여 있습니다.\
+이곳의 NPC를 통해 소속을 정하거나, 다른 위자드와 특별한 관계를 맺을 수 있습니다.
+
+👇 자세한 NPC 정보는 아래 **NPC - 클리엔텔라스** 안내를 참고해 주세요.
+
+{% content-ref url="npc-clientelas.md" %}
+[npc-clientelas.md](npc-clientelas.md)
+{% endcontent-ref %}
+
+***
+
+### ◾ 클리엔텔라스 로비 주요 기능
+
+#### 🔹 클럽 창설 & 가입
+
+* NPC **시타엘**을 통해 새로운 클럽을 만들거나 이미 존재하는 클럽에 가입할 수 있습니다.
+
+{% content-ref url="../../../clientelas-club/club/" %}
+[club](../../../clientelas-club/club/)
+{% endcontent-ref %}
+
+***
+
+#### 🔹 페이트론 & 클라이언트 관리
+
+* NPC **하지엘**과 대화하여 레퍼럴 코드를 사용한 후원 관계를 설정할 수 있습니다.
+* 후원 관계를 맺으면 추가 골드 보너스를 획득할 수 있습니다.
+
+{% content-ref url="../../../clientelas-club/patron-and-client.md" %}
+[patron-and-client.md](../../../clientelas-club/patron-and-client.md)
+{% endcontent-ref %}
+
+***
+
+#### 🔹 클럽 룸 입장
+
+* 자신이 소속된 클럽의 전용 공간인 **클럽 룸**으로 이동할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/cc10.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ✨
+
+> **클리엔텔라스 로비는 혼자가 아닌, 함께하는 모험의 시작점입니다.**\
+> **혼자서 떠나는 모험도 좋지만, 동료와 함께라면 더 넓은 길을 걸을 수 있습니다.**\
+> **당신의 자리는, 이곳에서 시작됩니다.**
 {% endtab %}
 {% endtabs %}
 
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 22, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

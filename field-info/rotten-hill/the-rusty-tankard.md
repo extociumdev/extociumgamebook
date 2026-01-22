@@ -4,8 +4,6 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🍺 The Rusty Tankard
 
-<figure><img src="../../.gitbook/assets/KakaoTalk_20240529_153003040_08.png" alt=""><figcaption></figcaption></figure>
-
 {% tabs %}
 {% tab title="ENG" %}
 ### 🍻 The Rusty Tankard

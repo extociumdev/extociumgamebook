@@ -68,7 +68,7 @@ All club-related features can be accessed from the Clientelas Lobby.
 * **페이트론 & 클라이언트 관리**
 * **클럽 룸 입장**
 
-**함께할 동료를 찾고, 강력한 커뮤니티를 만들어보세요!**
+**함께할 동료를 찾고, 강력한 커뮤니티를 만들어보세요!ㄴㅁ**
 {% endtab %}
 
 {% tab title="日本語" %}
