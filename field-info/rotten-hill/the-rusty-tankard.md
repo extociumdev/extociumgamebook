@@ -8,254 +8,313 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🍻 Welcome to **The Rusty Tankard**
+### 🍻 The Rusty Tankard
 
-Tucked away in **Rotten Hill**,\
-**The Rusty Tankard** may look like an ordinary pub…\
-but inside, you'll find a **friendly battle zone**,\
-**portals to major game content**, and even some chatty NPCs with stories to tell.
+The Rusty Tankard is a small tavern located in Rotten Hill.\
+At first glance, it may seem like a simple place to rest,\
+but it actually serves as an important hub for combat practice\
+and access to various game contents.
 
-***
+Here, you can spar with friends, move to multiple content waiting rooms,\
+and soak in the world’s atmosphere through NPC conversations.
 
-#### 🗺️ How to Get There
-
-The entrance is **right next to Porter Mebahel** at the Rotten Hill village entrance.\
-It’s easy to miss, so keep an eye out for the hidden path beside the stone walkway.
-
-<figure><img src="../../.gitbook/assets/bb1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ⚔️Battle Zone – Friendly PvP
+### ◾ Location
 
-Inside the pub, you’ll find a **small PvP zone** where you can\
-spar with friends, test skill builds, or simply have fun without pressure.
+* Rotten Hill, right next to the porter NPC **Mebahel**
 
-<figure><img src="../../.gitbook/assets/bb2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🌀 Portals – Your Gateway to Game Modes
+### ◾ Battle Zone
 
-**1. Frost War Waiting Room**
+Inside the Rusty Tankard, you’ll find a small combat training area.
 
-_Mini-scale siege battle!_\
-Team-based PvP with tight spaces and intense strategy.
+* Practice mock battles with friends
+* Test different skill combinations
+* Check weapon performance
 
-<figure><img src="../../.gitbook/assets/bb4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt2 (1).png" alt=""><figcaption></figcaption></figure>
 
-**2. Free Arena Waiting Room**
+***
 
-_Casual test matches with friends._\
-Try out combos, roles, or just have a friendly brawl.
+### ◾ Portals
 
-<figure><img src="../../.gitbook/assets/bb5.png" alt=""><figcaption></figcaption></figure>
+The Rusty Tankard contains portals that lead to various content areas.
 
-**3. Rabbit Rush Waiting Room**
+***
 
-_Betting-style PvP with a twist!_\
-You’ll **transform into a level 10 rabbit**,\
-and hope the rabbit matching **your ticket color survives** to the end.\
-Fast, chaotic, and packed with adrenaline!
+#### 1️⃣ Frost War Waiting Room Portal
 
-<figure><img src="../../.gitbook/assets/bb3.png" alt=""><figcaption></figcaption></figure>
+* Small-scale siege-style PvP content
+* Strategy and teamwork are key
+* Short but intense battles
 
-**4. Clientellas Lobby**
+<figure><img src="../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
 
-_Club activity hub._
+***
+
+#### 2️⃣ Free Arena Waiting Room Portal
+
+* A casual space to practice combat with friends
+* Form teams or fight freely
+* PvP content with no pressure
+
+<figure><img src="../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 3️⃣ Rabbit Rush Waiting Room Portal
+
+* Betting-based PvP content
+* Transform into a Level 10 rabbit to participate
+* If the rabbit matching your ticket color survives to the end, you win
+
+<figure><img src="../../.gitbook/assets/rt6.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 4️⃣ Clientellas Lobby Portal
+
+The central hub for club activities.
 
 * Create or join a club
 * Manage Patrons & Clients
-* Enter club rooms\
-  Perfect for community-driven gameplay.
+* Enter club rooms
+* Access various community features
 
-<figure><img src="../../.gitbook/assets/bb6.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-#### 🌀 Return to Rotten Hill
-
-You can leave the pub anytime via the **portal to Rotten Hill**,\
-or just use the **mini-map in the upper right corner** for quick exit.
-
-<figure><img src="../../.gitbook/assets/bb7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 💬 A Word from Yeyilel
+### ◾ Return to Rotten Hill
 
-The Rusty Tankard isn’t just a pub—it’s a crossroads of stories and strategy.\
-And if you stop and listen…\
-some of those NPCs might just whisper secrets of the world to you. 🍂
+To leave the Rusty Tankard, you can:
+
+* Use the portal back to Rotten Hill
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* Exit instantly via the map at the top-right of the screen
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ✨&#x20;
+
+> **A place where warriors naturally gather before battle.**\
+> **Amid the quiet noise, take a moment to picture your next journey.**
 {% endtab %}
 
 {% tab title="한국어" %}
-### 🍻 The Rusty Tankard – 로튼힐의 소문난 술집
+### 🍻 녹슨 술잔 (The Rusty Tankard)
 
-로튼힐에 있는 작은 술집, 녹슨 술잔은 단순한 휴식 공간이 아니에요.\
-여기선 친구와 함께 모의 전투를 하거나, 다양한 콘텐츠 대기실로 이어지는 **포털들을 탐험**할 수 있어요. 떠들썩한 NPC들의 수다는 덤이죠!
+녹슨 술잔은 로튼힐 마을에 있는 작은 술집입니다.\
+하지만 이곳은 단순한 휴식 공간이 아니라, 전투 연습과 다양한 콘텐츠로 이어지는 중요한 거점 공간입니다.
 
-***
+친구와 모의 전투를 즐기거나, 여러 콘텐츠 대기실로 이동할 수 있으며,\
+NPC들의 대화를 통해 세계관의 분위기도 느낄 수 있습니다.
 
-#### 🗺️ 입장 위치 안내
-
-**로튼힐 마을 입구의 짐꾼 메바헬 바로 옆**에 술집 입구가 있어요.\
-돌길 옆에 조용히 숨겨져 있으니, 처음 방문하는 위자드님이라면 잘 살펴보세요.
-
-<figure><img src="../../.gitbook/assets/bb1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ⚔️ Battle Zone – 친구와 모의 전투
+### ◾ 녹슨 술잔 입장 위치
 
-술집 내부에는 **소규모 전투 구역**이 마련돼 있어요.\
-친구와 1:1로 실험해보거나,\
-스킬과 무기 조합을 테스트할 수 있는 공간이랍니다.
+* 위치: 로튼힐  NPC 짐꾼 메바헬 바로 옆
 
-<figure><img src="../../.gitbook/assets/bb2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🌀 포털 안내 – 콘텐츠 대기실로 이어지는 관문들
+### ◾ Battle Zone
 
-**1. 프로스트워 대기실 포털**
+녹슨 술잔 내부에는 소규모 전투 연습 공간이 마련되어 있습니다.
 
-_**작지만 치열한 미니 공성전!**_\
-전략과 협동이 중요한 소규모 PvP 콘텐츠입니다.
+* 친구와 모의 전투 가능
+* 스킬 조합 테스트
+* 무기 성능 확인
 
-<figure><img src="../../.gitbook/assets/bb4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt2 (1).png" alt=""><figcaption></figcaption></figure>
 
-**2. 자유 아레나 대기실 포털**
+***
 
-_친구들과 함께하는 모의 전투 공간._\
-팀을 짜서 자유롭게 연습하거나, 재미로 붙어볼 수도 있어요.
+### ◾ 포털 안내
 
-<figure><img src="../../.gitbook/assets/bb5.png" alt=""><figcaption></figcaption></figure>
+녹슨 술잔에는 다양한 콘텐츠로 이어지는 포털이 있습니다.
 
-**3. 토끼러시 대기실 포털**
+***
 
-_**배팅형 PvP 콘텐츠!**_\
-레벨 10의 **토끼로 변신**해 경기에 참가하게 되며,\
-**내가 선택한 티켓 색상의 토끼가 끝까지 살아남아야** 승리할 수 있어요.\
-운과 전략이 동시에 요구되는 짜릿한 생존 배틀!
+#### 1️⃣ 프로스트워 대기실 포털
 
-<figure><img src="../../.gitbook/assets/bb3.png" alt=""><figcaption></figcaption></figure>
+* 소규모 미니 공성전 콘텐츠
+* 전략과 협동이 중요한 PvP
+* 짧지만 긴장감 있는 전투를 경험할 수 있습니다
 
-**4. 클리엔텔라스 로비 포털**
+<figure><img src="../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
 
-**클럽 활동의 중심지!**
+***
+
+#### 2️⃣ 자유 아레나 대기실 포털
+
+* 친구들과 자유로운 전투 연습 공간
+* 팀을 나누어 연습하거나 가볍게 대결 가능
+* 부담 없이 즐길 수 있는 PvP 콘텐츠입니다
+
+<figure><img src="../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 3️⃣ 토끼러시 대기실 포털
+
+* 배팅형 PvP 콘텐츠
+* 레벨 10 토끼로 변신해 참가
+* 선택한 티켓 색상의 토끼가 끝까지 살아남으면 승리합니다
+
+<figure><img src="../../.gitbook/assets/rt6.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 4️⃣ 클리엔텔라스 로비 포털
+
+클럽 활동의 중심 공간입니다.
 
 * 클럽 창설 및 가입
 * 페이트론 & 클라이언트 관리
-* 클럽 룸 입장\
-  다양한 커뮤니티 기능이 이 로비에 모여 있어요.
+* 클럽 룸 입장
+* 다양한 커뮤니티 기능 이용 가능
 
-<figure><img src="../../.gitbook/assets/bb6.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-#### 🌀 로튼힐로 돌아가기
-
-술집을 나가고 싶다면,\
-**로튼힐 마을로 돌아가는 포털**을 이용하거나\
-우측 상단**의 미니맵**을 통해 즉시 퇴장할 수 있어요.
-
-<figure><img src="../../.gitbook/assets/bb7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 💬 예이렐의 한 마디
+### ◾ 로튼힐로 돌아가기
 
-전투 전에 한 번쯤 들러볼 만한 이 공간,\
-**The Rusty Tankard**는 단순한 술집이 아니에요.\
-NPC들의 대화 속에는 **세계관의 힌트**나 **은근한 떡밥**이 숨어 있을지도?
+녹슨 술잔을 나가려면 아래 방법을 이용할 수 있습니다.
 
-잠시 멈춰 서서 들어보는 건 어떨까요?
+* 로튼힐로 이어지는 포털 이용
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* 화면 우측 상단 맵을 통해 즉시 퇴장
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ✨&#x20;
+
+> **전투를 준비하는 이들이 자연스럽게 모이는 곳.**\
+> **잔잔한 소음 속에서 다음 여정을 마음속으로 그려보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-### 🍻 ようこそ、**The Rusty Tankard**へ
+### 🍻 錆びた酒杯（The Rusty Tankard）
 
-**ロットンヒルの奥にある小さな酒場、**\
-**The Rusty Tankardはただの休憩所ではありません。**\
-**ここでは友達と模擬戦**を楽しんだり、\
-さまざまなコンテンツの**待機ポータルにアクセス**したりできます。\
-そして、おしゃべり好きなNPCたちの話に耳を傾けるのも一興です。
+錆びた酒杯は、ロッテンヒルの村にある小さな酒場です。\
+しかしここは、ただ休むだけの場所ではありません。\
+戦闘の練習や、さまざまなコンテンツへとつながる 重要な拠点となる空間です。
 
-***
+仲間と模擬戦闘を楽しんだり、複数のコンテンツ待機室へ移動したり、\
+NPCたちの会話を通して世界観の雰囲気を感じることもできます。
 
-#### 🗺️ 行き方
-
-酒場の入口は、ロットンヒル入口にいるポーター・メバヘルのすぐ隣にあります。 \
-石道のわきにある、見落としやすい小道を探してみてください。
-
-<figure><img src="../../.gitbook/assets/bb1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ⚔️ バトルゾーン – 友達との模擬戦
+### ◾ 錆びた酒杯 入場位置
 
-店内には**小さなバトルエリア**があり、\
-友達とPvPの練習をしたり、スキル構成を試したりできます。\
-気軽に実験できる、ちょうどいい戦場です！
+* 場所：ロッテンヒル、ポーターNPC「メバヘル」のすぐ隣
 
-<figure><img src="../../.gitbook/assets/bb2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🌀 ポータル案内 – 各コンテンツへの入口
+### ◾ バトルゾーン
 
-**1. フロストウォー待機室**
+錆びた酒杯の中には、小規模な戦闘練習エリアが用意されています。
 
-_小規模ながら激戦必至のミニ攻城戦！_\
-チーム戦で戦略と連携が試されます。
+* 仲間との模擬戦闘が可能
+* スキルの組み合わせをテスト
+* 武器性能の確認
 
-<figure><img src="../../.gitbook/assets/bb4.png" alt=""><figcaption></figcaption></figure>
-
-**2. フリーアリーナ待機室**
-
-_友達と自由に戦える練習アリーナ。_\
-コンボの確認やロールの試用にもぴったりです。
-
-<figure><img src="../../.gitbook/assets/bb5.png" alt=""><figcaption></figcaption></figure>
-
-**3. ラビットラッシュ待機室**
-
-_変身＆ベット型PvPコンテンツ！_\
-レベル10のウサギに**変身して対戦に参加**し、\
-**自分の購入したチケットの色のウサギ**が最後まで生き残れば勝利！\
-スピーディーでスリル満点の戦いが楽しめます。
-
-<figure><img src="../../.gitbook/assets/bb3.png" alt=""><figcaption></figcaption></figure>
-
-**4. クライエンテラス・ロビー**
-
-_クラブ活動の中心拠点！_
-
-* クラブの作成・参加
-* パトロン＆クライアントの管理
-* クラブルームへの入場\
-  交流・戦略・管理がここに集まります。
-
-<figure><img src="../../.gitbook/assets/bb6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rt2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 🌀 ロットンヒルへの帰還
+### ◾ ポータル案内
 
-酒場を出たいときは、\
-**ロットンヒルに戻るポータル**を使うか、\
-画面右上の**ミニマップから即時退出**も可能です。
-
-<figure><img src="../../.gitbook/assets/bb7.png" alt=""><figcaption></figcaption></figure>
+錆びた酒杯には、さまざまなコンテンツへとつながるポータルがあります。
 
 ***
 
-#### 💬 イェイレルのひとこと
+#### 1️⃣ フロストウォー待機室ポータル
 
-この酒場はただの休憩所ではありません。\
-物語と戦略が交差する場所。\
-NPCのさりげない一言が、\
-世界の真実に近づく鍵になるかもしれませんよ🍂
+* 小規模なミニ攻城戦コンテンツ
+* 戦略と協力が重要なPvP
+* 短時間ながら緊張感のある戦闘を楽しめます
+
+<figure><img src="../../.gitbook/assets/rt3.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 2️⃣ フリーアリーナ待機室ポータル
+
+* 仲間と自由に戦闘練習ができる空間
+* チームを組んで練習したり、気軽に対戦可能
+* 気負わず楽しめるPvPコンテンツです
+
+<figure><img src="../../.gitbook/assets/rt4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 3️⃣ ラビットラッシュ待機室ポータル
+
+* ベッティング型PvPコンテンツ
+* レベル10のウサギに変身して参加
+* 選んだチケットの色と同じウサギが 最後まで生き残れば勝利となります
+
+<figure><img src="../../.gitbook/assets/rt6.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 4️⃣ クリエンテラス・ロビーポータル
+
+クラブ活動の中心となる空間です。
+
+* クラブの設立・加入
+* パトロン＆クライアント管理
+* クラブルームへの入場
+* 各種コミュニティ機能の利用
+
+<figure><img src="../../.gitbook/assets/rt5.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ◾ ロッテンヒルへ戻る
+
+錆びた酒杯から出る場合は、以下の方法を利用できます。
+
+* ロッテンヒルへ戻るポータルを使用
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* 画面右上のマップから即時退出
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### ✨&#x20;
+
+> **戦いに備える者たちが、自然と集まる場所。**\
+> **静かなざわめきの中で、次の旅路を思い描いてみてください。**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 22, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
