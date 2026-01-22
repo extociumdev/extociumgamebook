@@ -35,11 +35,13 @@ Weapon durability decreases when performing the following actions:
 * Reaching **+5 Enchant** → Durability +10
 * Reaching **+10 Enchant** → Additional Durability +10
 
-If a weapon’s durability reaches **0**, its performance is reduced by **50%**.
-
 **Using Polishing Stones**
 
 * Use **1 Polishing Stone** → Restore **10 Durability**
+
+{% hint style="danger" %}
+If a weapon’s durability reaches **0**, its performance is reduced by **50%**.
+{% endhint %}
 
 ***
 
@@ -111,8 +113,11 @@ EXTOCIUM에서는\
 * 무기 인챈트 시
   * **+5강 도달 시** → 내구도 **+10 증가**
   * **+10강 도달 시** → 내구도 **+10 추가 증가**
-* 무기의 내구도가 **0이 되면**, 해당 무기의 **성능이 50% 감소**합니다.
 * **연마석 1개 사용 시** → 내구도 **10 회복**
+
+{% hint style="danger" %}
+무기의 내구도가 **0이 되면**, 해당 무기의 **성능이 50% 감소**합니다.
+{% endhint %}
 
 ***
 
@@ -185,11 +190,13 @@ EXTOCIUM에서는\
 * **＋5強化到達** → 耐久度 ＋10
 * **＋10強化到達** → 耐久度 ＋10（追加）
 
-武器の耐久度が **0** になると、その武器の性能は **50％低下** します。
-
 **研磨石による回復**
 
 * **研磨石1個使用** → 耐久度 **10回復**
+
+{% hint style="danger" %}
+武器の耐久度が **0** になると、その武器の性能は **50％低下** します。
+{% endhint %}
 
 ***
 
