@@ -1,111 +1,175 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 😎 NPC - Clientelas
 
-> ## Sitael - 시타엘 - シタエル
+## 🎭 _Club Coordinator_
 
 <figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt="" width="250"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Icon_GuildTrophy.png" alt="" width="75"><figcaption></figcaption></figure>
+{% tabs %}
+{% tab title="ENG" %}
+#### Sitael
 
-**For more information about clubs, check the link below.👇**
+> _Club Coordinator_
+
+Sitael is an NPC in the Clientellas Lobby who manages all club-related activities.\
+If you want to create a new club or join an existing one, talk to Sitael to get started.\
+By joining a club, you can adventure alongside other players\
+and enjoy a wider range of community content.
+
+👇 For more details about clubs, please refer to the link below.
 
 {% content-ref url="../../../clientelas-club/club/" %}
 [club](../../../clientelas-club/club/)
 {% endcontent-ref %}
-
-{% tabs %}
-{% tab title="ENG" %}
-#### 🎭 **Sitael & The Club System**
-
-🔹 **Sitael is the Club Master**, located in **Clientelas**.\
-🔹 **Want to create or join a club? Visit Sitael!**
-
-💡 **Looking for allies and a strong community? Start your club today!**
 {% endtab %}
 
 {% tab title="한국어" %}
-#### 🎭 **시타엘 & 클럽 시스템**
+#### 시타엘
 
-🔹 **시타엘은 클럽 마스터**로, **Clientelas**에서 만날 수 있습니다.\
-🔹 **클럽을 창설하거나 가입하고 싶다면 시타엘을 찾아가세요!**
+> _클럽 담당자_
 
-💡 **강한 유대와 함께할 동료를 찾고 있다면, 클럽을 시작해보세요!**
+시타엘은 클리엔텔라스 로비에서 클럽과 관련된 모든 일을 담당하는 NPC입니다.\
+클럽을 새로 만들고 싶거나, 이미 존재하는 클럽에 가입하고 싶다면 시타엘과 대화해 보세요.\
+클럽에 소속되면 다른 모험가들과 함께 활동하며 더 다양한 커뮤니티 콘텐츠를 즐길 수 있습니다.
+
+👇 자세한 내용은 아래 링크를 확인해 주세요
+
+{% content-ref url="../../../clientelas-club/club/" %}
+[club](../../../clientelas-club/club/)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="日本語" %}
-#### 🎭 **シタエル＆クラブシステム**
+#### シタエル
 
-🔹 **シタエルはクラブマスター**で、**Clientelas**にいます。\
-🔹 **クラブを創設・加入したいなら、シタエルを訪ねましょう！**
+> _クラブ管理者_
 
-💡 **仲間と共に強くなりたいなら、クラブを始めてみよう！**
+シタエルは、クリエンテラス・ロビーで クラブに関する機能を担当するNPCです。\
+新しいクラブを設立したい場合や、すでに存在するクラブに加入したい場合は、\
+シタエルと会話してみてください。\
+クラブに所属すると、他の冒険者と一緒に活動しながら、\
+より多くのコミュニティコンテンツを楽しむことができます。
+
+👇 クラブについての詳しい内容は、下記のリンクをご確認ください。
+
+{% content-ref url="../../../clientelas-club/club/" %}
+[club](../../../clientelas-club/club/)
+{% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
 
-
-
-> ## Haziel - 하지엘 - ハジエル
+***
 
 
 
-🔗 **Click the link below for more details about the Patron system.**
+## 🪙 _Patron Coordinator_
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% tabs %}
+{% tab title="ENG" %}
+### Haziel
+
+> _Patron Coordinator_
+
+Haziel is an NPC in the Clientellas Lobby who manages the **Patron system**.\
+By talking to Haziel, you can register referral codes\
+and manage patron relationships with other players.
+
+Forming a patron relationship grants bonus Gold rewards,\
+making it a valuable system for your adventure.
+
+👇 For more details about the Patron system, please refer to the link below.
 
 {% content-ref url="../../../clientelas-club/patron-and-client.md" %}
 [patron-and-client.md](../../../clientelas-club/patron-and-client.md)
 {% endcontent-ref %}
-
-{% tabs %}
-{% tab title="ENG" %}
-**Haziel** is the NPC in the Clientellas Lobby who manages the **Patron system**.\
-Here, you can **register a referral code**, manage your support relationships,\
-and even receive **bonus gold rewards**—highly recommended!
-
-💡 **Talk to Haziel to use the Patron system. You can register referral codes and manage supporters. It’s a great way to earn bonus gold!**
 {% endtab %}
 
 {% tab title="한국어" %}
-**하지엘**은 클리엔텔라스 로비에서 만날 수 있는 **페이트론(Patron) 시스템 담당 NPC**예요.\
-이 시스템을 통해 **레퍼럴 코드 등록** 및 **후원 관계 관리**가 가능하며,\
-**보너스 골드 보상**도 받을 수 있기 때문에 매우 유용하답니다!
+### 하지엘
 
-💡 **하지엘에게 가면 페이트론 시스템을 이용할 수 있어. 레퍼럴 코드 등록 및 후원 관리를 할 수 있어. 보너스 골드를 얻을 수 있어서 추천해.**
+> _페이트론 시스템 담당자_
+
+하지엘은 클리엔텔라스 로비에서 **페이트론(Patron) 시스템을 담당하는 NPC**입니다.\
+하지엘과 대화하면 레퍼럴 코드를 등록하거나, 다른 모험가와의 후원 관계를 관리할 수 있습니다.
+
+후원 관계를 맺으면 보너스 골드를 획득할 수 있어 모험에 큰 도움이 됩니다.
+
+👇 페이트론 시스템에 대한 자세한 내용은 아래 링크를 참고해 주세요.
+
+{% content-ref url="../../../clientelas-club/patron-and-client.md" %}
+[patron-and-client.md](../../../clientelas-club/patron-and-client.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="日本語" %}
-**ハジエル**は、クライエンテラス・ロビーにいる**パトロンシステム担当のNPC**です。\
-ここでは、**紹介コードの登録**や**支援関係の管理**ができ、\
-さらに**ボーナスゴールド**も獲得できます。とてもオススメですよ！
+### ハジエル
 
-💡 **ハジエルに話しかけると、パトロンシステムを利用できます。紹介コードの登録や支援の管理が可能で、ボーナスゴールドも手に入るのでおすすめです。**
+> _パトロンシステム担当者_
+
+ハジエルは、クリエンテラス・ロビーで **パトロン（Patron）システム**を担当するNPCです。\
+ハジエルと会話することで、リファラルコードの登録や、\
+他の冒険者との後援関係を管理できます。
+
+後援関係を結ぶと、ボーナスゴールドを獲得でき、冒険を有利に進めることができます。
+
+👇 パトロンシステムの詳しい内容は、下記のリンクをご確認ください。
+
+{% content-ref url="../../../clientelas-club/patron-and-client.md" %}
+[patron-and-client.md](../../../clientelas-club/patron-and-client.md)
+{% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
 
 
 
-> ## Pahaliah - 파할리알 - パハリアル
+## ✨ Club Enhancement Coordinator
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-**Pahaliah** is an NPC located in the Clientellas Lobby.\
-She is currently inactive, but in the future, **club passive buff skills will be available through this NPC**.
+### Pahaliah
 
-💡 **Club passive buff skills are coming soon. Please look forward to the update!**
+> _Club Enhancement Coordinator_
+
+Pahaliah is an NPC located in the Clientellas Lobby.\
+This feature is currently under preparation.&#x20;
+
+In a future update, **Club Passive Buff Skills** will be introduced through this NPC.\
+These buffs will affect the entire club, so be sure to look forward to upcoming updates.
 {% endtab %}
 
 {% tab title="한국어" %}
-**파할리알**은 클리엔텔라스 로비에서 만날 수 있는 NPC입니다.\
-현재는 준비 중이며, 추후 **클럽 패시브 버프 스킬 기능이 이 NPC를 통해 제공될 예정**입니다.
+### 파할리아
 
-💡 **클럽 패시브 버프 스킬이 적용될 예정입니다. 업데이트를 기대해 주세요!**
+> _클럽 강화 시스템 담당자_
+
+파할리아는 클리엔텔라스 로비에서 만날 수 있는 NPC입니다.
+
+현재는 준비 중인 상태이며, \
+추후 업데이트를 통해 **클럽 패시브 버프 스킬 시스템**이 이 NPC를 통해 제공될 예정입니다.
+
+클럽 전체에 영향을 주는 중요한 강화 기능이 추가될 예정이니, 앞으로의 업데이트를 기대해 주세요.
 {% endtab %}
 
 {% tab title="日本語" %}
-**パハリアル**は、クライエンテラス・ロビーにいるNPCです。\
-現在は未稼働ですが、今後**クラブのパッシブバフスキルがこのNPCを通じて提供される予定です。**
+### パハリア
 
-💡 **クラブパッシブバフスキルが今後適用される予定です。アップデートを楽しみにお待ちください！**
+> _クラブ強化システム担当者_
+
+パハリアは、クリエンテラス・ロビーで出会えるNPCです。
+
+現在は準備中の状態ですが、今後のアップデートにて、\
+**クラブ用パッシブバフスキルシステム**が このNPCを通じて提供される予定です。
+
+クラブ全体に影響を与える 重要な強化機能が追加される予定ですので、\
+今後のアップデートを楽しみにお待ちください。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 22, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
