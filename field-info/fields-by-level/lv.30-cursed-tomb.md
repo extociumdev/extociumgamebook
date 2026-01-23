@@ -4,9 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🏔️ \~Lv.30 Cursed Tomb
 
-<figure><img src="../../.gitbook/assets/map003_B.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Map_M3.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cursed_tomb.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -105,4 +103,4 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

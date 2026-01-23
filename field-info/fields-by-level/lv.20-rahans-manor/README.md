@@ -1,7 +1,7 @@
 ---
 description: 🛑 This information may be updated later than the game server data.
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -121,4 +121,4 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

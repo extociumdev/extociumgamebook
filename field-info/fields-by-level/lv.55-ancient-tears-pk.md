@@ -4,9 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🌋 \~Lv.55 Ancient Tears (PK)
 
-<figure><img src="../../.gitbook/assets/map007_B.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Map_M7.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ancient_tears.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -15,8 +13,6 @@ description: 🛑 This information may be updated later than the game server dat
 The land teems with strange creatures. Bubbles drift through the air, their translucent, water-like forms delivering deceptively soft attacks. Green Charites and Red Charites—sharp, crystalline beings in verdant and crimson hues—dart forward with lethal precision. Green Zizzes and Red Zizzes, massive entities with shimmering hides, lumber slowly but strike with overwhelming force. Adventurers can harvest Ancient Tears and Constellation Tablets here, the latter believed to bear the cryptic legacy of the giants.
 
 Legends whisper that the flood that drowned this land was unleashed by the mythical Leviathan. Some adventurers claim to have glimpsed a serpentine specter coiled within the mists—a lingering shadow of that ancient beast. Ancient Tears is a realm where past splendor and destruction intertwine, where the sorrowful cries of giants seem to resonate within the crystals. Those who venture here may claim treasures, but they must be prepared to face the secrets submerged in its watery depths.
-
-👉 [PK Leverage Type 3 (Hard Difficulty)](/broken/pages/Ylm7lsZN8ooF5p7tkLcJ#pk-leverage-3)
 
 <table><thead><tr><th width="90">Lv.</th><th>Monster</th><th>Drop1</th><th>Drop2</th><th>Drop3</th><th>Drop4</th></tr></thead><tbody><tr><td>51</td><td>Bubble<br>(FORCE)</td><td>Soul Bubble</td><td>FlintCotton woolFlint</td><td>Sand</td><td>Water Crystal</td></tr><tr><td>52</td><td>Green Sharit<br>(LEAF)</td><td>Sharit’s Tooth</td><td>Sharit’s Claw</td><td>Water Crystal</td><td>Powder of blessing</td></tr><tr><td>53</td><td>Red Sharit<br>(FIRE)</td><td>Sharit’s Tooth</td><td>Sharit’s Claw</td><td>Water Crystal</td><td>Cotton wool</td></tr><tr><td>54</td><td>Green Ziz<br>(STONE)</td><td>Ziz’s Scale</td><td>Ziz’s Tear</td><td>Water Crystal</td><td>Powder of blessing</td></tr><tr><td>55</td><td>Red Ziz<br>(LIGHT)</td><td>Ziz’s Scale</td><td>Ziz’s Tear</td><td>Water Crystal</td><td>Snow White</td></tr></tbody></table>
 
@@ -52,8 +48,6 @@ At an extremely low probability, the following weapon items may be dropped.
 
 전설에 따르면, 이 땅을 멸망으로 몰아넣은 대홍수는 전설 속 괴수 레비아탄의 소행이었다고 한다. 일부 모험가들은 물안개 사이로 거대한 뱀 같은 망령을 보았다며, 그것이 레비아탄의 잔재일지도 모른다고 수군거린다. 고대의 눈물은 과거의 영광과 파괴가 공존하는 땅으로, 수정 속에 갇힌 거인들의 애잔한 울음이 아직도 들리는 듯하다. 이곳을 찾는 자는 보물을 얻을 수도 있지만, 깊은 물속에 잠든 고대의 비밀과 마주할 각오를 해야 한다.
 
-👉[PK 레버리지 타입 3 ( 어려움 난이도 )](/broken/pages/Ylm7lsZN8ooF5p7tkLcJ#pk-leverage-3)
-
 <table><thead><tr><th width="87">레벨</th><th>몬스터</th><th>드랍1</th><th>드랍2</th><th>드랍3</th><th>드랍4</th></tr></thead><tbody><tr><td>51</td><td>버블<br>(FORCE)</td><td>혼의 거품</td><td>목화솜</td><td>백설화</td><td>물의 결정</td></tr><tr><td>52</td><td>그린 샤리트<br>(LEAF)</td><td>샤리트의 이빨</td><td>샤리트의 발톱</td><td>물의 결정</td><td>축복의 가루</td></tr><tr><td>53</td><td>레드 샤리트<br>(FIRE)</td><td>샤리트의 이빨</td><td>샤리트의 발톱</td><td>물의 결정</td><td>목화솜</td></tr><tr><td>54</td><td>그린 지즈<br>(STONE)</td><td>지즈의 비늘</td><td>지즈의 눈물</td><td>물의 결정</td><td>축복의 가루</td></tr><tr><td>55</td><td>레드 지즈<br>(LIGHT)</td><td>지즈의 비늘</td><td>지즈의 눈물</td><td>물의 결정</td><td>백설화</td></tr></tbody></table>
 
 🍀**채집 품목 :** 고대의 눈물, 별자리 석판
@@ -85,8 +79,6 @@ At an extremely low probability, the following weapon items may be dropped.
 
 伝説では、この地を滅ぼした大洪水は、伝説の怪物レヴィアタンが引き起こしたものだとか。霧の中で巨大な蛇のような亡魂を見たという冒険者もいて、それがレヴィアタンの残影かもしれないと囁かれています。古代の涙は、昔の栄光と破壊が共存する土地で、結晶の中に閉じ込められた巨人の悲しい泣き声が今も聞こえてくるようです。ここを訪れる者は宝を手に入れられるかもしれないけど、深い水底に眠る古代の秘密と向き合う覚悟が必要なんです。
 
-👉[ PKレバレッジタイプ3（高い難易度）](/broken/pages/Ylm7lsZN8ooF5p7tkLcJ#pk-leverage-3)
-
 <table data-full-width="true"><thead><tr><th width="77">レベル</th><th width="125">モンスター</th><th width="148">ドロップ1</th><th width="126">ドロップ2</th><th width="104">ドロップ3</th><th>ドロップ4</th></tr></thead><tbody><tr><td>51</td><td>バブル<br>(FORCE)</td><td>魂の泡</td><td>綿</td><td>白雪花</td><td>水の結晶</td></tr><tr><td>52</td><td>グリーンシャリット<br>(LEAF)</td><td>シャリットの歯</td><td>シャリットの爪</td><td>水の結晶</td><td>祝福の粉</td></tr><tr><td>53</td><td>レッド·シャリット<br>(FIRE)</td><td>シャリットの歯</td><td>シャリットの爪</td><td>水の結晶</td><td>綿</td></tr><tr><td>54</td><td>グリーン·ジーズ<br>(STONE)</td><td>ジーズのうろこ</td><td>ジズの涙</td><td>水の結晶</td><td>祝福の粉</td></tr><tr><td>55</td><td>レッド·ジーズ<br>(LIGHT)</td><td>ジーズのうろこ</td><td>ジズの涙</td><td>水の結晶</td><td>白雪花</td></tr></tbody></table>
 
 🍀**採集品目 :** 古代の涙、星座石板
@@ -112,4 +104,4 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

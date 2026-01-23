@@ -1,7 +1,7 @@
 ---
 description: 🛑 This information may be updated later than the game server data.
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

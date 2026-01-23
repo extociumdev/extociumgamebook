@@ -4,15 +4,11 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🌋 \~Lv.59 Sargon Garrison (PK)
 
-<figure><img src="../../.gitbook/assets/map008_B.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Map_M8.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sargon_garrison.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-📒When the Golden Rule was broken, the horde of monsters surging from the north threatened Rahan’s granary lands, and the kingdom’s entire army was mobilized to stop them. Sargon, seeking atonement, took command of the garrison himself and gave his life to repel the monsters. Iskandar too raised a wall of iron to aid him, yet human strength alone was no match for the overwhelming might of the dragonkin. A brutal and perilous battle unlike any they had faced before awaited them.
-
-👉 [PK Leverage Type 3 (Hard Difficulty)](https://app.gitbook.com/o/V5Jg2dsXws3Kv6MsJo91/s/koBEJEqnxv6otqQj6uFt/system/pk/pk-leverage-bonus/bonus-chart#pk-leverage-3)​
+📒When the Golden Rule was broken, the horde of monsters surging from the north threatened Rahan’s granary lands, and the kingdom’s entire army was mobilized to stop them. Sargon, seeking atonement, took command of the garrison himself and gave his life to repel the monsters. Iskandar too raised a wall of iron to aid him, yet human strength alone was no match for the overwhelming might of the dragonkin. A brutal and perilous battle unlike any they had faced before awaited them.​
 
 <table data-header-hidden><thead><tr><th width="68.9090576171875"></th><th></th><th width="123.45458984375"></th><th width="126.181884765625"></th><th width="119.818115234375"></th><th></th></tr></thead><tbody><tr><td>56</td><td><p>Guardian of the Basilisk</p><p>(STONE)</p></td><td>Petrified Scale</td><td>Monocular Gem</td><td>Snow White</td><td>-</td></tr><tr><td>57</td><td><p>Scout of the Cyclops</p><p>(LEAF)</p></td><td>Petrified Scale</td><td>Monocular Gem</td><td>Crimson Claw</td><td>Snow White</td></tr><tr><td>58</td><td><p>Crimson Soldier of Cornix</p><p>(FIRE)</p></td><td>Petrified Scale</td><td>Monocular Gem</td><td>Crimson Claw</td><td>Snow White</td></tr><tr><td>59</td><td><p>Degenerate Dragon of Skolix</p><p>(WATER)</p></td><td>Degenerate Drake Scale</td><td>Corrupted Horn</td><td>Crimson Claw</td><td>Snow White</td></tr><tr><td>60</td><td><p>Mutated Archer Captain</p><p>(DARK)</p></td><td>Degenerate Drake Scale</td><td>Corrupted Horn</td><td>Wraith Arrowhead</td><td>Snow White</td></tr></tbody></table>
 
@@ -43,9 +39,7 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="한국어" %}
-📒황금의 규칙이 깨지자 북쪽에서 밀려오는 마물의 군세가 라한의 곡창지대를 위협했고, 왕국의 모든 병력이 이를 막기 위해 총동원 되었다. 죄를 뉘우치려 했던 사르곤은 스스로 주둔지의 수장이 되어 목숨을 바쳐 마물들을 물리친다. 이스칸달 역시 철의 장벽을 세워 그를 도왔지만, 용족의 막강한 힘을 인간의 힘으로 막기엔 역부족이었다. 이전까지는 겪어본 적 없던 거칠고 험난한 전투가 기다리고 있었다.
-
-👉 [PK Leverage Type 3 (Hard Difficulty)](https://app.gitbook.com/o/V5Jg2dsXws3Kv6MsJo91/s/koBEJEqnxv6otqQj6uFt/system/pk/pk-leverage-bonus/bonus-chart#pk-leverage-3)​
+📒황금의 규칙이 깨지자 북쪽에서 밀려오는 마물의 군세가 라한의 곡창지대를 위협했고, 왕국의 모든 병력이 이를 막기 위해 총동원 되었다. 죄를 뉘우치려 했던 사르곤은 스스로 주둔지의 수장이 되어 목숨을 바쳐 마물들을 물리친다. 이스칸달 역시 철의 장벽을 세워 그를 도왔지만, 용족의 막강한 힘을 인간의 힘으로 막기엔 역부족이었다. 이전까지는 겪어본 적 없던 거칠고 험난한 전투가 기다리고 있었다.​
 
 <table data-header-hidden><thead><tr><th width="66.1817626953125"></th><th></th><th></th><th width="128"></th><th></th><th></th></tr></thead><tbody><tr><td>56</td><td><p>바실리스크의 파수꾼</p><p>(STONE)</p></td><td>석화된 비늘</td><td>외눈 보석</td><td>백설화</td><td>-</td></tr><tr><td>57</td><td><p>키클롭스의 수색자</p><p>(LEAF)</p></td><td>석화된 비늘</td><td>외눈 보석</td><td>핏빛 발톱</td><td>백설화</td></tr><tr><td>58</td><td><p>코르닉스의 붉은 병사</p><p>(FIRE)</p></td><td>석화된 비늘</td><td>외눈 보석</td><td>핏빛 발톱</td><td>백설화</td></tr><tr><td>59</td><td><p>스콜릭스의 퇴화룡</p><p>(WATER)</p></td><td>퇴화된 용비늘</td><td>용의 썩은 뿔</td><td>핏빛 발톱</td><td>백설화</td></tr><tr><td>60</td><td><p>변이된 궁병대장</p><p>(DARK)</p></td><td>퇴화된 용비늘</td><td>용의 썩은 뿔</td><td>망령의 화살촉</td><td>백설화</td></tr></tbody></table>
 
@@ -77,9 +71,7 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="日本語" %}
-📒黄金の規律が破られると、北から押し寄せる魔物の軍勢がラハンの穀倉地帯を脅かし、王国の全兵力がこれを阻むため総動員された。贖罪を望んだサルゴンは、自ら駐屯地の長となり、命を賭して魔物を打ち払った。イスカンダルもまた鉄の障壁を築いて彼を助けたが、竜族の圧倒的な力を人の力で防ぐには力及ばなかった。これまでに経験したことのない荒々しく苛烈な戦いが待ち受けていた。
-
-👉 [PK Leverage Type 3 (Hard Difficulty)](https://app.gitbook.com/o/V5Jg2dsXws3Kv6MsJo91/s/koBEJEqnxv6otqQj6uFt/system/pk/pk-leverage-bonus/bonus-chart#pk-leverage-3)​
+📒黄金の規律が破られると、北から押し寄せる魔物の軍勢がラハンの穀倉地帯を脅かし、王国の全兵力がこれを阻むため総動員された。贖罪を望んだサルゴンは、自ら駐屯地の長となり、命を賭して魔物を打ち払った。イスカンダルもまた鉄の障壁を築いて彼を助けたが、竜族の圧倒的な力を人の力で防ぐには力及ばなかった。これまでに経験したことのない荒々しく苛烈な戦いが待ち受けていた。​
 
 <table data-header-hidden><thead><tr><th width="68.90911865234375"></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>56</td><td><p>バジリスクの番人</p><p>(STONE)</p></td><td>石化した鱗</td><td>単眼の宝石</td><td>白雪花</td><td>-</td></tr><tr><td>57</td><td><p>キュクロプスの探索者</p><p>(LEAF)</p></td><td>石化した鱗</td><td>単眼の宝石</td><td>血染めの爪</td><td>白雪花</td></tr><tr><td>58</td><td><p>コルニクスの赤き兵士</p><p>(FIRE)</p></td><td>石化した鱗</td><td>単眼の宝石</td><td>血染めの爪</td><td>白雪花</td></tr><tr><td>59</td><td><p>スコリクスの退化竜</p><p>(WATER)</p></td><td>退化した竜の鱗</td><td>竜の腐った角</td><td>血染めの爪</td><td>白雪花</td></tr><tr><td>60</td><td><p>変異した弓兵隊長</p><p>(DARK)</p></td><td>退化した竜の鱗</td><td>竜の腐った角</td><td>亡霊の矢じり</td><td>白雪花</td></tr></tbody></table>
 
@@ -111,4 +103,4 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

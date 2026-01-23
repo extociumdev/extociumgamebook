@@ -4,9 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🏔️ \~Lv.40 Temple of Agade
 
-<figure><img src="../../.gitbook/assets/map004_B.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Map_M4.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/agade_temple.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
