@@ -2,17 +2,60 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 🏔️ \~Lv.40 Temple of Agade
+# 🏔️ \~Lv.40 Temple of Agade (PK)
 
 <figure><img src="../../.gitbook/assets/agade_temple.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-📒The Temple of Agade stands as a haunting relic in the heart of the Asterica continent, a crumbled remnant believed to be all that’s left of the once-mighty Extocium Empire. Where grand halls once echoed with divine chants, now only windswept ruins remain, whispering tales of a lost era between their shattered stones. Adventurers flock here to gather relic fragments and tablet shards, alongside iron, cinnabar, and the prized cedarwood that grows in this sacred soil. With these relic fragments, tablet shards, and mana orbs harvested from defeated foes, one can craft fragments of Extocium—a prize that turns this desolate site into a treasure hunter’s dream.
+### 🏛 Temple of Agade
 
-The temple grounds teem with peril. Runaway boars charge with feral grunts, their tusks gleaming with reckless fury. Skeletal warriors rise from the dust, wielding broken bones as weapons and unleashing the wrath of the undead. Angel slimes shimmer with an ethereal glow, luring the unwary before ensnaring them in sticky ambushes. Desert spiders weave massive webs through the sandy haze, lying in wait for prey, while mudmen—hulking figures of animated clay—lumber forward to smother their foes in an instant. For the weak, this is a gauntlet of trials; for the strong, a battlefield ripe with rewards.
+At the heart of the Asterica continent stands the **Temple of Agade**,\
+a vast sanctuary that once symbolized the glory of the **EXTOCIUM Empire**.
 
-Collectors who’ve scoured the temple’s broken pillars and altars swear they’ve unearthed artifacts infused with the magic of Extocium, glowing with an otherworldly light that hints at the power of ancient gods. The cedarwood that thrives here, nourished by the consecrated earth, is prized across Asterica for its strength and subtle fragrance, making it a coveted resource among the continent’s finest craftsmen. Beyond its riches, the Temple of Agade serves as a vital gateway to the capital, Asterica. Travelers passing through feel the weight of its faded glory and the pulse of its enduring challenges—an intersection of history and survival.
+Now, only broken pillars and collapsed altars remain,\
+quietly bearing witness to its former splendor.\
+Yet within these wind-swept ruins,\
+a presence of lingering divinity and ever-present danger can still be felt.
+
+***
+
+Dangerous creatures have claimed the area surrounding the Temple of Agade.
+
+Rampaging Boars charge forward with harsh, furious breaths,\
+while Skeleton Warriors, armed with shattered bones, unleash the rage of the dead.\
+Angel Slimes lure adventurers into moments of carelessness,\
+and Desert Spiders patiently stalk their prey.\
+Mudmen drag their bodies of living earth forward, striking without warning.
+
+***
+
+The enemies here are far more threatening than those in previous regions,\
+putting an adventurer’s combat skill and preparation to the test.
+
+The Temple of Agade is a true proving ground.\
+It is a land that rewards strength and punishes even the smallest moment of hesitation.
+
+***
+
+Among the shattered pillars and ruined altars,\
+remnants of the EXTOCIUM Empire are said to still be found.
+
+Adventurers can gather **Relic Fragments** and **Tablet Fragments**,\
+along with valuable resources such as **Iron**, **Cinnabar**, and **Cedar Wood**.\
+In particular, Relic Fragments and Tablet Fragments can be combined\
+with **Mana Orbs** obtained through combat\
+to craft **EXTOCIUM Shards**,\
+leading many to regard the Temple of Agade as a land of dangerous riches.
+
+This place is more than a forgotten ruin.\
+It also serves as a crucial gateway to the capital, **Asterica**.\
+Those who pass through the Temple of Agade are forced to confront both the glory of the past\
+and the struggle for survival in the present.
+
+***
+
+🍀 **Item Drop Information :**
 
 <table><thead><tr><th width="72">Lv.</th><th>Monster</th><th>Drop1</th><th>Drop2</th><th>Drop3</th><th>Drop4</th></tr></thead><tbody><tr><td>32</td><td>Runaway boar<br>(FIRE)</td><td>Pork belly</td><td>Flint</td><td>Sand</td><td>Rubber</td></tr><tr><td>34</td><td>Skeleton warrior<br>(FORCE)</td><td>Scrap metal</td><td>Magic bead</td><td>Hard bone</td><td>Sand</td></tr><tr><td>36</td><td>Angel slime<br>(LIGHT)</td><td>-</td><td>Jelly</td><td>Powder of blessing</td><td>Piece of jewelry</td></tr><tr><td>38</td><td>Desert spider<br>(STONE)</td><td>Spider venom</td><td>-</td><td>Mud</td><td>Rubber</td></tr><tr><td>40</td><td>Mudman<br>(STONE)</td><td>-</td><td>Mud</td><td>-</td><td>Spider venom</td></tr></tbody></table>
 
@@ -41,11 +84,45 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="한국어" %}
-📒아가데 신전은 아스테리카 대륙의 신비로운 중심지로, 한때 엑스토시움 제국의 영광을 상징했던 거대한 신전이 지금은 부서진 잔해로만 남아 있는 곳이다. 바람이 쓸쓸히 스치는 이곳에는 돌무더기 사이로 과거의 흔적이 고스란히 묻어나며, 신성함과 폐허의 경계에서 묘한 매력을 뿜어낸다. 모험가들은 이곳에서 유물 조각과 석판 조각을 캐내며, 철과 진사, 그리고 백향목을 채집할 수 있다. 특히 유물 조각과 석판 조각은 사냥으로 얻은 마력 구슬과 결합하면 엑스토시움 조각으로 제작할 수 있어, 많은 이들이 이 땅을 보물섬처럼 여기고 있다.
+### 🏛 아가데 신전 (Temple of Agade)
 
-신전 주변은 위험한 생명체들로 가득하다. 폭주 멧돼지는 거친 숨소리와 함께 돌진하며 모험가들을 위협하고, 해골 전사는 부서진 뼈로 무장한 채 망자의 분노를 풀어놓는다. 엔젤 슬라임은 빛나는 외형으로 유혹하지만, 가까이 다가가면 끈적한 공격을 퍼붓는다. 사막 거미는 모래먼지 속에서 거대한 그물을 치며 먹잇감을 노리고, 머드맨은 진흙으로 만들어진 몸으로 느릿느릿 다가와 순식간에 덮친다. 이곳은 약한 자에게는 시험의 땅이자, 강한 자에게는 보물을 약속하는 전쟁터다.
+아스테리카 대륙의 중심부에는, 한때 엑스토시움 제국의 영광을 상징했던 거대한 신전,\
+아가데 신전이 남아 있습니다.
 
-아가데 신전의 부서진 기둥과 제단 사이에서 수집가들은 엑스토시움 제국의 흔적을 파헤치며 마력이 깃든 유물을 발견했다고 전한다. 그들의 이야기에 따르면, 이곳에서 나온 엑스토시움은 신비로운 빛을 발하며 과거 신들의 힘을 간직하고 있다. 또한, 신전 땅에서 자라나는 백향목은 그 단단함과 은은한 향기로 최고급 목재로 사랑받아, 아스테리카 대륙의 장인들에게 귀한 재료로 쓰인다. 이곳은 단순한 유적지가 아니라 수도 아스테리카로 향하는 중요한 관문이기도 하다. 먼 길을 떠나는 여행자들은 아가데 신전을 지나며 과거의 영광과 현재의 생존을 동시에 느낀다.
+지금은 부서진 기둥과 무너진 제단만이 남아 과거의 찬란함을 조용히 증언하고 있지만,\
+바람이 스치는 폐허 속에서는 여전히 신성함과 위험이 공존하는 기운이 느껴집니다.
+
+***
+
+아가데 신전 주변에는 위험한 생명체들이 자리를 잡고 있습니다.
+
+폭주 멧돼지는 거친 숨소리와 함께 돌진하며, 해골 전사는 부서진 뼈로 무장한 채 망자의 분노를 쏟아냅니다.\
+엔젤 슬라임은 방심을 유도하고, 사막 거미는 먹잇감을 노립니다.\
+머드맨은 진흙으로 이루어진 몸을 이끌며 순식간에 덮쳐옵니다.
+
+***
+
+이곳의 적들은 이전 지역보다 한층 더 위협적이며, 모험가의 전투 실력과 준비 상태를 시험합니다.
+
+아가데 신전은 강한 자에게는 보상을, \
+방심한 자에게는 위험을 안겨주는 본격적인 시험의 땅이라 할 수 있습니다.
+
+***
+
+부서진 기둥과 제단 사이에서는 엑스토시움 제국의 흔적이 담긴 유물들이 발견되었다고 전해집니다.
+
+모험가들은 이곳에서 유물 조각과 석판 조각을 채집하고,\
+철, 진사, 백향목과 같은 귀중한 자원도 함께 얻을 수 있습니다.
+
+특히 유물 조각과 석판 조각은 사냥을 통해 얻은 마력 구슬과 결합하여\
+**엑스토시움 조각**으로 제작할 수 있어, 많은 이들이 아가데 신전을 위험한 보물의 땅으로 여기고 있습니다.
+
+이곳은 단순한 유적지가 아니라, 수도 아스테리카로 향하는 중요한 관문이기도 합니다.\
+모험가들은 아가데 신전을 지나며 과거의 영광과 현재의 생존을 동시에 마주하게 됩니다.
+
+***
+
+🍀 **아이템 드랍 정보 :**
 
 <table><thead><tr><th width="87">레벨</th><th>몬스터</th><th>드랍1</th><th>드랍2</th><th>드랍3</th><th>드랍4</th></tr></thead><tbody><tr><td>32</td><td>폭주 멧돼지<br>(FIRE)</td><td>삼겹살</td><td>부싯돌</td><td>모래</td><td>고무</td></tr><tr><td>34</td><td>해골전사<br>(FORCE)</td><td>고철조각</td><td>마력구슬</td><td>단단한 뼈</td><td>모래</td></tr><tr><td>36</td><td>엔젤 슬라임<br>(LIGHT)</td><td>-</td><td>젤리</td><td>축복의 가루</td><td>보석조각</td></tr><tr><td>38</td><td>사막거미<br>(STONE)</td><td>거미 독</td><td>-</td><td>진흙</td><td>고무</td></tr><tr><td>40</td><td>머드맨<br>(STONE)</td><td>-</td><td>진흙</td><td>–</td><td>거미 독</td></tr></tbody></table>
 
@@ -72,11 +149,50 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="日本語" %}
-📒アガデの神殿は、アステリカ大陸の神秘的な中心に佇む場所で、かつてエクストシウム帝国の栄光を象徴していた巨大な神殿が、今は崩れ落ちた残骸として残っています。風が寂しく吹き抜けるこの地では、瓦礫の間に過去の足跡が色濃く残り、聖なるものと廃墟が混ざり合った不思議な魅力を放っています。冒険者たちはここで遺物のかけらや石板のかけらを掘り出し、鉄や辰砂、そして白檀のような香りのする白香木を集めることができます。特に遺物のかけらと石板のかけらを、狩りで手に入れた魔力の珠と組み合わせると、エクストシウムのかけらを作り出せるんです。だから、この場所は多くの人にとって宝の島のような存在なんですよ。
+### 🏛 アガデ神殿（Temple of Agade）
 
-神殿の周りには危険な生き物たちがうろついています。暴走イノシシは荒々しい息づかいとともに突進し、冒険者を脅かします。骸骨戦士は砕けた骨を武器に、亡者の怒りを解き放つかのように襲いかかってきます。エンジェルスライムは輝く姿で誘い込みますが、近づくとベトベトした攻撃で絡みついてくるんです。砂漠クモは砂埃の中で大きな網を張り、獲物を待ち構え、泥人（マッドマン）は泥でできた体でゆっくり近づいてきて、一瞬で覆いかぶさってきます。弱い者には試練の場であり、強い者には報酬を約束する戦場なんです。
+アステリカ大陸の中心部には、かつて**EXTOCIUM帝国**の栄光を象徴していた巨大な神殿、\
+アガデ神殿が今もその姿を残しています。
 
-神殿の壊れた柱や祭壇の間で、収集家たちはエクストシウム帝国の痕跡を掘り起こし、魔力の宿った遺物を見つけたと語ります。彼らの話では、ここで見つかるエクストシウムは神秘的な光を放ち、昔の神々の力を今に伝えているんだとか。そして、この神聖な土地に育つ白香木は、その硬さとほのかな香りから最高級の木材として愛され、アステリカ大陸の職人たちに重宝されています。アガデの神殿はただの遺跡じゃない。首都アステリカへと続く大切な関門でもあるんです。遠くへ旅立つ者は、ここを通りながら過去の栄光と今を生き抜く力を同時に感じ取るんですよ。
+現在は崩れた柱や倒壊した祭壇だけが残り、過去の輝かしさを静かに物語っています。\
+しかし、風が吹き抜けるこの廃墟には、今なお神聖さと危険が入り混じった気配が漂っています。
+
+***
+
+アガデ神殿の周囲には、危険な生き物たちが巣を構えています。
+
+暴走イノシシは荒々しい息遣いとともに突進し、\
+スケルトンウォリアーは砕けた骨で武装し、亡者の怒りを解き放ちます。\
+エンジェルスライムは油断を誘い、デザートスパイダーは獲物を狙って忍び寄ります。\
+マッドマンは泥でできた体を引きずりながら、不意を突いて襲いかかってきます。
+
+***
+
+この地に現れる敵は、これまでの地域よりもはるかに手強く、\
+冒険者の戦闘技術と準備を試します。
+
+アガデ神殿は、力ある者には報酬を、\
+油断した者には危険をもたらす、本格的な試練の地と言えるでしょう。
+
+***
+
+崩れた柱と祭壇の間では、EXTOCIUM帝国の痕跡を残す遺物が\
+今も発見されていると言われています。
+
+冒険者はここで、遺物の欠片や石板の欠片をはじめ、\
+鉄、辰砂、香り高い杉材といった 貴重な資源を入手できます。
+
+特に遺物の欠片と石板の欠片は、戦闘で手に入れた**マナオーブ**と組み合わせることで\
+**EXTOCIUMの欠片**を制作できるため、アガデ神殿は危険と隣り合わせの\
+宝の地として知られています。
+
+この場所は単なる遺跡ではなく、首都**アステリカ**へと続く重要な関門でもあります。\
+アガデ神殿を通り抜ける冒険者は、過去の栄光と現在の生存を\
+同時に突きつけられることになるでしょう。
+
+***
+
+🍀 **アイテムドロップ情報：**
 
 <table><thead><tr><th width="96">レベル</th><th>モンスター	</th><th>ドロップ1</th><th>ドロップ2</th><th>ドロップ3</th><th>ドロップ4</th></tr></thead><tbody><tr><td>32</td><td>暴走イノシシ<br>(FIRE)</td><td>サムギョプサル</td><td>フリント</td><td>いさご</td><td>ゴム</td></tr><tr><td>34</td><td>骸骨戦士<br>(FORCE)</td><td>古鉄のかけら</td><td>魔力玉</td><td>固い骨</td><td>いさご</td></tr><tr><td>36</td><td>エンジェルスライム<br>(LIGHT)</td><td>-</td><td>ゼリー</td><td>祝福の粉</td><td>宝石のかけら</td></tr><tr><td>38</td><td>砂漠グモ<br>(STONE)</td><td>クモの毒</td><td>-</td><td>しつこい土</td><td>ゴム</td></tr><tr><td>40</td><td>しつこい土人間<br>(STONE)</td><td>-</td><td>しつこい土</td><td>–</td><td>クモの毒</td></tr></tbody></table>
 
@@ -103,4 +219,4 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

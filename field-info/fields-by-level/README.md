@@ -142,8 +142,8 @@ PKフィールドに関する詳しい内容は、[**PKページ**](../../system
 [lv.30-cursed-tomb.md](lv.30-cursed-tomb.md)
 {% endcontent-ref %}
 
-{% content-ref url="lv.40-temple-of-agade.md" %}
-[lv.40-temple-of-agade.md](lv.40-temple-of-agade.md)
+{% content-ref url="lv.40-temple-of-agade-pk.md" %}
+[lv.40-temple-of-agade-pk.md](lv.40-temple-of-agade-pk.md)
 {% endcontent-ref %}
 
 {% content-ref url="lv.45-goblins-mine-pk.md" %}
