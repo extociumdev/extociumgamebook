@@ -1,12 +1,24 @@
 ---
 description: 🛑 This information may be updated later than the game server data.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🏔️ \~Lv.10 Green field
 
-<figure><img src="../../.gitbook/assets/map001_B.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Map_M1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/green_field.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -32,7 +44,7 @@ These creatures aren’t fearsome monsters by any means; they’re just right fo
 
 🍀**Recipe  Drop Information:**
 
-<table><thead><tr><th width="153">Monster</th><th width="172">Drop1</th><th width="141">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Chipmunk</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Lesser Panda</td><td>Salad Recipe</td><td>Nut Yogurt Recipe</td><td>Hammer Recipe</td></tr><tr><td>Racoon</td><td>Salad Recipe</td><td>Butter Recipe</td><td>Hammer Recipe</td></tr><tr><td>Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td>Glue Recipe</td></tr><tr><td>Giant Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td></td></tr><tr><td>Giant Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="153">Monster</th><th width="172">Drop1</th><th width="141">Drop2</th><th width="200.734375">Drop3</th></tr></thead><tbody><tr><td>Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Chipmunk</td><td>Assorted skewers recipe</td><td>-</td><td>Hammer Recipe</td></tr><tr><td>Lesser Panda</td><td>Salad Recipe</td><td>Nut Yogurt Recipe</td><td>Hammer Recipe</td></tr><tr><td>Racoon</td><td>Salad Recipe</td><td>Butter Recipe</td><td>Hammer Recipe</td></tr><tr><td>Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td>Glue Recipe</td></tr><tr><td>Giant Squirrel</td><td>Assorted skewers recipe</td><td>-</td><td></td></tr><tr><td>Giant Elk</td><td>Cheese Recipe</td><td>Orange juice Recipe</td><td></td></tr></tbody></table>
 
 \
 🍀 **Weapon Drop Notice (Paid Energy)**
@@ -50,7 +62,7 @@ At an **extremely low probability**, the following weapon items may be dropped.
 
 이 산짐승들은 강력한 마물이라기보다는 초보 모험가들이 검을 휘두르고 방패를 드는 법을 익히기에 알맞은 상대들이다. 푸른 들판은 그래서 ‘엑스토시움’을 찾아 떠나는 이들의 여정에서 첫걸음을 내딛는 장소로 각광받는다. 멀리 로튼힐의 윤곽이 아스라이 보이는 이곳은 단순한 평원을 넘어, 전설 속 엑스토시움이 흩어진 땅으로 여겨진다. 잡초 사이에 숨겨진 보라빛 돌멩이를 찾아 헤매는 모험가들의 발길은 끊이지 않고, 다람쥐를 쫓다가 우연히 엑스토시움과 마주칠지도 모른다는 희망이 이곳을 더욱 생동감 있게 만든다. 푸른 들판은 그렇게 초보자들의 겸허한 시작점이자, 위대한 모험의 서막을 여는 땅으로 자리 잡고 있다.
 
-<table data-full-width="true"><thead><tr><th width="83">레벨</th><th width="119">몬스터</th><th width="89">드랍1</th><th width="92">드랍2</th><th width="100">드랍3</th><th>드랍4</th></tr></thead><tbody><tr><td>2</td><td>다람쥐<br>(FORCE)</td><td>도토리</td><td>호두</td><td>견과류</td><td>–</td></tr><tr><td>4</td><td>얼룩 다람쥐<br>(FORCE)</td><td>도토리</td><td>호두</td><td>견과류</td><td>–</td></tr><tr><td>6</td><td>레서판다<br>(FIRE)</td><td>대나무</td><td>털뭉치</td><td>구리조각</td><td>–</td></tr><tr><td>8</td><td>라쿤<br>(LEAF)</td><td>부싯돌</td><td>털뭉치</td><td>견과류</td><td>구리조각</td></tr><tr><td>10</td><td>엘크<br>(STONE)</td><td>가죽</td><td>우유</td><td>부싯돌</td><td>-</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="83">레벨</th><th width="119">몬스터</th><th width="89">드랍1</th><th width="92">드랍2</th><th width="100">드랍3</th><th width="111.234375">드랍4</th></tr></thead><tbody><tr><td>2</td><td>다람쥐<br>(FORCE)</td><td>도토리</td><td>호두</td><td>견과류</td><td>–</td></tr><tr><td>4</td><td>얼룩 다람쥐<br>(FORCE)</td><td>도토리</td><td>호두</td><td>견과류</td><td>–</td></tr><tr><td>6</td><td>레서판다<br>(FIRE)</td><td>대나무</td><td>털뭉치</td><td>구리조각</td><td>–</td></tr><tr><td>8</td><td>라쿤<br>(LEAF)</td><td>부싯돌</td><td>털뭉치</td><td>견과류</td><td>구리조각</td></tr><tr><td>10</td><td>엘크<br>(STONE)</td><td>가죽</td><td>우유</td><td>부싯돌</td><td>-</td></tr></tbody></table>
 
 🍀**채집 품목** : 사과, 블루베리, 딸기, 야채
 
@@ -83,7 +95,7 @@ At an **extremely low probability**, the following weapon items may be dropped.
 
 これらの生き物たちは強力な魔物じゃない。でも、剣を振り回す感覚や盾を構えるコツを掴むにはちょうどいい相手。だから、グリーンフィールドは「エクストシウム」を追い求める旅の第一歩を踏み出す場所として注目されてるんです。遠くにロッテンヒルの輪郭がぼんやり見えるこの場所は、ただの平原じゃない。伝説では、エクストシウムが散らばった土地の一つとされているんだとか。雑草の間に隠れた紫色の石を探して、ダラミを追いかけたりエルクに挑んだりする冒険者の足跡が絶えません。偶然エクストシウムに出会えるかもしれないという期待が、この場所を生き生きとさせています。グリーンフィールドは、初心者にとって素朴なスタート地点であり、大きな冒険の幕開けとなる特別な土地なんです。
 
-<table><thead><tr><th width="81">Lv.</th><th width="114">モンスター</th><th width="106">ドロップ1</th><th width="105">ドロップ2</th><th width="104">ドロップ3</th><th>ドロップ4</th></tr></thead><tbody><tr><td>2</td><td>クリネズミ</td><td>どんぐり</td><td>クルミ</td><td>けんか</td><td>–</td></tr><tr><td>4</td><td>シマリス<br>(FORCE)</td><td>どんぐり</td><td>クルミ</td><td>けんか</td><td>–</td></tr><tr><td>6</td><td>レッサーパンダ<br>(FIRE)</td><td>竹</td><td>毛玉</td><td>銅片</td><td>–</td></tr><tr><td>8</td><td>ラクーン<br>(LEAF)</td><td>火打ち石</td><td>毛玉</td><td>けんか</td><td>銅片</td></tr><tr><td>10</td><td>エルク<br>(STONE)</td><td>がわ</td><td>ミルク</td><td>フリント</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="81">Lv.</th><th width="114">モンスター</th><th width="117.25">ドロップ1</th><th width="113.7498779296875">ドロップ2</th><th width="112.75">ドロップ3</th><th width="122.984375">ドロップ4</th></tr></thead><tbody><tr><td>2</td><td>クリネズミ</td><td>どんぐり</td><td>クルミ</td><td>けんか</td><td>–</td></tr><tr><td>4</td><td>シマリス<br>(FORCE)</td><td>どんぐり</td><td>クルミ</td><td>けんか</td><td>–</td></tr><tr><td>6</td><td>レッサーパンダ<br>(FIRE)</td><td>竹</td><td>毛玉</td><td>銅片</td><td>–</td></tr><tr><td>8</td><td>ラクーン<br>(LEAF)</td><td>火打ち石</td><td>毛玉</td><td>けんか</td><td>銅片</td></tr><tr><td>10</td><td>エルク<br>(STONE)</td><td>がわ</td><td>ミルク</td><td>フリント</td><td>-</td></tr></tbody></table>
 
 🍀**採集品目 :** リンゴ、ブルーベリー、イチゴ、野菜
 
@@ -97,7 +109,7 @@ At an **extremely low probability**, the following weapon items may be dropped.
 
 🍀**レシピドロップ情報:**
 
-<table><thead><tr><th width="143">Monster</th><th width="157">Drop1</th><th width="153">Drop2</th><th>Drop3</th></tr></thead><tbody><tr><td>リス</td><td>串盛り合わせレシピ</td><td>-</td><td>ハンマーレシピ</td></tr><tr><td>シマリス</td><td>串盛り合わせレシピ</td><td>-</td><td>ハンマーレシピ</td></tr><tr><td>レッサーパンダ</td><td>サラダレシピ</td><td>ナッツヨーグルトレシピ</td><td>ハンマーレシピ</td></tr><tr><td>ラクーン</td><td>サラダレシピ</td><td>バターレシピ</td><td>ハンマーレシピ</td></tr><tr><td>エルク</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>接着剤レシピ</td></tr><tr><td>巨大リス</td><td>串盛り合わせレシピ</td><td>-</td><td>-</td></tr><tr><td>巨大エルク</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="143">Monster</th><th width="174.4998779296875">Drop1</th><th width="153">Drop2</th><th width="169.984375">Drop3</th></tr></thead><tbody><tr><td>リス</td><td>串盛り合わせレシピ</td><td>-</td><td>ハンマーレシピ</td></tr><tr><td>シマリス</td><td>串盛り合わせレシピ</td><td>-</td><td>ハンマーレシピ</td></tr><tr><td>レッサーパンダ</td><td>サラダレシピ</td><td>ナッツヨーグルトレシピ</td><td>ハンマーレシピ</td></tr><tr><td>ラクーン</td><td>サラダレシピ</td><td>バターレシピ</td><td>ハンマーレシピ</td></tr><tr><td>エルク</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>接着剤レシピ</td></tr><tr><td>巨大リス</td><td>串盛り合わせレシピ</td><td>-</td><td>-</td></tr><tr><td>巨大エルク</td><td>チーズレシピ</td><td>オレンジジュースレシピ</td><td>-</td></tr></tbody></table>
 
 🍀 **有料エナジー使用時の武器ドロップ案内**
 
@@ -108,5 +120,5 @@ At an **extremely low probability**, the following weapon items may be dropped.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
