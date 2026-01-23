@@ -24,36 +24,31 @@ layout:
 {% tab title="ENG" %}
 ### 🌾 Rahan’s Manor
 
-As you travel deeper beyond Rotten Hill,\
-you arrive at Rahan’s Manor, a land shaped by the sweat and dedication\
-of those who have protected and cultivated it for generations.
+Beyond Rotten hill, deeper into the land, lies **Rahan’s Manor**, a vast field shaped by \
+the sweat and dedication of those who have protected it for generations.
 
 Endless golden wheat fields stretch across the horizon,\
-making this region known as a fertile breadbasket\
-that supplies grain throughout the continent of Asterica.\
-When the wind blows, waves of wheat ripple across the land,\
-reminding adventurers that Rahan’s Manor is not simply “good soil,”\
-but a place built by time and effort layered upon one another.
+earning Rahan’s Manor its reputation as\
+one of the most fertile grain-producing regions in the Asterica continent.\
+When the wind passes through the fields, waves of wheat sway gently,\
+revealing that this land is not simply “rich,”\
+but carefully built over time through effort and perseverance.
 
 ***
 
-Rahan’s Manor is home to a wide variety of creatures that roam freely across its plains.
+Rahan’s Manor is a land cultivated and preserved by human hands over countless years.\
+Season after season of planting and harvest\
+has turned it into a cornerstone of the continent’s food supply.
 
-Shy Pigs quickly hide among the grass when they sense danger,\
-while Rampaging Pigs charge forward with fierce cries.\
-Bisons wander the fields at a slow, steady pace, adding to the calm atmosphere of the region.\
-Iguanas bask under the sunlight, but strike back sharply when threatened.\
-Slimes glide across the ground with sticky bodies,\
-offering battles that are light yet easy to underestimate.
+As you walk these fields, you can feel not only the abundance of nature,\
+but also the layers of history left behind by those who lived and worked here.
 
 ***
 
-The monsters here are stronger than those found in the Green Field,\
-but they remain well-suited for adventurers\
-looking to refine their combat instincts and continue growing.
-
-Use Rahan’s Manor to find your rhythm in battle, gather equipment and materials,\
-and prepare yourself for the next region ahead.
+More than farmland, \
+Rahan’s Manor is a foundation that supports the flow of life across Asterica.\
+Here, adventurers pause to catch their breath, prepare for what lies ahead,\
+and look beyond the golden fields toward the wider world yet to be explored.
 
 ***
 
@@ -88,29 +83,27 @@ At an extremely low probability, the following weapon items may be dropped.
 {% tab title="한국어" %}
 ### 🌾 라한영지 (Rahan’s Manor)
 
-로튼힐을 지나 더 안쪽으로 들어가면, 오랜 시간 이 땅을 지켜온 사람들이\
-땀과 노력으로 일궈낸 들판, 라한영지에 닿게 됩니다.
+로튼힐을 지나 더 안쪽으로 들어가면,\
+오랜 시간 이 땅을 지켜온 사람들이 땀과 노력으로 일궈낸 들판, **라한영지**에 닿게 됩니다.
 
 황금빛 밀밭이 끝없이 이어지는 이곳은 \
 아스테리카 대륙 전역에 곡물을 공급하는 비옥한 곡창 지대로 알려져 있습니다.\
-바람이 불 때마다 밀 이삭이 물결치며, 라한영지가 단순히 “좋은 땅”이 아니라\
-시간을 쌓아 올려 만들어진 땅임을 느끼게 합니다.
+바람이 불 때마다 밀 이삭이 물결치며,\
+라한영지가 단순히 “좋은 땅”이 아니라 시간과 노력이 쌓여 만들어진 땅임을 느끼게 합니다.
 
 ***
 
-라한영지에는 다양한 생명체들이 평원을 터전 삼아 살아가고 있습니다.
+라한영지는 오랜 세월 동안 사람들의 손으로 가꿔지고 지켜져 온 땅입니다.\
+계절마다 반복된 파종과 수확은 이 지역을 대륙의 식량을 책임지는 중심지로 만들었습니다.
 
-수줍은 돼지는 낯선 존재를 보면 풀숲으로 몸을 숨기고, 폭주 돼지는 거친 울음과 함께 거침없이 돌진합니다.\
-바이슨은 넓은 들판을 느릿하게 거닐며 이곳의 평온한 분위기를 더하고,\
-이구아나는 햇볕 아래 몸을 녹이다가 위협을 느끼면 날카롭게 반격합니다.
-
-슬라임은 끈적한 몸으로 들판을 미끄러지듯 이동하며, 가볍지만 방심할 수 없는 전투를 선사합니다.
+이곳을 걷다 보면, 자연의 풍요로움과 함께 사람들이 남긴 흔적과 시간이 겹겹이 쌓인\
+라한영지의 역사를 느낄 수 있습니다.
 
 ***
 
-이곳의 몬스터들은 푸른 들판보다 한층 강해졌지만,\
-모험가가 전투 감각을 다듬고 성장을 이어가기에 좋은 상대들입니다.\
-라한영지에서 전투 리듬을 익히고, 장비와 재료를 챙기며 다음 지역을 준비해 보세요.
+라한영지는 단순한 경작지가 아니라, 아스테리카 대륙의 흐름을 지탱해 온 중요한 터전입니다.\
+모험가들은 이곳에서 잠시 숨을 고르며 다음 여정을 준비하고,\
+풍요로운 들판 너머로 이어질 더 넓은 세계를 바라보게 됩니다.
 
 ***
 
@@ -145,31 +138,27 @@ At an extremely low probability, the following weapon items may be dropped.
 {% tab title="日本語" %}
 ### 🌾 ラハン領（Rahan’s Manor）
 
-ロッテンヒルを越えてさらに奥へ進むと、長い年月にわたりこの地を守り、\
-汗と努力で切り拓いてきた人々が築いた土地、ラハン領に辿り着きます。
+ロッテンヒルを越えてさらに奥へ進むと、長い年月にわたりこの地を守り続けてきた人々が\
+汗と努力で切り拓いた大地、**ラハン領**に辿り着きます。
 
-地平線の彼方まで続く黄金色の麦畑は、\
-アステリカ大陸全域に穀物を供給する 肥沃な穀倉地帯として知られています。\
-風が吹くたびに麦穂が波のように揺れ、ラハン領がただの「良い土地」ではなく、\
-時の積み重ねによって形作られた場所であることを感じさせます。
-
-***
-
-ラハン領には、さまざまな生き物たちが平原を住処として暮らしています。
-
-臆病なブタは見知らぬ存在に気づくと草むらに身を隠し、\
-暴走ブタは荒々しい鳴き声とともに突進してきます。\
-バイソンは広い大地をゆっくりと歩き、この地の穏やかな雰囲気をより一層引き立てます。\
-イグアナは日差しの下で体を温めていますが、危険を感じると鋭く反撃します。\
-スライムは粘り気のある体で地面を滑るように移動し、\
-軽快ながら油断できない戦いをもたらします。
+果てしなく広がる黄金色の麦畑は、ラハン領がアステリカ大陸全域へ\
+穀物を供給する肥沃な穀倉地帯であることを物語っています。\
+風が吹くたびに麦の穂が波打ち、この地が単なる「豊かな土地」ではなく、\
+時と労力を積み重ねて築かれた土地であることを感じさせます。
 
 ***
 
-ここに出現するモンスターは、グリーンフィールドよりも一段強くなっていますが、\
-冒険者が戦闘感覚を磨き、成長を続けるには最適な相手です。
+ラハン領は、長い歳月にわたって人々の手によって 育まれ、守られてきた場所です。\
+季節ごとに繰り返される種まきと収穫は、この地を大陸の食を支える中心地へと成長させました。
 
-ラハン領で戦闘のリズムを掴み、装備や素材を集めながら、次のエリアへの準備を整えましょう。
+畑を歩けば、自然の恵みだけでなく、人々の営みと歴史が重なり合う\
+ラハン領ならではの空気を感じ取ることができるでしょう。
+
+***
+
+ラハン領は単なる農地ではなく、アステリカ大陸の流れを支えてきた重要な基盤です。\
+冒険者たちはここで一息つき、次なる旅路に備えながら、\
+黄金の平原の先に広がる さらなる世界へと思いを馳せることになります。
 
 ***
 

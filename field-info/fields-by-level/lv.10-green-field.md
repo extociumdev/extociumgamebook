@@ -24,33 +24,33 @@ layout:
 {% tab title="ENG" %}
 ### 🌿 Green Field
 
-Beyond Rotten Hill, a vast field stretches out as far as the eye can see.
+Beyond Rotten hill, a vast field stretches endlessly to the horizon.\
+This is the **Green Field**.
 
-As the wind brushes past, the grass sways gently,\
-and under the sunlight, the plains shimmer in quiet motion.\
-This is the place where adventurers first come face to face with the world of **EXTOCIUM**.
-
-***
-
-The Green Field is home to wild beasts infused with only a faint trace of magic.
-
-Squirrels and Spotted Squirrels move swiftly through the grass,\
-while Lesser Pandas and Raccoons, despite their harmless appearance,\
-can surprise adventurers with their unexpected agility.\
-Elks roam calmly across the wide plains, but when they feel their territory is threatened,\
-they respond with powerful force.
+When the wind passes through, blades of grass sway together,\
+and sunlight quietly glimmers across the plain.\
+The Green Field is where adventurers\
+first come face to face with the world of EXTOCIUM.
 
 ***
 
-The monsters found here are not fearsome creatures,\
-but ideal opponents for adventurers learning how to wield a sword and raise a shield.
+Gentle magical energy flows through this land.\
+Here, curiosity comes before danger, and calm precedes tension.\
+As adventurers walk these open fields,\
+they begin to attune themselves to the rhythm of the world.
 
-The Green Field is where players learn the basics of combat,\
-gather their first equipment and materials, and become familiar with the flow of adventure.
+***
 
-With Rotten Hill visible in the distance, this land is more than just an open plain.\
+The Green Field serves as the starting point\
+for learning the fundamentals of exploration and combat.\
+It is a place to gather basic equipment,\
+collect essential materials, and shape the flow of one’s journey.
+
+***
+
+With Rotten hill visible in the distance, this land is far more than a simple plain.\
 It is a place every adventurer must pass through,\
-marking the beginning of a journey in search of **EXTOCIUM**.
+the opening scene of a journey in search of EXTOCIUM.
 
 ***
 
@@ -86,29 +86,27 @@ At an **extremely low probability**, the following weapon items may be dropped.
 {% tab title="한국어" %}
 ### 🌿 푸른 들판 (Green Field)
 
-로튼힐을 벗어나면, 시야 끝까지 푸르게 펼쳐진 들판이 나타납니다.
+로튼힐을 벗어나면, 시야 끝까지 푸르게 펼쳐진 넓은 들판이 모습을 드러냅니다.\
+이곳이 바로 **푸른 들판**입니다.
 
-바람이 스치면 풀잎이 흔들리고, 햇살을 받은 초원은 조용히 반짝입니다.\
-이곳은 모험가가 처음으로 엑스토시움의 세계와 마주하게 되는 장소입니다.
-
-***
-
-푸른 들판에는 마력이 약하게 깃든 산짐승들이 서식하고 있습니다.
-
-다람쥐와 얼룩다람쥐는 풀숲을 오가며 빠르게 움직이고,\
-레서판다와 라쿤은 겉보기와 달리 의외의 민첩함을 보이기도 합니다.\
-넓은 초원을 거니는 엘크는 평온해 보이지만, 위협을 느끼면 강하게 맞서옵니다.
+바람이 스치면 풀잎이 일제히 흔들리고, 햇살을 받은 초원은 조용히 반짝입니다.\
+푸른 들판은 모험가가 처음으로 엑스토시움의 세계와 마주하게 되는 장소입니다.
 
 ***
 
-이곳의 몬스터들은 강력한 마물이라기보다는,\
-모험가가 검을 들고 방패를 드는 법을 하나씩 배워가기에 알맞은 상대들입니다.
+이 들판에는 아직 거칠지 않은 마력이 흐르고 있습니다.\
+위험보다는 여유가, 긴장보다는 호기심이 먼저 느껴지는 땅입니다.\
+모험가는 이곳에서 천천히 걸음을 옮기며 세계의 호흡에 익숙해지게 됩니다.
 
-푸른 들판은 그래서 전투의 기본을 익히고,\
-첫 장비와 재료를 모으며, 모험의 흐름을 몸으로 익히는 공간이 됩니다.
+***
+
+푸른 들판은 전투와 탐험의 기본을 몸으로 익히고, 여정의 리듬을 만들어 가는 출발점입니다.\
+첫 장비를 갖추고, 재료를 모으며, 앞으로 펼쳐질 모험을 준비하는 시간의 땅이기도 합니다.
+
+***
 
 멀리 로튼힐의 모습이 보이는 이 들판은 단순한 평원이 아닙니다.\
-엑스토시움을 찾아 떠나는 여정에서 누구나 반드시 지나가게 되는, **모험의 첫 장면**이 펼쳐지는 곳입니다.
+엑스토시움을 찾아 떠나는 모든 이가 반드시 지나게 되는, 모험의 첫 장면이 펼쳐지는 곳입니다.
 
 ***
 
@@ -143,30 +141,28 @@ At an **extremely low probability**, the following weapon items may be dropped.
 {% tab title="日本語" %}
 ### 🌿 グリーンフィールド（Green Field）
 
-ロッテンヒルを抜けると、視界の果てまで広がる緑の草原が姿を現します。
+ロッテンヒルを離れると、視界の果てまで広がる 緑豊かな草原が現れます。\
+ここが**青き草原**です。
 
-風が吹き抜けるたびに草が揺れ、陽の光を受けた大地は、静かにきらめきます。\
-ここは冒険者がはじめて **EXTOCIUMの世界と向き合う場所**です。
-
-***
-
-グリーンフィールドには、わずかな魔力を宿した山の獣たちが生息しています。
-
-リスやブチリスは草むらを素早く駆け回り、レッサーパンダやラクーンは、\
-おだやかな見た目とは裏腹に 思いがけない俊敏さを見せることもあります。\
-広い草原を歩くエルクは落ち着いた様子ですが、\
-縄張りを侵されると、力強く立ち向かってきます。
+風が吹くたびに草が揺れ、陽の光を受けた大地は静かに輝きます。\
+青き草原は、冒険者が初めて エクストシウムの世界と向き合う場所です。
 
 ***
 
-この地に現れるモンスターたちは、恐るべき魔物というよりも、\
-剣を振り、盾を構えることを学ぶ冒険者にとって 最適な相手と言えるでしょう。
+この草原には、まだ穏やかな魔力が流れています。\
+危険よりも安らぎが、緊張よりも好奇心が先に感じられる土地です。\
+冒険者はここで歩みを進めながら、世界の息遣いに少しずつ慣れていきます。
 
-グリーンフィールドは、戦闘の基本を身につけ、\
-最初の装備や素材を集めながら、冒険の流れに慣れていくための場所です。
+***
 
-遠くにロッテンヒルの姿を望むこの地は、単なる草原ではありません。\
-すべての冒険者が必ず通り過ぎる、**EXTOCIUMを求める旅の始まりの場面**なのです。
+青き草原は、冒険と戦いの基礎を身につけ、旅のリズムを作るための出発点です。\
+最初の装備を整え、素材を集め、これから始まる冒険に備える時間の地でもあります。
+
+***
+
+遠くにロッテンヒルを望むこの草原は、単なる平原ではありません。\
+エクストシウムを求めるすべての者が 必ず通ることになる、\
+冒険の第一幕が開かれる場所なのです
 
 ***
 
