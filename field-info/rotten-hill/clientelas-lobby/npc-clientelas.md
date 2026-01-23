@@ -1,10 +1,24 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 😎 NPC - Clientelas
 
-## 🎭 _Club Coordinator_
+## 🎭 _Sitael - Club Coordinator_&#x20;
 
 <figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_02.png" alt="" width="250"><figcaption></figcaption></figure>
 
@@ -65,7 +79,7 @@ and enjoy a wider range of community content.
 
 
 
-## 🪙 _Patron Coordinator_
+## 🪙 _Haziel -_ _Patron Coordinator_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -76,8 +90,8 @@ and enjoy a wider range of community content.
 > _Patron Coordinator_
 
 Haziel is an NPC in the Clientellas Lobby who manages the **Patron system**.\
-By talking to Haziel, you can register referral codes\
-and manage patron relationships with other players.
+By talking to Haziel, \
+you can register referral codes and manage patron relationships with other players.
 
 Forming a patron relationship grants bonus Gold rewards,\
 making it a valuable system for your adventure.
@@ -127,7 +141,7 @@ making it a valuable system for your adventure.
 
 
 
-## ✨ Club Enhancement Coordinator
+## ✨ _Pahaliah - Club Enhancement Coordinator_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 

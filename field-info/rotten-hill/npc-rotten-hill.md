@@ -1,16 +1,28 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 😎 NPC - Rotten Hill
 
 <div data-full-width="true" data-with-frame="true"><figure><img src="../../.gitbook/assets/KakaoTalk_20250929_140617362_11.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-***
-
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487.png" alt="" width="200"><figcaption></figcaption></figure>
 
-## 🧾 Trader of Rotten Hill&#x20;
+## 🧾 _PARASIEL - Trader of Rotten Hill_&#x20;
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -48,7 +60,7 @@ and sell what you have to earn Gold for your next journey.
 
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_03.png" alt="" width="232"><figcaption></figcaption></figure>
 
-## 🏦 Banker of Rotten Hill
+## 🏦 _**YEYILEL -** Banker of Rotten Hill_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -79,8 +91,7 @@ Manage your assets safely and prepare for your next journey  with the help of YE
 
 > **ロットンヒルのバンカー**
 
-イェイレルはロットンヒルのバンカーとして、\
-冒険者向けの[ゴールド保管サービス](../../xto-token/gold-safe-service.md)を提供しています。\
+イェイレルはロットンヒルのバンカーとして、冒険者向けの[ゴールド保管サービス](../../xto-token/gold-safe-service.md)を提供しています。\
 また、条件を満たすことで [**XTOスワップサービス**](../../xto-token/xto-swap-service/)を利用できます。
 
 資産を安全に管理し、次の冒険に備えましょう。
@@ -91,7 +102,7 @@ Manage your assets safely and prepare for your next journey  with the help of YE
 
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_11.png" alt="" width="300"><figcaption></figcaption></figure>
 
-## 📦 Porter of Rotten Hill
+## 📦 _**MEBAHEL -** Porter of Rotten Hill_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -100,9 +111,9 @@ Manage your assets safely and prepare for your next journey  with the help of YE
 > _**Porter of Rotten Hill**_
 
 MEBAHEL is the porter of Rotten Hill, safely storing items for passing adventurers.\
-He provides up to **100 storage slots**, allowing you to manage your inventory with ease.
+He provides up to **100 storage slots**, allowing you to manage your inventory with ease.\
+Storage services require a fee.
 
-Storage services require a fee.\
 👉 Check [**Warehouse Fee Rates**](warehouse-fee-rates.md) for detailed costs.
 {% endtab %}
 
@@ -112,9 +123,9 @@ Storage services require a fee.\
 > _**로튼힐의 짐꾼**_
 
 메바헬은 로튼힐의 짐꾼으로, 모험가를 위해 아이템 보관 서비스를 제공합니다.\
-총 **100개의 보관 슬롯**을 이용할 수 있어, 가방이 가득 찼을 때 유용하게 활용할 수 있습니다.
+총 **100개의 보관 슬롯**을 이용할 수 있어, 가방이 가득 찼을 때 유용하게 활용할 수 있습니다.\
+보관 서비스에는 비용이 발생합니다.
 
-보관 서비스에는 비용이 발생합니다.\
 👉 자세한 비용은 [**Warehouse Fee Rates**](warehouse-fee-rates.md)에서 확인해 주세요.
 {% endtab %}
 
@@ -124,9 +135,9 @@ Storage services require a fee.\
 > _**ロットンヒルのポーター**_
 
 メバヘルはロットンヒルのポーターとして、冒険者のアイテムを安全に保管します。\
-合計 **100個の保管スロット** を利用でき、インベントリ管理に役立ちます。
+合計 **100個の保管スロット** を利用でき、インベントリ管理に役立ちます。\
+保管サービスには料金がかかります。
 
-保管サービスには料金がかかります。\
 👉 詳細な料金は [**Warehouse Fee Rates**](warehouse-fee-rates.md) をご確認ください。
 {% endtab %}
 {% endtabs %}
@@ -135,7 +146,7 @@ Storage services require a fee.\
 
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_08 (2).png" alt="" width="300"><figcaption></figcaption></figure>
 
-## ✉️ Collector of Abandoned Letters
+## ✉️ _**GILGAMESH -** Collector of Abandoned Letters_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -170,7 +181,7 @@ Bring him letters dropped by monsters, and he will purchase them for a fair pric
 
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_09.png" alt="" width="195"><figcaption></figcaption></figure>
 
-## 🎰 Roulette Dealer
+## 🎰 _**HERMAION -** Roulette Dealer_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -205,7 +216,7 @@ Spend Gold and Arena Coins to spin the wheel and test your luck.
 
 <figure><img src="../../.gitbook/assets/NPC_Niberius.png" alt="" width="282"><figcaption></figcaption></figure>
 
-## ⚖️ PK Contract Broker
+## ⚖️ _**NIBERIUS -** PK Contract Broker_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -214,7 +225,7 @@ Spend Gold and Arena Coins to spin the wheel and test your luck.
 > _**PK Contract Broker**_
 
 NIBERIUS offers contracts for adventurers who wish to quickly reduce their [PK score](../../system/pk/).\
-Each contract requires **Gold** and a **Pen of Oblivion**, \
+Each contract requires **Gold** and a **Pen of Oblivion**,  \
 with the Gold cost varying based on the Hero’s level.
 
 The Pen of Oblivion can be obtained from [**HERMAION’s Roulette**](../../gamemode/1vs1-arena/arena-roulette.md).
