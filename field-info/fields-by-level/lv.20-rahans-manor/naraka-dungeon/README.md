@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🗿 Naraka - Dungeon
@@ -8,26 +8,143 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-Nestled deep within the fertile reaches of Rahan's Manor, the Naraka Dungeon is an ancient relic shrouded in shadow and mystery. Once a sacred yet brutal chamber of punishment wielded by the gods, it served as a place where sinners faced divine retribution amid roaring flames and anguished cries. But when the gods vanished from this world, the fires of Naraka guttered out, leaving the dungeon abandoned for countless ages. For centuries, it lay dormant—a silent ruin swallowed by dust and stillness, as if time itself had turned its back on the place.
+### 🔥 Naraka Dungeon&#x20;
 
-Recently, however, whispers have begun to ripple across the Asterica continent. Word has spread of a glowing orb unearthed in the dungeon’s subterranean depths—an artifact said to hold a power capable of ensnaring souls and twisting minds. This rumor has set the hearts of adventurers ablaze, drawing the bold and the greedy alike to Rahan's Manor in search of this enigmatic treasure. The dungeon’s entrance lies hidden beneath jagged volcanic rock, where a chilling breeze seeps through the cracks, carrying echoes of its punitive past. Venture deeper, and the walls come alive with faintly glowing runes etched in the tongue of the gods, radiating an aura of dread and grandeur long forgotten.
+Deep beneath Rahan’s Manor lies an ancient place shaped by the will of the gods.\
+This is the **Naraka Dungeon**.
 
-Some say it’s no coincidence that the lord of Rahan built a manor nearby. Local tongues wag that his intentions go beyond tending to the golden wheat fields—that he’s secretly probing the depths of Naraka to uncover its buried secrets. Those brave enough to descend into the dungeon often find more than they bargained for: instead of the orb, they encounter low, guttural moans reverberating through the dark and shadowy figures that flicker just out of sight. Naraka feels alive, testing intruders with the lingering wrath of its divine creators. It’s a place that promises riches but guards them with peril and enigma—a forbidden domain where the past refuses to rest.
+Long ago, Naraka served as a place of judgment,\
+where the gods punished sinners and weighed their souls.\
+It is said that flames of hell once burned endlessly here,\
+and the echoes of suffering never faded.\
+It was a space both sacred and cruel, where divine authority and fear existed side by side.
+
+***
+
+After the gods vanished from this world, Naraka was abandoned and forgotten.\
+The infernal flames went out, and the dungeon was left to time, dust, and silence.\
+What remains now is a ruin, as if time itself has stopped deep underground.
+
+***
+
+Recently, however, a rumor began to spread across the Asterica continent.\
+A **glowing orb** was discovered deep within Naraka’s underground prison.\
+This orb is said to be no ordinary gem,\
+but an artifact that can disturb the mind and manipulate the human soul.
+
+The story quickly drew the attention of adventurers,\
+and those driven by courage or desire began to gather near Rahan’s Manor.
+
+***
+
+The entrance to Naraka Dungeon is sealed by ancient volcanic stone.\
+Cold air leaks through its cracks, as if whispering fragments of the dungeon’s grim past.\
+As one ventures deeper inside, faint symbols carved in the language of the gods\
+begin to glow along the walls, reviving memories of forgotten fear and authority.
+
+***
+
+It is said that the lord of Rahan built his estate nearby for a reason.\
+Some believe it was not merely to oversee the fertile lands,\
+but to keep watch over the secrets buried beneath Naraka.
+
+Naraka Dungeon is a place that promises treasure,\
+yet holds the lingering memory of divine judgment.\
+Those who enter are not only tested in battle,\
+but confronted with the echoes of sin and punishment left behind by the gods.
+
+The flames are gone, but Naraka has not truly fallen silent.
 {% endtab %}
 
 {% tab title="한국어" %}
-나라카 던전은 라한 영지의 깊은 품속, 어둠이 짙게 깔린 지하에 자리 잡고 있는 고대의 유산이다. 이곳은 한때 신들이 죄인을 벌하고 혼을 심판하던 형벌장으로, 불타는 지옥의 화염과 비명 소리가 끊이지 않던 신성하면서도 잔혹한 공간이었다. 그러나 신들이 이 땅에서 자취를 감춘 뒤, 나라카는 지옥의 불길이 스러진 채로 긴 세월 동안 잊혀진 폐허로 남아 있었다. 먼지와 침묵만이 쌓인 이곳은 마치 시간이 멈춘 듯한 고요 속에서 잠들어 있었다.
+### 🔥 나라카 던전 (Naraka Dungeon)
 
-그런데 최근, 아스테리카 대륙에 한 이야기가 퍼지기 시작했다. 나라카의 지하 감옥 깊은 곳에서 빛나는 구슬이 발견되었다는 소문이었다. 그 구슬은 단순한 보석이 아니라, 인간의 혼을 농락하고 마음을 뒤흔드는 신비로운 힘을 품고 있다고 전해진다. 이 소문은 모험가들의 가슴에 불을 지폈고, 용기와 탐욕을 품은 이들이 라한 영지로 몰려들었다. 나라카 던전의 입구는 오래된 화산석으로 뒤덮여 있고, 그 틈새로 새어나오는 차가운 바람은 형벌장의 잔재를 속삭이는 듯하다. 안으로 들어갈수록 벽면에는 신들의 언어로 새겨진 불길한 문양들이 희미하게 빛나며, 과거의 공포와 위엄을 되살린다.
+라한영지의 깊은 땅속에는, 오래전 신들의 손에 의해 만들어진 장소, **나라카 던전**이 잠들어 있습니다.
 
-라한 영주가 이곳 근처에 별장을 지은 것도 우연이 아니라는 이야기가 떠돈다. 사람들은 그가 단순히 풍요로운 밀밭을 관리하기 위해서가 아니라, 나라카의 지하 감옥에 숨겨진 비밀을 캐내려는 속셈을 품고 있다고 수군거린다. 던전 깊숙이 들어간 모험가들은 구슬을 찾는 대신, 어둠 속에서 울려 퍼지는 낮은 신음 소리와 형체 없는 그림자들에 맞닥뜨리곤 한다. 나라카는 여전히 살아 있는 듯, 침입자들을 시험하며 신들의 잊힌 분노를 간직하고 있다. 이곳은 보물을 약속하지만, 그만큼 위험과 미스터리로 가득한 금단의 영역이다.
+이곳은 한때 신들이 죄인을 심판하고 벌을 내리던 형벌의 공간이었습니다.\
+불타는 화염과 끝없는 비명이 울려 퍼지던 이 지하는,\
+신성함과 잔혹함이 동시에 존재하던 곳이었다고 전해집니다.
+
+***
+
+그러나 신들이 이 세계에서 자취를 감춘 뒤, 나라카 던전 역시 오랜 시간 잊혀진 채 방치되었습니다.\
+지옥의 불길은 꺼지고, 먼지와 침묵만이 쌓이며 시간이 멈춘 듯한 폐허로 남게 되었습니다.
+
+***
+
+최근 들어, 나라카 던전 깊은 지하 감옥에서\
+정체를 알 수 없는 **빛나는 구슬**이 발견되었다는 소문이 퍼지기 시작했습니다.\
+그 구슬은 단순한 보석이 아니라,\
+사람의 마음과 혼을 흔드는 강력한 힘을 지니고 있다고 전해집니다.
+
+이 소문은 곧 모험가들의 발걸음을 라한영지로 끌어당겼습니다.
+
+***
+
+나라카 던전의 입구는 오래된 화산석으로 둘러싸여 있으며,\
+그 틈새에서 불어오는 차가운 바람은 과거 형벌장의 흔적을 속삭이는 듯합니다.\
+던전 안으로 들어갈수록, \
+벽면에는 신들의 언어로 새겨진 문양이 희미하게 빛나며 잊혀진 공포와 위엄을 되살립니다.
+
+***
+
+라한 영주가 이곳 근처에 별장을 세운 것 역시 우연이 아니라는 이야기가 전해집니다.\
+사람들은 그가 단순히 영지를 관리하기 위해서가 아니라,\
+나라카 던전 깊숙이 숨겨진 비밀을 주시하고 있기 때문이라고 수군댑니다.
+
+***
+
+나라카 던전은 보물을 약속하는 장소이자, 신들의 분노와 심판의 기억이 남아 있는 시험의 땅입니다.\
+이곳에 발을 들이는 모험가는 단순한 전투를 넘어, 과거의 죄와 선택이 남긴 흔적과 마주하게 됩니다.
+
+불길은 사라졌지만, 나라카는 아직 완전히 잠들지 않았습니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-ナラカのダンジョンは、ラハン領の豊かな土地の奥深く、闇に包まれた地下にひっそりと佇む古代の遺跡です。かつては神々が罪人を裁き、魂を罰する場所として使われ、地獄の炎が燃え盛る中、叫び声が響き渡る神聖かつ残酷な空間でした。でも、神々がこの世界から姿を消した後、ナラカの炎は消え、何世紀もの間、放置されたまま忘れ去られていました。埃と静寂だけが積もり、まるで時間が止まってしまったかのような寂しさに包まれていたんです。
+### 🔥 ナラカ・ダンジョン（Naraka Dungeon）
 
-ところが最近、アステリカ大陸に一つの噂が広まり始めました。ナラカの地下牢の奥底で、光り輝く珠が見つかったというのです。その珠はただの宝石じゃなく、人間の魂を惑わし、心をかき乱す不思議な力を宿していると囁かれています。この話に心を奪われた冒険者たちは、勇気と欲望を胸にラハン領へと集まってきました。ダンジョンの入り口は古い火山岩に覆われていて、そこから吹き出す冷たい風は、過去の刑場を思わせる何かを運んでくるようです。奥へ進むほど、壁には神々の言葉で刻まれた不気味な文様がほのかに光り、遠い昔の恐怖と威厳を呼び起こします。
+ラハン領の地下深くには、かつて神々の意志によって築かれた古代の場所、\
+**ナラカ・ダンジョン**が眠っています。
 
-ラハン領主が近くに別荘を建てたのも偶然じゃないって噂が流れています。豊かな小麦畑を管理するだけじゃなく、ナラカの地下牢に隠された秘密を探ろうとしているんじゃないかって、みんながひそひそ話してるんです。ダンジョンの奥深くに足を踏み入れた冒険者たちは、珠を見つけるどころか、闇の中から響く低い唸り声や、形のない影たちと対峙することに。ナラカは今も生きているみたいに、侵入者を試し、神々の忘れられた怒りを抱き続けています。宝を約束する一方で、危険と謎に満ちた禁断の領域なんです。
+この地は、神々が罪人を裁き、魂を審判していた 処罰の場でした。\
+地獄の炎が絶え間なく燃え上がり、苦しみの声が響き続けていたと伝えられています。\
+聖なる威厳と残酷さが同時に存在する、恐怖に満ちた空間でした。
+
+***
+
+しかし神々がこの世界から姿を消した後、\
+ナラカ・ダンジョンは長い年月、忘れ去られました。\
+地獄の炎は消え、静寂と埃だけが積もり、時が止まったかのような廃墟となったのです。
+
+***
+
+近頃になって、アステリカ大陸にひとつの噂が広まり始めました。\
+ナラカの地下牢の奥深くで、正体不明の**光る球体**が発見されたというのです。\
+それは単なる宝石ではなく、人の心や魂を揺さぶる 強大な力を秘めた存在だと語られています。
+
+この噂は冒険者たちの心を刺激し、勇気や欲望に突き動かされた者たちが\
+ラハン領へと集まり始めました。
+
+***
+
+ナラカ・ダンジョンの入口は、古い火山岩によって封じられています。\
+その隙間から吹き出す冷たい風は、かつての処罰の記憶を囁いているかのようです。\
+内部へ進むにつれ、神々の言語で刻まれた文様が\
+壁面に淡く光り、忘れ去られた恐怖と威厳を呼び覚まします。
+
+***
+
+ラハン領主がこの地の近くに別邸を構えたのも、決して偶然ではないと噂されています。\
+豊かな土地を管理するためだけでなく、ナラカの地下に眠る秘密を\
+見張るためだと言われています。
+
+ナラカ・ダンジョンは、財宝を約束する場所であると同時に、\
+神々の裁きと怒りの記憶が残る試練の地です。\
+ここに足を踏み入れる冒険者は、戦いだけでなく、\
+過去に刻まれた罪と審判の残響に向き合うことになります。
+
+炎は消え去りましたが、ナラカはまだ完全には眠っていません。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

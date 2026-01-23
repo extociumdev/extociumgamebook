@@ -1,297 +1,326 @@
 ---
-description: >-
-  ※ This guide was written based on the game status as of December 25, 2025, and
-  its contents may change with future updates.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🎟️ Dungeon Entry Guide
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🎟️ Dungeon Entry Pass Guide
+### 🎟️ Dungeon Entry Guide
 
-To enter **Naraka-type dungeons**, you’ll need the **correct dungeon entry pass** for each one.\
-No pass, no entry - rules are rules 😉
+To enter **Naraka-type dungeons**, you must have the **matching Dungeon Entry Pass**.
+
+Without an entry pass, you will not be able to enter the dungeon.\
+Make sure to prepare your pass before heading in.
 
 ***
 
-#### 🗺️ Target Dungeons
+### ◾ Available Dungeons
 
-The Naraka dungeon lineup includes **three dungeons**, \
-and **all of them require an entry pass** to enter:
+The Naraka dungeon series consists of **three dungeons**.
 
 * [**Sanjiva**](lv.30-sanjiva.md)
-* [**Kalasūtra**](lv.40-kalasutra.md)
-* [**Saṃghāta**](lv.50-samgata.md)
+* [**Kalasutra**](lv.40-kalasutra.md)
+* [**Samghata**](lv.50-samgata.md)
 
-{% hint style="info" %}
-#### Without a valid entry pass, you won’t be able to step inside.
+{% hint style="success" %}
+All Naraka dungeons **require a Dungeon Entry Pass** to enter.
 {% endhint %}
 
 ***
 
-#### ⏱️ Types of Entry Passes
+### ◾ Types of Dungeon Entry Passes
 
-Dungeon entry passes are categorized by **entry mode** and **usage duration**.
+Dungeon Entry Passes are divided by **entry type** and **usage time**.
 
-**▶ Entry Mode**
+#### ▶ Entry Type
 
-* **Party Pass** – Entry only possible while in a party
-* **Solo Pass** – Enter alone, no party required
+* **Solo Entry Pass**\
+  Allows you to enter the dungeon alone.
+* **Party Entry Pass**\
+  Can only be used while in a party.
 
-**▶ Usage Duration**
+#### ▶ Usage Time
 
-* **1-Hour Pass**
-* **3-Hour Pass**
+* **1-Hour Entry Pass**
+* **3-Hour Entry Pass**
 
-_Entry passes are **time-based items**._ \
-_Once activated, you can use the dungeon freely for the selected duration._
+Entry Passes are **time-based items**.\
+Once activated, you can use the dungeon freely for the duration of the pass.
 
 ***
 
-#### 📦 How to Obtain Entry Passes
+### ◾ How to Obtain Dungeon Entry Passes
 
-You can get dungeon entry passes through several methods:
+You can obtain Dungeon Entry Passes in the following ways.
 
-* **Market Purchase**\
-  Dashboard → Marketplace → Items → Scroll\
-  Buy entry passes listed by other players.
+#### 📦 Marketplace Purchase
+
+* Go to **Dashboard > Marketplace > Items > Scrolls**
+* Purchase Entry Passes listed by other adventurers.
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ1.jpg" alt=""><figcaption></figcaption></figure>
 
-* **Lucky Pass Rewards**\
-  Obtainable as rewards from the Lucky Pass mini-game content.
+#### 🎲 Lucky Pass Rewards
+
+* Obtain Entry Passes as rewards from the **Lucky Pass** mini-game content.
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ6.jpeg" alt=""><figcaption></figcaption></figure>
 
-* **Monster Drops**\
-  Very low chance to drop from dungeon or field monsters.
+#### ⚔️ Monster Drops
 
+* Dungeon and field monsters have a **very low chance** to drop Entry Passes.
 
+#### 🛒 X Point Shop
 
-* **X-Point Shop**\
-  Shop → Item Shop\
-  Purchase using X-Points.
+* Go to **Shop > Item Shop**
+* Purchase Entry Passes using **X Points**.
 
 <figure><img src="../../../../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
 
-* **Crafting**
+#### 🛠️ Crafting
+
+* Entry Passes can also be crafted once the required conditions are met.
 
 ***
 
-#### 🛠️ Entry Pass Crafting Guide
+### ◾ Crafting Dungeon Entry Passes
 
-To craft dungeon entry passes, you must meet the following requirement:
+To craft Dungeon Entry Passes, you must meet the following requirement first.
 
-* **Training → Monsterology unlocked**
+#### ▶ Crafting Requirement
+
+* Unlock **Monster Studies** in **Training**
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ2.jpg" alt=""><figcaption></figcaption></figure>
 
-*   Once dungeon entry pass crafting is unlocked in Monsterology:
+Once Dungeon Entry Pass crafting is unlocked, you can craft passes from the menu below.
 
-    Go to **Crafting → Items → Scroll** to start crafting.
+* **Craft > Items > Scrolls**
 
 <figure><img src="../../../../.gitbook/assets/image (951).png" alt=""><figcaption></figcaption></figure>
 
-**📜 Crafting Rules**
+#### ▶ Crafting Rules
 
-* 3× Solo Pass (1 Hour) → 1× Solo Pass (3 Hours)
-* 3× Party Pass (1 Hour) → 1× Party Pass (3 Hours)
+* **3 Solo Entry Passes (1 Hour) → 1 Solo Entry Pass (3 Hours)**
+* **3 Party Entry Passes (1 Hour) → 1 Party Entry Pass (3 Hours)**
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ5.jpg" alt=""><figcaption></figcaption></figure>
 
-Crafting helps you manage your entry passes **more efficiently** and saves resources in the long run.
-
-✨ Smart prep leads to smoother dungeon runs. You’ve got this, Wizard!
+_Using crafting allows you to manage your Entry Passes more efficiently._
 {% endtab %}
 
 {% tab title="한국어" %}
-### 🎟️ 던전 입장권 획득 안내
+### 🎟️ 던전 입장 안내
 
-나라카 계열 던전에 입장하기 위해서는\
-각 던전에 대응하는 **던전 입장권**이 필요합니다.
+나라카 계열 던전에 입장하려면 **해당 던전에 맞는 던전 입장권**이 필요합니다.\
+입장권이 없으면 던전에 들어갈 수 없으니, 먼저 입장권을 준비해 주세요.
 
 ***
 
-#### 🗺️ 대상 던전
+### ◾ 대상 던전 안내
 
-나라카 던전은 아래 3개의 던전으로 구성되어 있으며,\
-모든 던전은 입장 시 입장권이 필요합니다.
+나라카 던전은 아래 **3개의 던전**으로 구성되어 있습니다.
 
 * [**산지바**](lv.30-sanjiva.md)
 * [**칼라수트라**](lv.40-kalasutra.md)
 * [**삼가타**](lv.50-samgata.md)
 
-{% hint style="info" %}
-#### 각 던전은 입장권이 없을 경우 진입할 수 없습니다.
+{% hint style="success" %}
+모든 나라카 던전은 입장 시 **반드시 던전 입장권이 필요**합니다.
 {% endhint %}
 
 ***
 
-#### ⏱️ 입장권 종류
+### ◾ 던전 입장권 종류
 
-던전 입장권은 **입장 방식**과 **사용 시간**에 따라 구분됩니다.
+던전 입장권은 **입장 방식**과 **사용 시간**에 따라 나뉩니다.
 
-**▶ 입장 방식**
+#### ▶ 입장 방식
 
-* **파티 입장권** _(파티 상태에서만 입장 가능)_
-* **솔로 입장권** _(파티 없이 혼자 입장)_
+* **솔로 입장권**\
+  혼자서 던전에 입장할 수 있습니다.
+* **파티 입장권**\
+  파티 상태에서만 던전에 입장할 수 있습니다.
 
-**▶ 사용 시간**
+#### ▶ 사용 시간
 
 * **1시간 입장권**
 * **3시간 입장권**
 
-_입장권은 **시간제 아이템**으로, 사용 시 해당 시간 동안 던전 이용이 가능합니다._
+입장권은 **시간제 아이템**입니다.\
+사용하면 해당 시간 동안 던전을 자유롭게 이용할 수 있습니다.
 
 ***
 
-#### 📦 입장권 획득 방법
+### ◾ 던전 입장권 획득 방법
 
-던전 입장권은 다음과 같은 방법으로 획득할 수 있습니다.
+던전 입장권은 아래 방법으로 획득할 수 있습니다.
 
-* **거래소 구매**\
-  대시보드>거래소>아이템>스크롤 로 진입하며 다른 유저가 판매한 입장권을 구매할 수 있습니다.
+#### 📦 거래소 구매
+
+* **대시보드 > 거래소 > 아이템 > 스크롤**
+* 다른 모험가가 판매한 입장권을 구매할 수 있습니다.
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ1.jpg" alt=""><figcaption></figcaption></figure>
 
-* **럭키패스 보상**\
-  미니게임 콘텐츠인 럭키패스 보상으로 획득할 수 있습니다.
+#### 🎲 럭키패스 보상
+
+* 미니게임 콘텐츠 **럭키패스** 보상으로 획득할 수 있습니다.
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ6.jpeg" alt=""><figcaption></figcaption></figure>
 
-* **몬스터 드랍**\
-  던전 및 필드 몬스터 사냥 시 매우 낮은 확률로 드랍됩니다.
+#### ⚔️ 몬스터 드랍
+
+* 필드 및 던전 몬스터 사냥 시 **아주 낮은 확률**로 획득할 수 있습니다.
 
 
 
-* **X포인트 샵 구매**\
-  샵 > 아이템샵 에서 X포인트를 사용하여 구매할 수 있습니다.
+#### 🛒 X포인트 샵 구매
+
+* **샵 > 아이템샵**
+* X포인트를 사용해 입장권을 구매할 수 있습니다.
 
 <figure><img src="../../../../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
 
-* **직접 제작**
+#### 🛠️ 직접 제작
+
+* 조건을 만족하면 입장권을 직접 제작할 수도 있습니다.
 
 ***
 
-#### 🛠️ 입장권 제작 안내
+### ◾ 던전 입장권 제작 방법
 
-입장권 제작은\
-다음 조건을 충족해야 가능합니다.
+입장권 제작을 위해서는 먼저 아래 조건을 충족해야 합니다.
 
-* **기술연마 > 마물학 해금 필요**
+#### ▶ 제작 조건
+
+* **기술 연마 > 마물학** 해금 필요
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ2.jpg" alt=""><figcaption></figcaption></figure>
 
-* **마물학**에서 던전 입장권 해금 완료 시,\
-  **제작 > 아이템 > 스크롤** 메뉴에서 입장권 제작 가능
+마물학에서 던전 입장권 해금을 완료하면, 아래 메뉴에서 제작이 가능합니다.
+
+* **제작 > 아이템 > 스크롤**
 
 <figure><img src="../../../../.gitbook/assets/image (951).png" alt=""><figcaption></figcaption></figure>
 
-제작 관련 규칙은 다음과 같습니다.
+#### ▶ 제작 규칙
 
-* 솔로 입장권 (1시간) 3개 → 솔로 입장권 (3시간) 1개 제작 가능
-* 파티 입장권 (1시간) 3개 → 파티 입장권 (3시간) 1개 제작 가능
+* **솔로 입장권 (1시간) 3개 → 솔로 입장권 (3시간) 1개**
+* **파티 입장권 (1시간) 3개 → 파티 입장권 (3시간) 1개**
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ5.jpg" alt=""><figcaption></figcaption></figure>
 
-_제작을 통해 보다 효율적으로 입장권을 운용할 수 있습니다._
+_제작을 활용하면 입장권을 더 효율적으로 관리할 수 있습니다._
 {% endtab %}
 
 {% tab title="日本語" %}
-### 🎟️ ダンジョン入場券のご案内
+### 🎟️ ダンジョン入場案内
 
-**ナラカ系ダンジョン**に挑戦するには、\
-各ダンジョンに対応した**ダンジョン入場券**が必要となります。\
-入場券がない場合、ダンジョンへ入ることはできませんのでご注意ください。
+ナラカ系ダンジョンに入場するには、**対応するダンジョン入場券**が必要です。
+
+入場券がない場合、ダンジョンに入ることはできません。\
+入場前に、必ず入場券を準備してください。
 
 ***
 
-#### 🗺️ 対象ダンジョン
+### ◾ 対象ダンジョン
 
-ナラカダンジョンは、以下の**3つのダンジョン**で構成されています。\
-すべてのダンジョンで、入場時に入場券が必要です。
+ナラカダンジョンは、以下の**3つのダンジョン**で構成されています。
 
-* [**サンジヴァ**](lv.30-sanjiva.md)
-* [**カラスートラ**](lv.40-kalasutra.md)
-* [**サンガータ**](lv.50-samgata.md)
+* [**サンジーヴァ**](lv.30-sanjiva.md)**（Sanjiva）**
+* [**カラシュトラ**](lv.40-kalasutra.md)**（Kalasutra）**
+* [**サンガータ**](lv.50-samgata.md)**（Samghata）**
 
-{% hint style="info" %}
-#### 入場券を所持していない場合、ダンジョンには入場できません。
+{% hint style="success" %}
+すべてのナラカダンジョンは、**入場時にダンジョン入場券が必須**です。
 {% endhint %}
 
 ***
 
-#### ⏱️ 入場券の種類
+### ◾ ダンジョン入場券の種類
 
-ダンジョン入場券は、**入場方式**と**使用時間**によって分類されます。
+ダンジョン入場券は、\
+**入場方法**と**使用時間**によって分かれています。
 
-**▶ 入場方式**
+#### ▶ 入場方法
 
-* **パーティ入場券**（パーティ状態でのみ入場可能）
-* **ソロ入場券**（パーティなしで単独入場）
+* **ソロ入場券**\
+  パーティを組まず、1人で入場できます。
+* **パーティ入場券**\
+  パーティ状態でのみ使用できます。
 
-**▶ 使用時間**
+#### ▶ 使用時間
 
 * **1時間入場券**
 * **3時間入場券**
 
-_入場券は**時間制アイテム**です。_\
-_使用すると、指定された時間内でダンジョンを利用できます。_
+入場券は**時間制アイテム**です。\
+使用すると、\
+指定された時間内は自由にダンジョンを利用できます。
 
 ***
 
-#### 📦 入場券の入手方法
+### ◾ ダンジョン入場券の入手方法
 
-ダンジョン入場券は、以下の方法で入手可能です。
+ダンジョン入場券は、以下の方法で入手できます。
 
-* **取引所で購入**\
-  ダッシュボード → 取引所 → アイテム → スクロール\
-  他のプレイヤーが出品した入場券を購入できます。
+#### 📦 マーケット購入
+
+* **ダッシュボード > マーケット > アイテム > スクロール**
+* 他の冒険者が販売している入場券を購入できます。
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ1.jpg" alt=""><figcaption></figcaption></figure>
 
-* **ラッキーパス報酬**\
-  ミニゲームコンテンツ「ラッキーパス」の報酬として獲得可能です。
+#### 🎲 ラッキーパス報酬
+
+* ミニゲームコンテンツ **ラッキーパス**の報酬として獲得できます。
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ6.jpeg" alt=""><figcaption></figcaption></figure>
 
-* **モンスタードロップ**\
-  ダンジョンおよびフィールドモンスター討伐時、\
-  **非常に低い確率**でドロップします。
+#### ⚔️ モンスタードロップ
 
+* フィールドやダンジョンのモンスターから **非常に低い確率**でドロップします。
 
+#### 🛒 Xポイントショップ
 
-* **Xポイントショップ**\
-  ショップ → アイテムショップ にて\
-  Xポイントを使用して購入できます。
+* **ショップ > アイテムショップ**
+* Xポイントを使用して購入できます。
 
 <figure><img src="../../../../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
 
-* **制作（クラフト）**
+#### 🛠️ 自作（クラフト）
+
+* 条件を満たすことで、入場券を自分で制作することも可能です。
 
 ***
 
-#### 🛠️ 入場券制作のご案内
+### ◾ ダンジョン入場券の制作方法
 
-* 入場券を制作するには、以下の条件を満たす必要があります。\
-  **技術研磨 → 魔物学を解放すると、ダンジョン入場券を制作できるようになります。**
+入場券を制作するには、以下の条件を満たす必要があります。
+
+#### ▶ 制作条件
+
+* **技術研磨 > 魔物学** を解放する
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ2.jpg" alt=""><figcaption></figcaption></figure>
 
-* 魔物学でダンジョン入場券の解放が完了すると、\
-  **制作 → アイテム → スクロール** メニューから制作が可能になります。
+魔物学でダンジョン入場券の解放が完了すると、以下のメニューから制作できます。
+
+* **制作 > アイテム > スクロール**
 
 <figure><img src="../../../../.gitbook/assets/image (951).png" alt=""><figcaption></figcaption></figure>
 
-**📜 制作ルール**
+#### ▶ 制作ルール
 
-* ソロ入場券（1時間）×3 → ソロ入場券（3時間）×1
-* パーティ入場券（1時間）×3 → パーティ入場券（3時間）×1
+* **ソロ入場券（1時間）3枚 → ソロ入場券（3時間）1枚**
+* **パーティ入場券（1時間）3枚 → パーティ入場券（3時間）1枚**
 
 <figure><img src="../../../../.gitbook/assets/ㄷㅈ5.jpg" alt=""><figcaption></figcaption></figure>
 
-制作を活用することで、\
-入場券をより**効率的に運用**することができます。
+_制作を活用することで、入場券をより効率的に管理できます。_
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
