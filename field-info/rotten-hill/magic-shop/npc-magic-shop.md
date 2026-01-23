@@ -1,12 +1,26 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 😎 NPC - Magic Shop
 
 <figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_07.png" alt="" width="300"><figcaption></figcaption></figure>
 
-## �&#xDC94;_&#x54;he Breaker of Arms_
+## 💔 _**ELIGOS -** The Breaker of Arms_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -66,7 +80,7 @@ sometimes leaves behind unexpected rewards.
 
 <figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_05.png" alt="" width="205"><figcaption></figcaption></figure>
 
-## �&#xDD01;_&#x54;he Weapon Reload Smith_
+## 🔁 _**BARBATOS -** The Weapon Reload Smith_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -128,7 +142,7 @@ If you’re looking to start fresh with a weapon, Barbatos is the one to visit.
 
 <figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_04.png" alt="" width="308"><figcaption></figcaption></figure>
 
-## �&#xDDEA;_&#x41;lchemist of the Magic Shop_
+## 🧪 _**AMONAS -** Alchemist of the Magic Shop_
 
 {% tabs %}
 {% tab title="ENG" %}
