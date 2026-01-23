@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🏔️ \~Lv.30 Cursed Tomb
@@ -10,54 +10,41 @@ description: 🛑 This information may be updated later than the game server dat
 {% tab title="ENG" %}
 ### ⚰️ Cursed Tomb
 
-Deep within the shadows of the Asterica Kingdom,\
-there lies a place marked by an ancient tragedy known as the Cursed Tomb.
+Deep within the darkness of the Asterica Kingdom\
+lies a place marked by an ancient tragedy, known as the **Cursed Tomb**.
 
-This land is said to be the site where Lugal, the king of the Umma Kingdom,\
-was executed during the rise of Sargon,\
-who destroyed Umma and founded the Asterica Kingdom upon its ruins.\
-From that day on, an inescapable curse was cast upon this ground.
+This site is said to be where **Lugal**,\
+the king of the **Umma Kingdom**, was executed during the rise of **Sargon**,\
+as he destroyed Umma and founded the Asterica Kingdom.\
+From that day on, an unshakable shadow of curse fell upon this land.
 
 ***
 
 Lugal’s death was not the end.
 
-It is said that his family, \
-loyal retainers, and even servants were buried alive alongside him,\
-their anguish and resentment seeping deep into the land.\
-The curse born from their suffering was so powerful \
-that the spirits were unable to pass on to the afterlife.
+It is said that his family, loyal retainers, and even servants were buried alongside him,\
+and the resentment of countless souls soaked deep into the ground.
 
-Even now, the restless dead are said to wander the tomb,\
-tormenting the living who dare to enter.\
-At night, cold winds carry sounds like quiet sobbing, sending chills through all who hear them.
+The curse was so powerful that the spirits could not pass on to the afterlife\
+and are believed to still linger here.\
+At night, rumors tell of sob-like sounds carried on the cold wind.
 
 ***
 
-Within the Cursed Tomb, creatures twisted by darkness reveal themselves.
+The Cursed Tomb is a land\
+where tragedy and unresolved hatred remain entwined.
 
-Foxes cry out sharp warnings, \
-while wolves lurk within the shadows, watching intruders closely.\
-Crows perch upon bare branches,\
-uttering ominous calls as if whispering the stories of the dead.
-
-Elks, warped by the curse, loom with crimson eyes and massive, distorted antlers,\
-and Scavengers crawl through the ruins, picking through the remnants of death.
+Once known for its rich deposits of amethyst, the region changed after the calamity.\
+Amethyst mined from this place is said\
+to carry traces of the curse within its beautiful violet glow.
 
 ***
 
-This region was once known as a rich source of **Amethyst ore**.
+Many adventurers still seek treasure here, yet often turn back\
+when faced with the weight of the curse  that clings to the land itself.
 
-After the tragedy, however,\
-the amethyst mined from this land came to carry a powerful curse\
-within its beautiful violet glow.\
-Those who seek it are said to suffer misfortune and madness.
-
-Many adventurers come in search of treasure, only to turn back in fear\
-before the wrath of **Lugal’s spirit** and the vengeful souls that follow him.
-
-The Cursed Tomb remains a forbidden land, \
-where past tragedy and unresolved hatred intertwine, still breathing as if it were alive.
+The Cursed Tomb is a forbidden place where past tragedy has never truly ended,\
+a land that feels as though it still breathes with lingering sorrow.
 
 ***
 
@@ -92,9 +79,10 @@ At an extremely low probability, the following weapon items may be dropped.
 {% tab title="한국어" %}
 ### ⚰️ 저주받은 무덤 (Cursed Tomb)
 
-아스테리카 왕국의 깊은 어둠 속에는 오래된 비극의 흔적이 남아 있는 장소, 저주받은 무덤이 존재합니다.
+아스테리카 왕국의 깊은 어둠 속에는, 오래된 비극의 흔적이 남아 있는 장소,\
+**저주받은 무덤**이 존재합니다.
 
-이곳은 과거, 사르곤이 움마 왕국을 멸망시키고 아스테리카 왕국을 세우는 과정에서\
+이곳은 과거, **사르곤**이 **움마 왕국**을 멸망시키고 아스테리카 왕국을 세우는 과정에서,\
 움마의 왕 **루갈**이 처형된 자리로 전해집니다.\
 그날 이후, 이 땅에는 지워지지 않는 저주의 그림자가 드리워졌습니다.
 
@@ -102,35 +90,26 @@ At an extremely low probability, the following weapon items may be dropped.
 
 루갈의 죽음은 끝이 아니었습니다.
 
-그의 무덤에는 왕의 가족과 신하들, 그리고 하인들까지 함께 묻혔다고 전해지며,\
-수많은 원혼의 원망이 이 땅에 스며들었다고 합니다.
+그의 무덤에는 왕의 가족과 충직한 신하들 그리고 하인들까지 함께 묻혔다고 전해지며,\
+수많은 원혼의 원망이 이 땅에 깊이 스며들었다고 합니다.
 
-그 저주는 너무도 강해 망령들은 저승으로 떠나지 못한 채,\
-지금도 무덤 주변을 떠돌며 살아 있는 자들을 괴롭힌다고 전해집니다.
-
-밤이 되면 차가운 바람 사이로 흐느낌 같은 소리가 들려온다는 소문도 있습니다.
+그 저주는 너무도 강해,  망령들은 저승으로 떠나지 못한 채 지금도 이곳에 머물러 있다고 전해집니다.\
+밤이 되면, 차가운 바람 사이로 흐느낌 같은 소리가 들려온다는 소문도 있습니다.
 
 ***
 
-저주받은 무덤에는 어둠에 물든 생명체들이 모습을 드러냅니다.
+저주받은 무덤은 과거의 비극과 원한이 얽힌 땅입니다.
 
-여우는 날카로운 울음으로 경고를 보내고, 늑대는 그림자 속에서 침입자를 노립니다.\
-까마귀는 나뭇가지 위에서 불길한 소리를 내며, 망자의 이야기를 속삭이듯 울어댑니다.
-
-저주의 힘에 뒤틀린 엘크는 붉은 눈과 거대한 뿔로 위협을 가하고,\
-스캐빈저는 폐허를 헤매며 죽음의 흔적을 뒤지고 있습니다.
+한때 이 지역은 자수정 광석이 풍부한 장소로 알려졌지만,\
+비극 이후 이곳에서 채굴된 자수정은 아름다운 보랏빛 속에 저주의 기운을 품게 되었다고 전해집니다.
 
 ***
-
-이 지역은 한때 자수정 광석이 풍부한 장소로 알려졌습니다.
-
-그러나 비극 이후, \
-이곳에서 채굴된 자수정은 아름다운 보랏빛 속에 저주의 기운을 품게 되었다고 전해집니다.
 
 그 때문에 많은 모험가들이 보물을 노리고 이곳을 찾지만,\
-루갈의 망령과 원혼들의 분노 앞에서 발길을 돌리곤 합니다.
+이 땅에 깃든 깊은 저주 앞에서 발길을 돌리곤 합니다.
 
-저주받은 무덤은 과거의 비극과 원한이 얽힌 채, 지금도 살아 있는 듯 숨 쉬는 금단의 땅입니다.
+저주받은 무덤은 과거의 비극이 끝나지 않은 채 남아 있는, \
+지금도 살아 숨 쉬는 듯한 금단의 땅입니다.
 
 ***
 
@@ -163,48 +142,38 @@ At an extremely low probability, the following weapon items may be dropped.
 {% tab title="日本語" %}
 ### ⚰️ 呪われた墓（Cursed Tomb）
 
-アステリカ王国（Asterica Kingdom）の深い闇の中には、\
-古き悲劇の痕跡が刻まれた場所、**呪われた墓**が存在します。
+アステリカ王国の深い闇の中には、古い悲劇の痕跡が残る場所、**呪われた墓**が存在します。
 
-この地はかつて、サルゴン（Sargon）**が**ウンマ王国（Umma Kingdom）**を滅ぼし、**\
-**その灰の上にアステリカ王国を築く過程で、**\
-**ウンマの王**ルガル（Lugal）が処刑された場所だと伝えられています。\
-その日を境に、この大地には 消えることのない呪いの影が落とされました。
+この地はかつて、**サルゴン**が**ウンマ王国**を滅ぼし\
+アステリカ王国を築く過程で、ウンマの王**ルガル**が処刑された場所だと伝えられています。\
+その日を境に、この地には消えることのない呪いの影が落とされました。
 
 ***
 
 ルガルの死は、終わりではありませんでした。
 
-彼の墓には王の家族や忠実な家臣、さらには仕える者たちまでもが生き埋めにされ、\
-無数の怨念がこの地に染み込んだと言われています。\
-その呪いはあまりにも強く、\
-魂たちは冥界へ旅立つことができず、今なお墓の周囲を彷徨い続けていると伝えられています。
+彼の墓には、王の家族や忠実な家臣、さらには従者までもが共に葬られたとされ、\
+無数の魂の怨念が この地に深く染み込んだと言われています。
 
-夜になると、冷たい風の中からすすり泣くような声が聞こえるという噂もあり、\
-この地を訪れる者の心を凍りつかせます。
-
-***
-
-呪われた墓には、闇に蝕まれた生き物たちが姿を現します。
-
-狐は鋭い鳴き声で警告を発し、狼は影の中から侵入者を狙います。\
-カラスは枯れ枝に止まり、まるで亡者の物語を囁くかのように不吉な声を上げます。
-
-呪いによって歪められたエルクは、赤く光る目と巨大な角で威圧し、\
-スキャベンジャーは廃墟を這い回りながら、死の痕跡を漁っています。
+その呪いはあまりにも強く、魂は冥界へ旅立つことができず、\
+今もこの地に留まっていると信じられています。\
+夜になると、冷たい風に乗って すすり泣くような声が聞こえるという噂もあります。
 
 ***
 
-この地域はかつて、**アメジスト鉱石**が豊富に採れる場所として知られていました。
+呪われた墓は、過去の悲劇と怨念が絡み合う土地です。
 
-しかし悲劇の後、ここで採掘されるアメジストは、美しい紫色の輝きの奥に\
-強力な呪いを宿すようになったと伝えられています。
+かつてこの地域は 紫水晶が豊富に採れる場所として知られていましたが、\
+惨劇の後、ここで採掘される紫水晶は 美しい紫色の中に\
+呪いの気配を宿すようになったと語られています。
 
-そのため、多くの冒険者が財宝を求めて訪れますが、\
-**ルガルの亡霊**と彼に従う怨霊たちの怒りの前に、恐怖の中で引き返すことになるのです。
+***
 
-呪われた墓は、過去の悲劇と晴れぬ怨恨を抱えたまま、\
-今もなお生きているかのように息づく、禁断の地です。
+そのため、多くの冒険者が 財宝を求めてこの地を訪れますが、\
+土地そのものに染みついた 深い呪いを前に、引き返す者も少なくありません。
+
+呪われた墓は過去の悲劇が今も終わらぬまま残る、\
+生きているかのように息づく 禁忌の地なのです。
 
 ***
 

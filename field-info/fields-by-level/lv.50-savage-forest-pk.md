@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🌋 \~Lv.50 Savage Forest (PK)
@@ -8,11 +8,38 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-📒The Savage Forest sprawls deep within the Asterica continent, a grim woodland where gnarled ancient trees stretch their twisted branches to blot out the sky, and a thick, unrelenting fog clings to the earth. Long ago, this land was the site of an enigmatic ritual meant to summon rain—an act shrouded in mystery and steeped in darkness. That ritual was no mere ceremony; it demanded cruel sacrifices, claiming lives in exchange for its power. Those who perished in its grip died in agony, their screams and grievances soaking into the soil, festering into a bitter resentment. That resentment breathed unnatural life into the dead, transforming them into ghouls, and now the forest echoes with their ceaseless wails, a cursed domain born of sorrow.
+### 🌲 Savage Forest
 
-The malice here is so potent that it’s said the very shape of ‘evil’—invisible to the naked eye elsewhere—can be glimpsed within these woods. Ghouls, with rotting flesh and jagged claws, lunge at the living in a frenzy of hunger. Mutated ghouls, warped further by the curse, emerge as grotesque abominations that inspire dread. Blind shamans, remnants of that ancient rite, murmur incantations in the shadows, as if still pleading with the heavens. The madness—wild-eyed lunatics—roam the forest, their maniacal laughter cutting through the silence. And illusions of evil materialize as intangible specters, sowing chaos in the minds of those they ensnare, dragging them into a mire of fear.
+Deep within the Asterica continent lies a forest \
+where twisted ancient trees block out the sky and thick mist drifts endlessly through the air.\
+This is the **Savage Forest**.
 
-The Savage Forest is a tangle of ritual remnants and vengeful spite. The wind that slithers through the trees is cold and damp, carrying whispers that sound like the sobs of the sacrificed. To step into this place is to risk more than losing your way—it’s to confront the primal terror rising from within. Legend holds that the curse laid upon this forest, a price paid for rain, is doomed to endure forever. The Savage Forest is a resting place for ancient tragedy, where even the living can taste the scent of death in the air.
+Long ago, it is said that an unknown ritual was performed here to bring rain to the land.\
+This was no simple ceremony.\
+It demanded cruel sacrifices, paid for with countless lives.\
+The pain and resentment of that day seeped into the earth,\
+leaving behind a curse that has never faded.
+
+***
+
+The traces of that curse still linger throughout the Savage Forest.
+
+The presence of unseen evil can be felt everywhere,\
+and cold, damp winds carry sounds that resemble the sobs of those who were sacrificed.\
+Those who step into the forest face not only the risk of losing their way,\
+but also the fear buried deep within their own hearts.
+
+***
+
+The Savage Forest is a land entwined with the remnants of dark rituals and lingering hatred.\
+It bears an eternal curse, the price once paid to bring rain to the land.
+
+Even the living can sense the presence of death here.\
+This forest is a dangerous region where a forgotten ancient tragedy still sleeps.
+
+***
+
+🍀 **Item Drop Information :**
 
 <table><thead><tr><th width="88">Lv.</th><th>Monster</th><th>Drop1</th><th>Drop2</th><th>Drop3</th><th>Drop4</th></tr></thead><tbody><tr><td>46</td><td>Ghoul<br>(LEAF)</td><td>Heart of Ghoul</td><td>Blue Statue</td><td>Powder of blessing</td><td>Snow White</td></tr><tr><td>47</td><td>Mutated Ghouls<br>(LIGHT)</td><td>Heart of Ghoul</td><td>Blue Statue</td><td>Powder of blessing</td><td>Snow White</td></tr><tr><td>48</td><td>Blind Shaman<br>(WATER)</td><td>Blue Statue</td><td>Purple Slime</td><td>Eye of Ghoul</td><td>Mutated Mushroom</td></tr><tr><td>49</td><td>Madness<br>(FIRE)</td><td>Blue Statue</td><td>Gilded Fishbone</td><td>Eye of Ghoul</td><td>Mutated Leaf</td></tr><tr><td>50</td><td>Illusions of Evil<br>(DARK)</td><td>Mutated Mushroom</td><td>Gilded Fishbone</td><td>Mutated Leaf</td><td>Sharp Thorn</td></tr></tbody></table>
 
@@ -43,11 +70,35 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="한국어" %}
-📒야만의 숲은 아스테리카 대륙의 깊숙한 곳에 자리 잡은 음산한 수림으로, 고목들이 뒤틀린 가지를 뻗어 하늘을 가리고, 땅 위로는 짙은 안개가 끊임없이 떠도는 곳이다. 고대에 이 땅에서는 비를 내리게 하기 위한 알 수 없는 주술이 행해졌다고 전해진다. 그 주술은 단순한 의식이 아니라, 생명을 대가로 한 잔혹한 희생을 요구했다. 주술에 쓰인 이들은 끔찍한 고통 속에서 숨을 거두었고, 그들의 비명과 억울함은 대지에 깊이 스며들어 원념으로 변했다. 그 원념은 죽은 자들을 구울로 되살려냈고, 이제 이 숲은 그들의 울부짖음이 메아리치는 저주의 영역이 되었다.
+### 🌲 야만의 숲 (Savage Forest)
 
-이곳에서만은 악의 기운이 너무나 강렬해서, 육안으로도 보이지 않는 ‘악’의 형체가 떠도는 것을 느낄 수 있다고 한다. 구울은 썩은 살점과 날카로운 손톱으로 살아있는 자를 덮치며, 변이된 구울은 저주의 힘으로 더욱 흉측하게 뒤틀린 모습으로 공포를 자아낸다. 눈 먼 주술가는 과거의 의식을 되풀이하듯 어둠 속에서 주문을 읊고, 미치광이는 광기 어린 웃음소리를 내며 숲을 배회한다. 그리고 악의 환영은 실체 없는 그림자로 나타나, 사람의 정신을 혼란에 빠뜨리고 공포 속으로 몰아넣는다.
+아스테리카 대륙 깊숙한 곳에는, 뒤틀린 고목들이 하늘을 가리고 짙은 안개가 끊임없이 떠도는 숲,\
+**야만의 숲**이 자리하고 있습니다.
 
-야만의 숲은 주술의 잔재와 원한이 얽힌 땅이다. 나무 사이로 스며드는 바람은 차갑고 축축하며, 희생자들의 흐느낌이 섞인 듯한 소리를 실어 나른다. 이곳에 발을 들이는 자는 단순히 길을 잃는 것을 넘어, 마음속 깊은 곳에서 솟아오르는 두려움과 마주하게 된다. 전설에 따르면, 이 숲의 저주는 비를 내리게 한 대가로 영원히 풀리지 않을 운명이라고 한다. 야만의 숲은 살아있는 자에게조차 죽음의 냄새를 풍기는, 잊혀진 고대의 비극이 잠든 곳이다.
+이 숲에서는 오래전, 비를 내리게 하기 위한 정체불명의 주술이 행해졌다고 전해집니다.\
+그 주술은 단순한 의식이 아니라, 수많은 생명을 대가로 한 잔혹한 희생을 요구했습니다.\
+그날의 고통과 원망은 대지에 스며들어 지워지지 않는 저주로 남게 되었습니다.
+
+***
+
+야만의 숲에는 그 저주의 흔적이 깊게 남아 있습니다.
+
+눈에 보이지 않는 악의 기운마저 느껴질 정도로 숲 전체가 뒤틀려 있으며,\
+차갑고 축축한 바람은 희생자들의 흐느낌이 섞인 듯한 소리를 실어 나릅니다.
+
+이 숲에 발을 들이는 모험가는 길을 잃는 것뿐 아니라, 자신의 마음속 깊은 두려움과 마주하게 됩니다.
+
+***
+
+야만의 숲은 주술의 잔재와 원한이 얽힌 땅이며, \
+한때 비를 내리게 한 대가로 영원히 풀리지 않을 저주를 짊어진 장소입니다.
+
+살아 있는 자에게조차 죽음의 기운을 느끼게 하는 이 숲은,\
+잊혀진 고대의 비극이 잠들어 있는 위험한 지역입니다.
+
+***
+
+🍀 **아이템 드랍 정보 :**
 
 <table><thead><tr><th width="94">레벨</th><th>몬스터</th><th>드랍1</th><th>드랍2</th><th>드랍3</th><th>드랍4</th></tr></thead><tbody><tr><td>46</td><td>구울<br>(LEAF)</td><td>구울의 심장</td><td>푸른 조각상</td><td>축복의 가루</td><td>백설화</td></tr><tr><td>47</td><td>변이된 구울<br>(LIGHT)</td><td>구울의 심장</td><td>푸른 조각상</td><td>축복의 가루</td><td>백설화</td></tr><tr><td>48</td><td>눈 먼 주술가<br>(WATER)</td><td>푸른 조각상</td><td>보라색 진액</td><td>구울의 눈</td><td>변이된 버섯</td></tr><tr><td>49</td><td>미치광이<br>(FIRE)</td><td>푸른 조각상</td><td>도금된 생선뼈</td><td>구울의 눈</td><td>변이된 잎사귀</td></tr><tr><td>50</td><td>악의 환영<br>(DARK)</td><td>변이된 버섯</td><td>도금된 생선뼈</td><td>변이된 잎사귀</td><td>뾰족가시</td></tr></tbody></table>
 
@@ -74,11 +125,36 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="日本語" %}
-📒野蛮の森は、アステリカ大陸の奥深くに広がる不気味な森で、歪んだ古木が枝を広げて空を覆い、地面には濃い霧が絶えず漂っています。遠い昔、この土地では雨を降らせるための知られざる呪術が行われたとされています。その呪術はただの儀式じゃなく、命を捧げる残酷な犠牲を求めるものでした。呪術に使われた者たちは激しい痛みの中で息を引き取り、その叫び声と無念は大地に染み込んで怨念となりました。その怨念は死者をグールとして蘇らせ、今この森は彼らの嘆きが響き渡る呪われた領域なんです。
+### 🌲 野蛮の森（Savage Forest）
 
-この場所では、悪の気があまりにも強いため、普段は目に見えない「悪」の姿さえも感じ取れると言われています。グールは腐った肉と鋭い爪で生きる者を襲い、変異したグールは呪いの力でさらに恐ろしく歪んだ姿で恐怖を振りまいています。盲目の呪術家は、昔の儀式を繰り返すように闇の中で呪文をつぶやき、狂人は狂った笑い声を響かせながら森を彷徨っています。そして悪の幻影は実体のない影となって現れ、見る者の心を乱し、恐怖の淵へと引きずり込むんです。
+アステリカ大陸の奥深くには、歪んだ古木が空を覆い、\
+濃い霧が絶えず漂う森、**野蛮の森**があります。
 
-野蛮の森は、呪術の残滓と恨みが絡み合った土地です。木々の間を抜ける風は冷たく湿っていて、犠牲者たちのすすり泣きのような音を運んできます。この場所に足を踏み入れる者は、道を見失うだけでなく、心の奥底から湧き上がる恐れと向き合うことになるんです。伝説では、この森にかかった呪いは雨を降らせた代償として永遠に解けない運命なんだとか。野蛮の森は、生きている者にも死の匂いを感じさせる、忘れられた古代の悲劇が眠る場所なんです。
+この森では遠い昔、雨を降らせるための正体不明の呪術が 行われたと伝えられています。\
+それは単なる儀式ではなく、無数の命を代償とする残酷な生贄を伴うものでした。\
+その日の苦しみと怨みは大地に染み込み、今も消えることのない呪いとして残されています。
+
+***
+
+野蛮の森には、その呪いの痕跡が色濃く残っています。
+
+目に見えない悪意さえ感じられるほど、森全体は歪んだ気配に包まれており、\
+冷たく湿った風は 犠牲者のすすり泣きが混じったかのような音を運びます。
+
+この森に足を踏み入れた冒険者は、\
+道に迷うだけでなく、自らの心の奥底に潜む恐怖と向き合うことになります。
+
+***
+
+野蛮の森は、呪術の残滓と怨念が絡み合った地であり、\
+かつて雨をもたらした代償として、永遠に解かれることのない呪いを背負った場所です。
+
+生きている者にさえ 死の気配を感じさせるこの森は、\
+忘れ去られた古代の悲劇が眠る、危険な地域なのです。
+
+***
+
+🍀 **アイテムドロップ情報：**
 
 <table data-full-width="false"><thead><tr><th width="94" align="center">レベル</th><th width="161" align="center">モンスター</th><th width="111" align="center">ドロップ1</th><th width="136" align="center">ドロップ2</th><th align="center">ドロップ3</th><th align="center">ドロップ4</th></tr></thead><tbody><tr><td align="center">46</td><td align="center">グール<br>(LEAF)</td><td align="center">グールの心臓</td><td align="center">青い彫像</td><td align="center">祝福の粉</td><td align="center">白雪花</td></tr><tr><td align="center">47</td><td align="center">変異したボウル<br>(LIGHT)</td><td align="center">グールの心臓</td><td align="center">青い彫像</td><td align="center">祝福の粉</td><td align="center">白雪花</td></tr><tr><td align="center">48</td><td align="center">盲目の呪術家<br>(WATER)</td><td align="center">青い彫像</td><td align="center">紫色のエキス</td><td align="center">グールの目</td><td align="center">変異したキノコ</td></tr><tr><td align="center">49</td><td align="center">狂人<br>(FIRE)</td><td align="center">青い彫像</td><td align="center">めっきされた魚の骨</td><td align="center">グールの目</td><td align="center">変異した葉</td></tr><tr><td align="center">50</td><td align="center">悪の幻影<br>(DARK)</td><td align="center">変異したキノコ</td><td align="center">めっきされた魚の骨</td><td align="center">変異した葉</td><td align="center">尖ったとげ</td></tr></tbody></table>
 

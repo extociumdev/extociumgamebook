@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 layout:
   width: default
   title:
@@ -24,51 +24,37 @@ layout:
 {% tab title="ENG" %}
 ### ⛏️ Goblin’s Mine
 
-Deep beneath the Asterica continent lies a harsh underground land,\
-where veins of gold and silver shimmer in the darkness.\
-This is **Goblin’s Mine**, a place where danger and greed have long coexisted.
+Deep beneath the Asterica continent lies\
+a harsh underground land where veins of gold and silver shimmer in the darkness.\
+This is **Goblin’s Mine**.
 
-For generations, goblins have made this mine their home.\
-Their sharp claws and watchful, covetous eyes still rule the shadowed tunnels.\
-The rough passages and glittering ore veins make it clear that this is no ordinary mine,\
-but a domain shaped by obsession and survival.
+Glittering ore veins hidden in shadow\
+and roughly carved tunnels reveal that this place is far more than a simple mine.\
+It is a land where greed and danger have long coexisted.\
+For generations, goblins made this mine their home,\
+and traces of their presence still remain deep underground.
 
 ***
 
-According to legend, a powerful ancient goblin once ruled this land\
-and gathered all the gold and silver of the world, hiding it deep within the mine.
+According to legend,\
+a powerful ancient goblin once ruled this land and gathered vast amounts of gold and silver,\
+hiding them in the deepest reaches of the mine.
 
 Even after death, the spirit of that goblin is said to linger,\
 singing a song of gold as it guards its hidden treasure.\
-Those who set foot inside the mine are rumored\
-to be drawn in by that song, slowly consumed by endless greed.
+Those who step into the mine are rumored to be drawn in by that song,\
+slowly consumed by endless greed.
 
 ***
 
-Goblin’s Mine is a battlefield that few unprepared adventurers can endure.
-
-Goblins strike with swift movements and sharp weapons,\
-while Black Eagles descend from above, slashing with deadly talons.\
-Giant Bears shake the tunnels with their massive frames and thunderous roars,\
-and Golems crush everything in their path with heavy fists of living stone.
-
-Red Goblin Bombers hurl explosives to spread chaos,\
-and Magician Golems press intruders back with bursts of concentrated magic.\
-Combat here is not simple hunting.\
-It is a fight for survival.
-
-***
-
-The tunnels of Goblin’s Mine glow with gold and silver,\
-but that light is a deadly lure for those who seek fortune.\
-Crude markings carved into the walls are said to be remnants left behind by ancient goblins,\
+Crude markings carved into the walls\
+are believed to be remnants left behind by ancient goblins,\
 and the deeper one ventures, the heavier the air becomes.
 
-Carried by the wind through the tunnels, the legendary song of gold still echoes,\
-shaking the hearts of all who hear it.
+The glow of gold and silver lures adventurers in, but that same light can become a deadly trap.
 
 Goblin’s Mine is a land where wealth, danger, and legend intertwine.\
-Only those who can grasp gold and still survive will ever learn its true value.
+Only those who can grasp gold and still return safely will ever learn its true value.
 
 ***
 
@@ -103,34 +89,20 @@ At an extremely low probability, the following weapon items may be dropped.
 {% tab title="한국어" %}
 ### ⛏️ 고블린 광산 (Goblin’s Mine)
 
-아스테리카 대륙의 깊은 지하에는, 황금과 은이 숨 쉬는 거친 땅,  고블린 광산이 끝없이 이어져 있습니다.
+아스테리카 대륙의 깊은 지하에는, 황금과 은이 숨 쉬는 거친 땅, **고블린 광산**이 끝없이 이어져 있습니다.
 
 어둠 속에서 반짝이는 광맥과 거칠게 파인 굴은 이곳이 단순한 채굴장이 아니라,\
 오래전부터 탐욕과 위험이 공존해 온 장소임을 보여줍니다.\
-대대로 고블린들이 이 광산을 터전 삼아 살아왔으며, 그들의 날카로운 손과 집요한 시선이\
-지금도 광산 깊숙한 곳을 지배하고 있습니다.
+대대로 고블린들이 이 광산을 터전 삼아 살아왔으며, 그 흔적은 지금도 광산 깊숙한 곳에 남아 있습니다.
 
 ***
 
-전설에 따르면, 먼 옛날 이 땅을 다스리던 강력한 고대 고블린이 세상의 황금과 은을 모아 \
-광산 가장 깊은 곳에 숨겨 두었다고 전해집니다.
+전설에 따르면, 먼 옛날 이 땅을 다스리던 강력한 고대 고블린이\
+세상의 황금과 은을 모아 광산 가장 깊은 곳에 숨겨 두었다고 전해집니다.
 
 그 고블린의 혼은 죽은 뒤에도 이곳을 떠나지 못하고,\
 지금도 황금의 노래를 부르며 보물을 지키고 있다고 합니다.\
 광산에 발을 들인 자는 그 노래에 이끌려 끝없는 탐욕에 사로잡힌다는 소문도 있습니다.
-
-***
-
-고블린 광산은 약한 자가 쉽게 버틸 수 없는 위험한 전장입니다.
-
-고블린들은 재빠른 움직임과 날카로운 무기로 공격하며, \
-검은 독수리는 상공에서 내려와 날카로운 발톱으로 위협합니다.\
-자이언트 베어는 우람한 몸집과 포효로 광산을 뒤흔들고,\
-골렘은 돌로 이루어진 육중한 주먹으로 모든 것을 짓뭉갭니다.
-
-레드 고블린 봄버는 폭발물을 던져 혼란을 일으키고,\
-매지션 골렘은 마력이 깃든 빛으로 침입자를 몰아붙입니다.\
-이곳에서의 전투는 사냥이 아닌, **생존을 건 싸움**입니다.
 
 ***
 
@@ -139,8 +111,8 @@ At an extremely low probability, the following weapon items may be dropped.
 
 황금과 은의 빛은 보물을 노리는 모험가들을 유혹하지만, 그 빛은 동시에 치명적인 함정이기도 합니다.
 
-고블린 광산은 부와 위험, 그리고 전설이 얽힌 땅으로, \
-황금을 손에 쥐고서도 무사히 살아남을 수 있는 자만이 그 진정한 가치를 알게 되는 곳입니다.
+고블린 광산은 부와 위험, 그리고 전설이 얽힌 땅으로,\
+황금을 손에 쥐고서도 무사히 돌아올 수 있는 자만이 그 진정한 가치를 알게 되는 곳입니다.
 
 ***
 
@@ -173,50 +145,32 @@ At an extremely low probability, the following weapon items may be dropped.
 {% tab title="日本語" %}
 ### ⛏️ ゴブリン鉱山（Goblin’s Mine）
 
-アステリカ大陸の地下深くには、\
-金と銀の鉱脈が闇の中で輝く、荒々しい地下の地、**ゴブリン鉱山**が広がっています。
+アステリカ大陸の地下深くには、金と銀の鉱脈が闇の中で輝く、\
+荒々しい地下の地、**ゴブリン鉱山**が広がっています。
 
-暗闇に浮かぶ鉱脈と無数に掘り進められた坑道は、この場所が単なる鉱山ではなく、\
-危険と欲望が長きにわたり交錯してきた地であることを物語っています。\
-代々ゴブリンたちがこの鉱山を住処とし、\
-鋭い爪と貪欲な眼差しで、今もなお暗い坑道を支配しています。
+暗闇に浮かぶ鉱脈と 無数に掘り進められた坑道は、この場所が単なる鉱山ではなく、\
+欲望と危険が長きにわたり交錯してきた地であることを物語っています。\
+代々ゴブリンたちがこの鉱山を住処としてきた痕跡は、今もなお深部に残されています。
 
 ***
 
 伝説によれば、はるか昔、この地を治めていた強大な古代ゴブリンが\
-世界中の金と銀をかき集め、鉱山の最深部に隠したと言われています。
+世界中の金と銀を集め、鉱山の最深部に隠したと言われています。
 
 そのゴブリンの魂は死してなおこの地を離れず、\
 今も黄金の歌を歌いながら 財宝を守り続けているのだとか。\
-鉱山に足を踏み入れた者は、その歌声に誘われ、\
-尽きることのない欲望に囚われると噂されています。
+鉱山に足を踏み入れた者は、\
+その歌声に誘われ、尽きることのない欲望に囚われると噂されています。
 
 ***
 
-ゴブリン鉱山は、準備の整っていない冒険者が 容易に耐えられる場所ではありません。
+坑道の壁面には、古代ゴブリンが残したと思われる 粗雑な文様が刻まれており、\
+奥へ進むほど 空気は重く沈んでいきます。
 
-ゴブリンたちは素早い動きと鋭い武器で襲いかかり、\
-ブラックイーグルは上空から舞い降りて 鋭い爪で切り裂きます。\
-ジャイアントベアは巨大な体と轟く咆哮で坑道を揺るがし、\
-ゴーレムは生きた石のような重い拳で すべてを打ち砕きます。
-
-レッドゴブリンボマーは爆発物を投げて混乱を招き、マジシャンゴーレムは\
-魔力を帯びた光で侵入者を追い詰めます。\
-ここでの戦いは、狩りではなく **生き残りをかけた戦闘**です。
-
-***
-
-ゴブリン鉱山の坑道は 金と銀の光に照らされていますが、\
-その輝きは財宝を求める者を誘う 致命的な罠でもあります。
-
-壁面には古代ゴブリンが残したと思われる\
-粗雑な文様が刻まれており、奥へ進むほど空気は重くなっていきます。
-
-坑道を吹き抜ける風に乗って、伝説の黄金の歌は今も響き渡り、\
-それを聞く者の心を激しく揺さぶります。
+金と銀の輝きは 冒険者を惹きつけますが、同時に致命的な罠ともなり得ます。
 
 ゴブリン鉱山は、富と危険、そして伝説が絡み合う地です。\
-黄金を手にしながらも 無事に生き延びることができた者だけが、\
+黄金を手にしながらも 無事に帰還できた者だけが、\
 この場所の真の価値を知ることができるでしょう。
 
 ***
@@ -248,4 +202,4 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

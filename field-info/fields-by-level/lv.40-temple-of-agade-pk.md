@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🏔️ \~Lv.40 Temple of Agade (PK)
@@ -13,45 +13,40 @@ description: 🛑 This information may be updated later than the game server dat
 At the heart of the Asterica continent stands the **Temple of Agade**,\
 a vast sanctuary that once symbolized the glory of the **EXTOCIUM Empire**.
 
-Now, only broken pillars and collapsed altars remain,\
-quietly bearing witness to its former splendor.\
-Yet within these wind-swept ruins,\
-a presence of lingering divinity and ever-present danger can still be felt.
+Though only broken pillars and collapsed altars remain today,\
+they quietly bear witness to the splendor of the past.\
+Within these wind-swept ruins, a lingering sense of divinity and tension can still be felt.
 
 ***
 
-Dangerous creatures have claimed the area surrounding the Temple of Agade.
+The Temple of Agade carries a weight unlike that of previous regions.\
+From the moment adventurers step inside,\
+they realize this is no longer a simple exploration, but a true proving ground.
 
-Rampaging Boars charge forward with harsh, furious breaths,\
-while Skeleton Warriors, armed with shattered bones, unleash the rage of the dead.\
-Angel Slimes lure adventurers into moments of carelessness,\
-and Desert Spiders patiently stalk their prey.\
-Mudmen drag their bodies of living earth forward, striking without warning.
-
-***
-
-The enemies here are far more threatening than those in previous regions,\
-putting an adventurer’s combat skill and preparation to the test.
-
-The Temple of Agade is a true proving ground.\
-It is a land that rewards strength and punishes even the smallest moment of hesitation.
+It is a place that offers opportunity to those who are prepared,\
+and danger to those who let their guard down.
 
 ***
 
 Among the shattered pillars and ruined altars,\
-remnants of the EXTOCIUM Empire are said to still be found.
+artifacts bearing traces of the EXTOCIUM Empire are said to still be found.
 
 Adventurers can gather **Relic Fragments** and **Tablet Fragments**,\
-along with valuable resources such as **Iron**, **Cinnabar**, and **Cedar Wood**.\
-In particular, Relic Fragments and Tablet Fragments can be combined\
-with **Mana Orbs** obtained through combat\
-to craft **EXTOCIUM Shards**,\
-leading many to regard the Temple of Agade as a land of dangerous riches.
+along with valuable resources such as **Iron**, **Cinnabar**, and **Cedar Wood**.
 
-This place is more than a forgotten ruin.\
-It also serves as a crucial gateway to the capital, **Asterica**.\
-Those who pass through the Temple of Agade are forced to confront both the glory of the past\
-and the struggle for survival in the present.
+In particular, Relic Fragments and Tablet Fragments\
+can be combined with **Mana Orbs** obtained through combat\
+to craft **EXTOCIUM Shards**, making the Temple of Agade a land\
+where risk and reward coexist.
+
+***
+
+The Temple of Agade is more than an ancient ruin.\
+It also serves as a crucial gateway leading toward the capital, **Asterica**.
+
+Those who pass through this place stand between the glory of the past\
+and the struggle for survival in the present,\
+as they prepare to move on to the next stage of their journey.
 
 ***
 
@@ -86,39 +81,36 @@ At an extremely low probability, the following weapon items may be dropped.
 {% tab title="한국어" %}
 ### 🏛 아가데 신전 (Temple of Agade)
 
-아스테리카 대륙의 중심부에는, 한때 엑스토시움 제국의 영광을 상징했던 거대한 신전,\
-아가데 신전이 남아 있습니다.
+아스테리카 대륙의 중심부에는, 한때 **엑스토시움 제국**의 영광을 상징했던 거대한 신전,\
+**아가데 신전**이 남아 있습니다.
 
 지금은 부서진 기둥과 무너진 제단만이 남아 과거의 찬란함을 조용히 증언하고 있지만,\
-바람이 스치는 폐허 속에서는 여전히 신성함과 위험이 공존하는 기운이 느껴집니다.
+바람이 스치는 폐허 속에서는 여전히 신성함과 긴장감이 공존하는 기운이 느껴집니다.
 
 ***
 
-아가데 신전 주변에는 위험한 생명체들이 자리를 잡고 있습니다.
+아가데 신전은 이전 지역과는 다른 무게감을 지닌 장소입니다.\
+이곳에 들어서는 순간, 모험가는 단순한 탐험이 아닌  본격적인 시험의 땅에 발을 들였음을 깨닫게 됩니다.
 
-폭주 멧돼지는 거친 숨소리와 함께 돌진하며, 해골 전사는 부서진 뼈로 무장한 채 망자의 분노를 쏟아냅니다.\
-엔젤 슬라임은 방심을 유도하고, 사막 거미는 먹잇감을 노립니다.\
-머드맨은 진흙으로 이루어진 몸을 이끌며 순식간에 덮쳐옵니다.
-
-***
-
-이곳의 적들은 이전 지역보다 한층 더 위협적이며, 모험가의 전투 실력과 준비 상태를 시험합니다.
-
-아가데 신전은 강한 자에게는 보상을, \
-방심한 자에게는 위험을 안겨주는 본격적인 시험의 땅이라 할 수 있습니다.
+아가데 신전은 준비된 자에게는 기회를, 방심한 자에게는 위험을 안겨주는 경계의 장소라 할 수 있습니다.
 
 ***
 
-부서진 기둥과 제단 사이에서는 엑스토시움 제국의 흔적이 담긴 유물들이 발견되었다고 전해집니다.
+부서진 기둥과 제단 사이에서는 \
+엑스토시움 제국의 흔적이 담긴 유물들이  지금도 발견되고 있다고 전해집니다.
 
-모험가들은 이곳에서 유물 조각과 석판 조각을 채집하고,\
-철, 진사, 백향목과 같은 귀중한 자원도 함께 얻을 수 있습니다.
+모험가들은 이곳에서 **유물 조각**과 **석판 조각**을 채집할 수 있으며,\
+**철**, **진사**, **백향목**과 같은 귀중한 자원도 함께 획득할 수 있습니다.
 
-특히 유물 조각과 석판 조각은 사냥을 통해 얻은 마력 구슬과 결합하여\
-**엑스토시움 조각**으로 제작할 수 있어, 많은 이들이 아가데 신전을 위험한 보물의 땅으로 여기고 있습니다.
+특히 유물 조각과 석판 조각은 사냥을 통해 얻은 **마력 구슬**과 결합해\
+**엑스토시움 조각**으로 제작할 수 있어, 아가데 신전은 위험과 보상이 공존하는 장소로 알려져 있습니다.
 
-이곳은 단순한 유적지가 아니라, 수도 아스테리카로 향하는 중요한 관문이기도 합니다.\
-모험가들은 아가데 신전을 지나며 과거의 영광과 현재의 생존을 동시에 마주하게 됩니다.
+***
+
+아가데 신전은 단순한 고대 유적이 아니라, 수도 **아스테리카**로 향하는 중요한 관문이기도 합니다.
+
+이곳을 지나치는 모험가는 과거 제국의 영광과 현재 자신의 생존을 동시에 마주하며,\
+다음 단계의 여정으로 나아가게 됩니다.
 
 ***
 
@@ -152,43 +144,38 @@ At an extremely low probability, the following weapon items may be dropped.
 ### 🏛 アガデ神殿（Temple of Agade）
 
 アステリカ大陸の中心部には、かつて**EXTOCIUM帝国**の栄光を象徴していた巨大な神殿、\
-アガデ神殿が今もその姿を残しています。
+**アガデ神殿**が今もその姿を残しています。
 
 現在は崩れた柱や倒壊した祭壇だけが残り、過去の輝かしさを静かに物語っています。\
-しかし、風が吹き抜けるこの廃墟には、今なお神聖さと危険が入り混じった気配が漂っています。
+しかし、風が吹き抜けるこの廃墟には、今なお神聖さと緊張感が共存する気配が漂っています。
 
 ***
 
-アガデ神殿の周囲には、危険な生き物たちが巣を構えています。
+アガデ神殿は、これまでの地域とは異なる重みを持つ場所です。\
+足を踏み入れた瞬間、冒険者はここが単なる探索地ではなく、\
+本格的な試練の地であることを悟るでしょう。
 
-暴走イノシシは荒々しい息遣いとともに突進し、\
-スケルトンウォリアーは砕けた骨で武装し、亡者の怒りを解き放ちます。\
-エンジェルスライムは油断を誘い、デザートスパイダーは獲物を狙って忍び寄ります。\
-マッドマンは泥でできた体を引きずりながら、不意を突いて襲いかかってきます。
-
-***
-
-この地に現れる敵は、これまでの地域よりもはるかに手強く、\
-冒険者の戦闘技術と準備を試します。
-
-アガデ神殿は、力ある者には報酬を、\
-油断した者には危険をもたらす、本格的な試練の地と言えるでしょう。
+準備された者には機会を、油断した者には危険をもたらす、境界の地と言えます。
 
 ***
 
 崩れた柱と祭壇の間では、EXTOCIUM帝国の痕跡を残す遺物が\
 今も発見されていると言われています。
 
-冒険者はここで、遺物の欠片や石板の欠片をはじめ、\
-鉄、辰砂、香り高い杉材といった 貴重な資源を入手できます。
+冒険者はここで、**遺物の欠片**や**石板の欠片**をはじめ、\
+**鉄**、**辰砂**、**香り高い杉材**といった 貴重な資源を入手することができます。
 
 特に遺物の欠片と石板の欠片は、戦闘で手に入れた**マナオーブ**と組み合わせることで\
-**EXTOCIUMの欠片**を制作できるため、アガデ神殿は危険と隣り合わせの\
-宝の地として知られています。
+**EXTOCIUMの欠片**を制作できるため、\
+アガデ神殿は 危険と報酬が隣り合わせの地として知られています。
 
-この場所は単なる遺跡ではなく、首都**アステリカ**へと続く重要な関門でもあります。\
-アガデ神殿を通り抜ける冒険者は、過去の栄光と現在の生存を\
-同時に突きつけられることになるでしょう。
+***
+
+アガデ神殿は\
+単なる古代遺跡ではなく、首都**アステリカ**へと続く重要な関門でもあります。
+
+この地を越えた冒険者は、過去の帝国の栄光と\
+現在の生存を同時に突きつけられながら、次なる旅路へと進んでいくことになるでしょう。
 
 ***
 
