@@ -22,13 +22,42 @@ layout:
 
 {% tabs %}
 {% tab title="ENG" %}
-📒Rahan's Manor lies at the heart of the Asterica continent, a fertile breadbasket where endless fields of golden wheat sway in the breeze, singing the song of the land’s bounty. Renowned as the source of the finest wheat supplied across the entire continent, its quality is unmatched, a treasure of the soil. Blessed with a rare climate that yields two harvests a year—once in spring and again in fall—this vast estate serves as Asterica’s granary, a steadfast pillar feeding the continent’s hungry mouths. It’s no wonder the lord of Rahan is quietly hailed among the locals as the “Emperor of Autumn,” a title so revered that even the royal families of Asterica are said to bow their heads when they step onto this land.
+### 🌾 Rahan’s Manor
 
-The manor teems with life, each creature adding its own flavor to the landscape. Shy pigs scurry into the grass at the sight of strangers, their timid nature almost endearing. Runaway pigs, on the other hand, charge with wild grunts, exuding a fierce energy that demands respect. Bisons lumber across the fields, their massive frames a testament to the quiet strength of the plains. Iguanas bask lazily in the sun, only to lash out with sharp tails when disturbed. Shy boars lurk along the forest edges, skittish yet capable of surprising power when cornered. And then there are the slimes—gooey, slippery blobs that slide across the fields, offering playful challenges to novice adventurers.
+As you travel deeper beyond Rotten Hill,\
+you arrive at Rahan’s Manor, a land shaped by the sweat and dedication\
+of those who have protected and cultivated it for generations.
 
-Long ago, the Rahan tribe settled this desolate expanse, once buried under volcanic ash and deemed a barren wasteland. Through generations of toil, they tamed the wild earth, cultivating it into the thriving farmland it is today. The secret to their success—a special fertilizer that enriches the soil—remains a closely guarded heirloom, passed down solely within the Rahan bloodline. This sacred knowledge sets their land apart, a feat no outsider can replicate, keeping even the greediest hands at bay. Rahan's Manor isn’t just a stretch of farmland; it’s a living legacy forged from resilience and tradition.
+Endless golden wheat fields stretch across the horizon,\
+making this region known as a fertile breadbasket\
+that supplies grain throughout the continent of Asterica.\
+When the wind blows, waves of wheat ripple across the land,\
+reminding adventurers that Rahan’s Manor is not simply “good soil,”\
+but a place built by time and effort layered upon one another.
 
+***
 
+Rahan’s Manor is home to a wide variety of creatures that roam freely across its plains.
+
+Shy Pigs quickly hide among the grass when they sense danger,\
+while Rampaging Pigs charge forward with fierce cries.\
+Bisons wander the fields at a slow, steady pace, adding to the calm atmosphere of the region.\
+Iguanas bask under the sunlight, but strike back sharply when threatened.\
+Slimes glide across the ground with sticky bodies,\
+offering battles that are light yet easy to underestimate.
+
+***
+
+The monsters here are stronger than those found in the Green Field,\
+but they remain well-suited for adventurers\
+looking to refine their combat instincts and continue growing.
+
+Use Rahan’s Manor to find your rhythm in battle, gather equipment and materials,\
+and prepare yourself for the next region ahead.
+
+***
+
+🍀 **Item Drop Information**
 
 <table><thead><tr><th width="77">Lv.</th><th>Monster</th><th width="125.2501220703125">Drop1</th><th width="119.75">Drop2</th><th>Drop3</th><th width="135.2342529296875">Drop4</th></tr></thead><tbody><tr><td>11</td><td>Shy pig<br>(LEAF)</td><td>Pork belly</td><td>Bark</td><td>Scrap metal</td><td>-</td></tr><tr><td>13</td><td>Runaway pig<br>(FIRE)</td><td>Bark</td><td>Flint</td><td>Fur ball</td><td>-</td></tr><tr><td>15</td><td>Bison<br>(FORCE)</td><td>Milk</td><td>Leather</td><td>Hard bone</td><td>-</td></tr><tr><td>16</td><td>Iguana<br>(WATER)</td><td>Lizard’s tail</td><td>-</td><td>Piece of copper</td><td>-</td></tr><tr><td>18</td><td>Shy boar<br>(LEAF)</td><td>Pork belly</td><td>Bark</td><td>Scrap metal</td><td>Piece of copper</td></tr><tr><td>20</td><td>Slime<br>(WATER)</td><td>-</td><td>Jelly</td><td>Powder of blessing</td><td>Piece of jewelry</td></tr></tbody></table>
 
@@ -57,11 +86,35 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="한국어" %}
-📒라한영지는 아스테리카 대륙의 심장부에 자리 잡은 비옥한 곡창 지대로, 끝없이 펼쳐진 황금빛 밀밭이 바람에 일렁이며 대지의 풍요를 노래한다. 이곳은 대륙 전역에 납품되는 최상급 밀의 산지로, 그 품질은 어느 곳에서도 따라올 수 없을 만큼 뛰어나다. 일 년에 두 번, 봄과 가을에 걸쳐 풍성한 수확을 자랑하는 이 땅은 아스테리카의 식량 창고라 불리며, 대륙의 허기를 책임지는 든든한 버팀목이다. 그 덕에 라한 영주는 주민들 사이에서 은밀히 ‘가을의 황제’라는 별칭으로 불리며, 심지어 아스테리카의 왕족조차 이곳에 오면 고개를 숙인다는 이야기가 전해질 정도다.
+### 🌾 라한영지 (Rahan’s Manor)
 
-이곳에는 다양한 생명체들이 터를 잡고 있다. 수줍은 돼지는 낯선 이를 보면 풀로 숨어버리는 귀여운 성격을 지녔고, 반대로 폭주 돼지는 거친 울음소리와 함께 돌진하며 위협적인 기세를 뽐낸다. 바이슨은 우람한 몸집으로 들판을 느릿느릿 거닐며 평화로운 풍경을 더하고, 이구아나는 햇볕 아래 느긋하게 몸을 녹이다가도 날카로운 꼬리로 반격을 가한다. 수줍은 멧돼지는 겁이 많아 숲 가장자리에 숨어 지내지만, 자극받으면 뜻밖의 힘을 내보인다. 그리고 슬라임은 끈적한 몸으로 들판을 미끄러지며, 초보 모험가들에게 장난스러운 도전을 제안한다.
+로튼힐을 지나 더 안쪽으로 들어가면, 오랜 시간 이 땅을 지켜온 사람들이\
+땀과 노력으로 일궈낸 들판, 라한영지에 닿게 됩니다.
 
-라한 부족은 먼 옛날, 화산재로 뒤덮여 생명이라곤 찾아볼 수 없던 불모의 땅에 정착했다. 그들은 피땀 흘려 황무지를 일구고, 세대를 거쳐 토질을 비옥하게 만드는 비료의 비법을 완성해냈다. 이 비밀은 오직 라한 가문의 혈통 안에서만 전승되며, 그 누구도 흉내 낼 수 없는 독보적인 힘이다. 그래서인지 대륙의 탐욕스러운 세력조차 이 땅을 함부로 넘보지 못한다. 라한영지는 단순한 농지가 아니라, 끈질긴 노력과 전통이 빚어낸 살아 있는 유산이다.
+황금빛 밀밭이 끝없이 이어지는 이곳은 \
+아스테리카 대륙 전역에 곡물을 공급하는 비옥한 곡창 지대로 알려져 있습니다.\
+바람이 불 때마다 밀 이삭이 물결치며, 라한영지가 단순히 “좋은 땅”이 아니라\
+시간을 쌓아 올려 만들어진 땅임을 느끼게 합니다.
+
+***
+
+라한영지에는 다양한 생명체들이 평원을 터전 삼아 살아가고 있습니다.
+
+수줍은 돼지는 낯선 존재를 보면 풀숲으로 몸을 숨기고, 폭주 돼지는 거친 울음과 함께 거침없이 돌진합니다.\
+바이슨은 넓은 들판을 느릿하게 거닐며 이곳의 평온한 분위기를 더하고,\
+이구아나는 햇볕 아래 몸을 녹이다가 위협을 느끼면 날카롭게 반격합니다.
+
+슬라임은 끈적한 몸으로 들판을 미끄러지듯 이동하며, 가볍지만 방심할 수 없는 전투를 선사합니다.
+
+***
+
+이곳의 몬스터들은 푸른 들판보다 한층 강해졌지만,\
+모험가가 전투 감각을 다듬고 성장을 이어가기에 좋은 상대들입니다.\
+라한영지에서 전투 리듬을 익히고, 장비와 재료를 챙기며 다음 지역을 준비해 보세요.
+
+***
+
+**🍀 아이템 드랍 정보 :**
 
 <table><thead><tr><th width="77">레벨</th><th>몬스터</th><th>드랍1</th><th>드랍2</th><th>드랍3</th><th width="117.484375">드랍4</th></tr></thead><tbody><tr><td>11</td><td>수줍은 돼지<br>(LEAF)</td><td>삼겹살</td><td>나무껍질</td><td>고철조각</td><td>-</td></tr><tr><td>13</td><td>폭주 돼지<br>(FIRE)</td><td>나무껍질</td><td>부싯돌</td><td>털뭉치</td><td>-</td></tr><tr><td>15</td><td>바이슨<br>(FORCE)</td><td>우유</td><td>가죽</td><td>단단한 뼈</td><td>-</td></tr><tr><td>16</td><td>이구아나<br>(WATER)</td><td>도마뱀 꼬리</td><td>-</td><td>구리조각</td><td>-</td></tr><tr><td>18</td><td>수줍은 멧돼지<br>(LEAF)</td><td>삼겹살</td><td>나무껍질</td><td>고철조각</td><td>구리조각</td></tr><tr><td>20</td><td>슬라임<br>(WATER)</td><td>-</td><td>젤리</td><td>축복의 가루</td><td>보석조각</td></tr></tbody></table>
 
@@ -90,11 +143,37 @@ At an extremely low probability, the following weapon items may be dropped.
 {% endtab %}
 
 {% tab title="日本語" %}
-📒ラハン領は、アステリカ大陸の中心に広がる豊かな穀倉地帯で、風に揺れる黄金色の小麦畑がどこまでも続き、大地の恵みを讃える歌を奏でています。ここは大陸全土に届けられる最高級の小麦の産地として名高く、その品質は他に類を見ません。年に二度、春と秋に豊かな収穫をもたらす珍しい気候に恵まれたこの土地は、アステリカの食糧庫と呼ばれ、大陸の人々の腹を満たす頼もしい支えとなっています。そのため、ラハン領主は住民たちの間でひそかに「秋の皇帝」と称され、アステリカの王族でさえこの地を訪れると頭を下げるという言い伝えがあるほどです。
+### 🌾 ラハン領（Rahan’s Manor）
 
-この領地には、個性豊かな生き物たちが暮らしています。恥ずかしがり屋のブタは見知らぬ人を見ると草むらに隠れてしまう可愛らしい性格で、一方の暴走ブタは荒々しい鳴き声とともに突進し、迫力ある姿を見せつけます。バイソンは大きな体で平原をのんびり歩き、穏やかな風景に彩りを添えます。イグアナは陽光の下で体を温めつつ、邪魔されると鋭い尾で反撃してくることも。恥ずかしがり屋のイノシシは森の端に隠れていますが、追い詰められると意外な力を発揮します。そしてスライムはヌルヌルした体で畑を滑り回り、初心者の冒険者にちょっとした試練を仕掛けてくるんです。
+ロッテンヒルを越えてさらに奥へ進むと、長い年月にわたりこの地を守り、\
+汗と努力で切り拓いてきた人々が築いた土地、ラハン領に辿り着きます。
 
-遠い昔、ラハン部族は火山灰に覆われ、命の気配すらない不毛の地に根を下ろしました。彼らは汗と涙を流して荒れ地を開墾し、何世代にもわたって土壌を豊かにする肥料の秘法を編み出しました。この秘密はラハン家の中だけで受け継がれ、誰にも真似できない特別な力となっています。だから、大陸の貪欲な者たちでさえ、この土地に手を出すことはできません。ラハン領はただの農地じゃない。粘り強い努力と伝統が織りなした、生きた遺産なんです。
+地平線の彼方まで続く黄金色の麦畑は、\
+アステリカ大陸全域に穀物を供給する 肥沃な穀倉地帯として知られています。\
+風が吹くたびに麦穂が波のように揺れ、ラハン領がただの「良い土地」ではなく、\
+時の積み重ねによって形作られた場所であることを感じさせます。
+
+***
+
+ラハン領には、さまざまな生き物たちが平原を住処として暮らしています。
+
+臆病なブタは見知らぬ存在に気づくと草むらに身を隠し、\
+暴走ブタは荒々しい鳴き声とともに突進してきます。\
+バイソンは広い大地をゆっくりと歩き、この地の穏やかな雰囲気をより一層引き立てます。\
+イグアナは日差しの下で体を温めていますが、危険を感じると鋭く反撃します。\
+スライムは粘り気のある体で地面を滑るように移動し、\
+軽快ながら油断できない戦いをもたらします。
+
+***
+
+ここに出現するモンスターは、グリーンフィールドよりも一段強くなっていますが、\
+冒険者が戦闘感覚を磨き、成長を続けるには最適な相手です。
+
+ラハン領で戦闘のリズムを掴み、装備や素材を集めながら、次のエリアへの準備を整えましょう。
+
+***
+
+🍀 **アイテムドロップ情報**
 
 <table><thead><tr><th width="91">レベル</th><th>モンスター</th><th width="144.75">ドロップ1</th><th>ドロップ2</th><th>ドロップ3</th><th>ドロップ4</th></tr></thead><tbody><tr><td>11</td><td>はにかむ豚<br>(LEAF)</td><td>サムギョプサル</td><td>樹皮</td><td>古鉄のかけら</td><td>-</td></tr><tr><td>13</td><td>暴走豚<br>(FIRE)</td><td>樹皮</td><td>フリント</td><td>毛玉</td><td>-</td></tr><tr><td>15</td><td>バイソン<br>(FORCE)</td><td>ミルク</td><td>かわ</td><td>固い骨</td><td>-</td></tr><tr><td>16</td><td>イグアナ<br>(WATER)</td><td>トカゲのしっぽ</td><td>-</td><td>銅片</td><td>-</td></tr><tr><td>18</td><td>はにかむイノシシ<br>(LEAF)</td><td>サムギョプサル</td><td>樹皮</td><td>古鉄のかけら</td><td>銅片</td></tr><tr><td>20</td><td>スライム<br>(WATER)</td><td>-</td><td>ゼリー</td><td>祝福の粉</td><td>宝石のかけら</td></tr></tbody></table>
 
