@@ -53,8 +53,8 @@ In the Club Lobby, you can access the following features:
 * **Join a Club**\
   👇 Search for and join an existing Club.
 
-{% content-ref url="join.md" %}
-[join.md](join.md)
+{% content-ref url="join-club.md" %}
+[join-club.md](join-club.md)
 {% endcontent-ref %}
 
 * **Create a Club**\
@@ -130,8 +130,8 @@ Detailed information for each feature can be found on the corresponding guide pa
 * **클럽 가입하기 (Join)**\
   👇기존 클럽을 검색하고 가입할 수 있습니다.
 
-{% content-ref url="join.md" %}
-[join.md](join.md)
+{% content-ref url="join-club.md" %}
+[join-club.md](join-club.md)
 {% endcontent-ref %}
 
 * **클럽 창설하기 (Create Club)**\
@@ -209,8 +209,8 @@ Detailed information for each feature can be found on the corresponding guide pa
 * **クラブに参加する（Join）**\
   👇 既存のクラブを検索して参加できます。
 
-{% content-ref url="join.md" %}
-[join.md](join.md)
+{% content-ref url="join-club.md" %}
+[join-club.md](join-club.md)
 {% endcontent-ref %}
 
 * **クラブを設立する（Create Club）**\

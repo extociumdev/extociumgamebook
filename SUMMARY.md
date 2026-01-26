@@ -182,7 +182,7 @@
 
 * [🤝 Patron & Client](clientelas-club/patron-and-client.md)
 * [🍺 Club](clientelas-club/club/README.md)
-  * [🚪 Join](clientelas-club/club/join.md)
+  * [🚪 Join Club](clientelas-club/club/join-club.md)
   * [🗝️ Create Club](clientelas-club/club/create-club.md)
   * [⚒️ Club Management](clientelas-club/club/club-management.md)
   * [📦 Club Warehouse](clientelas-club/club/club-warehouse.md)
