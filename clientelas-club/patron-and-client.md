@@ -55,7 +55,7 @@ Each Patron can support up to **20 Clients**.
 
 * Tap the **“Clientelas”** button at the top of the Main HUD.
 
-<figure><img src="../.gitbook/assets/cc1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cc1 (2).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **Find NPC “Haziel”**
 
@@ -128,7 +128,7 @@ Each Patron can support up to **20 Clients**.
 
 * 메인 HUD 상단의 **「Clientelas」 버튼**을 터치합니다.
 
-<figure><img src="../.gitbook/assets/cc1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cc1 (2).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **NPC ‘하지엘’ 찾기**
 
@@ -203,7 +203,7 @@ Each Patron can support up to **20 Clients**.
 
 * メインHUD上部&#x306E;**「Clientelas」ボタン**をタップします。
 
-<figure><img src="../.gitbook/assets/cc1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cc1 (2).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **NPC「Haziel」を探す**
 

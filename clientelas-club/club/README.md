@@ -38,7 +38,7 @@ All Club-related features are available in the **Clientelas Lobby**.
 * Tap the **“Clientelas”** button at the top of the Main HUD\
   to move to the Clientelas Lobby.
 
-<figure><img src="../../.gitbook/assets/cc1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### ※ If you are in combat, a PK area, or a dungeon, movement to the Clientelas Lobby may be restricted.
@@ -115,7 +115,7 @@ Detailed information for each feature can be found on the corresponding guide pa
 
 * 메인 HUD 상단의 **「Clientelas」 버튼**을 터치하여 클리엔텔라스 로비로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/cc1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### ※ 전투 중이거나 PK 지역, 던전에 있는 경우 클리엔텔라스 로비로의 이동이 제한될 수 있습니다.
@@ -194,7 +194,7 @@ Detailed information for each feature can be found on the corresponding guide pa
 
 * メインHUD上部の「Clientelas」ボタンをタップして、クリエンテラスロビーへ移動します。
 
-<figure><img src="../../.gitbook/assets/cc1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### ※ 戦闘中、PKエリア、またはダンジョンにいる場合は、 クリエンテラスロビーへの移動が制限されることがあります。

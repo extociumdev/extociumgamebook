@@ -29,7 +29,7 @@ Choose the option that works best for you.
 
 2️⃣ Select **“Clientellas Lobby”** from the top menu of the Main HUD
 
-<figure><img src="../../../.gitbook/assets/cc1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -76,7 +76,7 @@ choose an affiliation or form special connections with other players.
 
 * Move to your club’s exclusive space, the **Club Room**, if you are a club member.
 
-<figure><img src="../../../.gitbook/assets/cc10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc10 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -110,7 +110,7 @@ choose an affiliation or form special connections with other players.
 
 2️⃣ **메인 HUD 상단 메뉴에서 ‘클리엔텔라스 로비’ 버튼 선택**
 
-<figure><img src="../../../.gitbook/assets/cc1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -155,7 +155,7 @@ choose an affiliation or form special connections with other players.
 
 * 자신이 소속된 클럽의 전용 공간인 **클럽 룸**으로 이동할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/cc10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc10 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -188,7 +188,7 @@ EXTOCIUMのさまざまなコミュニティ活動を始めることができま
 
 2️⃣ メインHUD上部メニューから **「クリエンテラス・ロビー」**&#x3092;選択
 
-<figure><img src="../../../.gitbook/assets/cc1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -235,7 +235,7 @@ EXTOCIUMのさまざまなコミュニティ活動を始めることができま
 
 * 所属しているクラブの 専用空間である**クラブルーム**へ移動できます。
 
-<figure><img src="../../../.gitbook/assets/cc10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc10 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

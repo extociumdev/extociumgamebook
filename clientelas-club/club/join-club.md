@@ -38,7 +38,7 @@ Joining a Club is done in the **Clientelas Lobby**.
 1️⃣ **Talk to** [**NPC “Sitael”**](../../field-info/rotten-hill/clientelas-lobby/npc-clientelas.md#sitael-club-coordinator)\
 In the Clientelas Lobby, interact with **NPC Sitael**.
 
-<figure><img src="../../.gitbook/assets/cc6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc6 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **Select Club Search**\
 From Sitael’s menu, select the **“Search”** option.
@@ -72,7 +72,7 @@ For Private Clubs, you can check the status of your request in the **“Requests
 * Move to the warp on the right side of the Clientelas Lobby\
   to enter the **Club Room**.
 
-<figure><img src="../../.gitbook/assets/cc10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -123,7 +123,7 @@ Here, you can interact with other members and take part in community activities.
 1️⃣ [**NPC ‘시타엘’**](../../field-info/rotten-hill/clientelas-lobby/npc-clientelas.md#sitael-club-coordinator)**과 대화**\
 클리엔텔라스 로비에서 **NPC ‘시타엘’**&#xC5D0;게 말을 겁니다.
 
-<figure><img src="../../.gitbook/assets/cc6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc6 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **클럽 검색 선택**\
 시타엘의 메뉴에서 **‘검색하기’** 버튼을 선택합니다.
@@ -153,7 +153,7 @@ Here, you can interact with other members and take part in community activities.
 * 가입이 완료되면 캐릭터 머리 위에 **녹색 글자로 클럽명**이 표시됩니다.
 * 클리엔텔라스 로비 우측의 워프로 이동하면 **클럽 룸**에 입장할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/cc10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -203,7 +203,7 @@ Here, you can interact with other members and take part in community activities.
 1️⃣ [**NPC「シタエル」**](../../field-info/rotten-hill/clientelas-lobby/npc-clientelas.md#sitael-club-coordinator)**と会話**\
 クリエンテラスロビーで NPC「シタエル」に話しかけます。
 
-<figure><img src="../../.gitbook/assets/cc6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc6 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **クラブ検索を選択**\
 シタエルのメニューか&#x3089;**「検索」**&#x30DC;タンを選択します。
@@ -235,7 +235,7 @@ Here, you can interact with other members and take part in community activities.
 * 加入が完了すると、キャラクターの頭上に **緑色の文字でクラブ名**が表示されます。
 * クリエンテラスロビー右側のワープから **クラブルーム**へ入場できます。
 
-<figure><img src="../../.gitbook/assets/cc10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cc10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
