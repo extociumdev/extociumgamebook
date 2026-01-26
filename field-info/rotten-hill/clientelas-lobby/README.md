@@ -29,7 +29,7 @@ Choose the option that works best for you.
 
 2️⃣ Select **“Clientellas Lobby”** from the top menu of the Main HUD
 
-<figure><img src="../../../.gitbook/assets/cc1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -110,7 +110,7 @@ choose an affiliation or form special connections with other players.
 
 2️⃣ **메인 HUD 상단 메뉴에서 ‘클리엔텔라스 로비’ 버튼 선택**
 
-<figure><img src="../../../.gitbook/assets/cc1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -188,7 +188,7 @@ EXTOCIUMのさまざまなコミュニティ活動を始めることができま
 
 2️⃣ メインHUD上部メニューから **「クリエンテラス・ロビー」**&#x3092;選択
 
-<figure><img src="../../../.gitbook/assets/cc1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cc1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
