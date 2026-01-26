@@ -1,156 +1,272 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📦 Club Warehouse
 
 {% tabs %}
 {% tab title="ENG" %}
-<figure><img src="../../.gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
+### 🍻 Club Warehouse
 
-Upon founding or joining a club, members gain access to the exclusive **Club Warehouse**.\
-This warehouse serves as a vital space where club members can collectively store and manage their items.\
-However, it is not accessible from the start—[**medals**](../club-war/medal.md#eng) are required to unlock it.
+<figure><img src="../../.gitbook/assets/cc20.png" alt=""><figcaption></figcaption></figure>
 
-***
+After creating or joining a Club,\
+you can use the **Club Warehouse**, a shared storage space exclusive to your Club.
 
-### 📌 What is the Club Warehouse?
+The Club Warehouse allows members to store and manage items together\
+and plays an important role in Club operations.\
+However, the Club Warehouse is **not available by default**\
+and must be unlocked using [**Medals**](../club-war/medal.md).
 
 <figure><img src="../../.gitbook/assets/image (883).png" alt=""><figcaption></figcaption></figure>
 
-The **Club Warehouse** is a shared storage space where club members can deposit and retrieve items.\
-However, in order to access it, clubs must first gather [**medals**](../club-war/medal.md#eng) to unlock the warehouse.
+***
+
+#### ◾ Club Warehouse Unlock Guide
+
+To use the Club Warehouse, you must first collect **Medals** to unlock it.
+
+* Medals can be obtained through [**Club vs. Club PK battles**](../club-war/).
+* Winning battles against other Clubs rewards Medals.
+* Collected Medals can be used to unlock the Club Warehouse.
+
+{% content-ref url="../club-war/medal.md" %}
+[medal.md](../club-war/medal.md)
+{% endcontent-ref %}
 
 ***
 
-### 🏅 How to Obtain Medals
+#### ◾ Club Warehouse Structure
 
-Medals are acquired through **club-versus-**[**club PK battles**](../club-war/).\
-When your club engages in and wins battles against other clubs, you will earn medals.\
-These medals can then be used to unlock the Club Warehouse.
+Once unlocked, the Club Warehouse is divided into two sections:
 
-***
+* **Red (RED) Section**
+* **Blue (BLUE) Section**
 
-### 🔐 Club Warehouse
+Each section provides **10 storage slots**,\
+allowing a total of **20 slots** across the entire Club Warehouse.
+
+Access to each section and usage limits depend on the **member’s Club grade**.
 
 <figure><img src="../../.gitbook/assets/image (884).png" alt=""><figcaption></figcaption></figure>
 
-Once unlocked, the Club Warehouse is divided into two separate sections: **Red (RED) and Blue (BLUE).**
+***
 
-* **Each section contains 10 slots, which can be used to store items.**
-* In total, the warehouse offers **20 slots** for storage.
+#### ◾ Club Member Grades
 
-Not all club members can freely access the warehouse.\
-The **club master** has the authority to assign storage permissions.
+Club member grades are assigned in the following order:
 
-{% hint style="info" %}
-* The club master can designate **which section (Red or Blue) specific club members are allowed to use.**
-* This system ensures that important items can be managed in a more strategic manner.
-{% endhint %}
+* **Green (GREEN)**\
+  The default grade automatically assigned when joining a Club
+* **Blue (BLUE)**\
+  Intermediate grade
+* **Red (RED)**\
+  High-level grade
+* **Club Master**
+
+Available warehouse access and usage limits vary depending on the member’s grade.
 
 ***
 
-By making full use of the Club Warehouse, clubs can manage their items more efficiently. Strategic storage management will contribute to your club’s growth and strength!🏆
+#### ◾ Club Warehouse Access by Grade
+
+| Category             | Club Master | Red        | Blue      | Green         |
+| -------------------- | ----------- | ---------- | --------- | ------------- |
+| View Warehouse       | Available   | Available  | Available | Available     |
+| Accessible Sections  | Red / Blue  | Red / Blue | Blue      | Not Available |
+| Daily Item Retrieval | 10 times    | 3 times    | 1 time    | Not Available |
+| Daily Item Storage   | 10 times    | 3 times    | 1 time    | Not Available |
+
+***
+
+#### ◾ Club Warehouse Notes
+
+Club Warehouse access is determined\
+by the [**member grade set in the Club Management menu**](club-management.md#member-management).
+
+* Members with the **Green** grade can view the warehouse only\
+  and cannot store or retrieve items.
+* When storing important items, consider both **member grades** and **section access**\
+  to ensure efficient and secure warehouse management.
+
+***
+
+✨
+
+> **Set member grades and warehouse sections strategically**\
+> **to manage your Club Warehouse efficiently.**
 {% endtab %}
 
 {% tab title="한국어" %}
-<figure><img src="../../.gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
+### 🍻 클럽 창고 (Club Warehouse)
 
-클럽을 창설하거나 가입하면, 클럽 전용 **클럽 창고**를 사용할 수 있습니다.\
-이 창고는 클럽원들이 함께 아이템을 보관하고 관리할 수 있는 중요한 공간입니다.\
-하지만 처음부터 바로 사용할 수 있는 것은 아니며, 창고를 열기 위해서는 [**메달**](../club-war/medal.md#undefined-1)이 필요합니다.
+<figure><img src="../../.gitbook/assets/cc20.png" alt=""><figcaption></figcaption></figure>
 
-***
+클럽을 창설하거나 가입하면 클럽 전용 **클럽 창고**를 이용할 수 있습니다.
 
-### 📌 **클럽 창고란?**
+클럽 창고는 클럽원들이 함께 아이템을 보관하고 관리하는 공간으로,\
+클럽 운영에 중요한 역할을 합니다.
+
+단, 클럽 창고는 [**메달**](../club-war/medal.md)**을 사용해 개방해야만 이용할 수 있습니다.**
 
 <figure><img src="../../.gitbook/assets/image (883).png" alt=""><figcaption></figcaption></figure>
 
-클럽 창고는 클럽원들이 아이템을 공유하고 보관할 수 있는 공간입니다.\
-다만, 클럽 창고를 이용하려면 먼저 [**메달**](../club-war/medal.md#undefined-1)을 모아 창고를 개방해야 합니다.
+***
+
+#### ◾ 클럽 창고 개방 안내
+
+클럽 창고를 이용하려면 먼저 **메달**을 모아 창고를 개방해야 합니다.
+
+* 메달은 [**클럽 간 PK 전투**](../club-war/)를 통해 획득할 수 있습니다.
+* 다른 클럽과의 전투에서 승리하면 메달을 획득할 수 있습니다.
+* 획득한 메달을 사용해 클럽 창고를 개방할 수 있습니다.
+
+{% content-ref url="../club-war/medal.md" %}
+[medal.md](../club-war/medal.md)
+{% endcontent-ref %}
 
 ***
 
-### 🏅 **메달 획득 방법**
+#### ◾ 클럽 창고 구조 안내
 
-메달은 [클럽 간 PK(전투)](../club-war/)를 통해 획득할 수 있습니다.\
-즉, 클럽이 다른 클럽과 전투를 벌이고 승리하면, 메달을 얻을 수 있는 것이죠.\
-이렇게 모은 메달을 사용하여 클럽 창고를 개방할 수 있습니다.
+클럽 창고를 개방하면 내부는 **레드(RED) 세션**과 **블루(BLUE) 세션**으로 나뉩니다.
 
-***
+* 각 세션에는 **10칸의 슬롯**이 제공됩니다.
+* 전체 클럽 창고는 총 **20칸의 슬롯**을 사용할 수 있습니다.
 
-### 🔐 **클럽 창고**
+클럽 창고 이용 권한은 **클럽원 등급**에 따라 달라집니다.
 
 <figure><img src="../../.gitbook/assets/image (884).png" alt=""><figcaption></figcaption></figure>
 
-클럽 창고를 개방하면, 내부는 **레드(RED)와 블루(BLUE), 두 개의 세션**으로 나뉘어 있습니다.
+***
 
-* **각 세션에는 10개의 슬롯이 제공되며, 아이템을 보관할 수 있습니다.**
-* 즉, 클럽 창고 전체적으로는 **총 20개의 슬롯**을 사용할 수 있습니다.
+#### ◾ 클럽원 등급 안내
 
-이때, 모든 클럽원이 자유롭게 창고를 이용할 수 있는 것은 아닙니다.\
-창고를 사용할 권한은 **클럽장이 직접 설정**할 수 있습니다.
+클럽원 등급은 아래 순서로 구분됩니다.
 
-{% hint style="info" %}
-* 클럽장은 특정 세션(레드 또는 블루)을 지정하여\
-  **어느 세션을 클럽원들이 사용할 수 있을지 결정할 수 있습니다.**
-* 이를 통해 중요한 아이템을 전략적으로 관리할 수 있습니다.
-{% endhint %}
+* **그린 (GREEN)**\
+  클럽 최초 가입 시 자동으로 부여되는 기본 등급
+* **블루 (BLUE)**\
+  중간 등급
+* **레드 (RED)**\
+  상위 등급
+* **클럽 마스터**
+
+등급에 따라 이용 가능한 창고 세션과 사용 횟수가 달라집니다.
 
 ***
 
-클럽 창고를 잘 활용하면, 클럽원들과 더욱 효율적으로 아이템을 관리할 수 있습니다.\
-클럽의 성장과 강화를 위해 전략적으로 운영해 보세요!🏆
+#### ◾ 등급별 클럽 창고 이용 권한
+
+| 구분        | 클럽 마스터  | 레드      | 블루    | 그린    |
+| --------- | ------- | ------- | ----- | ----- |
+| 클럽 창고 열람  | 가능      | 가능      | 가능    | 가능    |
+| 사용 가능 세션  | 레드 / 블루 | 레드 / 블루 | 블루    | 사용 불가 |
+| 아이템 찾기 횟수 | 일일 10회  | 일일 3회   | 일일 1회 | 이용 불가 |
+| 아이템 저장 횟수 | 일일 10회  | 일일 3회   | 일일 1회 | 이용 불가 |
+
+***
+
+#### ◾ 클럽 창고 이용 안내
+
+클럽 창고 이용 권한은 [**클럽 관리 메뉴에서 설정된 등급**](club-management.md#undefined-4)을 기준으로 적용됩니다.
+
+* **그린 등급**은 창고 열람만 가능하며, 아이템 보관 및 회수는 불가능합니다.
+* 중요한 아이템은 **등급과 세션 권한**을 고려하여 보관하는 것이 좋습니다.
+
+***
+
+✨
+
+> **클럽원 등급과 세션을 전략적으로 설정하여, 클럽 창고를 효율적으로 운영해 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-<figure><img src="../../.gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
+### 🍻 クラブ倉庫（Club Warehouse）
 
-クラブを創設、または加入すると、クラブ専用の**クラブ倉庫**を利用できるようになります。\
-この倉庫は、クラブメンバーが**アイテムを共有・管理**するための重要なスペースです。\
-ただし、最初から使えるわけではなく、**倉庫を解放するには**[**メダル**](../club-war/medal.md#ri-ben-yu)**が必要**です。
+<figure><img src="../../.gitbook/assets/cc20.png" alt=""><figcaption></figcaption></figure>
 
-***
+クラブを創設、または加入すると、クラブ専用の**クラブ倉庫**を利用できるようになります。
 
-### 📌 クラブ倉庫とは？
+クラブ倉庫は、クラブメンバーがアイテムを共有・管理するための空間で、\
+クラブ運営において重要な役割を果たします。\
+ただし、クラブ倉庫は**初期状態では使用できず**、[メダル](../club-war/medal.md)を使用して解放する必要があります。
 
 <figure><img src="../../.gitbook/assets/image (883).png" alt=""><figcaption></figcaption></figure>
 
-クラブ倉庫は、クラブメンバーがアイテムを預けたり、取り出したりできる共有スペースです。\
-ただし、利用するには[**メダル**](../club-war/medal.md#ri-ben-yu)**を集めて倉庫を解放する必要**があります。
+***
+
+#### ◾クラブ倉庫の解放案内
+
+クラブ倉庫を利用するには、まず**メダル**を集めて倉庫を解放する必要があります。
+
+* メダルは[**クラブ間PK戦闘**](../club-war/)で獲得できます。
+* 他のクラブとの戦闘に勝利すると、メダルを獲得できます。
+* 集めたメダルを使用して、クラブ倉庫を解放できます。
+
+{% content-ref url="../club-war/medal.md" %}
+[medal.md](../club-war/medal.md)
+{% endcontent-ref %}
 
 ***
 
-### 🏅 メダルの獲得方法
+#### ◾ クラブ倉庫の構造
 
-メダルは、[**クラブ間のPK**](../club-war/)**戦**を通じて獲得できます。\
-他のクラブと戦い、勝利することでメダルを獲得できます。\
-このメダルを使用することで、クラブ倉庫を解放できるのです。
+クラブ倉庫を解放すると、内部は以下の2つのセクションに分かれます。
 
-***
+* **レッド（RED）セクション**
+* **ブルー（BLUE）セクション**
 
-### 🔐 クラブ倉庫
+各セクションには**10個のスロット**が用意されており、クラブ倉庫全体で\
+**合計20個のスロット**を利用できます。
+
+クラブ倉庫の利用権限は、**クラブメンバーの等級**によって異なります。
 
 <figure><img src="../../.gitbook/assets/image (884).png" alt=""><figcaption></figcaption></figure>
 
-クラブ倉庫を解放すると、内部は**レッド(RED)とブルー(BLUE)、2つのセクション**に分かれています。
+***
 
-* **各セクションには10スロットがあり、アイテムを保管できます。**
-* つまり、**倉庫全体で20スロット**が使用可能です。
+#### ◾ クラブメンバー等級
 
-また、すべてのクラブメンバーが自由に倉庫を利用できるわけではありません。\
-**クラブマスター**が、メンバーごとの利用権限を設定できます。
+クラブメンバーの等級は、以下の順で区分されます。
 
-{% hint style="info" %}
-* クラブマスターは**どのメンバーがレッドまたはブルーのセクションを利用できるかを指定可能**です。
-* これにより、貴重なアイテムをより戦略的に管理することができます。
-{% endhint %}
+* **グリーン（GREEN）**\
+  クラブ加入時に自動で付与される基本等級
+* **ブルー（BLUE）**\
+  中間等級
+* **レッド（RED）**\
+  上位等級
+* **クラブマスター**
+
+等級によって、利用できる倉庫セクションや使用回数が異なります。
 
 ***
 
-クラブ倉庫をうまく活用すれば、クラブメンバーとより効率的にアイテムを管理できます。 \
-倉庫を戦略的に運用し、クラブの成長と強化を目指しましょう！🏆
+#### ◾ 等級別クラブ倉庫利用権限
+
+| 区分         | クラブマスター   | レッド       | ブルー  | グリーン |
+| ---------- | --------- | --------- | ---- | ---- |
+| 倉庫閲覧       | 可能        | 可能        | 可能   | 可能   |
+| 利用可能セクション  | レッド / ブルー | レッド / ブルー | ブルー  | 利用不可 |
+| アイテム取り出し回数 | 1日10回     | 1日3回      | 1日1回 | 利用不可 |
+| アイテム保管回数   | 1日10回     | 1日3回      | 1日1回 | 利用不可 |
+
+***
+
+#### ◾ クラブ倉庫利用案内
+
+クラブ倉庫の利用権限は、[**クラブ管理メニューで設定された等級**](club-management.md#menb)を基準に適用されます。
+
+* **グリーン等級**は倉庫の閲覧のみ可能で、アイテムの保管および取り出しはできません。
+* 重要なアイテムは、**等級とセクション権限**を考慮して 保管することをおすすめします。
+
+***
+
+✨
+
+> **クラブメンバーの等級とセクションを戦略的に設定し、**\
+> **クラブ倉庫を効率よく運用しましょう。**
 {% endtab %}
 {% endtabs %}
 
-\-
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 26, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
