@@ -1,190 +1,253 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🏆 Seven Sacred Relics
 
-<figure><img src="../../.gitbook/assets/Icon_Relic.png" alt=""><figcaption><p>Relic</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Icon_Relic (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-#### ⚔️ **The Seven Sacred Relics – A Battle for Club Honor!** ⚔️
+### ⚔️ Seven Sacred Relics
 
-Once you join a club, you become part of an ongoing battle system that shapes the balance of power across the continent.\
-At the heart of this system lies a legendary competition: **The Seven Sacred Relics**.
+Seven Sacred Relics are a core competitive system\
+that can be obtained through **Club War**.
 
-Only **seven Relics** exist per server. Those who possess them gain **formidable power**, and their entire club enjoys **shared buffs** based on how many Relics are held.
+Only **seven relics exist per server**,\
+and Club members who possess a Sacred Relic gain powerful individual benefits.\
+In addition, the more Club members who hold Sacred Relics,\
+the greater the bonus applied to the entire Club.
 
-***
-
-#### 🏆 **Relic Bonus Effects**
-
-* If one club member holds a Relic:\
-   → **All club members gain +3% drop rate (items, gold, EXP)**
-* Two Relics: +6%, and so on—up to a **maximum of +21% with 7 Relics held**
-
-> But keep your guard up: the more Relics your club controls, the more enemies you’ll attract.
+<figure><img src="../../.gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 📜 **Relic Acquisition & Rules**
+#### ◾ Seven Sacred Relic Bonuses
 
-* ✅ Relics can **only be acquired while your club is in War status**
-* ✅ At first, **Relics are dropped by monsters in PK Leverage Zones**
-* ✅ Only **one Relic can drop per player** from monsters
-* ⛔ **Relics cannot be obtained while under a PK Shield**
-* ⛔ **You cannot activate a PK Shield while holding a Relic**
+When a Club member possesses a Sacred Relic,\
+the following effects are applied to the entire Club:
 
-***
+* **1 Sacred Relic held**\
+  All Club members gain **+3% Drop Rate** (Items, Gold, and EXP)
+* Additional Relics provide **stacking bonuses**
+* A maximum of **+21%** is applied when **7 Relics** are held
 
-#### ⚔️ **Relic PvP – Take It by Force**
-
-Relics aren’t just looted—they can be **stolen in open PvP combat**.
-
-* ✅ Players holding a Relic will display a **Relic icon above their head**
-* ✅ If an enemy from a rival club defeats them, the Relic **can be claimed**
-* ✅ A single player can carry **up to all 7 Relics**
-* ✅ Defeating such a player allows you to **claim all their Relics at once**
-
-> The more Relics you carry, the stronger your buffs—but also the higher the threat level.
+{% hint style="warning" %}
+**The more Sacred Relics a Club holds,** \
+**the more likely it is to become a primary target for other Clubs.**
+{% endhint %}
 
 ***
 
-#### ⏳ **Relic Maintenance & Expiry**
+#### ◾ Conditions to Obtain Sacred Relics
 
-* ⏱️ A player holding a Relic will **gain 1 PK level every 30 minutes**
-* 🧬 Relic power effects will **scale based on your NFT’s base stats**
-* 💤 If the Relic holder **enters a Safe Zone** or **logs out for more than 10 minutes**,\
-   → The Relic will **return to a monster**
+Sacred Relics can only be obtained when **all of the following conditions are met**:
+
+* The Club must be in a **War state**
+* Sacred Relics are initially dropped by monsters in the **PK Leverage Zone**
+* When a monster is defeated, **each player can obtain up to 1 Sacred Relic**
+
+Sacred Relics **cannot be obtained** in the following situation:
+
+* While a **PK Shield** is active
 
 ***
 
-The Seven Sacred Relics demand strategy, resilience, and fearless leadership.\
-Seizing them is not just a flex—it's a declaration of dominance.
+#### ◾ Sacred Relic Holding Restrictions
 
-Wizard, are you prepared to claim divine power for your club?\
-Then raise your staff, gather your allies, and let the Relics shine in your name. 🏆�&#xDD25;**.**\
-Defend your honor and claim victory in this relentless war! 🏆
+While holding a Sacred Relic, the following restrictions apply:
+
+* **PK Shields cannot be used**
+* The Relic holder is **constantly exposed to combat risk**
+
+<figure><img src="../../.gitbook/assets/signal-2026-01-26-164521.jpeg" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ Sacred Relic Seizure (Club vs. Club PK)
+
+Sacred Relics can be obtained not only from monsters\
+but also by **seizing them through PK against other Clubs**.
+
+* Club members holding a Sacred Relic\
+  will have a **Relic icon displayed above their character**
+* If such a player is defeated by an opposing Club member, the Sacred Relic can be seized
+* A single player can hold **up to all 7 Sacred Relics**
+* Defeating a player holding **7 Sacred Relics**\
+  allows the opponent to obtain **all of them at once**
+
+<figure><img src="../../.gitbook/assets/signal-2026-01-26-164525.jpeg" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾Sacred Relic Maintenance & Disappearance
+
+* A Sacred Relic holder’s **PK Level increases by 1 every 30 minutes**
+* In the future, Sacred Relic effects will vary based on the **NFT’s base stats**
+* If a Sacred Relic holder remains in a **Peace Zone**, or **10 minutes pass after logging out**,\
+  the Sacred Relic will return to the monsters
+
+***
+
+✨
+
+> **Seven Sacred Relics are a system that tests both the growth and honor of a Club.**\
+> **Through strategy and combat, prove the true strength of your Club.**
 {% endtab %}
 
 {% tab title="한국어" %}
-### ⚔️ **일곱 성배 – 클럽의 명예를 건 전투!** ⚔️
+### ⚔️ 일곱 성배 (Seven Sacred Relics)
 
-클럽원이 되는 순간, 모든 위자드는 상시적으로 진행되는 배틀 시스템에 참여하게 됩니다.\
-그중에서도 가장 상징적인 콘텐츠가 바로 **‘일곱 성배’** 시스템입니다.
+일곱 성배는 **클럽 전쟁을 통해 획득할 수 있는 핵심 경쟁 콘텐츠**입니다.
 
-‘일곱 성배’는 **서버 내 단 7개만 존재**하는 특별한 아이템이며, 이를 소유한 클럽원은 **강력한 혜택**을 받을 수 있습니다.\
-또한, 성배를 보유한 클럽원이 많을수록 **클럽 전체**가 추가 보너스를 획득하게 됩니다.
+서버 내에 단 **7개만 존재하는 특별한 유물**로,\
+성배를 보유한 클럽원은 강력한 개인 혜택을 획득할 수 있습니다.
 
-***
+또한, 성배를 보유한 클럽원이 많을수록 **클럽 전체에 추가 보너스**가 적용됩니다.
 
-#### 🏆 **성배 보너스 효과**
-
-* 클럽원이 성배 1개를 소유하면,\
-   → **모든 클럽원의 드랍률 (아이템·골드·EXP)이 +3% 증가합니다.**
-* 성배 2개 보유 시 +6% 증가하며, 최대 **7개 보유 시 +21%까지 누적**됩니다.
-
-> 단, 성배를 많이 보유할수록 **다른 클럽의 주요 표적**이 될 수 있으니 주의하시기 바랍니다.
+<figure><img src="../../.gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 📜 **성배 획득 및 유지 규칙**
+#### ◾ 일곱 성배 보너스 효과
 
-* ✅ 성배는 **클럽이 ‘전쟁’ 상태일 때만** 획득할 수 있습니다.
-* ✅ **PK 레버리지 존**의 몬스터가 최초로 성배를 드랍합니다.
-* ✅ 몬스터를 처치할 경우, **1인당 1개만 드랍**됩니다.
-* ⛔ **PK 보호막 사용 중일 때는 성배를 획득할 수 없습니다.**
-* ⛔ **성배를 소유한 상태에서는 PK 보호막을 사용할 수 없습니다.**
+클럽원이 성배를 보유하면 클럽 전체에 다음 효과가 적용됩니다.
 
-***
+* 성배 **1개 보유 시** 모든 클럽원의 **드랍률(아이템·골드·EXP) +3%**
+* 성배를 추가로 보유할수록 효과는 **누적 적용**됩니다.
+* 최대 **7개 보유 시 +21%**&#xAE4C;지 증가합니다.
 
-#### ⚔️ **성배 쟁탈전 – 클럽 간 PK**
-
-성배는 단순히 몬스터로부터만 얻는 것이 아닙니다.\
-**다른 클럽과의 PK를 통해 탈취할 수도 있습니다.**
-
-* ✅ 성배를 보유한 클럽원은 **머리 위에 성배 아이콘**이 표시됩니다.
-* ✅ 해당 플레이어를 **상대 클럽원이 PK하면 성배를 빼앗을 수 있습니다.**
-* ✅ **한 명의 플레이어가 최대 7개의 성배**를 모두 보유할 수도 있습니다.
-* ✅ **성배 7개를 보유한 플레이어를 처치하면**, 해당 성배 전부를 빼앗을 수 있습니다.
-
-> 성배를 많이 보유할수록 강력한 혜택을 누릴 수 있지만, 그만큼 **적들에게 노출될 위험**도 커지게 됩니다.
+{% hint style="warning" %}
+**성배를 많이 보유할수록 다른 클럽의 주요 공격 대상이 될 수 있습니다.**
+{% endhint %}
 
 ***
 
-#### ⏳ **성배 유지 및 소멸 조건**
+#### ◾ 성배 획득 조건
 
-* ⏱️ 성배를 보유한 플레이어는 **30분마다 PK 레벨이 1씩 증가**합니다.
-* 🧬 **NFT의 베이스 스탯**에 따라 성배의 능력 효과가 다르게 적용될 예정입니다.
-* 💤 성배 보유자가 **평화 지역에 머물거나**, **접속 종료 후 10분이 경과되면**,\
-    → 성배는 다시 **몬스터에게 귀속**됩니다.
+성배는 아래 조건을 충족한 상태에서만 획득할 수 있습니다.
+
+* 클럽이 **전쟁 상태**일 것
+* **PK 레버리지 존**의 몬스터가 최초 드랍
+* 몬스터 처치 시, **플레이어 1인당 성배 1개 드랍**
+
+다음 상황에서는 성배를 획득할 수 없습니다.
+
+* **PK 보호막 사용 중**일 경우
+* 성배 보유 중에는 **PK 보호막 사용 불가**
 
 ***
 
-끊임없는 전투와 전략이 요구되는 ‘일곱 성배’ 콘텐츠는,\
-**클럽의 명예**와 **강력한 보너스 효과**를 동시에 손에 넣을 수 있는 기회입니다.
+#### ◾ 성배 쟁탈전 (클럽 간 PK)
 
-위자드님, 전장을 지배할 준비는 되셨습니까?\
-**클럽의 깃발을 높이 들고, 전설을 써 내려가시기 바랍니다.** 🏆❄️🔥
+성배는 몬스터 처치뿐만 아니라 **다른 클럽과의 PK를 통해서도 탈취**할 수 있습니다.
+
+* 성배를 보유한 클럽원은 **머리 위에 성배 아이콘**이 표시됩니다.
+* 해당 플레이어를 상대 클럽원이 PK할 경우 성배를 빼앗을 수 있습니다.
+* 한 명의 플레이어가 **최대 7개의 성배를 모두 보유**할 수 있습니다.
+* 성배 7개를 보유한 플레이어를 처치하면 **해당 성배 전부를 획득**합니다.
+
+<figure><img src="../../.gitbook/assets/signal-2026-01-26-164525.jpeg" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 성배 유지 및 소멸 조건
+
+* 성배 보유자는 **30분마다 PK 레벨이 1씩 증가**합니다.
+* 향후, **NFT 베이스 스탯에 따라 성배 효과가 다르게 적용**될 예정입니다.
+* 성배 보유자가 **평화 지역에 머물거나**, **접속 종료 후 10분이 경과**하면  \
+  성배는 다시 **몬스터에게 귀속**됩니다.
+
+***
+
+✨
+
+> **일곱 성배는 클럽의 성장과 명예를 동시에 시험하는 콘텐츠입니다.**\
+> **전략과 전투를 통해, 클럽의 힘을 증명해 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-### ⚔️ **七つの聖杯 – クラブの名誉をかけた戦い！** ⚔️
+### ⚔️ 七つの聖遺物（Seven Sacred Relics）
 
-クラブに加入した時点で、すべてのウィザードは常時行われる戦闘システムの一員となります。\
-その中でも最も象徴的なシステムが――\*\*「七つの聖杯」\*\*です。
+七つの聖遺物は、**クラブ戦争を通じて獲得できる中核的な競争コンテンツ**です。
 
-サーバー内には **たった7つの聖杯** しか存在せず、これを所持することでウィザードは**強力な恩恵**を受けることができます。\
-さらに、クラブメンバーの所持数に応じて、**クラブ全体に追加ボーナス**が付与されます。
+サーバー内に**7つしか存在しない特別な遺物**であり、\
+聖遺物を所持しているクラブメンバーは 強力な個人効果を獲得できます。\
+また、聖遺物を所持しているクラブメンバーが多いほど、\
+**クラブ全体に追加ボーナス**が適用されます。
 
-***
-
-#### 🏆 **聖杯ボーナス効果**
-
-* クラブメンバーが聖杯を1つ所持すると：\
-   → **全クラブメンバーのドロップ率（アイテム・ゴールド・EXP）が+3%上昇**
-* 聖杯が2つなら+6%、最大 **7個で+21%まで累積**されます。
-
-> ただし、聖杯を多く保持するほど、**他クラブからの標的**となるリスクも高まりますので、ご注意ください。
+<figure><img src="../../.gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### 📜 **聖杯の取得と保持ルール**
+#### ◾ 七つの聖遺物ボーナス効果
 
-* ✅ 聖杯は **クラブが「戦争状態」のときのみ** 獲得可能です。
-* ✅ 初回は **PKレバレッジゾーンのモンスター**からドロップします。
-* ✅ モンスターからのドロップは **1人につき1個まで**となっています。
-* ⛔ **PK保護シールドを使用中は聖杯を取得できません。**
-* ⛔ **聖杯を所持している間はPK保護シールドを使用できません。**
+クラブメンバーが聖遺物を所持すると、クラブ全体に以下の効果が適用されます。
 
-***
+* **聖遺物1個所持時**\
+  すべてのクラブメンバーの **ドロップ率（アイテム・ゴールド・EXP）+3%**
+* 聖遺物を追加で所持するごとに 効果は**累積**されます
+* 最大**7個所持時、+21%**&#x307E;で増加します
 
-#### ⚔️ **聖杯争奪戦 – クラブ間のPKバトル**
-
-聖杯はモンスターからだけではなく、**PKによっても奪うことができます！**
-
-* ✅ 聖杯を所持しているプレイヤーの頭上には **聖杯アイコン**が表示されます。
-* ✅ 他クラブのプレイヤーがその対象をPKすると、**聖杯を奪取**できます。
-* ✅ **1人で最大7個の聖杯を保持することも可能**です。
-* ✅ 7個すべてを持つプレイヤーを倒すことで、**そのすべてを奪うことができます。**
-
-> 聖杯を多く持つほど効果は大きくなりますが、**同時に狙われる危険性**も増します。
+{% hint style="warning" %}
+**聖遺物を多く所持するほど、他クラブから主要な攻撃対象となりやすくなります。**
+{% endhint %}
 
 ***
 
-#### ⏳ **聖杯の維持と消失条件**
+#### ◾ 聖遺物の獲得条件
 
-* ⏱️ 聖杯を所持していると **30分ごとにPKレベルが1ずつ上昇**します。
-* 🧬 聖杯のレバレッジ効果は、**NFTのベースステータスにより変動**します。
-* 💤 所持者が **平和エリアに滞在するか、ログアウト後10分経過すると**\
-   → 聖杯は自動的にモンスターへと返還されます。
+聖遺物は、以下の条件を**すべて満たしている場合のみ**獲得できます。
+
+* クラブが**戦争状態**であること
+* **PKレバレッジゾーン**のモンスターが最初にドロップすること
+* モンスター撃破時、**プレイヤー1人につき聖遺物1個までドロップ**
+
+以下の状況では、聖遺物を獲得することはできません。
+
+* **PKシールド使用中**の場合
 
 ***
 
-七つの聖杯は、戦略・覚悟・そして仲間との連携が求められるシステムです。\
-クラブの誇りをかけて、この熾烈な戦いに勝利し、伝説を刻みましょう。
+#### ◾ 聖遺物所持時の制限事項
 
-**ウィザードの皆さま、準備はよろしいですか？**\
-**聖杯に選ばれし者として、その力を手に入れましょう！** 🏆❄️🔥
+聖遺物を所持している間は、以下の制限が適用されます。
+
+* **PKシールドを使用できません**
+* 聖遺物所持者は、常に**戦闘リスクにさらされます**
+
+<figure><img src="../../.gitbook/assets/signal-2026-01-26-164521.jpeg" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 聖遺物争奪戦（クラブ間PK）
+
+聖遺物は、モンスターからのドロップだけでなく、\
+**他クラブとのPKによって奪取することも可能**です。
+
+* 聖遺物を所持しているクラブメンバーの頭上には **聖遺物アイコン**が表示されます
+* 該当プレイヤーを 相手クラブメンバーがPKした場合、聖遺物を奪うことができます
+* 1人のプレイヤーが **最大7個すべての聖遺物を所持**することも可能です
+* **7個の聖遺物を所持しているプレイヤー**を撃破すると、その聖遺物を**すべて獲得**できます
+
+<figure><img src="../../.gitbook/assets/signal-2026-01-26-164525.jpeg" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 聖遺物の維持および消失条件
+
+* 聖遺物所持者は、**30分ごとにPKレベルが1上昇**します
+* 今後、**NFTのベースステータスに応じて 聖遺物効果が異なる形で適用**される予定です
+* 聖遺物所持者が **平和地域に滞在した場合**、または **ログアウト後10分が経過した場合**、\
+  聖遺物は再び**モンスターへ帰属**します
+
+***
+
+✨
+
+> **七つの聖遺物は、クラブの成長と名誉の両方を試すコンテンツです。**\
+> **戦略と戦闘を通じて、クラブの真の力を証明しましょう。**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 26, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
