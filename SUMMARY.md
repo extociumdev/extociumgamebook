@@ -193,7 +193,7 @@
 ## 💰 ECONOMY
 
 * [🎁 Shop](economy/shop/README.md)
-  * [💎 Gem Shop](economy/shop/gem-shop.md)
+  * [💎 Gem Store](economy/shop/gem-store.md)
   * [🦊 BNB / Gem Shop](economy/shop/bnb-gem-shop.md)
   * [🔯 XTO Shop](economy/shop/xto-shop.md)
   * [😎 Skin info](economy/shop/skin-info.md)

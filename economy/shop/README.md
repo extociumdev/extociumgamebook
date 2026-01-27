@@ -17,7 +17,7 @@ You can purchase various items using **Gem, BNB, and XTO tokens**.
 
 👉 [View BNB / Gem Shop Item List ](bnb-gem-shop.md#eng)\
 👉 [View XTO Shop Item List ](xto-shop.md#eng)\
-👉 [View Gem Shop Item List](gem-shop.md#eng)
+👉 [View Gem Shop Item List](gem-store.md#eng)
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -30,7 +30,7 @@ You can purchase various items using **Gem, BNB, and XTO tokens**.
 
 👉 [BNB / Gem 샵 아이템 리스트 확인하기 ](bnb-gem-shop.md#undefined-1)\
 👉 [XTO 샵 아이템 리스트 확인하기 ](xto-shop.md#undefined-1)\
-👉[ Gem 샵 아이템 리스트 확인하기](gem-shop.md#undefined-1)
+👉[ Gem 샵 아이템 리스트 확인하기](gem-store.md#undefined-1)
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -43,12 +43,12 @@ SHOPでは、**Gem・BNB・XTOトークン**でさまざまなアイテムを購
 
 👉 [BNB / Gemショップのアイテムリストを確認する ](bnb-gem-shop.md#ri-ben-yu)\
 👉 [XTOショップのアイテムリストを確認する ](xto-shop.md#ri-ben-yu)\
-👉[ Gemショップのアイテムリストを確認する](gem-shop.md#ri-ben-yu)
+👉[ Gemショップのアイテムリストを確認する](gem-store.md#ri-ben-yu)
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="gem-shop.md" %}
-[gem-shop.md](gem-shop.md)
+{% content-ref url="gem-store.md" %}
+[gem-store.md](gem-store.md)
 {% endcontent-ref %}
 
 {% content-ref url="bnb-gem-shop.md" %}
