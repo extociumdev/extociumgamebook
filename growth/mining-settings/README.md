@@ -34,7 +34,7 @@ Mining Setup can be accessed **using the methods below.**
 
 * Tap the **\[Dashboard]** button at the top-left of the Main HUD.
 
-<figure><img src="../../.gitbook/assets/ms1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ms1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * From the Dashboard, tap **\[Mining Setup]** to display the Mining Setup widget.
 
@@ -111,7 +111,7 @@ for today can be checked **in real time** at the bottom of the Main HUD.
 
 * 메인 HUD 좌측 상단의 **\[대시보드] 버튼**을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/ms1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ms1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * 대시보드에서 **\[채굴 세팅] 버튼**을 터치하면 채굴 세팅 위젯이 표시됩니다.
 
@@ -183,7 +183,7 @@ for today can be checked **in real time** at the bottom of the Main HUD.
 
 * メインHUD左上&#x306E;**［ダッシュボード］** ボタンをタップします。
 
-<figure><img src="../../.gitbook/assets/ms1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ms1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * ダッシュボード内&#x306E;**［採掘設定］** をタップすると、採掘設定ウィジェットが表示されます。
 
