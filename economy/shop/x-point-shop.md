@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🏵️ X-Point Shop
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 <sup>**EN**</sup> Item prices are subject to change without prior notice.\
 <sup>**KR**</sup> 아이템 가격은 운영 및 정책에 따라 변경될 수 있습니다.\
 <sup>**JP**</sup> アイテムの価格は、予告なく変更される場合があります。

@@ -48,7 +48,7 @@ At the top of the screen, there are slots that support Enchantment.
   Regardless of success or failure,\
   **1 item is consumed per Enchantment attempt** once equipped.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### Caution
@@ -132,7 +132,7 @@ Stat increase calculation is as follows:
   해당 아이템 역시 성공/실패 여부와 관계없이 장착한 상태에서 인챈트를 진행하면\
   **인챈트 1회당 1개가 소모**됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### 주의
@@ -217,7 +217,7 @@ Stat increase calculation is as follows:
   装着した状態でエンチャントを行うと\
   **エンチャント1回につき1個消費**されます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### 注意

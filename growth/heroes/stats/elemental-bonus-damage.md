@@ -31,7 +31,7 @@ Based on these relationships, **Elemental Bonus Damage (EBD)** is applied.
 
 * You can check a target’s element in the **Target Panel**.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * During combat,\
   an **arrow icon displayed above the target’s head** allows you to quickly identify\
@@ -119,7 +119,7 @@ even with the same stats.\
 
 * 타겟의 속성은 **타겟 패널**에서 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 전투 중에는 타겟의 머리 위에 표시되는 **화살표 아이콘**을 통해\
   상성 관계를 직관적으로 확인할 수 있습니다.
@@ -202,7 +202,7 @@ even with the same stats.\
 
 * ターゲットの属性は、**ターゲットパネル**から確認できます。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 戦闘中は、\
   ターゲットの頭上に表示される **矢印アイコン** によって、\

@@ -95,7 +95,7 @@ To leave the Rusty Tankard, you can:
 
 * Use the portal back to Rotten Hill
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Exit instantly via the map at the top-right of the screen
 
@@ -197,7 +197,7 @@ NPC들의 대화를 통해 세계관의 분위기도 느낄 수 있습니다.
 
 * 로튼힐로 이어지는 포털 이용
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 화면 우측 상단 맵을 통해 즉시 퇴장
 
@@ -300,7 +300,7 @@ NPCたちの会話を通して世界観の雰囲気を感じることもでき�
 
 * ロッテンヒルへ戻るポータルを使用
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 画面右上のマップから即時退出
 

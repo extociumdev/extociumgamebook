@@ -26,7 +26,7 @@ positioned in the north-central area of **Rotten Hill**.
 
 1️⃣ Move to the **Magic Shop**.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Use the portal leading to the **second floor** inside the Magic Shop.
 
@@ -81,7 +81,7 @@ For detailed information on each feature, please refer to the NPC guide pages be
 
 1️⃣ **Magic Shop**으로 이동합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Magic Shop 내부의 **2층으로 향하는 포탈**을 이용합니다.
 
@@ -132,7 +132,7 @@ For detailed information on each feature, please refer to the NPC guide pages be
 
 1️⃣ **マジックショップ**へ移動します。
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ マジックショップ内部の**2階へ向かうポータル**を利用します。
 
