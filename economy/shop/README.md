@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 🎁 Shop
 
-<figure><img src="../../.gitbook/assets/image (908).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -62,3 +62,5 @@ SHOPでは、**Gem・BNB・XTOトークン**でさまざまなアイテムを購
 {% content-ref url="asset-rental/hero-rental.md" %}
 [hero-rental.md](asset-rental/hero-rental.md)
 {% endcontent-ref %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 27, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

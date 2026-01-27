@@ -4,7 +4,7 @@ description: 🛑 This information may be updated later than the game server dat
 
 # 💎 Gem Shop
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1019).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -37,4 +37,4 @@ Gem Shopで手軽にGemをチャージし、欲しいアイテムを素早く手
 {% endtab %}
 {% endtabs %}
 
-\-
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 27, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

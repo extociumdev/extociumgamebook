@@ -26,4 +26,4 @@ description: 🛑 This information may be updated later than the game server dat
 {% endtab %}
 {% endtabs %}
 
-\-
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 27, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
