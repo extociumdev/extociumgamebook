@@ -26,10 +26,10 @@ you can try Heroes firsthand or generate additional income using your owned asse
 
 The Hero Rental System offers two ways to use the service:
 
-* **Rent a Hero**\
-  👉 Rent a Hero owned by another player for a limited period
-* **List Hero for Rental**\
-  👉 List your own Hero for rental and earn XTO rewards
+* [**Rent a Hero**](hero-rental.md#rent-a-hero)\
+  👉 You can rent a Hero to use it for a limited time.
+* [**Rent out a Hero**](hero-rental.md#rent-out-a-hero)\
+  👉 You can rent out your own Hero to earn XTO rewards.
 
 ***
 
@@ -90,7 +90,7 @@ By renting a Hero, you can use **Gems** to play with the Hero for a limited time
 
 ***
 
-#### ◾List Hero for Rental
+#### ◾Rent out a Hero
 
 You can list your owned NFT Hero for rental, allowing other players to rent it.\
 Once the rental period ends, you will receive **XTO rewards** based on your set conditions.
@@ -164,7 +164,7 @@ Once the rental period ends, you will receive **XTO rewards** based on your set 
 
 * [**영웅 대여하기**](hero-rental.md#rent-a-hero)\
   👉 다른 유저의 영웅을 일정 기간 빌려 사용
-* [**영웅 대여 등록하기**](hero-rental.md#list-hero-for-rental)\
+* [**영웅 대여 등록하기**](hero-rental.md#undefined-5)\
   👉 내가 보유한 영웅을 렌탈로 등록하여 XTO 보상 획득
 
 ***
@@ -225,7 +225,7 @@ Once the rental period ends, you will receive **XTO rewards** based on your set 
 
 ***
 
-#### ◾ 영웅 대여 등록하기 (List Hero for Rental)
+#### ◾ 영웅 대여 등록하기&#x20;
 
 보유 중인 NFT 영웅을 렌탈로 등록하여 다른 유저에게 대여할 수 있습니다.\
 대여 기간이 종료되면 **설정한 조건에 따라 XTO 보상을 획득**합니다.
@@ -296,10 +296,10 @@ Once the rental period ends, you will receive **XTO rewards** based on your set 
 
 ヒーローレンタルシステムでは、以下の2つの利用方法があります。
 
-* **ヒーローをレンタルする**\
-  👉 他のプレイヤーのヒーローを一定期間借りて使用
-* **ヒーローをレンタル登録する**\
-  👉 所持しているヒーローをレンタル登録し、XTO報酬を獲得
+* [**ヒーローをレンタルする**](hero-rental.md#hrworentarusururent-a-hero)\
+  👉 他のプレイヤーのヒーローを一定期間レンタルして使用できます。
+* [**ヒーローをレンタルに出す**](hero-rental.md#hrworentarunisu)\
+  👉 所持しているヒーローをレンタルに出し、XTO報酬を獲得できます。
 
 ***
 
@@ -360,7 +360,7 @@ Once the rental period ends, you will receive **XTO rewards** based on your set 
 
 ***
 
-#### ◾ ヒーローをレンタル登録する（List Hero for Rental）
+#### ◾ ヒーローをレンタルに出す
 
 所持しているNFTヒーローをレンタル登録し、他のプレイヤーに貸し出すことができます。\
 レンタル期間終了後、設定した条件に応じて **XTO報酬**を獲得します。
