@@ -22,11 +22,11 @@ the wallet connection button may not appear directly on the game screen.
 **How to Fix**\
 1️⃣ Go to **NPC Alopex**, located northwest of Rotten hill.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Talk to Alopex, then open your inventory to receive the **“Call the Fox”** item.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ Use this item to manually open the wallet connection window.
 
@@ -44,7 +44,7 @@ If the wallet does not connect, check the following in order:
 * Confirm the wallet network is set to **BNB Smart Chain**
 * Verify that the wallet address is the one you intend to connect
 
-<figure><img src="../../.gitbook/assets/image (928).png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (928).png" alt="" width="232"><figcaption></figcaption></figure>
 
 After checking these, try connecting again.
 
@@ -112,11 +112,11 @@ MetaMask allows you to adjust fees in three levels on the confirmation screen.
 
 1️⃣ Click the **pencil (✏️) icon** next to the gas fee
 
-<figure><img src="../../.gitbook/assets/image (929).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (929).png" alt="" width="350"><figcaption></figcaption></figure>
 
 2️⃣ Select **Low / Market / Aggressive**
 
-<figure><img src="../../.gitbook/assets/image (930).png" alt="" width="349"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (930).png" alt="" width="349"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 ### Do Not Lower the Gas Limit
@@ -192,11 +192,11 @@ iOS 환경에서는\
 **해결 방법**\
 1️⃣ 로튼힐 북서쪽에 있는 NPC **알로펙스**를 찾아갑니다.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 알로펙스와 대화한 후 인벤토리를 열면 **‘여우 부르기’ 아이템**이 추가됩니다.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 해당 아이템을 사용하면 **지갑 연결 창을 직접 호출할 수 있습니다.**
 
@@ -214,7 +214,7 @@ iOS 환경에서는\
 * 지갑 네트워크가 **BNB Smart Chain**인지 확인
 * 게임과 연결하려는 **지갑 주소가 맞는지** 확인
 
-<figure><img src="../../.gitbook/assets/image (928).png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (928).png" alt="" width="232"><figcaption></figcaption></figure>
 
 위 사항을 확인한 후 다시 연결을 시도해 주세요.
 
@@ -279,11 +279,11 @@ MetaMask는 거래 확인 화면에서 수수료를 **3단계(낮음/기본/빠�
 
 1️⃣ 거래 확인 화면에서 **수수료 옆 연필(✏️) 아이콘**을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (929).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (929).png" alt="" width="350"><figcaption></figcaption></figure>
 
 2️⃣ **Low / Market / Aggressive** 중 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (930).png" alt="" width="349"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (930).png" alt="" width="349"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 ### Gas limit은 함부로 내리지 않는 것이 안전합니다
@@ -359,11 +359,11 @@ iOS環境では、\
 **対処方法**\
 1️⃣ ロッテンヒル北西にいる **NPCアロペックス** を訪ねます。
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 会話後、インベントリを開く&#x3068;**「キツネを呼ぶ」アイテム** が追加されます。
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ このアイテムを使用すると、ウォレット接続画面を直接呼び出せます。
 
@@ -381,7 +381,7 @@ iOS環境では、\
 * ウォレットのネットワークが **BNB Smart Chain** か確認
 * 接続しようとしているウォレットアドレスが正しいか確認
 
-<figure><img src="../../.gitbook/assets/image (928).png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (928).png" alt="" width="232"><figcaption></figcaption></figure>
 
 確認後、再度接続をお試しください。
 
@@ -454,11 +454,11 @@ MetaMaskでは、承認画面で\
 
 1️⃣ 手数料横の **鉛筆（✏️）アイコン** をクリック
 
-<figure><img src="../../.gitbook/assets/image (929).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (929).png" alt="" width="350"><figcaption></figcaption></figure>
 
 2️⃣ **Low / Market / Aggressive** から選択
 
-<figure><img src="../../.gitbook/assets/image (930).png" alt="" width="349"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (930).png" alt="" width="349"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 ### Gas limitは下げないでください

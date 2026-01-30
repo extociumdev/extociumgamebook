@@ -160,7 +160,7 @@ Because of this, sometimes:
 * The blockchain transaction is complete
 * But the game screen updates later
 
-👉 This is why it appears in [**Common Wallet Issues**](common-wallet-issues.md).
+👉 This is why it appears in [**Common Wallet Issues**](common-wallet-issues/).
 
 ***
 
@@ -321,7 +321,7 @@ BNB Smart Chain에서는\
 블록체인 거래는 완료됐는데\
 게임 화면 반영이 늦을 수 있습니다.
 
-👉 이게 [Common Wallet Issues](common-wallet-issues.md)에서 나오는 이유입니다.
+👉 이게 [Common Wallet Issues](common-wallet-issues/)에서 나오는 이유입니다.
 
 ***
 
@@ -491,7 +491,7 @@ BNB Smart Chainでは、\
 ブロックチェーン取引は完了していても、\
 ゲーム画面への反映が遅れることがあります。
 
-👉 これが [**Common Wallet Issues**](common-wallet-issues.md) に載っている理由です。
+👉 これが [**Common Wallet Issues**](common-wallet-issues/) に載っている理由です。
 
 ***
 
