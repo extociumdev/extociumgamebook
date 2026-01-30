@@ -89,7 +89,7 @@ To sell NFTs, [**wallet connection**](../../../../beginners-guide/wallet-connect
 * In MetaMask, select the **Confirm** button.
 * After selecting Confirm, the screen will automatically switch back to the game.
 
-<figure><img src="../../../../.gitbook/assets/image (1042).png" alt="" width="264"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1042).png" alt="" width="264"><figcaption><p>This is an example shown using test coins.</p></figcaption></figure>
 
 * A **`PROGRESS…`** message will appear in the fox icon area at the top of the screen,\
   indicating that the sale registration is being processed.
@@ -204,7 +204,7 @@ NFT 판매를 위해서는 [**지갑 연결**](../../../../beginners-guide/walle
 * MetaMask 지갑에서 **Confirm** 버튼을 선택합니다.
 * Confirm 버튼을 선택하면 **게임 화면으로 자동 전환**됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1042).png" alt="" width="264"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1042).png" alt="" width="264"><figcaption><p>테스트용 코인으로 진행된 예시입니다.</p></figcaption></figure>
 
 * 게임 화면 상단의 **여우 아이콘 영역에 `PROGRESS…` 메시지**가 표시되며, 판매 등록 처리가 진행됩니다.
 
@@ -317,7 +317,7 @@ NFTを販売するには、[**ウォレットの接続**](../../../../beginners-
 * MetaMaskウォレットで**Confirm**ボタンを選択します。
 * Confirmを選択すると、ゲーム画面へ自動的に戻ります。
 
-<figure><img src="../../../../.gitbook/assets/image (1042).png" alt="" width="264"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1042).png" alt="" width="264"><figcaption><p>テスト用コインで進行した例です。</p></figcaption></figure>
 
 * 画面上部のアイコン付近&#x306B;**`PROGRESS…`**&#x3068;表示され、 販売登録の処理が進行します。
 
