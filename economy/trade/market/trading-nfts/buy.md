@@ -1,344 +1,337 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📥 Buy
 
-{% hint style="success" %}
-### **Want to buy NFTs?** Follow these simple steps to purchase them on the market!
-{% endhint %}
-
-
-
-{% embed url="https://youtu.be/CKAznpiW_Is" %}
-Purchase Items with BNB
-{% endembed %}
-
 {% tabs %}
 {% tab title="ENG" %}
-## 🛒 How to Buy NFTs – Secure & Fast Transactions!
+### 🛒 Buy NFTs
 
-{% hint style="info" %}
-Before purchasing an NFT, **make sure your MetaMask wallet is properly connected!**\
-If your wallet is not connected, **you will not be able to proceed with the transaction.**
+This guide explains how to purchase NFTs through the **in-game Market**.\
+NFT trading is **recommended through the in-game Market**.\
+To purchase NFTs, your **MetaMask wallet must be connected**.
+
+***
+
+{% hint style="warning" %}
+#### ◾ Before You Begin
+
+* Make sure your wallet is properly connected.
+* NFT purchases are not available if your wallet is not connected.
 {% endhint %}
 
 ***
 
-### ✅ **1.** Access the Market
+#### ◾ How to Buy NFTs
 
-📌 Tap the menu button on the top left of the main HUD to open the "Dashboard."
+**1️⃣ Go to the Market**
 
-<figure><img src="../../../../.gitbook/assets/image (696).png" alt="" width="333"><figcaption><p>Main HUD</p></figcaption></figure>
+* Tap the menu on the left side of the Main HUD to move to the **Dashboard**.
 
-📌 Click the "Market" button to enter the trading platform.
+<figure><img src="../../../../.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (852).png" alt="" width="375"><figcaption></figcaption></figure>
+* From the Dashboard, select the **Market** menu.
 
-
-
-***
-
-### ✅ **2.** Select Your Desired NFT Equipment
-
-📌 The "Equipment" tab is displayed by default when you enter the marketplace.\
-📌 Here, you can browse Heroes, Weapons, Orbs, and Accessories.\
-📌 Choose the NFT you wish to purchase.\
-📌 **This guide will use Hero purchases as an example.**
-
-<figure><img src="../../../../.gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **3.** Check NFT Details
+**2️⃣ Select an NFT**
 
-📌 Click on the NFT to open the "Details" panel on the left.
+* Once you enter the Market, the NFT trading menu will be displayed.
+* You can browse **Hero, Weapon, Orb, and Accessory NFTs**.
+* Select the NFT you want to purchase.
 
-<figure><img src="../../../../.gitbook/assets/image (854).png" alt=""><figcaption></figcaption></figure>
-
-📌 Here, you can review transaction history and all related information.
-
-<figure><img src="../../../../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **4.** Proceed with Your NFT Purchase
+**3️⃣ Check NFT Details**
 
-📌 Click the "Purchase" button on the right.
+* Select an NFT to open the **detail information panel**.
 
-<figure><img src="../../../../.gitbook/assets/image (856).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 
-📌 **If your wallet is not connected, a wallet connection prompt will appear first.**
+* Review the NFT’s stats, attributes, and transaction history.
 
-<figure><img src="../../../../.gitbook/assets/image (857).png" alt=""><figcaption></figcaption></figure>
-
-📌 Connect your MetaMask wallet and click "Purchase" again.
-
-<figure><img src="../../../../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
-
-📌 After clicking the purchase button, a confirmation (Confirm) prompt will appear in MetaMask.\
-📌 Press "Confirm" to complete the transaction.
-
-<figure><img src="../../../../.gitbook/assets/image (859).png" alt="" width="234"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **5.** Purchase Completion & Claiming Your NFT
+**4️⃣ Proceed with Purchase**
 
-📌 A "Transaction Complete" pop-up at the bottom of the screen confirms a successful transaction.
+* On the detail screen, select the **Purchase** button.
 
-<figure><img src="../../../../.gitbook/assets/image (860).png" alt="" width="220"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
-📌 Shortly after, a "Purchase Complete" notification will appear in the game.\
-📌 Your purchased NFT can be found in the in-game Mailbox.
+* If your wallet is not connected, a wallet connection prompt will appear.
+* Connect your wallet, then proceed with the purchase.
 
-<figure><img src="../../../../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/signal-2026-01-30-093625_002.jpeg" alt=""><figcaption></figcaption></figure>
 
-📌 The mailbox is located on the right side of the main screen.
+* Select **Confirm** in your wallet to continue.
 
-<figure><img src="../../../../.gitbook/assets/image (862).png" alt="" width="299"><figcaption></figcaption></figure>
-
-📌 Open the mailbox, verify your NFT, and press the button on the right to claim it.
-
-<figure><img src="../../../../.gitbook/assets/image (863).png" alt=""><figcaption></figcaption></figure>
-
-
-
-💡 **TIP:**\
-📌 **Due to the nature of blockchain transactions, there may be slight delays in processing.**\
-📌 **If the transaction does not reflect immediately, please wait a moment.**
-
-You're now ready to enjoy your new NFT!\
-🎉 **Happy trading!** 🎉
-
-
+<figure><img src="../../../../.gitbook/assets/image (1031).png" alt="" width="214"><figcaption><p>This is an example shown using test coins.</p></figcaption></figure>
 
 ***
 
-🛑 [**Did you encounter any problems during the transaction? Please check this tab!**](common-issues.md)
+**5️⃣ Complete Purchase and Receive NFT**
+
+* After selecting **Confirm** in MetaMask, the game screen will automatically appear.
+* A **PROGRESS…** message will be shown at the top of the screen while the purchase is processed.
+
+<figure><img src="../../../../.gitbook/assets/image (1032).png" alt=""><figcaption></figcaption></figure>
+
+* Once processing is complete, a **purchase confirmation window** will appear.
+
+<figure><img src="../../../../.gitbook/assets/image (1033).png" alt=""><figcaption></figcaption></figure>
+
+* The purchased NFT can then be found in your **in-game Mailbox**.
+
+<figure><img src="../../../../.gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
+
+* Receive the NFT from the Mailbox to add it to your inventory.
+
+<figure><img src="../../../../.gitbook/assets/image (1035).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+{% hint style="success" %}
+#### ◾ Important Notes
+
+* Due to the nature of blockchain transactions,\
+  processing may take a short amount of time.
+* If the transaction result is not reflected immediately, please wait a moment.
+* Wallet confirmation screens shown in this guide are **examples using test coins**.
+* **Actual NFT purchases must be completed using BNB.**
+{% endhint %}
+
+***
+
+✨
+
+> If you encounter any issues during NFT purchase,\
+> please check the [**Common Issues**](common-issues.md) tab for assistance.
 {% endtab %}
 
 {% tab title="한국어" %}
-## 🛒 **NFT 구매 안내 – 안전하고 빠르게 거래하는 방법!**
+### 🛒 NFT 구매하기&#x20;
 
-{% hint style="info" %}
-NFT를 구매하기 전, **MetaMask 지갑이 정상적으로 연결되어 있는지 확인하세요!**\
-지갑이 연결되지 않으면 **NFT 거래가 진행되지 않습니다.**
+이 가이드는 **인게임 마켓에서 NFT를 구매하는 방법**을 안내합니다.\
+NFT 거래는 **인게임 마켓 이용을 권장**합니다.
+
+NFT를 구매하려면 **MetaMask 지갑이 연결되어 있어야 합니다.**
+
+***
+
+{% hint style="success" %}
+#### ◾ 구매 전 확인 사항
+
+* 지갑이 정상적으로 연결되어 있는지 확인하세요.
+* 지갑이 연결되지 않은 상태에서는 NFT 구매가 불가능합니다.
 {% endhint %}
 
 ***
 
-### ✅ **1. 거래소 접속하기**
+#### ◾ NFT 구매 방법
 
-📌 메인 HUD 좌측 목록 버튼을 터치하여 "대시보드"로 이동하세요.
+**1️⃣ 마켓 이동**
 
-<figure><img src="../../../../.gitbook/assets/image (696).png" alt="" width="333"><figcaption><p>Main HUD</p></figcaption></figure>
+* 메인 HUD 좌측 메뉴를 터치하여 **대시보드**로 이동합니다.
 
-📌 대시보드에서 "거래소" 버튼을 클릭합니다.
+<figure><img src="../../../../.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (852).png" alt="" width="375"><figcaption></figcaption></figure>
+* 대시보드에서 **Market** 메뉴를 선택합니다.
 
-
-
-***
-
-### ✅ **2. 원하는 NFT 장비 선택하기**
-
-📌 거래소에 들어가면 "장비" 탭이 기본으로 표시됩니다.\
-📌 장비 탭에서는 영웅, 무기, 오브, 악세사리를 거래할 수 있습니다.\
-📌 마음에 드는 NFT를 선택하세요.\
-📌 이 설명에서는 영웅 구매를 예로 들어 안내해 드립니다.
-
-<figure><img src="../../../../.gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **3. NFT 상세 정보 확인하기**
+**2️⃣ NFT 선택**
 
-📌 NFT를 클릭하면 좌측에 "상세정보" 패널이 표시됩니다.
+* 마켓에 접속하면 **NFT 거래 메뉴**가 표시됩니다.
+* 영웅, 무기, 오브, 악세서리 NFT를 확인할 수 있습니다.
+* 구매할 NFT를 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (854).png" alt=""><figcaption></figcaption></figure>
-
-📌 여기에서 해당 NFT의 거래 내역 및 세부 정보를 모두 확인할 수 있습니다.
-
-<figure><img src="../../../../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **4. NFT 구매 진행하기**
+**3️⃣ NFT 정보 확인**
 
-📌 우측의 "구매하기" 버튼을 클릭하세&#xC694;**.**
+* NFT를 선택하면 **상세 정보 패널**이 표시됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (856).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 
-📌 **지갑이 연결되지 않았다면, 먼저 지갑 연결 확인창이 나타납니다.**
+* NFT의 능력, 속성, 거래 내역을 확인합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (857).png" alt=""><figcaption></figcaption></figure>
-
-📌 MetaMask 지갑을 연결한 후, 다시 "구매하기" 버튼을 눌러**주세요.**
-
-<figure><img src="../../../../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
-
-📌 NFT 구매 버튼을 클릭하면, MetaMask에서 추가 확인(Confirm) 버튼이 나타납니다.\
-📌 Confirm 버튼을 눌러야 최종 구매가 완료됩니다.
-
-<figure><img src="../../../../.gitbook/assets/image (859).png" alt="" width="234"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **5. 구매 완료 및 NFT 수령하기**
+**4️⃣ NFT 구매 진행**
 
-📌 화면 하단에 "Transaction Complete" 창이 표시되면 거래가 정상적으로 완료된 것입니다.
+* 상세 정보 화면에서 **Purchase버튼**을 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (860).png" alt="" width="220"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
-📌 잠시 후 게임 화면에서 "구매 완료" 창이 나타납니다.\
-📌 구매한 NFT는 인게임 메일함에서 확인할 수 있습니다.
+* 지갑이 연결되지 않은 경우, 지갑 연결 안내가 표시됩니다.
+* 지갑을 연결한 후 구매를 진행합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/signal-2026-01-30-093625_002.jpeg" alt=""><figcaption></figcaption></figure>
 
-📌 **메일함은 메인 화면 우측에 위치하고 있습니다.**
+* 지갑에서 **Confirm** 버튼을 선택하면 구매가 진행됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (862).png" alt="" width="299"><figcaption></figcaption></figure>
-
-📌 **메일함으로 이동하여 NFT를 확인한 후, 우측의 버튼을 눌러 수령하세요.**
-
-<figure><img src="../../../../.gitbook/assets/image (863).png" alt=""><figcaption></figcaption></figure>
-
-
-
-💡 **TIP:**\
-📌 **블록체인 거래 특성상, 거래 완료까지 약간의 시간이 소요될 수 있습니다.**\
-📌 **거래 내역이 즉시 반영되지 않더라도, 잠시 기다려 주세요.**
-
-이제 NFT 구매 준비 완료!\
-🎉 **당신의 새로운 NFT를 즐겨보세요!** 🎉
-
-
+<figure><img src="../../../../.gitbook/assets/image (1031).png" alt="" width="214"><figcaption><p>테스트용 코인으로 진행된 예시입니다.</p></figcaption></figure>
 
 ***
 
-🛑[거래 도중 문제가 발생하셨나요? 이 탭을 확인해주세요!](common-issues.md)
+**5️⃣ 구매 완료 및 수령**
+
+* MetaMask에서 **Confirm** 버튼을 선택하면 게임 화면으로 자동 전환됩니다.
+* 게임 화면 상단에 **PROGRESS…** 메시지가 표시되며, 구매 처리가 진행됩니다.
+
+<figure><img src="../../../../.gitbook/assets/image (1032).png" alt=""><figcaption></figcaption></figure>
+
+* 처리가 완료되면 **구매 완료 안내 창**이 표시됩니다.
+
+<figure><img src="../../../../.gitbook/assets/image (1033).png" alt=""><figcaption></figcaption></figure>
+
+* 이후, 구매한 NFT는 인게임 **메일함**에서 확인할 수 있습니다.
+
+<figure><img src="../../../../.gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
+
+* 메일함에서 NFT를 수령하면 인벤토리에 정상 반영됩니다.
+
+<figure><img src="../../../../.gitbook/assets/image (1035).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+{% hint style="success" %}
+#### ◾ 안내 사항
+
+* 블록체인 거래 특성상, 거래 완료까지 약간의 시간이 소요될 수 있습니다.
+* 거래 내역이 즉시 반영되지 않더라도 잠시 기다려 주세요.
+* 가이드에 포함된 지갑 확인(Confirm) 화면은 테스트용 코인으로 진행된 예시입니다.
+* 실제 NFT 구매 시에는 반드시 BNB로 결제를 진행해야 합니다.
+{% endhint %}
+
+***
+
+✨
+
+> NFT 구매 중 문제가 발생했다면, [**Common Issues**](common-issues.md) 탭에서 해결 방법을 확인할 수 있습니다.
 {% endtab %}
 
 {% tab title="日本語" %}
-## 🛒 NFTの購入方法 – 安全かつスムーズな取引！
+### 🛒 NFTを購入する
 
-{% hint style="info" %}
-NFTを購入する前に、**MetaMaskウォレットが正しく接続されているか確認してください！**\
-ウォレットが接続されていない場合、**取引を進めることができません。**
+このガイドでは、**インゲームマーケットでNFTを購入する方法**を説明します。\
+NFTの取引は、**インゲームマーケットの利用を推奨**しています。\
+NFTを購入するには、**MetaMaskウォレットの接続が必要**です。
+
+***
+
+{% hint style="success" %}
+#### ◾ 購入前の確認事項
+
+* ウォレットが正常に接続されていることを確認してください。
+* ウォレットが接続されていない場合、NFTを購入することはできません。
 {% endhint %}
 
 ***
 
-### ✅ **1.** マーケットプレイスへアクセス
+#### ◾ NFTの購入方法
 
-📌 メインHUD左上のメニューボタンをタップし、「ダッシュボード」を開きます。
+**1️⃣ マーケットへ移動**
 
-<figure><img src="../../../../.gitbook/assets/image (696).png" alt="" width="333"><figcaption><p>Main HUD</p></figcaption></figure>
+* メインHUD左側のメニューをタップして、**ダッシュボード**へ移動します。
 
-📌 「マーケット」ボタンをクリックして、取引画面へ移動します。
+<figure><img src="../../../../.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (852).png" alt="" width="375"><figcaption></figcaption></figure>
+* ダッシュボードから **Market** メニューを選択します。
 
-
-
-***
-
-### ✅ **2.** 購入したいNFT装備を選択
-
-📌 **マーケットプレイスに入ると、「装備」タブがデフォルトで表示されます。**\
-📌 **ここでは、英雄・武器・オーブ・アクセサリーを取引できます。**\
-📌 **購入したいNFTを選択してください。**\
-📌 **このガイドでは、英雄の購入を例に説明します。**
-
-<figure><img src="../../../../.gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **3.** NFTの詳細を確認
+**2️⃣ NFTを選択**
 
-📌 NFTをクリックすると、左側に「詳細情報」パネルが表示されます。
+* マーケットに入ると、NFT取引メニューが表示されます。
+* **ヒーロー / 武器 / オーブ / アクセサリーNFT**を確認できます。
+* 購入したいNFTを選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (854).png" alt=""><figcaption></figcaption></figure>
-
-📌 取引履歴や詳細情報をここで確認できます。
-
-<figure><img src="../../../../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **4.** NFTの購入手続き
+**3️⃣ NFTの情報を確認**
 
-📌 右側の「購入」ボタンをクリックします。
+* NFTを選択すると、**詳細情報パネル**が表示されます。
 
-<figure><img src="../../../../.gitbook/assets/image (856).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 
-📌 ウォレットが接続されていない場合、接続確認のポップアップが最初に表示されます。**.**
+* NFTの能力、属性、取引履歴を確認します。
 
-<figure><img src="../../../../.gitbook/assets/image (857).png" alt=""><figcaption></figcaption></figure>
-
-📌 MetaMaskウォレットを接続し、再度「購入」ボタンをクリックしてください。
-
-<figure><img src="../../../../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
-
-📌 **購入ボタンを押すと、MetaMaskに確認（Confirm）ボタンが表示されます。**\
-📌 **「Confirm」ボタンを押すことで、購入が完了します。**
-
-<figure><img src="../../../../.gitbook/assets/image (859).png" alt="" width="234"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **5.** 購入完了 & NFTの受け取り
+**4️⃣ NFTを購入**
 
-📌 画面下部に「Transaction Complete（取引完了）」のポップアップが表示されれば、正常に取引が完了しています。
+* 詳細画面で **Purchase** ボタンを選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (860).png" alt="" width="220"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
-📌 **少しすると、ゲーム内に「購入完了」通知が表示されます。**\
-📌 **購入したNFTは、ゲーム内のメールボックスで確認できます。**
+* ウォレットが接続されていない場合、接続案内が表示されます。
+* ウォレットを接続後、購入を進めます。
 
-<figure><img src="../../../../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/signal-2026-01-30-093625_002.jpeg" alt=""><figcaption></figcaption></figure>
 
-📌 メールボックスはメイン画面の右側にあります。
+* ウォレットで **Confirm** を選択すると、購入処理が開始されます。
 
-<figure><img src="../../../../.gitbook/assets/image (862).png" alt="" width="299"><figcaption></figcaption></figure>
-
-📌 メールボックスを開き、NFTを確認したら、右側のボタンを押して受け取ってください。
-
-<figure><img src="../../../../.gitbook/assets/image (863).png" alt=""><figcaption></figcaption></figure>
-
-
-
-💡 **TIP:**\
-📌 **ブロックチェーン取引の特性上、取引が完了するまでに若干の遅延が発生する場合があります。**\
-📌 **すぐに反映されない場合は、しばらくお待ちください。**
-
-これでNFTの購入準備が完了しました！\
-🎉 **素敵なNFTをお楽しみください！** 🎉
-
-
+<figure><img src="../../../../.gitbook/assets/image (1031).png" alt="" width="214"><figcaption><p>テスト用コインで進行した例です。</p></figcaption></figure>
 
 ***
 
-🛑 [取引中に問題が発生しましたか？このタブをチェックしてください！](common-issues.md)
+**5️⃣ 購入完了・受け取り**
+
+* MetaMaskで **Confirm** を選択すると、ゲーム画面へ自動的に戻ります。
+* 画面上部に **PROGRESS…** と表示され、購入処理が進行します。
+
+<figure><img src="../../../../.gitbook/assets/image (1032).png" alt=""><figcaption></figcaption></figure>
+
+* 処理が完了すると、**購入完了の案内ウィンドウ**が表示されます。
+
+<figure><img src="../../../../.gitbook/assets/image (1033).png" alt=""><figcaption></figcaption></figure>
+
+* 購入したNFTは、インゲームの**メールボックス**で確認できます。
+
+<figure><img src="../../../../.gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
+
+* メールボックスからNFTを受け取ると、インベントリに反映されます。
+
+<figure><img src="../../../../.gitbook/assets/image (1035).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+{% hint style="success" %}
+#### ◾ 注意事項
+
+* ブロックチェーン取引の特性上、処理完了までに少し時間がかかる場合があります。
+* 取引結果がすぐに反映されない場合は、しばらくお待ちください。
+* 本ガイドに含まれるウォレット確認（Confirm）画面は、**テスト用コインでの例**です。
+* **実際のNFT購入は、必ずBNBで行う必要があります。**
+{% endhint %}
+
+***
+
+✨
+
+> NFT購入中に問題が発生した場合は、\
+> [**Common Issues**](common-issues.md) タブで解決方法を確認してください。
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of January 30, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
