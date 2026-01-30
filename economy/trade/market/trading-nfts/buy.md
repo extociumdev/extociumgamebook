@@ -14,7 +14,7 @@ To purchase NFTs, your **MetaMask wallet must be connected**.
 
 ***
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### ◾ Before You Begin
 
 * Make sure your wallet is properly connected.
