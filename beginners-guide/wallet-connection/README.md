@@ -18,8 +18,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 [precautions.md](precautions.md)
 {% endcontent-ref %}
 
-{% content-ref url="common-wallet-issues/" %}
-[common-wallet-issues](common-wallet-issues/)
+{% content-ref url="common-wallet-issues.md" %}
+[common-wallet-issues.md](common-wallet-issues.md)
 {% endcontent-ref %}
 
 {% content-ref url="blockchain-for-beginners.md" %}

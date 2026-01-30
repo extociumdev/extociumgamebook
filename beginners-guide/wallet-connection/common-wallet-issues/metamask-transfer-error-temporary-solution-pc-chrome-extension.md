@@ -2,7 +2,7 @@
 icon: arrow-up-z-a
 ---
 
-# 메타마스크 전송 오류 (임시 해결: PC 크롬 확장)
+# MetaMask transfer error (temporary solution: PC Chrome extension)
 
 {% tabs %}
 {% tab title="ENG" %}
