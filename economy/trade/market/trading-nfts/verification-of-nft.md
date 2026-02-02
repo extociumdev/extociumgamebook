@@ -1,182 +1,366 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🚨 Verification of NFT
 
 {% tabs %}
 {% tab title="ENG" %}
-#### ✅ **How to Verify NFT Information & Ensure Safe Transactions** ✅
+### 🔍 NFT Verification & Safe Trading Guide
 
-NFTs **cannot be permanently deleted**, and some may attempt to exploit this by selling **damaged NFTs from failed synthesis or enhancement attempts**.\
-To avoid such risks, it is highly recommended to **trade through the in-game marketplace** for a secure transaction!
+This page walks you through how to verify an NFT before you buy or trade it, \
+so you can trade safely with confidence.\
+Follow the steps below to check NFT details and avoid common risks.
 
-{% hint style="warning" %}
-🔹 **The in-game marketplace prevents the sale of damaged equipment, ensuring a safer trading environment.**\
-🔹 **EXTOCIUM is not responsible for any issues arising from transactions conducted outside the in-game marketplace.**\
-🔹 **Before purchasing an NFT, always check its details on** [**bscscan.com**](https://bscscan.com/)**!**
+***
+
+#### ◾ **Important Notes Before Trading**
+
+NFTs can’t be fully “deleted” once they’re created on the blockchain.\
+Because of this, some NFTs that have been altered (for example, after synthesis or upgrades) may still appear and get traded outside the game.
+
+{% hint style="info" %}
+#### **◾** For safe trading, we recommend the following
+
+* We strongly recommend trading NFTs through the **in-game Market**.\
+  In the in-game Market, damaged or problematic NFTs **cannot be listed or traded**.
+* EXTOCIUM is not responsible for any losses or issues that occur through external marketplaces or off-platform trades.
+* Before purchasing, always verify the NFT information first.
 {% endhint %}
 
-Follow these steps to verify the authenticity and status of an NFT before purchasing.
+***
 
-\
-\
-❔ **How to Check NFT Information**
+#### ◾How to Verify NFT Information
 
-1️⃣ Go to [**bscscan.com**](https://bscscan.com/).\
-2️⃣ In the game, open the **NFT information window**, copy the **unique Extocium NFT address**, and paste it into the search bar on bscscan.\
-&#xNAN;_(All Extocium NFTs share the same address.)_
+You can verify NFT details in two ways:
 
-<figure><img src="../../../../.gitbook/assets/image (788).png" alt="" width="375"><figcaption></figcaption></figure>
+1️⃣ **EXTOCIUM Official NFT SEARCH**\
+2️⃣ **bscscan.com**
 
+***
 
+#### ◾ Using EXTOCIUM Official NFT SEARCH
 
-\
-3️⃣ Click on **"NFT Transfers."**
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../../.gitbook/assets/image (789).png" alt="" width="375"><figcaption></figcaption></figure>
+👇 With EXTOCIUM Official NFT SEARCH, you can view **all NFTs in the game at a glance**.
 
+{% embed url="https://extociumnft.com/" %}
 
+**◾ What You Can Check**
 
-\
-4️⃣ Find the **most recent transaction labeled "\<NFT: XTONFT #(ID number)>,"** and click on it.
+In NFT SEARCH, you can view:
 
-<figure><img src="../../../../.gitbook/assets/image (790).png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
+> **Hero Type**\
+> **Current Owner**\
+> **Hero Stats**\
+> **Hero Level & EXP**\
+> **Skill Information**\
+> **Succession Status**\
+> **Succession Skill Information**
 
+EXTOCIUM NFT SEARCH is designed to be easy to read, without needing to dig through complex blockchain data.
 
-\
-5️⃣ In the URL bar, **replace the last part after "/" with the ID number of the NFT you wish to purchase.**
+***
 
-<figure><img src="../../../../.gitbook/assets/image (798).png" alt="" width="346"><figcaption></figcaption></figure>
+#### ◾bscscan Link Support
 
+At the top of the NFT SEARCH page, \
+you can select the **bscscan** link to open the NFT on bscscan instantly.\
+There, you can check the full transaction history and transfer records.
 
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
-6️⃣ Ensure that the **Creator is listed as "EXTOCIUM: Deployer."**
+***
 
-<figure><img src="../../../../.gitbook/assets/image (795).png" alt="" width="345"><figcaption></figcaption></figure>
+#### ◾Verifying Directly on bscscan.com
 
-{% hint style="success" %}
-Always confirm the NFT’s details before completing a transaction! \
-Protect your assets and enjoy a safer adventure!
-{% endhint %}
+If you want to view more detailed blockchain transaction records, \
+you can verify the NFT directly on bscscan.
+
+1️⃣ Go to **bscscan.com**.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+
+2️⃣ In the in-game NFT info window, \
+copy the **Extocium NFT contract address** and paste it into the bscscan search bar.\
+(All Extocium NFTs use the same contract address.)
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+
+3️⃣ Select the **“NFT Transfers”** tab.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+
+4️⃣ From the recent transfer list, select an entry labeled: `<NFT: XTONFT #(ID Number)>`\
+Do **not** select any NFTs that are not in the `NFT: XTONFT #(ID Number)` format.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+
+5️⃣ In the address bar, enter the NFT’s **ID Number** after the `/`.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
+
+6️⃣ Confirm the Creator is shown as **“EXTOCIUM: Deployer”**.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
+
+***
+
+#### ◾ **After Verification**
+
+Once you’ve confirmed the NFT information, proceed with your trade.\
+Verifying first is the most reliable way to prevent scams and protect your assets.
+
+***
+
+✨
+
+> **Double-check your NFT details,** \
+> **trade safely, and keep your EXTOCIUM adventure worry-free.**
 {% endtab %}
 
 {% tab title="한국어" %}
-#### ✅ **NFT 정보 확인 및 안전 거래 방법** ✅
+### 🔍 NFT 정보 확인 및 안전 거래 안내
 
-NFT는 **완전히 삭제되지 않는 특성**이 있으며, 이를 악용해 **합성이나 강화로 손상된 NFT를 판매하는 사례**가 발생할 수 있습니다.\
-이러한 피해를 방지하려면 **인게임 마켓을 통해 안전하게 거래하는 것**을 추천합니다!
+이 가이드는 NFT를 구매하거나 거래하기 전,\
+NFT의 정보를 정확하게 확인하고 안전하게 거래하기 위한 안내 페이지입니다.\
+NFT 정보 확인 방법과 주의 사항을 순서대로 확인할 수 있습니다.
 
-{% hint style="warning" %}
-🔹 **인게임 마켓에서는 손상된 장비의 거래가 불가능하여 더욱 안전합니다.**\
-🔹 **인게임 마켓이 아닌 외부 거래소에서 거래할 경우, 발생할 수 있는 피해에 대해 EXTOCIUM은 책임을 지지 않습니다.**\
-🔹 **NFT를 구매하기 전, 반드시** [**bscscan.com**](https://bscscan.com/)**에서 해당 NFT의 정보를 확인하세요!**
+***
+
+#### ◾ NFT 거래 시 주의 사항
+
+NFT는 한 번 생성되면 완전히 삭제되지 않는 특성을 가지고 있습니다.\
+이로 인해 합성이나 강화로 상태가 변경된 NFT가 외부에서 거래되는 사례가 발생할 수 있습니다.
+
+{% hint style="info" %}
+#### **◾ 안전한 거래를 위해 아래 사항을 권장합니다.**
+
+* NFT 거래는 인게임 마켓을 이용하는 것을 권장합니다.  \
+  인게임 마켓에서는 손상되거나 문제가 있는 NFT는 거래할 수 없습니다.
+* 외부 거래소 이용 시 발생하는 피해에 대해서는 EXTOCIUM이 책임지지 않습니다.
+* NFT 구매 전, 반드시 NFT 정보를 확인해 주세요.
 {% endhint %}
 
-NFT의 상세 정보를 확인하는 방법을 단계별로 안내드립니다.&#x20;
+***
 
+#### ◾ NFT 정보 확인 방법 안내
 
+NFT 정보는 아래 두 가지 방법으로 확인할 수 있습니다.
 
-\
-❔ **NFT 정보 확인 방법**
+1️⃣ EXTOCIUM 공식 NFT SEARCH\
+2️⃣ bscscan.com
 
-1️⃣ [**bscscan.com**](https://bscscan.com/)에 접속합니다.\
-2️⃣ 게임 내 **NFT 정보 창**에서 **Extocium NFT의 고유 주소를 복사**한 후, bscscan의 검색창에 입력합니다.\
-&#xNAN;_(모든 Extocium의 NFT 주소는 동일합니다.)_
+***
 
-<figure><img src="../../../../.gitbook/assets/image (788).png" alt="" width="375"><figcaption></figcaption></figure>
+#### ◾ EXTOCIUM 공식 NFT SEARCH 이용 방법
 
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
+👇 EXTOCIUM 공식 NFT SEARCH에서는 게임 내 모든 NFT 정보를 한눈에 확인할 수 있습니다.
 
-3️⃣ **"NFT Transfers"** 탭을 클릭합니다.
+{% embed url="https://extociumnft.com/" %}
 
-<figure><img src="../../../../.gitbook/assets/image (789).png" alt="" width="375"><figcaption></figcaption></figure>
+**◾ 확인 가능한 정보**
 
+NFT SEARCH에서는 아래 정보를 확인할 수 있습니다.
 
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
-\
-4️⃣ **최근 거래 내역 중 "\<NFT: XTONFT #(ID 번호)>" 항목을 클릭**합니다.
+> **영웅 타입**\
+> **NFT 소유자 정보**\
+> **영웅 스탯 정보**\
+> **영웅 레벨 및 경험치**\
+> **스킬 정보**\
+> **계승 여부**\
+> **계승 스킬 정보**
 
-<figure><img src="../../../../.gitbook/assets/image (791).png" alt="" width="375"><figcaption><p><br></p></figcaption></figure>
+Extocium의 NFT SEARCH는 복잡한 블록체인 정보 없이 쉽게 확인할 수 있습니다.
 
+***
 
+#### ◾ bscscan 연동 안내
 
-5️⃣ 주소창으로 이동한 후, **주소 끝의 / 다음에 구매하려는 NFT의 ID 번호를 입력**합니다.
+NFT SEARCH 화면 상단의 bscscan 링크를 선택하면\
+해당 NFT의 거래 기록을 bscscan에서 바로 확인할 수 있습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (797).png" alt="" width="346"><figcaption></figcaption></figure>
+이곳에서는 NFT의 전체 거래 내역과 이동 기록을 확인할 수 있습니다.
 
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
+***
 
-6️⃣ **Creator가 "EXTOCIUM: Deployer"로 되어 있는지 확인**합니다.
+#### ◾ bscscan.com에서 직접 확인하는 방법
 
-<figure><img src="../../../../.gitbook/assets/image (794).png" alt="" width="345"><figcaption></figcaption></figure>
+보다 상세한 블록체인 거래 기록을 확인하고 싶을 경우 직접 NFT 정보를 조회할 수 있습니다.
 
-{% hint style="success" %}
-위 과정을 거쳐 **NFT의 정확한 정보를 확인한 후 거래**하세요!\
-안전한 거래로 소중한 자산을 보호하고, 더 나은 모험을 즐기세요!
-{% endhint %}
+1️⃣ bscscan.com에 접속합니다.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+
+2️⃣ 게임 내 NFT 정보 창에서 Extocium NFT의 고유 주소를 복사하여 검색창에 입력합니다.\
+(모든 Extocium NFT는 동일한 컨트랙트 주소를 사용합니다.)
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+
+3️⃣ 「NFT Transfers」 탭을 선택합니다.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+
+4️⃣ 최근 거래 내역 중 `<NFT: XTONFT #(ID 번호)>` 항목 중 하나를 선택합니다.\
+&#x20;`NFT: XTONFT #(ID 번호)` 형식이 아닌 다른 NFT는 선택하지 마세요.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+
+5️⃣ 주소창의 `/` 뒤에 확인하려는 NFT의 ID 번호를 입력합니다.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
+
+6️⃣ Creator가 `EXTOCIUM: Deployer`로 표시되어 있는지 확인합니다.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
+
+***
+
+#### ◾ NFT 확인 완료 후 안내
+
+위 과정을 통해 NFT의 정보를 정확히 확인한 후 거래를 진행해 주세요.\
+사전 확인은 피해를 예방하는 가장 확실한 방법입니다.
+
+***
+
+✨
+
+> **NFT 정보를 꼼꼼히 확인하고,**\
+> **안전한 거래로 더 즐거운 EXTOCIUM의 모험을 이어가 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-#### ✅ **NFT情報の確認方法 & 安全な取引のために** ✅
+### 🔍 NFT情報確認・安全取引ガイド
 
-NFTは**完全に削除されることがないため**、これを悪用して **合成や強化に失敗したNFTを販売するケース** があります。\
-このようなリスクを避けるために、**ゲーム内マーケットで取引することを推奨します！**
+このガイドは、NFTを購入・取引する前に\
+NFTの情報を正しく確認し、安全に取引するための案内ページです。\
+NFT情報の確認方法と注意事項を、順番に確認できます。
 
-{% hint style="warning" %}
-🔹 **ゲーム内マーケットでは、損傷した装備の取引ができないため、安全な取引が可能です。**\
-🔹 **EXTOCIUMは、ゲーム外の取引所で発生したトラブルに関して責任を負いません。**\
-🔹 **NFTを購入する前に、必ず**[**bscscan.com**](https://bscscan.com/)**で情報を確認しましょう！**
+***
+
+#### ◾ NFT取引時の注意事項
+
+NFTは一度生成されると、完全に削除することができない特性を持っています。\
+そのため、合成や強化によって状態が変化したNFTが、\
+外部で取引されるケースが発生することがあります。
+
+{% hint style="info" %}
+#### **◾** 安全な取引のために、以下の点を推奨します。
+
+* NFTの取引は、**インゲームマーケット**の利用を推奨します。\
+  インゲームマーケットでは、損傷や問題のあるNFTは取引できません。
+* 外部マーケットを利用した取引で発生した被害について、EXTOCIUMは責任を負いません。
+* NFTを購入する前に、必ずNFT情報を確認してください。
 {% endhint %}
 
-購入前にNFTの詳細を確認する方法を、以下の手順で説明します。
+***
 
+#### ◾ NFT情報の確認方法
 
+NFT情報は、以下の2つの方法で確認できます。
 
-\
-\
-❔ **NFT情報の確認方法**
+1️⃣ **EXTOCIUM公式 NFT SEARCH**\
+2️⃣ **bscscan.com**
 
-1️⃣[ **bscscan.com**](https://bscscan.com/) にアクセスします。\
-2️⃣ ゲーム内の **NFT情報ウィンドウ** から **Extocium NFTの固有アドレス** をコピーし、bscscanの検索バーに貼り付けます。\
-&#xNAN;_(すべてのExtocium NFTは同じアドレスを使用します。)_
+***
 
-<figure><img src="../../../../.gitbook/assets/image (788).png" alt="" width="375"><figcaption></figcaption></figure>
+#### ◾ EXTOCIUM公式 NFT SEARCHの利用方法
 
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
+👇 EXTOCIUM公式 NFT SEARCHでは、\
+ゲーム内に存在するすべてのNFT情報を一目で確認できます。
 
-\
-3️⃣ **「NFT Transfers」** をクリックします。
+{% embed url="https://extociumnft.com/" %}
 
-<figure><img src="../../../../.gitbook/assets/image (789).png" alt="" width="375"><figcaption><p><br></p></figcaption></figure>
+**◾ 確認できる情報**
 
+NFT SEARCHでは、以下の情報を確認できます。
 
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
-4️⃣ **最新の取引履歴の中から、「\<NFT: XTONFT #(ID番号)>」と表示されている項目をクリック** します。
+> **ヒーロータイプ**\
+> **NFTの所有者情報**\
+> **ヒーローステータス**\
+> **ヒーローレベル・経験値**\
+> **スキル情報**\
+> **継承の有無**\
+> **継承スキル情報**
 
-<figure><img src="../../../../.gitbook/assets/image (792).png" alt="" width="375"><figcaption><p><br></p></figcaption></figure>
+EXTOCIUMのNFT SEARCHは、\
+複雑なブロックチェーン情報を見なくても、簡単にNFT情報を確認できるよう設計されています。
 
+***
 
+#### ◾ bscscan連携について
 
-5️⃣ アドレスバーの最後にある「/」の後ろを、**購入予定のNFTのID番号に変更** します。
+NFT SEARCH画面上部のbscscanリンクを選択すると、\
+該当NFTの取引履歴をbscscanで直接確認できます。
 
-<figure><img src="../../../../.gitbook/assets/image (796).png" alt="" width="346"><figcaption></figcaption></figure>
+ここでは、NFTの全取引履歴や移動記録を確認できます。
 
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
+***
 
-6️⃣ **「Creator」が「EXTOCIUM: Deployer」になっているかを確認** します。
+#### ◾ bscscan.comで直接確認する方法
 
-<figure><img src="../../../../.gitbook/assets/image (793).png" alt="" width="345"><figcaption></figcaption></figure>
+より詳細なブロックチェーン取引履歴を確認したい場合は、\
+bscscanで直接NFT情報を確認できます。
 
-{% hint style="success" %}
-**NFTの詳細を必ず確認してから取引を行いましょう！**\
-安全な取引で大切な資産を守り、冒険をより楽しんでください！
-{% endhint %}
+1️⃣ **bscscan.com**にアクセスします。
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+
+2️⃣ ゲーム内NFT情報画面から、\
+Extocium NFTのコントラクトアドレスをコピーし、bscscanの検索欄に入力します。\
+（すべてのExtocium NFTは同一のコントラクトアドレスを使用しています。）
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+
+3️⃣ **「NFT Transfers」**&#x30BF;ブを選択します。
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+
+4️⃣ 最近の取引履歴の中から、`<NFT: XTONFT #(ID番号)>` と表示された項目を選択します。\
+この形式以外のNFTは選択しないでください。
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+
+5️⃣ アドレスバーの `/` の後に、確認したいNFTのID番号を入力します。
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
+
+6️⃣ Creator&#x304C;**`「EXTOCIUM: Deployer」`** と表示されていることを確認します。
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
+
+***
+
+#### ◾NFT確認完了後のご案内
+
+上記の手順でNFT情報を正確に確認した後、取引を行ってください。\
+事前確認は、被害を防ぐ最も確実な方法です。
+
+***
+
+✨
+
+> **NFT情報をしっかり確認して、**\
+> **安全な取引でEXTOCIUMの冒険をもっと楽しみましょう。**
 {% endtab %}
 {% endtabs %}
 
-
+<p align="right"><sup><em>※ This guide was written based on the game status as of February 2, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
 
 

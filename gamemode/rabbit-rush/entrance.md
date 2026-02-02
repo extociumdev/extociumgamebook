@@ -57,7 +57,7 @@ This is the quickest way to access Rabbit Rush.
 
 2️⃣ Go down the stairs to reach the **Battle Zone**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ Use the **portal on the left side** of the Battle Zone to enter the **Rabbit Rush Lobby**.
 
@@ -119,7 +119,7 @@ Rabbit Rush 경기는 매일 아래 시간에 진행됩니다.
 
 2️⃣ 계단을 따라 아래로 내려가면 **배틀존(Battle Zone)** 이 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 배틀존 **좌측에 있는 포털**을 통해 **Rabbit Rush 대기실**로 입장할 수 있습니다.
 
@@ -184,7 +184,7 @@ Rabbit Rush 경기는 매일 아래 시간에 진행됩니다.
 
 2️⃣ 階段を下りると **バトルゾーン（Battle Zone）** に到着します。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ バトルゾーン左側にある **ポータル** を使って、**ラビットラッシュ待機室** に入場できます。
 

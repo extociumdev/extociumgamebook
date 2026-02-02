@@ -33,24 +33,24 @@ You can view and manage Orbs in the following steps:
 
 1️⃣ Tap the **Helmet Icon** at the top-left of the main screen to enter the **Dashboard**
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ On the Dashboard, you can view the **summary panel** of your currently equipped gear
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ Tap the **Orb image** to view detailed information about the equipped Orb
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ Tap the **Equipment Bag** at the bottom of the Dashboard,\
 then select the **Orb icon** on the left to view your list of owned Orbs.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5️⃣ Tap an Orb slot in the list to open that Orb’s **detailed information panel**
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 * From this screen, you can **equip or unequip** Orbs
 * Use the **Sort button** at the top-left to organize your Orbs
@@ -131,24 +131,24 @@ For more detailed Orb-related features, please refer to the sections below.
 
 1️⃣ 메인 화면 좌측 상단의 **투구 아이콘**을 터치하여 대시보드에 진입합니다.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 대시보드에서 현재 **장착 중인 장비의 축약 정보 패널**을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 오브 이미지를 터치하면 장착 중인 오브의 상세 정보를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ **대시보드 하단의 장비 가방**을 터치한 후,\
 좌측의 **오브 아이콘**을 선택하면 보유 중인 오브 목록을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5️⃣ 오브 목록에서 **슬롯을 터치**하면 해당 오브의 상세 정보 패널로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 이 화면에서 오브를 장착하거나 해제할 수 있으며, \
 좌측 상단의 정렬 버튼을 통해 오브를 정렬할 수 있습니다.
@@ -232,24 +232,24 @@ _**※ 표시되는 항목은 오브의 상태(NFT 여부)에 따라 달라질 �
 
 1️⃣ メイン画面左上の **ヘルメットアイコン** をタップし、**ダッシュボード** に移動します
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ダッシュボードで、現在装備中の装備の **簡易情報パネル** を確認できます
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ **オーブの画像** をタップすると、装備中のオーブの詳細情報が表示されます
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ ダッシュボード下部の **装備バッグ** をタップ後、\
 左側の **オーブアイコン** を選択すると、所持中のオーブ一覧を確認できます
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5️⃣ オーブ一覧でスロットをタップすると、該当オーブの **詳細情報パネル** に移動します
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 * この画面で **装備／解除** が可能です
 * 左上の **並び替えボタン** でオーブを整理できます
