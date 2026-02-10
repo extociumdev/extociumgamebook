@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📤 Sell
@@ -8,254 +8,252 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-## 🛒 Item Selling Guide – Quick & Easy Transactions!
+### 🛒 **Item Selling Guide**
 
-Selling items in the **in-game Market** is very simple!\
-List your items on the **Market**, set a reasonable price, and start trading efficiently!
-
-***
-
-### ✅ **1.** Select the Item to Sell
-
-📌 **Open your inventory** and choose the item you want to sell.\
-📌 The **item details window** will be displayed.
-
-<figure><img src="../../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
-
-
+You can sell items you own to other adventurers through the in-game **Market**.\
+Select an item, set your price, and register it for sale.
 
 ***
 
-### ✅ **2.** Register the Item for Sale
+#### ◾ **Select an Item to Sell**
 
-📌 Click the **"Sell"** button in the **item details window**.
+1️⃣ Open your **Inventory**.
 
-<figure><img src="../../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1053).png" alt=""><figcaption></figcaption></figure>
 
+2️⃣ Select the item you want to sell.\
+3️⃣ Check the item’s detail information screen.
 
-
-📌 Enter the **sale price (gold)** and tap the **"Sell"** button again to list the item on the **Market**.
-
-<figure><img src="../../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 Finally, a **confirmation window** will appear—tap **"Register"** to complete the sale!
-
-<figure><img src="../../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1054).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **3.** Check Your Listed Items
+#### ◾ Register the Item for Sale
 
-📌 You can view your registered items under **Market > My Stuff > Equipment/Items**.
+1️⃣ On the item detail screen, select the **Sale** button.
 
-<figure><img src="../../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1055).png" alt=""><figcaption></figcaption></figure>
 
+2️⃣ Enter the sale price (Gold), then select **Sale** again.
 
+<figure><img src="../../../../.gitbook/assets/image (1057).png" alt=""><figcaption></figcaption></figure>
 
-***
+3️⃣ In the confirmation window, select **Yes Register** to complete the sale.
 
-### 💎 You Can Also Sell Regular Equipment (Weapons, Orbs & Accessories)!
+<figure><img src="../../../../.gitbook/assets/image (1058).png" alt=""><figcaption></figcaption></figure>
 
-📌 The Market allows you to sell not only NFTs but also regular weapons, orbs, and accessories.\
-📌 Open your equipment inventory from the Dashboard and select the equipment you want to sell.
-
-<figure><img src="../../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 Click the item to open the item details window.\
-📌 In the item details window, tap the "Sale" button to proceed to the price entry screen.
-
-<figure><img src="../../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 Enter the sale price (gold) and tap "Sale" again to list the item on the Market.
-
-<figure><img src="../../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
-
-
+Once registered, the item will immediately appear in the **Market**.
 
 ***
 
-### 💡 Additional Information & Notes
+#### ◾ Check Your Listed Items
 
-📌 You can list up to **5 items** on the **Market** at once.\
-📌 If you purchase the **"Trade Slot"** item from the item shop, you can list up to **8 items**.\
-📌 The **base transaction fee is 10%**, but if the price is set **too high compared to the market rate**, an **abuse cap** will apply, increasing the fee to **15%**.
+You can view your registered items at **Market > My stuff > Equipment / Items**
 
-Now you’re ready to **trade efficiently on the Market!** 🎉
+<figure><img src="../../../../.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ Items That Can Be Sold
+
+In the Market, you can sell not only NFT items but also regular items.
+
+Examples of sellable items include:
+
+> Weapons\
+> Orbs\
+> Accessories\
+> Other general items
+
+Open your equipment inventory from the Dashboard,\
+select the item you want to sell, and register it using the same steps.
+
+<figure><img src="../../../../.gitbook/assets/image (1060).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ Trading Slots & Fees
+
+* You can register up to **5 items** at the same time.
+* By purchasing a **Trading Slot** item from the Item Shop,\
+  you can increase the limit to **8 items**.
+* The base trading fee is **10%**.\
+  If you set a price significantly higher than the market value,\
+  the **Abusing Price Cap** may apply, increasing the fee to **15%**.
+
+<figure><img src="../../../../.gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **Sell items you don’t need, collect the Gold you need,**\
+> **and get ready for a more efficient adventure.**
 {% endtab %}
 
 {% tab title="한국어" %}
-## 🛒 **아이템 판매 가이드 – 쉽고 빠르게 거래하기!**
+### 🛒 아이템 판매 가이드
 
-인게임 마켓에서 아이템을 판매하는 방법은 매우 간단합니다!\
-원하는 아이템을 마켓에 등록하고, 적절한 가격을 책정하여 빠르게 거래해 보세요.
-
-***
-
-### ✅ **1. 판매할 아이템 선택하기**
-
-📌 인벤토리를 열고 판매하고 싶은 아이템을 선택하세요.\
-📌 **아이템의 상세 정보 창**이 표시됩니다.
-
-<figure><img src="../../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
-
-
+인게임 거래소에서 보유 중인 아이템을 다른 모험가에게 판매할 수 있습니다.\
+판매할 아이템을 선택하고, 가격을 설정해 등록해 보세요.
 
 ***
 
-### ✅ **2. 아이템 등록하기**
+#### ◾ 판매할 아이템 선택
 
-📌 상세 정보 창에서 "판매" 버튼을 클릭하세요.
+1️⃣ 인벤토리를 엽니다.
 
-<figure><img src="../../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1053).png" alt=""><figcaption></figcaption></figure>
 
+2️⃣ 판매하고 싶은 아이템을 선택합니다.\
+3️⃣ 아이템 상세 정보 화면을 확인합니다.
 
-
-📌 판매 가격(골드)을 입력한 후, 다시 한 번 "판매" 버튼을 클릭하면 아이템이 마켓에 등록됩니다.
-
-<figure><img src="../../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 마지막으로, 확인 창이 나타나면 "등록" 버튼을 눌러 판매를 완료하세요!
-
-<figure><img src="../../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1054).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **3. 등록한 아이템 확인하기**
+#### ◾ 아이템 판매 등록
 
-📌 **거래소 > 나의 물품 > 장비/아이템** 메뉴에서 등록된 아이템을 확인할 수 있습니다.
+1️⃣ 아이템 상세 정보 화면에서 **판매** 버튼을 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1055).png" alt=""><figcaption></figcaption></figure>
 
+2️⃣ 판매 가격(골드)을 입력한 후 **판매** 버튼을 선택합니다.
 
+<figure><img src="../../../../.gitbook/assets/image (1057).png" alt=""><figcaption></figcaption></figure>
 
-***
+3️⃣ 확인 창에서 **등록** 버튼을 선택하면 판매가 완료됩니다.
 
-### 💎 일반 장비(무기, 오브, 악세서리)도 판매 가능!
+<figure><img src="../../../../.gitbook/assets/image (1058).png" alt=""><figcaption></figcaption></figure>
 
-📌 마켓에서는 NFT뿐만 아니라, 일반 무기, 오브, 악세서리도 판매할 수 있습니다.\
-📌 대시보드에서 장비 인벤토리를 열어 판매할 장비를 선택하세요.
-
-<figure><img src="../../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 아이템을 클릭하면 상세 정보 창이 열립니다.\
-📌 상세 정보 창에서 "판매" 버튼을 눌러 판매 가격 입력 창으로 이동하세요.
-
-<figure><img src="../../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 판매 가격(골드)을 설정한 후, 다시 한 번 "판매" 버튼을 클릭하면 아이템이 마켓에 등록됩니다.
-
-<figure><img src="../../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
-
-
+등록된 아이템은 즉시 마켓에 표시됩니다.
 
 ***
 
-### 💡 **추가 정보 & 주의사항**
+#### ◾ 등록한 아이템 확인 방법
 
-📌 한 번에 최대 5개의 아이템을 등록할 수 있습니다.\
-📌 아이템 상점에서 "**거래 슬롯**" 아이템을 구매하면 최대 8개까지 등록이 가능합니다.\
-📌 기본 거래 수수료는 10%이며, 시세보다 너무 높은 가격을 책정할 경우 "**어뷰징 금액 캡**"이 적용되어 수수료가 15%로 증가할 수 있습니다.
+등록한 아이템은 **거래소 > 나의 물품 > 장비 / 아이템** 에서 확인할 수 있습니다.
 
-이제 마켓에서 효율적으로 아이템을 거래해 보세요! 🎉
+<figure><img src="../../../../.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 판매 가능한 아이템 안내
+
+마켓에서는 NFT 아이템뿐만 아니라, 일반 아이템도 판매할 수 있습니다.
+
+판매 가능한 아이템 예시는 다음과 같습니다.
+
+> 무기\
+> 오브\
+> 악세서리\
+> 기타 일반 아이템
+
+대시보드에서 장비 인벤토리를 열어 판매할 아이템을 선택한 후 동일한 방법으로 등록할 수 있습니다.
+
+<figure><img src="../../../../.gitbook/assets/image (1060).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 거래 슬롯 및 수수료 안내
+
+* 한 번에 등록할 수 있는 아이템은 **최대 5개**입니다.
+* 아이템 상점에서 **거래 슬롯** 아이템을 구매하면 최대 **8개**까지 등록할 수 있습니다.
+* 기본 거래 수수료는 **10%**&#xC785;니다.\
+  시세보다 지나치게 높은 가격을 설정할 경우, \
+  **어뷰징 금액 캡**이 적용되어 수수료가 **15%**&#xB85C; 증가할 수 있습니다.
+
+<figure><img src="../../../../.gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **사용하지 않는 아이템을 판매하고, 필요한 골드를 모아 더 효율적인 모험을 준비해 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
-## 🛒 アイテム販売ガイド – 簡単＆スムーズな取引！
+### 🛒 アイテム販売ガイド
 
-**ゲーム内マーケット** でのアイテム販売はとても簡単です！\
-**マーケット** にアイテムを登録し、適切な価格を設定して、効率よく取引を始めましょう！
-
-***
-
-### ✅ **1.** 販売するアイテムを選択
-
-📌 **インベントリを開き**、販売したいアイテムを選択してください。\
-📌 **アイテムの詳細情報ウィンドウ** が表示されます。
-
-<figure><img src="../../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
-
-
+ゲーム内の**取引所**を利用して、所持しているアイテムを他の冒険者に販売できます。\
+販売するアイテムを選び、価格を設定して登録しましょう。
 
 ***
 
-### ✅ **2.** アイテムを販売登録
+#### ◾ 販売するアイテムを選択
 
-📌 **アイテム詳細ウィンドウ** で **「販売」ボタン** をクリックしてください。
+1️⃣ **インベントリ**を開きます。
 
-<figure><img src="../../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1053).png" alt=""><figcaption></figcaption></figure>
 
+2️⃣ 販売したいアイテムを選択します。\
+3️⃣ アイテムの詳細情報画面を確認します。
 
-
-📌 **販売価格 (ゴールド)** を入力し、再度 **「販売」ボタン** を押すと、アイテムが **マーケット** に登録されます。
-
-<figure><img src="../../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 最後に、**確認ウィンドウ** が表示されるので、**「登録」ボタン** を押して販売を完了しましょう！
-
-<figure><img src="../../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (1054).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### ✅ **3.** 登録したアイテムを確認
+#### ◾ アイテムを販売登録する
 
-📌 **マーケット > マイリスト > 装備/アイテム** で登録したアイテムを確認できます。
+1️⃣ アイテム詳細画面で **販売** ボタンを選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1055).png" alt=""><figcaption></figcaption></figure>
 
+2️⃣ 販売価格（ゴールド）を入力し、再度 **販売** ボタンを選択します。
 
+<figure><img src="../../../../.gitbook/assets/image (1057).png" alt=""><figcaption></figcaption></figure>
 
-***
+3️⃣ 確認画面で **登録** ボタンを選択すると、販売が完了します。
 
-### 💎 通常装備（武器・オーブ・アクセサリー）も販売可能！
+<figure><img src="../../../../.gitbook/assets/image (1058).png" alt=""><figcaption></figcaption></figure>
 
-📌 **マーケットでは、NFTだけでなく、通常の武器・オーブ・アクセサリーも販売可能です。**\
-📌 **ダッシュボードから装備インベントリを開き、販売する装備を選択してください。**
-
-<figure><img src="../../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 **アイテムをクリックすると、アイテム詳細ウィンドウが開きます。**\
-📌 **アイテム詳細ウィンドウで「販売」ボタンをタップし、価格入力画面に進みます。**
-
-<figure><img src="../../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
-
-
-
-📌 **販売価格（ゴールド）を入力し、再度「販売」ボタンを押すと、アイテムがマーケットに登録されます。**
-
-<figure><img src="../../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
-
-
+登録されたアイテムは、すぐに**取引所**に表示されます。
 
 ***
 
-### 💡 **追加情報 & 注意事項**
+#### ◾ 登録したアイテムの確認方法
 
-📌 **一度に最大5つのアイテム** を **マーケット** に登録できます。\
-📌 アイテムショップで **「取引スロット」** を購入すると、最大 **8つ** まで登録可能です。\
-📌 **基本の取引手数料は10%** ですが、価格が **市場相場よりも極端に高く設定** されると **「アビューズ価格制限」** が適用され、手数料が **15%** に増加する可能性があります。
+登録したアイテムは、**取引所 ＞ マイアイテム ＞ 装備／アイテム** で確認できます。
 
-これで、**マーケットで効率的にアイテムを取引する準備が整いました！** 🎉
+<figure><img src="../../../../.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 販売可能なアイテムについて
+
+取引所では、NFTアイテムだけでなく、通常のアイテムも販売できます。
+
+販売可能なアイテム例：<br>
+
+> 武器\
+> オーブ\
+> アクセサリー\
+> その他の一般アイテム
+
+ダッシュボードから装備インベントリを開き、\
+販売したいアイテムを選択して、同じ手順で登録できます。
+
+<figure><img src="../../../../.gitbook/assets/image (1060).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### ◾ 取引スロット・手数料について
+
+* 同時に登録できるアイテムは **最大5個** です。
+* アイテムショップで **取引スロット** を購入すると、最大 **8個** まで登録できるようになります。
+* 基本取引手数料は **10%** です。\
+  相場よりも大幅に高い価格を設定した場合、\
+  **アビューズ金額キャップ**が適用され、手数料が **15%** に増加することがあります。
+
+<figure><img src="../../../../.gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+✨
+
+> **使わないアイテムを販売して、**\
+> **必要なゴールドを集め、より効率的な冒険の準備を進めましょう。**
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of February 10, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
