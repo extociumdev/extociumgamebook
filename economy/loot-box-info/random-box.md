@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📦 Random Box
@@ -23,11 +23,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_item_lv1.png" alt=""><figcaption></figcaption></figure>
 
-💡You can create this material box in the Craft > Scroll tab.
-
-💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.
-
-💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。
+<sup>**EN**</sup> This material box can be crafted from Craft > Scroll.\
+<sup>**KR**</sup> 이 재료 박스는 제작 > 주문서 탭에서 제작할 수 있습니다.\
+<sup>**JP**</sup> この材料ボックスは、クラフト ＞ スクロール タブで作成できます。
 
 |  **Item**  |  **min** |  **max** |  **prob** |
 | ---------- | -------- | -------- | --------- |
@@ -46,11 +44,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_item_lv2.png" alt=""><figcaption></figcaption></figure>
 
-💡You can create this material box in the Craft > Scroll tab.
-
-💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.
-
-💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。
+<sup>**EN**</sup> This material box can be crafted from Craft > Scroll.\
+<sup>**KR**</sup> 이 재료 박스는 제작 > 주문서 탭에서 제작할 수 있습니다.\
+<sup>**JP**</sup> この材料ボックスは、クラフト ＞ スクロール タブで作成できます。
 
 |  **Item**        |  **min** |  **max** |  **prob** |
 | ---------------- | -------- | -------- | --------- |
@@ -69,11 +65,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_item_lv3.png" alt=""><figcaption></figcaption></figure>
 
-💡You can create this material box in the Craft > Scroll tab.
-
-💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.
-
-💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。
+<sup>**EN**</sup> This material box can be crafted from Craft > Scroll.\
+<sup>**KR**</sup> 이 재료 박스는 제작 > 주문서 탭에서 제작할 수 있습니다.\
+<sup>**JP**</sup> この材料ボックスは、クラフト ＞ スクロール タブで作成できます。
 
 |  **Item**          |  **min** |  **max** |  **prob** |
 | ------------------ | -------- | -------- | --------- |
@@ -92,11 +86,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_item_lv4.png" alt=""><figcaption></figcaption></figure>
 
-💡You can create this material box in the Craft > Scroll tab.
-
-💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.
-
-💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。
+<sup>**EN**</sup> This material box can be crafted from Craft > Scroll.\
+<sup>**KR**</sup> 이 재료 박스는 제작 > 주문서 탭에서 제작할 수 있습니다.\
+<sup>**JP**</sup> この材料ボックスは、クラフト ＞ スクロール タブで作成できます。
 
 |  **Item**        |  **min** |  **max** |  **prob** |
 | ---------------- | -------- | -------- | --------- |
@@ -120,11 +112,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_Potion.png" alt=""><figcaption></figcaption></figure>
 
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng).
-
-💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
-
-💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+<sup>**EN**</sup> You can purchase it from the shop using **X-Points** earned through the [**XTO Holding Service**](../../xto-token/xto-holding-service/).\
+<sup>**KR**</sup> [XTO 홀딩 서비스](../../xto-token/xto-holding-service/)를 통해 획득한 **X-포인트**로 상점에서 구매할 수 있습니다.\
+<sup>**JP**</sup> [XTOホールディングサービス](../../xto-token/xto-holding-service/)で獲得した**Xポイント**を使って、ショップで購入できます。
 
 |  **Item**              |  **min** |  **max** |  **prob** |
 | ---------------------- | -------- | -------- | --------- |
@@ -144,11 +134,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_Special.png" alt=""><figcaption></figcaption></figure>
 
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng).
-
-💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
-
-💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+<sup>**EN**</sup> You can purchase it from the shop using **X-Points** earned through the [**XTO Holding Service**](../../xto-token/xto-holding-service/).\
+<sup>**KR**</sup> [XTO 홀딩 서비스](../../xto-token/xto-holding-service/)를 통해 획득한 **X-포인트**로 상점에서 구매할 수 있습니다.\
+<sup>**JP**</sup> [XTOホールディングサービス](../../xto-token/xto-holding-service/)で獲得した**Xポイント**を使って、ショップで購入できます。
 
 |  **Item**               |  **min**  |  **max**  |  **prob**  |
 | ----------------------- | --------- | --------- | ---------- |
@@ -170,14 +158,17 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_Raid.png" alt=""><figcaption></figcaption></figure>
 
-💡You can create this material box in the Craft > Scroll tab.\
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng)
+<sub>**EN**</sub>\
+This material box can be crafted from **Craft > Scroll**,\
+or purchased from the shop using **X-Points** earned through the [**XTO Holding Service**](../../xto-token/xto-holding-service/).
 
-💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.\
-💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
+<sub>**KR**</sub>\
+이 재료 박스는 **제작 > 주문서** 탭에서 제작하거나,\
+[XTO 홀딩 서비스](../../xto-token/xto-holding-service/)를 통해 획득한 **X-포인트**로 상점에서 구매할 수 있습니다.
 
-💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。\
-💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+<sub>**JP**</sub>\
+この材料ボックスは、**クラフト ＞ スクロール** タブで作成するか、\
+[XTOホールディングサービス](../../xto-token/xto-holding-service/)で獲得した **Xポイント** を使って、ショップで購入できます。
 
 |  **Item**              |  **min**  |  **max**  |  **prob**  |
 | ---------------------- | --------- | --------- | ---------- |
@@ -201,14 +192,17 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_Dungeon.png" alt=""><figcaption></figcaption></figure>
 
-💡You can create this material box in the Craft > Scroll tab.\
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng)
+<sub>**EN**</sub>\
+This material box can be crafted from **Craft > Scroll**,\
+or purchased from the shop using **X-Points** earned through the [**XTO Holding Service**](../../xto-token/xto-holding-service/).
 
-💡제작 > 주문서 탭에서 이 재료 박스를 제작할 수 있습니다.\
-💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
+<sub>**KR**</sub>\
+이 재료 박스는 **제작 > 주문서** 탭에서 제작하거나,\
+[XTO 홀딩 서비스](../../xto-token/xto-holding-service/)를 통해 획득한 **X-포인트**로 상점에서 구매할 수 있습니다.
 
-💡この材料ボックスは、「クラフト > スクロール」タブで作成できます。\
-💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+<sub>**JP**</sub>\
+この材料ボックスは、**クラフト ＞ スクロール** タブで作成するか、\
+[XTOホールディングサービス](../../xto-token/xto-holding-service/)で獲得した **Xポイント** を使って、ショップで購入できます。
 
 |  **Item**                      |  **min**  |  **max**  |  **prob**  |
 | ------------------------------ | --------- | --------- | ---------- |
@@ -228,11 +222,9 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/XTORewardBox_Arena.png" alt=""><figcaption></figcaption></figure>
 
-💡You can purchase it from the shop using X-Points earned through the[ **XTO Holding Service**](../../xto-token/xto-holding-service/#eng).
-
-💡[**XTO 홀딩 서비스**](../../xto-token/xto-holding-service/#undefined-1)를 이용해 획득한 X-포인트로 상점에서 구매할 수 있습니다.
-
-💡[**XTOホールディングサービス**](../../xto-token/xto-holding-service/)で獲得したXポイントを使って、ショップで購入できます。
+<sup>**EN**</sup> You can purchase it from the shop using **X-Points** earned through the [**XTO Holding Service**](../../xto-token/xto-holding-service/).\
+<sup>**KR**</sup> [XTO 홀딩 서비스](../../xto-token/xto-holding-service/)를 통해 획득한 **X-포인트**로 상점에서 구매할 수 있습니다.\
+<sup>**JP**</sup> [XTOホールディングサービス](../../xto-token/xto-holding-service/)で獲得した**Xポイント**を使って、ショップで購入できます。
 
 |  **Item**                   |  **min**  |  **max**  |  **prob**  |
 | --------------------------- | --------- | --------- | ---------- |

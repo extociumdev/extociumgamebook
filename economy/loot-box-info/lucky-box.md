@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 💝 Lucky Box
@@ -15,11 +15,17 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/Item_900041.png" alt=""><figcaption></figcaption></figure>
 
-💡**This item can mainly be obtained by defeating 'Field Wave Monsters'. One of the items inside the box will be randomly awarded based on probability.**
+<sub>**EN**</sub>\
+This item is mainly obtained by defeating **Field Wave Monsters**.\
+When the box is opened, **one item** is awarded at random based on probability.
 
-> 이 아이템은 주로 '필드 웨이브 몬스터'를 처치하여 획득할 수 있습니다. 상자 안에 든 상품 중 1종이 확률에 의해 루팅됩니다.
->
-> このアイテムは主に「フィールドウェーブモンスター」を倒して獲得できます。ボックスの中の商品の1種類が確率によってルーティングされます。
+<sub>**KR**</sub>\
+이 아이템은 주로 **필드 웨이브 몬스터**를 처치하여 획득할 수 있습니다.\
+상자를 개봉하면, 구성된 아이템 중 **1종이 확률에 따라** 획득됩니다.
+
+<sub>**JP**</sub>\
+このアイテムは主に **フィールドウェーブモンスター** を倒すことで獲得できます。\
+ボックスを開封すると、収録されているアイテムの中から **1種類が確率で** 獲得されます。
 
 |  **Item**              |  **min**  |  **max**  |  **prob**  |
 | ---------------------- | --------- | --------- | ---------- |
@@ -48,11 +54,17 @@ description: 🛑 This information may be updated later than the game server dat
 
 <figure><img src="../../.gitbook/assets/Item_815002.png" alt=""><figcaption></figcaption></figure>
 
-💡**This item can mainly be obtained by defeating 'Field Wave Monsters'. One of the items inside the box will be randomly awarded based on probability.**
+<sub>**EN**</sub>\
+This item is mainly obtained by defeating **Field Wave Monsters**.\
+When the box is opened, **one item** is awarded at random based on probability.
 
-> 이 아이템은 주로 '필드 웨이브 몬스터'를 처치하여 획득할 수 있습니다. 상자 안에 든 상품 중 1종이 확률에 의해 루팅됩니다.
->
-> このアイテムは主に「フィールドウェーブモンスター」を倒して獲得できます。ボックスの中の商品の1種類が確率によってルーティングされます。
+<sub>**KR**</sub>\
+이 아이템은 주로 **필드 웨이브 몬스터**를 처치하여 획득할 수 있습니다.\
+상자를 개봉하면, 구성된 아이템 중 **1종이 확률에 따라** 획득됩니다.
+
+<sub>**JP**</sub>\
+このアイテムは主に **フィールドウェーブモンスター** を倒すことで獲得できます。\
+ボックスを開封すると、収録されているアイテムの中から **1種類が確率で** 獲得されます。
 
 |  **Item**               |  **min**  |  **max**  |  **prob**  |
 | ----------------------- | --------- | --------- | ---------- |
@@ -77,5 +89,5 @@ description: 🛑 This information may be updated later than the game server dat
 | Adventurer's MP potion  | 5         | 10        | 10         |
 | God's Breath            | 1         | 1         | 0.01       |
 
-##
+
 
