@@ -96,7 +96,7 @@ You can obtain an Item Trade Ticket using the methods below.
 
 1️⃣ Purchase from **Shop > Item Shop > XTO** category
 
-<figure><img src="../../.gitbook/assets/image (1069).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ You can use **X Points** obtained from holding XTO to purchase \
 a [**Special Material Random Box**](../loot-box-info/random-box.md#special-material-random-box), and you can obtain **Item Trading Shard** \
@@ -203,7 +203,7 @@ from the box at a certain probability.
 
 1️⃣ **상점 > 아이템 상점 > XTO** 카테고리에서 구매
 
-<figure><img src="../../.gitbook/assets/image (1069).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ XTO 홀딩으로 획득한 X 포인트를 사용해 [**Special Material Random Box**](../loot-box-info/random-box.md#special-material-random-box)**를 구매**할 수 있으며,\
 해당 박스에서 **확률적으로 아이템 거래권 조각을 획득**할 수 있습니다.
@@ -312,7 +312,7 @@ from the box at a certain probability.
 
 1️⃣ **ショップ ＞ アイテムショップ ＞ XTO** カテゴリで購入
 
-<figure><img src="../../.gitbook/assets/image (1069).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ XTOホールディングで獲得した**Xポイント**を使用して [**Special Material Random Box**](../loot-box-info/random-box.md#special-material-random-box) を購入でき、そのボックスから確率で**アイテム取引券の欠片**を獲得できます。
 
