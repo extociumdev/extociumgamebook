@@ -4,44 +4,53 @@
 
 {% tabs %}
 {% tab title="ENG" %}
-We all possess the commodity of "time," which incurs an "opportunity cost" when allocated. Similarly, the fundamental reason "game currency" can potentially hold value is because players "invest" their time into the game.&#x20;
+We all possess the same fundamental resource: **time**.\
+Whenever time is allocated, an **opportunity cost** is created.\
+In the same way, the reason game currency can potentially hold value is because players **invest their time** into the game.
 
-That is, when a player invests a considerable amount of time into a game, the outcomes of that time spent, such as various items and strengthened heroes, naturally come to have value.&#x20;
+When a player spends a significant amount of time in a game, the results of that time—such as accumulated items or stronger heroes—naturally begin to carry value.
 
-This mechanism has been clearly operational, especially in online MMORPGs where "marketplaces" or "exchanges" are integral to the game. In South Korea, renowned MMORPGs like Lineage, Lineage 2, MapleStory, and Wind of the Country have verified this mechanism over 20 years.&#x20;
+This mechanism has been especially evident in online MMORPGs, where **markets and exchanges** form a core part of gameplay. In South Korea, long-running MMORPGs such as _Lineage_, _Lineage II_, _MapleStory_, and _The Kingdom of the Winds_ have demonstrated this principle for over two decades.
 
-Their in-game currency clearly holds value, and game items are even more valuable, long before the term P2E (Play to Earn) appeared, which has been around for over 20 years and continues to be relevant.&#x20;
+Their in-game currencies clearly hold value, and their items often carry even greater value—long before the term _Play to Earn (P2E)_ ever existed. In that sense, P2E is not a new idea. It has existed for over 20 years and continues to operate today.
 
-Therefore, what we need to do is not develop unimaginable future technologies but **create good games and fun content that allow players to safely swap game currency to crypto and invest their "time" into our game.**&#x20;
+What we need to do, therefore, is not to invent unimaginable future technologies.\
+Our task is far simpler:\
+to create **good games and compelling content** that allow players to safely connect in-game currency with crypto, and to willingly invest their time into our world.
 
-Of course, not all games are suitable for Play to Earn. A game solely for fun will never operate an economy. Some game genres gift players memories by lightly enjoying the story and leaving an aftertaste. While these games are excellent, it's not easy for their currency to hold special value.&#x20;
+Of course, not every game is suitable for Play to Earn.\
+A game that exists purely for casual enjoyment will not sustain an economy. Some genres focus on delivering memorable stories and emotional aftertaste—and these games are excellent. However, it is difficult for their currencies to accumulate lasting value.
 
-If we were to summarize the fundamental reason Korean online MMORPGs have held significant economic value within their realms, it would be as follows:&#x20;
+If we were to summarize why Korean online MMORPGs were able to sustain large in-game economies, the reasons can be distilled into three key principles:
 
-1. There needs to be user conflict, factionalization, and competition.&#x20;
-2. Sessions must not end.&#x20;
-3. A continuous cycle of Earn - Burn must occur.&#x20;
+* **Player conflict, factionalization, and competition are essential.**
+* **Sessions must not end.**
+* **A continuous Earn–Burn cycle must be maintained.**
 
-By competing and fighting for better castles, the game's currency is massively consumed, and players immerse themselves in the political charm between factions. The concept of "massive" is crucial here. "Faction" is a vital element that enlivens the market.&#x20;
+When players compete for territory and power—fighting over castles and influence—large amounts of in-game currency are consumed. This consumption, at scale, is critical.\
+**Factions** act as a powerful force that energizes and sustains the market.
 
-In classic online MMORPGs, players "hunt" by investing their "time" to receive items and currency (mining).&#x20;
+In classic online MMORPGs, players supply items and currency by investing their time into hunting—effectively “mining” through gameplay.
 
-Someone in the game needed fast leveling to gain an advantage among factions, thus buying others' "time" was natural, an essential factor enabling the exchange to be active. The demand-supply principle of time value naturally occurs.&#x20;
+Some players require rapid progression to gain an advantage within factional conflicts. As a result, purchasing the “time” of other players becomes natural, and this demand is what allows marketplaces to thrive. The supply-and-demand principle of time value emerges organically.
 
-Interestingly, the non-ending session is crucial because of the concept of buying and selling "time." The more "time" accumulates, the higher its value, so ending a specific season and redistributing balance would be like capping the value of "time."&#x20;
+The absence of an ending session is also crucial.\
+Because time gains value as it accumulates, resetting a game through seasonal endings and balance redistributions effectively places a cap on the value of time itself.
 
-Thirdly, including point one, the continuous growth system unique to MMORPGs ensures the Earn - Burn cycle. The natural flow in MMORPG grammar, like buying equipment and enhancing skills with the money earned from catching rabbits to hunt tigers, is natural. You will invest years to finally hunt dragons.&#x20;
+Finally, the persistent growth systems unique to MMORPGs naturally sustain the Earn–Burn cycle.\
+Earning currency by hunting small creatures, then spending it on equipment and skills to challenge stronger enemies, is a core grammatical structure of the genre. Over years of progression, players eventually aim for the ultimate challenges.
 
-Such growth-type games are based on users needing to Burn as much as they Earn in the game character. This is essential for gaining an advantage in the competitive chain to Earn more. Their level naturally increases, so they can't stay in one place. High-level users will be clearly handicapped in low-level areas.&#x20;
+In these growth-oriented games, players must **burn** what they earn in order to grow stronger. Only by doing so can they remain competitive and unlock further opportunities to earn. As levels rise, players cannot remain in the same place indefinitely, as higher-level characters face clear handicaps in lower-level areas.
 
-This growth chain's stages are endless and continue through updates, increasing the cumulative value of time, making the game economy continuously generate value like the real economy.&#x20;
+Because this growth chain has no true ending and continues through constant updates, the cumulative value of time continues to increase. As a result, the game economy—much like the real economy—continues to generate value over time.
 
-> 💡**Our mission is to explore ways the protocol economy can be established within MMORPGs based on this perspective.**&#x20;
+> 💡**Our mission is to explore how a protocol economy can be established within MMORPGs from this perspective.**
 
-In the not-too-distant future, most assets in reality will be tokenized. The gaming world is no exception to this trend.
+In the near future, most real-world assets will become tokenized, and the gaming industry will be no exception.
 
 {% hint style="info" %}
-The 'protocol economy' refers to a transaction concept based on voluntary agreements (promises) between individuals, aiming to minimize intermediary costs through decentralization and achieve fair distribution within the ecosystem. For example, in gaming, it involves minimizing the development costs for developers using AI and automation tools, and having users replace some of the roles required for development (such as QA, CS, game design, etc.), thereby sharing the surplus revenue costs between developers and users.
+A **protocol economy** refers to an ecosystem built on voluntary agreements between individuals. Through decentralization, intermediary costs are minimized, enabling fairer value distribution.\
+In gaming, this can mean reducing development costs through AI and automation, while allowing players to take on certain roles traditionally handled by developers (such as QA, customer support, or elements of game design) so that surplus value can be shared between developers and players.
 {% endhint %}
 {% endtab %}
 
@@ -87,40 +96,82 @@ The 'protocol economy' refers to a transaction concept based on voluntary agreem
 {% endtab %}
 
 {% tab title="日本語" %}
-私たち人間は誰もが等しく「時間」という財を持っており、これを投じる場所には「機会費用」というものが発生します。同様に、「ゲーム内通貨」が潜在的に価値を持つことができる根本的な理由は、プレイヤーがゲームに「時間」を「投資」するからでしょう。
+私たち人間は、誰もが等しく「時間」という資源を持っています。\
+そして、その時間をどこに投じるかによって、「機会費用」が生まれます。\
+同様に、ゲーム内通貨が潜在的に価値を持ち得る根本的な理由は、\
+プレイヤーがゲームに「時間」を投資する点にあります。
 
-つまり、プレイヤーがあるゲームにかなりの時間を投資すれば、そのプレイヤーがゲーム内で生み出した時間の結果、つまり様々なアイテムや強化されたヒーローなどは自然と価値が付けられることになります。
+あるゲームに長い時間を投資すれば、\
+その結果として得られたアイテムや成長したキャラクターは、\
+自然と価値を帯びるようになります。
 
-特に「取引所」や「交換」というシステムがゲームの根幹を占めるオンラインMMORPGの場合、このメカニズムはより確実に機能してきました。私たちが位置する韓国では、リネージュ、リネージュ2、メイプルストーリー、風の国などの名高いMMORPGゲームが、このメカニズムを20年以上にわたって検証してくれました。
+この仕組みは、特に「取引所」や「交換」といったシステムが\
+ゲームの根幹を成すオンラインMMORPGにおいて、より明確に機能してきました。\
+韓国では、『リネージュ』『リネージュ2』『メイプルストーリー』\
+『風の国』といった長寿MMORPGが、このメカニズムを20年以上にわたり証明してきました。
 
-彼らのゲーム内通貨は明らかに価値を持ち、ゲームアイテムはさらに高い価値を持っています。P2Eという「言葉」が登場する20年も前からです。P2Eは過去から存在し、今も現在進行形です。
+それらのゲームでは、ゲーム内通貨は明確な価値を持ち、\
+アイテムはさらに高い価値を持っていました。\
+これは「Play to Earn（P2E）」という言葉が生まれる遥か以前から存在していた現象です。\
+P2Eは新しい概念ではなく、過去から現在まで続いているものなのです。
 
-そのため、私たちがすべきことは、誰も想像できない素晴らしい未来の技術を開発することではなく、単にゲーム通貨を暗号通貨に安全にスワップし、プレイヤーが私たちのゲームに「時間」を投資できるようにする良いゲーム、面白いコンテンツを作ることです。
+だからこそ、私たちが目指すべきものは、誰も想像し得ない未来技術の開発ではありません。\
+ゲーム内通貨を安全に暗号資産へと接続し、プレイヤーが安心して「時間」を投資できる、\
+良いゲームと魅力的なコンテンツを作ることです。
 
-もちろん、すべてのゲームがPlay to Earnに適しているわけではありません。単に面白いだけでは、ゲームの経済は決して機能しません。あるゲームジャンルは、軽くストーリーを楽しみ、余韻を残すことでプレイヤーに記憶をプレゼントします。これらのゲームは素晴らしいですが、このゲームの通貨が特別な価値を持つことは容易ではありません。先に述べた韓国のオンラインMMORPGが彼らの領域内で巨大な経済価値を持っていた根本的な理由を3つに圧縮すれば、次のようになります。
+もちろん、すべてのゲームがPlay to Earnに適しているわけではありません。\
+ただ面白いだけのゲームでは、経済は成立しません。\
+物語を楽しみ、余韻を残すことを目的としたゲームもあります。\
+それらは素晴らしい体験を提供しますが、通貨が継続的な価値を持つことは容易ではありません。
 
-1. ユーザー間の対立と派閥化、競争が必要です。
-2. セッションは終了してはいけません。
-3. Earn - Burnのサイクルが継続的に発生しなければなりません。
+韓国のオンラインMMORPGが巨大な経済圏を築けた理由は、次の三点に集約できます。
 
-彼らが互いに競争し、より良い城を占めるために戦いを繰り広げることによって、ゲームの通貨が大量に消費され、プレイヤーが各陣営間の政治的魅力に没頭するようになります。ここで「大量」の概念が重要です。「勢力」は市場を活性化させる非常に重要な要素です。
+* ユーザー間の対立、派閥化、そして競争が存在すること
+* セッションが終了しないこと
+* EarnとBurnの循環が継続的に発生すること
 
-古典的なオンラインMMORPGの場合、プレイヤーは「時間」を投入して「狩り」を行い、アイテムと通貨を供給（採掘）します。ゲーム内の誰かが勢力間の優位性を確保するためには、素早いレベルアップが必要であり、他人の「時間」を買うことが当然であり、これが取引所が活性化することができる非常に重要な要素でした。時間価値の需要供給の原則が自然に生成されます。
+勢力同士が競い合い、城や領土を巡って戦うことで、\
+大量の通貨が消費され、プレイヤーは陣営間の政治的構造に深く没入します。\
+ここで重要なのは「大量消費」という点です。\
+「勢力」は市場を活性化させる極めて重要な要素なのです。
 
-また、セッションが終了しないという点も重要で、これは「時間」を売買する概念のためです。「時間」はより多く蓄積されるほど、より高い価値を持つため、特定のシーズンにゲームを終了させてバランスを再分配する場合、これらの「時間」の価値化に制限キャップをかけることと同じになります。
+古典的なオンラインMMORPGでは、プレイヤーは自らの「時間」を投入して狩りを行い、\
+アイテムや通貨を供給してきました。\
+勢力間で優位に立つためには迅速な成長が必要となり、\
+他者の「時間」を対価として購入する行為が自然に生まれます。\
+こうして、時間価値の需給関係が成立します。
 
-3番目もまた、1番の内容を含むもので、MMORPG特有の絶え間ない成長システムは、Earn - Burnのサイクルが継続的に起こるようにします。あなたがウサギを捕まえて稼いだお金で装備を購入し、スキルを強化してトラを捕まえに行くことは、MMORPGの文法上非常に自然な流れです。あなたは数年を投資して、ついにドラゴンを捕まえに行くでしょう。
+また、セッションが終了しないことも極めて重要です。\
+時間は蓄積されるほど価値を高めるため、シーズン制によるリセットや再配分は、\
+時間価値に上限を設ける行為に等しくなります。
 
-このような成長型ゲームでは、ユーザーがEarnしただけゲーム内キャラクターにBurnさせることが基本です。それによって競争の連鎖で優位性を確保し、より多くのEarnをすることができるからです。彼らのレベルは自然と上がるので、一か所にずっと留まることはできません。高レベルのユーザーが低レベルのユーザーのエリアにいる場合、明らかにハンディキャップが与えられるでしょう。
+MMORPG特有の継続的な成長システムは、EarnとBurnの循環を自然に生み出します。\
+小さな敵を倒して得た報酬で装備を整え、より強い敵へ挑む流れは、\
+MMORPGの文法として極めて自然なものです。\
+そして、長い年月をかけて最終的な目標へと向かいます。
 
-この成長チェーンの段階にはエンディングが存在せず、アップデートを通じて継続的に進行するため、時間価値の蓄積量はさらに多くなり、ゲーム経済は現実の経済のように絶えず価値を生み出すようになります。
+このような成長型ゲームでは、\
+プレイヤーはEarnした分だけBurnし続ける必要があります。\
+それによって競争優位を保ち、さらなるEarnの機会を得ることができるからです。\
+成長が進めば、同じ場所に留まり続けることはできません。
 
-> 💡**私たちのミッションは、この視点を基にMMORPG内でプロトコル経済が成立する方法を探ることです。**
+この成長の連鎖には終わりがなく、アップデートを通じて継続的に拡張されていきます。\
+その結果、時間価値は蓄積され続け、ゲーム経済は現実の経済と同じように、\
+持続的に価値を生み出す存在となります。
 
-そう遠くない未来に、現実に存在するほとんどの資産はトークン化されるでしょう。この流れを迎えるのは、ゲームも同じです。
+> 💡**私たちのミッションは、この視点に基づき、MMORPGの中で**\
+> **プロトコル経済が成立する方法を探ることです。**
+
+そう遠くない未来、現実世界の多くの資産はトークン化されるでしょう。\
+そして、この流れはゲームも例外ではありません。
 
 {% hint style="info" %}
-「プロトコル経済」とは、個人間の自発的な合意（約束）に基づく取引の概念であり、分散型を通じて仲介コストを最小限に抑え、エコシステム内で公平な分配を実現することを意味します。ゲームを例にすると、AIや自動化ツールなどを利用して開発者の開発コストを最小限に抑え、ユーザーが開発に必要な役割（QA、CS、ゲームデザインなど）の一部を代替することにより、余剰収益コストを開発者とユーザーが共有する方式です。
+「プロトコル経済」とは、個人間の自発的な合意に基づく取引モデルであり、\
+分散化によって仲介コストを最小化し、エコシステム内での公正な価値分配を目指すものです。
+
+ゲームにおいては、AIや自動化技術によって開発コストを抑えつつ、\
+QAやカスタマーサポート、ゲームデザインなどの役割の一部を ユーザーが担うことで、\
+生まれた余剰価値を開発者とユーザーが共有する構造を意味します。
 {% endhint %}
 {% endtab %}
 {% endtabs %}
