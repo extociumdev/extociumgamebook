@@ -1,5 +1,5 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 🤝 XTO Swap Service
@@ -8,32 +8,53 @@ description: 🛑 This information may be updated later than the game server dat
 
 {% tabs %}
 {% tab title="ENG" %}
-💡**Services related to XTO and gold can be performed by the town NPC '**[**Yey**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)[**ilel'**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)**.**
+### 🔄 XTO Swap Service
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+XTO and Gold-related services can be accessed through the town NPC [**YEYILEL**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-banker-of-rotten-hill).
+
+<figure><img src="../../.gitbook/assets/image (1072).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 {% hint style="info" %}
-❓[If you need to perform tasks related to XTO, please connect your MetaMask wallet first!](../../beginners-guide/wallet-connection/)
+#### ◾ Before You Begin
+
+* To perform any XTO-related actions, you must first [connect your **MetaMask wallet**](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md).
+* Swap and Holding services are not available without a connected wallet.
 {% endhint %}
 {% endtab %}
 
 {% tab title="한국어" %}
-💡**XTO 및 골드에 관련된 서비스는 마을 NPC '**[**예이렐**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)**'에게서 수행 가능합니다.**
+### 🔄 XTO Swap Service
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+XTO와 골드 관련 서비스는 마을 NPC [**예이렐**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-banker-of-rotten-hill)을 통해 이용할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/image (1072).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 {% hint style="info" %}
-❓[XTO와 관련된 작업을 수행해야 할 경우, 메타마스크 지갑 연결을 먼저 해주세요!](../../beginners-guide/wallet-connection/)
+#### ◾ 이용 전 확인 사항
+
+* XTO와 관련된 작업을 진행하려면, 먼저 [**MetaMask 지갑을 연결**](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md)해야 합니다.
+* 지갑이 연결되지 않은 상태에서는 스왑 및 홀딩 서비스를 이용할 수 없습니다.
 {% endhint %}
 {% endtab %}
 
 {% tab title="日本語" %}
-💡**XTOおよびゴールドに関連するサービスは、町のNPC「**[**イェレル**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)**」が担当します。**
+### 🔄 XTOスワップサービス
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+XTOおよびゴールド関連のサービスは、町のNPC [**イェイレル**](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-banker-of-rotten-hill) から利用できます。
+
+<figure><img src="../../.gitbook/assets/image (1072).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 {% hint style="info" %}
-❓[XTOに関連する作業を行う必要がある場合は、最初にメタマスクウォレットを接続してください！](../../beginners-guide/wallet-connection/)
+#### ◾ 利用前の確認事項
+
+* XTOに関連する操作を行うには、事前に [**MetaMaskウォレットを接続**](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md)する必要があります。
+* ウォレットが接続されていない場合、スワップおよびホールディングサービスは利用できません。
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -46,6 +67,8 @@ description: 🛑 This information may be updated later than the game server dat
 [xto-greater-than-gold.md](xto-greater-than-gold.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/Qhjg37KTkXbdWtuaHjnM" %}
-[Broken link](/broken/pages/Qhjg37KTkXbdWtuaHjnM)
+{% content-ref url="../xto-holding-service/" %}
+[xto-holding-service](../xto-holding-service/)
 {% endcontent-ref %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of February 11, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
