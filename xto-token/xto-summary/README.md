@@ -1,22 +1,18 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 📋 XTO Summary
 
-### <mark style="color:purple;">**📜Header List**</mark>
-
-* ✅ [Token Basic Information](./#token-basic-information)
-* ✅ [Token Introduction](./#token-introduction)
-* ✅ [Token DEX Link](./#token-dex-link)
-
 <figure><img src="../../.gitbook/assets/Item_XTO.png" alt=""><figcaption></figcaption></figure>
 
-## ✅ Token Basic Information
+## ◾ Token Basic Information
 
 > <mark style="color:purple;">**XTO coin (BEP20)**</mark>
 >
 > **Name :** XTO
+>
+> **Network :** Binance Smart Chain (BEP-20)
 >
 > **Contract Addr :&#x20;**<mark style="color:blue;">**0xAA390Bd1657514730D98BAaBcE4b393a53ACD579**</mark>
 >
@@ -25,22 +21,20 @@ description: 🛑 This information may be updated later than the game server dat
 > **Total supply :** 2,100,000,000
 >
 > **Max Mining Amount per Day :** 20,000 (flexible)
->
-> **Network :** Binance Smart Chain
 
-## ✅ Token Introduction
+***
+
+## ◾ Token Introduction
 
 {% tabs %}
 {% tab title="ENG" %}
-🚨<mark style="color:red;">Crypto assets can be subject to significant fluctuations in asset value. Always be mindful of your trading!</mark>
+XTO is a governance token that supports the virtual economy of EXTOCIUM.\
+It serves a similar role to Gold, the in-game currency. However, due to blockchain limitations that make real-time drops difficult, Gold is used in-game as a bridge currency.
 
-> 💡**The XTO token is the governance token that underpins the virtual economy of EXTOCIUM.**&#x20;
+In short, **Gold** is the currency used inside the game,\
+while **XTO** is the token recorded on the blockchain.
 
-Fundamentally, the XTO token and EXTOCIUM's in-game currency Gold are the same concept. However, since coins registered on the blockchain cannot be dropped in real-time within the game, we use 'Gold' as a bridge currency.
-
-The method of mining XTO is very simple: play the game and accumulate Gold. With a certain amount of Gold, you can go to the in-game NPC 'Yeiel' who provides an XTO-Gold swap service. Of course, since a considerable amount of Gold is required to swap for XTO, another method is to purchase XTO tokens from an exchange.
-
-The most basic use of the XTO token is for gameplay. All item crafting, enhancements, and hero summoning in EXTOCIUM requires materials that can only be purchased with XTO.
+You can connect XTO with gameplay through the services below.
 
 {% content-ref url="../xto-swap-service/" %}
 [xto-swap-service](../xto-swap-service/)
@@ -52,15 +46,13 @@ The most basic use of the XTO token is for gameplay. All item crafting, enhancem
 {% endtab %}
 
 {% tab title="한국어" %}
-🚨<mark style="color:red;">크립토 에셋은 자산 가치의 변동폭이 심할 수 있습니다. 항상 트레이딩에 유의하세요!</mark>
+XTO는 EXTOCIUM의 가상 경제를 지탱하는 **거버넌스 토큰**입니다.\
+게임 내 재화인 **골드**와 같은 역할을 하지만, \
+블록체인 특성상 실시간 드롭이 어려워 게임에서는 **골드**를 브릿지 재화로 사용합니다.
 
-> 💡**XTO토큰은 EXTOCIUM의 가상 경제를 지탱하는 거버넌스 토큰입니다.**&#x20;
+즉, 골드는 게임 안에서 사용하는 재화이고, XTO는 블록체인 위에 기록되는 토큰입니다.
 
-XTO토큰과 EXTOCIUM의 게임 재화인 골드는 근본적으로 같은 개념입니다. 다만, 블록체인에 등록되는 코인을 게임 내에서 실시간으로 드롭 시킬 수 없기 때문에 '골드'라는 브릿지 통화를 사용하는 것 입니다.\
-\
-XTO를 채굴하는 방법은 매우 단순합니다. 게임을 플레이하여 골드를 모으는 것입니다. 골드의 일정 묶음을 가지고 게임 속 NPC인 '예이렐'에게 가면, XTO - 골드 스왑 서비스를 제공합니다. 물론 XTO로 스왑 하기 위해 필요한 골드의 양은 상당하기 때문에, 거래소에서 XTO토큰을 구매해 오는 것도 방법입니다.\
-\
-XTO토큰의 가장 기본적인 사용처는 게임 플레이 입니다. EXTOCIUM의 모든 아이템 제작 및 강화, 영웅 소환 등에는 XTO로만 구입 가능한 재료들이 존재합니다.
+아래 서비스를 통해 XTO를 게임 플레이와 연동할 수 있습니다.
 
 {% content-ref url="../xto-swap-service/" %}
 [xto-swap-service](../xto-swap-service/)
@@ -72,15 +64,15 @@ XTO토큰의 가장 기본적인 사용처는 게임 플레이 입니다. EXTOCI
 {% endtab %}
 
 {% tab title="日本語" %}
-🚨<mark style="color:red;">クリプトアセットは資産価値の変動幅が大きくなる可能性があります。常にあなたの取引に注意してください！</mark>
+XTOは、EXTOCIUMの仮想経済を支える**ガバナンストークン**です。\
+ゲーム内通貨であるゴールドと同じ役割を持っていますが、\
+ブロックチェーンの特性上、リアルタイムでのドロップが難しいため、\
+ゲーム内ではゴールドを**ブリッジ通貨**として使用しています。
 
-> 💡**XTOトークンは、EXTOCIUMの仮想経済を支えるガバナンストークンです。**
+つまり、**ゴールド**はゲーム内で使用する通貨であり、\
+**XTO**はブロックチェーン上に記録されるトークンです。
 
-本質的にXTOトークンとEXTOCIUMのゲーム通貨であるゴールドは同じ概念です。ただし、ブロックチェーンに登録されるコインをゲーム内でリアルタイムにドロップさせることができないため、「ゴールド」というブリッジ通貨を使用しています。
-
-XTOを採掘する方法は非常に簡単です。ゲームをプレイしてゴールドを集めるだけです。一定量のゴールドを持っていけば、ゲーム内のNPC「イェイエル」がXTO-ゴールド交換サービスを提供してくれます。もちろん、XTOと交換するために必要なゴールドの量は相当なものですので、取引所でXTOトークンを購入するのも方法の一つです。
-
-XTOトークンの最も基本的な用途はゲームプレイです。EXTOCIUMのすべてのアイテム製作、強化、英雄召喚にはXTOでのみ購入可能な素材が存在します。
+以下のサービスを通じて、XTOをゲームプレイと連携できます。
 
 {% content-ref url="../xto-swap-service/" %}
 [xto-swap-service](../xto-swap-service/)
@@ -92,7 +84,80 @@ XTOトークンの最も基本的な用途はゲームプレイです。EXTOCIUM
 {% endtab %}
 {% endtabs %}
 
-## ✅ Token DEX Link
+***
+
+## ◾ How to Obtain XTO
+
+{% tabs %}
+{% tab title="ENG" %}
+Obtaining XTO is simple.
+
+1️⃣ Play the game and earn **Gold**.\
+2️⃣ After collecting a certain amount of Gold,\
+you can use the **XTO–Gold Swap Service** through the in-game NPC **YEYILEL**.
+
+Since the amount of XTO that can be swapped using Gold is limited,\
+purchasing XTO from an external exchange is also an option when needed.
+{% endtab %}
+
+{% tab title="한국어" %}
+XTO를 얻는 방법은 매우 단순합니다.
+
+1️⃣ 게임을 플레이하며 **골드**를 획득합니다.\
+2️⃣ 일정량의 골드를 모은 뒤,\
+게임 내 NPC **예이렐**을 통해 **XTO – 골드 스왑 서비스**를 이용할 수 있습니다.
+
+골드로 스왑할 수 있는 XTO의 양은 제한적이기 때문에,\
+필요에 따라 외부 거래소에서 XTO를 구매하는 것도 하나의 방법입니다.
+{% endtab %}
+
+{% tab title="日本語" %}
+XTOの入手方法はとてもシンプルです。
+
+1️⃣ ゲームをプレイして **ゴールド** を獲得します。\
+2️⃣ 一定量のゴールドを集めた後、\
+ゲーム内NPC **イェイレル** を通じて  **XTO－ゴールド スワップサービス**を利用できます。
+
+ゴールドでスワップできるXTOの量には制限があるため、\
+必要に応じて外部取引所でXTOを購入する方法もあります。
+{% endtab %}
+{% endtabs %}
+
+***
+
+## ◾ How XTO Is Used
+
+{% tabs %}
+{% tab title="ENG" %}
+XTO is used to obtain exclusive items and rewards in EXTOCIUM.\
+By holding XTO, you can earn **X Points**, and some items can only be purchased using these points.
+
+XTO is not just a token, but a resource directly connected to the growth and progression of EXTOCIUM.\
+For more details, please refer to the service guide pages.
+{% endtab %}
+
+{% tab title="한국어" %}
+XTO는 EXTOCIUM에서 전용 아이템과 보상을 획득하는 데 사용됩니다.\
+XTO 홀딩을 통해 X 포인트를 얻을 수 있으며,&#x20;포인트로만 구매 가능한 아이템도 존재합니다.
+
+XTO는 단순한 토큰이 아니라, EXTOCIUM의 성장과 진행에 직접 연결된 재화입니다.\
+자세한 내용은 각 서비스 안내 페이지에서 확인할 수 있습니다.
+{% endtab %}
+
+{% tab title="日本語" %}
+XTOは、EXTOCIUMで**専用アイテムや報酬を獲得するため**に使用されます。\
+XTOをホールドすることで **Xポイント** を獲得でき、\
+ポイントでのみ購入できるアイテムも存在します。
+
+XTOは単なるトークンではなく、\
+EXTOCIUMの成長と進行に直接つながる重要なリソースです。\
+詳細は、各サービスの案内ページをご確認ください。
+{% endtab %}
+{% endtabs %}
+
+***
+
+## ◾ Token DEX Link
 
 {% embed url="https://coinmarketcap.com/dexscan/bsc/0x987393505d0c5e66a04949ee0e61814bccf760e4/" %}
 <mark style="color:blue;">**📈XTO Price Page , v2 (Coinmarketcap)**</mark>
@@ -106,7 +171,9 @@ XTOトークンの最も基本的な用途はゲームプレイです。EXTOCIUM
 <mark style="color:purple;">**📑XTO Holder info (BscScan)**</mark>
 {% endembed %}
 
+<p align="center"><sup>※ Token prices may fluctuate depending on market conditions.</sup></p>
 
+***
 
-
+<p align="right"><sup><em>※ This guide was written based on the game status as of February 11, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 
