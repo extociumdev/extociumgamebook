@@ -51,7 +51,7 @@ You can verify NFT details in two ways:
 
 In NFT SEARCH, you can view:
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 > **Hero Type**\
 > **Current Owner**\
@@ -71,7 +71,7 @@ At the top of the NFT SEARCH page, \
 you can select the **bscscan** link to open the NFT on bscscan instantly.\
 There, you can check the full transaction history and transfer records.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -82,7 +82,7 @@ you can verify the NFT directly on bscscan.
 
 1️⃣ Go to **bscscan.com**.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2️⃣ In the in-game NFT info window, \
 copy the **Extocium NFT contract address** and paste it into the bscscan search bar.\
@@ -168,7 +168,7 @@ NFT 정보는 아래 두 가지 방법으로 확인할 수 있습니다.
 
 NFT SEARCH에서는 아래 정보를 확인할 수 있습니다.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 > **영웅 타입**\
 > **NFT 소유자 정보**\
@@ -189,7 +189,7 @@ NFT SEARCH 화면 상단의 bscscan 링크를 선택하면\
 
 이곳에서는 NFT의 전체 거래 내역과 이동 기록을 확인할 수 있습니다.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -199,7 +199,7 @@ NFT SEARCH 화면 상단의 bscscan 링크를 선택하면\
 
 1️⃣ bscscan.com에 접속합니다.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2️⃣ 게임 내 NFT 정보 창에서 Extocium NFT의 고유 주소를 복사하여 검색창에 입력합니다.\
 (모든 Extocium NFT는 동일한 컨트랙트 주소를 사용합니다.)
@@ -286,7 +286,7 @@ NFT情報は、以下の2つの方法で確認できます。
 
 NFT SEARCHでは、以下の情報を確認できます。
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 > **ヒーロータイプ**\
 > **NFTの所有者情報**\
@@ -308,7 +308,7 @@ NFT SEARCH画面上部のbscscanリンクを選択すると、\
 
 ここでは、NFTの全取引履歴や移動記録を確認できます。
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -319,7 +319,7 @@ bscscanで直接NFT情報を確認できます。
 
 1️⃣ **bscscan.com**にアクセスします。
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2️⃣ ゲーム内NFT情報画面から、\
 Extocium NFTのコントラクトアドレスをコピーし、bscscanの検索欄に入力します。\

@@ -14,7 +14,7 @@ These items are used **only as crafting materials** and cannot be obtained throu
 ※ Equipment destruction caused by Enchantment\
 is treated separately from [**equipment destruction via NPC**](../equipment-care/equipment-destruction.md).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Destruction rewards are **determined probabilistically for each piece of equipment**.\
 Please refer to the table below for details.
@@ -41,7 +41,7 @@ Please refer to the table below for details.
 
 ※ 인챈트로 인한 장비 파괴는 [**NPC를 통한 장비 파괴**](../equipment-care/equipment-destruction.md)**와는 구분**됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 파괴 보상은 **각 장비별로 확률이 다르게 적용**됩니다.\
 자세한 내용은 아래 표를 참고해 주세요.
@@ -68,7 +68,7 @@ Please refer to the table below for details.
 
 ※ エンチャントによる装備破壊は、[**NPCによる装備破壊とは区別**](../equipment-care/equipment-destruction.md)されます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 破壊報酬は **装備ごとに異なる確率**で設定されています。\
 詳細は以下の表をご確認ください。

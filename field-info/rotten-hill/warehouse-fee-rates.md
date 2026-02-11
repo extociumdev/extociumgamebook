@@ -20,12 +20,12 @@ or withdraw stored items whenever needed.
 
 * Talk to [**Porter Mebahel** ](npc-rotten-hill.md#porter-of-rotten-hill)to open the Warehouse.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select the **\[Sort] icon** on the left side of the Warehouse inventory\
   to automatically stack identical items.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -56,11 +56,11 @@ Please refer to the [**Warehouse Fee Rate table**](warehouse-fee-rates.md#wareho
 
 * [짐꾼 **메바헬**](npc-rotten-hill.md#porter-of-rotten-hill)과 대화하여 창고를 열 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 창고 인벤토리 좌측의 **\[정리하기] 아이콘**을 선택하면 동일한 아이템이 자동으로 합쳐집니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -92,12 +92,12 @@ Please refer to the [**Warehouse Fee Rate table**](warehouse-fee-rates.md#wareho
 
 * [**ポーター・メバヘル**](npc-rotten-hill.md#porter-of-rotten-hill)と会話して倉庫を開きます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 倉庫インベントリ左側&#x306E;**［整理］アイコン**を選択すると、\
   同じアイテムが自動的にまとめられます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

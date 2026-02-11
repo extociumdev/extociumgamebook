@@ -1,194 +1,321 @@
 ---
-description: 🛑 This information may be updated later than the game server data.
+description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
 # 1️⃣ Gold -> XTO
 
 {% tabs %}
 {% tab title="ENG" %}
-✅ **Total amount of XTO tokens that can be swapped within the server for the day:**&#x20;
+## 💱 Gold → XTO Swap Guide
 
-<mark style="color:purple;">**20,000 XTO**</mark>
+To exchange Gold for XTO, you must meet the conditions below.\
+Please review the requirements before proceeding with the swap.
 
-> The total swap amount of XTO tokens can vary depending on the situation and resets based on **UTC 15:00**. Even if there is remaining swap capacity for you, swapping may become unavailable if the server's total capacity is filled.
->
-> ❓The '[Abundance and Famine](/broken/pages/Qhjg37KTkXbdWtuaHjnM#eng)' system may operate depending on the total amount of gold -> XTO token swaps within the server.
+***
 
-#### ✅ **Conditions for swapping:**
+### ◾ Daily Server Swap Limit
 
-1️⃣ You must complete the weekly swap quest.&#x20;
+The total amount of XTO that can be swapped per day across the server is **20,000 XTO.**
 
-> 👉If you've completed the weekly swap quest, '**3/weekly**' swap opportunities will be created.
-
-2️⃣ Check your cumulative TP condition.
-
-> TP 1,000 or more: 50 XTO&#x20;
->
-> TP 50,000 or more: 100 XTO&#x20;
->
-> TP 150,000 or more: 250 XTO&#x20;
->
-> TP 200,000 or more: 350 XTO&#x20;
->
-> TP 300,000 or more: 500 XTO
->
-> ❓These values can vary and were last changed in October 2023.
-
-#### ✅ Swap
-
-👉To exchange gold for XTO, first [connect your MetaMask wallet](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#eng) in-game!
-
-👉Go to the town NPC '[Yeyilel](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)'.
+> * The server-wide swap limit resets daily at **UTC 15:00**.
+> * Even if you still have personal swap availability remaining,\
+>   you will not be able to swap once the server limit has been reached.
+> * The total limit may change depending on circumstances.
 
 {% hint style="info" %}
-❓You must meet the conditions listed at the top to be able to swap for XTO.
+※ The “[Abundance and Famine](../../system/abundance-and-famine.md)” system may be applied \
+based on the total Gold → XTO swap volume within the server.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉 Touch the XTO swap service button.
+### ◾ Personal Swap Requirements
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+#### 1️⃣ omplete the Weekly Swap Quest
 
-👉 Touch each panel to check the amount of gold and BNB fees you need to pay.
+<figure><img src="../../.gitbook/assets/swap.png" alt=""><figcaption></figcaption></figure>
+
+You must complete the [Weekly Swap Quest](../../contents/weekly-swap-quests.md).\
+Once completed, you will receive **3 swap attempts per week**.
+
+***
+
+#### 2️⃣ Check Your Accumulated TP
+
+The amount of XTO you can swap per day depends on your accumulated TP.
+
+| Accumulated TP                                | Available XTO Swap Amount |
+| --------------------------------------------- | ------------------------- |
+| 1,000 <mark style="color:$danger;">▲</mark>   | 50                        |
+| 50,000 <mark style="color:$danger;">▲</mark>  | 100                       |
+| 150,000 <mark style="color:$danger;">▲</mark> | 250                       |
+| 200,000 <mark style="color:$danger;">▲</mark> |  350                      |
+| 300,000 <mark style="color:$danger;">▲</mark> |  500                      |
+
+<p align="center"><sup>※ Values are subject to change.  The most recent adjustment was made in <strong>October 2023</strong>.</sup></p>
+
+***
+
+### ◾ How to Swap
+
+#### 1️⃣ Visit NPC YEYILEL
+
+Find the town NPC **YEYILEL** and select the **XTO Swap Service**.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓ The BNB fee can continuously change depending on the status of the BSC network, and the amount displayed on the game panel is arbitrary.&#x20;
-
-❓ The exact fee can be finally confirmed in the approval window of MetaMask.
+#### ※ You must meet the swap requirements listed above to proceed.
 {% endhint %}
 
-👉 Touch the 'Confirm' button to send an approval request to your MetaMask wallet. After reviewing all the transaction details in the MetaMask app, please touch the 'Confirm' button again.&#x20;
+***
 
-👉 Once the transaction is successfully completed, the gold will be swapped to XTO and stored in your wallet.
+#### 2️⃣ Review Swap Information
 
-🛑 [Having trouble with wallet connection? Please refer to this tab!](../../beginners-guide/wallet-connection/common-wallet-issues.md#eng)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+On the XTO Swap screen, you can review the following:
+
+* The amount of Gold to be paid
+* The amount of XTO to be received
+* Your remaining daily swapable token amount
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+After confirming the details, proceed if everything looks correct.
+
+***
+
+#### 3️⃣ Confirm the Transaction
+
+Once confirmed, the swap will proceed.
+
+{% hint style="success" %}
+Gold → XTO swaps can be completed **without connecting a wallet**.\
+However, to view the swapped XTO in an external wallet, you must [connect your wallet](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md).
+{% endhint %}
+
+***
+
+### ◾ Swap Complete
+
+Once the transaction is successfully completed, Gold will be exchanged for XTO.\
+If your wallet is connected, the XTO will be reflected in your connected wallet immediately.
+
+***
+
+### ◾ Having Wallet Connection Issues?
+
+[If you experience wallet connection errors, please refer to the Wallet Connection Guide page.](../../beginners-guide/wallet-connection/common-wallet-issues.md)
 {% endtab %}
 
 {% tab title="한국어" %}
-✅ **현재 하루 동안 서버 내에서 스왑 가능한 XTO 토큰 총량 :**&#x20;
+## 💱 Gold → XTO 스왑 가이드
 
-<mark style="color:purple;">**20,000 XTO**</mark>
+골드를 XTO로 교환하려면 아래 조건을 충족해야 합니다.\
+조건을 먼저 확인한 뒤 스왑을 진행해 주세요.
 
-> XTO 토큰 총 스왑량은 상황에 따라 변동 가능하며, **KST 00:00**를 기준으로 리셋됩니다. 나의 스왑 가능량이 남아있더라도, 서버 총량이 채워지면 스왑이 불가능 할 수 있습니다.
->
-> ❓서버 내에서 골드 -> XTO 토큰으로 스왑되는 총량에 따라 '[풍요와 기근](/broken/pages/Qhjg37KTkXbdWtuaHjnM#undefined-1)' 시스템이 작동할 수 있습니다.
+***
 
-#### ✅ 스왑 가능 조건 :
+### ◾ 서버 일일 스왑 총량 안내
 
-1️⃣[주간 스왑 퀘스트](../../contents/weekly-swap-quests.md)를 완료해야 합니다.
+현재 하루 동안 서버에서 스왑 가능한 XTO 총량은 **20,000 XTO** 입니다.
 
-> 👉주간 스왑 퀘스트를 완료했다면, '**주간 3회'**&#xC758; 스왑 가능 횟수가 생성됩니다.
-
-2️⃣자신의 누적 TP 조건을 확인하세요.
-
-> **'누적' TP에 따른 일일 XTO 스왑 가능량 (개인)**
->
-> TP 1,000 이상 : 50 XTO
->
-> TP 50,000이상 : 100 XTO&#x20;
->
-> TP 150,000 이상 : 250 XTO&#x20;
->
-> TP 200,000 이상 : 350 XTO&#x20;
->
-> TP 300,000 이상 : 500 XTO
->
-> ❓이 값은 변동 가능하며, 최종적으로 2023.10에 변경되었습니다.
-
-#### ✅ 스왑하기
-
-👉**골드를 XTO로 교환하려면, 우선 게임 내에서 '**[**메타마스크 지갑 연결**](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#undefined-1)**'을 해주세요!**
-
-👉마을 NPC인 '[예이렐](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)'을 찾아가세요.
+> * 서버 총 스왑량은 매일 **KST 00:00** 기준으로 **초기화**됩니다.
+> * 나의 개인 스왑 가능량이 남아 있어도, **서버 총량이 모두 소진되면 스왑할 수 없습니다**.
+> * 총량은 상황에 따라 변경될 수 있습니다.
 
 {% hint style="info" %}
-❓상단의 [스왑 가능 조건](gold-greater-than-xto.md#undefined-2)을 달성해야만 XTO로의 스왑이 가능합니다.
+※ 서버 내 골드 → XTO 스왑 총량에 따라 ‘[**풍요와 기근**](../../system/abundance-and-famine.md)’ 시스템이 적용될 수 있습니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉XTO 스왑 서비스 버튼을 터치하세요.
+### ◾ 개인 스왑 조건 안내
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+#### 1️⃣ 주간 스왑 퀘스트 완료
 
-👉각 패널을 터치하여 지불해야 할 골드와 BNB 수수료를 확인하세요.
+<figure><img src="../../.gitbook/assets/swap.png" alt=""><figcaption></figcaption></figure>
+
+[**주간 스왑 퀘스트**](../../contents/weekly-swap-quests.md)를 완료해야 합니다.\
+퀘스트 완료 시 **주간 3회 스왑 가능 횟수**가 생성됩니다.
+
+***
+
+#### 2️⃣ 누적 TP 조건 확인
+
+누적 TP에 따라 하루 동안 스왑 가능한 XTO 수량이 달라집니다.
+
+| 누적 TP                                         | 스왑 가능한 XTO 수량 |
+| --------------------------------------------- | ------------- |
+| 1,000 <mark style="color:$danger;">▲</mark>   | 50            |
+| 50,000 <mark style="color:$danger;">▲</mark>  | 100           |
+| 150,000 <mark style="color:$danger;">▲</mark> | 250           |
+| 200,000 <mark style="color:$danger;">▲</mark> |  350          |
+| 300,000 <mark style="color:$danger;">▲</mark> |  500          |
+
+<p align="center"><sup>※ 수치는 변경될 수 있으며, 최종 변경일은 2023년 10월입니다.</sup></p>
+
+***
+
+### ◾ 스왑 진행 방법
+
+#### 1️⃣ NPC 예이렐 방문
+
+마을 NPC **예이렐**을 찾아가 XTO 스왑 서비스를 선택합니다.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓BNB 수수료는 BSC 네트워크의 상태에따라 지속적으로 변경될 수 있으며, 게임 패널에 표시되는 양은 임의적인 숫자입니다.&#x20;
-
-❓정확한 수수료는 메타마스크의 승인 창에서 최종확인할 수 있습니다.
+#### ※ 위의 스왑 조건을 충족해야만 이용할 수 있습니다.
 {% endhint %}
 
-👉'승인' 버튼을 터치하면 메타마스크 지갑으로 승인 요청이 전달됩니다. 메타마스크 앱 내에서 거래에 관련된 모든 상세 정보를 확인하신 후, '승인' 버튼을 다시 한 번 터치해주세요.
+***
 
-👉거래가 정상적으로 완료되면 골드가 XTO로 스왑되어 당신의 지갑에 저장됩니다.&#x20;
+#### 2️⃣ 스왑 정보 확인
 
-🛑[지갑 연결에 문제가 생겼나요? 이 탭을 참조해주세요!](../../beginners-guide/wallet-connection/common-wallet-issues.md)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+XTO 스왑 서비스 화면에서 다음 정보를 확인할 수 있습니다.
+
+* 지불할 골드 수량
+* 수령할 XTO 수량
+* 오늘 내가 스왑할 수 있는 남은 토큰 수량
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+표시된 내용을 확인한 후 문제가 없다면 다음 단계로 진행해 주세요.
+
+***
+
+#### 3️⃣ 거래 승인
+
+확인을 완료하면 스왑이 진행됩니다.
+
+{% hint style="success" %}
+골드 → XTO 스왑은 지갑을 연결하지 않아도 가능합니다.\
+다만, 스왑된 XTO를 외부 지갑에서 확인하려면 [지갑을 연결](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md)해야 합니다.
+{% endhint %}
+
+***
+
+### ◾ 스왑 완료
+
+거래가 정상적으로 완료되면 골드는 XTO로 교환됩니다.\
+지갑이 연결되어 있다면 XTO는 연결된 지갑에 바로 반영됩니다.
+
+***
+
+### ◾ 지갑 연결 문제가 발생했나요?
+
+[지갑 연결 오류가 발생한 경우, 지갑 연결 안내 페이지를 참고해 주세요.](../../beginners-guide/wallet-connection/common-wallet-issues.md)
 {% endtab %}
 
 {% tab title="日本語" %}
-✅ **本日サーバー内で交換可能なXTOトークンの合計量：**
+## 💱 Gold → XTO スワップガイド
 
-<mark style="color:purple;">**20,000 XTO**</mark>
+ゴールドをXTOに交換するには、以下の条件を満たす必要があります。\
+事前に条件を確認してからスワップを行ってください。
 
-> XTOトークンの合計交換量は状況に応じて変動し、**KST 00:00**を基準にリセットされます。個人の交換可能量が残っていても、サーバーの合計量が埋まると交換ができなくなる場合があります。&#x20;
->
-> ❓サーバー内でのゴールド -> XTOトークンへの交換総量に応じて、「豊作と飢饉」システムが作動する可能性があります。
+***
 
-#### ✅ **交換可能条件：**
+### ◾ サーバー日次スワップ総量案内
 
-1️⃣週間交換クエストを完了する必要があります。&#x20;
+現在、1日にサーバー全体でスワップ可能なXTOの総量は **20,000 XTO** です。
 
-> 👉週間スワップクエストを完了した場合、「週間3回」のスワップ可能回数が生成されます。
-
-2️⃣自身の累計TP条件を確認してください。
-
-> 「累計」TPに基づく日刊XTO交換可能量（個人）：
->
-> TP 1,000以上：50 XTO&#x20;
->
-> TP 50,000以上：100 XTO&#x20;
->
-> TP 150,000以上：250 XTO&#x20;
->
-> TP 200,000以上：350 XTO&#x20;
->
-> TP 300,000以上：500 XTO
->
-> ❓これらの値は変動可能で、最後の変更は2023年10月に行われました。
-
-#### ✅ スワップ
-
-👉ゴールドをXTOに交換するには、まずゲーム内で[MetaMask](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md#ri-ben-yu)ウォレットを接続してください！
-
-👉町のNPC「[イェレル](../../field-info/rotten-hill/npc-rotten-hill.md#yeyilel-yeireru)」を探してください。
+> * サーバー全体のスワップ総量は、毎日 **KST 00:00** を基準にリセットされます。
+> * 個人のスワップ可能量が残っていても、\
+>   サーバー総量がすべて消化された場合はスワップできません。
+> * 総量は状況に応じて変更される場合があります。
 
 {% hint style="info" %}
-❓上部に記載されたスワップ可能条件を満たす必要があります。
+※ サーバー内のGold → XTOスワップ総量に応じて [**豊穣と飢餓**](../../system/abundance-and-famine.md) システムが適用される場合があります。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+***
 
-👉XTOスワップサービスボタンをタッチしてください。
+### ◾ 個人スワップ条件案内
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+#### 1️⃣ **週間スワップクエスト** 完了
 
-👉各パネルをタッチして、支払う必要のあるゴールドとBNB手数料を確認してください。
+<figure><img src="../../.gitbook/assets/swap.png" alt=""><figcaption></figcaption></figure>
+
+[**週間スワップクエスト**](../../contents/weekly-swap-quests.md) を完了する必要があります。\
+クエストを完了すると、**週3回のスワップ可能回数**が付与されます。
+
+***
+
+#### 2️⃣ 累積TP条件の確認
+
+累積TPに応じて、1日にスワップ可能なXTOの数量が異なります。
+
+| 累積TP                                          | スワップ可能XTO数量 |
+| --------------------------------------------- | ----------- |
+| 1,000 <mark style="color:$danger;">▲</mark>   | 50          |
+| 50,000 <mark style="color:$danger;">▲</mark>  | 100         |
+| 150,000 <mark style="color:$danger;">▲</mark> | 250         |
+| 200,000 <mark style="color:$danger;">▲</mark> |  350        |
+| 300,000 <mark style="color:$danger;">▲</mark> |  500        |
+
+<p align="center"><sup>※ 数値は変更される場合があります。最終変更日は <strong>2023年10月</strong> です。</sup></p>
+
+***
+
+### ◾ スワップ進行方法
+
+#### 1️⃣ NPC イェイレル訪問
+
+町のNPC **イェイレル** を訪れ、XTOスワップサービスを選択します。
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-❓ BNB手数料はBSCネットワークの状況により継続的に変更される可能性があり、ゲームパネルに表示される量は任意の数字です。&#x20;
-
-❓ 正確な手数料はMetaMaskの承認ウィンドウで最終確認が可能です。
+#### ※ 上記のスワップ条件を満たしている場合のみ利用できます。
 {% endhint %}
 
-👉 「承認」ボタンをタッチすると、MetaMaskウォレットへ承認リクエストが送信されます。MetaMaskアプリ内で取引に関連するすべての詳細情報を確認した後、もう一度「承認」ボタンをタッチしてください。&#x20;
+***
 
-👉 取引が正常に完了すると、ゴールドがXTOにスワップされてあなたのウォレットに保存されます。
+#### 2️⃣ スワップ情報の確認
 
-🛑[ウォレット接続に問題がありますか？このタブを参照してください！](../../growth/heroes/stats/elemental-bonus-damage.md#ri-ben-yu)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+XTOスワップ画面では、次の内容を確認できます。
+
+* 支払うゴールド数量
+* 受け取るXTO数量
+* 本日スワップ可能な残りトークン数量
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+表示内容を確認し、問題がなければ次の段階へ進んでください。
+
+***
+
+#### 3️⃣ 取引承認
+
+確認が完了すると、スワップが進行します。
+
+{% hint style="success" %}
+Gold → XTOスワップは **ウォレットを接続** していなくても実行可能です。
+
+ただし、\
+スワップされたXTOを外部ウォレットで確認するには [**ウォレットを接続**](../../beginners-guide/wallet-connection/wallet-setup/connect-your-wallet-to-extocium.md) する必要があります。
+{% endhint %}
+
+***
+
+### ◾ スワップ完了
+
+取引が正常に完了すると、ゴールドはXTOに交換されます。\
+ウォレットが接続されている場合、XTOは接続済みウォレットに即時反映されます。
+
+***
+
+### ◾ ウォレット接続に問題がありますか？
+
+[ウォレット接続エラーが発生した場合は、**ウォレット接続案内ページ**をご確認ください。](../../beginners-guide/wallet-connection/common-wallet-issues.md)
 {% endtab %}
 {% endtabs %}
 
-
+<p align="right"><sup><em>※ This guide was written based on the game status as of February 11, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
 

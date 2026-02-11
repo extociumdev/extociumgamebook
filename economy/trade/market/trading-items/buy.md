@@ -23,7 +23,7 @@ through the in-game market.
 
 2️⃣ From the Dashboard, select the **Market** button.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -31,11 +31,11 @@ through the in-game market.
 
 1️⃣ On the left side of the market, select the **Items** button.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Choose the category you want: Materials / Potions / Scrolls / Runes
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ Use the sorting options next to the search bar to sort by:\
 Recently Listed / Lowest Price / Highest Price
@@ -117,7 +117,7 @@ Some items have a limited claim period. Make sure to claim them within the avail
 
 2️⃣ 대시보드에서 **거래소** 버튼을 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -125,11 +125,11 @@ Some items have a limited claim period. Make sure to claim them within the avail
 
 1️⃣ 거래소 좌측에서 **아이템** 버튼을 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 재료 / 포션 / 주문서 / 룬 중 원하는 카테고리를 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 검색창 옆 정렬 옵션을 이용해 최근 등록순 / 낮은 가격순 / 높은 가격순으로 정렬할 수 있습니다.
 
@@ -210,7 +210,7 @@ Some items have a limited claim period. Make sure to claim them within the avail
 
 2️⃣ ダッシュボードで**マーケット**ボタンを選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -218,11 +218,11 @@ Some items have a limited claim period. Make sure to claim them within the avail
 
 1️⃣ マーケット左側の**アイテム**ボタンを選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 以下のカテゴリから、購入したいものを選びます。素材 / ポーション / スクロール / ルーン
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 検索欄横の並び替えオプションを使って、\
 最新登録順 / 価格が安い順 / 価格が高い順 に並び替えできます。

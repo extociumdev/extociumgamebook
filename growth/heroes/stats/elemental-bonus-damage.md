@@ -31,7 +31,7 @@ Based on these relationships, **Elemental Bonus Damage (EBD)** is applied.
 
 * You can check a target’s element in the **Target Panel**.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * During combat,\
   an **arrow icon displayed above the target’s head** allows you to quickly identify\
@@ -44,7 +44,7 @@ Based on these relationships, **Elemental Bonus Damage (EBD)** is applied.
 * **Green Arrow&#x20;**<mark style="color:green;">**▲**</mark>\
   → You deal **12% additional damage** to the target.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Red Arrow&#x20;**<mark style="color:red;">**▼**</mark>\
   → The target deals **12% additional damage** to you.
@@ -119,7 +119,7 @@ even with the same stats.\
 
 * 타겟의 속성은 **타겟 패널**에서 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 전투 중에는 타겟의 머리 위에 표시되는 **화살표 아이콘**을 통해\
   상성 관계를 직관적으로 확인할 수 있습니다.
@@ -131,7 +131,7 @@ even with the same stats.\
 * **녹색 화살표&#x20;**<mark style="color:green;">**▲**</mark>\
   → 내가 해당 타겟에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **붉은 화살표&#x20;**<mark style="color:red;">**▼**</mark>\
   → 해당 타겟이 나에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
@@ -202,7 +202,7 @@ even with the same stats.\
 
 * ターゲットの属性は、**ターゲットパネル**から確認できます。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 戦闘中は、\
   ターゲットの頭上に表示される **矢印アイコン** によって、\
@@ -215,7 +215,7 @@ even with the same stats.\
 * **緑の矢印&#x20;**<mark style="color:green;">**▲**</mark>\
   → 対象に **12％の追加ダメージ** を与えられる状態です。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **赤の矢印&#x20;**<mark style="color:red;">**▼**</mark>\
   → 対象から **12％の追加ダメージ** を受ける状態です。

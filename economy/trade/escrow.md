@@ -45,19 +45,19 @@ Escrow trades proceed in the following order:
 1️⃣ While holding an **Equipment Trade Ticket**, go to **Mailbox > Escrow**.\
 2️⃣ Select the **Send** button at the bottom right.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ Select the equipment to send. <sup><mark style="color:$danger;">**※ NFT equipment trading is not supported at this time.**<mark style="color:$danger;"></sup>\
 4️⃣ Enter the trading partner’s **in-game nickname** accurately.\
 5️⃣ Enter the requested **payment amount (Gold)**. \
 <sup><mark style="color:$danger;">※ Currently, only Gold is supported. Payment requests using XTO and BNB will be added in future updates.<mark style="color:$danger;"></sup>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ Select **Send** to complete the payment request.\
 At this point, **1 Equipment Trade Ticket** is consumed.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -153,17 +153,17 @@ You can obtain an Equipment Trade Ticket using the methods below.
 1️⃣ **장비 거래권**을 보유한 상태에서 **우편함 > 에스크로** 탭으로 이동합니다.\
 2️⃣ 우측 하단의 **보내기** 버튼을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 보낼 **장비**를 선택합니다. <sup><mark style="color:$danger;">※ 현재는<mark style="color:$danger;"></sup> <sup><mark style="color:$danger;"> </sup><sup><mark style="color:$danger;">**NFT 장비 거래는 지원하지 않습니다.**<mark style="color:$danger;"></sup>\
 4️⃣ 거래할 상대의 **게임 닉네임을 정확히 입력**합니다.\
 5️⃣ 요청할 **대금(골드)**&#xC744; 입력합니다. <sup><mark style="color:$danger;">※ 현재는 골드만 지원되며, 추후 XTO 및 BNB 대금 요청 기능이 추가될 예정입니다.<mark style="color:$danger;"></sup>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ **보내기** 버튼을 선택하면, 대금 요청이 완료되고 **장비 거래권 1장**이 소모됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -257,18 +257,18 @@ You can obtain an Equipment Trade Ticket using the methods below.
 1️⃣ **装備取引券**を所持した状態で、**メールボックス ＞ エスクロー** タブへ移動します。\
 2️⃣ 右下の **送信** ボタンを選択します。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 送信する**装備**を選択します。<sup><mark style="color:$danger;">※ 現在、<mark style="color:$danger;"></sup><sup><mark style="color:$danger;">**NFT装備の取引は対応していません。**<mark style="color:$danger;"></sup>\
 4️⃣ 取引相手の**ゲーム内ニックネーム**を正確に入力します。\
 5️⃣ 請求する**代金（ゴールド）**&#x3092;入力します。\
 <sup><mark style="color:$danger;">※ 現在はゴールドのみ対応しており、今後、XTOおよびBNBでの代金請求機能が追加される予定です。<mark style="color:$danger;"></sup>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ **送信**ボタンを選択すると、代金リクエストが完了し、**装備取引券が1枚消費**されます。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

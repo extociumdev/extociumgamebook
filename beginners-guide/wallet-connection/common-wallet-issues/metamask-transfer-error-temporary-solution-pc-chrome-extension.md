@@ -15,7 +15,7 @@ send it via **MetaMask Chrome Extension on PC** as a workaround.<br>
 * Install the **MetaMask Chrome extension** from the official website:
   * [https://metamask.io/ko/download](https://metamask.io/ko/download)
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click the fox icon (top-right in Chrome) → follow the steps to connect your wallet.
 * Open the wallet → go to the **NFT tab** → select **BNB Chain**.
@@ -24,7 +24,7 @@ send it via **MetaMask Chrome Extension on PC** as a workaround.<br>
 
 * In the NFT tab, tap **⋮ (three dots)** → **+ Import NFT**.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Enter the following:
   * **EXTOCIUM NFT Contract**: `0xcbBb5398d976B056812F7F16F3EfF0b9DB8664b5`
@@ -69,7 +69,7 @@ send it via **MetaMask Chrome Extension on PC** as a workaround.<br>
 * 메타마스크 **공식 홈페이지**에서 **Chrome 확장 프로그램**을 설치합니다.
   * [https://metamask.io/ko/download](https://metamask.io/ko/download)
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 크롬 우측 상단 **여우 아이콘** → 안내에 따라 **지갑 연동**합니다.
 * 지갑 접속 후 **NFT 탭**에서 **BNB Chain**을 선택합니다.
@@ -78,7 +78,7 @@ send it via **MetaMask Chrome Extension on PC** as a workaround.<br>
 
 * NFT 탭 우측 **⋮(점 3개)** → **+ NFT 가져오기**를 실행합니다.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 계약 주소에 아래를 입력합니다.
 
@@ -127,7 +127,7 @@ MetaMaskアプリでNFT送信時に **\[確認]（Review）ボタンのみ表示
 * 公式サイトから \*\*MetaMask（Chrome拡張）\*\*をインストールします：
   * [https://metamask.io/ko/download](https://metamask.io/ko/download)
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Chrome右上の**キツネアイコン** → 案内に従って**ウォレット連携**します。
 * ウォレットを開く → **NFT**タブ → **BNB Chain**を選択します。
@@ -136,7 +136,7 @@ MetaMaskアプリでNFT送信時に **\[確認]（Review）ボタンのみ表示
 
 * NFTタブ右側の **⋮（3点）** → **+ NFTをインポート** を実行します。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 以下を入力します：
   * **EXTOCIUM NFT Contract**: `0xcbBb5398d976B056812F7F16F3EfF0b9DB8664b5`
