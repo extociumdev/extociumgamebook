@@ -127,4 +127,4 @@ GEM、XTO、BNBのどの通貨を使用しても、SHOPでの購入金額に応�
 | BNB Usage                                                              | 0.00141        | 1            |
 | XTO Usage                                                              | 120            | 1            |
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of February 11, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of February 12, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
