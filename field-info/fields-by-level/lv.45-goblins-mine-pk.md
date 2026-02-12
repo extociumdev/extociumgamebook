@@ -1,19 +1,5 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🌋 \~Lv.45 Goblin's Mine (PK)

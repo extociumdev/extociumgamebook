@@ -3,23 +3,6 @@ description: 🛑 Information on this page may differ from the current in-game d
 cover: >-
   ../../../.gitbook/assets/extocium_Medieval_fantasy_interior_of_a_barracks_made_of_clot_7cb13ece-4230-4ce3-953f-1b8767647490_3.png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🌀 Elena
