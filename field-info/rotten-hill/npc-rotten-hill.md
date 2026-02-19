@@ -1,5 +1,21 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # 😎 NPC - Rotten Hill
@@ -44,6 +60,8 @@ and sell what you have to earn Gold for your next journey.
 
 
 
+***
+
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_03.png" alt="" width="232"><figcaption></figcaption></figure>
 
 ## 🏦 _**YEYILEL -** Banker of Rotten Hill_
@@ -85,6 +103,8 @@ Manage your assets safely and prepare for your next journey  with the help of YE
 {% endtabs %}
 
 
+
+***
 
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_11.png" alt="" width="300"><figcaption></figcaption></figure>
 
@@ -130,6 +150,8 @@ Storage services require a fee.
 
 
 
+***
+
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_08 (2).png" alt="" width="300"><figcaption></figcaption></figure>
 
 ## ✉️ _**GILGAMESH -** Collector of Abandoned Letters_
@@ -165,6 +187,8 @@ Bring him letters dropped by monsters, and he will purchase them for a fair pric
 
 
 
+***
+
 <figure><img src="../../.gitbook/assets/KakaoTalk_20230824_120313487_09.png" alt="" width="195"><figcaption></figcaption></figure>
 
 ## 🎰 _**HERMAION -** Roulette Dealer_
@@ -177,6 +201,10 @@ Bring him letters dropped by monsters, and he will purchase them for a fair pric
 
 HERMAION offers a roulette service for adventurers.\
 Spend Gold and Arena Coins to spin the wheel and test your luck.
+
+{% content-ref url="../../gamemode/1vs1-arena/arena-roulette.md" %}
+[arena-roulette.md](../../gamemode/1vs1-arena/arena-roulette.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -186,6 +214,10 @@ Spend Gold and Arena Coins to spin the wheel and test your luck.
 
 헤르마이온은 모험가를 위한 룰렛 서비스를 제공합니다.\
 골드와 아레나 코인을 사용해 룰렛을 돌리고, 행운을 시험해 보세요.
+
+{% content-ref url="../../gamemode/1vs1-arena/arena-roulette.md" %}
+[arena-roulette.md](../../gamemode/1vs1-arena/arena-roulette.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -195,10 +227,16 @@ Spend Gold and Arena Coins to spin the wheel and test your luck.
 
 ヘルメイオンは、冒険者向けのルーレットサービスを提供しています。\
 ゴールドとアリーナコインを使用して ルーレットを回し、運試しをしてみましょう。
+
+{% content-ref url="../../gamemode/1vs1-arena/arena-roulette.md" %}
+[arena-roulette.md](../../gamemode/1vs1-arena/arena-roulette.md)
+{% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
 
 
+
+***
 
 <figure><img src="../../.gitbook/assets/NPC_Niberius.png" alt="" width="282"><figcaption></figcaption></figure>
 
