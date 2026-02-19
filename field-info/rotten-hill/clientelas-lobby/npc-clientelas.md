@@ -1,5 +1,21 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # 😎 NPC - Clientelas
@@ -60,6 +76,8 @@ and enjoy a wider range of community content.
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ***
 
@@ -126,6 +144,8 @@ making it a valuable system for your adventure.
 {% endtabs %}
 
 
+
+***
 
 ## ✨ _Pahaliah - Club Enhancement Coordinator_&#x20;
 

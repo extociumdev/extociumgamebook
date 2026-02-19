@@ -1,5 +1,21 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # 😎 NPC - Magic Shop
@@ -62,6 +78,8 @@ sometimes leaves behind unexpected rewards.
 {% endtab %}
 {% endtabs %}
 
+
+
 ***
 
 <figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_05.png" alt="" width="205"><figcaption></figcaption></figure>
@@ -123,6 +141,8 @@ If you’re looking to start fresh with a weapon, Barbatos is the one to visit.
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ***
 

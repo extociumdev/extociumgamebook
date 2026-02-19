@@ -64,6 +64,8 @@ Seheiah will open the path forward.
 {% endtab %}
 {% endtabs %}
 
+
+
 ***
 
 <figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_06.png" alt="" width="205"><figcaption></figcaption></figure>
@@ -127,6 +129,8 @@ If you want to take your heroes to the next level, Chavakiah is the one to visit
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ***
 
@@ -201,6 +205,8 @@ Lelahel is the one to seek.
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ***
 
