@@ -53,6 +53,7 @@ Each time slot starts an **individual match**.
 To enter the 1vs1 Arena, the following conditions must be met:
 
 * **TP 1,000 or higher**
+* **Level 18 or higher**
 * **Daily entry limit: 4 times per account**
 * Entry limits are applied on an **account basis**.
 
@@ -146,6 +147,7 @@ If no suitable opponent is found, a **bot match** will be initiated automaticall
 1vs1 아레나에 참여하려면 아래 조건을 충족해야 합니다.
 
 * **TP 1,000 이상**
+* **레벨 18 이상**
 * **계정당 일일 입장 횟수: 4회**
 * 입장 횟수는 계정 기준으로 적용됩니다.
 
@@ -234,6 +236,7 @@ If no suitable opponent is found, a **bot match** will be initiated automaticall
 1vs1アリーナに参加するには、以下の条件を満たす必要があります。
 
 * **TP 1,000以上**
+* **レベル18以上**
 * **1アカウントあたりの1日入場回数：4回**
 
 ※ 入場回数は **アカウント単位** で適用されます。
