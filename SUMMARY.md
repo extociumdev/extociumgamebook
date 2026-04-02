@@ -59,6 +59,8 @@
   * [🎖️ Succession Heroes](growth/heroes/succession-heroes/README.md)
     * [❤️‍🔥 Indra](growth/heroes/succession-heroes/indra.md)
     * [🌊 Nanna](growth/heroes/succession-heroes/nanna.md)
+    * [🪷 Lakshmi](growth/heroes/succession-heroes/lakshmi.md)
+    * [🌑 Asura](growth/heroes/succession-heroes/asura.md)
 * [❤️‍🔥 Hero Ascension](growth/hero-ascension/README.md)
   * [👬 Synthesis](growth/hero-ascension/synthesis.md)
   * [🐉 Succession](growth/hero-ascension/succession/README.md)
