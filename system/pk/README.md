@@ -111,16 +111,15 @@ When defeated through PK,\
 **only the gold and items stored in the Vault of Time are dropped**,\
 not the contents of your inventory.
 
+{% hint style="info" %}
+⛔ Please note: In the [PK Leverage Zone](pk-leverage-bonus.md#pk-leverage-bonus), gold stored in your inventory may be dropped.
+{% endhint %}
+
 This design reduces excessive loss while preserving the tension and risk of field combat.
 
 👉 For more details, please refer to the **\[**[**Vault of Time Guide**](../vault-of-time.md)**]**.
 
 ***
-
-🔥&#x20;
-
-> **In EXTOCIUM, PK is not the exception — it is the default.**\
-> Survival is not about running away, but about **understanding the system**.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -221,16 +220,15 @@ PK 레벨을 감소시키는 방법은 다음과 같습니다.
 PK로 인해 사망할 경우, 플레이어의 인벤토리가 아닌\
 **시간의 금고(Vault of Time)에 보관된 골드와 아이템만 드랍**됩니다.
 
+{% hint style="info" %}
+⛔단,[ PK 레버리지 존](pk-leverage-bonus.md#pk) 에서는 인벤토리에 보관중인 골드가 드랍될 수 있습니다.
+{% endhint %}
+
 이는 PK로 인한 과도한 손실을 방지하면서도, 필드 전투의 긴장감과 리스크를 유지하기 위한 설계입니다.
 
 👉 시간의 금고 시스템에 대한 자세한 내용은 **\[**[**시간의 금고 가이드**](../vault-of-time.md)**]**&#xB97C; 참고해 주세요.
 
 ***
-
-🔥&#x20;
-
-> **EXTOCIUM에서 PK는 예외가 아니라 기본입니다.**\
-> **살아남는 방법은 도망이 아니라, 이해입니다.**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -337,17 +335,16 @@ PKレベルは以下の方法で減少させることができます。
 PKによって死亡した場合、プレイヤーのインベントリではなく、\
 **時間の金庫（Vault of Time）に保管された ゴールドとアイテムのみがドロップ**されます。
 
+{% hint style="info" %}
+⛔ ご注意ください：[PKレバレッジゾーンで](pk-leverage-bonus.md#pkrebarejjibnasu)は、インベントリに保管しているゴールドをドロップする場合があります。
+{% endhint %}
+
 これは過度な損失を防ぎつつ、\
 フィールド戦闘の緊張感とリスクを維持するための設計です。
 
 👉 詳細については［[**時間の金庫ガイド**](../vault-of-time.md)］をご確認ください。
 
 ***
-
-🔥&#x20;
-
-> **EXTOCIUMにおいて、PKは例外ではなく基本です。**\
-> 生き残る方法は、逃げることではありません。**この世界を理解することです。**
 {% endtab %}
 {% endtabs %}
 
