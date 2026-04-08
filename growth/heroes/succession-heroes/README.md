@@ -47,6 +47,14 @@ even the same Succession Hero can exhibit different play styles and combat flows
 [nanna.md](nanna.md)
 {% endcontent-ref %}
 
+{% content-ref url="lakshmi.md" %}
+[lakshmi.md](lakshmi.md)
+{% endcontent-ref %}
+
+{% content-ref url="asura.md" %}
+[asura.md](asura.md)
+{% endcontent-ref %}
+
 ***
 
 ✨ Succession Heroes expand the core combat system of **EXTOCIUM**.\
@@ -89,6 +97,14 @@ even the same Succession Hero can exhibit different play styles and combat flows
 
 {% content-ref url="nanna.md" %}
 [nanna.md](nanna.md)
+{% endcontent-ref %}
+
+{% content-ref url="lakshmi.md" %}
+[lakshmi.md](lakshmi.md)
+{% endcontent-ref %}
+
+{% content-ref url="asura.md" %}
+[asura.md](asura.md)
 {% endcontent-ref %}
 
 ***
@@ -138,6 +154,14 @@ even the same Succession Hero can exhibit different play styles and combat flows
 [nanna.md](nanna.md)
 {% endcontent-ref %}
 
+{% content-ref url="lakshmi.md" %}
+[lakshmi.md](lakshmi.md)
+{% endcontent-ref %}
+
+{% content-ref url="asura.md" %}
+[asura.md](asura.md)
+{% endcontent-ref %}
+
 ***
 
 ✨ 継承ヒーローは、**EXTOCIUM戦闘システムを拡張するコンテンツ**です。\
@@ -145,4 +169,4 @@ even the same Succession Hero can exhibit different play styles and combat flows
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of December 30, 2025,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of April 08, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
