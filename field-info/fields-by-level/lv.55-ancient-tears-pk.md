@@ -57,7 +57,7 @@ the ancient secrets sleeping deep beneath the water.
 
 🍀 **Item Drop Information :**
 
-<table><thead><tr><th width="90">Lv.</th><th>Monster</th><th>Drop1</th><th>Drop2</th><th>Drop3</th><th>Drop4</th></tr></thead><tbody><tr><td>51</td><td>Bubble<br>(FORCE)</td><td>Soul Bubble</td><td>FlintCotton woolFlint</td><td>Sand</td><td>Water Crystal</td></tr><tr><td>52</td><td>Green Sharit<br>(LEAF)</td><td>Sharit’s Tooth</td><td>Sharit’s Claw</td><td>Water Crystal</td><td>Powder of blessing</td></tr><tr><td>53</td><td>Red Sharit<br>(FIRE)</td><td>Sharit’s Tooth</td><td>Sharit’s Claw</td><td>Water Crystal</td><td>Cotton wool</td></tr><tr><td>54</td><td>Green Ziz<br>(STONE)</td><td>Ziz’s Scale</td><td>Ziz’s Tear</td><td>Water Crystal</td><td>Powder of blessing</td></tr><tr><td>55</td><td>Red Ziz<br>(LIGHT)</td><td>Ziz’s Scale</td><td>Ziz’s Tear</td><td>Water Crystal</td><td>Snow White</td></tr></tbody></table>
+<table><thead><tr><th width="90">Lv.</th><th>Monster</th><th>Drop1</th><th>Drop2</th><th>Drop3</th><th>Drop4</th><th></th></tr></thead><tbody><tr><td>51</td><td>Bubble<br>(FORCE)</td><td>Soul Bubble</td><td>FlintCotton woolFlint</td><td>Sand</td><td>Water Crystal</td><td>-</td></tr><tr><td>52</td><td>Green Sharit<br>(LEAF)</td><td>Sharit’s Tooth</td><td>Sharit’s Claw</td><td>Water Crystal</td><td>Powder of blessing</td><td>Dragon-Blood Ice Flower</td></tr><tr><td>53</td><td>Red Sharit<br>(FIRE)</td><td>Sharit’s Tooth</td><td>Sharit’s Claw</td><td>Water Crystal</td><td>Cotton wool</td><td>-</td></tr><tr><td>54</td><td>Green Ziz<br>(STONE)</td><td>Ziz’s Scale</td><td>Ziz’s Tear</td><td>Water Crystal</td><td>Powder of blessing</td><td>Dragon-Blood Ice Flower</td></tr><tr><td>55</td><td>Red Ziz<br>(LIGHT)</td><td>Ziz’s Scale</td><td>Ziz’s Tear</td><td>Water Crystal</td><td>Snow White</td><td>-</td></tr></tbody></table>
 
 🍀**Gathered items :** Tears of the Ancients, Constellation Stone Tablet
 
@@ -129,7 +129,7 @@ At an extremely low probability, the following weapon items may be dropped.
 
 🍀 **아이템 드랍 정보 :**
 
-<table><thead><tr><th width="87">레벨</th><th>몬스터</th><th>드랍1</th><th>드랍2</th><th>드랍3</th><th>드랍4</th></tr></thead><tbody><tr><td>51</td><td>버블<br>(FORCE)</td><td>혼의 거품</td><td>목화솜</td><td>백설화</td><td>물의 결정</td></tr><tr><td>52</td><td>그린 샤리트<br>(LEAF)</td><td>샤리트의 이빨</td><td>샤리트의 발톱</td><td>물의 결정</td><td>축복의 가루</td></tr><tr><td>53</td><td>레드 샤리트<br>(FIRE)</td><td>샤리트의 이빨</td><td>샤리트의 발톱</td><td>물의 결정</td><td>목화솜</td></tr><tr><td>54</td><td>그린 지즈<br>(STONE)</td><td>지즈의 비늘</td><td>지즈의 눈물</td><td>물의 결정</td><td>축복의 가루</td></tr><tr><td>55</td><td>레드 지즈<br>(LIGHT)</td><td>지즈의 비늘</td><td>지즈의 눈물</td><td>물의 결정</td><td>백설화</td></tr></tbody></table>
+<table><thead><tr><th width="87">레벨</th><th width="128">몬스터</th><th>드랍1</th><th>드랍2</th><th>드랍3</th><th>드랍4</th><th></th></tr></thead><tbody><tr><td>51</td><td>버블<br>(FORCE)</td><td>혼의 거품</td><td>목화솜</td><td>백설화</td><td>물의 결정</td><td>-</td></tr><tr><td>52</td><td>그린 샤리트<br>(LEAF)</td><td>샤리트의 이빨</td><td>샤리트의 발톱</td><td>물의 결정</td><td>축복의 가루</td><td>용혈빙화</td></tr><tr><td>53</td><td>레드 샤리트<br>(FIRE)</td><td>샤리트의 이빨</td><td>샤리트의 발톱</td><td>물의 결정</td><td>목화솜</td><td>-</td></tr><tr><td>54</td><td>그린 지즈<br>(STONE)</td><td>지즈의 비늘</td><td>지즈의 눈물</td><td>물의 결정</td><td>축복의 가루</td><td>용혈빙화</td></tr><tr><td>55</td><td>레드 지즈<br>(LIGHT)</td><td>지즈의 비늘</td><td>지즈의 눈물</td><td>물의 결정</td><td>백설화</td><td>-</td></tr></tbody></table>
 
 🍀**채집 품목 :** 고대의 눈물, 별자리 석판
 
@@ -199,7 +199,7 @@ At an extremely low probability, the following weapon items may be dropped.
 
 🍀 **アイテムドロップ情報：**
 
-<table data-full-width="true"><thead><tr><th width="77">レベル</th><th width="125">モンスター</th><th width="148">ドロップ1</th><th width="126">ドロップ2</th><th width="104">ドロップ3</th><th>ドロップ4</th></tr></thead><tbody><tr><td>51</td><td>バブル<br>(FORCE)</td><td>魂の泡</td><td>綿</td><td>白雪花</td><td>水の結晶</td></tr><tr><td>52</td><td>グリーンシャリット<br>(LEAF)</td><td>シャリットの歯</td><td>シャリットの爪</td><td>水の結晶</td><td>祝福の粉</td></tr><tr><td>53</td><td>レッド·シャリット<br>(FIRE)</td><td>シャリットの歯</td><td>シャリットの爪</td><td>水の結晶</td><td>綿</td></tr><tr><td>54</td><td>グリーン·ジーズ<br>(STONE)</td><td>ジーズのうろこ</td><td>ジズの涙</td><td>水の結晶</td><td>祝福の粉</td></tr><tr><td>55</td><td>レッド·ジーズ<br>(LIGHT)</td><td>ジーズのうろこ</td><td>ジズの涙</td><td>水の結晶</td><td>白雪花</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="77">レベル</th><th width="125">モンスター</th><th width="148">ドロップ1</th><th width="126">ドロップ2</th><th width="104">ドロップ3</th><th>ドロップ4</th><th></th></tr></thead><tbody><tr><td>51</td><td>バブル<br>(FORCE)</td><td>魂の泡</td><td>綿</td><td>白雪花</td><td>水の結晶</td><td>-</td></tr><tr><td>52</td><td>グリーンシャリット<br>(LEAF)</td><td>シャリットの歯</td><td>シャリットの爪</td><td>水の結晶</td><td>祝福の粉</td><td>竜血氷花</td></tr><tr><td>53</td><td>レッド·シャリット<br>(FIRE)</td><td>シャリットの歯</td><td>シャリットの爪</td><td>水の結晶</td><td>綿</td><td>-</td></tr><tr><td>54</td><td>グリーン·ジーズ<br>(STONE)</td><td>ジーズのうろこ</td><td>ジズの涙</td><td>水の結晶</td><td>祝福の粉</td><td>竜血氷花</td></tr><tr><td>55</td><td>レッド·ジーズ<br>(LIGHT)</td><td>ジーズのうろこ</td><td>ジズの涙</td><td>水の結晶</td><td>白雪花</td><td>-</td></tr></tbody></table>
 
 🍀**採集品目 :** 古代の涙、星座石板
 
