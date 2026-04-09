@@ -6,7 +6,184 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
+**❓This guide explains how Buffs, Debuffs, Status Effects, and Rune Debuffs are calculated in a simple way.**
 
+### ◾Understanding Buffs
+
+* Buff types are categories of effects.\
+  Different types—like Damage, Shield, and Movement Speed—are calculated separately.
+* Buffs of the same type are grouped together and calculated first.
+* When multiple **Active Buffs** of the same type overlap, an **overload penalty** occurs, reducing efficiency from the second buff onward.
+* When multiple **Debuffs** of the same type are applied, only the strongest one takes effect first.
+* **Rune Debuffs** work on a 1:1 basis and are applied **last**, after all other calculations.
+
+***
+
+### ◾Terminology
+
+<table><thead><tr><th width="124.727294921875">Term</th><th>Description</th><th>Example</th></tr></thead><tbody><tr><td>Status Effect</td><td>An effect that forcibly moves you or the target, or restricts actions.</td><td>Knockback, Stun</td></tr><tr><td>Buff</td><td>Broadly, this refers to any effect that changes stats. In-game, it usually means a beneficial effect.</td><td>Damage Increase, Shield, Movement Speed Increase</td></tr><tr><td>Debuff</td><td>An effect that lowers stats or puts the target at a disadvantage.</td><td>Movement Speed Decrease, Healing Reduction</td></tr><tr><td>Buff Type</td><td>The label or category of an effect. Only effects of the same type are compared or combined.</td><td>Damage Buff, Shield Buff, Movement Speed Buff</td></tr></tbody></table>
+
+***
+
+### ◾Common Symbols in Tables
+
+<table><thead><tr><th width="159">Notation</th><th>Meaning</th></tr></thead><tbody><tr><td>n%</td><td>The percentage of increase or decrease.</td></tr><tr><td>m sec</td><td>Occurs once every m seconds.</td></tr><tr><td>N sec</td><td>How long the effect lasts.</td></tr><tr><td>Final Value</td><td>The value that remains after the base value and all buff/debuff calculations are completed.</td></tr></tbody></table>
+
+***
+
+### ◾Active Buff vs Passive Buff
+
+<table><thead><tr><th width="145.63641357421875">Type</th><th>Simple Explanation</th><th>Main Categories / Examples</th></tr></thead><tbody><tr><td>Active Buff</td><td>A buff that the player activates directly and that lasts for a set time. It can be removed or weakened by enemies or by the system.</td><td>Hero Skill (2), Weapon Skill (1), Inheritance Skill (1), Food Skill</td></tr><tr><td>Passive Buff</td><td>An effect that is always applied as long as its condition is met. It has no duration, and the system keeps it active continuously.</td><td>Arena Champion Effect, PKer Debuff, Party Formation Buff, Famine and Abundance</td></tr></tbody></table>
+
+### ◾Buff Calculation
+
+#### 1️⃣ Basic Formula (Easy Version)
+
+Buffs of the same type can be summed in one line.
+
+{% hint style="success" %}
+#### Basic Formula
+
+> Final Value = Base Value × <mark style="color:purple;">**(1 +**</mark> <mark style="color:$danger;">**Total Buff**</mark><mark style="color:purple;">**)**</mark>
+
+Example:\
+Base Damage = 100\
+Buffs = 30% + 20%
+
+→ 100 × (1 + 0.3 + 0.2) = 150\
+→ Result: 100 becomes 150
+{% endhint %}
+
+> This is the simplest way to understand the system.
+>
+> However, in real combat, **Active Buff Overload** applies.
+
+#### 2️⃣ Active Buff Overload
+
+<figure><img src="../../../../.gitbook/assets/Skill_Overload.png" alt=""><figcaption></figcaption></figure>
+
+When multiple Active Buffs of the same type overlap, their efficiency decreases in order, starting from the highest value.
+
+| Rank                | Applied Rate     |
+| ------------------- | ---------------- |
+| 1st (Highest Value) | 100%             |
+| 2nd                 | 80%              |
+| 3rd                 | 60%              |
+| 4th                 | 40%              |
+| 5th                 | 20%              |
+| 6th and beyond      | 0% (Not Applied) |
+
+{% hint style="info" %}
+**Calculation Order**
+
+1\) Gather only Active Buffs of the same type
+
+2\) Sort them from highest to lowest
+
+3\) Apply scaling:
+
+* 1st: 100%
+* 2nd: 80%
+* 3rd: 60%
+
+4\) Add adjusted values together
+
+5\) Multiply by base value
+{% endhint %}
+
+> **Example**\
+> Hero Skill Damage Buff: 70%\
+> Food Damage Buff: 20%
+>
+> → 70% × 100% = 70%\
+> → 20% × 80% = 16%\
+> → Total Buff = 86%
+>
+> Final Damage = Base Damage × (1 + 0.86)
+>
+> If base damage is 100 → Result = 186
+
+#### 3️⃣ Different Types Are Calculated Separately
+
+Damage Buff and Movement Speed Buff are different types.\
+They do not compete and are calculated independently.
+
+***
+
+#### ◾Debuff Calculation
+
+Unlike buffs, Debuffs of the same type do **not stack**.
+
+{% hint style="info" %}
+**Rules**
+
+1\) Only the highest value is applied first
+
+2\) If values are equal, the longer duration applies
+
+3\) If both exist:
+
+* Highest value applies first
+* When it ends, the longer duration continues
+{% endhint %}
+
+> **Example**\
+> Movement Speed -40% (3s) + -30% (10s)
+>
+> → First 3s: -40%\
+> → Next 7s: -30%
+>
+> Debuffs don’t stack—they **take turns**, starting from the strongest.
+
+***
+
+### ◾Rune Debuff Application
+
+❓Succession Heroes can [equip Runes on Succession skills](../../../hero-ascension/succession/skill-rune.md).
+
+<figure><img src="../../../../.gitbook/assets/SkillRune_6_white.png" alt=""><figcaption></figcaption></figure>
+
+#### 1️⃣ Rune Works 1:1
+
+Rune effects apply only between you and the target.
+
+> **Example:**
+>
+> Target has 60% Shield\
+> You apply 20% Shield Penetration Rune
+>
+> → For you: Shield is treated as 40%\
+> → For others: Still 60%
+
+#### 2️⃣ Same-Type Runes Stack
+
+Runes of the same type are added together.
+
+Example:\
+10% + 15% → Total 25%
+
+#### 3️⃣ Runes Apply Last
+
+{% hint style="info" %}
+**Order**
+
+1\) Calculate target’s base stats
+
+2\) Apply skill buffs/debuffs
+
+3\) Finalize target’s stats
+
+4\) Apply your Rune Debuff
+{% endhint %}
+
+> **Example: CDR → Rune**
+>
+> Base CDR = 10\
+> Buff +50% → 10 × (1 + 0.5) = 15
+>
+> Apply Rune (-10 Reload Time) → Final = 5s
+>
+> 👉 Key Point: Runes don’t interrupt the process—they modify the **final result**.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -180,7 +357,182 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% endtab %}
 
 {% tab title="日本語" %}
+**❓このガイドでは、バフ・デバフ・状態異常・ルーンデバフの計算方法をわかりやすく説明します。**
 
+### ◾バフの理解
+
+* バフタイプは効果の種類です。\
+  ダメージ、シールド、移動速度など、種類が違えば別々に計算されます。
+* 同じタイプのバフは、まず一つにまとめて計算します。
+* 同じタイプのアクティブバフが重なると「過負荷」が発生し、2つ目から効率が下がります。
+* 同じタイプのデバフは、最も強い1つだけが先に適用されます。
+* ルーンデバフは1対1で動作し、すべての計算が終わった後に最後に適用されます。
+
+***
+
+### ◾用語整理
+
+<table><thead><tr><th width="124.727294921875">用語</th><th>説明</th><th>例</th></tr></thead><tbody><tr><td>状態異常</td><td>自分または対象を強制的に動かしたり、行動を制限したりする効果です。</td><td>ノックバック、スタン</td></tr><tr><td>バフ</td><td>広い意味では、能力値に影響を与える効果全体を指します。ゲーム内では通常、有利な効果を意味します。</td><td>ダメージ増加、シールド、移動速度増加</td></tr><tr><td>デバフ</td><td>能力値を下げたり、相手に不利な状態を与えたりする効果です。</td><td>移動速度減少、回復量減少</td></tr><tr><td>バフタイプ</td><td>効果のラベルや分類です。同じタイプ同士だけ比較したり、合算したりします。</td><td>ダメージバフ、シールドバフ、移動速度バフ</td></tr></tbody></table>
+
+***
+
+### ◾表でよく使う記号
+
+<table><thead><tr><th width="159">表記</th><th>意味</th></tr></thead><tbody><tr><td>n%</td><td>増加または減少する割合です。</td></tr><tr><td>m秒</td><td>何秒ごとに1回発生するかを表します。</td></tr><tr><td>N秒</td><td>効果がどれくらいの時間持続するかを表します。</td></tr><tr><td>最終値</td><td>基本値と各種バフ・デバフ計算がすべて終わったあとに残る値です。</td></tr></tbody></table>
+
+***
+
+### ◾アクティブバフとパッシブバフ
+
+<table><thead><tr><th width="145.63641357421875">区分</th><th>かんたんに言うと</th><th>代表的な分類・例</th></tr></thead><tbody><tr><td>アクティブバフ</td><td>プレイヤーが直接発動し、一定時間維持されるバフです。相手やシステムの影響で解除されたり、弱くなったりすることがあります。</td><td>英雄スキル(2)、武器スキル(1)、継承スキル(1)、料理スキル</td></tr><tr><td>パッシブバフ</td><td>条件を満たしている限り、常に適用される効果です。持続時間はなく、システムが継続して維持します。</td><td>アリーナ優勝者効果、PKerデバフ、パーティ結成バフ、飢饉と豊穣</td></tr></tbody></table>
+
+### ◾バフ計算方式
+
+#### 1️⃣基本式（いちばん簡単）**장 쉬운 기본식**
+
+同じタイプのバフはまとめて足して考えます。
+
+{% hint style="success" %}
+#### **基本式**
+
+> **最終値 = 基本値 ×&#x20;**<mark style="color:purple;">**(1 +**</mark> <mark style="color:$danger;">**バフ合計**</mark><mark style="color:purple;">**)**</mark>
+
+例：\
+基本ダメージ100\
+バフ30% + 20%
+
+→ 100 × (1 + 0.3 + 0.2) = 150\
+→ 100が150になります。
+{% endhint %}
+
+> この式が一番わかりやすい基本形です。
+>
+> ただし、実戦では「過負荷ルール」が追加されます。
+
+#### 2️⃣ アクティブバフ過負荷
+
+<figure><img src="../../../../.gitbook/assets/Skill_Overload.png" alt=""><figcaption></figcaption></figure>
+
+同じタイプのアクティブバフが複数重なると、数値が大きいものから順に効率が下がります。
+
+| 順位        | 適用率      |
+| --------- | -------- |
+| 1位（最も高い値） | 100%     |
+| 2位        | 80%      |
+| 3位        | 60%      |
+| 4位        | 40%      |
+| 5位        | 20%      |
+| 6位以降      | 0%（適用なし） |
+
+{% hint style="info" %}
+**計算順序**
+
+1\) 同じタイプのアクティブバフを集める
+
+2\) 大きい順に並べる
+
+3\) 適用倍率
+
+* 1位：100%
+* 2位：80%
+* 3位：60%
+
+4\) 合計する
+
+5\) 最後に掛ける
+{% endhint %}
+
+> **例**\
+> スキルバフ70% + 食事バフ20%
+>
+> → 70% × 100% = 70%\
+> → 20% × 80% = 16%\
+> → 合計 = 86%
+>
+> 最終ダメージ = 基本値 × (1 + 0.86)
+>
+> 基本100 → 186
+
+#### 3️⃣ タイプが違えば別計算
+
+ダメージバフと移動速度バフは別タイプです。\
+お互いに影響せず、それぞれ計算されます。
+
+***
+
+#### ◾デバフ計算方式
+
+デバフはバフと違い、重なっても加算されません。
+
+{% hint style="info" %}
+**デバフルール**
+
+1\) 最も高い値1つだけ適用
+
+2\) 同じ値なら時間が長い方
+
+3\) 両方ある場合
+
+* 高い値 → 先に適用
+* 終了後 → 長時間のものが続く
+{% endhint %}
+
+> **例**\
+> 移動速度 -40%（3秒） + -30%（10秒）
+>
+> → 最初3秒：-40%\
+> → 次の7秒：-30%
+>
+> デバフは足し算ではなく、「強いものが前に出る」構造です。
+
+***
+
+### ◾ルーンデバフ適用方式
+
+❓継承英雄は[継承スキルにルーンを装着できます。](../../../hero-ascension/succession/skill-rune.md)
+
+<figure><img src="../../../../.gitbook/assets/SkillRune_6_white.png" alt=""><figcaption></figcaption></figure>
+
+#### 1️⃣ルーンは1対1
+
+ルーン効果は自分と対象の間でのみ適用されます。
+
+> **例：**\
+> 対象シールド60%\
+> 自分の貫通ルーン20%
+>
+> → 自分から見ると40%\
+> → 他プレイヤーは60%のまま
+
+#### 2️⃣同タイプルーンは合算
+
+同じタイプのルーンは合計されます。
+
+例：\
+10% + 15% → 合計25%
+
+#### 3️⃣ルーンは最後に適用
+
+{% hint style="info" %}
+**順序**
+
+1\) 基本ステータス計算
+
+2\) スキルバフ・デバフ適用
+
+3\) 最終値確定
+
+4\) ルーンデバフ適用
+{% endhint %}
+
+> **例：CDR → ルーン**
+>
+> 基本CDR = 10\
+> バフ50% → 15
+>
+> ルーン適用 → 最終 5秒
+>
+> 👉ポイント ルーンは途中に入らず、**最後の結果を削る役割**です。
 {% endtab %}
 {% endtabs %}
 
