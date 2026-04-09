@@ -6,7 +6,78 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 {% tabs %}
 {% tab title="ENG" %}
+**❓**&#x54;his document provides detailed information about **Active Skill Buff Types**.
 
+### ◾Damage Buffs / Debuffs
+
+<table><thead><tr><th width="77.6363525390625">No.</th><th width="200.181884765625">Description</th><th width="175.0909423828125">Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Increase Damage by n%</td><td>Target’s final damage × (1 + n%)</td><td>Target’s final damage × (1 - n%)<br>Cannot go below 0</td></tr><tr><td>2</td><td>Increase Damage by n%<br>*Layer-type Buff within the same category</td><td>Target’s final damage × (1 + n%)</td><td>Target’s final damage × (1 - n%)<br>Cannot go below 0</td></tr><tr><td>3</td><td>Increase Damage by n%<br>*Layer-type Buff within the same category</td><td>Target’s final damage × (1 + n%)</td><td>Target’s final damage × (1 - n%)<br>Cannot go below 0</td></tr><tr><td>4</td><td>Reduce Damage Buffs by n%</td><td>No skill applied</td><td>Sum of all Damage Buffs on the target × (1 - n%)<br>Cannot go below 0</td></tr><tr><td>5</td><td>Increase Phys. DMG (Physical Damage) by n%</td><td>Target’s final Physical Damage × (1 + n%)</td><td>Target’s final Physical Damage × (1 - n%)<br>Cannot go below 0</td></tr><tr><td>6</td><td>Increase Mag. DMG (Magic Damage) by n%</td><td>Target’s final Magic Damage × (1 + n%)</td><td>Target’s final Magic Damage × (1 - n%)<br>Cannot go below 0</td></tr><tr><td>7</td><td>Increase EBD (Elemental Bonus Damage) by n%</td><td>Target’s final EBD × (1 + n%)</td><td>No skill applied</td></tr></tbody></table>
+
+***
+
+### ◾Critical Buffs / Debuffs&#x20;
+
+<table><thead><tr><th width="103.09088134765625">No.</th><th>Description</th><th>Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Increase Phys. Crit % (Physical Critical Rate) by n%</td><td>Target’s final Phys. Crit % × (1 + n%)</td><td><p>Target’s final Phys. Crit % × (1 - n%)</p><p>Cannot go below 0</p></td></tr><tr><td>2</td><td>Increase Mag. Crit % (Magic Critical Rate) by n%</td><td>Target’s final Mag. Crit % × (1 + n%)</td><td><p>Target’s final Mag. Crit % × (1 - n%)</p><p>Cannot go below 0</p></td></tr><tr><td>3</td><td>Increase Phys. Crit DMG (Physical Critical Damage) by n%</td><td>Target’s final Phys. Crit DMG × (1 + n%)</td><td><p>Target’s final Phys. Crit DMG × (1 - n%)</p><p>Cannot go below 0</p></td></tr><tr><td>4</td><td>Increase Mag. Crit DMG (Magic Critical Damage) by n%</td><td>Target’s final Mag. Crit DMG × (1 + n%)</td><td><p>Target’s final Mag. Crit DMG × (1 - n%)</p><p>Cannot go below 0</p></td></tr></tbody></table>
+
+***
+
+### ◾Utility Cooldowns
+
+<table><thead><tr><th width="84.90911865234375">No.</th><th>Description</th><th>Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Adjust the target’s Movement Speed</td><td>Target’s Movement Speed × (1 + n%)</td><td>Target’s Movement Speed × (1 - n%)</td></tr><tr><td>2</td><td>Increase Evasion Rate (EVA) by n%</td><td>Target’s final EVA × (1 + n%)</td><td>No skill applied</td></tr><tr><td>3</td><td>Increase Cool Down Reload (CDR) by n%</td><td>Target’s final CDR × (1 + n%)<br>*Increasing CDR reduces skill reload time.</td><td><p>Target’s final CDR × (1 - n%)</p><p>*If CDR exceeds 100%, it is treated as a negative value<br>*Negative CDR increases skill reload time (Cycle Disruption)</p></td></tr></tbody></table>
+
+***
+
+### ◾Survival
+
+<table><thead><tr><th width="86.72723388671875">No.</th><th>Description</th><th>Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Increase Shield (Damage Taken Reduction Rate) by n%</td><td>Target’s final damage × (1 - n%)</td><td>No skill applied</td></tr><tr><td>2</td><td>무적</td><td>-</td><td>-</td></tr><tr><td>3</td><td><strong>Revival</strong><br>*<em>Used for Resurrection Feather items</em><br><em>May also be introduced as a Guild Skill for future Siege content</em></td><td>-</td><td>-</td></tr><tr><td>4</td><td>Ignores upward attacks (e.g., Blizzard-type skills)</td><td>-</td><td>-</td></tr><tr><td>5</td><td><strong>Whirlwind State</strong><br>Movement speed increases, and incoming damage is reduced by n%</td><td><strong>Movement Speed Fixed at 7 + Damage Reduction</strong><br>*<em>Additional movement speed buffs do not stack</em><br>*<em>If a shield buff is applied in this state, Whirlwind’s damage reduction is applied first, then the shield buff is applied separately (not additive)</em></td><td>-</td></tr></tbody></table>
+
+***
+
+### ◾Recovery&#x20;
+
+<table><thead><tr><th width="85.81817626953125">No.</th><th>Description</th><th>Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Recover MP by n% every m seconds</td><td>Recovers MAX MP × (1 + n%) every m seconds</td><td>No skill applied</td></tr><tr><td>2</td><td>Recover HP by n% every m seconds</td><td>Recovers MAX HP × (1 + n%) every m seconds</td><td>No skill applied</td></tr><tr><td>3</td><td>Deals n damage every m seconds while Corrosion is active</td><td>No skill applied</td><td>-</td></tr></tbody></table>
+
+
+
+***
+
+### ◾Recovery Debuffs&#x20;
+
+<table><thead><tr><th width="103.0909423828125">No.</th><th>Description</th><th>Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Increase the target’s MP cost by n%</td><td>No skill applied</td><td>MP cost when using skills × (1 + n%)</td></tr><tr><td>2</td><td>Reduce the target’s HP recovery by n%</td><td>No skill applied</td><td>Healing from recovery skills × (1 - n%)</td></tr></tbody></table>
+
+***
+
+### ◾CC (Crowd Control)
+
+<table><thead><tr><th width="93.0909423828125">No.</th><th>Description</th><th>Affected by Cure</th></tr></thead><tbody><tr><td>1</td><td>Knocked back n meters over N seconds</td><td>x</td></tr><tr><td>2</td><td>Pulled toward the center for N seconds</td><td>x</td></tr><tr><td>3</td><td>Stunned for N seconds</td><td>O</td></tr><tr><td>4</td><td>Dash Attack</td><td>x</td></tr><tr><td>5</td><td>Jump Attack</td><td>x</td></tr><tr><td>6</td><td>Pulls the target in front of you</td><td>x</td></tr></tbody></table>
+
+
+
+***
+
+### ◾Cure&#x20;
+
+| No. | Description                                     |
+| --- | ----------------------------------------------- |
+| 1   | Removes the target’s Debuffs and Status Effects |
+| 2   | Removes the target’s Buffs                      |
+
+
+
+***
+
+### ◾Piercing&#x20;
+
+<table><thead><tr><th width="91.272705078125">No.</th><th width="203">Description</th><th width="160.1817626953125">Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>EVA Piercing: Ignores n% of the target’s Evasion Rate (EVA)</td><td>No skill applied</td><td><strong>Target’s final EBD (%) - n%</strong><br><em>Cannot go below 0</em></td></tr><tr><td>2</td><td>Shield Piercing: Ignores n% of the target’s Shield</td><td>No skill applied</td><td><strong>Target’s final Shield Buff (%) - n%</strong><br><em>Not applied if no shield buff is present</em></td></tr></tbody></table>
+
+
+
+***
+
+### ◾Stealth & Detection Cooldowns&#x20;
+
+<table><thead><tr><th width="89.45452880859375">No.</th><th width="270.1817626953125">Description</th><th width="193.5455322265625">Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Enters stealth, becoming invisible to other players.<br>The first attack from stealth deals an additional n% damage</td><td>Target’s final damage × (1 + n%)</td><td>-</td></tr><tr><td>2</td><td>Can detect stealthed targets within radar range</td><td>-</td><td>-</td></tr><tr><td>3</td><td>Deals an additional n% damage to stealthed targets</td><td>Target’s final damage × (1 + n%)</td><td>-</td></tr></tbody></table>
+
+&#x20;
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -85,6 +156,77 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% endtab %}
 
 {% tab title="日本語" %}
+**❓このガイドでは、アクティブスキルのバフタイプについて詳しく説明します。**
 
+### ◾Damage Buffs / Debuffs（ダメージ増減系）
+
+<table><thead><tr><th width="77.6363525390625">No.</th><th width="200.181884765625">内容</th><th width="175.0909423828125">バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>ダメージを n% 増加</td><td>対象の最終ダメージ × (1 + n%)</td><td>対象の最終ダメージ × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>2</td><td>ダメージを n% 増加<br>*同一カテゴリ内のレイヤータイプバフ</td><td>対象の最終ダメージ × (1 + n%)</td><td>対象の最終ダメージ × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>3</td><td>ダメージを n% 増加<br>*同一カテゴリ内のレイヤータイプバフ</td><td>対象の最終ダメージ × (1 + n%)</td><td>対象の最終ダメージ × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>4</td><td>ダメージバフを n% 減少</td><td>適用スキルなし</td><td>対象が持つすべてのダメージバフの合計値 × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>5</td><td>Phys. DMG（物理ダメージ）を n% 増加</td><td>対象の最終物理ダメージ × (1 + n%)</td><td>対象の最終物理ダメージ × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>6</td><td>Mag. DMG（魔法ダメージ）を n% 増加</td><td>対象の最終魔法ダメージ × (1 + n%)</td><td>対象の最終魔法ダメージ × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>7</td><td>EBD（Elemental Bonus Damage）を n% 増加</td><td>対象の最終EBD × (1 + n%)</td><td>適用スキルなし</td></tr></tbody></table>
+
+***
+
+### ◾Critical Buffs / Debuffs（クリティカル系）
+
+<table><thead><tr><th width="103.09088134765625">No.</th><th>内容</th><th>バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>Phys. Crit %（物理クリティカル率）を n% 増加</td><td>対象の最終 Phys. Crit % × (1 + n%)</td><td>対象の最終 Phys. Crit % × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>2</td><td>Mag. Crit %（魔法クリティカル率）を n% 増加</td><td>対象の最終 Mag. Crit % × (1 + n%)</td><td>対象の最終 Mag. Crit % × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>3</td><td>Phys. Crit DMG（物理クリティカルダメージ）を n% 増加</td><td>対象の最終 Phys. Crit DMG × (1 + n%)</td><td>対象の最終 Phys. Crit DMG × (1 - n%)<br>*0以下にはなりません</td></tr><tr><td>4</td><td>Mag. Crit DMG（魔法クリティカルダメージ）を n% 増加</td><td>対象の最終 Mag. Crit DMG × (1 + n%)</td><td>対象の最終 Mag. Crit DMG × (1 - n%)<br>*0以下にはなりません</td></tr></tbody></table>
+
+***
+
+### ◾Utility Cooldowns（ユーティリティ / クールダウン系）
+
+<table><thead><tr><th width="84.90911865234375">No.</th><th>内容</th><th width="192.11114501953125">バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>対象の移動速度を調整</td><td>対象の移動速度 × (1 + n%)</td><td>対象の移動速度 × (1 - n%)</td></tr><tr><td>2</td><td>回避率（EVA）を n% 増加</td><td>対象の最終 EVA × (1 + n%)</td><td>適用スキルなし</td></tr><tr><td>3</td><td>Cool Down Reload（CDR）を n% 増加</td><td>対象の最終 CDR × (1 + n%)<br>*CDRが増加すると、スキルのリロード時間が短くなります</td><td>対象の最終 CDR × (1 - n%)<br>*CDRが100%を超えると、負の値として処理されます<br>*負のCDRはスキルのリロード時間を増加させます（Cycle Disruption）</td></tr></tbody></table>
+
+***
+
+### ◾Survival（生存系）
+
+<table><thead><tr><th width="86.72723388671875">No.</th><th>内容</th><th>バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>シールド（被ダメージ減少率）を n% 増加</td><td>対象が受ける最終ダメージ × (1 - n%)</td><td>適用スキルなし</td></tr><tr><td>2</td><td>無敵</td><td>-</td><td>-</td></tr><tr><td>3</td><td>復活<br>*現在は「復活の羽」アイテム用です。今後、攻城戦ギルドスキルとして導入される可能性があります。</td><td>-</td><td>-</td></tr><tr><td>4</td><td>上方攻撃（ブリザード系）を無視</td><td>-</td><td>-</td></tr><tr><td>5</td><td>ホイールウィンド状態。移動速度が上がり、受けるダメージが n% 減少します。</td><td>移動速度が7に固定 + ダメージ減少<br>*追加の移動速度バフは重複しません<br>*このタイプでシールドバフを重ねて使う場合、まずホイールウィンドのダメージ減少が適用され、その後にシールドバフが追加で適用されます（合算ではありません）</td><td>-</td></tr></tbody></table>
+
+***
+
+### ◾Recovery（回復系）
+
+<table><thead><tr><th width="85.81817626953125">No.</th><th>内容</th><th>バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>m秒ごとに MP を n% 回復</td><td>対象の MAX MP × (1 + n%) を m秒ごとに回復</td><td>適用スキルなし</td></tr><tr><td>2</td><td>m秒ごとに HP を n% 回復</td><td>対象の MAX HP × (1 + n%) を m秒ごとに回復</td><td>適用スキルなし</td></tr><tr><td>3</td><td>腐食がかかっている間、m秒ごとに n ダメージを与える</td><td>適用スキルなし</td><td>-</td></tr></tbody></table>
+
+
+
+***
+
+### ◾Recovery Debuffs（回復妨害系）
+
+<table><thead><tr><th width="103.0909423828125">No.</th><th>内容</th><th>バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>対象の MP 使用量を n% 増加</td><td>適用スキルなし</td><td>対象がスキル使用時に消費する MP 量 × (1 + n%)</td></tr><tr><td>2</td><td>対象の HP 回復量を n% 減少</td><td>適用スキルなし</td><td>対象が使用した回復スキルの回復量 × (1 - n%)</td></tr></tbody></table>
+
+***
+
+### ◾CC (クラウドコントロール系)
+
+<table><thead><tr><th width="93.0909423828125">No.</th><th>内容</th><th>Cureの影響</th></tr></thead><tbody><tr><td>1</td><td>N秒間、nメートル押し出される</td><td>x</td></tr><tr><td>2</td><td>N秒間、中央に引き寄せられる</td><td>x</td></tr><tr><td>3</td><td>N秒間、スタン</td><td>O</td></tr><tr><td>4</td><td>ダッシュアタック</td><td>x</td></tr><tr><td>5</td><td>ジャンプアタック</td><td>x</td></tr><tr><td>6</td><td>対象を自分の前まで引き寄せる</td><td>x</td></tr></tbody></table>
+
+
+
+***
+
+### ◾Cure（解除系）
+
+| No. | 内容               |
+| --- | ---------------- |
+| 1   | 対象のデバフ / 状態異常を解除 |
+| 2   | 対象のバフを解除         |
+
+
+
+***
+
+### ◾Piercing（貫通系）
+
+<table><thead><tr><th width="91.272705078125">No.</th><th width="203">内容</th><th width="160.1817626953125">バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>EVA貫通。ターゲットの回避率（EVA）を n% 無視</td><td>適用スキルなし</td><td>対象の最終 EVA（%） - n%<br>*0以下にはなりません</td></tr><tr><td>2</td><td>シールド貫通。ターゲットのシールドを n% 無視</td><td>適用スキルなし</td><td>対象の最終シールドバフ（%） - n%<br>*シールドバフがない場合は適用されません</td></tr></tbody></table>
+
+
+
+***
+
+### ◾Stealth & Detection Cooldowns（ステルス / 探知系）
+
+<table><thead><tr><th width="89.45452880859375">No.</th><th width="270.1817626953125">内容</th><th width="193.5455322265625">バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>他のプレイヤーから見えないようにステルス状態になる。ステルス状態での最初の攻撃に追加ダメージ n%</td><td>対象の最終ダメージ × (1 + n%)</td><td>-</td></tr><tr><td>2</td><td>レーダー範囲内でステルス中の対象を見つけられる</td><td>-</td><td>-</td></tr><tr><td>3</td><td>ステルス中の対象に追加ダメージを n% 与える</td><td>対象の最終ダメージ × (1 + n%)</td><td>-</td></tr></tbody></table>
+
+&#x20;
 {% endtab %}
 {% endtabs %}
