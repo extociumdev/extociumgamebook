@@ -2,7 +2,7 @@
 description: 🛑 This information may be updated later than the game server data.
 ---
 
-# 📁 Recharge Rules
+# 📁 Daily Energy Recharge Rules
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -22,8 +22,8 @@ the recharge targets are determined by the following priority:
 {% endhint %}
 
 🕑 **Recharge Time**\
-👉UTC: **Every Sunday** at 15:00\
-👉ETC (UTC-5): **Every Sunday** at 10:00
+👉UTC: **Every day** at 15:00\
+👉ETC (UTC-5): **Every day** at 10:00
 
 👇 In addition, the criteria for **bonus daily Energy recharge per Hero**,\
 based on **accumulated TP**, can be found in the table below.
@@ -45,7 +45,7 @@ based on **accumulated TP**, can be found in the table below.
 {% endhint %}
 
 🕑 **재충전 시간**\
-KST (UTC+9): **매주 월요일 00:00**
+KST (UTC+9): **매일 00:00**
 
 👇 이 외에도,\
 **누적 TP에 따라 추가로 적용되는 영웅별 일일 에너지 재충전 기준**은\
@@ -69,7 +69,7 @@ KST (UTC+9): **매주 월요일 00:00**
 {% endhint %}
 
 🕑 **再充電時間**\
-KST (UTC+9)：**毎週月曜日 00:00**
+KST (UTC+9)：**毎日 00:00**
 
 👇 そのほか、**累積TPに応じて追加適用されるヒーロー別デイリーエナジー再充電基準**は、\
 下記の表をご確認ください。
