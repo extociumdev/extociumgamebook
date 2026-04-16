@@ -1,8 +1,7 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-cover: >-
-  ../../../.gitbook/assets/extocium_Medieval_fantasy_interior_of_a_barracks_made_of_clot_7cb13ece-4230-4ce3-953f-1b8767647490_3.png
-coverY: 0
+cover: ../../../.gitbook/assets/Elena.png
+coverY: 59.97509013136773
 ---
 
 # 🌀 Elena
@@ -46,6 +45,8 @@ That fragile effort shattered during a journey with Ishtar. In a moment of panic
 しかし、その危うい平穏はイシュタルとの旅路で崩れ去ります。放たれたマナの奔流は制御を失い、あろうことか地方貴族ラハンの別邸を一瞬にして灰燼に帰してしまったのです。子供には到底背負いきれない代償。その代わりに突きつけられたのは, ラハンからの「極秘任務」でした。魔導騎士団へと向かうエレナの足取りは重く、迷いに満ちています。けれど、この望まぬ旅の果てに、彼女は気づくことになるでしょう。その「未熟さ」こそが、世界を塗り替える真の力の胎動であったことに。
 {% endtab %}
 {% endtabs %}
+
+<figure><img src="../../../.gitbook/assets/Elena.png" alt=""><figcaption></figcaption></figure>
 
 ### ❇️Elena‘s skill list&#x20;
 

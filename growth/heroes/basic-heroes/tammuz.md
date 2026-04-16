@@ -1,8 +1,7 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-cover: >-
-  ../../../.gitbook/assets/extocium_Medieval_fantasy_black_short_hair_handsome_man_blue__c86af743-f624-4ec1-9863-0b90d0ad7fb6_0.png
-coverY: 192.0372870559115
+cover: ../../../.gitbook/assets/Tammuz.png
+coverY: 193.17053390883848
 ---
 
 # 🍀 Tammuz
@@ -46,6 +45,8 @@ Who is the boy behind the sheep? Behind the "free soul" lies a history that has 
 自由な魂を自称する羊飼い。彼が背負う語られざる過去。 その真実に触れる者は、まだ誰もいません。
 {% endtab %}
 {% endtabs %}
+
+<figure><img src="../../../.gitbook/assets/Tammuz.png" alt=""><figcaption></figcaption></figure>
 
 ### ❇️Tammuz‘s skill list &#x20;
 

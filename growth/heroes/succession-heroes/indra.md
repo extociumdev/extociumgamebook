@@ -1,5 +1,7 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+cover: ../../../.gitbook/assets/Indra (1).jpeg
+coverY: 146.18928151587917
 ---
 
 # ❤️‍🔥 Indra

@@ -1,8 +1,7 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-cover: >-
-  ../../../.gitbook/assets/extocium_httpss.mj.run2Aa2v3NPi-8_Medieval_fantasy_emerald_ha_3e7b4d38-0d98-415d-86df-3dfb57e16208_3.png
-coverY: 110.81992847262669
+cover: ../../../.gitbook/assets/Aruru.png
+coverY: 165.81370706717934
 ---
 
 # 🔮 Aruru
@@ -46,6 +45,8 @@ But the "Goddess" is afraid. Every night, the same nightmare returns: a colossal
 しかし、聖者のような彼女の日常を、凄惨な「悪夢」が蝕み始めます。黒い角と翼を持つ巨獣が、アステリカを灰へと変える予見の夢。それは古文書に記された「終焉」の姿そのものでした。王国を守り、自らのルーツと運命の真実を解き明かすため、アルルは再び歩み始めます。 忘れ去られた王国の遺跡、その先に待つのは救済か、それとも破壊か。
 {% endtab %}
 {% endtabs %}
+
+<figure><img src="../../../.gitbook/assets/Aruru.png" alt=""><figcaption></figcaption></figure>
 
 ### ❇️Aruru‘s skill list     &#x20;
 

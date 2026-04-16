@@ -1,8 +1,7 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-cover: >-
-  ../../../.gitbook/assets/extocium_httpss.mj.run9eG_2q_H_Ic_Medieval_fantasy_blond_shor_7e9d942d-f481-424f-8d56-c723c1bdc0b3_2.png
-coverY: 5.313280794991265
+cover: ../../../.gitbook/assets/Iskandar.png
+coverY: 65.3755542124249
 ---
 
 # ❤️‍🔥 Iskandar
@@ -49,6 +48,8 @@ or the fire that reduces the monarchy to dust?
 王宮に張り巡らされる陰湿な包囲網。力だけでは辿り着けない至高の椅子。 若き獅子の野心は、国を照らす希望の灯火となるのか。 それとも、すべてを焼き尽くし、秩序を崩壊させる業火となるのでしょうか。
 {% endtab %}
 {% endtabs %}
+
+<figure><img src="../../../.gitbook/assets/Iskandar.png" alt=""><figcaption></figcaption></figure>
 
 ### ❇️Iskandar‘s skill list &#x20;
 

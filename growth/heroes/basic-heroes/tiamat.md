@@ -1,8 +1,7 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-cover: >-
-  ../../../.gitbook/assets/extocium_httpss.mj.runIbJ3uX5w9xg_httpss.mj.runASY8_Z7jDYM_ht_be20f43e-ffcb-4e0d-9d56-ed8a9d3f30a8_0.png
-coverY: 0
+cover: ../../../.gitbook/assets/Tiamat.png
+coverY: 41.93026670691085
 ---
 
 # 🌊 Tiamat
@@ -48,6 +47,10 @@ For Tiamat, this isn't just a case; it’s personal. Years ago, her closest comr
 彼女の心を締め付けるのは、かつて騎士団から突如として姿を消した、一人の親友の記憶。幾多の死線を共に越えてきた戦友の失踪と、今回のアメジスト事件が、暗い糸で繋がっていることに彼女は気づき始めています。古の呪いが渦巻く深淵の先で、彼女が目にするのは再会か、それとも絶望か。
 {% endtab %}
 {% endtabs %}
+
+
+
+<figure><img src="../../../.gitbook/assets/Tiamat.png" alt=""><figcaption></figcaption></figure>
 
 ### ❇️Tiamat‘s skill list  &#x20;
 

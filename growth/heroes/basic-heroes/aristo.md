@@ -1,8 +1,7 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-cover: >-
-  ../../../.gitbook/assets/extocium_httpss.mj.run2eKAkeqbWUs_httpss.mj.runN4jX_0nw9Qg_ht_f323dce0-5cc8-4079-bfde-f7b00d5f7a7b_2.png
-coverY: 185.96494248689575
+cover: ../../../.gitbook/assets/Aristo.png
+coverY: 99.83792487783512
 ---
 
 # 🪨 Aristo
@@ -46,6 +45,8 @@ Aristo knows this isn't about the kingdom’s safety; it’s about the King’s 
 学者としての倫理と、臣下としての忠誠。その狭間で、アリストは苦悩します。自分はもはや真理を追う探究者ではなく、醜い政治闘争の「道具」に成り下がってしまったのではないか。翻弄される賢者の選択が、王国の未来を大きく揺るがそうとしています。
 {% endtab %}
 {% endtabs %}
+
+<figure><img src="../../../.gitbook/assets/Aristo.png" alt=""><figcaption></figcaption></figure>
 
 ### ❇️Aristo‘s skill list     &#x20;
 

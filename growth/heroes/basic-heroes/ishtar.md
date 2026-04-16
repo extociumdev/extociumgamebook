@@ -1,7 +1,6 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
-cover: >-
-  ../../../.gitbook/assets/extocium_httpss.mj.runFNzM3yl2tNw_Medieval_fantasy_red_dirt_m_e1fe470d-9ff2-41ac-aad4-702010273d0a_2.png
+cover: ../../../.gitbook/assets/Ishtar.png
 coverY: 143.45868338672102
 ---
 
@@ -46,6 +45,8 @@ When Parasiel arrived with the mysterious Extocium, everything changed. Ishtar f
 ある日、パラシエルが持ち込んだ神秘の資源「エクストシウム」。それが彼女の中に眠る魔導師の資質を呼び覚ました瞬間、イシュタルの心から迷いは消え去りました。もう、ここに留まる理由はない。エレナの手を強く引き、彼女は魔導騎士団への一歩を踏み出します。それは単なる旅ではありません。イシュタルという名の物語を、自らの手で綴り始めるためのプロローグなのです。
 {% endtab %}
 {% endtabs %}
+
+<figure><img src="../../../.gitbook/assets/Ishtar.png" alt=""><figcaption></figcaption></figure>
 
 ### ❇️Ishtar‘s skill list &#x20;
 
