@@ -59,6 +59,7 @@
     * [5️⃣ Buff Guide](growth/heroes/stats/buff-guide/README.md)
       * [🌿 Skill Buff Type](growth/heroes/stats/buff-guide/skill-buff-type.md)
       * [💎 Rune Buff Type](growth/heroes/stats/buff-guide/rune-buff-type.md)
+    * [6️⃣ Resistance Adjustment for Higher-Level Players](growth/heroes/stats/resistance-adjustment-for-higher-level-players.md)
   * [🎖️ Succession Heroes](growth/heroes/succession-heroes/README.md)
     * [❤️‍🔥 Indra](growth/heroes/succession-heroes/indra.md)
     * [🌊 Nanna](growth/heroes/succession-heroes/nanna.md)

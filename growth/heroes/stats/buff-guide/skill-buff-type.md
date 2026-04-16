@@ -22,7 +22,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 ### ◾Utility Cooldowns
 
-<table><thead><tr><th width="84.90911865234375">No.</th><th>Description</th><th>Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Adjust the target’s Movement Speed</td><td>Target’s Movement Speed × (1 + n%)</td><td>Target’s Movement Speed × (1 - n%)</td></tr><tr><td>2</td><td>Increase Evasion Rate (EVA) by n%</td><td>Target’s final EVA × (1 + n%)</td><td>No skill applied</td></tr><tr><td>3</td><td>Increase Cool Down Reload (CDR) by n%</td><td>Target’s final CDR × (1 + n%)<br>*Increasing CDR reduces skill reload time.</td><td><p>Target’s final CDR × (1 - n%)</p><p>*If CDR exceeds 100%, it is treated as a negative value<br>*Negative CDR increases skill reload time (Cycle Disruption)</p></td></tr></tbody></table>
+<table><thead><tr><th width="84.90911865234375">No.</th><th>Description</th><th>Buff Effect</th><th>Debuff Effect</th></tr></thead><tbody><tr><td>1</td><td>Adjust the target’s Movement Speed</td><td>Target’s Movement Speed × (1 + n%)</td><td>Target’s Movement Speed × (1 - n%)</td></tr><tr><td>2</td><td>Increase Evasion Rate (EVA) by n%</td><td>Target’s final EVA × (1 + n%)</td><td>No skill applied</td></tr><tr><td>3</td><td>Increase Cool Down Reload (CDR) by n%</td><td>Target’s final CDR + n%<br>*Increasing CDR reduces skill reload time.</td><td><p>Target’s final CDR - n%</p><p>*If CDR exceeds 100%, it is treated as a negative value<br>*Negative CDR increases skill reload time (Cycle Disruption)</p></td></tr></tbody></table>
 
 ***
 
@@ -97,7 +97,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 ### ◾Utility Cooldowns (유틸리티 / 쿨다운 계열)
 
-<table><thead><tr><th width="84.90911865234375">No.</th><th>내용</th><th>버프 효과</th><th>디버프 효과</th></tr></thead><tbody><tr><td>1</td><td>대상의 이동속도를 조절</td><td>대상의 이동속도*(1+n%)</td><td>대상의 이동속도*(1-n%)</td></tr><tr><td>2</td><td>회피율(EVA)을 n% 증가</td><td>대상의 최종 EVA*(1+n%)</td><td>적용된 스킬 없음</td></tr><tr><td>3</td><td>Cool Down Reload (CDR)을 n% 증가</td><td>대상의 최종 CDR*(1+n%) *CDR 증가 = 스킬 리로드 타임 감소</td><td><p>대상의 최종 CDR*(1-n%) </p><p><strong>CDR 100% 초과 시 음수 처리</strong> </p><p>음수 CDR = 스킬 리로드 타임 증가 (Cycle Disruption)</p></td></tr></tbody></table>
+<table><thead><tr><th width="84.90911865234375">No.</th><th>내용</th><th>버프 효과</th><th>디버프 효과</th></tr></thead><tbody><tr><td>1</td><td>대상의 이동속도를 조절</td><td>대상의 이동속도*(1+n%)</td><td>대상의 이동속도*(1-n%)</td></tr><tr><td>2</td><td>회피율(EVA)을 n% 증가</td><td>대상의 최종 EVA*(1+n%)</td><td>적용된 스킬 없음</td></tr><tr><td>3</td><td>Cool Down Reload (CDR)을 n% 증가</td><td><p>대상의 최종 CDR+n%</p><p>*CDR 증가 = 스킬 리로드 타임 감소</p></td><td><p>대상의 최종 CDR -n%</p><p><strong>CDR 100% 초과 시 음수 처리</strong> </p><p>음수 CDR = 스킬 리로드 타임 증가 (Cycle Disruption)</p></td></tr></tbody></table>
 
 ***
 
@@ -172,7 +172,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 ### ◾Utility Cooldowns（ユーティリティ / クールダウン系）
 
-<table><thead><tr><th width="84.90911865234375">No.</th><th>内容</th><th width="192.11114501953125">バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>対象の移動速度を調整</td><td>対象の移動速度 × (1 + n%)</td><td>対象の移動速度 × (1 - n%)</td></tr><tr><td>2</td><td>回避率（EVA）を n% 増加</td><td>対象の最終 EVA × (1 + n%)</td><td>適用スキルなし</td></tr><tr><td>3</td><td>Cool Down Reload（CDR）を n% 増加</td><td>対象の最終 CDR × (1 + n%)<br>*CDRが増加すると、スキルのリロード時間が短くなります</td><td>対象の最終 CDR × (1 - n%)<br>*CDRが100%を超えると、負の値として処理されます<br>*負のCDRはスキルのリロード時間を増加させます（Cycle Disruption）</td></tr></tbody></table>
+<table><thead><tr><th width="84.90911865234375">No.</th><th>内容</th><th width="192.11114501953125">バフ効果</th><th>デバフ効果</th></tr></thead><tbody><tr><td>1</td><td>対象の移動速度を調整</td><td>対象の移動速度 × (1 + n%)</td><td>対象の移動速度 × (1 - n%)</td></tr><tr><td>2</td><td>回避率（EVA）を n% 増加</td><td>対象の最終 EVA × (1 + n%)</td><td>適用スキルなし</td></tr><tr><td>3</td><td>Cool Down Reload（CDR）を n% 増加</td><td>対象の最終 CDR + n%<br>*CDRが増加すると、スキルのリロード時間が短くなります</td><td>対象の最終 CDR - n%<br>*CDRが100%を超えると、負の値として処理されます<br>*負のCDRはスキルのリロード時間を増加させます（Cycle Disruption）</td></tr></tbody></table>
 
 ***
 
