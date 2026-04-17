@@ -114,6 +114,7 @@
   * [Skill Level Cap System](system/zone-attunement/skill-level-cap-system.md)
 * [⚠️ PK](system/pk/README.md)
   * [🎯 PK Targeting](system/pk/pk-targeting.md)
+  * [🔰 PK Shield](system/pk/pk-shield.md)
   * [📁 PK Leverage Bonus](system/pk/pk-leverage-bonus.md)
   * [❗ PK Penalty](system/pk/pk-penalty.md)
   * [📕 PK Record](system/pk/pk-record.md)
