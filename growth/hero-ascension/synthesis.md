@@ -17,7 +17,7 @@ Through Hero NFT Synthesis, you can grow your Hero into one with higher base sta
 All Hero NFTs in EXTOCIUM have [base stats](../heroes/stats/special-stats/).\
 Base stats affect the following content.
 
-* [Mining](../mining-settings/) efficiency
+* [Mining](../boost-cap/) efficiency
 * Combat efficiency
 * [Succession](succession/) requirements
 
@@ -124,7 +124,7 @@ You can check the required steps and materials for Hero Synthesis in the table b
 EXTOCIUM의 모든 영웅 NFT에는 [**베이스 스탯**](../heroes/basic-heroes/#undefined-3)이 존재합니다.\
 베이스 스탯은 다음과 같은 콘텐츠에 영향을 줍니다.
 
-* [채굴](../mining-settings/) 효율
+* [채굴](../boost-cap/) 효율
 * 전투 효율
 * [계승](succession/) 조건
 
@@ -229,7 +229,7 @@ EXTOCIUM의 모든 영웅 NFT에는 [**베이스 스탯**](../heroes/basic-heroe
 EXTOCIUMのすべてのヒーローNFTには [**ベースステータス**](../heroes/stats/special-stats/)が存在します。\
 ベースステータスは、以下のコンテンツに影響します。
 
-* [採掘](../mining-settings/)効率
+* [採掘](../boost-cap/)効率
 * 戦闘効率
 * [継承](succession/)条件
 

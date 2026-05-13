@@ -49,7 +49,7 @@ you can open it using a **Golden Key** obtained through Lucky Pass.
 
 The following rules apply to the Gold Box system:
 
-* The Gold Box can accumulate up to **2% of the daily Gold mining amount** set in your account’s [**Mining Setup**](../../growth/mining-settings/).
+* The Gold Box can accumulate up to **2% of the daily Gold mining amount** set in your account’s [**Mining Setup**](../../growth/boost-cap/).
 * When the Gold Box is full,\
   **no additional bonus Gold will be accumulated**.
 * After opening the Gold Box with a Golden Key,\
@@ -94,7 +94,7 @@ The following rules apply to the Gold Box system:
 
 골드 박스에는 다음과 같은 규칙이 적용됩니다.
 
-* 골드 박스는 계정 내 [**채굴 세팅**](../../growth/mining-settings/)**에서 설정한 일일 골드 채굴량의 최대 2%까지** 적립됩니다.
+* 골드 박스는 계정 내 [**채굴 세팅**](../../growth/boost-cap/)**에서 설정한 일일 골드 채굴량의 최대 2%까지** 적립됩니다.
 * 골드 박스가 가득 찬 상태에서는 **보너스 골드가 더 이상 적립되지 않습니다.**
 * 황금 열쇠로 골드 박스를 열면, 다시 골드 박스를 적립할 수 있습니다.
 * **레이드 보상으로 획득한 골드**에는 골드 박스 보너스가 적용되지 않습니다.
@@ -143,7 +143,7 @@ The following rules apply to the Gold Box system:
 ゴールドボックスには、以下のルールが適用されます。
 
 * ゴールドボックスには、\
-  アカウント内の [**採掘セッティング**](../../growth/mining-settings/)**で設定された1日のゴールド採掘量の最大2％まで**\
+  アカウント内の [**採掘セッティング**](../../growth/boost-cap/)**で設定された1日のゴールド採掘量の最大2％まで**\
   蓄積されます。
 * ゴールドボックスが満タンの状態では、**それ以上ボーナスゴールドは蓄積されません。**
 * ゴールデンキーでゴールドボックスを開くと、再びゴールドの蓄積が可能になります。

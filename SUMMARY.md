@@ -99,11 +99,12 @@
   * [⚡ Enchant Stage Additional Effects](growth/enchantment/enchant-stage-additional-effects.md)
   * [💔 Enchantment Failed](growth/enchantment/enchantment-failed.md)
   * [💎 Support Items](growth/enchantment/support-items.md)
-* [⛏️ Mining Settings](growth/mining-settings/README.md)
-  * [🤠 Hero NFT Settings](growth/mining-settings/hero-nft-settings/README.md)
-    * [📂 Base Daily Gold Limit](growth/mining-settings/hero-nft-settings/base-daily-gold-limit.md)
-    * [📂 Base Daily Gathering Limit](growth/mining-settings/hero-nft-settings/base-daily-gathering-limit.md)
-  * [⚔️ Equipment Settings](growth/mining-settings/equipment-settings.md)
+* [⛏️ Boost Cap](growth/boost-cap/README.md)
+  * [🤠 Hero NFT Settings](growth/boost-cap/hero-nft-settings/README.md)
+    * [📂 Base Daily Gold Limit](growth/boost-cap/hero-nft-settings/base-daily-gold-limit.md)
+    * [📂 Base Daily Gathering Limit](growth/boost-cap/hero-nft-settings/base-daily-gathering-limit.md)
+  * [⚔️ Equipment Settings](growth/boost-cap/equipment-settings.md)
+* [❇️ Skill Simulation Info](growth/skill-simulation-info.md)
 
 ## 🗃️ SYSTEM
 
