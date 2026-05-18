@@ -39,21 +39,7 @@ even the same Succession Hero can exhibit different play styles and combat flows
 
 👇 Detailed information on each Succession Hero can be found through the links below.
 
-{% content-ref url="indra.md" %}
-[indra.md](indra.md)
-{% endcontent-ref %}
-
-{% content-ref url="nanna.md" %}
-[nanna.md](nanna.md)
-{% endcontent-ref %}
-
-{% content-ref url="lakshmi.md" %}
-[lakshmi.md](lakshmi.md)
-{% endcontent-ref %}
-
-{% content-ref url="asura.md" %}
-[asura.md](asura.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Indra</h2><p>The Aurora Thunder</p></td><td><a href="../../../.gitbook/assets/Indra (1).jpeg">Indra (1).jpeg</a></td><td><a href="https://extocium.com/hero_indra/">https://extocium.com/hero_indra/</a></td></tr><tr><td><h2>Nanna</h2><p>The Silver Moon</p></td><td><a href="../../../.gitbook/assets/Nanna.png">Nanna.png</a></td><td><a href="https://extocium.com/hero_nanna/">https://extocium.com/hero_nanna/</a></td></tr><tr><td><h2>Lakshmi</h2><p>The White Lotus</p></td><td><a href="../../../.gitbook/assets/Lakshmi (1).jpeg">Lakshmi (1).jpeg</a></td><td><a href="https://extocium.com/hero_lakshmi-2/">https://extocium.com/hero_lakshmi-2/</a></td></tr><tr><td><h2>Asura</h2><p>The Red Rupture</p></td><td><a href="../../../.gitbook/assets/Asura (1).jpeg">Asura (1).jpeg</a></td><td><a href="https://extocium.com/hero_asura-2/">https://extocium.com/hero_asura-2/</a></td></tr></tbody></table>
 
 ***
 
