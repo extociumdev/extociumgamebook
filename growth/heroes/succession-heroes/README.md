@@ -38,13 +38,6 @@ even the same Succession Hero can exhibit different play styles and combat flows
 #### ◾ Succession Hero Details
 
 👇 Detailed information on each Succession Hero can be found through the links below.
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Indra</h2><p>The Aurora Thunder</p></td><td><a href="../../../.gitbook/assets/Indra (1).jpeg">Indra (1).jpeg</a></td><td><a href="https://extocium.com/hero_indra/">https://extocium.com/hero_indra/</a></td></tr><tr><td><h2>Nanna</h2><p>The Silver Moon</p></td><td><a href="../../../.gitbook/assets/Nanna.png">Nanna.png</a></td><td><a href="https://extocium.com/hero_nanna/">https://extocium.com/hero_nanna/</a></td></tr><tr><td><h2>Lakshmi</h2><p>The White Lotus</p></td><td><a href="../../../.gitbook/assets/Lakshmi (1).jpeg">Lakshmi (1).jpeg</a></td><td><a href="https://extocium.com/hero_lakshmi-2/">https://extocium.com/hero_lakshmi-2/</a></td></tr><tr><td><h2>Asura</h2><p>The Red Rupture</p></td><td><a href="../../../.gitbook/assets/Asura (1).jpeg">Asura (1).jpeg</a></td><td><a href="https://extocium.com/hero_asura-2/">https://extocium.com/hero_asura-2/</a></td></tr></tbody></table>
-
-***
-
-✨ Succession Heroes expand the core combat system of **EXTOCIUM**.\
-✨ Discover new battles through strategic skill choices and growth.
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -76,27 +69,6 @@ even the same Succession Hero can exhibit different play styles and combat flows
 #### ◾ 계승 영웅 상세 정보
 
 👇 각 계승 영웅의 상세 정보는 아래 **링크**에서 확인해 주세요.
-
-{% content-ref url="indra.md" %}
-[indra.md](indra.md)
-{% endcontent-ref %}
-
-{% content-ref url="nanna.md" %}
-[nanna.md](nanna.md)
-{% endcontent-ref %}
-
-{% content-ref url="lakshmi.md" %}
-[lakshmi.md](lakshmi.md)
-{% endcontent-ref %}
-
-{% content-ref url="asura.md" %}
-[asura.md](asura.md)
-{% endcontent-ref %}
-
-***
-
-✨ **계승 영웅은 EXTOCIUM 전투 시스템의 확장형 콘텐츠입니다.**\
-✨ **전략적인 스킬 선택과 성장으로 새로운 전투를 경험해 보세요.**
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -131,28 +103,9 @@ even the same Succession Hero can exhibit different play styles and combat flows
 #### ◾ 継承ヒーロー詳細情報
 
 👇 各継承ヒーローの詳細情報は、以下のリンクからご確認いただけます。
-
-{% content-ref url="indra.md" %}
-[indra.md](indra.md)
-{% endcontent-ref %}
-
-{% content-ref url="nanna.md" %}
-[nanna.md](nanna.md)
-{% endcontent-ref %}
-
-{% content-ref url="lakshmi.md" %}
-[lakshmi.md](lakshmi.md)
-{% endcontent-ref %}
-
-{% content-ref url="asura.md" %}
-[asura.md](asura.md)
-{% endcontent-ref %}
-
-***
-
-✨ 継承ヒーローは、**EXTOCIUM戦闘システムを拡張するコンテンツ**です。\
-✨ 戦略的なスキル選択と成長によって、新たな戦闘体験をお楽しみください。
 {% endtab %}
 {% endtabs %}
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Indra</h2><p>The Aurora Thunder</p></td><td><a href="../../../.gitbook/assets/Indra (1).jpeg">Indra (1).jpeg</a></td><td><a href="https://extocium.com/hero_indra/">https://extocium.com/hero_indra/</a></td></tr><tr><td><h2>Nanna</h2><p>The Silver Moon</p></td><td><a href="../../../.gitbook/assets/Nanna.png">Nanna.png</a></td><td><a href="https://extocium.com/hero_nanna/">https://extocium.com/hero_nanna/</a></td></tr><tr><td><h2>Lakshmi</h2><p>The White Lotus</p></td><td><a href="../../../.gitbook/assets/Lakshmi (1).jpeg">Lakshmi (1).jpeg</a></td><td><a href="https://extocium.com/hero_lakshmi-2/">https://extocium.com/hero_lakshmi-2/</a></td></tr><tr><td><h2>Asura</h2><p>The Red Rupture</p></td><td><a href="../../../.gitbook/assets/Asura (1).jpeg">Asura (1).jpeg</a></td><td><a href="https://extocium.com/hero_asura-2/">https://extocium.com/hero_asura-2/</a></td></tr></tbody></table>
 
 <p align="right"><sup><em>※ This guide was written based on the game status as of April 08, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
