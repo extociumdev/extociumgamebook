@@ -130,32 +130,20 @@ PKフィールドに関する詳しい内容は、[**PKページ**](../../system
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="lv.10-green-field.md" %}
-[lv.10-green-field.md](lv.10-green-field.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Green Field</h2></td><td><strong>Lv. 1-10</strong></td><td><a href="../../.gitbook/assets/map001_B.png">map001_B.png</a></td><td><a href="https://extocium.com/land_greenfield/">https://extocium.com/land_greenfield/</a></td></tr><tr><td><h2>Mushroom Monster</h2></td><td>Field Raid</td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M1_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M1_Raid.png</a></td><td><a href="https://extocium.com/mushroommonster/">https://extocium.com/mushroommonster/</a></td></tr></tbody></table>
 
-{% content-ref url="lv.20-rahans-manor/" %}
-[lv.20-rahans-manor](lv.20-rahans-manor/)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Rahan’s Manor</h2></td><td><strong>Lv. 11-20</strong></td><td><a href="../../.gitbook/assets/map002_B.png">map002_B.png</a></td><td><a href="https://extocium.com/land_rahansmanor/">https://extocium.com/land_rahansmanor/</a></td></tr><tr><td><h2>Lizard Man</h2></td><td>Field Raid</td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M2_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M2_Raid.png</a></td><td><a href="https://extocium.com/land_rahansmanor/">https://extocium.com/land_rahansmanor/</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-{% content-ref url="lv.30-cursed-tomb.md" %}
-[lv.30-cursed-tomb.md](lv.30-cursed-tomb.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Cursed Tomb</h2></td><td><strong>Lv. 21-30</strong></td><td><a href="../../.gitbook/assets/map003_B.png">map003_B.png</a></td><td><a href="https://extocium.com/land_cursedtomb/">https://extocium.com/land_cursedtomb/</a></td></tr><tr><td><h2>Cursed Wizard</h2></td><td>Field Raid</td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M3_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M3_Raid.png</a></td><td><a href="https://extocium.com/cursedwizard/">https://extocium.com/cursedwizard/</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-{% content-ref url="lv.40-temple-of-agade-pk.md" %}
-[lv.40-temple-of-agade-pk.md](lv.40-temple-of-agade-pk.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Temple of Agade</h2></td><td><strong>Lv. 31-40</strong></td><td><mark style="color:$danger;"><strong>PK</strong></mark></td><td><a href="../../.gitbook/assets/map004_B.png">map004_B.png</a></td><td></td></tr><tr><td><h2>Humbaba</h2></td><td>Field Raid</td><td></td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M4_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M4_Raid.png</a></td><td><a href="https://extocium.com/humbaba/">https://extocium.com/humbaba/</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-{% content-ref url="lv.45-goblins-mine-pk.md" %}
-[lv.45-goblins-mine-pk.md](lv.45-goblins-mine-pk.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Goblin’s Mine</h2></td><td><strong>Lv. 41-45</strong></td><td><mark style="color:$danger;"><strong>PK</strong></mark></td><td><a href="../../.gitbook/assets/map005_B.png">map005_B.png</a></td><td><a href="https://extocium.com/land_goblinsmine/">https://extocium.com/land_goblinsmine/</a></td></tr><tr><td><h2>Ancient Goblin</h2></td><td>Field Raid</td><td></td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M5_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M5_Raid.png</a></td><td><a href="https://extocium.com/ancientgoblin/">https://extocium.com/ancientgoblin/</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-{% content-ref url="lv.50-savage-forest-pk.md" %}
-[lv.50-savage-forest-pk.md](lv.50-savage-forest-pk.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Savage Forest</h2></td><td><strong>Lv. 46-50</strong></td><td><mark style="color:$danger;"><strong>PK</strong></mark></td><td><a href="../../.gitbook/assets/map006_B.png">map006_B.png</a></td><td><a href="https://extocium.com/land_savageforest/">https://extocium.com/land_savageforest/</a></td></tr><tr><td><h2>Black Lizard</h2></td><td>Field Raid</td><td></td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M6_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M6_Raid.png</a></td><td><a href="https://extocium.com/blacklizard/">https://extocium.com/blacklizard/</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-{% content-ref url="lv.55-ancient-tears-pk.md" %}
-[lv.55-ancient-tears-pk.md](lv.55-ancient-tears-pk.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Ancient Tears</h2></td><td><strong>Lv. 51-55</strong></td><td><mark style="color:$danger;"><strong>PK</strong></mark></td><td><a href="../../.gitbook/assets/map007_B.png">map007_B.png</a></td><td><a href="https://extocium.com/land_ancienttears/">https://extocium.com/land_ancienttears/</a></td></tr><tr><td><h2>Leviathan</h2></td><td>Field Raid</td><td></td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M7_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M7_Raid.png</a></td><td><a href="https://extocium.com/leviathan/">https://extocium.com/leviathan/</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Sargon Garrison</h2></td><td><strong>Lv. 56-59</strong></td><td><mark style="color:$danger;"><strong>PK</strong></mark></td><td><a href="../../.gitbook/assets/map008_B.png">map008_B.png</a></td><td><a href="https://extocium.com/land_sargongarrison/">https://extocium.com/land_sargongarrison/</a></td></tr><tr><td><h2>Insane Sargon</h2></td><td>Field Raid</td><td></td><td><a href="https://extocium.com/wp-content/uploads/2025/10/C_M8_Raid.png">https://extocium.com/wp-content/uploads/2025/10/C_M8_Raid.png</a></td><td><a href="https://extocium.com/insanesargon/">https://extocium.com/insanesargon/</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 <p align="right"><sup><em>※ This guide was written based on the game status as of January 23, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
