@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🎲 Animal Rumble
 
+<figure><img src="../.gitbook/assets/AnimalGambit_Badge.png" alt="" width="256"><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 💰 Animal Rumble – Game Rules Guide

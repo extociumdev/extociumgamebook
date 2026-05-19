@@ -6,7 +6,7 @@ coverY: 96.82576321667908
 
 # 🎮 Free Arena
 
-<figure><img src="../../.gitbook/assets/FreeArena_Badge (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FreeArena_Badge (2).png" alt="" width="256"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

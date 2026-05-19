@@ -2,7 +2,9 @@
 description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
-# ⛏️ Mining Settings
+# ⛏️ Boost Cap
+
+<figure><img src="../../.gitbook/assets/Icon_Boost.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
