@@ -2,7 +2,7 @@
 description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
-# 🪬 Asset Rental
+# 💳 Asset Rental
 
 {% tabs %}
 {% tab title="ENG" %}

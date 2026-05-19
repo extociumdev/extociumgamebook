@@ -203,7 +203,7 @@
   * [🔯 XTO Shop](economy/shop/xto-shop.md)
   * [🏵️ X-Point Shop](economy/shop/x-point-shop.md)
   * [🧣 Skin info](economy/shop/skin-info.md)
-  * [🪬 Asset Rental](economy/shop/asset-rental/README.md)
+  * [💳 Asset Rental](economy/shop/asset-rental/README.md)
     * [🧝 Hero Rental](economy/shop/asset-rental/hero-rental.md)
     * [🗡️ Weapon Rental](economy/shop/asset-rental/weapon-rental.md)
 * [📈 Trade](economy/trade/README.md)
