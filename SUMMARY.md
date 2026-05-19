@@ -136,6 +136,7 @@
   * [📁 Game Options](gamemode/free-arena/game-options.md)
 * [❄️ Frost War](gamemode/frost-war/README.md)
   * [🏰 Club Frost War](gamemode/frost-war/club-frost-war.md)
+* [🎲 Animal Rumble](gamemode/animal-rumble.md)
 * [🎲 Rabbit Rush](gamemode/rabbit-rush/README.md)
   * [📁 Entrance](gamemode/rabbit-rush/entrance.md)
   * [📁 Buy tickets](gamemode/rabbit-rush/buy-tickets.md)
