@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🔢 Wallet Setup
 
-<figure><img src="../../../.gitbook/assets/Gemini_Generated_Image_vjhld9vjhld9vjhl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/walletseup.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
