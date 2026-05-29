@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🤝 XTO Swap Service
 
-<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_w4y73tw4y73tw4y7 (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/swapxto2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
