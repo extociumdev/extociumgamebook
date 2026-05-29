@@ -113,9 +113,9 @@ Detailed Set Effect values can be checked in the table below:\
 | 68               | CON +1                                    |
 | 72               | WIS +1                                    |
 | 76               | CHA +1                                    |
-| 80               | EVA <mark style="color:blue;">\*5%</mark> |
+| 80               | DEX +3                                    |
 | 81               | WIS +3                                    |
-| 82               | DEX +3                                    |
+| 82               | EVA <mark style="color:blue;">\*5%</mark> |
 | 83               | CHA +3                                    |
 | 84               | CON +8                                    |
 {% endtab %}
@@ -169,9 +169,9 @@ Detailed Set Effect values can be checked in the table below:\
 | 68               | CON +1                                    |
 | 72               | WIS +1                                    |
 | 76               | CHA +1                                    |
-| 80               | EVA <mark style="color:blue;">\*5%</mark> |
+| 80               | DEX +3                                    |
 | 81               | WIS +3                                    |
-| 82               | DEX +3                                    |
+| 82               | EVA <mark style="color:blue;">\*5%</mark> |
 | 83               | CHA +3                                    |
 | 84               | CON +8                                    |
 {% endtab %}
