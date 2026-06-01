@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🤠 Heroes
 
-<figure><img src="../../.gitbook/assets/ChatGPT Image 2026년 6월 1일 오후 02_10_51.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image 2026년 6월 1일 오후 02_20_11.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
