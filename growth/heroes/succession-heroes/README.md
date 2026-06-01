@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🎖️ Succession Heroes
 
+<figure><img src="../../../.gitbook/assets/ChatGPT Image 2026년 6월 1일 오후 02_34_51.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 🌟 Succession Heroes

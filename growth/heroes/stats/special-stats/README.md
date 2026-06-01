@@ -55,22 +55,22 @@ Special Stats can be allocated from the **Hero Info screen**.
 
 1️⃣ Open the selected Hero’s **Info Widget**
 
-<figure><img src="../../../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Check the **Special Stats section** at the bottom-left\
 3️⃣ When SP is earned through leveling, the information updates automatically
 
-<figure><img src="../../../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash2 (4).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ Tap the **\[More]** button to move to the stat allocation screen
 
-<figure><img src="../../../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash3 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ SP Investment & Application
 
-<figure><img src="../../../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash4.png" alt=""><figcaption></figcaption></figure>
 
 * **\[&#x20;**<mark style="color:green;">**+**</mark>**&#x20;] Button**: Invest +1 SP into the selected Special Stat
 * **\[&#x20;**<mark style="color:red;">**−**</mark>**&#x20;] Button**: Remove −1 invested SP
@@ -86,15 +86,15 @@ Special Stats can be reset **at any time**.
 
 1️⃣ Tap the **\[Details]** button at the top-left of the Hero Info Widget
 
-<figure><img src="../../../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash5.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ View the Hero’s **Base Stats (initial stats)**
 
-<figure><img src="../../../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash6 (1).png" alt=""><figcaption></figcaption></figure>
 
-3️⃣ Tap **\[Reset]** to open the reset window다.
+3️⃣ Tap **\[Reset]** to open the reset window.
 
-<figure><img src="../../../../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/DASH7.png" alt=""><figcaption></figcaption></figure>
 
 📘 **Reset Item**
 
@@ -156,22 +156,22 @@ Special Stats can be reset **at any time**.
 
 1️⃣ 보유 영웅의 **정보 위젯**을 엽니다.
 
-<figure><img src="../../../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 좌측 하단에서 **스페셜 스탯 정보**를 확인합니다.\
 3️⃣ 레벨업으로 SP를 획득하면, 해당 정보가 업데이트됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash2 (4).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ **\[더보기] 버튼**을 눌러 스탯 분배 화면으로 이동하세요.
 
-<figure><img src="../../../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash3 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ SP 투자 및 적용
 
-<figure><img src="../../../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash4.png" alt=""><figcaption></figcaption></figure>
 
 * **\[&#x20;**<mark style="color:green;">**+**</mark>**&#x20;] 버튼**: 선택한 스페셜 스탯에 SP를 +1 투자합니다.
 * **\[&#x20;**<mark style="color:red;">**−**</mark>**&#x20;] 버튼**: 투자한 SP를 −1 회수합니다.
@@ -187,15 +187,15 @@ Special Stats can be reset **at any time**.
 
 1️⃣ 영웅 정보 위젯 좌측 상단의 **\[상세정보] 버튼** 터치
 
-<figure><img src="../../../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash5.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 영웅의 **베이스 스탯(초기 스탯)** 확인 가능
 
-<figure><img src="../../../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash6 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ **\[초기화] 버튼**을 누르면 초기화 위젯이 표시됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/DASH7.png" alt=""><figcaption></figcaption></figure>
 
 📘 **초기화 아이템**
 
@@ -259,22 +259,22 @@ Special Stats can be reset **at any time**.
 
 1️⃣ 対象ヒーローの **情報ウィジェット** を開きます
 
-<figure><img src="../../../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 左下で **スペシャルステータス情報** を確認します\
 3️⃣ レベルアップでSPを獲得すると、情報が更新されます
 
-<figure><img src="../../../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash2 (4).png" alt=""><figcaption></figcaption></figure>
 
 4️&#x20E3;**［もっと見る］** ボタンを押して、ステータス分配画面へ移動してください
 
-<figure><img src="../../../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash3 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ SPの投資と適用
 
-<figure><img src="../../../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash4.png" alt=""><figcaption></figcaption></figure>
 
 * **\[&#x20;**<mark style="color:green;">**+**</mark>**&#x20;] ボタン**：選択したステータスにSPを +1 投資
 * **\[&#x20;**<mark style="color:red;">**−**</mark>**&#x20;] ボタン**：投資したSPを −1 回収
@@ -290,15 +290,15 @@ Special Stats can be reset **at any time**.
 
 1️⃣ ヒーロー情報ウィジェット左上の **［詳細情報］** をタップ
 
-<figure><img src="../../../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash5.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ヒーローの **ベースステータス（初期ステータス）** を確認
 
-<figure><img src="../../../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/dash6 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️&#x20E3;**［初期化］** ボタンを押すと、初期化ウィジェットが表示されます
 
-<figure><img src="../../../../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/DASH7.png" alt=""><figcaption></figcaption></figure>
 
 📘 **初期化アイテム**
 
