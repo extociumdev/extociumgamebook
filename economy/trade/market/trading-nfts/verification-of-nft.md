@@ -51,7 +51,7 @@ You can verify NFT details in two ways:
 
 In NFT SEARCH, you can view:
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 > **Hero Type**\
 > **Current Owner**\
@@ -168,7 +168,7 @@ NFT 정보는 아래 두 가지 방법으로 확인할 수 있습니다.
 
 NFT SEARCH에서는 아래 정보를 확인할 수 있습니다.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 > **영웅 타입**\
 > **NFT 소유자 정보**\
@@ -286,7 +286,7 @@ NFT情報は、以下の2つの方法で確認できます。
 
 NFT SEARCHでは、以下の情報を確認できます。
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 > **ヒーロータイプ**\
 > **NFTの所有者情報**\

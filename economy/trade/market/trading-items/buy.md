@@ -23,7 +23,7 @@ through the in-game market.
 
 2️⃣ From the Dashboard, select the **Market** button.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -117,7 +117,7 @@ Some items have a limited claim period. Make sure to claim them within the avail
 
 2️⃣ 대시보드에서 **거래소** 버튼을 선택합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -210,7 +210,7 @@ Some items have a limited claim period. Make sure to claim them within the avail
 
 2️⃣ ダッシュボードで**マーケット**ボタンを選択します。
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

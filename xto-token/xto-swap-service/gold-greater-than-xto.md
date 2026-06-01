@@ -62,7 +62,7 @@ The amount of XTO you can swap per day depends on your accumulated TP.
 
 Find the town NPC **YEYILEL** and select the **XTO Swap Service**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### ※ You must meet the swap requirements listed above to proceed.
@@ -72,7 +72,7 @@ Find the town NPC **YEYILEL** and select the **XTO Swap Service**.
 
 #### 2️⃣ Review Swap Information
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the XTO Swap screen, you can review the following:
 
@@ -164,7 +164,7 @@ If your wallet is connected, the XTO will be reflected in your connected wallet 
 
 마을 NPC **예이렐**을 찾아가 XTO 스왑 서비스를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### ※ 위의 스왑 조건을 충족해야만 이용할 수 있습니다.
@@ -174,7 +174,7 @@ If your wallet is connected, the XTO will be reflected in your connected wallet 
 
 #### 2️⃣ 스왑 정보 확인
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 XTO 스왑 서비스 화면에서 다음 정보를 확인할 수 있습니다.
 
@@ -267,7 +267,7 @@ XTO 스왑 서비스 화면에서 다음 정보를 확인할 수 있습니다.
 
 町のNPC **イェイレル** を訪れ、XTOスワップサービスを選択します。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### ※ 上記のスワップ条件を満たしている場合のみ利用できます。
@@ -277,7 +277,7 @@ XTO 스왑 서비스 화면에서 다음 정보를 확인할 수 있습니다.
 
 #### 2️⃣ スワップ情報の確認
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 XTOスワップ画面では、次の内容を確認できます。
 

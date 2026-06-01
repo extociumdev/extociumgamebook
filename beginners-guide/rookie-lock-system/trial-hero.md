@@ -1,6 +1,6 @@
 # 🐤 Trial Hero
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image 2026년 6월 1일 오후 12_11_11.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -37,7 +37,7 @@ You can select **1 out of EXTOCIUM’s** [**7 base heroes**](../../growth/heroes
 Each hero comes with **7 available skills**.\
 You’ll choose **2 skills** to use in combat.
 
-<figure><img src="../../.gitbook/assets/image (938).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 👉 This combo becomes your **first combat style**, so feel free to experiment!
 
@@ -124,7 +124,7 @@ EXTOCIUM의 [**일곱 기본 영웅**](../../growth/heroes/#heroes) 중 1명을 
 각 영웅마다 사용할 수 있는 스킬이 7가지 준비되어 있으며,\
 그중 **2개를 골라 전투에 사용하게 됩니다.**
 
-<figure><img src="../../.gitbook/assets/image (938).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 👉 이 조합이 당신의 첫 전투 스타일이 됩니다.
 
@@ -212,7 +212,7 @@ EXTOCIUMに登場する [**7人の基本ヒーロー**](../../growth/heroes/#her
 各ヒーローには **7種類のスキル** が用意されており、\
 その中から **2つのスキル** を選んで戦闘に使用します。
 
-<figure><img src="../../.gitbook/assets/image (938).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 👉 この組み合わせが、あなたの最初の戦闘スタイルになります。
 

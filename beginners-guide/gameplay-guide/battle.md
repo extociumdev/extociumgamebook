@@ -136,7 +136,7 @@ All cooldown-related information is shown directly on the skill slot UI.
 
 #### ◾ Skill Icon Border Color (Skill Type)
 
-<figure><img src="../../.gitbook/assets/dsgfsef.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/skilllllll.png" alt="" width="563"><figcaption></figcaption></figure>
 
 The color of the outer border shows the skill type:
 
@@ -381,7 +381,7 @@ CHA 스탯 투자로는 감소되지 않습니다.
 
 #### ◾ 스킬 아이콘 외곽 색상 (스킬 유형)
 
-<figure><img src="../../.gitbook/assets/dsgfsef.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/skilllllll.png" alt="" width="563"><figcaption></figcaption></figure>
 
 스킬 아이콘 바깥 원형 테두리의 **색상**은 해당 스킬의 **유형**을 나타냅니다.
 
@@ -616,7 +616,7 @@ CHAへの投資では短縮されません。
 
 #### ◾ スキルアイコン外枠の色（スキルタイプ）
 
-<figure><img src="../../.gitbook/assets/dsgfsef.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/skilllllll.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **赤**：範囲攻撃スキル
 * **紫**：召喚スキル

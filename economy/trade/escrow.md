@@ -52,7 +52,7 @@ Escrow trades proceed in the following order:
 5️⃣ Enter the requested **payment amount (Gold)**. \
 <sup><mark style="color:$danger;">※ Currently, only Gold is supported. Payment requests using XTO and BNB will be added in future updates.<mark style="color:$danger;"></sup>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ Select **Send** to complete the payment request.\
 At this point, **1 Equipment Trade Ticket** is consumed.
@@ -159,7 +159,7 @@ You can obtain an Equipment Trade Ticket using the methods below.
 4️⃣ 거래할 상대의 **게임 닉네임을 정확히 입력**합니다.\
 5️⃣ 요청할 **대금(골드)**&#xC744; 입력합니다. <sup><mark style="color:$danger;">※ 현재는 골드만 지원되며, 추후 XTO 및 BNB 대금 요청 기능이 추가될 예정입니다.<mark style="color:$danger;"></sup>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ **보내기** 버튼을 선택하면, 대금 요청이 완료되고 **장비 거래권 1장**이 소모됩니다.
 
@@ -264,7 +264,7 @@ You can obtain an Equipment Trade Ticket using the methods below.
 5️⃣ 請求する**代金（ゴールド）**&#x3092;入力します。\
 <sup><mark style="color:$danger;">※ 現在はゴールドのみ対応しており、今後、XTOおよびBNBでの代金請求機能が追加される予定です。<mark style="color:$danger;"></sup>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ **送信**ボタンを選択すると、代金リクエストが完了し、**装備取引券が1枚消費**されます。
 

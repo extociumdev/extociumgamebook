@@ -35,7 +35,7 @@ You can check Field Boss spawn status and schedules in the following ways:
 
 * Check **Today's To-Do** to see today’s Field Boss information.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Tap **Event Schedule** to view the full schedule.
 
@@ -106,7 +106,7 @@ _📌 Reward Pools are applied **automatically** once conditions are met._
 
 * **Today's To-Do**에서 오늘의 보스 정보를 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **이벤트 스케줄**을 터치하면 전체 스케줄을 확인할 수 있습니다.
 
@@ -177,7 +177,7 @@ _📌 보상 풀은 조건에 따라 **자동 적용**됩니다._
 
 * **Today's To-Do** から、本日のフィールドボス情報を確認できます。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **イベントスケジュール**をタップすると、全体スケジュールを確認できます。
 
