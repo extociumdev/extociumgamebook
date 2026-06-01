@@ -44,7 +44,7 @@ Please proceed slowly while checking the images for each step.
 
 🎯 Select the **helmet icon** on the left side of the game screen to open the dashboard.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/main_helmet (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -52,7 +52,7 @@ Please proceed slowly while checking the images for each step.
 
 🛠️ From the left menu of the dashboard, select **Craft** to open the crafting screen.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dashboard_craft (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -70,7 +70,7 @@ then click the desired item.
 
 _📌 In this guide, **“Awakening Darkness” (Weapon)** is used as an example._
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/craft_equipment.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -81,7 +81,7 @@ _📌 In this guide, **“Awakening Darkness” (Weapon)** is used as an example
 
 _※ The moment crafting is completed, the equipment is **minted as an NFT**._
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/craft_awakening.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -151,7 +151,7 @@ EXTOCIUM에서는\
 
 🎯 게임 화면 좌측에 있는 **투구 아이콘**을 선택하면 대시보드로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/main_helmet (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -159,7 +159,7 @@ EXTOCIUM에서는\
 
 🛠️ 대시보드 좌측 메뉴에서 **제작(Craft)** 을 선택하면 제작 화면이 열립니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dashboard_craft (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -176,7 +176,7 @@ EXTOCIUM에서는\
 
 📌 **이 가이드에서는 무기(Weapon) 중 「깨어나는 어둠」을 예시로 설명합니다.**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/craft_equipment.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -187,7 +187,7 @@ EXTOCIUM에서는\
 
 _※ 제작이 완료되는 순간, 해당 장비는 NFT로 민팅됩니다._
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/craft_awakening.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -259,7 +259,7 @@ _※ 아직 지갑을 연결하지 않았다면 먼저_ [_**Wallet Setup**_](../
 
 🎯 ゲーム画面左側にある **ヘルメットアイコン**を選択すると、ダッシュボードが開きます。
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/main_helmet (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -267,7 +267,7 @@ _※ 아직 지갑을 연결하지 않았다면 먼저_ [_**Wallet Setup**_](../
 
 🛠️ ダッシュボード左側のメニューから **Craft（制作）** を選択すると、制作画面が表示されます。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dashboard_craft (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -284,7 +284,7 @@ _※ 아직 지갑을 연결하지 않았다면 먼저_ [_**Wallet Setup**_](../
 
 _📌 本ガイドでは、**武器（Weapon）の「目覚める闇」** を例に説明します。_
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/craft_equipment.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -295,7 +295,7 @@ _📌 本ガイドでは、**武器（Weapon）の「目覚める闇」** を例
 
 _※ 制作完了と同時に、その装備は **NFTとしてミント**されます。_
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/craft_awakening.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
