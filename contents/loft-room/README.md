@@ -2,18 +2,20 @@
 description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
-# 🏠 My Home
+# 🏠 Loft Room
+
+<figure><img src="../../.gitbook/assets/loftroom.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
-### 🏠 My Home Guide
+### 🏠 Loft Room Guide
 
-My Home is a **personal space** available to adventurers.\
-By unlocking the **attic located in Rottenhill**, you can access all My Home features.
+Loft Room is a **personal space** available to adventurers.\
+By unlocking the **attic located in Rotten hill**, you can access all My Home features.
 
 ***
 
-### ◾ My Home Unlock Requirements
+### ◾ Loft Room Unlock Requirements
 
 You can unlock the attic by meeting the following condition:
 
@@ -21,9 +23,9 @@ You can unlock the attic by meeting the following condition:
 
 ***
 
-### ◾ How to Unlock My Home
+### ◾ How to Unlock Loft Room
 
-1️⃣ Move to the attic location in **Rottenhill** and tap the **\[My Home]** button.
+1️⃣ Move to the attic location in **Rotten hill** and tap the **\[Loft Room]** button.
 
 <figure><img src="../../.gitbook/assets/mh2 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,13 +44,13 @@ You can unlock the attic by meeting the following condition:
 
 ***
 
-### ◾ Inside the Attic
+### ◾ Inside the Loft Room
 
 When you enter the attic for the first time,\
-you can check the various facilities available in My Home.\
-The following features are available in My Home:
+you can check the various facilities available in Loft Room.\
+The following features are available in Loft Room:
 
-👇 A **training space** you can access through a portal in My Home.\
+👇 A **training space** you can access through a portal in Loft Room.\
 You can freely switch between different Heroes and weapons\
 to test combat performance.
 
@@ -80,19 +82,19 @@ to test combat performance.
 [personal-safe.md](personal-safe.md)
 {% endcontent-ref %}
 
-Each facility is a core feature of My Home,\
+Each facility is a core feature of Loft Room,\
 and you can check detailed usage instructions through each menu.
 
 ***
 
 ✨
 
-> **My Home is more than just a place to rest.**\
+> **Loft Room is more than just a place to rest.**\
 > **It is a central hub designed to make your adventures more efficient—**\
 > **from combat preparation and item management**\
 > **to unlocking special equipment.**
 >
-> **Make the most of My Home and get ready for your next adventure.**
+> **Make the most of Loft Room and get ready for your next adventure.**
 {% endtab %}
 
 {% tab title="한국어" %}

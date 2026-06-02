@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🏺 Naraka Dungeon
 
-<figure><img src="../.gitbook/assets/Wave_Badge.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/naraka.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
