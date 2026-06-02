@@ -1,6 +1,6 @@
 # 🐤 Trial Hero
 
-<figure><img src="../../.gitbook/assets/ChatGPT Image 2026년 6월 1일 오후 12_11_11.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image 2026년 6월 2일 오전 10_50_40.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
