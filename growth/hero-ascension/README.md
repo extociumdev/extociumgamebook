@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ❤️‍🔥 Hero Ascension
 
+<figure><img src="../../.gitbook/assets/Hero Ascension.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 #### 💡 **Access various systems to power up your Hero.**
