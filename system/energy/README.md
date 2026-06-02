@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ⚡ Energy
 
-<figure><img src="../../.gitbook/assets/Icon_Energy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/energy.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

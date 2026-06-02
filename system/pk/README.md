@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ⚠️ PK
 
-<figure><img src="../../.gitbook/assets/LevelupPK.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pk.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
