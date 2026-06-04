@@ -19,11 +19,11 @@ You can purchase the PK Shield by following the steps below:
 
 1️⃣ Tap the helmet icon on the home screen.
 
-<figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Enter the **dashboard**, then tap **SHOP**.
 
-<figure><img src="../../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ Go to the **Item Shop** to purchase the PK Shield.
 
@@ -35,11 +35,11 @@ You can purchase the PK Shield by following the steps below:
 
 * Purchase using BNB or Gems (Available once per week)
 
-<figure><img src="../../.gitbook/assets/image (1103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1121).png" alt=""><figcaption></figcaption></figure>
 
 * Purchase using XTO (Available once per week)
 
-<figure><img src="../../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right"><sup><em>※ The price of BNB and XTO may fluctuate depending on market conditions.</em></sup></p>
 
@@ -47,7 +47,7 @@ You can purchase the PK Shield by following the steps below:
 
 #### ◾ Usage Info
 
-<figure><img src="../../.gitbook/assets/image (1105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1124).png" alt=""><figcaption></figcaption></figure>
 
 * The PK Shield can be used **up to 3 times per day**.
 * You will receive **5 PK Shields per purchase**.
@@ -93,11 +93,11 @@ PK 실드는 아래 순서에 따라 구매할 수 있습니다.
 
 1️⃣ 홈 화면에서 **투구 아이콘**을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ **대시보드**에 진입한 후, **SHOP**을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ **아이템샵**으로 이동하면 PK 실드를 구매할 수 있습니다.
 
@@ -109,11 +109,11 @@ PK 실드는 아래 순서에 따라 구매할 수 있습니다.
 
 * BNB / 젬을 사용하여 구매 (주 1회 구매 가능)
 
-<figure><img src="../../.gitbook/assets/image (1103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1121).png" alt=""><figcaption></figcaption></figure>
 
 * XTO를 사용하여 구매 (주 1회 구매 가능)
 
-<figure><img src="../../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right"><sub><em>※ BNB 및 XTO의 가격은 시장 상황에 따라 변동될 수 있습니다.</em></sub></p>
 
@@ -121,7 +121,7 @@ PK 실드는 아래 순서에 따라 구매할 수 있습니다.
 
 #### ◾ **이용 정보**
 
-<figure><img src="../../.gitbook/assets/image (1105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1124).png" alt=""><figcaption></figcaption></figure>
 
 * PK 실드는 **하루 최대 3회까지 사용 가능**합니다.
 * 1회 구매 시 **PK 실드 5개를 획득**합니다.
@@ -166,11 +166,11 @@ PKシールドは以下の手順で購入できます。
 
 1️⃣ ホーム画面でヘルメットアイコンをタップします。
 
-<figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ダッシュボードに移動後、SHOPをタップします。
 
-<figure><img src="../../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ アイテムショップに移動すると、PKシールドを購入できます。
 
@@ -182,11 +182,11 @@ PKシールドは以下の手順で購入できます。
 
 * BNB / ジェムで購入（週1回購入可能）
 
-<figure><img src="../../.gitbook/assets/image (1103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1121).png" alt=""><figcaption></figcaption></figure>
 
 * XTOで購入（週1回購入可能）
 
-<figure><img src="../../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right"><sup><em>※ BNBおよびXTOの価格は市場状況により変動する場合があります。</em></sup></p>
 
@@ -194,7 +194,7 @@ PKシールドは以下の手順で購入できます。
 
 #### ◾ 利用情報
 
-<figure><img src="../../.gitbook/assets/image (1105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1124).png" alt=""><figcaption></figcaption></figure>
 
 * PKシールドは1日最大3回まで使用可能です。
 * 1回の購入でPKシールドを5個獲得できます。
