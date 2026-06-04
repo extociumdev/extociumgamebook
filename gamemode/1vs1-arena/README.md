@@ -6,7 +6,7 @@ coverY: 118
 
 # 🏆 1vs1 Arena
 
-<figure><img src="../../.gitbook/assets/arena.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/arena (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
