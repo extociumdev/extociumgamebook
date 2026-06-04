@@ -42,7 +42,7 @@ To store EXP or TP, you will need the corresponding item.
 
 These items can be purchased using [**X Points**](../xto-token/xto-holding-service/x-points-earning-rate.md) **obtained through** [**XTO holding**](../xto-token/xto-holding-service/).
 
-<figure><img src="../.gitbook/assets/ex5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/exp1.png" alt=""><figcaption></figcaption></figure>
 
 After speaking with Amonas, set the amount of EXP or TP you wish to store.
 
@@ -57,7 +57,7 @@ Please note that **storing a large amount at once may result in partial loss** o
 Once the process is complete, a Magic Vial containing EXP or TP\
 will be created in your Inventory.
 
-<figure><img src="../.gitbook/assets/ex7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/exp2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -109,7 +109,7 @@ EXP 또는 TP를 저장하려면 각각 전용 아이템이 필요합니다.
 
 해당 아이템은 [**XTO 홀딩**](../xto-token/xto-holding-service/)을 통해 얻는 [**X 포인트**](../xto-token/xto-holding-service/x-points-earning-rate.md)로 구매할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/ex5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/exp1.png" alt=""><figcaption></figcaption></figure>
 
 아모나스와 대화한 후, 저장하고 싶은 EXP 또는 TP의 양을 설정하세요.
 
@@ -123,7 +123,7 @@ EXP 또는 TP를 저장하려면 각각 전용 아이템이 필요합니다.
 
 저장이 완료되면, EXP 또는 TP가 담긴 호리병 아이템이 인벤토리에 생성됩니다.
 
-<figure><img src="../.gitbook/assets/ex7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/exp2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -175,7 +175,7 @@ EXP または TP を保存するには、それぞれ専用のアイテムが必
 これらのアイテムは、\
 [**XTO ホールディング**](../xto-token/xto-holding-service/)**で獲得できる** [**X ポイント**](../xto-token/xto-holding-service/x-points-earning-rate.md)を使用して購入できます。
 
-<figure><img src="../.gitbook/assets/ex5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/exp1.png" alt=""><figcaption></figcaption></figure>
 
 アモナスと会話した後、保存したい EXP または TP の量を設定してください。
 
@@ -190,7 +190,7 @@ EXP または TP を保存するには、それぞれ専用のアイテムが必
 
 保存が完了すると、EXP または TP が入った魔法の壺アイテムが インベントリに作成されます。
 
-<figure><img src="../.gitbook/assets/ex7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/exp2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -32,7 +32,7 @@ To craft Elemental Gems,\
 you must first learn the Elemental Gem crafting method through **Training > Monsterology**.\
 The **Elemental Fragments** required for crafting can be obtained through raid content.
 
-<figure><img src="../../../.gitbook/assets/eg2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eg1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -85,7 +85,7 @@ Use Elemental Gems to build strategies that match different combat situations.
 엘리멘탈 젬을 제작하려면, 먼저 **기술 연마 > 마물학**에서 엘리멘탈 젬 제작법을 습득해야 합니다.\
 제작에 필요한 **속성 조각**은 [레이드 콘텐츠](../../../gamemode/field-raid-field-boss.md)를 통해 획득할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/eg2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eg1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -137,7 +137,7 @@ Use Elemental Gems to build strategies that match different combat situations.
 
 制作に必要な **属性の欠片**は、レイドコンテンツを通じて獲得できます。
 
-<figure><img src="../../../.gitbook/assets/eg2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eg1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -47,12 +47,12 @@ Obtained Skill Runes are stored in the **Rune** **category** of the Inventory.\
 When you select a Skill Rune from Inventory > Rune Category,\
 the **\[Destroy]** button appears at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/sr5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sr1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Tapping the **\[Destroy]** button destroys the selected Skill Rune and grants byproducts.\
 👉 [**Go to Skill Rune Destruction Probability Guide**](skill-rune.md#skill-rune-destruction-probability-guide)
 
-<figure><img src="../../../.gitbook/assets/sr7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sr2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -127,12 +127,12 @@ the item acquisition probabilities can be checked in the table below.
 
 인벤토리 > 룬 카테고리에서 스킬 룬을 선택하면, 화면 하단에 **\[파괴]** 버튼이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/sr5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sr1 (1).png" alt=""><figcaption></figcaption></figure>
 
 **\[파괴]** 버튼을 터치하면 선택한 스킬 룬이 파괴되며, 부산물을 획득할 수 있습니다.\
 👉 [**스킬 룬 파괴 확률 안내 바로가기**](skill-rune.md#undefined-6)
 
-<figure><img src="../../../.gitbook/assets/sr7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sr2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -208,13 +208,13 @@ the item acquisition probabilities can be checked in the table below.
 インベントリ > ルーンカテゴリーで スキルルーンを選択すると、\
 画面下部に **\[破壊]** ボタンが表示されます。
 
-<figure><img src="../../../.gitbook/assets/sr5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sr1 (1).png" alt=""><figcaption></figcaption></figure>
 
 **\[破壊]** ボタンをタップすると、選択したスキルルーンが破壊され、副産物を獲得できます。
 
 👉 [**スキルルーン破壊確率案内はこちら**](skill-rune.md#sukirurn-2)
 
-<figure><img src="../../../.gitbook/assets/sr7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sr2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
