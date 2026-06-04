@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ✡️ Enchantment
 
-<figure><img src="../../.gitbook/assets/image (975).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/enchantment (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

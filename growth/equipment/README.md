@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # ⚔️ Equipment
 
+<figure><img src="../../.gitbook/assets/equipment.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### ⚔️ Equipment&#x20;

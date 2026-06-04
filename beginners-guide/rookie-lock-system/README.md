@@ -23,7 +23,7 @@ The Rookie Lock exists to:
 
 * Protect new players
 * Prevent multi-account abuse and abnormal resource transfers
-* Keep the [XTO](/broken/pages/AG4T2oH3KnzlguCn0fOx) ecosystem stable and healthy
+* Keep the [XTO](https://app.gitbook.com/s/koBEJEqnxv6otqQj6uFt/xto-token) ecosystem stable and healthy
 
 It may feel a bit restrictive at first,\
 but think of it as a safety net that helps you learn and adapt to the game.
@@ -85,7 +85,7 @@ EXTOCIUM에 처음 입장하면\
 
 * 신규 유저를 보호하고
 * 다계정 생성이나 비정상적인 자원 이동을 막아
-* [**XTO**](/broken/pages/AG4T2oH3KnzlguCn0fOx) **생태계를 안정적으로 유지하기 위한 시스템**입니다.
+* [**XTO**](https://app.gitbook.com/s/koBEJEqnxv6otqQj6uFt/xto-token) **생태계를 안정적으로 유지하기 위한 시스템**입니다.
 
 처음엔 다소 제한적으로 느껴질 수 있지만,\
 게임을 이해하고 적응할 수 있도록 돕는 **안전장치**라고 생각하시면 됩니다.
@@ -143,7 +143,7 @@ EXTOCIUM에 처음 입장하면\
 
 * 新規ユーザーの保護
 * 複数アカウント作成や不正な資産移動の防止
-* [XTO](/broken/pages/AG4T2oH3KnzlguCn0fOx) エコシステムの安定維持
+* [XTO](https://app.gitbook.com/s/koBEJEqnxv6otqQj6uFt/xto-token) エコシステムの安定維持
 
 を目的としたシステムです。
 
