@@ -36,7 +36,7 @@ you can choose whether or not to attack other players (PCs).
 * **PK On**: You can attack other players
 * **PK Off**: You will not initiate attacks on other players
 
-<figure><img src="../../.gitbook/assets/pk1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### Even when PK is set to Off, **you cannot prevent other players from PKing you**.
@@ -188,7 +188,7 @@ HUD 우측 하단의 **PK On / Off 버튼**을 사용하면,\
 * PK On : 다른 플레이어 공격 가능
 * PK Off : 내가 먼저 다른 플레이어를 공격하지 않음
 
-<figure><img src="../../.gitbook/assets/pk1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### 단, PK Off 상태라도 **다른 플레이어가 나를 PK하는 것은 막을 수 없습니다.**
@@ -336,7 +336,7 @@ HUD右下の **PK On / Off ボタン**を使用すると、\
 * **PK On**：他のプレイヤーを攻撃可能
 * **PK Off**：自分から他のプレイヤーを攻撃しません
 
-<figure><img src="../../.gitbook/assets/pk1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 #### ただし、PK Offの状態でも **他のプレイヤーからのPKを防ぐことはできません。**
