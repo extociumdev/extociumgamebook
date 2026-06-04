@@ -4,21 +4,23 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🥩 Abundance and Famine
 
+<figure><img src="../.gitbook/assets/f_A (1).png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
-### 📜 Famine & Abundance Guide
+### 📜 Abundance and Famine Guide
 
 The world of **EXTOCIUM** never stays the same.\
 Depending on the choices and actions of adventurers, \
 the world may enter a time of **abundance**, or fall into a period of **famine**.
 
-This balance is controlled by the **Famine & Abundance system**.
+This balance is controlled by the **Abundance and Famine system**.
 
 ***
 
-### ◾ What Is Famine & Abundance?
+### ◾ What Is Abundance & Famine?
 
-Famine & Abundance is a system that changes the state of the game\
+Abundance & Famine is a system that changes the state of the game\
 based on the **total amount of XTO swapped across the server**.
 
 * The system operates in **8-hour cycles**.
@@ -107,7 +109,7 @@ EXTOCIUM의 세계는 항상 같은 보상을 주지 않습니다.\
 모험가들의 선택과 행동에 따라, 지금은 **풍요로운 시간**이 될 수도 있고,\
 조금 **메마른 시간**이 될 수도 있습니다.
 
-이 변화를 관리하는 시스템이 바로 **풍요와 기근(Famine & Abundance)** 입니다.
+이 변화를 관리하는 시스템이 바로 **풍요와 기근(Abundance and Famine)** 입니다.
 
 ***
 
@@ -196,7 +198,7 @@ EXTOCIUM의 세계는 항상 같은 보상을 주지 않습니다.\
 冒険者たちの選択と行動によって、今が**豊穣の時間**になることもあれば、\
 少し**厳しい時間**になることもあります。
 
-この変化を管理するシステムが、**豊穣と飢饉（Famine & Abundance）**&#x3067;す。
+この変化を管理するシステムが、**豊穣と飢饉（Abundance and Famine）**&#x3067;す。
 
 ***
 
