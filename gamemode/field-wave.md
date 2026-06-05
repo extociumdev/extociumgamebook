@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🎃 Field Wave
 
-<figure><img src="../.gitbook/assets/Wave_Badge (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fieldwave.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
