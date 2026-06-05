@@ -27,11 +27,11 @@ You can unlock the attic by meeting the following condition:
 
 1️⃣ Move to the attic location in **Rotten hill** and tap the **\[Loft Room]** button.
 
-<figure><img src="../../.gitbook/assets/mh2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1133).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Use the items below to unlock the attic.
 
-<figure><img src="../../.gitbook/assets/mh1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_1446.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🔑 Required Items
@@ -117,11 +117,11 @@ and you can check detailed usage instructions through each menu.
 
 1️⃣ 로튼힐에서 로프트룸이 있는 위치로 이동한 후 **\[마이홈] 버튼**을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/mh2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1133).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 아래 아이템을 사용하면 로프트룸을 잠금 해제할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/mh1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_1446.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🔑 잠금 해제에 필요한 아이템
@@ -202,11 +202,11 @@ and you can check detailed usage instructions through each menu.
 
 1️⃣ ロッテンヒルで屋根裏部屋のある場所へ移動し、**［マイホーム］ボタン**をタップします。
 
-<figure><img src="../../.gitbook/assets/mh2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1133).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 以下のアイテムを使用すると、屋根裏部屋を解放できます。
 
-<figure><img src="../../.gitbook/assets/mh1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_1446.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🔑 解放に必要なアイテム
