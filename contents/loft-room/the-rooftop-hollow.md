@@ -19,20 +19,20 @@ The Rooftop Hollow is located **inside My Home**.
 
 1️⃣ Move to **My Home**.
 
-<figure><img src="../../.gitbook/assets/mh2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1134).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Inside My Home, tap the **Rooftop Hollow icon**.
 
-<figure><img src="../../.gitbook/assets/mh16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9592.jpg" alt=""><figcaption></figcaption></figure>
 
 3️⃣ On your first visit, the Rooftop Hollow will be locked. \
 Use the required materials to **unlock** it.
 
-<figure><img src="../../.gitbook/assets/mh17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9593.jpg" alt=""><figcaption></figcaption></figure>
 
 4️⃣ Once unlocked, you can freely enter the Rooftop Hollow.
 
-<figure><img src="../../.gitbook/assets/mh18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9594.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ The following tests are available in the Rooftop Hollow.
 
 #### 🔹 Hero Testing
 
-<figure><img src="../../.gitbook/assets/image (1012).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9595.jpg" alt=""><figcaption></figcaption></figure>
 
 * You can try out the skills of **various Heroes**, regardless of ownership.
 * Before deploying a Hero in real combat, \
@@ -50,7 +50,7 @@ The following tests are available in the Rooftop Hollow.
 
 #### 🔹 Weapon Testing
 
-<figure><img src="../../.gitbook/assets/mh20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9596.jpg" alt=""><figcaption></figcaption></figure>
 
 * You can freely use **various types of weapons**.
 * Weapon skills are applied with **randomized settings**.
@@ -58,7 +58,7 @@ The following tests are available in the Rooftop Hollow.
 
 #### 🔹 Practice Slime
 
-<figure><img src="../../.gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9597.jpg" alt=""><figcaption></figcaption></figure>
 
 * Your test target is the **Practice Slime**.
 * Experiment freely and improve your combat sense without any pressure.
@@ -87,19 +87,19 @@ The following tests are available in the Rooftop Hollow.
 
 1️⃣ **마이홈**으로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/mh2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1134).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 마이홈 내부에서 **옥상공터 아이콘**을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/mh16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9592.jpg" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 최초 이용 시에는 잠겨 있으며, 필요한 재료를 사용해 **잠금 해제**할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/mh17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9593.jpg" alt=""><figcaption></figcaption></figure>
 
 4️⃣ 잠금 해제가 완료되면, 옥상공터에 자유롭게 입장할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/mh18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9594.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -109,14 +109,14 @@ The following tests are available in the Rooftop Hollow.
 
 #### 🔹 영웅 테스트
 
-<figure><img src="../../.gitbook/assets/image (1012).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9595.jpg" alt=""><figcaption></figcaption></figure>
 
 * 보유 여부와 관계없이 **다양한 영웅의 스킬을 체험**할 수 있습니다.
 * 실전에 투입하기 전, 스킬 구성과 사용감을 미리 확인할 수 있습니다.
 
 #### 🔹 무기 테스트
 
-<figure><img src="../../.gitbook/assets/mh20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9596.jpg" alt=""><figcaption></figcaption></figure>
 
 * 여러 종류의 무기를 자유롭게 사용해 볼 수 있습니다.
 * 무기 스킬은 **무작위로 설정**되어 적용됩니다.
@@ -124,7 +124,7 @@ The following tests are available in the Rooftop Hollow.
 
 #### 🔹 연습용 슬라임
 
-<figure><img src="../../.gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9597.jpg" alt=""><figcaption></figcaption></figure>
 
 * 테스트 대상은 **연습용 슬라임**입니다.
 * 부담 없이 실험하며 전투 감각을 익힐 수 있습니다.
@@ -152,19 +152,19 @@ The following tests are available in the Rooftop Hollow.
 
 1️⃣ **マイホーム**へ移動します。
 
-<figure><img src="../../.gitbook/assets/mh2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1134).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ マイホーム内で **屋上の空地アイコン**をタップします。
 
-<figure><img src="../../.gitbook/assets/mh16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9592.jpg" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 初回利用時はロックされており、必要な素材を使用して **解放**することができます。
 
-<figure><img src="../../.gitbook/assets/mh17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9593.jpg" alt=""><figcaption></figcaption></figure>
 
 4️⃣ 解放が完了すると、屋上の空地に自由に進入できます。
 
-<figure><img src="../../.gitbook/assets/mh18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9594.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -174,14 +174,14 @@ The following tests are available in the Rooftop Hollow.
 
 #### 🔹 英雄テスト
 
-<figure><img src="../../.gitbook/assets/image (1012).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9595.jpg" alt=""><figcaption></figcaption></figure>
 
 * 所持しているかどうかに関わらず、**さまざまな英雄のスキルを体験**できます。
 * 実戦に投入する前に、スキル構成や使用感を事前に確認できます。
 
 #### 🔹 武器テスト
 
-<figure><img src="../../.gitbook/assets/mh20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9596.jpg" alt=""><figcaption></figcaption></figure>
 
 * 複数の種類の武器を自由に使用できます。
 * 武器スキルは **ランダムに設定**されて適用されます。
@@ -189,7 +189,7 @@ The following tests are available in the Rooftop Hollow.
 
 #### 🔹 練習用スライム
 
-<figure><img src="../../.gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9597.jpg" alt=""><figcaption></figcaption></figure>
 
 * テスト対象は **練習用スライム**です。
 * 失敗を気にせず、自由に実験しながら戦闘感覚を身につけることができます。

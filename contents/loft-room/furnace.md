@@ -20,7 +20,7 @@ The Furnace can be accessed **inside** [**My Home**](./).
 Before using the Furnace for the first time, it must be **repaired**.\
 You can repair the Furnace using the items below.
 
-<figure><img src="../../.gitbook/assets/mh6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1135).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🛠️ Required Items for Repair
@@ -48,7 +48,7 @@ The Furnace operates in the following way:
 
 #### 1️⃣ Burning Items
 
-<figure><img src="../../.gitbook/assets/mh7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1136).png" alt=""><figcaption></figcaption></figure>
 
 * From the inventory on the right side,\
   **drag and drop** the item you want to burn into the Furnace slot.
@@ -59,7 +59,7 @@ The Furnace operates in the following way:
 
 #### 2️⃣ Receiving Embers
 
-<figure><img src="../../.gitbook/assets/mh8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1137).png" alt=""><figcaption></figcaption></figure>
 
 * Generated Embers are delivered to your **Mailbox**.
 * Make sure to collect them from the Mailbox.
@@ -68,7 +68,7 @@ The Furnace operates in the following way:
 
 #### 3️⃣ Summoning Items
 
-<figure><img src="../../.gitbook/assets/mh9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1140).png" alt=""><figcaption></figcaption></figure>
 
 * After collecting Embers, return to the Furnace.
 * Use **Embers and Gold** to summon items.
@@ -80,12 +80,12 @@ The Furnace operates in the following way:
 
 #### 4️⃣ Checking Summoned Items
 
-<figure><img src="../../.gitbook/assets/mh10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9602.jpg" alt=""><figcaption></figcaption></figure>
 
 * The summon result is displayed immediately.
 * Summoned items can also be checked in your **Mailbox**.
 
-<figure><img src="../../.gitbook/assets/mh11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1141).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -125,7 +125,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 화로를 처음 이용하려면 먼저 **수리**가 필요합니다.\
 아래 아이템을 사용해 화로를 수리할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/mh6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1135).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🛠️ 화로 수리에 필요한 아이템
@@ -152,7 +152,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 1️⃣ 아이템 태우기
 
-<figure><img src="../../.gitbook/assets/mh7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1136).png" alt=""><figcaption></figcaption></figure>
 
 * 우측 인벤토리에서 태우고 싶은 아이템을 **화로 슬롯으로 드래그 & 드롭**합니다.
 * 슬롯 하단에서 **예상 불씨 획득량**을 확인할 수 있습니다.
@@ -162,7 +162,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 2️⃣ 불씨 수령하기
 
-<figure><img src="../../.gitbook/assets/mh8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1137).png" alt=""><figcaption></figcaption></figure>
 
 * 생성된 불씨는 **우편함**으로 지급됩니다.
 * 우편함에서 불씨를 수령해 주세요.
@@ -171,7 +171,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 3️⃣ 아이템 소환하기
 
-<figure><img src="../../.gitbook/assets/mh9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1139).png" alt=""><figcaption></figcaption></figure>
 
 * 불씨를 수령한 후, 다시 화로로 이동합니다.
 * **불씨와 골드**를 사용해 아이템을 소환할 수 있습니다.
@@ -183,12 +183,12 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 4️⃣ 소환된 아이템 확인
 
-<figure><img src="../../.gitbook/assets/mh10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9602.jpg" alt=""><figcaption></figcaption></figure>
 
 * 소환 결과는 즉시 화면에 표시됩니다.
 * 소환된 아이템은 **우편함**에서 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/mh11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1141).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -227,7 +227,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 炉を初めて利用する場合、まず **修理** を行う必要があります。\
 以下のアイテムを使用すると、炉を修理できます。
 
-<figure><img src="../../.gitbook/assets/mh6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1135).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🛠️ 修理に必要なアイテム
@@ -256,7 +256,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 1️⃣ アイテムを燃やす
 
-<figure><img src="../../.gitbook/assets/mh7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1136).png" alt=""><figcaption></figcaption></figure>
 
 * 右側のインベントリから、燃やしたいアイテムを **炉スロットへドラッグ＆ドロップ**します。
 * スロット下部で **獲得予定の火種数** を確認できます。
@@ -266,7 +266,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 2️⃣ 火種を受け取る
 
-<figure><img src="../../.gitbook/assets/mh8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1137).png" alt=""><figcaption></figcaption></figure>
 
 * 生成された火種は **メールボックス** に送られます。
 * メールボックスから火種を受け取ってください。
@@ -275,7 +275,7 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 3️⃣ アイテムを召喚する
 
-<figure><img src="../../.gitbook/assets/mh9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1138).png" alt=""><figcaption></figcaption></figure>
 
 * 火種を受け取った後、再び炉に戻ります。
 * **火種とゴールド**を使用して アイテムを召喚できます。
@@ -287,12 +287,12 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 #### 4️⃣ 召喚されたアイテムを確認する
 
-<figure><img src="../../.gitbook/assets/mh10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9602.jpg" alt=""><figcaption></figcaption></figure>
 
 * 召喚結果はすぐに画面に表示されます。
 * 召喚されたアイテムは **メールボックス** でも確認できます。
 
-<figure><img src="../../.gitbook/assets/mh11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1141).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
