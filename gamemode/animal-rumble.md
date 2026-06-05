@@ -34,8 +34,17 @@ You stake an entry fee to join.
 #### ◾ How to Enter
 
 * From the main HUD, tap the **shield-shaped Mode button** to enter the Animal Rumble lobby.
+
+<figure><img src="../.gitbook/assets/image (1132).png" alt=""><figcaption></figcaption></figure>
+
 * Talk to **Raccoon Chief** to open the next-match info and the leverage selection popup.
+
+<figure><img src="../.gitbook/assets/IMG_9585.jpg" alt=""><figcaption></figcaption></figure>
+
 * Choose your leverage and confirm the entry fee to become a registered participant.
+
+<figure><img src="../.gitbook/assets/IMG_9584.jpg" alt=""><figcaption></figcaption></figure>
+
 * Your entry fee is **deducted immediately** on confirmation.
 
 {% hint style="warning" %}
@@ -106,6 +115,8 @@ The team you back is decided by your entry — **not your choice**.
 
 #### ◾ How to Win
 
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-05 100623.png" alt=""><figcaption></figcaption></figure>
+
 A team claims victory under any of these conditions, checked in order:
 
 * **Last team standing** — the only team with survivors remaining.
@@ -163,8 +174,17 @@ A team claims victory under any of these conditions, checked in order:
 #### ◾ 참여 방법
 
 * 메인 HUD에서 **방패 모양 모드 버튼**을 눌러 애니멀 럼블 대기실에 진입합니다.
-* \*\*너구리 과장(Raccoon Chief)\*\*과 대화하면 다음 경기 정보와 레버리지 선택 팝업이 출력됩니다.
+
+<figure><img src="../.gitbook/assets/image (1132).png" alt=""><figcaption></figcaption></figure>
+
+* 너구리 과장(Raccoon Chief)과 대화하면 다음 경기 정보와 레버리지 선택 팝업이 출력됩니다.
+
+<figure><img src="../.gitbook/assets/IMG_9585.jpg" alt=""><figcaption></figcaption></figure>
+
 * 레버리지를 선택하고 참가비를 확정하면 참가 대기자가 됩니다.
+
+<figure><img src="../.gitbook/assets/IMG_9584.jpg" alt=""><figcaption></figcaption></figure>
+
 * 참가비는 확정 즉시 **바로 차감**됩니다.
 
 {% hint style="warning" %}
@@ -235,6 +255,8 @@ A team claims victory under any of these conditions, checked in order:
 
 #### ◾ 우승 룰
 
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-05 100623.png" alt=""><figcaption></figcaption></figure>
+
 아래 조건을 순서대로 판정하여 우승 팀을 결정합니다.
 
 * **최후의 생존 팀** — 마지막까지 생존자가 남은 팀.
@@ -293,8 +315,17 @@ A team claims victory under any of these conditions, checked in order:
 #### ◾ 参加方法
 
 * メインHUDから**盾の形のモードボタン**をタップして、アニマルランブルの待機室に入ります。
-* \*\*アライグマ課長（Raccoon Chief）\*\*と会話すると、次の試合情報とレバレッジ選択ポップアップが表示されます。
+
+<figure><img src="../.gitbook/assets/image (1132).png" alt=""><figcaption></figcaption></figure>
+
+* アライグマ課長（Raccoon Chief）と会話すると、次の試合情報とレバレッジ選択ポップアップが表示されます。
+
+<figure><img src="../.gitbook/assets/IMG_9585.jpg" alt=""><figcaption></figcaption></figure>
+
 * レバレッジを選択し、参加費を確定すると参加待機者になります。
+
+<figure><img src="../.gitbook/assets/IMG_9584.jpg" alt=""><figcaption></figcaption></figure>
+
 * 参加費は確定すると**即座に差し引かれます**。
 
 {% hint style="warning" %}
@@ -364,6 +395,8 @@ A team claims victory under any of these conditions, checked in order:
 ***
 
 #### ◾ 優勝ルール
+
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-05 100623.png" alt=""><figcaption></figcaption></figure>
 
 以下の条件を順番に判定して、優勝チームを決定します。
 
