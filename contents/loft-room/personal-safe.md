@@ -18,7 +18,7 @@ The Personal Safe can be accessed **inside** [**My Home**](./).
 Before using the Personal Safe for the first time, it must be **repaired**.\
 You can restore the Personal Safe using the items below.
 
-<figure><img src="../../.gitbook/assets/mh3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9607.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🛠️ Required Items for Repair
@@ -33,7 +33,7 @@ Once the repair is complete, the Personal Safe will be fully available for use.
 
 ### ◾ Basic Functions of the Personal Safe
 
-<figure><img src="../../.gitbook/assets/mh4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9608.jpg" alt=""><figcaption></figcaption></figure>
 
 After repairing the Personal Safe, **three storage slots** are activated immediately.
 
@@ -51,7 +51,7 @@ The storage slots of the Personal Safe can be expanded.
   using [**X Points**](../../xto-token/xto-holding-service/x-points-earning-rate.md) **obtained through** [**XTO Holding**](../../xto-token/xto-holding-service/).
 * Expanding slots allows you to manage a larger number of items more efficiently.
 
-<figure><img src="../../.gitbook/assets/mh21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1143).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +77,7 @@ The storage slots of the Personal Safe can be expanded.
 개인금고를 처음 이용하려면 먼저 **수리**가 필요합니다.\
 아래 아이템을 사용해 개인금고를 복구할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/mh3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9607.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🛠️ 개인금고 수리에 필요한 아이템
@@ -92,7 +92,7 @@ The storage slots of the Personal Safe can be expanded.
 
 ### ◾ 개인금고 기본 기능
 
-<figure><img src="../../.gitbook/assets/mh4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9608.jpg" alt=""><figcaption></figcaption></figure>
 
 개인금고를 수리하면, **기본 보관 슬롯 3개**가 즉시 활성화됩니다.
 
@@ -109,7 +109,7 @@ The storage slots of the Personal Safe can be expanded.
 * [**XTO 홀딩**](../../xto-token/xto-holding-service/)**을 통해 획득한** [**X 포인트**](../../xto-token/xto-holding-service/x-points-earning-rate.md)를 사용하면 보관 슬롯을 추가로 구매할 수 있습니다.
 * 슬롯을 확장하면 더 많은 아이템을 효율적으로 관리할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/mh21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1143).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -133,7 +133,7 @@ The storage slots of the Personal Safe can be expanded.
 個人金庫を初めて利用する場合、まず **修理** を行う必要があります。\
 以下のアイテムを使用すると、個人金庫を復旧できます。
 
-<figure><img src="../../.gitbook/assets/mh3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9607.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### 🛠️ 修理に必要なアイテム
@@ -148,7 +148,7 @@ The storage slots of the Personal Safe can be expanded.
 
 ### ◾ 個人金庫の基本機能
 
-<figure><img src="../../.gitbook/assets/mh4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9608.jpg" alt=""><figcaption></figcaption></figure>
 
 個人金庫を修理すると、**基本保管スロット3枠** がすぐに有効化されます。
 
@@ -166,7 +166,7 @@ The storage slots of the Personal Safe can be expanded.
   保管スロットを追加購入できます。
 * スロットを拡張することで、より多くのアイテムを効率よく管理できます。
 
-<figure><img src="../../.gitbook/assets/mh21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1143).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
