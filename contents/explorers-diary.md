@@ -40,7 +40,7 @@ and tap each entry to check information about the selected monster or gatherable
 After selecting a target, a list of **items required to complete that entry** will be displayed.\
 These items can be obtained naturally through hunting monsters or gathering resources.
 
-<figure><img src="../.gitbook/assets/ee3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113249.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -51,7 +51,7 @@ register (grind) them in the Explorer’s Diary to complete the entry.
 
 When an entry is completed, you receive **Core** as a reward.
 
-<figure><img src="../.gitbook/assets/image (1015).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113331.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -132,7 +132,7 @@ Each slot may include the following effects:
 대상을 선택하면, 해당 항목을 완성하기 위해 **등록해야 할 아이템 목록**이 표시됩니다.\
 이 아이템들은 사냥이나 채집을 진행하며 자연스럽게 획득할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/ee3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113249.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -141,7 +141,7 @@ Each slot may include the following effects:
 필요한 아이템을 모두 모았다면, 탐험가 다이어리에 **등록(갈아넣기)**&#xD558;여 해당 항목을 완성할 수 있습니다.\
 항목이 완성되면, 보상으로 **코어(Core)**&#xB97C; 획득할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1015).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113331.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -220,7 +220,7 @@ Each slot may include the following effects:
 対象を選択すると、その項目を完成させるために **登録が必要なアイテム一覧** が表示されます。\
 これらのアイテムは、狩りや採集を行う中で 自然に入手することができます。
 
-<figure><img src="../.gitbook/assets/ee3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113249.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -230,7 +230,7 @@ Each slot may include the following effects:
 対象項目を完成させることができます。\
 項目を完成させると、報酬として **コア（Core）** を獲得できます。
 
-<figure><img src="../.gitbook/assets/image (1015).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113331.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

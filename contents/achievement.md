@@ -22,7 +22,7 @@ You can check your achievements by following the steps below.
 
 1️⃣ Tap the **scroll-shaped icon** at the top of the main screen.
 
-<figure><img src="../.gitbook/assets/ws1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113456.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ When you tap the icon, \
 the menu opens and the **Achievements screen** is displayed immediately.
@@ -37,11 +37,11 @@ Once an achievement’s requirements are met, you can claim its reward.
 
 1️⃣ Tap the **\[Receive]** button to receive the achievement reward.
 
-<figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113732.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Claimed rewards are delivered to your **Mailbox**.
 
-<figure><img src="../.gitbook/assets/ac4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113800.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -66,7 +66,7 @@ Once an achievement’s requirements are met, you can claim its reward.
 
 1️⃣ **메인 화면 상단의 두루마리 모양 아이콘**을 터치합니다.
 
-<figure><img src="../.gitbook/assets/ws1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113456.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 아이콘을 터치하면 메뉴가 열리며, **업적 화면이 바로 표시됩니다.**
 
@@ -80,11 +80,11 @@ Once an achievement’s requirements are met, you can claim its reward.
 
 1️⃣ **\[받기] 버튼**을 터치하면 업적 보상을 획득할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113732.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 획득한 보상은 **우편함**으로 지급됩니다.
 
-<figure><img src="../.gitbook/assets/ac4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113800.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -110,7 +110,7 @@ Once an achievement’s requirements are met, you can claim its reward.
 
 1️⃣ メイン画面上部の **巻物型アイコン** をタップします。
 
-<figure><img src="../.gitbook/assets/ws1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113456.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ アイコンをタップするとメニューが開き、**実績画面**がすぐに表示されます。
 
@@ -124,11 +124,11 @@ Once an achievement’s requirements are met, you can claim its reward.
 
 1️⃣ **［受け取る］ボタン** をタップすると、実績報酬を獲得できます。
 
-<figure><img src="../.gitbook/assets/ac3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113732.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 獲得した報酬は、**メールボックス** に送られます。
 
-<figure><img src="../.gitbook/assets/ac4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113800.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

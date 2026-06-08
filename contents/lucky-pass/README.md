@@ -64,14 +64,14 @@ Lucky Pass features a total of **3 different mini-games**.
 * Spin the wheel to obtain **random materials**.
 * Be careful not to trigger a **Trap Card**!
 
-<figure><img src="../../.gitbook/assets/image (1009).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-08 113100.png" alt=""><figcaption></figcaption></figure>
 
 #### 🎰 Slot Matching Game
 
 * A 3-slot matching game.
 * You can earn materials by achieving **2-match or 3-match** results.
 
-<figure><img src="../../.gitbook/assets/image (1008).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-08 112929.png" alt=""><figcaption></figcaption></figure>
 
 #### 🏴‍☠️ Pirate Game
 
@@ -177,14 +177,14 @@ While playing Lucky Pass, **Lucky Cards or Trap Cards** may activate at random.
 * 돌림판을 돌려 **랜덤한 재료**를 획득합니다.
 * 함정 카드에 걸리지 않도록 조심하세요!
 
-<figure><img src="../../.gitbook/assets/image (1009).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-08 113100.png" alt=""><figcaption></figcaption></figure>
 
 #### 🎰 슬롯 매칭 게임
 
 * 3매칭 슬롯 게임입니다.
 * **2매칭 / 3매칭** 성공 시 재료를 획득할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1008).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-08 112929.png" alt=""><figcaption></figcaption></figure>
 
 #### 🏴‍☠️ 해적 게임
 
@@ -290,14 +290,14 @@ While playing Lucky Pass, **Lucky Cards or Trap Cards** may activate at random.
 * ルーレットを回して、**ランダムな素材**を獲得できます。
 * トラップカードに注意してください。
 
-<figure><img src="../../.gitbook/assets/image (1009).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-08 113100.png" alt=""><figcaption></figcaption></figure>
 
 #### 🎰 スロットマッチングゲーム
 
 * 3マッチ方式のスロットゲームです。
 * **2マッチ / 3マッチ** に成功すると、素材を獲得できます。
 
-<figure><img src="../../.gitbook/assets/image (1008).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-08 112929.png" alt=""><figcaption></figcaption></figure>
 
 #### 🏴‍☠️ パイレーツゲーム
 

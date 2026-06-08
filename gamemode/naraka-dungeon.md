@@ -42,7 +42,7 @@ where you can freely hunt for a **limited time using dungeon entry tickets**.
   [**Dungeon Manager NPC**](../field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/npc-naraka.md#dungeon-manager-di-xia-jian-yu-guan-li-zhe), located in the **left Peace Zone of the Rahan's Manor**.
 * To enter the dungeon, you must have a **Naraka Dungeon Entry Ticket**.
 
-<figure><img src="../.gitbook/assets/image (999).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112213.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,13 +55,13 @@ You can obtain entry tickets in the following ways:
 * **Purchase with X Points obtained through** [**XTO Holding**](../xto-token/xto-holding-service/)\
   → _Only 1-hour Solo Entry Tickets are available for purchase_
 
-<figure><img src="../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112521.png" alt=""><figcaption></figcaption></figure>
 
 * **Crafting**\
   → _3-hour Solo / 3-hour Party Entry Tickets can be crafted_\
   → Crafting path: **Crafting > Items > Scroll**
 
-<figure><img src="../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112646.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **1-hour Party Entry Tickets** can only be obtained through **monster drops**.
@@ -147,7 +147,7 @@ you will **resume inside the dungeon upon reconnecting**.
   [**지하 감옥 관리자 NPC**](../field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/npc-naraka.md#dungeon-manager-di-xia-jian-yu-guan-li-zhe) 를 통해 입장할 수 있습니다.
 * 던전에 입장하려면 **나라카 던전 입장권** 이 필요합니다.
 
-<figure><img src="../.gitbook/assets/image (999).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112213.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -159,13 +159,13 @@ you will **resume inside the dungeon upon reconnecting**.
 * **PK 레버리지 존** 및 **던전 내부**에서 낮은 확률로 드롭
 * [**XTO 홀딩**](../xto-token/xto-holding-service/)을 통해 획득한 **X포인트**로 구매 → _1시간 솔로 입장권만 구매 가능_
 
-<figure><img src="../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112521.png" alt=""><figcaption></figcaption></figure>
 
 * **제작을 통해 획득**\
   → _3시간 솔로 / 3시간 파티 입장권 제작 가능_\
   → 제작 위치: **제작 > 아이템 > 스크롤**
 
-<figure><img src="../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112646.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **1시간 파티 입장권**은 **몬스터 드롭**으로만 획득할 수 있습니다.
@@ -247,7 +247,7 @@ you will **resume inside the dungeon upon reconnecting**.
   [**地下監獄管理人NPC**](../field-info/fields-by-level/lv.20-rahans-manor/naraka-dungeon/npc-naraka.md#dungeon-manager-di-xia-jian-yu-guan-li-zhe) を通じて入場できます。
 * ダンジョンに入場するには、**ナラカダンジョン入場券** が必要です。
 
-<figure><img src="../.gitbook/assets/image (999).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112213.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -261,13 +261,13 @@ you will **resume inside the dungeon upon reconnecting**.
 * [**XTOホールディング**](../xto-token/xto-holding-service/)**で獲得したXポイントで購入**\
   → _購入できるのは「1時間ソロ入場券」のみ_
 
-<figure><img src="../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112521.png" alt=""><figcaption></figcaption></figure>
 
 * **製作によって入手**\
   → _3時間ソロ / 3時間パーティー入場券を製作可能_\
   → 製作場所：**製作 > アイテム > スクロール**
 
-<figure><img src="../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 112646.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **1時間パーティー入場券はモンスタードロップでのみ入手可能**です。
