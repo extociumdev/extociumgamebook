@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 😎 NPC - Library
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_01.png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_01.png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## �&#xDFE2;_&#x54;he Gatekeeper of Succession_
 
@@ -25,8 +25,8 @@ Seheiah will open the path forward.
 
 👇 Learn more on the **Hero Succession page**.
 
-{% content-ref url="../../../growth/hero-ascension/succession/" %}
-[succession](../../../growth/hero-ascension/succession/)
+{% content-ref url="../../../../growth/hero-ascension/succession/" %}
+[succession](../../../../growth/hero-ascension/succession/)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -41,8 +41,8 @@ Seheiah will open the path forward.
 
 👇 자세한 내용은 **영웅 계승 가이드 페이지**에서 확인할 수 있습니다.
 
-{% content-ref url="../../../growth/hero-ascension/succession/" %}
-[succession](../../../growth/hero-ascension/succession/)
+{% content-ref url="../../../../growth/hero-ascension/succession/" %}
+[succession](../../../../growth/hero-ascension/succession/)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -58,8 +58,8 @@ Seheiah will open the path forward.
 
 👇 詳細は **英雄継承ガイドページ**をご確認ください。
 
-{% content-ref url="../../../growth/hero-ascension/succession/" %}
-[succession](../../../growth/hero-ascension/succession/)
+{% content-ref url="../../../../growth/hero-ascension/succession/" %}
+[succession](../../../../growth/hero-ascension/succession/)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
@@ -68,7 +68,7 @@ Seheiah will open the path forward.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_06.png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_06.png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## �&#xDFE2;_&#x54;he Weaver of Synthesis_
 
@@ -86,8 +86,8 @@ If you want to take your heroes to the next level, Chavakiah is the one to visit
 
 👇 Learn more on the **Hero Synthesis page**.
 
-{% content-ref url="../../../growth/hero-ascension/synthesis.md" %}
-[synthesis.md](../../../growth/hero-ascension/synthesis.md)
+{% content-ref url="../../../../growth/hero-ascension/synthesis.md" %}
+[synthesis.md](../../../../growth/hero-ascension/synthesis.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -103,8 +103,8 @@ If you want to take your heroes to the next level, Chavakiah is the one to visit
 
 👇 Learn more on the **Hero Synthesis page**.
 
-{% content-ref url="../../../growth/hero-ascension/synthesis.md" %}
-[synthesis.md](../../../growth/hero-ascension/synthesis.md)
+{% content-ref url="../../../../growth/hero-ascension/synthesis.md" %}
+[synthesis.md](../../../../growth/hero-ascension/synthesis.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -124,8 +124,8 @@ If you want to take your heroes to the next level, Chavakiah is the one to visit
 
 👇 詳細は **英雄合成ガイドページ**をご確認ください。
 
-{% content-ref url="../../../growth/hero-ascension/synthesis.md" %}
-[synthesis.md](../../../growth/hero-ascension/synthesis.md)
+{% content-ref url="../../../../growth/hero-ascension/synthesis.md" %}
+[synthesis.md](../../../../growth/hero-ascension/synthesis.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
@@ -134,7 +134,7 @@ If you want to take your heroes to the next level, Chavakiah is the one to visit
 
 ***
 
-<figure><img src="../../../.gitbook/assets/KakaoTalk_20230824_120313487_10.png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_10.png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## �&#xDFE2;_&#x54;he Keeper of Rebirth_
 
@@ -156,8 +156,8 @@ Lelahel is the one to seek.
 
 👇 _Go to the Hero Reload page for details._
 
-{% content-ref url="../../../growth/hero-ascension/reload/" %}
-[reload](../../../growth/hero-ascension/reload/)
+{% content-ref url="../../../../growth/hero-ascension/reload/" %}
+[reload](../../../../growth/hero-ascension/reload/)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -176,8 +176,8 @@ Lelahel is the one to seek.
 
 👇 _자세한 내용은 영웅 리로드 페이지에서 확인할 수 있습니다._
 
-{% content-ref url="../../../growth/hero-ascension/reload/" %}
-[reload](../../../growth/hero-ascension/reload/)
+{% content-ref url="../../../../growth/hero-ascension/reload/" %}
+[reload](../../../../growth/hero-ascension/reload/)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -200,8 +200,8 @@ Lelahel is the one to seek.
 
 👇 _詳細はヒーローリロードページをご確認ください。_
 
-{% content-ref url="../../../growth/hero-ascension/reload/" %}
-[reload](../../../growth/hero-ascension/reload/)
+{% content-ref url="../../../../growth/hero-ascension/reload/" %}
+[reload](../../../../growth/hero-ascension/reload/)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
@@ -210,7 +210,7 @@ Lelahel is the one to seek.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/NPC_Omael.png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/NPC_Omael.png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## �&#xDFE2;_&#x54;he Rune Craftsman_
 
@@ -223,7 +223,7 @@ Lelahel is the one to seek.
 Omael can be found in the Ashurbanipal Library,\
 located on the second floor of the Magic Shop in Rotten Hill.
 
-Once you acquire a [**Succession Hero**](../../../growth/hero-ascension/succession/), you gain access to Skill Runes.\
+Once you acquire a [**Succession Hero**](../../../../growth/hero-ascension/succession/), you gain access to Skill Runes.\
 Omael specializes in crafting Skill Runes using the materials you have collected during your adventures.
 
 If you want to unlock new skill potential and enhance your Hero’s combat style,\
@@ -231,8 +231,8 @@ Omael is the one to seek.
 
 👇 Go to the Skill Rune page for details.
 
-{% content-ref url="../../../growth/hero-ascension/succession/skill-rune-crafting.md" %}
-[skill-rune-crafting.md](../../../growth/hero-ascension/succession/skill-rune-crafting.md)
+{% content-ref url="../../../../growth/hero-ascension/succession/skill-rune-crafting.md" %}
+[skill-rune-crafting.md](../../../../growth/hero-ascension/succession/skill-rune-crafting.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -243,15 +243,15 @@ Omael is the one to seek.
 
 오마엘은 로튼힐의 마법상점 2층에 위치한 아슈르바니팔 도서관에서 만날 수 있는 NPC입니다.
 
-[**계승 영웅**](../../../growth/hero-ascension/succession/)을 획득하면 스킬 룬 시스템을 사용할 수 있으며,\
+[**계승 영웅**](../../../../growth/hero-ascension/succession/)을 획득하면 스킬 룬 시스템을 사용할 수 있으며,\
 오마엘은 모험을 통해 수집한 재료를 사용해 스킬 룬을 제작해 주는 전문가입니다.
 
 영웅의 스킬을 더욱 강화하고 전투 스타일을 확장하고 싶다면, 오마엘을 찾아가 보세요.
 
 👇 자세한 내용은 스킬 룬 안내 페이지에서 확인할 수 있습니다.
 
-{% content-ref url="../../../growth/hero-ascension/succession/skill-rune-crafting.md" %}
-[skill-rune-crafting.md](../../../growth/hero-ascension/succession/skill-rune-crafting.md)
+{% content-ref url="../../../../growth/hero-ascension/succession/skill-rune-crafting.md" %}
+[skill-rune-crafting.md](../../../../growth/hero-ascension/succession/skill-rune-crafting.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -263,7 +263,7 @@ Omael is the one to seek.
 オマエルは、ロッテンヒルのマジックショップ2階にある\
 アシュルバニパル図書館で出会うことができます。
 
-[**継承ヒーロー**](../../../growth/hero-ascension/succession/)を獲得すると、スキルルーンシステムが解放されます。\
+[**継承ヒーロー**](../../../../growth/hero-ascension/succession/)を獲得すると、スキルルーンシステムが解放されます。\
 オマエルは、冒険で集めた素材を使って スキルルーンを作成する専門家です。
 
 ヒーローのスキルを強化し、戦闘スタイルの幅を広げたい場合は、\
@@ -271,8 +271,8 @@ Omael is the one to seek.
 
 👇 詳細はスキルルーン案内ページをご確認ください。
 
-{% content-ref url="../../../growth/hero-ascension/succession/skill-rune-crafting.md" %}
-[skill-rune-crafting.md](../../../growth/hero-ascension/succession/skill-rune-crafting.md)
+{% content-ref url="../../../../growth/hero-ascension/succession/skill-rune-crafting.md" %}
+[skill-rune-crafting.md](../../../../growth/hero-ascension/succession/skill-rune-crafting.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}

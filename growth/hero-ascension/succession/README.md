@@ -52,7 +52,7 @@ Hero Succession can be performed at the following location.
 
 <figure><img src="../../../.gitbook/assets/ss1 (3).png" alt=""><figcaption></figcaption></figure>
 
-Talk to the [**NPC Seheiah**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-gatekeeper-of-succession) in the Ashurbanipal Library.
+Talk to the [**NPC Seheiah**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-gatekeeper-of-succession) in the Ashurbanipal Library.
 
 <figure><img src="../../../.gitbook/assets/ss0.png" alt=""><figcaption></figcaption></figure>
 
@@ -177,7 +177,7 @@ _👇계승 영웅과 스킬에 대한 자세한 정보는 관련 링크를 통�
 
 <figure><img src="../../../.gitbook/assets/ss1 (3).png" alt=""><figcaption></figcaption></figure>
 
-아슈르바니팔 도서관에 있는 [**NPC 세헤이아**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-gatekeeper-of-succession)와 대화하세요.
+아슈르바니팔 도서관에 있는 [**NPC 세헤이아**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-gatekeeper-of-succession)와 대화하세요.
 
 <figure><img src="../../../.gitbook/assets/ss0.png" alt=""><figcaption></figcaption></figure>
 
@@ -304,7 +304,7 @@ _👇 継承ヒーローおよびスキルの詳細は、関連リンクから�
 
 <figure><img src="../../../.gitbook/assets/ss1 (3).png" alt=""><figcaption></figcaption></figure>
 
-アシュルバニパル図書館にいる [**NPC セヘイア**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-gatekeeper-of-succession)と会話してください。
+アシュルバニパル図書館にいる [**NPC セヘイア**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-gatekeeper-of-succession)と会話してください。
 
 <figure><img src="../../../.gitbook/assets/ss0.png" alt=""><figcaption></figcaption></figure>
 

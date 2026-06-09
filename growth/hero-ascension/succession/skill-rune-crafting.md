@@ -25,9 +25,9 @@ Please refer to the image below for the detailed material list.
 
 Once all required materials are prepared, move to the location below.
 
-* Rottenhill > Magic Shop > [**Ashurbanipal Library**](../../../field-info/rotten-hill/ashurbanipal-library/)
+* Rottenhill > Magic Shop > [**Ashurbanipal Library**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-After speaking with [**NPC Omael**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-rune-craftsman) in the Ashurbanipal Library,\
+After speaking with [**NPC Omael**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-rune-craftsman) in the Ashurbanipal Library,\
 hand over the final Skill Rune materials to craft a **random Skill Rune**.
 
 <figure><img src="../../../.gitbook/assets/src3.png" alt=""><figcaption></figcaption></figure>
@@ -117,9 +117,9 @@ _✨ Stack smart, and your power will speak for itself._
 
 필요한 재료를 모두 준비했다면, 아래 위치로 이동하세요.
 
-* 로튼힐 > 마법공방 > [**아슈르바니팔 도서관**](../../../field-info/rotten-hill/ashurbanipal-library/)
+* 로튼힐 > 마법공방 > [**아슈르바니팔 도서관**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-아슈르바니팔 도서관에서 [NPC **오마엘**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-rune-craftsman)과 대화한 후, \
+아슈르바니팔 도서관에서 [NPC **오마엘**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-rune-craftsman)과 대화한 후, \
 최종 스킬 룬 재료를 건네면 **무작위 스킬 룬**을 제작할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/src3.png" alt=""><figcaption></figcaption></figure>
@@ -203,9 +203,9 @@ _✨ Stack smart, and your power will speak for itself._
 
 必要な素材をすべて準備したら、以下の場所へ移動してください。
 
-* ロッテンヒル ＞ 魔法工房 ＞ [**アシュルバニパル図書館**](../../../field-info/rotten-hill/ashurbanipal-library/)
+* ロッテンヒル ＞ 魔法工房 ＞ [**アシュルバニパル図書館**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-アシュルバニパル図書館にいる [**NPC オマエル（Omael）**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-rune-craftsman) と会話し、\
+アシュルバニパル図書館にいる [**NPC オマエル（Omael）**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-rune-craftsman) と会話し、\
 最終スキルルーン素材を渡すことで、**ランダムなスキルルーン**を制作できます。
 
 <figure><img src="../../../.gitbook/assets/src3.png" alt=""><figcaption></figcaption></figure>

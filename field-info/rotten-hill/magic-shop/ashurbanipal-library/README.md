@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🕍 Ashurbanipal Library
 
+<figure><img src="../../../../.gitbook/assets/library.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 📚 Ashurbanipal Library Guide

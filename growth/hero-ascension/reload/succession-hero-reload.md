@@ -20,9 +20,9 @@ you can change the skill setup of a Succession Hero to build various skill deck 
 
 Succession Hero Reload can be performed at the following location.
 
-* Rottenhill > Magic Shop >[ **Ashurbanipal Library**](../../../field-info/rotten-hill/ashurbanipal-library/)
+* Rottenhill > Magic Shop >[ **Ashurbanipal Library**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-You can proceed with Succession Hero Reload by talking to [**NPC Lelahel** ](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-keeper-of-rebirth)\
+You can proceed with Succession Hero Reload by talking to [**NPC Lelahel** ](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-keeper-of-rebirth)\
 in the Ashurbanipal Library.
 
 <figure><img src="../../../.gitbook/assets/hr1 (2).png" alt=""><figcaption></figcaption></figure>
@@ -87,9 +87,9 @@ The materials required for each Reload type can be checked below.
 
 계승 영웅 리로드는 아래 위치에서 진행할 수 있습니다.
 
-* 로튼힐 > 마법 상점 > [**아슈르바니팔 도서관**](../../../field-info/rotten-hill/ashurbanipal-library/)
+* 로튼힐 > 마법 상점 > [**아슈르바니팔 도서관**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-아슈르바니팔 도서관에 있는 [**NPC 레라엘**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-keeper-of-rebirth)과 대화하면 계승 영웅 리로드를 진행할 수 있습니다.
+아슈르바니팔 도서관에 있는 [**NPC 레라엘**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-keeper-of-rebirth)과 대화하면 계승 영웅 리로드를 진행할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/hr1 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -155,9 +155,9 @@ The materials required for each Reload type can be checked below.
 
 継承ヒーローリロードは、以下の場所で行うことができます。
 
-* ロッテンヒル ＞ 魔法ショップ ＞ [**アシュルバニパル図書館**](../../../field-info/rotten-hill/ashurbanipal-library/)
+* ロッテンヒル ＞ 魔法ショップ ＞ [**アシュルバニパル図書館**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/)
 
-アシュルバニパル図書館にいる [**NPC レラヘル**](../../../field-info/rotten-hill/ashurbanipal-library/npc-library.md#the-keeper-of-rebirth) と会話すると、\
+アシュルバニパル図書館にいる [**NPC レラヘル**](../../../field-info/rotten-hill/magic-shop/ashurbanipal-library/npc-library.md#the-keeper-of-rebirth) と会話すると、\
 継承ヒーローリロードを進行できます。
 
 <figure><img src="../../../.gitbook/assets/hr1 (2).png" alt=""><figcaption></figcaption></figure>

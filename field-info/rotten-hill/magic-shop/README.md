@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🔮 Magic Shop
 
-<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/magicshop.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -48,8 +48,8 @@ In the Ashurbanipal Library, you can access various hero-related growth systems,
 
 👇 For detailed information on library content, please refer to the **Ashurbanipal Library page**.
 
-{% content-ref url="../ashurbanipal-library/" %}
-[ashurbanipal-library](../ashurbanipal-library/)
+{% content-ref url="ashurbanipal-library/" %}
+[ashurbanipal-library](ashurbanipal-library/)
 {% endcontent-ref %}
 
 ***
@@ -96,8 +96,8 @@ Magic Shop 2층에는 영웅 성장에 특화된 공간인 **아슈르바니팔 
 
 👇 도서관 콘텐츠에 대한 자세한 내용은 **아슈르바니팔 도서관 페이지**에서 확인할 수 있습니다.
 
-{% content-ref url="../ashurbanipal-library/" %}
-[ashurbanipal-library](../ashurbanipal-library/)
+{% content-ref url="ashurbanipal-library/" %}
+[ashurbanipal-library](ashurbanipal-library/)
 {% endcontent-ref %}
 
 ***
@@ -151,8 +151,8 @@ Magic Shop 2階には、英雄の成長に特化した空間である\
 
 👇 図書館コンテンツの詳細は、**アシュルバニパル図書館ページ**をご確認ください。
 
-{% content-ref url="../ashurbanipal-library/" %}
-[ashurbanipal-library](../ashurbanipal-library/)
+{% content-ref url="ashurbanipal-library/" %}
+[ashurbanipal-library](ashurbanipal-library/)
 {% endcontent-ref %}
 
 ***
