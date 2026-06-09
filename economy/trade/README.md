@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 📈 Trade
 
-<figure><img src="../../.gitbook/assets/Whisk_72d18db719733ad94e84629b38c52306dr (1).jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trade.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
