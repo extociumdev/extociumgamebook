@@ -22,7 +22,7 @@ Follow the steps below to travel to different fields.
 
 Touch the **Navigation button** at the top right of the Main HUD.
 
-<figure><img src="../../.gitbook/assets/rh1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1145).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -30,7 +30,7 @@ Touch the **Navigation button** at the top right of the Main HUD.
 
 Once the World Map widget opens, you can view the list of available fields.
 
-<figure><img src="../../.gitbook/assets/rh2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1146).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Each field must be unlocked **once by**\
@@ -64,7 +64,7 @@ For more details about PK fields, please refer to the [**PK page**](../../system
 
 메인 HUD 우측 상단에 있는 **네비게이션 버튼**을 터치하세요.
 
-<figure><img src="../../.gitbook/assets/rh1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1145).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -72,7 +72,7 @@ For more details about PK fields, please refer to the [**PK page**](../../system
 
 월드맵 위젯이 열리면, 이동 가능한 필드 목록을 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/rh2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1146).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 각 필드는 **최초 1회**, 캐릭터를 직접 이동하여 포탈을 통과해야 잠금이 해제됩니다.\
@@ -105,7 +105,7 @@ PK 필드에 대한 자세한 내용은 [**PK 페이지**](../../system/pk/)를 
 
 メインHUD右上にある **ナビゲーションボタン**をタッチしてください。
 
-<figure><img src="../../.gitbook/assets/rh1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1145).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -113,7 +113,7 @@ PK 필드에 대한 자세한 내용은 [**PK 페이지**](../../system/pk/)를 
 
 ワールドマップウィジェットが開くと、移動可能なフィールド一覧を確認できます。
 
-<figure><img src="../../.gitbook/assets/rh2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1146).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 各フィールドは**最初の1回のみ**、キャラクターを直接操作して\
