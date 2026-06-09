@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🍺 Club
 
-<figure><img src="../../.gitbook/assets/LevelupClub (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/club.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

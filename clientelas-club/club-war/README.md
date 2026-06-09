@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🔥 Club War
 
+<figure><img src="../../.gitbook/assets/clubwar (1).png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 🔥 Club War

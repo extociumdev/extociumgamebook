@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🤝 Patron & Client
 
+<figure><img src="../.gitbook/assets/patron.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 🤝 Patron & Client Guide

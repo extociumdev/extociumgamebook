@@ -2,7 +2,7 @@
 description: 🛑 Information on this page may differ from the current in-game data.
 ---
 
-# 🏔️ \~Lv.40 Temple of Agade (PK)
+# 🌋 \~Lv.40 Temple of Agade (PK)
 
 <figure><img src="../../.gitbook/assets/agade_temple.png" alt=""><figcaption></figcaption></figure>
 
