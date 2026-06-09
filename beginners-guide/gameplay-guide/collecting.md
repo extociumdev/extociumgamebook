@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🍎 Collecting
 
-<figure><img src="../../.gitbook/assets/collect (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/collect.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

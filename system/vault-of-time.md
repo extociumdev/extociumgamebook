@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 💵 Vault of Time
 
-<figure><img src="../.gitbook/assets/vaultoftime.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vaultoftime (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
