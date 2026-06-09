@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🎁 Shop
 
-<figure><img src="../../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shop.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
