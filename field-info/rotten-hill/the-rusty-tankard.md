@@ -4,6 +4,8 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🍺 The Rusty Tankard
 
+<figure><img src="../../.gitbook/assets/rusty.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="ENG" %}
 ### 🍻 The Rusty Tankard
@@ -24,7 +26,7 @@ and soak in the world’s atmosphere through NPC conversations.
 
 * Rotten Hill, right next to the porter NPC **Mebahel**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-09 135700.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -126,7 +128,7 @@ NPC들의 대화를 통해 세계관의 분위기도 느낄 수 있습니다.
 
 * 위치: 로튼힐  NPC 짐꾼 메바헬 바로 옆
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-09 135700.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -229,7 +231,7 @@ NPCたちの会話を通して世界観の雰囲気を感じることもでき�
 
 * 場所：ロッテンヒル、ポーターNPC「メバヘル」のすぐ隣
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-09 135700.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
