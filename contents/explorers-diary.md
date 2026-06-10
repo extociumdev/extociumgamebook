@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 📓 Explorer's Diary
 
-<figure><img src="../.gitbook/assets/Icon_Core.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/diary.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🍀 Lucky Pass
 
-<figure><img src="../../.gitbook/assets/Icon_LuckyChip.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/luckypass.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}

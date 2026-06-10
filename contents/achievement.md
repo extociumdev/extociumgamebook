@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🥇 Achievement
 
-<figure><img src="../.gitbook/assets/achievement.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/achiev.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
