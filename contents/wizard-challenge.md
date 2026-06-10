@@ -4,7 +4,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 # 🪩 Wizard Challenge
 
-<figure><img src="../.gitbook/assets/wizard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wizard (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="ENG" %}
