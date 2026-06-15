@@ -45,19 +45,19 @@ Escrow trades proceed in the following order:
 1️⃣ While holding an **Equipment Trade Ticket**, go to **Mailbox > Escrow**.\
 2️⃣ Select the **Send** button at the bottom right.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 141821.png" alt=""><figcaption></figcaption></figure>
 
-3️⃣ Select the equipment to send. <sup><mark style="color:$danger;">**※ NFT equipment trading is not supported at this time.**<mark style="color:$danger;"></sup>\
+3️⃣ Select the equipment to send. \
 4️⃣ Enter the trading partner’s **in-game nickname** accurately.\
-5️⃣ Enter the requested **payment amount (Gold)**. \
-<sup><mark style="color:$danger;">※ Currently, only Gold is supported. Payment requests using XTO and BNB will be added in future updates.<mark style="color:$danger;"></sup>
+5️⃣ Enter the amount you wish to request.\
+&#xNAN;_※ For NFT equipment, the currency unit will automatically switch to BNB._
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142037.png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ Select **Send** to complete the payment request.\
 At this point, **1 Equipment Trade Ticket** is consumed.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142110.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -76,16 +76,16 @@ After 24 hours, the mail is automatically deleted.
 
 1️⃣ When A sends an Escrow request, the mail arrives in **Mailbox > Escrow** for B.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142711.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Review the payment request details.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142738.png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ When you respond to the request, the trade is completed,\
 and the item can be checked in the **in-game mailbox**.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142809.png" alt=""><figcaption></figcaption></figure>
 
 If you do not respond to the request, the mail will be automatically deleted after 24 hours.
 
@@ -97,16 +97,16 @@ You can obtain an Equipment Trade Ticket using the methods below.
 
 1️⃣ Purchase from **Shop > Item Shop > XTO** category.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142451.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Use **X Points** obtained from holding XTO to purchase a\
 [**Special Material Random Box**](../loot-box-info/random-box.md#special-material-random-box), which can drop **Equipment Trade Ticket Fragments** at a certain probability.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 141617 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ Collect **Equipment Trade Ticket Fragments** and craft them to create an **Equipment Trade Ticket**.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142545.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -153,17 +153,18 @@ You can obtain an Equipment Trade Ticket using the methods below.
 1️⃣ **장비 거래권**을 보유한 상태에서 **우편함 > 에스크로** 탭으로 이동합니다.\
 2️⃣ 우측 하단의 **보내기** 버튼을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 141821.png" alt=""><figcaption></figcaption></figure>
 
-3️⃣ 보낼 **장비**를 선택합니다. <sup><mark style="color:$danger;">※ 현재는<mark style="color:$danger;"></sup> <sup><mark style="color:$danger;"> </sup><sup><mark style="color:$danger;">**NFT 장비 거래는 지원하지 않습니다.**<mark style="color:$danger;"></sup>\
+3️⃣ 보낼 **장비**를 선택합니다. \
 4️⃣ 거래할 상대의 **게임 닉네임을 정확히 입력**합니다.\
-5️⃣ 요청할 **대금(골드)**&#xC744; 입력합니다. <sup><mark style="color:$danger;">※ 현재는 골드만 지원되며, 추후 XTO 및 BNB 대금 요청 기능이 추가될 예정입니다.<mark style="color:$danger;"></sup>
+5️⃣ 요청할 **대금**을 입력합니다.\
+&#xNAN;_※ NFT 장비인 경우 단위가 자동으로 BNB로 전환됩니다._
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142037.png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ **보내기** 버튼을 선택하면, 대금 요청이 완료되고 **장비 거래권 1장**이 소모됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142110 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -181,15 +182,15 @@ You can obtain an Equipment Trade Ticket using the methods below.
 
 1️⃣ A가 에스크로를 보내면, B의 **우편함 > 에스크로** 탭으로 우편이 도착합니다.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142711.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 도착한 대금 요청 내용을 확인합니다.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142738.png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 요청에 응답하면 거래가 완료되며, 아이템은 인게임 우편함에서 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142809.png" alt=""><figcaption></figcaption></figure>
 
 요청에 응답하지 않을 경우, 우편을 그대로 두면 24시간 후 자동으로 삭제됩니다.
 
@@ -201,16 +202,16 @@ You can obtain an Equipment Trade Ticket using the methods below.
 
 1️⃣ **상점 > 아이템 상점 > XTO** 카테고리에서 구매
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142451.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ XTO 홀딩으로 획득한 **X 포인트**를 사용해 [**Special Material Random Box**](../loot-box-info/random-box.md#special-material-random-box)를 구매하면,\
 확률적으로 **장비 거래권 조각**을 획득할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 141617 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 획득한 **장비 거래권 조각**을 모아 제작을 통해 **장비 거래권**으로 만들 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142545.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -257,18 +258,18 @@ You can obtain an Equipment Trade Ticket using the methods below.
 1️⃣ **装備取引券**を所持した状態で、**メールボックス ＞ エスクロー** タブへ移動します。\
 2️⃣ 右下の **送信** ボタンを選択します。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 141821 (1).png" alt=""><figcaption></figcaption></figure>
 
-3️⃣ 送信する**装備**を選択します。<sup><mark style="color:$danger;">※ 現在、<mark style="color:$danger;"></sup><sup><mark style="color:$danger;">**NFT装備の取引は対応していません。**<mark style="color:$danger;"></sup>\
+3️⃣ 送信する**装備**を選択します。\
 4️⃣ 取引相手の**ゲーム内ニックネーム**を正確に入力します。\
-5️⃣ 請求する**代金（ゴールド）**&#x3092;入力します。\
-<sup><mark style="color:$danger;">※ 現在はゴールドのみ対応しており、今後、XTOおよびBNBでの代金請求機能が追加される予定です。<mark style="color:$danger;"></sup>
+5️⃣ 請求する**金額**を入力します。\
+&#xNAN;_※NFT装備の場合、単位は自動的にBNBに切り替わります。_
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142037.png" alt=""><figcaption></figcaption></figure>
 
 6️⃣ **送信**ボタンを選択すると、代金リクエストが完了し、**装備取引券が1枚消費**されます。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142110 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -287,15 +288,15 @@ You can obtain an Equipment Trade Ticket using the methods below.
 
 1️⃣ Aがエスクローを送信すると、Bの **メールボックス ＞ エスクロー** タブにメールが届きます。
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142711.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 届いた代金リクエストの内容を確認します。
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142738.png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ リクエストに応答すると取引が完了し、**アイテムはゲーム内メールボックスで確認できます。**
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142809.png" alt=""><figcaption></figcaption></figure>
 
 リクエストに応答しない場合、メールは24時間後に自動的に削除されます。
 
@@ -307,16 +308,16 @@ You can obtain an Equipment Trade Ticket using the methods below.
 
 1️⃣ **ショップ ＞ アイテムショップ ＞ XTO** カテゴリで購入
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142451.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ XTOのホールディングで獲得した**Xポイント**を使用して\
 [**Special Material Random Box**](../loot-box-info/random-box.md#special-material-random-box)を購入すると、確率で**装備取引券の欠片**を獲得できます。
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 141617 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 獲得した**装備取引券の欠片**を集め、制作によって**装備取引券**を作成できます。
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142545.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
