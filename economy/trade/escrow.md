@@ -329,4 +329,4 @@ You can obtain an Equipment Trade Ticket using the methods below.
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of February 10, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of June 15, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
