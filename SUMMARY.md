@@ -37,6 +37,7 @@
   * [🏋️ Training](beginners-guide/gameplay-guide/training.md)
   * [⚒️ Crafting](beginners-guide/gameplay-guide/crafting.md)
   * [🍎 Collecting](beginners-guide/gameplay-guide/collecting.md)
+  * [⚙️ Auto Setting](beginners-guide/gameplay-guide/auto-setting.md)
 
 ## 😎 Growth
 
