@@ -55,7 +55,7 @@ Special Stats can be allocated from the **Hero Info screen**.
 
 1️⃣ Open the selected Hero’s **Info Widget**
 
-<figure><img src="../../../../.gitbook/assets/dash1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1165).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Check the **Special Stats section** at the bottom-left\
 3️⃣ When SP is earned through leveling, the information updates automatically
@@ -156,7 +156,7 @@ Special Stats can be reset **at any time**.
 
 1️⃣ 보유 영웅의 **정보 위젯**을 엽니다.
 
-<figure><img src="../../../../.gitbook/assets/dash1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1165).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 좌측 하단에서 **스페셜 스탯 정보**를 확인합니다.\
 3️⃣ 레벨업으로 SP를 획득하면, 해당 정보가 업데이트됩니다.
@@ -259,7 +259,7 @@ Special Stats can be reset **at any time**.
 
 1️⃣ 対象ヒーローの **情報ウィジェット** を開きます
 
-<figure><img src="../../../../.gitbook/assets/dash1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1165).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 左下で **スペシャルステータス情報** を確認します\
 3️⃣ レベルアップでSPを獲得すると、情報が更新されます
