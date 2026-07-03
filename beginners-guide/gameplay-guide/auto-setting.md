@@ -8,13 +8,13 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% tab title="ENG" %}
 ### ⚙️ Auto Setting
 
-Auto Setting is a menu where you can set what your hero will do during auto combat.
+Auto Setting is a menu where you decide how your hero will act during auto combat.
 
-It is not just for turning auto combat on or off.\
-You can also set the **skill order**, **wait time**, **auto target**, and **hunt range**.
+It does more than turn auto combat on or off.\
+You can also set the skill order, wait time, auto target, and hunt range.
 
-Your settings are saved separately for each hero.\
-This means each hero can use Auto Setting in a different way.
+Your settings are saved separately for each hero,\
+so each hero can use Auto Setting based on their own combat style.
 
 ***
 
@@ -189,13 +189,12 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 {% tab title="한국어" %}
 ### ⚙️ 오토 세팅
 
-오토 세팅은 자동 전투 중 영웅이 어떤 행동을 할지 설정하는 메뉴입니다.
+오토 세팅은 자동 전투 중 영웅이 어떤 행동을 할지 정하는 메뉴입니다.
 
-단순히 자동 전투를 켜고 끄는 것뿐만 아니라,\
-**스킬 사용 순서**, **대기 시간**, **자동 타겟**, **사냥 범위**까지 직접 설정할 수 있습니다.
+자동 전투를 켜고 끄는 것뿐만 아니라,\
+스킬 사용 순서, 대기 시간, 자동 타겟, 사냥 범위까지 설정할 수 있습니다.
 
-설정한 내용은 **영웅별로 따로 저장**됩니다.\
-즉, 영웅마다 다른 방식으로 오토 세팅을 사용할 수 있습니다.
+설정한 내용은 영웅마다 따로 저장되므로, 각 영웅의 전투 방식에 맞게 오토 세팅을 사용할 수 있습니다.
 
 ***
 
@@ -350,13 +349,13 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 {% tab title="日本語" %}
 ### ⚙️ オート設定
 
-オート設定は、自動戦闘中に英雄がどのように行動するかを設定するメニューです。
+オート設定は、自動戦闘中に英雄がどのように行動するかを決めるメニューです。
 
 自動戦闘をオン・オフするだけでなく、\
-**スキルの使用順序**、**待機時間**、**自動ターゲット**、**狩り範囲**まで直接設定できます。
+スキルの使用順序、待機時間、自動ターゲット、狩り範囲まで設定できます。
 
-設定した内容は**英雄ごとに個別に保存**されます。\
-つまり、英雄ごとに違う形でオート設定を使用できます。
+設定した内容は英雄ごとに個別に保存されるため、\
+それぞれの英雄の戦闘スタイルに合わせてオート設定を使用できます。
 
 ***
 

@@ -8,16 +8,10 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% tab title="ENG" %}
 ### 🧩 Hero Preset
 
-Hero Preset is a feature that lets you save your current hero setup\
-and quickly load it again whenever you need it.
+Hero Preset is a feature that lets you save your frequently used hero setups in advance.
 
-If you save your frequently used setups in preset slots,\
-you can instantly switch to the setup you want\
-when the situation changes, such as hunting, boss battles, or PvP.
-
-For example,\
-if you save a hunting setup and a boss battle setup separately,\
-you do not need to set everything again from the beginning each time.
+Saved presets can be loaded whenever you need them,\
+allowing you to quickly switch hero setups for situations such as hunting, boss battles, or PvP.
 
 ***
 
@@ -133,14 +127,10 @@ and load it quickly whenever you need it. ✨
 {% tab title="한국어" %}
 ### 🧩 영웅 프리셋
 
-영웅 프리셋은 현재 영웅 세팅을 저장해두고,\
-필요할 때 빠르게 다시 불러올 수 있는 기능입니다.
+영웅 프리셋은 자주 사용하는 영웅 세팅을 미리 저장해두는 기능입니다.
 
-자주 사용하는 세팅을 프리셋 슬롯에 저장해두면,\
-사냥, 보스전, PvP처럼 상황이 바뀔 때마다 원하는 영웅 세팅으로 바로 변경할 수 있습니다.
-
-예를 들어,\
-사냥용 세팅과 보스전용 세팅을 따로 저장해두면 매번 처음부터 다시 설정하지 않아도 됩니다.
+저장한 프리셋은 필요할 때 바로 불러올 수 있어,\
+사냥, 보스전, PvP 등 상황에 맞게 영웅 세팅을 빠르게 바꿀 수 있습니다.
 
 ***
 
@@ -251,14 +241,10 @@ and load it quickly whenever you need it. ✨
 {% tab title="日本語" %}
 ### 🧩 英雄プリセット
 
-英雄プリセットは、現在の英雄設定を保存しておき、必要なときにすばやく呼び出せる機能です。
+英雄プリセットは、よく使う英雄設定をあらかじめ保存しておく機能です。
 
-よく使う設定をプリセットスロットに保存しておくと、\
-狩り、ボス戦、PvPなど状況が変わるたびに、使いたい英雄設定へすぐに変更できます。
-
-例えば、\
-狩り用の設定とボス戦用の設定を別々に保存しておけば、\
-毎回最初から設定し直す必要がありません。
+保存したプリセットは必要なときにすぐ呼び出せるため、\
+狩り、ボス戦、PvPなど状況に合わせて 英雄設定をすばやく変更できます。
 
 ***
 
