@@ -105,13 +105,15 @@ The more slots you have, the more hero setups you can save and use for different
 
 ***
 
-#### ◾ Good to Know
+{% hint style="info" %}
+#### Preset Tips
 
 * Hero Preset saves your currently configured hero information.
 * Tapping an empty Preset Slot saves your current setup.
 * Tapping a saved Preset Slot immediately changes to that preset.
 * Tapping the X button deletes the saved preset and resets the slot.
 * Preset Slots can be expanded with items purchased from the XTO Shop and XPoint Shop.
+{% endhint %}
 
 ***
 
@@ -224,13 +226,15 @@ and load it quickly whenever you need it. ✨
 
 ***
 
-#### ◾ 알아두면 좋은 점
+{% hint style="info" %}
+#### 프리셋 핵심 팁
 
 * 영웅 프리셋은 **현재 설정된 영웅 정보**를 저장합니다.
 * 비어 있는 프리셋 슬롯을 터치하면 **현재 세팅이 저장**됩니다.
 * 저장된 프리셋 슬롯을 터치하면 **해당 프리셋으로 즉시 변경**됩니다.
 * **X 버튼**을 터치하면 저장된 프리셋을 삭제하고 초기화할 수 있습니다.
 * 프리셋 슬롯은 **XTO Shop**과 **XPoint Shop**에서 구매한 아이템으로 추가 확장할 수 있습니다.
+{% endhint %}
 
 ***
 
@@ -348,13 +352,15 @@ and load it quickly whenever you need it. ✨
 
 ***
 
-#### ◾ 知っておくと便利なこと
+{% hint style="info" %}
+#### &#x20;プリセットのポイント
 
 * 英雄プリセットは、現在設定されている英雄情報を保存します。
 * 空いているプリセットスロットをタップすると、現在の設定が保存されます。
 * 保存済みのプリセットスロットをタップすると、そのプリセットへすぐに変更されます。
 * Xボタンをタップすると、保存済みのプリセットを削除して初期化できます。
 * プリセットスロットは、XTO ShopとXPoint Shopで購入したアイテムで追加拡張できます。
+{% endhint %}
 
 ***
 

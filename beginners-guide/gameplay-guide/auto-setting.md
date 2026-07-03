@@ -161,13 +161,15 @@ Choose one range that fits your current hunting style.
 
 ***
 
-#### ◾ Good to Know
+{% hint style="info" %}
+#### Auto Setting Tips
 
 * Auto Setting is saved separately for each hero.
 * Skills can be added and removed easily with drag and drop.
 * The Wait Icon helps you control the timing between skills.
 * Auto Target Setting allows multiple targets to be selected together.
 * Auto Hunt Range Setting allows only one range to be selected.
+{% endhint %}
 
 ***
 
@@ -323,13 +325,15 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 ***
 
-#### ◾ 알아두면 좋은 점
+{% hint style="info" %}
+#### 오토 세팅 핵심 팁
 
 * 오토 세팅은 **영웅마다 따로 저장**됩니다.
 * 스킬은 **드래그 앤 드롭**으로 쉽게 넣고 뺄 수 있습니다.
 * 대기 아이콘을 사용하면 스킬 사이의 흐름을 조절할 수 있습니다.
 * 자동 타겟 설정은 **여러 항목을 함께 선택**할 수 있습니다.
 * 자동 사냥 범위 설정은 **한 가지만 선택**할 수 있습니다.
+{% endhint %}
 
 ***
 
@@ -488,13 +492,15 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 ***
 
-#### ◾ 知っておくと便利なこと
+{% hint style="info" %}
+#### オート設定のポイント
 
 * オート設定は英雄ごとに個別に保存されます。
 * スキルはドラッグ＆ドロップで簡単に入れたり外したりできます。
 * 待機アイコンを使うと、スキルの間の流れを調整できます。
 * 自動ターゲット設定は、複数の項目を一緒に選択できます。
 * 自動狩り範囲設定は、1つだけ選択できます。
+{% endhint %}
 
 ***
 
