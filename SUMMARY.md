@@ -38,6 +38,7 @@
   * [⚒️ Crafting](beginners-guide/gameplay-guide/crafting.md)
   * [🍎 Collecting](beginners-guide/gameplay-guide/collecting.md)
   * [⚙️ Auto Setting](beginners-guide/gameplay-guide/auto-setting.md)
+  * [🧩 Hero Preset](beginners-guide/gameplay-guide/hero-preset.md)
 
 ## 😎 Growth
 

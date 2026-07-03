@@ -108,8 +108,12 @@ Additional slot items can be purchased from the shops below.
 * XTO Shop
 * XPoint Shop
 
-The more slots you have,\
+The more slots you have, \
 the longer and more detailed your skill order and combat flow can be.
+
+<figure><img src="../../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1163).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -274,6 +278,10 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 슬롯이 많아질수록 더 긴 스킬 순서와 다양한 전투 흐름을 설정할 수 있습니다.
 
+<figure><img src="../../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1162).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### ◾ 자동 타겟 설정
@@ -434,6 +442,10 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 スロットが多くなるほど、より長いスキル順序やさまざまな戦闘の流れを設定できます。
 
+<figure><img src="../../.gitbook/assets/image (1160).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1161).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### ◾ 自動ターゲット設定
@@ -499,3 +511,5 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 英雄の特徴に合わせてオート設定を行い、より快適に戦闘を進めてみましょう。 ✨
 {% endtab %}
 {% endtabs %}
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of July 02, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
