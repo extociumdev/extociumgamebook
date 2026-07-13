@@ -36,15 +36,15 @@ to percentage-based values depending on balance changes.
 
 1️⃣ Tap the **Dashboard button** at the top-left of the main screen.
 
-<figure><img src="../../../.gitbook/assets/a3 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143133 (2).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ Tap the **Equipment Bag** at the bottom of the Dashboard.
 
-<figure><img src="../../../.gitbook/assets/dash2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143209 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ In the **Accessories tab**, select the **Bracelet icon** to view your list of owned Bracelets.
 
-<figure><img src="../../../.gitbook/assets/ab2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143519.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -56,7 +56,7 @@ From the Bracelet list, you can perform the following actions:
 * Sort Bracelets
 * View detailed Bracelet information
 
-<figure><img src="../../../.gitbook/assets/ab1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 1435191.png" alt=""><figcaption></figcaption></figure>
 
 Use the **Sort button at the top-right** to organize the list based on your preferred criteria.
 
@@ -68,7 +68,7 @@ Important Bracelets can be protected using the **Lock feature**.
 
 * Tap the **lock-shaped icon** in the list to set the selected Bracelet to a locked state.
 
-<figure><img src="../../../.gitbook/assets/ab3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143615.png" alt=""><figcaption></figcaption></figure>
 
 Locked Bracelets have the following properties:
 
@@ -126,15 +126,15 @@ to perfect a combat style that matches your offensive focus.
 
 1️⃣ 메인 화면 좌측 상단의 **대시보드** 버튼을 터치합니다.
 
-<figure><img src="../../../.gitbook/assets/a3 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143133 (2).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 대시보드 하단의 **장비 가방**을 터치합니다.
 
-<figure><img src="../../../.gitbook/assets/dash2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143209 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 악세서리 탭에서 **팔찌 아이콘**을 선택하면 보유 중인 팔찌 목록을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/ab2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143519.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -146,7 +146,7 @@ to perfect a combat style that matches your offensive focus.
 * 팔찌 정렬
 * 팔찌 상세 정보 확인
 
-<figure><img src="../../../.gitbook/assets/ab1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 1435191.png" alt=""><figcaption></figcaption></figure>
 
 우측 상단의 정렬 버튼을 통해 원하는 기준으로 목록을 정렬할 수 있습니다.
 
@@ -159,7 +159,7 @@ to perfect a combat style that matches your offensive focus.
 * 목록에서 **자물쇠 모양 버튼**을 터치하면\
   해당 팔찌가 잠금 상태로 설정됩니다.
 
-<figure><img src="../../../.gitbook/assets/ab3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143615.png" alt=""><figcaption></figcaption></figure>
 
 잠금된 팔찌는 다음과 같은 특징이 있습니다.
 
@@ -219,16 +219,16 @@ Phys. Crit DMG(물리 치명타 데미지)와 Mag. Crit DMG(마법 치명타 데
 
 1️⃣ メイン画面左上の **ダッシュボードボタン** をタップします。
 
-<figure><img src="../../../.gitbook/assets/a3 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143133 (2).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ ダッシュボード下部の **装備バッグ** をタップします。
 
-<figure><img src="../../../.gitbook/assets/dash2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143209 (1).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ **アクセサリータブ** で **ブレスレットアイコン** を選択すると、\
 所持中のブレスレット一覧を確認できます。
 
-<figure><img src="../../../.gitbook/assets/ab2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143519.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -240,7 +240,7 @@ Phys. Crit DMG(물리 치명타 데미지)와 Mag. Crit DMG(마법 치명타 데
 * ブレスレットの並び替え
 * ブレスレット詳細情報の確認
 
-<figure><img src="../../../.gitbook/assets/ab1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 1435191.png" alt=""><figcaption></figcaption></figure>
 
 **画面右上** の並び替えボタンを使用すると、お好みの条件で一覧を並び替えることができます。
 
@@ -252,7 +252,7 @@ Phys. Crit DMG(물리 치명타 데미지)와 Mag. Crit DMG(마법 치명타 데
 
 * 一覧で **鍵アイコン** をタップすると、該当ブレスレットはロック状態に設定されます。
 
-<figure><img src="../../../.gitbook/assets/ab3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 143615.png" alt=""><figcaption></figcaption></figure>
 
 ロックされたブレスレットの特徴：
 
