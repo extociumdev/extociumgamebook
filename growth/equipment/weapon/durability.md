@@ -64,16 +64,17 @@ You can check durability information for each weapon by clicking [**here**](weap
 
 1.  Go to **Dashboard → Weapon Info Page**<br>
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140024 (2).png" alt=""><figcaption></figcaption></figure>
 2.  Check the number of **Polishing Stones** you own at the top-right of the Weapon Info Page<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-3.  Tap the **Durability Bar** below the weapon image to perform **manual repair**<br>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140100.png" alt=""><figcaption></figcaption></figure>
+3.  Tap the **Durability Bar** below the weapon image to perform **manual repair**\
+    <br>
 
-    <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 1401001.png" alt=""><figcaption></figcaption></figure>
 4.  Confirm the required number of Polishing Stones and proceed with the repair<br>
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140220.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -83,7 +84,7 @@ You can check durability information for each weapon by clicking [**here**](weap
 * Use the **AUTO button** next to the equipped weapon \
   on the Dashboard to configure this setting
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140307.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -140,16 +141,16 @@ EXTOCIUM에서는\
 
 1.  **대시보드 → 무기 정보 페이지**로 이동합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140024 (2).png" alt=""><figcaption></figcaption></figure>
 2.  무기 정보 페이지 우측 상단에서 보유 중인 **연마석 수량**을 확인할 수 있습니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140100.png" alt=""><figcaption></figcaption></figure>
 3.  무기 이미지 하단의 **내구도 바**를 터치하면 수동 수리가 가능합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 1401001.png" alt=""><figcaption></figcaption></figure>
 4.  필요한 연마석 개수를 확인한 후 수리를 진행하세요.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140220.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -158,7 +159,7 @@ EXTOCIUM에서는\
 * 장착 중인 장비는 **자동 수리 기능을 ON / OFF** 할 수 있습니다.
 * 대시보드에서 장착 중인 무기 옆의 **AUTO 버튼**을 통해 설정할 수 있습니다.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140307.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -219,16 +220,16 @@ EXTOCIUM에서는\
 
 1.  **ダッシュボード → 武器情報ページ**へ移動します<br>
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140024 (2).png" alt=""><figcaption></figcaption></figure>
 2.  武器情報ページ右上で、所持している **研磨石の数量** を確認できます<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140100.png" alt=""><figcaption></figcaption></figure>
 3.  武器画像下の **耐久度バー** をタップすると、**手動修理** が可能です<br>
 
-    <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 1401001.png" alt=""><figcaption></figcaption></figure>
 4.  必要な研磨石の数を確認し、修理を行ってください<br>
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140220.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -237,8 +238,8 @@ EXTOCIUM에서는\
 * 装備中の武器は、**自動修理機能をON / OFF** に設定できます。
 * ダッシュボードで、装備中の武器横にある **AUTOボタン** から設定可能です
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 140307.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 2, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of July 13, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
