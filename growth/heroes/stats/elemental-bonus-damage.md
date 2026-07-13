@@ -44,12 +44,12 @@ Based on these relationships, **Elemental Bonus Damage (EBD)** is applied.
 * **Green Arrow&#x20;**<mark style="color:green;">**▲**</mark>\
   → You deal **12% additional damage** to the target.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
 
 * **Red Arrow&#x20;**<mark style="color:red;">**▼**</mark>\
   → The target deals **12% additional damage** to you.
 
-<figure><img src="../../../.gitbook/assets/image (968).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>
 
 💡 These arrows indicate the **elemental advantage or disadvantage** in the encounter.
 
@@ -131,12 +131,12 @@ even with the same stats.\
 * **녹색 화살표&#x20;**<mark style="color:green;">**▲**</mark>\
   → 내가 해당 타겟에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
 
 * **붉은 화살표&#x20;**<mark style="color:red;">**▼**</mark>\
   → 해당 타겟이 나에게 **12%의 추가 데미지**를 입힐 수 있다는 의미입니다.
 
-<figure><img src="../../../.gitbook/assets/image (969).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>
 
 💡 화살표는 **속성 상성으로 인한 유불리 관계**를 나타냅니다.
 
@@ -215,12 +215,12 @@ even with the same stats.\
 * **緑の矢印&#x20;**<mark style="color:green;">**▲**</mark>\
   → 対象に **12％の追加ダメージ** を与えられる状態です。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
 
 * **赤の矢印&#x20;**<mark style="color:red;">**▼**</mark>\
   → 対象から **12％の追加ダメージ** を受ける状態です。
 
-<figure><img src="../../../.gitbook/assets/image (970).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>
 
 💡 矢印は、属性相性による有利・不利を示しています。
 
