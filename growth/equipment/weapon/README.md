@@ -32,32 +32,32 @@ You can check your weapons in the following order:
 
 1️⃣ Tap the **helmet icon** at the top-left of the main screen to open the Dashboard.
 
-<figure><img src="../../../.gitbook/assets/dash.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 131859.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2️⃣ In the center of the Dashboard, \
 you can see a **summary panel** of the currently equipped weapon.
 
-<figure><img src="../../../.gitbook/assets/dash1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132045.png" alt=""><figcaption></figcaption></figure>
 
 
 
 3️⃣ Tap the weapon image to view detailed information about the equipped weapon.
 
-<figure><img src="../../../.gitbook/assets/image (971).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132130.png" alt=""><figcaption></figcaption></figure>
 
 
 
 4️⃣ Tap the **Equipment Bag** at the bottom of the screen to view your weapon list.
 
-<figure><img src="../../../.gitbook/assets/dash2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132226.png" alt=""><figcaption></figcaption></figure>
 
 
 
 5️⃣ Tap a **slot** in the weapon list to open the weapon’s detail panel.
 
-<figure><img src="../../../.gitbook/assets/image (972).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132501.png" alt=""><figcaption></figcaption></figure>
 
 * On this screen, you can equip or unequip weapons.
 * You can also sort weapons using the sort button at the top-right.
@@ -66,7 +66,7 @@ you can see a **summary panel** of the currently equipped weapon.
 
 6️⃣ In the weapon detail panel, you can access Enchant, check stats, sell the weapon, and view information for NFT registration.
 
-<figure><img src="../../../.gitbook/assets/dash6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132643.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -81,13 +81,13 @@ Locked weapons have the following characteristics:
 * Cannot be used as crafting materials
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/dash-lock (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132802.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ Weapon Detail Information
 
-<figure><img src="../../../.gitbook/assets/image (973).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132906.png" alt=""><figcaption></figcaption></figure>
 
 Tap **Detail** on the weapon information screen to view the weapon’s record information.
 
@@ -135,31 +135,31 @@ Tap **Detail** on the weapon information screen to view the weapon’s record in
 
 1️⃣ 메인 화면 좌측 상단의 **투구 아이콘**을 터치하여 대시보드에 진입합니다.
 
-<figure><img src="../../../.gitbook/assets/dash.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 131859.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2️⃣ 대시보드 중앙에서 현재 **장착 중인 무기의 축약 정보 패널**을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/dash1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132045.png" alt=""><figcaption></figcaption></figure>
 
 
 
 3️⃣ 무기 이미지를 터치하면 장착 중인 무기의 상세 정보를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (971).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132130.png" alt=""><figcaption></figcaption></figure>
 
 
 
 4️⃣ 화면 하단의 **장비 가방**을 터치하면 보유 중인 무기 목록을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/dash2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132226.png" alt=""><figcaption></figcaption></figure>
 
 
 
 5️⃣ 무기 목록에서 **슬롯을 터치**하면 해당 무기의 상세 정보 패널로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (972).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132501 (1).png" alt=""><figcaption></figcaption></figure>
 
 * 이 화면에서 무기를 장착하거나 해제할 수 있습니다.
 * 우측 상단의 정렬 버튼을 통해 무기를 정렬할 수 있습니다.
@@ -168,7 +168,7 @@ Tap **Detail** on the weapon information screen to view the weapon’s record in
 
 6️⃣ 무기 상세 정보 패널에서는 인챈트, 스탯 확인, 판매, NFT 등록에 필요한 정보를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/dash6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132643.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -183,13 +183,13 @@ Tap **Detail** on the weapon information screen to view the weapon’s record in
 * 제작 재료로 사용되지 않습니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/dash-lock (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132802.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ 무기 상세정보
 
-<figure><img src="../../../.gitbook/assets/image (973).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132906.png" alt=""><figcaption></figcaption></figure>
 
 무기 정보 화면에서 **상세정보**를 누르면 해당 무기의 기록 정보를 확인할 수 있습니다.
 
@@ -238,31 +238,31 @@ _※ 표시되는 항목은 무기의 상태(NFT 여부 등)에 따라 달라질
 
 1️⃣ メイン画面左上の**ヘルメットアイコン**をタップして、ダッシュボードに移動します。
 
-<figure><img src="../../../.gitbook/assets/dash.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 131859.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2️⃣ ダッシュボード中央で、現在装備中の武器の**簡易情報パネル**を確認できます。
 
-<figure><img src="../../../.gitbook/assets/dash1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132045.png" alt=""><figcaption></figcaption></figure>
 
 
 
 3️⃣ 武器の画像をタップすると、装備中の武器の詳細情報を確認できます。
 
-<figure><img src="../../../.gitbook/assets/image (971).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132130.png" alt=""><figcaption></figcaption></figure>
 
 
 
 4️⃣ 画面下部の**装備バッグ**をタップすると、所持中の武器一覧を確認できます。
 
-<figure><img src="../../../.gitbook/assets/dash2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132226.png" alt=""><figcaption></figcaption></figure>
 
 
 
 5️⃣ 武器一覧で**スロットをタップ**すると、該当武器の詳細情報パネルに移動します。
 
-<figure><img src="../../../.gitbook/assets/image (972).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132501 (1).png" alt=""><figcaption></figcaption></figure>
 
 * この画面で武器の装備・解除が可能です。
 * 右上の並び替えボタンで武器を整理できます。
@@ -272,7 +272,7 @@ _※ 표시되는 항목은 무기의 상태(NFT 여부 등)에 따라 달라질
 6️⃣ 武器の詳細情報パネルでは、\
 エンチャント、ステータス確認、販売、NFT登録に必要な情報を確認できます。
 
-<figure><img src="../../../.gitbook/assets/dash6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132643.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -286,13 +286,13 @@ _※ 표시되는 항목은 무기의 상태(NFT 여부 등)에 따라 달라질
 * 製作素材として使用されません
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/dash-lock (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132802.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ 武器詳細情報
 
-<figure><img src="../../../.gitbook/assets/image (973).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/화면 캡처 2026-07-13 132906.png" alt=""><figcaption></figcaption></figure>
 
 武器情報画面で**詳細情報（Detail）**&#x3092;タップすると、その武器の記録情報を確認できます。
 
