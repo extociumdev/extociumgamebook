@@ -37,7 +37,7 @@ Your skill choices can completely change how a Hero performs in battle.
 
 ***
 
-#### 🔹 [Level Progression](../level.md)
+#### 🔹 [Level Progression](../level/)
 
 Heroes gain **EXP through hunting**, leveling up as they grow stronger.\
 As their level increases, so does their overall combat performance.
@@ -103,7 +103,7 @@ EXTOCIUM에는\
 
 ***
 
-#### 🔹 [레벨 성장](../level.md)
+#### 🔹 [레벨 성장](../level/)
 
 영웅은 사냥을 통해 **EXP를 획득**하고 레벨을 올리며 성장합니다.\
 레벨이 오를수록 전투 능력도 함께 강화됩니다.
@@ -171,7 +171,7 @@ EXTOCIUM에는\
 
 ***
 
-#### 🔹 [レベル成長](../level.md)
+#### 🔹 [レベル成長](../level/)
 
 ヒーローは狩りを通じて**EXPを獲得**し、\
 レベルアップすることで成長します。

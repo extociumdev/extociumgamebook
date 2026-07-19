@@ -12,7 +12,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 Earn **EXP** through hunting and activities to level up,\
 unlock stronger equipment, and access more advanced content.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -37,8 +37,8 @@ EXP can be obtained through regular gameplay.
 
 👇 **For detailed EXP sources, please refer to the guide below.**
 
-{% content-ref url="../../beginners-guide/gameplay-guide/battle.md" %}
-[battle.md](../../beginners-guide/gameplay-guide/battle.md)
+{% content-ref url="../../../beginners-guide/gameplay-guide/battle.md" %}
+[battle.md](../../../beginners-guide/gameplay-guide/battle.md)
 {% endcontent-ref %}
 
 ***
@@ -53,8 +53,8 @@ you can equip more powerful gear.
 
 👇 **Check level-based equipment requirements below.**
 
-{% content-ref url="../equipment/weapon/guide-to-equip-levels.md" %}
-[guide-to-equip-levels.md](../equipment/weapon/guide-to-equip-levels.md)
+{% content-ref url="../../equipment/weapon/guide-to-equip-levels.md" %}
+[guide-to-equip-levels.md](../../equipment/weapon/guide-to-equip-levels.md)
 {% endcontent-ref %}
 
 ***
@@ -68,8 +68,8 @@ Using items that instantly grant **EXP and TP** can help your Hero grow faster.
 
 👇 **See the related item guide for more details.**
 
-{% content-ref url="../exp-tp-magic-vial.md" %}
-[exp-tp-magic-vial.md](../exp-tp-magic-vial.md)
+{% content-ref url="../../exp-tp-magic-vial.md" %}
+[exp-tp-magic-vial.md](../../exp-tp-magic-vial.md)
 {% endcontent-ref %}
 
 ***
@@ -83,12 +83,12 @@ Some systems directly influence how efficiently your Hero grows.
 
 👇 **Learn more about each system below.**
 
-{% content-ref url="../../system/energy/" %}
-[energy](../../system/energy/)
+{% content-ref url="../../../system/energy/" %}
+[energy](../../../system/energy/)
 {% endcontent-ref %}
 
-{% content-ref url="../../system/party.md" %}
-[party.md](../../system/party.md)
+{% content-ref url="../../../system/party.md" %}
+[party.md](../../../system/party.md)
 {% endcontent-ref %}
 
 ***
@@ -106,7 +106,7 @@ Some systems directly influence how efficiently your Hero grows.
 💡 **레벨은 영웅의 강함을 나타내는 가장 중요한 기준입니다.**\
 사냥과 활동을 통해 EXP를 획득하고, 레벨을 올려 더 강력한 장비와 콘텐츠를 해금해 보세요.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -129,8 +129,8 @@ EXP는 게임 플레이를 통해 획득할 수 있습니다.
 
 👇 **자세한 EXP 획득 방법은 아래 가이드를 참고해 주세요.**
 
-{% content-ref url="../../beginners-guide/gameplay-guide/battle.md" %}
-[battle.md](../../beginners-guide/gameplay-guide/battle.md)
+{% content-ref url="../../../beginners-guide/gameplay-guide/battle.md" %}
+[battle.md](../../../beginners-guide/gameplay-guide/battle.md)
 {% endcontent-ref %}
 
 ***
@@ -144,8 +144,8 @@ EXP는 게임 플레이를 통해 획득할 수 있습니다.
 
 &#x20;👇 **레벨별 장비 기준은 아래에서 확인할 수 있습니다.**
 
-{% content-ref url="../equipment/weapon/guide-to-equip-levels.md" %}
-[guide-to-equip-levels.md](../equipment/weapon/guide-to-equip-levels.md)
+{% content-ref url="../../equipment/weapon/guide-to-equip-levels.md" %}
+[guide-to-equip-levels.md](../../equipment/weapon/guide-to-equip-levels.md)
 {% endcontent-ref %}
 
 ***
@@ -159,8 +159,8 @@ EXP와 TP를 즉시 획득할 수 있는 아이템을 활용하면 영웅을 더
 
 👇 **관련 아이템 정보는 아래 가이드를 참고해 주세요.**
 
-{% content-ref url="../exp-tp-magic-vial.md" %}
-[exp-tp-magic-vial.md](../exp-tp-magic-vial.md)
+{% content-ref url="../../exp-tp-magic-vial.md" %}
+[exp-tp-magic-vial.md](../../exp-tp-magic-vial.md)
 {% endcontent-ref %}
 
 ***
@@ -174,12 +174,12 @@ EXP와 TP를 즉시 획득할 수 있는 아이템을 활용하면 영웅을 더
 
 👇 **각 시스템에 대한 자세한 내용은 아래에서 확인할 수 있습니다.**
 
-{% content-ref url="../../system/energy/" %}
-[energy](../../system/energy/)
+{% content-ref url="../../../system/energy/" %}
+[energy](../../../system/energy/)
 {% endcontent-ref %}
 
-{% content-ref url="../../system/party.md" %}
-[party.md](../../system/party.md)
+{% content-ref url="../../../system/party.md" %}
+[party.md](../../../system/party.md)
 {% endcontent-ref %}
 
 ***
@@ -198,7 +198,7 @@ EXP와 TP를 즉시 획득할 수 있는 아이템을 활용하면 영웅을 더
 狩りや各種活動を通じて **EXP** を獲得し、\
 レベルを上げて、より強力な装備や新たなコンテンツを解放しましょう。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -223,8 +223,8 @@ EXPは、ゲームプレイを通じて獲得できます。
 
 👇 **EXP獲得方法の詳細は、下記ガイドをご確認ください。**
 
-{% content-ref url="../../beginners-guide/gameplay-guide/battle.md" %}
-[battle.md](../../beginners-guide/gameplay-guide/battle.md)
+{% content-ref url="../../../beginners-guide/gameplay-guide/battle.md" %}
+[battle.md](../../../beginners-guide/gameplay-guide/battle.md)
 {% endcontent-ref %}
 
 ***
@@ -239,8 +239,8 @@ EXPは、ゲームプレイを通じて獲得できます。
 
 👇 **レベル別装備基準は、以下からご確認ください。**
 
-{% content-ref url="../equipment/weapon/guide-to-equip-levels.md" %}
-[guide-to-equip-levels.md](../equipment/weapon/guide-to-equip-levels.md)
+{% content-ref url="../../equipment/weapon/guide-to-equip-levels.md" %}
+[guide-to-equip-levels.md](../../equipment/weapon/guide-to-equip-levels.md)
 {% endcontent-ref %}
 
 ***
@@ -255,8 +255,8 @@ EXPは、ゲームプレイを通じて獲得できます。
 
 👇 **関連アイテムの詳細は、下記ガイドをご参照ください。**
 
-{% content-ref url="../exp-tp-magic-vial.md" %}
-[exp-tp-magic-vial.md](../exp-tp-magic-vial.md)
+{% content-ref url="../../exp-tp-magic-vial.md" %}
+[exp-tp-magic-vial.md](../../exp-tp-magic-vial.md)
 {% endcontent-ref %}
 
 ***
@@ -270,12 +270,12 @@ EXPは、ゲームプレイを通じて獲得できます。
 
 👇 **各システムの詳細は、以下でご確認いただけます。**
 
-{% content-ref url="../../system/energy/" %}
-[energy](../../system/energy/)
+{% content-ref url="../../../system/energy/" %}
+[energy](../../../system/energy/)
 {% endcontent-ref %}
 
-{% content-ref url="../../system/party.md" %}
-[party.md](../../system/party.md)
+{% content-ref url="../../../system/party.md" %}
+[party.md](../../../system/party.md)
 {% endcontent-ref %}
 
 ***
