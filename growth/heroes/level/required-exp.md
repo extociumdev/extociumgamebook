@@ -1,8 +1,18 @@
 ---
 description: 🛑 Information on this page may differ from the current in-game data.
+icon: arrow-turn-down-right
 ---
 
-# ⭐ EXP Table
+# Required EXP
+
+This page shows the amount of EXP required for each level-up.\
+Check the table below to see how much EXP is needed to reach each level.
+
+このページでは、各レベルアップに必要なEXPを確認できます。\
+下の表で、各レベルに到達するために必要なEXPを確認してみましょう。
+
+이 페이지에서는 레벨업에 필요한 경험치를 확인할 수 있습니다.\
+아래 표에서 각 레벨에 도달하기 위해 필요한 경험치를 확인해 보세요.
 
 | **Level** | **Required EXP**                                |
 | --------- | ----------------------------------------------- |
@@ -61,3 +71,5 @@ description: 🛑 Information on this page may differ from the current in-game d
 | 54        |                                31,242,222,681   |
 | 55        |                                41,459,135,455   |
 | 56        |                                55,034,487,758   |
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of July 20, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

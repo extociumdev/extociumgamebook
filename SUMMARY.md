@@ -52,7 +52,7 @@
     * [🪨 Aristo](growth/heroes/basic-heroes/aristo.md)
     * [🔮 Aruru](growth/heroes/basic-heroes/aruru.md)
   * [⭐ Level](growth/heroes/level/README.md)
-    * [⭐ EXP Table](growth/heroes/level/exp-table.md)
+    * [Required EXP](growth/heroes/level/required-exp.md)
   * [✴️ Stats](growth/heroes/stats/README.md)
     * [1️⃣ Combat Stats](growth/heroes/stats/combat-stats.md)
     * [2️⃣ Special Stats](growth/heroes/stats/special-stats/README.md)
