@@ -95,19 +95,17 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 🔻 Please refer to the table below for items that can be summoned using Embers.
 
-| Item Name          | Summon Probability (%) | Amount |
-| ------------------ | ---------------------- | ------ |
-| Orb of Spirit      | 10                     | 1      |
-| Molten Core        | 10                     | 1      |
-| Pearl              | 10                     | 1      |
-| Song of Spirit     | 10                     | 1      |
-| Carving Knife      | 10                     | 1      |
-| Empty Container    | 10                     | 1      |
-| Magic Mold         | 10                     | 1      |
-| Polishing Agent    | 10                     | 1      |
-| Essence of Healing | 3                      | 2      |
-| Essence of Magic   | 4                      | 2      |
-| Neutralizer        | 10                     | 2      |
+| Item Name       | Summon Probability (%) | Amount |
+| --------------- | ---------------------- | ------ |
+| Orb of Spirit   | 8                      | 1      |
+| Molten Core     | 10                     | 1      |
+| Pearl           | 10                     | 1      |
+| Song of Spirit  | 8                      | 1      |
+| Carving Knife   | 15                     | 1      |
+| Empty Container | 25                     | 1      |
+| Magic Mold      | 10                     | 1      |
+| Polishing Agent | 12                     | 1      |
+| Broken Power    | 2                      | 1      |
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -200,17 +198,15 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 | 아이템 이름 | 소환 확률 (%) | 양 (Amount) |
 | ------ | --------- | ---------- |
-| 정령의 구슬 | 10        | 1          |
+| 정령의 구슬 | 8         | 1          |
 | 용암 결정  | 10        | 1          |
 | 진주     | 10        | 1          |
-| 정령의 노래 | 10        | 1          |
-| 조각용 칼  | 10        | 1          |
-| 빈 용기   | 10        | 1          |
+| 정령의 노래 | 8         | 1          |
+| 조각용 칼  | 15        | 1          |
+| 빈 용기   | 25        | 1          |
 | 마법 몰드  | 10        | 1          |
-| 연마제    | 10        | 1          |
-| 치유의 정수 | 3         | 2          |
-| 마력의 정수 | 4         | 2          |
-| 중화제    | 10        | 2          |
+| 연마제    | 12        | 1          |
+| 부서진 힘  | 2         | 1          |
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -303,19 +299,17 @@ By using Embers wisely, you can turn unwanted items into **new items with greate
 
 🔻 火種で召喚できるアイテムについては、下記の表をご確認ください。
 
-| アイテム名    | 召喚確率 (%) | 数量 (Amount) |
-| -------- | -------- | ----------- |
-| 精霊の珠     | 10       | 1           |
-| 溶岩結晶     | 10       | 1           |
-| 真珠       | 10       | 1           |
-| 精霊の歌     | 10       | 1           |
-| 彫刻用ナイフ   | 10       | 1           |
-| 空の容器     | 10       | 1           |
-| 魔法モールド   | 10       | 1           |
-| 研磨剤      | 10       | 1           |
-| 治癒のエッセンス | 3        | 2           |
-| 魔力のエッセンス | 4        | 2           |
-| 中和剤      | 10       | 2           |
+| アイテム名  | 召喚確率 (%) | 数量 (Amount) |
+| ------ | -------- | ----------- |
+| 精霊の珠   | 8        | 1           |
+| 溶岩結晶   | 10       | 1           |
+| 真珠     | 10       | 1           |
+| 精霊の歌   | 8        | 1           |
+| 彫刻用ナイフ | 15       | 1           |
+| 空の容器   | 25       | 1           |
+| 魔法モールド | 10       | 1           |
+| 研磨剤    | 12       | 1           |
+| 壊れた力   | 2        | 1           |
 {% endtab %}
 {% endtabs %}
 
