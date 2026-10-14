@@ -38,7 +38,7 @@ On the Reload screen, you can select the following Equipment to perform Reload.
 
 > Weapon, Orb, Necklace, Bracelet, Earrings
 
-<figure><img src="../../.gitbook/assets/rw3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1179).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -64,14 +64,6 @@ the Enchant bonus is also re-rolled.
 {% endhint %}
 
 The materials required for each Reload type can be checked below.
-
-| Normal                                                               | Special                                                                                                         |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| <p>Star Candy<br>(Amount required increases with weapon grade)</p>   | <p><strong>For Weapons:</strong><br>Weapon - Special Reload x 1<br>(Purchase from XTO Shop)</p>                 |
-| <p>Broken Power<br>(Amount required increases with weapon grade)</p> | <p><strong>For Orbs and Accessories:</strong><br>Equipment - Special Reload x 1<br>(Purchase from XTO Shop)</p> |
-| <p>Gold<br>(Amount required increases with weapon grade)</p>         |                                                                                                                 |
-
-
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -104,7 +96,7 @@ The materials required for each Reload type can be checked below.
 
 > 무기, 오브, 목걸이, 팔찌, 귀걸이
 
-<figure><img src="../../.gitbook/assets/rw3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1179).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -130,12 +122,6 @@ The materials required for each Reload type can be checked below.
 {% endhint %}
 
 각 리로드 방식에 필요한 재료는 아래 내용을 통해 확인할 수 있습니다.
-
-| 일반                                  | 스페셜                                                                       |
-| ----------------------------------- | ------------------------------------------------------------------------- |
-| <p>별사탕<br>( 무기 단계마다 필요량 증가 )</p>    | <p><strong>무기인 경우:</strong><br>무기 - 스페셜 리로드 x1<br>( XTO 상점 구매 )</p>       |
-| <p>부서진 힘 <br>( 무기 단계마다 필요량 증가 )</p> | <p><strong>오브, 악세사리인 경우:</strong><br>장비 - 스페셜 리로드 x1<br>( XTO 상점 구매 )</p> |
-| <p>골드<br>( 무기 단계마다 필요량 증가 )</p>     |                                                                           |
 {% endtab %}
 
 {% tab title="日本語" %}
@@ -171,7 +157,7 @@ The materials required for each Reload type can be checked below.
 
 > 武器, オーブ, ネックレス, ブレスレット, イヤリング
 
-<figure><img src="../../.gitbook/assets/rw3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1179).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -196,15 +182,9 @@ The materials required for each Reload type can be checked below.
 {% endhint %}
 
 各リロード方式に必要な素材は、以下の内容から確認できます。
-
-| 通常                                 | スペシャル                                                                       |
-| ---------------------------------- | --------------------------------------------------------------------------- |
-| <p>星のキャンディ<br>(武器の段階ごとに必要量が増加)</p> | <p><strong>武器の場合：</strong><br>武器 - スペシャルリロード x1<br>(XTOショップで購入)</p>         |
-| <p>壊れた力<br>(武器の段階ごとに必要量が増加)</p>    | <p><strong>オーブ・アクセサリーの場合：</strong><br>装備 - スペシャルリロード x1<br>(XTOショップで購入)</p> |
-| <p>ゴールド<br>(武器の段階ごとに必要量が増加)</p>    |                                                                             |
-
-
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 7, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<table data-header-hidden><thead><tr><th width="179"></th><th width="118"></th><th width="135"></th><th width="105"></th><th></th></tr></thead><tbody><tr><td>Weapon<br>무기<br>武器</td><td>Starcandy<br>별사탕<br>金平糖</td><td>Broken Power<br>부서진 힘<br>壊れた力</td><td>Gold<br>골드<br>ゴールド</td><td>Weapon - Special Reload<br>무기 - 스페셜 리로드<br>武器 - スペシャルリロード</td></tr><tr><td>Wooden sword<br>목검<br>木剣</td><td>1</td><td>1</td><td>10</td><td>1</td></tr><tr><td>Bronze sword<br>청동검<br>青銅の剣</td><td>1</td><td>2</td><td>10</td><td>1</td></tr><tr><td>Steel sword<br>강철검<br>鋼鉄の剣</td><td>1</td><td>3</td><td>20</td><td>1</td></tr><tr><td>Flamberg<br>플람베르그<br>フランベルグ</td><td>1</td><td>4</td><td>20</td><td>1</td></tr><tr><td>Paladin's Sword<br>팔라딘의 검<br>パラディンの剣</td><td>1</td><td>6</td><td>100</td><td>1</td></tr><tr><td>Orc eye<br>오크의 눈<br>オークの目</td><td>1</td><td>8</td><td>100</td><td>1</td></tr><tr><td>Damascus<br>다마스커스<br>ダマスカス</td><td>1</td><td>10</td><td>200</td><td>1</td></tr><tr><td>Savage Sword<br>야만의 검<br>野蛮の剣</td><td>1</td><td>12</td><td>200</td><td>1</td></tr><tr><td>Oracle Sword<br>오라클 스워드<br>オラクル·スワード</td><td>2</td><td>15</td><td>1,000</td><td>1</td></tr><tr><td>Devil's sword<br>악마의 검<br>悪魔の剣</td><td>2</td><td>20</td><td>1,000</td><td>1</td></tr><tr><td>Awakening Darkness<br>깨어나는 어둠<br>目覚める闇</td><td>3</td><td>100</td><td>2,000</td><td>1</td></tr><tr><td>Sword of light<br>빛의 검<br>光の剣</td><td>4</td><td>100</td><td>2,000</td><td>1</td></tr><tr><td>Dragon roar<br>용의 포효<br>竜の咆哮</td><td>5</td><td>100</td><td>4,000</td><td>2</td></tr></tbody></table>
+
+<p align="right"><sup><em>※ This guide was written based on the game status as of October 14, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

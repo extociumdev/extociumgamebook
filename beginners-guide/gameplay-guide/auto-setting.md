@@ -8,13 +8,12 @@ description: 🛑 Information on this page may differ from the current in-game d
 {% tab title="ENG" %}
 ### ⚙️ Auto Setting
 
-Auto Setting is a menu where you decide how your hero will act during auto combat.
+Auto Setting lets you choose how your hero acts during auto combat.
 
-It does more than turn auto combat on or off.\
-You can also set the skill order, wait time, auto target, and hunt range.
+You can turn auto combat on or off and set the **skill order, wait time, auto targets, and hunt range**.
 
-Your settings are saved separately for each hero,\
-so each hero can use Auto Setting based on their own combat style.
+Settings are saved separately for each hero.\
+You can also save different macros in **five save slots** and switch between them whenever you need.
 
 ***
 
@@ -22,119 +21,127 @@ so each hero can use Auto Setting based on their own combat style.
 
 You can open Auto Setting directly from the combat screen.
 
-👇 How to access
+👇 Follow these steps:
 
-1️⃣ Tap the **Auto Setting** button at the bottom right of the combat screen.
+1️⃣ Tap the **Auto Setting button** at the bottom right of the combat screen.
 
 <figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 153726.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ The **Skill Usage Setting** screen will open.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 153822.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1180).png" alt=""><figcaption></figcaption></figure>
 
-3️⃣ Tap the **setting button** at the top right of the Skill Usage Setting screen.
+3️⃣ Tap the **settings button** at the top right of that screen.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154008.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1181).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ The **Macro Setting** screen will open.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154126.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1182).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ◾ What is Macro Setting?
+#### ◾ What Is Macro Setting?
 
-Macro Setting is where you set the **skill order** and **action flow** your hero will use during auto combat.
+Macro Setting lets you arrange the skills and actions your hero uses during auto combat.\
+The **slots are on the left**, and the **available skills and icons are on the right**.
 
-The left side is the slot area where you place skills.\
-The right side shows the skills and icons that can be used for the setting.
-
-Drag an icon from the right side to a slot on the left side.\
-Your hero will use the skills or actions in that order.
+Drag an icon from the right into a slot on the left to build your action sequence.
 
 ***
 
-#### ◾ How to Set Skills
+#### ◾ How to Add Skills
 
-You can register skills easily by dragging them.
+You can add skills by dragging them into slots.
 
-👇 How to set skills
+👇 Follow these steps:
 
-1️⃣ Check the skills in the list on the right.\
-2️⃣ Press and hold the skill icon you want, then drag it to a slot on the left.\
-3️⃣ Place the skills in the order you want.
+1️⃣ Find the skill you want in the list on the right.\
+2️⃣ Press and hold its icon, then drag it into a slot on the left.\
+3️⃣ Arrange your skills in the order you want.
 
-Once set, your hero will use skills during auto combat\
-in the order they are placed in the slots.
-
-***
-
-#### ◾ How to Remove Set Skills
-
-You can also remove skills that have already been placed.
-
-Drag a registered skill out of the slot area.\
-That skill will be removed from Macro Setting.
-
-If you place the wrong skill, do not worry.\
-You can simply remove it and set it again.
+During auto combat, your hero will use the skills in the order they appear in the slots.
 
 ***
 
-#### ◾ What is the Wait Icon?
+#### ◾ How to Remove Skills
+
+You can remove a skill after adding it.
+
+Drag the skill out of the slot area to remove it from the macro.\
+If you add the wrong skill, simply remove it and try again!
+
+***
+
+#### ◾ Macro Save Slots
+
+<figure><img src="../../.gitbook/assets/image (1184).png" alt="" width="529"><figcaption></figcaption></figure>
+
+Want to use one skill order for hunting monsters and another for fighting other adventurers?\
+Try **Macro Save Slots**!
+
+You can save a different macro in each of the **five save slots**.
+
+Save your favorite skill sequences and switch between them without setting everything up again.
+
+For example:
+
+* **Slot 1:** Monster hunting
+* **Slot 2:** Boss battles
+* **Slot 3:** PvP
+
+{% hint style="info" %}
+**Save slots hold different macros.** \
+They are different from **action slots**, where you place skills and Wait Icons.
+{% endhint %}
+
+***
+
+#### ◾ What Is the Wait Icon?
 
 <figure><img src="../../.gitbook/assets/image (1147).png" alt=""><figcaption></figcaption></figure>
 
-In Macro Setting, you can use not only skills but also the **Wait Icon**.
+You can add **Wait Icons** as well as skills to your macro.
 
-The Wait Icon is shown as a pause-shaped icon.
+The Wait Icon looks like a **pause symbol**.\
+Place it between skills to make your hero wait for the set amount of time before moving on to the next action.
 
-When this icon is placed in a slot,\
-your hero will wait for **n seconds** at that step before moving on to the next action.
-
-For example,\
-if you do not want your hero to use a powerful skill right away,\
-you can place a Wait Icon between skills.
+For example, if you want a short pause before using a powerful skill, place a Wait Icon before it.
 
 ***
 
-#### ◾ Expanding Additional Slots
+#### ◾ Expanding Macro Action Slots
 
-If you want to set more actions than the basic slots allow,\
-you can expand your macro slots.
+Want to add more skills or Wait Icons? You can expand your **action slots**.
 
-Additional slot items can be purchased from the shops below.
+Additional slot items are available from:
 
-* XTO Shop
-* XPoint Shop
+* **XTO Shop**
+* **XPoint Shop**
 
-The more slots you have, \
-the longer and more detailed your skill order and combat flow can be.
+More action slots let you add more skills and Wait Icons to a single macro.
 
-<figure><img src="../../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1162).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ Auto Target Setting
 
-Auto Target Setting lets you choose what your hero will target during auto combat.
+Auto Target Setting lets you choose what your hero targets during auto combat.
 
-You can select from the targets below.
+Available targets are:
 
-* Monster
-* Collecting
-* PC
-* Summon
+* **Monsters**
+* **Gathering targets**
+* **Other adventurers (PC)**
+* **Summons**
 
-You can select only one target, or select multiple targets together.
+You can select **one target type or several at once**.
 
-For example,\
-if you select only Monster, your hero can focus on hunting monsters.
-
-If you select both Monster and Collecting,\
-your hero can hunt monsters and collect resources depending on the situation.
+For example, select only Monsters to focus on monster hunting.\
+Select both Monsters and Gathering targets to hunt and gather depending on the situation.
 
 <figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154456 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -142,48 +149,35 @@ your hero can hunt monsters and collect resources depending on the situation.
 
 #### ◾ Auto Hunt Range Setting
 
-Auto Hunt Range Setting lets you set how far your hero can move while hunting during auto combat.
+Auto Hunt Range Setting controls how far your hero can move while hunting during auto combat.
 
-You can choose from the ranges below.
+Available ranges are:
 
-* 20m
-* 28m
-* 36m
+* **20m**
+* **28m**
+* **36m**
 
-You cannot select multiple ranges at the same time.\
-Choose one range that fits your current hunting style.
+You can select **only one range at a time**.\
+Choose the distance that suits your hunting style.
 
-* **20m**: Good for stable hunting in a close area
-* **28m**: Good for balanced hunting in a moderate area
-* **36m**: Good for hunting across a wider area
+* **20m:** Hunt within a small, nearby area.
+* **28m:** Hunt across a medium-sized area.
+* **36m:** Hunt across a wider area.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154511.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-{% hint style="info" %}
-#### Auto Setting Tips
-
-* Auto Setting is saved separately for each hero.
-* Skills can be added and removed easily with drag and drop.
-* The Wait Icon helps you control the timing between skills.
-* Auto Target Setting allows multiple targets to be selected together.
-* Auto Hunt Range Setting allows only one range to be selected.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (1183).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ◾ Using Auto Setting
+#### ◾ Making the Most of Auto Setting
 
-With Auto Setting, you can adjust auto combat to match each hero’s role and combat style.\
-For heroes that need fast hunting, place attack skills near the front.
+Adjust Auto Setting to suit each hero’s role and combat style.
 
-For heroes that should use powerful skills more slowly, place Wait Icons between skills.
+For faster hunting, place attack skills near the start of your macro.\
+To leave a pause between powerful skills, add Wait Icons between them.
 
-You can also set auto targets and hunt range together\
-to create an auto combat flow that fits your current situation.
+Combine your skill sequence, auto targets, and hunt range to suit the situation.
 
-Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
+Find the setup that works for your hero and enjoy easier auto combat! ✨
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -194,7 +188,8 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 자동 전투를 켜고 끄는 것뿐만 아니라,\
 스킬 사용 순서, 대기 시간, 자동 타겟, 사냥 범위까지 설정할 수 있습니다.
 
-설정한 내용은 영웅마다 따로 저장되므로, 각 영웅의 전투 방식에 맞게 오토 세팅을 사용할 수 있습니다.
+설정한 내용은 영웅마다 따로 저장됩니다.\
+또한 **5개의 저장 슬롯에 서로 다른 매크로를 저장**해 두고, 필요할 때 바꿔 사용할 수 있습니다.
 
 ***
 
@@ -210,15 +205,15 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 2️⃣ **스킬 사용 설정** 화면이 열립니다.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 153822.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1180).png" alt=""><figcaption></figcaption></figure>
 
 3️⃣ 스킬 사용 설정 화면의 **우측 상단 설정 버튼**을 터치합니다.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154008.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1181).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ **매크로 설정** 화면이 열립니다.
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154126.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1182).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -255,29 +250,52 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 ***
 
+#### ◾ 매크로 저장 슬롯
+
+<figure><img src="../../.gitbook/assets/image (1184).png" alt="" width="529"><figcaption></figcaption></figure>
+
+사냥할 때와 다른 모험가와 싸울 때, 사용하는 스킬 순서를 다르게 하고 싶나요?\
+**매크로 저장 슬롯**을 이용해 보세요!
+
+매크로는 **5개의 저장 슬롯에 각각 따로 저장**할 수 있습니다.\
+자주 사용하는 스킬 순서를 저장해 두면, 매번 다시 설정할 필요 없이 바꿔 사용할 수 있습니다.
+
+예를 들어, 아래처럼 나누어 사용할 수 있습니다.
+
+* **슬롯 1:** 몬스터 사냥용
+* **슬롯 2:** 보스전용
+* **슬롯 3:** PvP용
+
+{% hint style="info" %}
+**저장 슬롯은 서로 다른 매크로를 보관하는 칸입니다.** 스킬과 대기 아이콘을 넣는 **행동 슬롯**과는 다릅니다.
+{% endhint %}
+
+***
+
 #### ◾ 대기 아이콘이란?
 
 <figure><img src="../../.gitbook/assets/image (1147).png" alt=""><figcaption></figcaption></figure>
 
 매크로 설정에서는 스킬뿐만 아니라 **대기 아이콘**도 사용할 수 있습니다.
 
-대기 아이콘은 **일시정지 모양**으로 표시됩니다.\
-이 아이콘을 슬롯에 넣으면, 영웅이 해당 순서에서 **n초 동안 기다린 뒤 다음 행동**을 진행합니다.
+대기 아이콘은 **일시정지 모양**입니다.\
+스킬 사이에 넣으면, **설정한 시간만큼 기다린 뒤 다음 행동**을 진행합니다.
 
 예를 들어, 강한 스킬을 바로 이어서 사용하지 않고 잠시 기다리게 하고 싶다면\
 스킬 사이에 대기 아이콘을 넣으면 됩니다.
 
 ***
 
-#### ◾ 추가 슬롯 확장
+#### ◾ 매크로 행동 슬롯 확장
 
-기본 제공 슬롯보다 더 많은 행동을 넣고 싶다면, 매크로 슬롯을 추가로 확장할 수 있습니다.\
+스킬이나 대기 아이콘을 더 많이 넣고 싶다면, **행동 슬롯을 추가로 늘릴 수 있습니다.**
+
 추가 슬롯 아이템은 아래 상점에서 구매할 수 있습니다.
 
 * XTO Shop
 * XPoint Shop
 
-슬롯이 많아질수록 더 긴 스킬 순서와 다양한 전투 흐름을 설정할 수 있습니다.
+행동 슬롯을 늘리면, 하나의 매크로에 더 많은 스킬과 대기 아이콘을 넣을 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
 
@@ -320,19 +338,7 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 * **28m**: 적당한 범위로 무난하게 사냥하고 싶을 때
 * **36m**: 더 넓은 범위에서 사냥하고 싶을 때
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154511.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-{% hint style="info" %}
-#### 오토 세팅 핵심 팁
-
-* 오토 세팅은 **영웅마다 따로 저장**됩니다.
-* 스킬은 **드래그 앤 드롭**으로 쉽게 넣고 뺄 수 있습니다.
-* 대기 아이콘을 사용하면 스킬 사이의 흐름을 조절할 수 있습니다.
-* 자동 타겟 설정은 **여러 항목을 함께 선택**할 수 있습니다.
-* 자동 사냥 범위 설정은 **한 가지만 선택**할 수 있습니다.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (1183).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -351,19 +357,18 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 オート設定は、自動戦闘中に英雄がどのように行動するかを決めるメニューです。
 
-自動戦闘をオン・オフするだけでなく、\
-スキルの使用順序、待機時間、自動ターゲット、狩り範囲まで設定できます。
+自動戦闘のオン・オフだけでなく、**スキルを使う順番、待機時間、自動ターゲット、狩りの範囲**も設定できます。
 
-設定した内容は英雄ごとに個別に保存されるため、\
-それぞれの英雄の戦闘スタイルに合わせてオート設定を使用できます。
+設定は英雄ごとに保存されます。\
+また、**5つの保存スロット**にそれぞれ異なるマクロを保存し、必要に応じて切り替えることができます。
 
 ***
 
-#### ◾ オート設定に入る方法
+#### ◾ オート設定の開き方
 
-オート設定は、戦闘画面からすぐに開くことができます。
+オート設定は、戦闘画面から直接開くことができます。
 
-👇 アクセス方法
+👇 次の手順で開いてください。
 
 1️⃣ 戦闘画面の**右下にあるオート設定ボタン**をタップします。
 
@@ -371,51 +376,71 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 2️⃣ **スキル使用設定**画面が開きます。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 153822.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1180).png" alt=""><figcaption></figcaption></figure>
 
-3️⃣ スキル使用設定画面の**右上にある設定ボタン**をタップします。
+3️⃣ その画面の**右上にある設定ボタン**をタップします。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154008.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1181).png" alt=""><figcaption></figcaption></figure>
 
 4️⃣ **マクロ設定**画面が開きます。
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154126.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1182).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ マクロ設定とは？
 
-マクロ設定は、自動戦闘中に使用する**スキルの順序**と**行動の流れ**を決めるメニューです。
+マクロ設定では、自動戦闘中に使う**スキルの順番や行動の流れ**を決めることができます。\
+**左側にはスロット**、**右側には使用できるスキルやアイコン**が表示されます。
 
-左側にはスキルを配置する**スロットエリア**があり、\
-右側には設定に使用できる**スキルとアイコン**が表示されます。
-
-右側にあるアイコンを左側のスロットへドラッグすると、\
-その順番でスキルや行動を設定できます。
+右側のアイコンを左側のスロットへドラッグして、使いたい順番に並べましょう。
 
 ***
 
-#### ◾ スキルの設定方法
+#### ◾ スキルの登録方法
 
-スキルはドラッグで簡単に登録できます。
+スキルは、スロットへドラッグするだけで登録できます。
 
-👇 設定方法
+👇 次の手順で設定してください。
 
-1️⃣ 右側のリストで使用するスキルを確認します。\
-2️⃣ 使用したいスキルアイコンを長押しして、左側のスロットへドラッグします。\
-3️⃣ 好きな順番でスロットに配置します。
+1️⃣ 右側の一覧から、使いたいスキルを探します。\
+2️⃣ スキルのアイコンを長押しし、左側のスロットへドラッグします。\
+3️⃣ 好きな順番にスキルを並べます。
 
-このように設定すると、自動戦闘中に英雄が\
-スロットに配置された順番でスキルを使用します。
+自動戦闘中は、スロットに並べた順番で英雄がスキルを使います。
 
 ***
 
-#### ◾ 設定したスキルの外し方
+#### ◾ 登録したスキルの外し方
 
-すでに登録したスキルも、あとから外すことができます。\
-登録済みのスキルをスロットの外へドラッグすると、そのスキルがマクロ設定から外れます。
+一度登録したスキルも、あとから外すことができます。
 
-間違えて入れてしまった場合も、簡単に整理し直せるので安心して設定できます。
+スキルをスロットの外へドラッグすると、マクロから外れます。\
+間違えて登録しても、簡単にやり直せるので安心してください！
+
+***
+
+#### ◾ マクロ保存スロット
+
+<figure><img src="../../.gitbook/assets/image (1184).png" alt="" width="529"><figcaption></figcaption></figure>
+
+モンスターを狩るときと、ほかの冒険者と戦うときで、スキルの順番を変えたいですか？\
+そんなときは、**マクロ保存スロット**を使ってみましょう！
+
+**5つの保存スロット**に、それぞれ異なるマクロを保存できます。
+
+よく使うスキルの順番を保存しておけば、毎回設定し直さずに切り替えられます。
+
+たとえば、次のように使い分けられます。
+
+* **スロット1：** モンスター狩り用
+* **スロット2：** ボス戦用
+* **スロット3：** PvP用
+
+{% hint style="info" %}
+**保存スロットは、異なるマクロを保存する場所です。** \
+スキルや待機アイコンを入れる**行動スロット**とは別のものです。
+{% endhint %}
 
 ***
 
@@ -423,98 +448,82 @@ Set Auto Setting based on each hero’s traits and enjoy smoother combat. ✨
 
 <figure><img src="../../.gitbook/assets/image (1147).png" alt=""><figcaption></figcaption></figure>
 
-マクロ設定では、スキルだけでなく**待機アイコン**も使用できます。\
-待機アイコンは**一時停止の形**で表示されます。
+マクロには、スキルだけでなく**待機アイコン**も入れることができます。
 
-このアイコンをスロットに入れると、\
-英雄がその順番で**n秒間待機したあと、次の行動**を行います。
+待機アイコンは、**一時停止マーク**の形をしています。\
+スキルの間に入れると、設定した時間だけ待ってから次の行動に進みます。
 
-例えば、\
-強力なスキルをすぐに続けて使わせたくない場合は、\
-スキルの間に待機アイコンを入れると便利です。
+たとえば、強力なスキルを使う前に少し待たせたいときは、そのスキルの前に待機アイコンを入れましょう。
 
 ***
 
-#### ◾ 追加スロットの拡張
+#### ◾ マクロ行動スロットの拡張
 
-基本スロットより多くの行動を設定したい場合は、マクロスロットを追加で拡張できます。\
-追加スロットアイテムは、以下のショップで購入できます。
+スキルや待機アイコンをもっと入れたいときは、**行動スロットを増やす**ことができます。
 
-* XTO Shop
-* XPoint Shop
+追加スロットのアイテムは、次のショップで購入できます。
 
-スロットが多くなるほど、より長いスキル順序やさまざまな戦闘の流れを設定できます。
+* **XTO Shop**
+* **XPoint Shop**
 
-<figure><img src="../../.gitbook/assets/image (1160).png" alt=""><figcaption></figcaption></figure>
+行動スロットを増やすと、1つのマクロにより多くのスキルや待機アイコンを入れられます。
 
-<figure><img src="../../.gitbook/assets/image (1161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1162).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ◾ 自動ターゲット設定
 
-自動ターゲット設定は、自動戦闘中にどの対象を目標にするかを決める機能です。\
-選択できる対象は以下の通りです。
+自動ターゲット設定では、自動戦闘中に英雄が何を狙うかを決められます。\
+選べる対象は次のとおりです。
 
-* モンスター
-* 採集
-* PC
-* 召喚獣
+* **モンスター**
+* **採集対象**
+* **ほかの冒険者（PC）**
+* **召喚獣**
 
-これらの項目は、1つだけ選ぶことも、複数まとめて選ぶこともできます。\
-例えば、モンスターだけを選ぶと、モンスター狩りに集中できます。
+対象は、**1種類だけでも、複数を同時に選んでもかまいません。**
 
-モンスターと採集を一緒に選ぶと、\
-状況に応じてモンスター狩りと採集を一緒に進めることができます。
+たとえば、モンスターだけを選ぶと、モンスター狩りに集中できます。\
+モンスターと採集対象を両方選ぶと、状況に応じて狩りと採集を行えます。
 
 <figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154456 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ◾ 自動狩り範囲設定
+#### ◾ 自動狩り範囲の設定
 
-自動狩り範囲設定は、自動戦闘中に 英雄が移動しながら狩りを行える範囲を決める機能です。\
-選択できる範囲は以下の通りです。
+自動狩り範囲の設定では、自動戦闘中に英雄が移動して狩りをする範囲を決められます。\
+選べる範囲は次のとおりです。
 
-* 20m
-* 28m
-* 36m
+* **20m**
+* **28m**
+* **36m**
 
-この設定は複数選択できず、1つだけ選択できます。\
-現在の狩りスタイルに合う距離を1つ選びましょう。
+範囲は、**同時に1つだけ選べます。**\
+自分の狩り方に合う距離を選びましょう。
 
-* **20m**：近い範囲で安定して狩りをしたいとき
-* **28m**：ほどよい範囲で無難に狩りをしたいとき
-* **36m**：より広い範囲で狩りをしたいとき
+* **20m：** 近くの狭い範囲で狩りをしたいとき
+* **28m：** ほどよい広さで狩りをしたいとき
+* **36m：** より広い範囲で狩りをしたいとき
 
-<figure><img src="../../.gitbook/assets/화면 캡처 2026-07-02 154511.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-{% hint style="info" %}
-#### オート設定のポイント
-
-* オート設定は英雄ごとに個別に保存されます。
-* スキルはドラッグ＆ドロップで簡単に入れたり外したりできます。
-* 待機アイコンを使うと、スキルの間の流れを調整できます。
-* 自動ターゲット設定は、複数の項目を一緒に選択できます。
-* 自動狩り範囲設定は、1つだけ選択できます。
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (1183).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### ◾ オート設定を活用する
+#### ◾ オート設定を使いこなそう
 
-オート設定を使うと、自動戦闘を英雄の役割や戦闘スタイルに合わせて調整できます。\
-素早い狩りが必要な英雄は、攻撃スキルを前の方に配置します。
+英雄の役割や戦い方に合わせて、自動戦闘の設定を調整しましょう。
 
-強力なスキルをゆっくり使わせたい英雄は、スキルの間に待機アイコンを入れることができます。
+素早く狩りをしたいときは、攻撃スキルをマクロの前のほうに並べます。\
+強力なスキルの間に少し時間を空けたいときは、待機アイコンを入れてみましょう。
 
-また、自動ターゲットと狩り範囲を一緒に設定すると、\
-現在のプレイ状況に合った自動戦闘の流れを作ることができます。
+スキルの順番、自動ターゲット、狩りの範囲を組み合わせると、状況に合った自動戦闘ができます。
 
-英雄の特徴に合わせてオート設定を行い、より快適に戦闘を進めてみましょう。 ✨
+英雄にぴったりの設定を見つけて、もっと快適に冒険を楽しみましょう！✨
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of July 02, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of October 14, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
