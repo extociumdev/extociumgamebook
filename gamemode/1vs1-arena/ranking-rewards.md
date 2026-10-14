@@ -38,7 +38,7 @@ If both **Trophies and total EXP** are the same, those players are assigned **th
 * **Ranking Period**: Monday 00:00 – Sunday 23:59 (KST)
 * **Reward Distribution**:\
   Rewards are sent via in-game mail based on rankings at **Sunday 23:59 (KST)**.\
-  &#xNAN;_(Once per week)_
+  _(Once per week)_
 
 ***
 

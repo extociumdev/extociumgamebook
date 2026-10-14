@@ -80,7 +80,7 @@ And so, began their endless journey to find this mysterious power of Extocium.
 
 At the very last page of the ancient book where legends were recorded, there was a small inscription of the phrase that appeared throughout the book.\
 \
-&#xNAN;**"I will return to restore Extocium for its former glory.** \
+**"I will return to restore Extocium for its former glory.** \
 **In the year of my return, this place will be stained with blood and vomit flames.** \
 **You are the immortal gods, but you will finally die,** \
 **and in your next life you will be reborn as mere trifles, yearning for Extocium."**
@@ -168,7 +168,7 @@ At the very last page of the ancient book where legends were recorded, there was
 
 전설이 기록됐던 고서의 맨 끝 페이지에는 책 중에 나오는 글귀가 다시 한 번 조그맣게 적혀있었다.\
 \
-&#xNAN;**“나는 엑스토시움의 영광을 되찾으러 돌아올 것이다.**\
+**“나는 엑스토시움의 영광을 되찾으러 돌아올 것이다.**\
 **내가 돌아오는 그 해에 이 곳은 피로 물들고 화염을 토할 것이다.**\
 **너희는 죽지 않는 신들이나 비로소 죽게 될 것이니,**\
 **다음 생에 한낱 번뇌하는 미물로 태어나 엑스토시움을 열망하게 될지어다.”**

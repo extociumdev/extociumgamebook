@@ -11,7 +11,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 <figure><img src="../../.gitbook/assets/image (1142).png" alt=""><figcaption></figcaption></figure>
 
 Runebreaker’s Worktable is a **special worktable** that allows you to unlock\
-&#xNAN;**\[Locked] NFT weapons and orbs** obtained through field hunting,\
+**\[Locked] NFT weapons and orbs** obtained through field hunting,\
 making them fully usable equipment.
 
 The Worktable is located **inside My Home**, and\

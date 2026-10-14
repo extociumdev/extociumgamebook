@@ -155,7 +155,7 @@ EXTOCIUM의 다양한 콘텐츠를 골고루 플레이하도록 돕는 주간 �
 <figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113456 (1).png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ メニューが開いたら、\
-&#xNAN;**［週間クエスト］** を選択すると 週間スワップクエストの一覧が表示されます。
+**［週間クエスト］** を選択すると 週間スワップクエストの一覧が表示されます。
 
 <figure><img src="../.gitbook/assets/화면 캡처 2026-06-08 113855.png" alt=""><figcaption></figcaption></figure>
 

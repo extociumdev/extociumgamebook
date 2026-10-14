@@ -365,7 +365,7 @@ EXPボーナスや専用バフ効果を受けることができます。
 <figure><img src="../.gitbook/assets/p2.png" alt=""><figcaption></figcaption></figure>
 
 パーティー申請を受け取りたくない場合は、パーティーウィジェット下部の\
-&#xNAN;**「パーティー申請」トグルボタン** をOFFに設定してください。
+**「パーティー申請」トグルボタン** をOFFに設定してください。
 
 <figure><img src="../.gitbook/assets/p3.png" alt=""><figcaption></figcaption></figure>
 

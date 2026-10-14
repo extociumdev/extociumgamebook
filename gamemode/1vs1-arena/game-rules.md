@@ -173,7 +173,7 @@ If no suitable opponent is found, a **bot match** will be initiated automaticall
   * HP 포션: 5개
   * 소환수 HP 포션: 5개
   * MP 포션: 20개\
-    &#xNAN;_(포션 등급과 관계없이 동일 적용)_
+    _(포션 등급과 관계없이 동일 적용)_
 * **MP 소모 감소**
   * 아레나에서는 **스킬 사용 시 MP 소모량이 20% 감소**합니다.
 

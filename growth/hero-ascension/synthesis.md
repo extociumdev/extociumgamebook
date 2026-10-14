@@ -107,7 +107,7 @@ As a result of synthesis, Hero #2489’s base stat increased from **15 → 16.**
 ### ◾ Synthesis Rules and Materials
 
 You can check the required steps and materials for Hero Synthesis in the table below.\
-&#xNAN;_&#x41; Hero’s base stat can be upgraded up to a maximum of 21._
+_&#x41; Hero’s base stat can be upgraded up to a maximum of 21._
 
 <table><thead><tr><th width="148">Grade</th><th>Required Materials</th><th>Additional Materials</th></tr></thead><tbody><tr><td>15 ▶️16</td><td>Base Stat 15 - 1 Hero NFT</td><td>8.88 million gold</td></tr><tr><td>16▶️17</td><td>Base Stat 16 - 1 Hero NFT</td><td>8.88 million gold</td></tr><tr><td>17▶️18</td><td>Base Stat 17 - 1 Hero NFT</td><td>8.88 million gold</td></tr><tr><td>18▶️19</td><td>Base Stat 18 - 1 Hero NFT</td><td>8.88 million gold</td></tr><tr><td>19▶️20</td><td>Base Stat 19 - 1 Hero NFT</td><td>8.88 million gold</td></tr><tr><td>20▶️21</td><td>Base Stat 20 - 1 Hero NFT</td><td>8.88 million gold, <br>10 Breath of God</td></tr></tbody></table>
 {% endtab %}
@@ -179,7 +179,7 @@ EXTOCIUM의 모든 영웅 NFT에는 [**베이스 스탯**](../heroes/basic-heroe
 #### 합성 진행 방법
 
 * 1번 슬롯을 터치하면 합성이 가능한 영웅 NFT 목록이 표시됩니다.\
-  &#xNAN;**\[선택]** 버튼을 터치하여 합성 주체를 선택하세요.
+  **\[선택]** 버튼을 터치하여 합성 주체를 선택하세요.
 
 <figure><img src="../../.gitbook/assets/gk4 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -211,7 +211,7 @@ EXTOCIUM의 모든 영웅 NFT에는 [**베이스 스탯**](../heroes/basic-heroe
 ### ◾ 합성 규칙 및 재료
 
 영웅 합성에 필요한 단계와 재료는 아래 도표를 통해 확인할 수 있습니다.\
-&#xNAN;_&#xC601;웅의 베이스 스탯은 **최대 21까지** 업그레이드할 수 있습니다._
+_&#xC601;웅의 베이스 스탯은 **최대 21까지** 업그레이드할 수 있습니다._
 
 <table><thead><tr><th width="148">등급</th><th>필요 재료</th><th>부가 재료</th></tr></thead><tbody><tr><td>15 ▶️16</td><td>Base Stat 15 - Hero NFT 1종</td><td>888만 골드</td></tr><tr><td>16▶️17</td><td>Base Stat 16 - Hero NFT 1종</td><td>888만 골드</td></tr><tr><td>17▶️18</td><td>Base Stat 17 - Hero NFT 1종</td><td>888만 골드</td></tr><tr><td>18▶️19</td><td>Base Stat 18 - Hero NFT 1종</td><td>888만 골드</td></tr><tr><td>19▶️20</td><td>Base Stat 19 - Hero NFT 1종</td><td>888만 골드</td></tr><tr><td>20▶️21</td><td>Base Stat 20 - Hero NFT 1종</td><td>888만 골드, 신의 숨결 10개</td></tr></tbody></table>
 {% endtab %}

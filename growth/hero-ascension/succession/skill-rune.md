@@ -40,7 +40,7 @@ In this case, no indicator may appear above the target.
 
 Skill Runes are managed separately from general items.\
 Obtained Skill Runes are stored in the **Rune** **category** of the Inventory.\
-&#xNAN;_&#x53;kill Runes are not dropped upon PK death._
+_&#x53;kill Runes are not dropped upon PK death._
 
 <figure><img src="../../../.gitbook/assets/sr1.png" alt=""><figcaption></figcaption></figure>
 
@@ -121,7 +121,7 @@ the item acquisition probabilities can be checked in the table below.
 
 스킬 룬은 일반 아이템과 분리되어 관리됩니다.\
 획득한 스킬 룬은 인벤토리의 **룬 카테고리**에 저장됩니다.\
-&#xNAN;_&#xC2A4;킬 룬은 PK 사망 시에도 드롭되지 않습니다._
+_&#xC2A4;킬 룬은 PK 사망 시에도 드롭되지 않습니다._
 
 <figure><img src="../../../.gitbook/assets/sr1.png" alt=""><figcaption></figcaption></figure>
 

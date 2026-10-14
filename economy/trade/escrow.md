@@ -50,7 +50,7 @@ Escrow trades proceed in the following order:
 3️⃣ Select the equipment to send. \
 4️⃣ Enter the trading partner’s **in-game nickname** accurately.\
 5️⃣ Enter the amount you wish to request.\
-&#xNAN;_※ For NFT equipment, the currency unit will automatically switch to BNB._
+_※ For NFT equipment, the currency unit will automatically switch to BNB._
 
 <figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142037.png" alt=""><figcaption></figcaption></figure>
 
@@ -158,7 +158,7 @@ You can obtain an Equipment Trade Ticket using the methods below.
 3️⃣ 보낼 **장비**를 선택합니다. \
 4️⃣ 거래할 상대의 **게임 닉네임을 정확히 입력**합니다.\
 5️⃣ 요청할 **대금**을 입력합니다.\
-&#xNAN;_※ NFT 장비인 경우 단위가 자동으로 BNB로 전환됩니다._
+_※ NFT 장비인 경우 단위가 자동으로 BNB로 전환됩니다._
 
 <figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142037.png" alt=""><figcaption></figcaption></figure>
 
@@ -173,7 +173,7 @@ You can obtain an Equipment Trade Ticket using the methods below.
 
 에스크로 대금 요청 우편은 **24시간 동안 유효**합니다.\
 24시간이 지나면 우편은 자동으로 삭제됩니다.\
-&#xNAN;**※ 거래 전, 상대방과 미리 협의하는 것을 권장합니다.**
+**※ 거래 전, 상대방과 미리 협의하는 것을 권장합니다.**
 {% endhint %}
 
 ***
@@ -263,7 +263,7 @@ You can obtain an Equipment Trade Ticket using the methods below.
 3️⃣ 送信する**装備**を選択します。\
 4️⃣ 取引相手の**ゲーム内ニックネーム**を正確に入力します。\
 5️⃣ 請求する**金額**を入力します。\
-&#xNAN;_※NFT装備の場合、単位は自動的にBNBに切り替わります。_
+_※NFT装備の場合、単位は自動的にBNBに切り替わります。_
 
 <figure><img src="../../.gitbook/assets/화면 캡처 2026-06-15 142037.png" alt=""><figcaption></figcaption></figure>
 

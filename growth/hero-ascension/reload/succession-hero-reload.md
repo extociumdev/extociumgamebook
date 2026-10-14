@@ -66,11 +66,11 @@ Accordingly, the Hero’s stats and SP are also maintained.
 
 The materials required for each Reload type can be checked below.
 
-| Normal                                                 | Special                                                          | Rune Slot                                                          |
-| ------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <p>1 Legendary Elixirs<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Special Reload<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Rune Slot Reload<br>(Purchase from XTO Shop)</p> |
-| 5 Crystals of Patience                                 |                                                                  |                                                                    |
-| 4.8M Gold                                              |                                                                  |                                                                    |
+| Normal                                                | Special                                                          | Rune Slot                                                          |
+| ----------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| <p>1 Legendary Scroll<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Special Reload<br>(Purchase from XTO Shop)</p> | <p>1 Succession - Rune Slot Reload<br>(Purchase from XTO Shop)</p> |
+| Broken Power x 30                                     |                                                                  |                                                                    |
+| 10,000 Gold                                           |                                                                  |                                                                    |
 
 
 {% endtab %}
@@ -133,9 +133,9 @@ The materials required for each Reload type can be checked below.
 
 | 일반                                  | 스페셜                                     | 룬 슬롯                                    |
 | ----------------------------------- | --------------------------------------- | --------------------------------------- |
-| <p>전설의 엘릭서 x 1<br>( XTO 상점 구매 )</p> | <p>계승 - 스페셜 리로드 x1<br>( XTO 상점 구매 )</p> | <p>계승 - 룬슬롯 리로드 x1<br>( XTO 상점 구매 )</p> |
-| 인내의 결정 x 5                          |                                         |                                         |
-| 480만 골드                             |                                         |                                         |
+| <p>전설의 주문서 x 1<br>( XTO 상점 구매 )</p> | <p>계승 - 스페셜 리로드 x1<br>( XTO 상점 구매 )</p> | <p>계승 - 룬슬롯 리로드 x1<br>( XTO 상점 구매 )</p> |
+| 부서진 힘 x 30                          |                                         |                                         |
+| 10,000 골드                           |                                         |                                         |
 
 
 {% endtab %}
@@ -167,7 +167,7 @@ The materials required for each Reload type can be checked below.
 ### ◾ 継承ヒーローリロード進行方法
 
 レラヘルと会話すると、\
-&#xNAN;**\[ヒーローリロード]** と **\[継承ヒーローリロード]** の いずれかを選択できます。
+**\[ヒーローリロード]** と **\[継承ヒーローリロード]** の いずれかを選択できます。
 
 <figure><img src="../../../.gitbook/assets/hr3.png" alt=""><figcaption></figcaption></figure>
 
@@ -201,14 +201,14 @@ The materials required for each Reload type can be checked below.
 
 各リロード方式に必要な素材は、以下の内容から確認できます。
 
-| 通常                       | スペシャル                          | ルーンスロット                          |
-| ------------------------ | ------------------------------ | -------------------------------- |
-| 伝説のエリクサー x1 (XTOショップで購入) | 継承 - スペシャルリロード x1 (XTOショップで購入) | 継承 - ルーンスロットリロード x1 (XTOショップで購入) |
-| 忍耐の結晶 x5                 |                                |                                  |
-| 480万ゴールド                 |                                |                                  |
+| 通常                      | スペシャル                          | ルーンスロット                          |
+| ----------------------- | ------------------------------ | -------------------------------- |
+| 伝説の呪文書ー x1 (XTOショップで購入) | 継承 - スペシャルリロード x1 (XTOショップで購入) | 継承 - ルーンスロットリロード x1 (XTOショップで購入) |
+| 壊れた力 x 30               |                                |                                  |
+| 10,000 ゴールド             |                                |                                  |
 
 
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 6, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of October 14, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

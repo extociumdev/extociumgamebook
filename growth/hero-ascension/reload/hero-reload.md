@@ -67,8 +67,8 @@ The materials required for each Reload type can be checked below.
 | Normal                                                   | Special                                                    |
 | -------------------------------------------------------- | ---------------------------------------------------------- |
 | <p>Legendary Scrolls x 1<br>(Purchase from XTO Shop)</p> | <p>1 Hero - Special Reload<br>(Purchase from XTO Shop)</p> |
-| Broken Power x 10                                        |                                                            |
-| 4.8M Gold                                                |                                                            |
+| Broken Power x 20                                        |                                                            |
+| 5,000 Gold                                               |                                                            |
 {% endtab %}
 
 {% tab title="한국어" %}
@@ -129,8 +129,8 @@ The materials required for each Reload type can be checked below.
 | 일반                                  | 스페셜                                     |
 | ----------------------------------- | --------------------------------------- |
 | <p>전설의 주문서 x 1<br>( XTO 상점 구매 )</p> | <p>영웅 - 스페셜 리로드 x1<br>( XTO 상점 구매 )</p> |
-| 부서진 힘 x10                           |                                         |
-| 480만 골드                             |                                         |
+| 부서진 힘 x20                           |                                         |
+| 5,000 골드                            |                                         |
 
 
 {% endtab %}
@@ -159,7 +159,7 @@ The materials required for each Reload type can be checked below.
 ### ◾ ヒーローリロード進行方法
 
 レラヘルと会話すると、\
-&#xNAN;**\[ヒーローリロード]** &#x3068;**\[継承ヒーローリロード]** の いずれかを選択できます。
+**\[ヒーローリロード]** &#x3068;**\[継承ヒーローリロード]** の いずれかを選択できます。
 
 <figure><img src="../../../.gitbook/assets/hr2 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -197,11 +197,11 @@ The materials required for each Reload type can be checked below.
 | 通常                               | スペシャル                                       |
 | -------------------------------- | ------------------------------------------- |
 | <p>伝説の書 x 1 <br>(XTOショップで購入)</p> | <p>ヒーロー - スペシャルリロード x1 <br>(XTOショップで購入)</p> |
-| 壊れた力 x 10                        |                                             |
-| 480万ゴールド                         |                                             |
+| 壊れた力 x 20                        |                                             |
+| 5,000ゴールド                        |                                             |
 
 
 {% endtab %}
 {% endtabs %}
 
-<p align="right"><sup><em>※ This guide was written based on the game status as of January 6, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>
+<p align="right"><sup><em>※ This guide was written based on the game status as of October 14, 2026,</em></sup> <br><sup><em>and its contents may change with future updates.</em></sup></p>

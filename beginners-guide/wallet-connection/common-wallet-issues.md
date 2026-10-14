@@ -124,7 +124,7 @@ MetaMask allows you to adjust fees in three levels on the confirmation screen.
 MetaMask automatically sets an appropriate gas limit for most transactions.
 
 Lowering it too much may cause the transaction to fail with\
-&#xNAN;**“Out of gas.”**
+**“Out of gas.”**
 {% endhint %}
 
 ***
@@ -467,7 +467,7 @@ MetaMaskは通常、\
 適切なガスリミットを自動設定します。
 
 下げすぎると\
-&#xNAN;**「Out of gas」** エラーで失敗する可能性があります。
+**「Out of gas」** エラーで失敗する可能性があります。
 {% endhint %}
 
 ***

@@ -245,7 +245,7 @@ EXTOCIUM은\
 <figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure>
 
 2️⃣ 화면 상단에 표시된 **네트워크 이름 영역**을 터치합니다.\
-&#xNAN;_(예: Ethereum, BNB Chain 등)_
+_(예: Ethereum, BNB Chain 등)_
 
 <figure><img src="../../../.gitbook/assets/image (11) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
@@ -300,7 +300,7 @@ BNB Smart Chain 설정이 정상적으로 완료된 상태입니다.
 
 1️⃣ 트러스트 월렛 앱을 실행합니다.\
 2️⃣ 메인 화면에서 **`Manage Crypto`** 버튼을 선택합니다.\
-&#xNAN;_(토큰 목록 화면 하단 또는 중간에 표시됩니다.)_\
+_(토큰 목록 화면 하단 또는 중간에 표시됩니다.)_\
 3️⃣ **Manage Crypto(가상자산 관리)** 화면에서 등록 가능한 네트워크와 토큰 목록이 표시됩니다.
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>

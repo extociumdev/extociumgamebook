@@ -344,7 +344,7 @@ XTOは **PancakeSwap** を通じて、\
 <figure><img src="../../../.gitbook/assets/pan2.png" alt=""><figcaption></figcaption></figure>
 
 👉 接続確認ポップアップが表示されたら、\
-&#xNAN;**`Connect`**&#x3092;タップして接続を完了してください。
+**`Connect`**&#x3092;タップして接続を完了してください。
 
 <figure><img src="../../../.gitbook/assets/pan3.png" alt="" width="286"><figcaption></figcaption></figure>
 

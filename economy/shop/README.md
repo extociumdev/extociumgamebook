@@ -64,8 +64,8 @@ Use the menus below to navigate to each Shop and related content.
 * **Skin Info**\
   👇 View detailed information on currently available skins
 
-{% content-ref url="skin-info.md" %}
-[skin-info.md](skin-info.md)
+{% content-ref url="boutique/skin-info.md" %}
+[skin-info.md](boutique/skin-info.md)
 {% endcontent-ref %}
 
 * **Asset Rental**\
@@ -136,8 +136,8 @@ Detailed information for each menu can be found on its respective guide page.
 * **Skin Info**\
   👇 현재 판매 중인 스킨의 상세 정보 확인
 
-{% content-ref url="skin-info.md" %}
-[skin-info.md](skin-info.md)
+{% content-ref url="boutique/skin-info.md" %}
+[skin-info.md](boutique/skin-info.md)
 {% endcontent-ref %}
 
 * **Asset Rental**\
@@ -212,8 +212,8 @@ Detailed information for each menu can be found on its respective guide page.
 * **スキン情報（Skin Info）**\
   👇 現在販売中のスキンの詳細情報を確認
 
-{% content-ref url="skin-info.md" %}
-[skin-info.md](skin-info.md)
+{% content-ref url="boutique/skin-info.md" %}
+[skin-info.md](boutique/skin-info.md)
 {% endcontent-ref %}
 
 * **アセットレンタル（Asset Rental）**\

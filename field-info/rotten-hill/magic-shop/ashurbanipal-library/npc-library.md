@@ -6,7 +6,7 @@ description: 🛑 Information on this page may differ from the current in-game d
 
 <figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_01.png" alt="" width="205"><figcaption></figcaption></figure>
 
-## �&#xDFE2;_&#x54;he Gatekeeper of Succession_
+## &#x1F7E2;_&#x54;he Gatekeeper of Succession_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -70,7 +70,7 @@ Seheiah will open the path forward.
 
 <figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_06.png" alt="" width="205"><figcaption></figcaption></figure>
 
-## �&#xDFE2;_&#x54;he Weaver of Synthesis_
+## &#x1F7E2;_&#x54;he Weaver of Synthesis_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -136,7 +136,7 @@ If you want to take your heroes to the next level, Chavakiah is the one to visit
 
 <figure><img src="../../../../.gitbook/assets/KakaoTalk_20230824_120313487_10.png" alt="" width="205"><figcaption></figcaption></figure>
 
-## �&#xDFE2;_&#x54;he Keeper of Rebirth_
+## &#x1F7E2;_&#x54;he Keeper of Rebirth_
 
 {% tabs %}
 {% tab title="ENG" %}
@@ -212,7 +212,7 @@ Lelahel is the one to seek.
 
 <figure><img src="../../../../.gitbook/assets/NPC_Omael.png" alt="" width="205"><figcaption></figcaption></figure>
 
-## �&#xDFE2;_&#x54;he Rune Craftsman_
+## &#x1F7E2;_&#x54;he Rune Craftsman_
 
 {% tabs %}
 {% tab title="ENG" %}

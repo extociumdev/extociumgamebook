@@ -111,7 +111,7 @@ The purchased BNB will be stored in your **GCrypto Trading Wallet**.
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 3️⃣ Review the details and agree to the\
-&#xNAN;**“irreversible transaction”** notice, then tap **Send**
+**“irreversible transaction”** notice, then tap **Send**
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
 
@@ -394,7 +394,7 @@ GCryptoからウォレットへ送金（Send）する際、\
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="259"><figcaption></figcaption></figure>
 
 3️⃣ 内容を確認し、\
-&#xNAN;**「取り消し不可」** の案内に同意して **Send**
+**「取り消し不可」** の案内に同意して **Send**
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="260"><figcaption></figcaption></figure>
 

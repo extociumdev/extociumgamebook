@@ -9,7 +9,7 @@ icon: arrow-up-z-a
 
 
 If the MetaMask mobile app shows only \
-&#xNAN;**\[Review]** and does not proceed when sending an NFT,\
+**\[Review]** and does not proceed when sending an NFT,\
 send it via **MetaMask Chrome Extension on PC** as a workaround.<br>
 
 * Install the **MetaMask Chrome extension** from the official website:

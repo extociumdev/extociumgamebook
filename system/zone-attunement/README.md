@@ -48,7 +48,7 @@ based on the **highest equipment Grade currently equipped**.
 #### 📘 Standard Equipment Grade by Field
 
 Each field has a **standard equipment Grade** used for Zone Attunement.\
-&#xNAN;_※ You can check the standard Grade for each field_ \
+_※ You can check the standard Grade for each field_ \
 _in the **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-field)_**]** below._
 
 ***
@@ -137,7 +137,7 @@ can be checked in the **\[**[**Scaling Data by Field**](./#scaling-data-by-field
 #### 📘 필드별 기준 장비 등급
 
 각 필드에는 영역 교감에 적용되는 **기준 장비 등급**이 존재합니다.\
-&#xNAN;_※ 필드별 기준 장비 등급은_\
+_※ 필드별 기준 장비 등급은_\
 _아래의 **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-field)_**]** 표를 통해 확인할 수 있습니다._
 
 ***
@@ -226,7 +226,7 @@ _아래의 **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-
 #### 📘 フィールド別 基準装備グレード
 
 各フィールドには、エリア同調に使用される**基準装備グレード**が設定されています。\
-&#xNAN;_※ フィールドごとの基準装備グレードは、_\
+_※ フィールドごとの基準装備グレードは、_\
 _下記の **\[**_[_**Standard Grade Table by Field**_](./#standard-grade-table-by-field)_**]** 表をご確認ください。_
 
 ***
